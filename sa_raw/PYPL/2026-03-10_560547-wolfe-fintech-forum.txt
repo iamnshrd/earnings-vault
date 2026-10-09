@@ -1,0 +1,356 @@
+TITLE: Wolfe FinTech Forum
+DATE: 2026-03-10
+## Jamie Miller | CFO and COO, PayPal
+Consumers and our merchants. When you just look across our results, we had really good diversified sources of margin growth. We had Venmo better monetizing, growing at 20%.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yep.
+## Jamie Miller | CFO and COO, PayPal
+We also re-accelerated our processing business margin as well, and we've just seen really nice acceleration across a number of different parts of the portfolio. I think one real highlight we had was initiating a dividend in October.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yep.
+## Jamie Miller | CFO and COO, PayPal
+which from our perspective, when we really focus on capital return, reflects our strong balance sheet, but also our confidence in our free cash flow. When you look at putting it all together, 2025, we had mid-teens earnings per share growth. We had 6% transaction margin dollar growth.
+Really on the backs of diversifying sources of margin growth. I know there's a lot of focus in the company on branded checkout, but I think it's really important to note that between Venmo, PSP, and value-added services.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yep.
+## Jamie Miller | CFO and COO, PayPal
+small business, buy now, pay later, we had a really nice diversification. In terms of how we grew profit in the company, which was great. You know, you look at 2025, we also had a lot of learnings. Branded checkout, you know, our growth decelerated in the second half of the year, and I think that a lot of what we really learned was we've been very focused on scaling across the whole portfolio our new experiences and a lot of other different things, and we need to take a much more targeted and approach to be able to scale that.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Sure.
+## Jamie Miller | CFO and COO, PayPal
+That's really part of our pivot. When you look at 2026, I'd say the biggest thing is focus and execution. As Enrique comes in, looking across that, I think breaking that down into the different components of what we need to execute, that is really what we're staring straight at right now.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. Just so really execution and moving faster.
+## Jamie Miller | CFO and COO, PayPal
+Absolutely.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+more intensely on some of your areas. I mean, on that note, you know, obviously that change and the new CEO and Enrique coming in, I mean, help us understand what you think the key focus will be for him, what he brings from his prior experiences that are really gonna be applicable this year and going forward for PayPal?
+## Jamie Miller | CFO and COO, PayPal
+Yeah. Enrique started last Monday. He's out doing his listening tour with investors right now. I think you met with him.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+We did. Yeah.
+## Jamie Miller | CFO and COO, PayPal
+yesterday. Yeah.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+Enrique has a track record of not only being an innovator, but really importantly, being just a disciplined operating leader.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yep.
+## Jamie Miller | CFO and COO, PayPal
+Coming into PayPal, he's gonna bring three key things to us that are gonna be really important. The first is faster decision-making, the second is a greater focus on prioritization, and the third is really bringing that discipline around our execution. You know, he's been on our board for five years. He was the board chairman for the last year. When you look at that, he's got a really good base. I can tell you just sitting side by side with him over the last eight or nine days, he's hitting the ground running. He's seeing things very clearly. He's very clearly bringing it back to a structured and methodical approach, and I think that's exactly what we need right now. We have a lot of innovation in flight.
+What we've gotta do is really capture that, bring it down, prioritize it, and really execute it.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. Jamie, we're gonna go into growth and the underlying drivers of the business, but first I wanna talk about this sort of strategic overview of the company for a moment. You know, if you think about PayPal Open and really one PayPal, right? The ability to cross-sell all the different offerings and have a single integration, that was a big theme at your Investor Day, right? First, just help us understand how that's going and really what you see as the opportunity of all the assets staying together and how it's benefiting your customers.
+## Jamie Miller | CFO and COO, PayPal
+Sure. PayPal Open is our view that, you know, bringing a varied level of services across the commerce space to our merchants.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yep.
+## Jamie Miller | CFO and COO, PayPal
+Really makes us an invaluable partner. You look at where we play, you know, around processing, around value-added services, around branded checkout, around buy now, pay later, bringing a very large consumer base to tens of millions of merchants, having that be a single integration point and a single access point for our merchants really makes us a very, very important partner at the table with them. When we do that, when we become indispensable like that, we grow ARPA, we grow monetization, and it's just a really good win-win.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Sure.
+## Jamie Miller | CFO and COO, PayPal
+equation for us. PayPal Open is really us pulling that all together and having one way we talk about it, one way people access it, which I think has been really important. But when you talk about the businesses and how they work together, so I really believe that the most important way to drive value creation is to focus on organic growth, and that's exactly how we think about the integration across between processing with Venmo and branded checkout. That's how we run the business. When you look at each of those, they've had really strong, like, notable points of success, but you also look at each of them, and they also have really strong, ample opportunity for growth.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+When you drill down into those, whether it's the continued growth internationally for PSP or with value-added services, when you look at Venmo, we are just getting started with respect to Venmo ARPA and penetration and monetization. When you look at comps out there, ways we can do that in a much bigger way, all the way across to branded checkout, which, in many ways, branded checkout, I think we really understand the equation right now.
+Around experience, presentment, and selection, and the integration back with Venmo or with buy now, pay later, but it's really about running the play. We have thought about this, and we're investing in this, you know, as an integrated platform. When you look at it does have some levels of shared infrastructure. By and large, you know, when we work with merchants, you know, they wanna work across all of it.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Well, I guess so conversely, it seems like there is an opportunity to cross-sell appropriately and you know, obviously a benefit of having synergies between the businesses, but obviously we always get a lot of questions over the potential to divest certain assets, separate assets where the market probably is underappreciating the value of your assets. Maybe you could just talk to that conceptually for a minute. Do Braintree and PSP more broadly need to be connected to the branded business, or do you think they could operate separately?
+## Jamie Miller | CFO and COO, PayPal
+Listen, I think that we think about it as an integrated platform. We go to market with merchants and have the full suite of conversations. You can look at competitors, you know, outside of us and see that they have done that very successfully in terms of being solely focused-
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yep.
+## Jamie Miller | CFO and COO, PayPal
+-on PSP and VAS, so you know, I think you could look at it either way. From our perspective, the richness and the depth of the conversation with merchants right now is what we're focused on.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay, it sounds like you still appreciate the assets being able to be applied both together for merchants. Is that what you're trying to say or?
+## Jamie Miller | CFO and COO, PayPal
+Yeah, right now we think that we've got ample opportunity in front of us to invest organically and grow these and create value over time. You know, our board, of course, looks at different ways to maximize value, but our strategy is to run this as an integrated play.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. All right. Let's touch on guidance. I mean, 2026, you're guiding to roughly flat transaction margin dollar growth rates, you know, excluding interest on customer balances. Just frame the puts and takes for the top line for a moment in terms of growth this year. I know you discussed some of the growth investments you're making in the business offsetting what otherwise would be probably slightly faster transaction profit growth. Help us frame.
+## Jamie Miller | CFO and COO, PayPal
+Sure.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+The outlook, please.
+## Jamie Miller | CFO and COO, PayPal
+Transaction margin dollar growth in total, slightly negative ex interest on customer balances, you know, roughly flat. The real puts and takes in that are first, you know, interest rates, they have declined in 2025. We expect them to go down a bit in 2026, we've got 1-2 points of deceleration just purely from interest rate reduction. The second piece is the investment bucket you mentioned, about three points of investments in 2026. We talked about this in February on our earnings call. We plan to invest about $400 million this year, really across branded checkout. That's about two-thirds of it, and about a third across Agentic and Venmo Stash.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yep.
+## Jamie Miller | CFO and COO, PayPal
+That's about 3 points of reduction of transaction margin dollar growth. We expect credit to be, you know, a little bit lower in terms of its contribution this year versus last year. We've talked also about branded checkout just in terms of pure volume growth this year. We expect that to be lower than last year as well, so that also fits in there to bring you back to where I talked about that slightly negative or ex interest, roughly flat. You know, with respect to the investments, one thing that is important to note is that we've looked at ROI on this over a two to three -year timeframe, and so when we've planned for this, we really have not baked in, you know, the benefit of any of that into the 2026 guide.
+When you look at that's another element there. When you look at the investments, what they're for, how we're focused on them, it's really about investing in the foundation, investing with our merchants, and really bringing more durability.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+to branded checkout over time.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right. Usually, you'd have more operating leverage in this year, right?
+## Jamie Miller | CFO and COO, PayPal
+Absolutely.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+faster transaction
+## Jamie Miller | CFO and COO, PayPal
+You saw it in 2025.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+Yeah.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+In this case, you're really spending time to invest in the underlying business, which is going into your gross profit or transaction profit growth.
+## Jamie Miller | CFO and COO, PayPal
+That's right.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+your operating expenses, right?
+## Jamie Miller | CFO and COO, PayPal
+Yep.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+How do we think about your normal run rate of investments, though? I think that's a question we're all trying to figure out is, does PayPal have to invest at this level to keep its growth up at all, or is this more of a one-time reboost for the year, and then we're gonna be off to more operating leverage again in 2027?
+## Jamie Miller | CFO and COO, PayPal
+I think the reality is, we will have some level of investment likely around this level, going into the next few years/multi-year. You know, the competitive intensity has grown over the last couple of years. We know that to win with our merchants, we really need to co-invest with them, and we see that in a lot of different ways, whether it's really integrating buy now, pay later for them upstream, whether it is, co-developing with them in different ways around.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+onboarding. There's lots of different ways, especially with the mega and large merchants, that to really win, you know, it's a different game with them, and each of them want different things. The investment really goes across a number of different areas. I think the reality is this is something that will continue over time to really reinforce the durability and the partnerships of it.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay, could we get back to operating leverage again?
+## Jamie Miller | CFO and COO, PayPal
+Absolutely. Because once we absorb this, you know, we will start to grow off of these investments over the next.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay.
+## Jamie Miller | CFO and COO, PayPal
+Couple of years. You saw you know, you take 2025 as an example, we had nice contribution to transaction margin dollar growth from branded checkout. When we are holding OpEx constant and just sort of harvesting and remixing what we're using it for, we get really nice leverage across the stack.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+All right. Jamie, you probably have underappreciated assets in Braintree and other PSP and Venmo, but Venmo's in branded. I wanna touch on branded, even though it's, you know, it's one aspect of the business that still drives, we estimate, over 50% of gross profit, right? If we just start there, I mean, the business or the branded volume growth rate was about 1% in Q4. You noted impacts from U.S. retail weakness or international headwinds. Maybe just touch on how you see them progressing and these factors progressing throughout 2026? If you could just highlight any geographic variances you're seeing in branded performance now as well.
+## Jamie Miller | CFO and COO, PayPal
+Sure. As you mentioned, fourth quarter, we had branded checkout growth of 1%, which was a deceleration from the third quarter. There were three main factors that contributed to that. The first is U.S. retail.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+There's a couple elements there. One is just pure macro. You know, we've talked a lot about, you know, macro deceleration and really a K-shaped economy sort of effect.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+You know, PayPal consumers tend to be, you know, middle income, mainstream America, some skew lower income. When you start to look at the disparity in terms of where people are spending less and where people are spending more, you know, we are feeling that come through. You know, globally, we're still 50% retail, and that, you know, percentage is about the same in the U.S. That was certainly a factor. The second was slowing international and in Germany, slowing growth across different geographic elements of our portfolio. Some of that is also macro. Some of it is also just, you know, deeper competitive intensity.
+A lot of the things we're investing in the U.S. and have been are things we've been bringing to Europe over the past six months and are leaning in even more so as we get into 2026. The third factor was tougher comps. Fourth quarter last year, we had a real strength in travel and ticketing, in crypto, in gaming, and those just didn't repeat at the same levels this year. The other thing I would say underpinned it was just our execution. We had some notable highlights, but we also had many places where we didn't execute the way we needed to across branded-
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+In the fourth quarter. When you get into 2026, all of these are focus areas. Maybe I'd start with quarter to date. You know, I mentioned on the earnings call that we were seeing branded checkout be slightly better in January, and I would say it's been pretty consistent since then. You know, a little bit better, not hugely better, but.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Just slightly better than the 1% ballpark.
+## Jamie Miller | CFO and COO, PayPal
+Slightly better than the 1%. When you get into 2026, we're really focused around bringing the latest merchant experience, really making sure our consumers have frictionless experience as they go, getting to buy now, pay later, having that be upstream with presentment, and then investing in things like loyalty and other areas like co-marketing to make sure that we're bringing the whole equation back to branded checkout.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. Those are the areas you're hoping to see that's gonna hopefully play out with some element of acceleration maybe later in the year to next year.
+## Jamie Miller | CFO and COO, PayPal
+Right.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+For this year, you're still calling for that.
+## Jamie Miller | CFO and COO, PayPal
+Yep.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Lower single digit type profile, right?
+## Jamie Miller | CFO and COO, PayPal
+Yeah.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. Maybe we shift gears a little bit to agentic commerce. PayPal's been vocal around opportunities, seeing both in agentic commerce and then utilizing AI. Let's start with agentic commerce. If you could just discuss the role that PayPal's been playing here first.
+## Jamie Miller | CFO and COO, PayPal
+Yeah. Agentic is a real fundamental shift and/or will be over time in terms of how merchants and consumers can interact with each other with respect to commerce. It's really important to us that we're a first mover, that we really are in the middle of the action as we do it. We've been focused on two main areas. The first is being the trusted orchestration layer.
+For merchants, as they link into LLMs. The second is bringing commerce infrastructure to bear. You know, PayPal brings some really important strengths to the table here and really notable differentiators. You know, one is identity, authentication, fraud, and then also a really seamless ability to transact cross-border with all of the regulatory, all of the foreign exchange, all the different compliance elements of what you have to do there. When you're an LLM, all of these things, you don't have to build those capabilities.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+The single orchestration layer means you can seamlessly connect to tens of millions of merchants almost overnight, and they take away the real scaling problem and the build problem, and you can go, you know, from a cold start to something that you can really work with very, very quickly. I think that is very appealing, and we're working across a number of different players right now, whether that's Microsoft, Perplexity, Google, OpenAI. Then we bring 400 million consumers as well. The whole equation is what we're really focused on, making sure that we can not only get in and invest and demonstrate, you know, the examples of what we're doing, but then building that out at a more scaled level, and as we move through the next year or two, having that be something we can build upon.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. What kinda timeline do you see on any of the implications on both you guys and the industry more broadly?
+## Jamie Miller | CFO and COO, PayPal
+I think it's really hard to say, if I'm honest. You know, it's changing a lot even month to month in terms of how LLMs and merchants think about how they wanna play, what's important to them as they play, how they wanna do it, what are their monetization strategies for their company today versus commerce, and you see some of that playing out. I will tell you, all the big players are squarely focused on commerce. They know it is an integral part of not only sort of ads and offers and how you reach consumers and then convert consumers with them. They're all super focused on subscriptions and making sure they get the stickiness with consumers too.
+When you bring it back to kind of what we bring, not only the scaled capability, but the tens of millions of merchants and the hundreds of millions of consumers, you know, we're a really attractive partner for them, and that's what we're really building on.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. Let me shift to buy now, pay later, which is obviously an area that's been a source of growth for you guys.
+I think it was up 20% in 2025 to over $40 billion on volume. Help us understand the changes that you're making over the last few years to drive these kinds of results and what you intend to do in that business to maybe keep it going at those rates.
+## Jamie Miller | CFO and COO, PayPal
+Yeah. Buy now, pay later has been really exciting. You know, we entered buy now, pay later several years ago, but it was really just a business that wasn't highly integrated yet into branded checkout. One of the really important things that Michelle Gill, who leads financial services-
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yep.
+## Jamie Miller | CFO and COO, PayPal
+for us when she came in a couple of years ago, was number one, she really rebuilt and evaluated the team top to bottom. The second thing she did is she really, really pushed into the integration of that with branded checkout and the importance of that linkage, and that's what we've been focused on. When you see buy now, pay later, when we bring customers in, they not only transact more with us through buy now, pay later, but also through branded checkout, and they also buy, you know, with larger AOV and really have just a much richer habituation around all of our products. It's a really important cornerstone of it.
+What is different now is we're very focused on upstream presentment and capture, and we're also very focused on really underwriting a longer-term ROI around customer acquisition and using it as a customer acquisition tool. I will tell you that is not something we were doing a couple of years ago. While this is something where we've got really good starts with merchants around doing this, it's also something where we have a lot of work to do.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+Part of this investment that we're making in 2026 and as we move deeper into it is, in addition to a lot of other things, a part of this is to really focus with merchants. I talked before about building, you know, integrated buy now, pay later product. In some places it'll be, you know, co-branded product. But really taking it upstream and helping merchants not only capture new consumers and help them be sticky.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right
+## Jamie Miller | CFO and COO, PayPal
+also bring that into the PayPal ecosystem and using it as a way to, say, with merchants who have different demographics than the PayPal demographics, you know, capture customers that we wouldn't have been able to capture before.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Again, just timing-wise, when do you expect us to see the benefits of these investments? I mean, it's already been growing 20%, but is this gonna accelerate it or is this gonna keep it growing at a healthy rate?
+## Jamie Miller | CFO and COO, PayPal
+It'll do both. You know, you mentioned we had $40 billion of TPV in buy now, pay later in 2025. We have consistently been growing buy now, pay later at 20%-
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+more than 20%. You know, as you go forward, we fully expect to see at least that growth. What I'm more excited about is how that sort of builds and accretes over time with the customer acquisition element.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. Let's shift to Venmo monetization, another very strong asset for you guys that's been growing well. Also, revenue's growing 20% in 2025 to, I think it was $1.7 billion. You also have active accounts that are approaching- I mean, I thought they were over 60 million, but they're approaching-
+## Jamie Miller | CFO and COO, PayPal
+Monthly actives are 67 million.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+Yep.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+I think annual actives over 100 million.
+## Jamie Miller | CFO and COO, PayPal
+Over 100. Yep.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Maybe just touch on the key drivers for improved monetization of Venmo. It's an area that I know you've talked about for some time, but what's gonna help accelerate that forward from here?
+## Jamie Miller | CFO and COO, PayPal
+I love talking about the Venmo product. It's an amazing demographic, young, affluent. You mentioned 67 million monthly actives, a little over 100,
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Annual actives, yeah.
+## Jamie Miller | CFO and COO, PayPal
+active accounts, which is really awesome. When you look at monetization, again here, I would say two years ago it was something where it was, you know, the product was largely peer-to-peer transfer, right? What we've done over the last couple of years is really expanded deeply into a couple of areas. You know, outside of the core changes to the app, making it more usable and bringing more features and functions that sort of bring people in and keep them in the app, we've also invested deeply in Venmo Debit so that now you can use your Venmo balance at point of sale, and online in different ways. We've also invested in Pay with Venmo, and you've seen us talk about that in connection with branded checkout growth.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Sure.
+## Jamie Miller | CFO and COO, PayPal
+With respect to debit, it's been really fun because, you know, this is a fun demographic to lean into. You've seen our programs across, you know, the Big Ten, the Big 12, where we're not only leaning in to bring in new customers in our cohort and keep them with us for a long time, but we're also then giving them co-branded debit cards. If you go to The Ohio State University, you'll have an Ohio State branded debit card. You can use it at the bookstore.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Oh, nice.
+## Jamie Miller | CFO and COO, PayPal
+We really start to habituate people around this idea that your parents can send you the money, or you can get it peer-to-peer. You can go pay for your pizza, you can go pay for your books, whatever it is you wanna do, but then that habituates and keeps them with us for a longer period of time. We've had nice success there. Those programs really just launched last summer, and you're gonna see another splash with the Final Four and some of the basketball stuff here in March.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah
+## Jamie Miller | CFO and COO, PayPal
+.. as we continue to work that. Pay with Venmo has been a fun one too, because that's something that's been growing at about 30%, a little over 30% quarter-over-quarter, year-over-year. Pay with Venmo brings to our merchants this demographic they want, which is something they haven't been able to have access before. When you bring it to a mobile-first merchant, when you bring it to a quick-serve restaurant, it also mirrors really nicely with what our consumers wanna do with the product. The growth there has been really strong and, you know, we expect, we're excited about where that can go too. When you look at opportunity outside of us though, I think it's pretty clear when you look at comps that there's a lot you can do with Venmo.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Sure.
+## Jamie Miller | CFO and COO, PayPal
+We are just getting started. While we've made really good strides in monetization and ARPA, lots of opportunity to continue to penetrate there.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+You mentioned execution at the outset in terms of what we really wanna see this year. Are those the areas? Is it Venmo? Is it buy now, pay later? What else? Is it modernization of checkout? Help us understand the key areas, and if it is modernization of checkout, we can go there next. Are those the key pillars?
+## Jamie Miller | CFO and COO, PayPal
+It is. It's really the same strategic pillars we talked about, which is growing branded checkout.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+really investing in Venmo growth, really focusing on processing in VAS, and investing in growing omni-commerce. When you look across all of that, Venmo's certainly a key part of that, and it's the play that I was just talking about and continuing that. But honestly, our focus, our really significant focus is branded checkout.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay.
+## Jamie Miller | CFO and COO, PayPal
+It really goes across experience, presentment.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+selection, and making sure that across all of that, it really works. You know, I mentioned a minute ago that when we think about experience, it's our latest experience with merchants, but it's also consumers', you know, use of biometrics and having frictionless authentication and having that work with the merchants. It's about upstream messaging. It's about upstream presentment, whether that's buy now, pay later or the button.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay.
+## Jamie Miller | CFO and COO, PayPal
+It's also getting into loyalty programs in a bigger way and making sure we're also co-marketing with our merchants to bring customers in, grab them, and then make sure we're growing with them.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Jamie, I mean, when we take a step back, your Venmo business and your buy now, pay later business, which is embedded in branded, has gone well. It's really the non-BNPL, non-Venmo area that's decelerated, right? I wanna understand what you're doing that's actually incremental and new this year versus what we've heard from the company over the past year to help accelerate it, really.
+## Jamie Miller | CFO and COO, PayPal
+Yep.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+I mean, modernization of checkout is an area we were hopeful on, and it's still happening, but it's been going on for a while.
+## Jamie Miller | CFO and COO, PayPal
+That's true, and I think that one of the things I talked about earlier is the fact that when we focused on modernization of the checkout experience, we were executing across everything.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay.
+## Jamie Miller | CFO and COO, PayPal
+as opposed to being focused in terms of being able to scale it and choosing the top merchants, getting the launch scaling, then moving to the next cohort and the next cohort after that. I would also say with respect to consumers, bringing them in, if you don't have ways to habituate them with respect to having the deeper co-marketing, having loyalty programs, so then once they're here, keeping them with you because they've got a deeper, more rewarding way around the flywheel to engage with us and our merchants. You know, we haven't had those things. So when you look at 2026, you're right, buy now, pay later, Venmo, those things are things we're gonna continue running the play on.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+Although I would argue that buy now, pay later, coupled with the consumer elements of this, should make it even richer in terms of the customer acquisition piece of it. Loyalty, launching that midyear is gonna be very significant for us. Merchant co-marketing, we started that last year, but we got plans for that that are bigger and deeper this year. Then sort of the frictionless piece of this combined with merchant experience is really important. The thing I would just say, when you look at fourth quarter, what was really interesting about our performance is where we had all three of those things working together, where we had merchants on latest experience, where we had upstream, where we had co-marketing, those, the merchant performance for us was markedly better than where we didn't.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Even on the button, even branded.
+## Jamie Miller | CFO and COO, PayPal
+On the branded button.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah. Okay.
+## Jamie Miller | CFO and COO, PayPal
+The branded checkout TPV was more than 10 points better.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay.
+## Jamie Miller | CFO and COO, PayPal
+We know the equation works. It's just not deployed across everything yet.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right. You think you can get there by later this year in terms of at least getting more and more customers?
+## Jamie Miller | CFO and COO, PayPal
+It's still next couple of years, and we've been very consistent on that timeline.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+The acceleration of that across these different pillars will make meaningful progress.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. Let's talk about Braintree and just enterprise for a moment, just because it is a, I think, an underappreciated. It's growing double digits, right, from a TPV standpoint. Came up a lot recently in chatter over whether it deserves or needs to be with the whole company or. Putting that aside for a moment, it sounds like you wanna operate integrated for at least for the near future and see how it goes. When we look at Braintree, I mean, help us understand first just what the differentiation of that business is, 'cause I think it's kind of underappreciated that it's growing double digits, and it has really, to some degree, leveled the playing field on things like auth rates. So what are you seeing there?
+## Jamie Miller | CFO and COO, PayPal
+Yeah. This is a business that is on par with its peers in terms of its core underlying performance. You talk about auth rates, but when you look at, you know, uptime, authorization, all of that, you know, its performance is very strong.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+What was different about it is, we had been using this as a way, an integrated way.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Sure.
+## Jamie Miller | CFO and COO, PayPal
+to really bring.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Cross sell, yeah
+## Jamie Miller | CFO and COO, PayPal
+The full suite of product to merchants, but we hadn't been pricing it in a way that was sort of the right value prop. What we've really been focused on is profitable growth in Braintree and really working through renegotiation process with some of our largest merchants. We've also been really focused on bringing value-added services, and that's really significant.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+Pricing and value-added services, because those are two things that we hadn't been focused on before. We've been focused almost solely on performance and working across. Where we are today is we've turned the business and we had dips in revenue as we did this, into a profitable margin grower, and it's a grower. The second is value-added services. We have, I think, 16 value-added services today. A couple of years ago, we had just a handful. Scaling those, bringing those to bear, having those be something that are win-wins with our merchants and priced accordingly, has been a nice way to grow. Going forward with Braintree, you know, we have tons of opportunity internationally. This has been largely a U.S. business.
+Taking kind of the pillars that we built now and scaling that internationally and continuing to improve, I think is a really exciting next stage for them.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. That makes sense. Shifting to debit for a minute, again, an area that you've been doing pretty well with actually. I mean, it grew 60% in 2025. Just what are the trends you're seeing there? What's driving such strong consumer adoption on the debit business for you guys, and where do you see that going?
+## Jamie Miller | CFO and COO, PayPal
+60% growth year-over-year in debit, and when we started this in September 2024, we've actually brought in over 8 million
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+$8 million
+## Jamie Miller | CFO and COO, PayPal
+8 million consumers.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+Into the debit product, and it's really on the backs of rewards and offers, and different ways that we've brought consumers in to habituate them around the brand. What we find is when we bring them in as a debit consumer, not only do they transact with us as a debit consumer, but they also bring in a halo effect across branded transaction. You know, their online transaction growth goes up 20% or 30% as well. Interestingly, the debit transactions themselves are as profitable from a margin perspective or more than branded checkout, so it's a really healthy equation for us. Importantly for us, it's the use and, you know, keeping them habituated around the PayPal brand and in the app and with branded checkout, which is why we're very focused on it.
+You've seen our Will Ferrell campaigns. You've seen the different ways that we've really brought, you know.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+The top of funnel in, but this is a way of grabbing, engaging, and acquiring in a way that we hadn't had before.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. Just to wrap it up from questions from my side, and then we'll open it up maybe to one or two if we have time. Just capital allocation, I mean, you know, you started a dividend last year, which was well-received by some investors, and you had $6 billion share repurchases planned for this year. Just touch on your capital allocation framework a bit and maybe a little more on just even beyond capital return. Anything on M&A or anything else you're seeing.
+## Jamie Miller | CFO and COO, PayPal
+Sure. I mentioned before that, you know, we believe that organic investment first is the way we think about the business, that growing the businesses organically give us even more optionality from a capital allocation perspective. It starts with investing back into product marketing and tech, and we're at a point where more than 60% of our OpEx is in product marketing and tech, and we have really remixed our OpEx profile to be able to do that.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Yeah.
+## Jamie Miller | CFO and COO, PayPal
+We'll continue to do that. When you get beyond that, we've had a very healthy buyback program. We have a very strong balance sheet with more than $15 billion of cash, more than $6 billion of free cash flow every year. Our buyback represents about 100% of our free cash flow, and in addition to that, we launched a dividend in October, like you mentioned, where we targeted around 10% of non-GAAP net earnings in terms of the payout ratio. I think really strong from that perspective. When you look at M&A, I think over time, absolutely M&A needs to play a part of this. I'm really excited about Enrique coming in because I think as we get settled in the seat around our execution, you know, we'll have more degrees of freedom to really look at-
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay.
+## Jamie Miller | CFO and COO, PayPal
+how we can then execute well across, you know, different kinds of capital allocation plans.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right. 'Cause you've tried to take a somewhat of a pause on M&A for a little while, right?
+## Jamie Miller | CFO and COO, PayPal
+To make sure we had the ability to do it well.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Right.
+## Jamie Miller | CFO and COO, PayPal
+Yeah.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+Okay. All right, guys, any questions? Maybe we have time for one or maybe two. Okay. Well, Jamie, thank you for joining us.
+## Jamie Miller | CFO and COO, PayPal
+Thanks, Darrin.
+## Darrin Peller | Managing Director and Senior Analyst, Wolfe Research
+That was great. Appreciate you being here, guys.
+Data Source: Quartr Last updated: Mar 10, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,192 @@
+TITLE: J.P. Morgan 54th Annual Global Technology, Media and Communications Conference
+DATE: 2026-05-19
+## David Karnovsky | Analyst, JPMorgan
+We'll get started. I'm happy to have back from The New York Times Company, Meredith Kopit Levien, President and CEO. Meredith, thank you for being here.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Happy to be here.
+## David Karnovsky | Analyst, JPMorgan
+Okay, great.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Spring in Boston.
+## David Karnovsky | Analyst, JPMorgan
+Well.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Better than winter.
+## David Karnovsky | Analyst, JPMorgan
+Hot spring in Boston.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah.
+## David Karnovsky | Analyst, JPMorgan
+Okay. Over the past five years, you have referred to The New York Times as the essential subscription product for someone wanting to understand and engage with the world. There's been a lot of evolution in the product that we can cover, but at a high level, what are the key strategic pillars that have guided you as CEO during this period?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. Well, there are three pillars to being the essential subscription, that we've been focused on for the last five years. The first one is to be the world's best news destination, kinda hard stop. Second one is to have market-leading lifestyle products that help people make the most of their lives and passions, and the third one is to put those two ideas together in an interconnected product experience or a bundle so that whatever is going on in your world or the bigger world, The Times has something relevant for you every single day, and we do that at increasing scale. I would say that those three pillars are powered by four advantages, that I really think are making the whole strategy work.
+The first one is that The Times now plays in really big spaces with a lot of running room, news broadly defined, and also sports and games and recipes and shopping advice. Secondly, within those spaces, we have built these unparalleled content engines for original reporting and sort of journalistically rigorously created lifestyle content that are really hard to replicate. I would say the work we do in content, you know, we reported from 150 countries in every state in this one last year. It's really hard work, and as others are doing less of it, The Times has continued to invest in it.
+Third kinda strategic advantage is that we have a capability to harness technology to drive consistently strong engagement, and we do that through format innovation and feature development and innovation in the product experience, and even innovation in how we use proprietary data at The Times. Then the last advantage is we're able to monetize that consistently strong engagement across multiple complementary revenue streams. I would say all of that sort of drives our ability to get more people to have direct relationships and daily habits with The Times, and we're confident as we do that we can build a larger and more profitable company.
+## David Karnovsky | Analyst, JPMorgan
+Great. That was a great opener. Let's start with this. You've often noted that The Times operates in a media environment dominated by big tech firms, and to that, I would now add AI platforms. Given that backdrop, how do you kinda balance focusing on what you can control versus the periodic need of adjusting to some of these external forces?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah, that's a good question. Let me say what we can control and what we put a lot of care and thought and investment into. It's that unparalleled engine for original reporting and high-quality lifestyle content production. What do I mean by that? I mean, we have a giant team of the world's best journalists who go out into the world and unearth new information, unearth facts that really matter to people, and they do that with professional expertise and often domain expertise, and they do it by following a time-honed process for keeping that work uncompromised. That's true if we're working, you know, if we're reporting on matters of, you know, profound civic consequence, and it's also true if we're writing product reviews of which toaster you should buy.
+They're doing that in a way that is human-led, and where the output of that reporting, that sort of human-led reporting, is done in an expressive way where people really engage with it and get understanding. It's just worth saying, even as the AI companies in particular aim to build substitutional products, it's very hard to imagine anyone is able to replicate what I just described. What I just described, that need for facts, for information sort of in service to no one's interest but the public, that need is only growing. That, that's the first thing I would say.
+The other thing I would say, because you're asking sort of how do we balance that, our aim is to have news coverage and products that are so good that people seek them out and ask for them by name and make room for them in their lives however the ecosystem evolves. We recognize that we operate in an ecosystem dominated by these big tech companies, and our job is to kind of make the best of that to get people to find and experience and sample our work, all the while that we are really trying to get people to come and have a direct relationship with us and come to our destinations. I think our results show that we're pretty good at that calibration.
+## David Karnovsky | Analyst, JPMorgan
+Maybe as a follow-on to those comments about the content engine and kind of what goes into producing.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah
+## David Karnovsky | Analyst, JPMorgan
+at that scale, you know, what do you think the position of the company is with regards to journalistic talent? I mean, right not just on news but across
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah
+## David Karnovsky | Analyst, JPMorgan
+the entire coverage.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Let me say the thing I'm proudest of in my 13 years at The New York Times is that we have, like, 1,000 more people in the core newsroom. 1,000 more people, so it's about 2,300 people in the core news operation. They're not just any people. These are the best journalists in the world, doing this work, in, you know, to a standard for uncompromised journalism. I'm incredibly proud of that. They're able to go wherever the story does in, you know, across the breadth of human experience. In The Athletic, we have another 550 journalists. It's the world's largest sports journalism operation. We've got close to 200 people doing rigorously reported product reviews for Wirecutter. This is an enormous operation. I didn't even talk about cooking and games.
+Here's the proposition for talent, and it's a proposition that I would say has worked for The Times for decades. We bring the best journalists in the world, and we give them the time and the space and the resources to do the best work of their careers, and in many instances, I always think this doesn't get talked about enough, a piece of enterprise or investigative journalism could take months or even years. A journalist could spend many, many months working on a single body of work, and have the time and the space and the resources to pursue it. We give them great conditions, great people to work with. We give our talent what I think is the industry's best support structure.
+That's lawyers and fact checkers and editors and data scientists and visual journalists, the people who can really make their work feel magical when it comes out into the world. We give them a giant audience, so the work has a real opportunity for impact. We think it's a very good proposition. I think it's a proposition that has served The Times very well. I think it's served our journalists very well, and it's served the public very well. We recognize may not be for everyone, but we feel really good about about where it is and our ability to continue to attract and retain the world's best talent and also to nurture and develop stars within The Times.
+## David Karnovsky | Analyst, JPMorgan
+Got it. When we look at the app today, right? Right at the bottom next to the main feed is video and
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah
+## David Karnovsky | Analyst, JPMorgan
+podcasts. I used to kinda think of these as extension to the core reporting, but am I right to suggest that these are sort of increasingly the destinations themselves?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. I think it's both. Let me say, anything we are doing with format innovation is about getting more people to experience our work, so it's really meant to enhance the journalism and attract more people to that journalism. For many people, we now have a destination that you can come to, so I'll take video as an example. We've got a watch tab where every day you can see roughly a couple dozen videos from The Times sort of presented in an orderly way where it's like a whole experience from The Times that you can watch, and there are plenty of people who are engaging with The Times that way. It's true for audio too.
+Also, if you're just engaging in the today feed or you're on the website, you're in the core report, you're gonna see much more video. You're gonna run into much more video in our live experience. You're gonna run into it within articles. You're gonna see much more of a multimedia experience, and the idea here is that we can meet the reader, the listener, the watcher, kind of wherever they are in terms of modality, their preferred modality for taking in the information. You know, we're early in that. We really like what we see so far, much more to come.
+## David Karnovsky | Analyst, JPMorgan
+As you build out the video capability, I think a question we sometimes get is kind of where is this investment going in terms of resources and formats?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah.
+## David Karnovsky | Analyst, JPMorgan
+It'd be great if you could speak to that. Just on the consumer end, right, as you see, you know, your user subs ingest this video, how is that impacting their experience, right? Frequency, time spent with-
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah
+## David Karnovsky | Analyst, JPMorgan
+the product.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. We've got big ambitions in video. You know, our aim here, just stepping back, is to be as preferred a brand for watching, the news and the other things that we do as we are for reading and listening to it. You know, you're seeing us really ramp- up production. I talked in our earnings call about how we doubled the amount of reporter video we had done. You're asking about investment. What I'll say is we've got some inherent advantage here. I've just talked about this extensively. We've got a news team, reporters and editors who can go wherever the story goes. That's sort of already there, what we're adding to that is, like, a layer of video production capability.
+In terms of the formats that come out of that, you're seeing us do much more, we just call it reporter on camera video, where the reporter is explaining their story or actually bringing you into the story. More just straight up news video, where in some instances it's actually more powerful to show you the things, so we show you the things often with text or audio over it. We are intently focused on continuing to expand our trademark visual investigations, where we piece together video, a lot of it UGC, to actually unearth new facts about what happened. You've seen us do that. I would say we have a lot of traction and momentum for our expanding shows portfolios.
+We're making kind of full-bore shows across politics and culture and technology, and all of that is really working. You asked about engagement. It's early for all of it, but we really like what we see so far in terms of consumer engagement, both on and off platform, but early.
+## David Karnovsky | Analyst, JPMorgan
+I guess at the time, at the same time that you're building out the video content, we've seen some cable news networks move towards their own DTC products. They put up digital paywalls, some of them have extended into lifestyle content. Is there a convergence here, or is that the wrong way to look at it?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. I don't know if it's the wrong way to look at it. Let me tell you how we look at it.
+## David Karnovsky | Analyst, JPMorgan
+Okay, sure.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+We've got a very big ambition here. We see video as an opportunity to get more engagement from the big audience we already have, and also to get net new audience. On the question of sort of direct-to-consumer platform for it, what I'll say is we're now, like, 11 years in to building a really powerful direct-to-consumer business where we've been building a trusted brand in news and increasingly in these other lifestyle spaces, and where we can get lots and lots of people to have direct relationships and daily habits with us. We can do that because we've been continuously adding value into our products and showing up in a very multidimensional way in people's lives.
+I think video, we know video helps us do that even more, and it particularly helps us reach people who want to do all those things but want that modality in video. That's, that's what I would say we are trying to do. To the extent you're asking me how that relates to what's happening sort of in other video spheres, what I'll say is we think we really benefit here from not having, like, an institutional incumbency. We know that there's enormous amount of news and lifestyle content consumption happening, enormous amount in digital video, and that's really what we're aiming to get and to win. You see us doing that sort of first in formats that are native to us, so, you know, video that really works on a phone, video that really works, you know, when you're engaging digitally.
+Make no mistake, we want to win the moment when something big happens in news, or in any of the lifestyle spaces we play in. Ultimately, our long game is we want to win that moment, whether you're gonna read it or listen to it or watch it. We want to win that moment sort of wherever you are coming to watch it.
+## David Karnovsky | Analyst, JPMorgan
+Maybe just one last one on this topic. video podcasting, we've seen you extend the reach of the content to places like YouTube or Spotify. You know, the viewer stats and charts show clear engagement. How do you kind of use that free access to ultimately drive consumers back to the core Times?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+It's a great question. I would say we've got, like, one of the things that really works about our model has always been this calibration between enough gravity at the destinations and in the products that you'll make a direct relationship and ultimately pay, and we make a lot of stuff available to people to sample. We do that, whether it's on YouTube or Spotify or any of the other places we do that. We do that to build awareness for our work and to build preference and to build consideration, and I think that is particularly important. We're talking about video. That is particularly important in video because we are now sort of teaching a whole generation of people that The Times is a place you can watch stuff too. That's, that's why you see us do this.
+I'll say, I'll go to, I think The Daily and what we did in audio is pretty instructive here. The Daily is gonna be 10, I think end of this year or early next year. Daily's been around for a long time. It is still the largest and most successful news podcast by audience. It has a huge listenership every day. If you actually just looked at the arc of The Daily's kind of growth, and its ability to touch culture, it really coincided with an arc of growth in our subscription business, and those two things are not, you know, one doesn't, you know, very directly send people to the other.
+It certainly got people interested in The Times and got people interested in the stories from The Times, and I think the same will apply here in video. I'll just say, you know, at a high level, being on YouTube, being on Spotify gives us a chance to get new people to engage with the brand in a deep and significant way. Ultimately, we wanna do that in a way that redounds to getting people to come to our destinations. I'll give you a couple of examples of how we do that. We just published two or three weeks ago, the 30 greatest living songwriters in America, we had seven extraordinary videos with songwriters, including a, like, break the internet video, a 30-minute video of Taylor Swift. That we were incredibly excited about.
+We, you know, obviously clipped that video, and we promoted it everywhere. It was promoted very extensively. For the first week, if you wanted to watch that video, you couldn't actually watch it on YouTube. You had to come watch it on The New York Times. Just to give you like in another part of the portfolio, another example of that, in cooking, one of the ways we're building our cooking funnel is we're doing collaborations with food creators who are outside the cooking universe. You, you watch the video, you get excited about that in the universe of that creator. If you want the recipe, you come to our app.
+## David Karnovsky | Analyst, JPMorgan
+Right.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+To get the recipe.
+## David Karnovsky | Analyst, JPMorgan
+This past quarter, The Times has closed over 13 million paid subs, putting you closer to your 15 million goal that was by the end of 2027. We get asked this question often, what's the best definition of your TAM?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+[inaudible]
+## David Karnovsky | Analyst, JPMorgan
+the one that you use when you think about executing to that goal?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. When we think about the TAM for The Times, we think about the giant spaces we play in and what's the number of people in each of those giant spaces, news broadly defined, and then sports and recipes, and games and shopping advice, who are willing to pay for a product in those spaces. What I'll say is, we believe that TAM is at least as large as we've previously reported and under-penetrated by The Times. We've got a lot of signal in our own product experience that would suggest that. We've got an audience that is many times larger than our subscriber base. We're able to call them to action using the sophistication of our data science and our model to get them to convert at the right moment. Who are those people?
+We've got 50 million-100 million people who are coming to our sites and apps every week, much more than the 13 million and change subscribers. We've got, you know, huge trove of podcasts and emails that people watch, listen to, read, on a daily basis. We've got over 150 million registered users and counting. We really feel good about the TAM and our position within it and the running room within it. How are we gonna go after all those people as we execute on our major priorities that we keep talking about?
+You know, keep crushing the coverage, do it in more formats, add value in every part of the product portfolio, and then merchandise that value in ways that get people to sort of experience more of our product or experience it with their friends. As we do that, and we have running room in all of those directions, we believe we'll be able to keep penetrating that TAM.
+## David Karnovsky | Analyst, JPMorgan
+Okay. Bringing consumers into the ecosystem, you've had success with promotional offers like a dollar a week or $2 a week for family plans. I think ultimately, your digital subscription growth, though a more powerful lever, over time has been in price as you graduate subs or introduce new rates for tenured cohorts. Maybe just kinda speak to your strategy of addressing the whole demand curve?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah
+## David Karnovsky | Analyst, JPMorgan
+as you've termed it.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. I've been at this a long time. Our CFO who's here, we've been at this for a long time. We feel very good about our pricing power and our ability to sort of drive price in the appropriate moments. What I'll say is we've got a value-based approach to pricing. Most people come in however they come in, you know, a single product or to the bundle. They come in at a promotional rate, and as they engage more, we've got a model that gets them to engage more. As they do that, they step up to interim and full prices. We feel very good about our sophistication at being able to do that.
+We also feel very good about what we see at those step-up moments. That has worked really well. The idea is we wanna be able to get at everybody under the demand curve, and I think you're seeing that really work. I'll just say, the thing we don't talk about enough is each part of the product portfolio is getting more valuable with every passing, like, month and quarter and year. Our ability to get that price, the consumer's, like, sense of value from it is getting better and better, and the comps are not as good.
+## David Karnovsky | Analyst, JPMorgan
+Yep. Going back to the start of 2025, maybe earlier, digital advertising has been a standout metric, growth continuously outperforming expectations. We get asked this all the time. Maybe just unpack some of the drivers of that performance between supply, organic demand. I know you've introduced some new tools for marketers as well.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. I'm as optimistic about our ad business as I've been. It's an exciting time in our ad business, and I'll say it's for a handful of reasons, and they sort of look like the reasons our consumer business is working. The first one is we are in these big spaces, you know, universal need for news, sports very appealing to marketers, games, everything else we do in lifestyle, very appealing to marketers. We're in these big spaces, and with giant engaged audience in those spaces and really well-honed, deliberately designed ad products where we have big canvases and a ton of first-party data, proprietary data that we've been able to unlock for marketers the combination of that and the canvases really sort of makes the ads work.
+marketers return, and that means because we're across all these spaces now and the ads really work, we're able to get more share of wallet from the marketers who already work with us, and we are able to bring in a lot of new marketers. That really feels like it's working.
+## David Karnovsky | Analyst, JPMorgan
+Your Chief Advertising Officer, Joy Robins, recently used the term Never Newsers to describe marketers anxious about placing their brands adjacent to news. That's probably relevant recently. I'm curious first, you know, how much of that is a concern for you, just given the volatile world we live in, but, you know, separately, how do you take action against that and sort of steer that demand elsewhere?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. Let me say a couple more things about your prior question. It'll get me to her name for how activity we're seeing beyond news. You asked me before, and I think it's important to this about sort of supply and demand. What I'll say there is, we added a lot of supply last year, particularly in the second half of the year, in our big products beyond news, particularly in games and sports. We will continue to. You saw us benefit from that at the beginning of this year. We'll continue to add supply. It will be across the portfolio this year and more incremental. I think you always are adding supply as you're growing audience in addition to developing new ad products.
+What you're poking at is demand question, and I probably use different words. Our Head of Advertising is an extraordinary leader. She has done incredible things with this business, and we're very, very happy with that team. What I would say is I've been around ad businesses for a long time. There are always some marketers who don't wanna have, you know, if in a time of intense news or difficult news, war, geopolitical turmoil, there's always I mean, when I was in magazine advertising, there were always marketers who don't wanna run near that. At the same time, there are always marketers who want to be around news because news is a, particularly high-quality news from a trusted brand, is a pointer to this is important.
+I'll, I just wanna push back on the notion that, like, news isn't a great place for marketers, and I've seen that my whole career. It is because of the audience it amasses and the capability of pointing to this is important. In addition to that, we've got all these lifestyle products now. A marketer in any given moment who wants to work with The Times has a whole selection of places where they can do that, and I think what Joy was probably referring to is we are able to sort of capture the demand in any number of places now that are very appealing to marketers, and that's really made the business more resilient, and we're pretty excited about that.
+## David Karnovsky | Analyst, JPMorgan
+Got it. Maybe shifting gears, I wanna touch upon games. You said in an interview recently that this was the most up and to the right thing.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Uh-huh. Uh-huh
+## David Karnovsky | Analyst, JPMorgan
+experienced in your career in terms of attention and cultural relevance.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah
+## David Karnovsky | Analyst, JPMorgan
+There's no shortage of free games on the internet. What is The New York Times getting right here?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. I, lots and lots of people play and love our games, tens of millions of people. It just really, really works. Let me say what I think works, some of which doesn't get talked about enough. You know, lots of companies make games, including big, powerful tech platforms. I think the reason The Times games have really broken through, is that they are from a brand, and they are associated with a brand, and they are kind of at the home of a brand that is two things. One, its essence is about making you smarter every day, and two, it's like a shared cultural experience, and I think we really benefit from both of those things. You know, people tell us, and I think people know this. They don't just play the games.
+They play them with their family and their friends. These, you know, the games don't take a ton of time, so if you play two or three or 12 of our games, you can do it throughout the day, and there's a real sharing factor with your friends and family. The other thing I'll say about our games is I talked earlier about our content engines having, like, journalistic rigor everywhere. They're just really well-made. We've been able to attract game makers who work at a very high standard, I think that everything from the sort of what are the clues and connections to how does that experience, how elegant is that visual experience, it all really works.
+## David Karnovsky | Analyst, JPMorgan
+As you noted, 12 games on the app right now. I think half are paywalled.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+I think five are free.
+## David Karnovsky | Analyst, JPMorgan
+Okay. Around that.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+It's a little more than half now.
+## David Karnovsky | Analyst, JPMorgan
+Okay. Can you just discuss a bit the strategy of sort of turning free users into pay users and then obviously how you balance conversion to paid with the benefit of obviously having that free traffic for ads?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. I mean, the short answer is we need some megaphones. Wordle's a great megaphone. Like, we have these extraordinary games tens of millions of people play, you need some things that are kind of sufficient gravity that lots and lots of people will also pay, because it's so worthwhile in their lives. I don't have more to say than we're always kind of calibrating with a lot of sophisticated data science, about what's the right balance between those things. It's always a balance, meaning you're always gonna wanna have enough out there that people can sample at real scale and stuff that's worth paying for.
+## David Karnovsky | Analyst, JPMorgan
+By the way, I did like on Ben Thompson's podcast where he asked you if Wordle was the best media deal of all time.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+I, yes. It was a great deal, I'll just say that.
+## David Karnovsky | Analyst, JPMorgan
+Yeah.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+We're so happy to own it. I just wanna give credit where credit is due. After we acquired Wordle,
+## David Karnovsky | Analyst, JPMorgan
+Right
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+our team made all these other incredible games, Connections, Strands, The Midi. These were born Pips, CrossPlay. These were born after Wordle. Everybody should play CrossPlay. If they're not, grab a friend and play CrossPlay.
+## David Karnovsky | Analyst, JPMorgan
+Okay. I want to touch upon The Athletic. I think historically or when you did the deal, fans tended to think of it as a destination for deep sports journalism.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah.
+## David Karnovsky | Analyst, JPMorgan
+I opened the app today. There's highlights, there's scores, vertical video.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah.
+## David Karnovsky | Analyst, JPMorgan
+Kinda just speak to the evolving strategy.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah. I mean, the short answer is I, at Real Scale, we are uniquely good and have been uniquely good at a particular thing in serving the sports fans, which is high-quality, independent sports journalism about the team you love and the league that you follow. We're awesome at that. We do it at a breadth and scale nobody else does it. What we're aiming to do, you mentioned highlights, you mentioned even sports games. We have Sports Connections now, which really works. What we're aiming to do is meet more of the sports fans' needs.
+We're really good at meeting that need, but we think there are other needs we can meet, including helping you have a companion in the live game moment, including helping you test your sports knowledge as you do with games and a number of other things. Highlights are a great example that there are some aspects of our journalism we're showing it to you is just as important as describing it to you.
+## David Karnovsky | Analyst, JPMorgan
+Right. Maybe just as a follow-on, I think, it's sometimes forgotten the depth of soccer coverage on The Athletic. Just interested how you're leveraging that opportunity given the World Cup coming up.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+With the World Cup. We're very excited about the World Cup. I'll be really short here and just say there are 150 professionals in The Athletic newsroom who just cover soccer in Europe and in the United States. We are highly prepared. We are very excited about this. There's a ton of reader interest. There's a ton of marketer interest. Watch what we do with all of it.
+## David Karnovsky | Analyst, JPMorgan
+The Athletic and Wordle were both acquired, I think, in January 2022. Wirecutter was several years before that. I think in those three instances, you used M&A to effectively build out
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Yeah
+## David Karnovsky | Analyst, JPMorgan
+right, your lifestyle brands. Question is, The Times is sitting on over a billion of cash or equivalents, so no shortage of, kinda capital to execute on deals. Do you see anything in the media landscape as an opportunity today?
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Let me do the sort of broad reminder of our approach generally.
+## David Karnovsky | Analyst, JPMorgan
+Sure.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+The capital allocation, our first priority, and you've seen us do this, the video is a big way we're doing this now, is to invest into our strategy organically, and that's why we're talking so much about video. It's a big part of the opportunity. Of course, we've got a capital return target, more than 50% of our free cash flow back to investors in the form of dividends and buybacks. Yes, we are always open to M&A. What I'll say there is the bar is really high. I mean, we've got a really clear strategy, and the bar is high financially in terms of what the return would be, and the bar is very high in terms of fitting into our essential subscription strategy in a very clear way. The Athletic did that brilliantly. Wordle did that brilliantly.
+Wirecutter does that brilliantly.
+## David Karnovsky | Analyst, JPMorgan
+Okay. I think that's a good place to end it. Thank you, Meredith.
+## Meredith Kopit Levien | President and CEO, The New York Times Company
+Great. What a pleasure to be here. Thank you.
+Data Source: Quartr Last updated: May 19, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

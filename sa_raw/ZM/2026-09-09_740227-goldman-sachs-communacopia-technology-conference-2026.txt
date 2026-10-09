@@ -1,0 +1,343 @@
+TITLE: Goldman Sachs Communacopia + Technology Conference 2026
+DATE: 2026-09-09
+## Michelle Chang | CFO, Zoom
+Whenever they turn this thing on.
+## Moderator | 
+Yeah, I got this for you. All right. I think we're good to get started whenever. Delighted to have Michelle from Zoom CFO, here with us today. Thank you so much for coming.
+## Michelle Chang | CFO, Zoom
+My pleasure.
+## Moderator | 
+We'll get right into it.
+## Michelle Chang | CFO, Zoom
+All right.
+## Moderator | 
+As Zoom combines its conversational context with data from customers' other applications, how does the platform evolve into a more strategic orchestration layer?
+## Michelle Chang | CFO, Zoom
+Yeah. This is an important shift for Zoom. I think everyone's kind of reinventing themselves in an AI era, and it's certainly true for Zoom. Not only in terms of just how we even reinvent our core in our meetings business, but we've broadened so much out of our meetings business, which I know we'll talk about today, and it's about reinventing that. What Zoom talks about is there's going to be systems of engagement and systems of record. We're obviously coming at it from an engagement perspective, but really what matters to the customer is getting them to action, because when we know there's action, then there's business value. The good news is when we can deliver business value to our customers, it drives revenue. What we're really focused on within that is we sit at the context of so many conversations.
+The differential for Zoom in terms of an AI era and why we win is the shift to platform that you were mentioning is because there's so much that happens in human-to-human conversation that just gets lost. It never sits in a system of record. Even today, it is sort of just dispersed pre-AI world in a system of engagement. We're really excited about this and think there's a real differentiator for Zoom, both in the context that we have in the AI, obviously our quality and all of that, but also in the context that we can see not only inside the company but outside the company. I know we'll get to unpacking that more as we get.
+## Moderator | 
+Yeah. On that point, I guess the strategic case for Zoom increasingly rests on the idea that conversational context is a differentiated asset.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Moderator | 
+What does Zoom know, because it sits inside live conversations, that another enterprise software company can't easily recreate?
+## Michelle Chang | CFO, Zoom
+Yeah. It is that context, right?
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+I'll give you sort of an example because that context is so hard to capture anywhere, and yet it's really a lot of where the value for a lot of companies sits is in that human-to-human connection. Eric talks about this, our CEO talks about this as human-to-human connections will always persist. It's the ingenuity, the creativity of humans. That's where that will reside. Humans to systems and systems to systems, those are going to change as we get into an AI world. But really there's a deep belief at Zoom that that human connection prevails. Let me give a couple of examples of that, of what we talk about when we talk about system of action and why we think Zoom has a unique differential. Let's say I'm an engineer. I sit through a Monday morning meeting to review specs and whatever.
+We're sitting there talking, the conversation goes all over. I have now a database of all the conversations, but I take that conversation intelligence, and I update it into a Jira without even leaving the Zoom platform. That's what we're talking about when we talk about system of action. Let's say I'm selling you something, right? Conversation goes all over the place. We make decisions. But it's that taking that conversation, updating automatically without a seller having to spend more cycles into Salesforce.
+to be able to take action off of it, that really creates that system of action. Zoom's excited about this because when we can do that, there's such value for the customer. When there's value for the customer, there's revenue for Zoom.
+## Moderator | 
+Yeah. You framed Zoom's growth inflection around product diversification, AI monetization, focusing up-market channel expansion, and also lowering churn. Which of these has kind of progressed the furthest, I'd say over the last kind of 6- 12 months, and where do you feel like you have the largest execution gaps to come?
+## Michelle Chang | CFO, Zoom
+Hmm. Look, our growth story, I guess first before I kind of get to parsing it out.
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+is one of an enterprise. Our online business we've been working to stabilize. That represents about 38% of our business. Our growth inflection, which is all what Zoom is about these days, is all on the enterprise side. I would say it's a bit interrelated, some of the dynamics that you said.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+We've been moving from just being a meetings company to much more diversified product set. A lot of that diversified product set sits in an AI world, and a lot of it is underscored with channel and moving up markets. Those things kind of all begin to intertwine, but those are really the dynamics that are driving that inflection and growth. Look, in terms of execution and all of that, look, I think we've seen tremendous pace of innovation from our engineering. It's really just the sharpening of our portfolio, and I think you're going to see that. You've seen it come in, faster innovation, sharpening portfolio. On the sales side, it's a lot of just ongoing operational excellence.
+## Moderator | 
+Yeah. We often get the questions from investors whenever we see kind of a period where fundamentals improve, is this structural or cyclical?
+On the enterprise business specifically, what gives you kind of confidence that this represents a structural improvement in the growth rate of that business rather than just a period of-
+## Michelle Chang | CFO, Zoom
+One-off or something.
+## Moderator | 
+Yeah, exactly.
+## Michelle Chang | CFO, Zoom
+Yeah. So let me maybe then unpack our enterprise growth story. I thought it was very important when I came on as CFO to really hone for investors what are the things that will drive durable growth. I would get the question all the time: How can you get to double-digit growth? Look, it is not just important to talk about investors. I have got to turn around and talk to all of Zoom about it. We landed on our three priorities that now we use every time we talk to investors. It frames our earnings scripts every time. It also frames where we make our investments internally and where we think the growth comes from.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+First and most mature, we have got to infuse AI into our core. In our Meetings business, in our Phone business, which we call Zoom Workplace, we have got to continually reinvent those because they represent great launching pads. The thing that gives me confidence that this is not just a one-off, if you will, is we are seeing churn go down year-over-year, multi-quarter, year trends. Zoom Phone, strong grower for us, clearly taking share growth in the team. Okay, go to the next one, which is we know we have strengths in customer experience.
+We know there's a convergence and a nice synergy, in particular for Zoom, with UCaaS and CCaaS. We've got to figure out the scale there, and you're seeing proof of durability in quarter in and quarter out. It's driven by AI. It's high double-digit, meaning just south of 100% growth, like quarter in and quarter out. We're just getting started in terms of our product portfolio. We can come back to that.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+Then you go to that innovation of AI and then the other pieces we can monetize in ZoomMate that I'm sure we'll talk about. Then things like our Common Room and ZRA products with sales AI. Think about where we are in those stages, and that gives me a ton of confidence for durability.
+## Moderator | 
+Yeah. So starting a little bit higher level on the AI strategy, then we'll go into the specific products. Zoom's federated AI architecture lets you kind of route workloads across different models and your own smaller models.
+How do you think about the benefits of that approach for both product quality and unit economics?
+## Michelle Chang | CFO, Zoom
+Yeah. Look, I think that Zoom was an early adopter of the federated. In a time when a lot of people were going all in with one model, I think Zoom took a very differentiated approach. Now it's become more norm. It's essential for quality and cost, so to your question. What it means for Zoom is, hey, we're going to have an SLM that's going to be where we take all of our high volume stuff and we grind costs down, and we get super good at quality in a way that others just can't match. You're seeing that. Then we're going to have LLM, where there's the cutting edge, and we want to use those and test, and we'll use them opportunistically, and we won't just be linked to one provider.
+Look, it's going to also be an open source play for Zoom as well. Look, those combination of things, as well as flexibility in how customers deploy on-prem, how they want to, we see it as winning in large deals. There are deals that we mentioned, multi-million dollar ARR in the last quarter alone, and Zoom's approach to AI was a key differential in the deal, not only churn, but upselling as well.
+## Moderator | 
+Yeah. When you're putting new products out into markets that have that kind of AI functionality built in-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+How do you think about whether to just add those to your core offerings and not necessarily directly monetize versus when you directly monetize?
+## Michelle Chang | CFO, Zoom
+Yeah. This is another one. I'll give Zoom credit. When I came in, they had put AI value in their meetings paid SKUs at no additional cost. I have to say, at first I was like, "Wow." But it made sense the more you began to think about customers will expect a certain amount of AI value, just as part of it. Similar analogy, like cars just have seat belts, right? What we tend to think about is really focusing maniacally on customer value. That's where we believe we'll monetize. Look, as part of it, there'll be some meeting summaries or capturing notes, but people will just expect that as part of the meetings experience. But look, we're also going to hold ourselves to ROI there. We ought to expect reduction in churn. We ought to expect bringing in new customers, maybe some competitive wins.
+But then we'll reserve to the side of the paywall things where we feel like we have unique value in things like ZoomMate and our sales AI and obviously customer experience, where the customer then can very clearly see the ROI of their AI deployment.
+## Moderator | 
+Yeah. On customer experience specifically-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+it's currently Zoom's, I'd say, cleanest source of direct AI monetization.
+## Michelle Chang | CFO, Zoom
+Yep.
+## Moderator | 
+So as virtual agents automate more interactions, how does that expand Zoom's revenue opportunity rather than just creating pressure, I'd say, on existing seats?
+## Michelle Chang | CFO, Zoom
+Yeah. This is such a good one, and I love the question because I think it's some people that are maybe more looking at this as traditional players in contact center maybe don't understand the chapter that Zoom entered in.
+## Moderator | 
+Yes.
+## Michelle Chang | CFO, Zoom
+Right? Zoom entered as sort of an AI-first customer experience with a differentiated approach that I'm going to talk about. But before I go to it, why it's important is we kind of came in with a modern, fresh approach. We don't have the tech debt and business model transition that a lot of the more traditional players that started in customer experience are grappling with.
+## Moderator | 
+Yes.
+## Michelle Chang | CFO, Zoom
+But look, it's not enough just to be that. We really embrace the AI first, and I think Zoom is really unique on two particular fronts. We've approached our customer experience as a holistic approach. We're going to be there in traditional contact center, we're going to be there when agents need to be assisted with AI, and we're going to be there in virtual agents, which is also opening up new markets. But Zoom differentiates by stitching that together with intelligence and being able to hand off seamlessly to that within contact center and then across to UCaaS as well. And so I think that's a lot of what is driving. If you look at the underlying signals in our customer experience business, that's what's driving the formula of success.
+## Moderator | 
+Yeah. ZoomMate kind of expands the monetization, I'd say, opportunity outside of customer experience.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Moderator | 
+But it's much earlier in that adoption curve. So what have you learned from initial customers about their willingness to pay for something that's more of the horizontal AI?
+## Michelle Chang | CFO, Zoom
+Yeah. So first, for those that may be less familiar with ZoomMate, think of this as that behind-the-paywall AI value for our meetings business primarily. So look, there's three value props, and then I'll talk about maybe what we're seeing in enterprise customers versus more small customers.
+## Moderator | 
+Perfect.
+## Michelle Chang | CFO, Zoom
+The value prop is the ability, once you have that virality of AI usage in the meeting space, in the phone space, to be able to search, even if it's not a Zoom meeting, even if it's not Zoom email. So Microsoft Teams, Gmail, Slack Chat, the ability to search across all of a customer's assets as well as their enterprise systems, those integrations. So that's value prop number one from ZoomMate. Second one is the ability then to take that intelligence and move it into agentic orchestration, simple tasks and actions. And the third one is the ability to turn it into creation at the end. Simple example, I say, just in case that sounded like a bunch of tech words. Let's say we're in a sales meeting.
+I can take all of the sales calls, no matter where they happen, have a base of knowledge, marry that with Salesforce data and emails with the customer. I can query on it and learn. I have a base that just keeps getting smarter with me, turn it into simple actions of updating Salesforce, then turn it into a custom RFP at the end. So look, in enterprise customers, very different conversation. It starts with governance, trust, integration, search. With SMB, it is far more, "I want the out-of-the-box simple to deploy, help me with this problem that I have." So look, a lot of our big wins that we shared with investors have been on the enterprise side. We put some big names that have done wall-to-wall deployment, like MongoDB, Oracle, Salesforce, and we are proud of those.
+It is also about bringing that value to our SMB and online audiences as well.
+## Moderator | 
+Yeah. As you see customers shift out of this seat-based pricing model and go more-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+towards a hybrid consumption outcome-based-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+pricing model, how are you seeing them adapt in those sales processes, and how has that evolved over the past year or two?
+## Michelle Chang | CFO, Zoom
+Yeah. First, I think it's worth noting where Zoom is-
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+in that journey. Look, we have hybrid in Zoom Mates. We have full consumptive in things like ZVA. Still, as a percentage for Zoom, it's small. But look, this is a lot of where the market is going. Together with our customers, we are working through it. A lot of it is visibility, understanding, walking customers through it. They may have been burned before in terms of large surprises, not by us, but it's a lot of helping them understand, getting comfort. Then making sure that our sellers. We tend to not pivot our sellers by consumptive or per user, but we pivot them on adding value to the customer and think that's the right answer for our sales cycle.
+## Moderator | 
+Yeah. As you're seeing AI become larger from a usage perspective within your customer base, how are you thinking about the different margin levers that you can look at in order to maintain consistent gross margins over the next couple of quarters, acknowledging that, I think, usage is the most important thing for a lot of companies right now?
+## Michelle Chang | CFO, Zoom
+Yeah. Look, I'd say it starts with the top line.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+When you focus on business value, that brings the top line in. I think where people get sideways is where they forget that you owe the customer business value at the end of the day.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+I think it starts there. Look, Zoom has best-in-class margins, and our AI usage has gone up somewhere in the 100%-200% growth year-over-year for quite some time, and we've been able to do that and still, with an expanding portfolio, hold to gross margin. The formula for that, I would say, is the federated stuff that we talked about before, as well as it is just efficiencies in our core. Then look, staying true to that monetization piece. Then look, we have to work that SLM to LLM, and now open source gives us a great new leverage to go after.
+## Moderator | 
+Yeah. You guys are operating at that high-end watermark that we see companies-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+from an operating margin perspective. So 40% non-GAAP margin.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Moderator | 
+How do you think about that going forward? As you start to invest in more growth initiatives, how do you think about the ROI of that? Does that indicate there is more operating leverage still to come for the company? Or any second takes to that?
+## Michelle Chang | CFO, Zoom
+First, let me start with gross margin. We are still holding to a long-term 80%, which is phenomenal.
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+Even despite all of this. So starting there. What I have said to investors is you should think about our FY 2027 operating margin guidance, which is 40.7% in our latest guide.
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+as reflective of where we will be. Only when we see a more notable inflection in revenue growth will we change short of our operating margin, and that is because, like I have said very consistently, my focus will be on growth first and foremost, getting that growth to inflect, and we are proud of the progress. But at the same time, when we are at 5% growth, we have to be also maintaining our margins. So look, we will be very thoughtful about how we navigate that, but that is the guidance that we have given to investors.
+## Moderator | 
+Yeah. I am pivoting a little bit to some more of the specific product question.
+## Michelle Chang | CFO, Zoom
+Okay.
+## Moderator | 
+Workvivo has now surpassed $100 million
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+in ARR and is expanding from an employee communications tool into a broader AI native digital headquarters.
+I think you guys have said. How does Workvivo's role within the broader Zoom platform change as more employees and knowledge and work move
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+into that platform?
+## Michelle Chang | CFO, Zoom
+First, let me say Workvivo started as our employee experience
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+product. I love what they're doing this year. One, it's fun to see them pass the $100 million milestone because it's a great example of an acquired product set for Zoom. Even more, I talked about the federated model, and we talked about the advantages that that gives to Zoom, but there's also a secret ingredient in Zoom where we build once with our core AI technology and then leverage that in different ways. If we think about this system of action, of taking conversation to completion, there's a lot of reusable parts in that, and that's going to also be a key ingredient. Workvivo is a great example of that. So they announced Seer, which is using AI to get insights about your employee base, and they put AI in an AI first digital employee experience infused in there.
+Well, they did it with the backbone of what Zoom had produced, so I love that. Now it opens new revenue streams to continue to inflect the growth rate for Workvivo.
+## Moderator | 
+Yeah. Zoom Revenue Accelerator, and Common Room as well, have continued to extend Zoom outside of that just sales conversation.
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+into getting more buyer signals, prospecting, and a lot of things that can happen before that conversation even begins.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Moderator | 
+How broad is your ambition within the revenue technology stack, and how do you view the bounds of where you will go and where you will not go?
+## Michelle Chang | CFO, Zoom
+Yeah. Look, I think you will see us work our Common Room, which is sort of that insights piece that you talked about
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+together with ZRA, which was an existing product that sort of took that conversational intelligence when we are in a sales call and having that
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+into completion. It is a great marrying of two product sets to deliver something that others in the industry cannot do. Look, we will keep investors updated about where the product portfolio goes, but the thing I want to make sure I get out to investors is this is an area where Zoom has a right to win because a lot of our meeting space occurs, and sellers calls happen on Zoom Phone and happen on Zoom Meetings. If they do not, we have the open ecosystem approach. It is an area where I think taking that conversational intelligence to completion is a really great opportunity. We hear from CROs all the time of just wanting less complexity in their tech stack and wanting something that fuses it together, and so really excited about what Zoom is doing in the combination of the two.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+I think that you are going to see that rise in our priorities as we move forward.
+## Moderator | 
+Yeah. On the phone piece, that continues
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+to grow at a double-digit rate.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Moderator | 
+It's also scaled very nicely as well. It's not growing double digits on a small base. It's growing double digits on a big base.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Moderator | 
+It's continued to be more dependent on replacing on-premise systems and going after that old core phone system, I would say.
+Do you see that as the primary driver from here?
+Do you think it could use other levers, I guess?
+## Michelle Chang | CFO, Zoom
+What is driving our phone base?
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+It is a couple of things. Yes, it is on-prem because a lot of people on on-prem are rethinking in an AI world, but it is almost equally, last quarter, we had a lot of on-prem that can tend to be lumpy.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+But we drive both off of on the cloud and on-prem, so Zoom has a healthy flow from both. What I love about it is it's giving some real nice adjacencies to Zoom. Think about contact center. Frequently, we see contact center and Zoom deals go hand in hand, customers wanting that simplicity of one stack. But we also see Zoom Phone opening up new AI doors in things like we have a product, AI Receptionist.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+Well, think about what a natural adjacency that is to a phone sale and what value that can provide to customers that need sort of an always on simple help and resolution for their customers, and what a cost savings that can be. So I get excited both about the durability of the team's growth of feeding both off of cloud and on-prem, as well as the adjacencies that it gives us to land and expand in our base from there.
+## Moderator | 
+Yeah. This applies a little bit to Zoom Phone, but also probably to the broader suite. How much are you seeing AI start to become a part of decisions that customers are making when they're thinking about future-proofing their tech stack? Or does that still feel like a newer opportunity? Yeah.
+## Michelle Chang | CFO, Zoom
+AI is in any conversation, and that's why if I go back to our priorities, every single one talks about AI.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+We've got to reinvent the meeting for AI. We've got to fuse AI and Phone. We're clearly winning in contact center because of the AI disruption and because we have a tremendous product to meet that moment. Then we got to add new vertical scenarios in Common Room and ZRA and horizontal scenarios in ZoomMate.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+AI is the red thread to all of those, where it's no longer just some AI for AI's sake. I would say the era that we're moving into is prove the real value. That's why I love our approach is customer first, how do you show value to them? When we can do that with incremental sales or productivity or higher CSAT and cost reductions and resolution times, that's when Zoom is going to win.
+## Moderator | 
+Yeah. I think there's been a perception at least that Zoom has kind of historically won through this best of breed approach.
+But increasingly you're depending on a broader platform adoption in order to grow.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Moderator | 
+How do you kind of preserve that product differentiation,
+and that best of breed quality while also going after a broader platform opportunity?
+## Michelle Chang | CFO, Zoom
+Yeah. Look, I give our CEO a lot of credit for that. Look, it's how he thinks. If I think about the ethos of Zoom, if you will, it's simplicity, reliability, openness.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+Look, those are critical. And value for the customer. Those are as critical in yesterday of building the meetings core as they are in an AI world. I think that's why you're seeing us focus on customer value, focus on simple and reliable scenarios to deliver that value. Then certainly in an AI world, an open ecosystem, it's not going to just be everyone does all their AI with one person. That's not going to be the AI world we live in.
+## Moderator | 
+Yeah. Anything on AI budgets and how you are seeing at least enterprise customers start to make room in their organization for AI? Understanding a lot of it can be value-based pricing, but any kind of help that you can give us getting in the minds of your customers is kind of making this decision.
+## Michelle Chang | CFO, Zoom
+Yeah. Look, I will have to give you the CFO perspective.
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+Which is, I think a lot of it is clearly driving value from an R&D perspective and pace of innovation. You can see that so much of what I even talked about in that third priority came in the last six months.
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+For Zoom, customer experience, I think that that is one of the first leading indicators of AI, just from the standpoint that customers can see how it can solve the chronic issues of resolution time, having to repeat yourself, which leads to poor CSAT. In terms of unlocking budgets, I think it starts with our customer value. A lot of it is going to come from other areas that are not necessarily tech spend. It is going to come from, if you will, in the old cloud days, the analog to digital transformation of budgets that ultimately drives that. Look, I think to throw in one, because I probably forgot to mention it earlier.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+I think there's a lot of companies that put out AI stats.
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+of money. To me, the only stat that matters is AI inflecting your revenue growth in total?
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+For Zoom, it's a bit complicated because it comes in indirect monetization, in direct monetization. But the thing I care most about is are we adding value for our customers? When we do, does it inflect our revenue growth?
+## Moderator | 
+Yeah, I think some of the products that we've talked about here, some of them are organic, some of them are inorganic.
+## Michelle Chang | CFO, Zoom
+Yep.
+## Moderator | 
+I think we've definitely seen software companies in general become more acquisitive in this AI era.
+## Michelle Chang | CFO, Zoom
+Yeah
+## Moderator | 
+Curious what your philosophy's been and if there's been any change to that philosophy just as a result of the amount of innovation we're seeing in the private market.
+## Michelle Chang | CFO, Zoom
+Yeah. Look, I would say there's clearly been a change.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+Zoom has acquired two companies in its 15-year history and three in the last year.
+## Moderator | 
+Yep.
+## Michelle Chang | CFO, Zoom
+I think it's because there is a lot of value out there, but you also have to be very careful.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+What I've tried to do with investors, is really sharpen our talk track of how to think about when we will acquire. So what we've said is we'll acquire as part of one of those three priorities. We will acquire, and it won't slow down the progress that we're making. We'll acquire with strong financials, meaning a clear thesis of payoff and return and getting things to durable margins, et cetera, and inflecting revenue growth with synergies. Look, as a result for Zoom, that means largely small to medium sized acquisitions, which is what you saw us do, with Bonsai, BrightHire, and Common Room.
+## Moderator | 
+Yeah. As customer expectations have continued to evolve for Zoom, kind of reflective of how you're selling more of a platform today, any kind of direction that customers are pulling you into next? How do you think about kind of what that next leg is going forward?
+## Michelle Chang | CFO, Zoom
+Look, I think the conversations with customers are about AI trust-
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+and governance. I think the conversations have gone beyond AI for AI's sake and are very much like prove the value.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+That's great because I think that's where Zoom has really focused, too. So there's a great meeting of those two. Look, there's probably a bit of ahead of us if I give one that's sort of on the future, is this consumptive and what does that look like and how do I think about budgeting that differently as part of that.
+## Moderator | 
+Yeah. Any kind of early look or tidbits you're willing to give us ahead of the Zoomtopia conference in October?
+## Michelle Chang | CFO, Zoom
+Let's see. I think with Zoomtopia, I think you're going to continue to see AI innovations. Sorry, I got something in my eye. I think you're going to see us continue to sharpen those three priorities-
+## Moderator | 
+Yeah
+## Michelle Chang | CFO, Zoom
+of growth represent what gets us back to double digit, more durable revenue growth. I think you are going to see us sharpen those even more for investors just turning the crank as we go further on in our journey. Look, I think you are going to continue to see Zoom be Zoom. Simple, innovative, fast-paced while sticking to customer at our core.
+## Moderator | 
+Yeah.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Moderator | 
+Well-
+## Michelle Chang | CFO, Zoom
+We are excited to have an Investor Day, too. I think from an Investor Day, you can expect us to translate what we see at Zoomtopia to investors and how you think about that relative to our growth. We will have some longer term guidance in there and some fun stats to share as well.
+## Moderator | 
+Yeah. Well, appreciate it so much. Please join me in thanking Michelle.
+## Michelle Chang | CFO, Zoom
+Yeah. Awesome. Thank you.
+Data Source: Quartr Last updated: Sep 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

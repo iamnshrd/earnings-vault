@@ -1,0 +1,311 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference
+DATE: 2025-03-05
+## Joe Moore | Managing Director, Morgan Stanley
+Welcome back, everybody. I'm Joe Moore, Morgan Stanley Semiconductor Research. Very happy to have with us today, John Pitzer. And I lost, you guys want me to read a safe harbor. Here we go. On behalf of Intel, before we begin, please note that today's discussion may contain forward-looking statements based on the environment we currently see it. As such, we are subject to various risks and uncertainties. It also contains references to non-GAAP financial measures that we believe provide useful information to our investors. Earnings release, most recent annual report on Form 10-K, and other filings with the SEC provide more information on specific risk factors that could cause actual results to vary. They also provide additional information on our non-GAAP financial measures, including reconciliations where appropriate to our corresponding non-GAAP forecasts.
+## John Pitzer | Head of Investor Relations, Intel
+Appreciate you reading that.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah, I know.
+## John Pitzer | Head of Investor Relations, Intel
+I would have put glasses on, sir.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah, I have to put my glasses on too. I, it's kind of a squint a little bit. But anyway, thanks for doing this. I really appreciate you being here. And just kind of my question. So you're going through a CEO transition, lots of transformational stories coming out every day. But it seems like, from the way you're talking about on the earnings call and the meetings you've been doing, the strategy's still basically the same. And so maybe give us some perspective on, you know, what's happening at Intel now from more of a strategic perspective. It seems like you're still aiming towards the same general goals that you had under Pat.
+## John Pitzer | Head of Investor Relations, Intel
+Yeah, I mean, listen, it's a good question. I think the core of the strategy continues to be standing up a world-class fabless company and a world-class foundry. You know, I think on the margin, as you think about Dave and Michelle in the interim CEO roles, they have been given full agency to go off and prosecute the strategy, I think, on the margin. I think from an Intel Products perspective, I think there's a strong understanding that without that being healthy first, it's really hard to have a healthy Intel Foundry. So I do think Michelle's been given a bit more agency to go off and make decisions around what she thinks is best for the product roadmap and for longer-term market share there.
+I think the, you know, the biggest sort of manifestation of that today is she probably has more agency to use TSMC longer and for more than she might have had, you know, six or nine months ago. To be clear, you know, we have roughly 30% of our wafers outsourced today. That is probably a high watermark for us. To the extent that, you know, I think a year ago we were talking about trying to get that to zero as quickly as possible, that's no longer the strategy. We think it's always good to have at least some of our wafers with TSMC. They're a great supplier. It creates a good competition between them and Intel Foundry. Not quite sure what the right sort of level set is. Is it 20? Is it 15?
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+We're working through that. But we will use, I think, external foundry suppliers longer kind of under this new strategy. On the Intel Foundry side, I think you're right. We're on a mission to stand up a world-class Intel Foundry. I think the key point that the board wanted to stress, and I think, you know, Dave is clearly on board with this, is that we've, you know, put a lot of our owner's capital into that strategy over the last several years with not great financial returns today.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+I think incremental returns on incremental capital is gonna be a key metric that we look at as we drive that strategy forward.
+## Joe Moore | Managing Director, Morgan Stanley
+Great. That makes sense, so talking about the board, you know, the board is now faced with some pretty important decision-making. I know you had some key additions to the board. Is that something that was put into place after Pat left? It seemed like maybe it was underway before he left, but just generally, you know, the status of the board additions as you approach the CEO transition.
+## John Pitzer | Head of Investor Relations, Intel
+Yeah, I think the announcement of Pat's retirement was on the Monday after Thanksgiving, and the board additions were Wednesday. So clearly, you know, that was in process prior to Pat's decision to retire. And I think Pat was instrumental in kind of getting that list together. And I think it reflects the board really understanding that operational semiconductor expertise is something that they wanted to augment on the board. I think Eric and Steve were great additions on that front. But that was clearly something that was in flight prior to Pat's decision to retire.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay. Helpful. Thank you. So industrial policy was a big focus of Pat's, you know, and the prior secretary of commerce went so far as to call Intel the national champion. We have a change in administration, new priorities. But generally, there's still a lot of desire to have U.S.-based manufacturing, U.S.-based foundry. So, you know, what's Intel's role now in this? And I know that I'm not asking you to predict all of the uncertainty that's out there, but how do you manage the uncertainty that's out there? And how do you make sure that the benefits that Intel was getting, that you can retain?
+## John Pitzer | Head of Investor Relations, Intel
+Listen, I think the important point is that, you know, our interests and the administration's interests are fully aligned.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+You know, we like to remind people that as the administration drives to bring manufacturing back to the U.S., we never left. In fact, you know, the initial surge of this effort was back in 2016. I like to remind people that since 2016, I think we've spent over $100 billion of capital in the U.S. on manufacturing. I think more importantly, we spent over $100 billion of R&D in the U.S. and I think that level of R&D expenditure in the U.S. puts us at a scale that no one else can rival. And so I think that our interests are very much aligned with their interests. And we think, you know, it's incumbent upon us to execute and provide a process that customers want. But if we do, this is a market that's large enough to have two viable suppliers.
+As you know, Joe, kind of our goal is to be the second largest external foundry by 2030. We think we need roughly $15 billion of external foundry revenue to achieve that. And that would still put us at a modest sort of less than 10% market share in that market. So we think it's a realistic and achievable goal.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah. Great. That's helpful. So maybe where you are in process technology, you know, 18A, clear leadership potential on paper, from what we've seen, the backside power, you know, everyone agrees is a very elegant approach. How manufacturable is it? Are we still on track? I know the server products maybe slipped a little bit from the original schedule. But is 18A still basically on track?
+## John Pitzer | Head of Investor Relations, Intel
+Yeah, it is. I mean, I tend to wake up every morning trying to fish through rumors that are coming across on X or on social media about Intel 18A. I wanna be very clear. You know, Panther Lake is on track to launch in the second half of this year. That launch date has not changed.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay.
+## John Pitzer | Head of Investor Relations, Intel
+We feel really good about the progress that we are making. In fact, if you look at where our yields are on Panther Lake today, they're actually slightly ahead at a similar point in time to Meteor Lake. If you look at the development process for Meteor Lake, I think a couple weeks ago there was a technical paper out that actually looked at our SRAM density on Intel 18A that compared well with TSMC's N2.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+Lots of different metrics you can compare technologies on. I think, you know, in general, we think about Intel 18A being an N3 type/N2 sort of comp with the external peers. We're also on track, and we've announced this, that we're going to tape out our first external design on Intel 18A in the first half of this year. So we feel good about the progress that we're making there. Now, I'll remind you that we will launch Panther Lake in the second half of this year. In a similar vein, we launched Meteor Lake in the second half of 2023. It wasn't until 2024 that it became real volume.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+We launched Lunar Lake in the second half of last year, and this is the year where it becomes real volume. And as we've said on Panther Lake, we launch in the second half of this year, but it's really not until next year that we get to that volume, is where it really starts to help improve the margin profile of the overall company.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah, and the change in some of the schedules around server, you know, how much of that is just a standard of conservatism of, you know, we actually wanna be shipping in volume at those times? Because I feel like if there's one criticism, prior was that, you know, some of those, some of those targets were kind of squishy.
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. You know, I think we had like three or four different launch dates for any given product.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+You know, I think one of the things we tried to accomplish on the earnings call back in January was hopefully help people understand that we're not gonna make commitments that we don't have a clear line of sight of actually being able to hit. And it was one of the reasons why we delayed the launch of Clearwater Forest from what was supposed to be this year to the first half of next year. To be very clear, as we talked about on the call, it's not a wafer issue. 18A looks good. It really is an advanced packaging issue.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+Where we're doing hybrid bonding for the first time. The good news is we fixed that issue already. But it has caused a delay as to when we're going to officially launch the product. But we do expect to ship samples in the second half of the year to customers. So hopefully your channel checks will start to hear some good things about Clearwater as we ship those samples.
+## Joe Moore | Managing Director, Morgan Stanley
+Great. Okay. Appreciate that. Can we talk about the foundry versus product segmentation? You know, your product profits are almost offset by the foundry losses. Can you just remind us of the walkthrough to break even in foundry and, you know, how much of that is reliant upon external foundry wins?
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. To answer the last part of your question first, not very much. I mean, we talked about sort of a target of giving Intel Foundry to op profit break-even by the end of 2027. That's mostly on the back of Intel Products and actually mostly on the transition from moving our mix from Intel 7 wafers to Intel 18A. As we've talked about in the past, as we make that transition, you will see ASP per wafer go up three times faster than cost per wafer. And it's really what's driving us to a break-even op profit point, as we exit 2027.
+## Joe Moore | Managing Director, Morgan Stanley
+But implicit in that the CPU business gets the benefit, paying more for those wafers is still gives them the same profitability.
+## John Pitzer | Head of Investor Relations, Intel
+It's an interesting dynamic that you brought up.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+But I think it's an important point. You know, as ASP per wafer at Intel Foundry goes up, it is an incremental cost.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+That Intel Products need to go out and figure out. Now, they would have that problem if they were sourcing wafer externally.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+Because as you know, leading-edge wafers, whether you're getting them internally or externally, are just costing more.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+And so it is absolutely good for Intel Foundry profitability as we transition to Intel 18A, which makes it good for Intel Corporate. It does create some gross margin, you know, I think challenges for Intel Products that they're working through, but has been fully encompassed in sort of some of the targets that we've given out there.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay. And then your capital spending, I think it was slight downtick from where it was prior, but basically very similar. You know, you and I have talked about in the past, you have this large amount of construction in progress, which is assets not yet being productively deployed. You know, how do you think that plays out? This incremental spending, is that, you know, filling out fab, you know, empty fab shells that are still construction in progress, or just what's the dynamic that you need to spend this money, but you still have a lot of assets not yet?
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. It's, it's an area that really didn't get a lot of attention until Naga joined the company.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+Back in last year. And as you pointed out, you know, back at the Q1 earnings call, we did take our CapEx guidance from this year from what was $20 billion-$23 billion down to $20 billion on a gross basis. You are right. We've got north of $50 billion in what we call construction in progress or assets under construction. I think it's important to point out that includes both equipment and brick and mortar. So.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay.
+## John Pitzer | Head of Investor Relations, Intel
+We haven't really given you the split of each.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+But if you look at over the last several years, that asset under construction has grown almost every year, which is really an indication that perhaps we were buying ahead.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+A little bit too much.
+## Joe Moore | Managing Director, Morgan Stanley
+We had a Shell-first strategy.
+## John Pitzer | Head of Investor Relations, Intel
+but it was also on the equipment side.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+It wasn't just brick and mortar that was growing. It was also equipment that was growing. And, you know, we now have sort of an initiative to try to bring that number down. And so the way I like to think about it is we give you a gross CapEx number and a net CapEx number. It's also important to think about deployed CapEx in any year.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+Which is really the gross CapEx minus the changes in assets under construction.
+## Joe Moore | Managing Director, Morgan Stanley
+That's more than enough to just give me one CapEx.
+## John Pitzer | Head of Investor Relations, Intel
+But if you look at that, you know, our deployed CapEx has been below our gross CapEx for the last several years.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+This year, actually, our deployed CapEx will be up year- over- year and greater than that $20 billion as Naga and his team work to take down those assets under construction.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay. Maybe talk about product a little bit. You know, I liked what the board did with Michelle. And I just, I've always had this contrast of, you know, when Lisa Su got to AMD, she just focused on product for years and years and years. And I think about how many different things you guys have had to think about in addition to that and how much of the energy went into industrial policy, process technology that a TSMC customer doesn't have to worry about at all. So that focus on product seems to me really important. Like, how deep does that go now?
+How much is it, you know? I just feel like having better CPUs, not that they're not good, but having, you know, being competitive is just such a huge deal in terms of getting a stable foundation to invest in these other things.
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. It's a great question. I mean, I think it's important to point that while Dave and Michelle were made co-interim CEO of overall Intel corporate, you know, Michelle was given the permanent promotion to be CEO of Intel Products. And there was reason behind that. I think the board understands that, again, unless you have a healthy Intel Products, it's hard to have a healthy Intel Foundry. And so, you know, I hate the term first among equals, but.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+But in a sense, the Intel Products is a little bit of a first among equals because we know we have to get that right. We've got to be able to maintain the strong share we have in client, and we have to be able to claw back share in the server market if we're going to have a longer-term healthy Intel Foundry business. And MJ's been given the autonomy to go off and do that. And you've seen her already make some pretty important roadmap changes. We talked about Clearwater Forest. We haven't talked about Falcon Shores, becoming just a test chip.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+Moving all of our effort on the accelerator side to Jaguar Shores, which is really going to be moving from a silicon solution to a rack scale system solution. We've got a lot of wood to chop.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+And it's gonna take us time to get there. But I think we're, you know, have a more, I think, definable product roadmap that we can go off and attack. I think underneath the covers, I think MJ and her team are doing a lot to try to rationalize SKUs across our product families and to really drive cost downs in the product side of the portfolio, which I think is gonna create significant tailwinds to profitability in the years to come.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm. Okay. That's very helpful. Maybe if we go through some of the products, client CPU, you know, you had a quarter where you sort of signaled that there was some tariff pull forward. You've also talked about potential share gains around Lunar Lake, over the course of this year. You know, is your view still consistent with that? And you know, that idea of pull forwards, I mean, it seems like the total CPU number was a lot faster growth than the PC market. So I think that's, there's some indication it's less yours than AMD's maybe, but the totality of it does seem like there was some of that. Just how do you feel about that PC market, both from a share perspective and a unit volume perspective?
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. So a lot wrapped up in that question. Let me touch a little bit on sort of the, some of the tariff stuff that you talked to, because we did mention in our Q4 earnings that you know, it's not an exact science because we don't have clear visibility. But just some of the anecdotal conversations we were having with customers suggested that perhaps some of those customers might be protecting themselves against the potential of tariffs. And it's one of the reasons why when you look at our Q1 guide, you know, we guided well below normal seasonality sequentially in Q1 to try to capture some of the uncertainties that we're seeing out there in the marketplace. And that's inclusive of tariffs.
+It's inclusive of geopolitical tensions and just some of the uncertainty that I think the broader stock market has been grappling with.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+Over the last several days. I think we were one of the first to discuss this, and we got a little bit of flak that we were discussing it when we did. I think it's, you know, in hindsight, it's been prudent that we kind of looked at our guidance and tried to incorporate all of this onto AMD.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+Broadly speaking, relative to how we feel about the PC portfolio, great. You know, roughly speaking, you know, we're seven out of every 10 PCs that ship in the world today from a market share perspective. That is very strong market share, and it's really, you know, up to us to execute to maintain that strong share across all markets. You know, we only guided one quarter out.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+I will say that as we think about the full year, our view of PC unit growth this year is probably not much different than third parties.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+And they're kind of all sort of centered around that 3%-5% type unit growth number. I would highlight that that would be the best unit growth we've seen post-COVID. And we do think that in the second half of the year, and some of our OEM partners are talking about, you know, the potential of a stronger enterprise refresh. You know, we haven't talked about that yet, but if that does happen, I think we're well positioned to actually benefit given our ecosystem in the enterprise market.
+## Joe Moore | Managing Director, Morgan Stanley
+In the share?
+## John Pitzer | Head of Investor Relations, Intel
+You know, again, I think being seven out of every 10 PCs is a good share position to be in. And our job is to bring product out that allows us to maintain that. I will say that we've been pretty front-footed to remind you now that Microsoft is off exclusivity with their one Arm partner, that we would actually expect to see other Arm players come into this market. We like that because I think it confirms our view that this is actually a good market to be in. And clearly, whenever you have new competition coming into the market, they're gonna have channel sell-in, even without sell-through. And so that will put some pressure on headline share. But we think that we've got an extremely strong product portfolio with Arrow Lake and especially Lunar Lake.
+I think as we turn the page into next year and we get Panther Lake out the second half of this year and then Nova Lake the next year, that we're in a very strong position in that market.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay. Okay. That's helpful. And then server, kind of the same conversation about, you know, unit volume and share. And, you know, the, the, I guess your share is stronger in some parts of the market than others. So a lot of that's gonna be mixed dependent. But just generally, your view on the server market?
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. I'm glad you characterized the mixed dependent because everyone talks, likes to talk about the server market as being this.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+Monolithic architecture. It really comes down to customer by customer, socket by socket, application to application. To your point, there are areas that were stronger, and there are areas that we have some work to do. I think what we feel good about is now that we've launched Granite, you know, it helps to close the gap with the competition. There's still a gap.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+But it does help to close the gap. We have characterized this year from a market share perspective as a year that will continue to stabilize share. And I think we would try to highlight on our Q4 earnings call that as you, as we think about this year, both across, server and client, we're gonna optimize for share over margin. And we might be a little bit more price aggressive where we think we need to be in order to do that because we think it's important to defend the share.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah. And I guess what if on the counter to that, there's a big cloud refresh, particularly from consumer-facing cloud, where they're just like, "We need to start replacing these four and five-year-old servers." Seems like that's probably a headwind for you guys share-wise.
+## John Pitzer | Head of Investor Relations, Intel
+I mean, it could be. I mean, one of the things that we've highlighted and reminded people is that when we think about share in the market, it's not just the x86 market. We try to take into account what's going on.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+with the Arm servers as well. And if you remember, the end of 2023 was a big deployment for Arm-based servers.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+Which set up for difficult compare in 2024. So if you actually look at our share position in 2024, we actually gained share against Arm servers in 2024. A lot of that was, you know, the difficult compare that they set up in 2023. That difficult compare in 2023 becomes an easy compare.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+In 2024 to 2025. And so we think Arm is likely gonna do a little bit better this year against easier compares. And, you know, we're really thinking about what, what our x86 share will look like and, you know, the competition with, with AMD.
+## Joe Moore | Managing Director, Morgan Stanley
+What about the sort of cloud-native Sierra Forest-type products that sort of emulate the higher core counts of Arm? It seems like AMD was saying yesterday they've had some success around, you know, Bergamo, recently. Like, do you have optimism around those products?
+## John Pitzer | Head of Investor Relations, Intel
+We do. I think we think Sierra Forest is a good product. We're gonna be happy when we get Clearwater Forest launched in the first half of next year.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+Having said that, I'll remind you that Michelle on the earnings call did talk about the idea that our view of the E-core market versus the P-core, E-core being efficient.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+P-core being performance, that we actually think the E-core market's probably a little bit smaller than we originally thought.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+If you look at kind of our share position in servers over time, it's really gonna be dependent upon how we execute on the P-core more than the E-core.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay. That makes a lot of sense, and then Clearwater Forest potentially being a little later, it also wasn't accompanied with some of the hyperbole that we've heard describing that as kind of clear leadership product. Like, some of that is a style bias of who's doing the talking. But the, you know, your confidence in Clearwater Forest as a product that can regain share in those parts of the cloud.
+## John Pitzer | Head of Investor Relations, Intel
+It's a solid product. I think you kind of nailed it. It's sort of how we're describing things going forward.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+I think we're gonna probably be to the more conservative side, as opposed to the more optimistic side. Really, you know, I think one of the messages we tried to give on earnings is what we say is not nearly as important as what our customers say about us.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+You know, we're going to say less and do more.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah. Yeah. The Falcon Shores decision you referenced to sort of not bring that to market. So where does that leave you now with regards to AI? I mean, it seems the AI accelerator market seems pretty important, but also hard to crack. And so just how are you guys thinking about that?
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. I mean, again, from an AI accelerator market, it's absolutely a market that we wanna participate in. That's the genesis behind our investments in Jaguar Shores. I think it's also, though, important to remind people, and I think some of the DeepSeek learnings over the last few weeks.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+Has helped here is that the AI is not a market in the traditional sense. It's more of a workload.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+That's gotta span across the compute continuum. You know, from the data center into the network, into the enterprise, into the client, and into the edge. And right now, rightfully so, a lot of the energy and conversation is around hyperscale AI data centers because that's where all the dollars are being spent. But quite frankly, you can't monetize the dollars being spent there unless AI gets pushed out to the edge.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+We do think independent of what's going on with our accelerator strategy, as those workloads get pushed out to the edge, you're intercepting ecosystems where we're extremely strong and we poised to benefit, with a CPU-type solution. And quite frankly, the AI PC is a great example of that. You know, for any sort of node on the compute continuum, there's gonna be an optimum silicon solution that's gonna drive the best TCO for customers. And what's appropriate in the data center might not be appropriate in the hyperscale data center, I'm sorry, might not be appropriate in the enterprise data center and definitely won't be appropriate on the client or the edge of the market.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay. I mean, that's a really interesting point. And I think, you know, there was a time when you said 99% of all inference was happening on microprocessors. I feel like that's less true today, but is there an opportunity to actually drive a refresh business around that where, you know, at a CPU level, we start thinking about CPUs as an inference tool, which maybe helps you in terms of speeding up the refresh?
+## John Pitzer | Head of Investor Relations, Intel
+Mainly could. And you've seen us, you know, announce some relatively large LLMs that we're able to run natively.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+On our new Xeon chips. And so, you know, as the market develops, you know, again, it's incumbent upon us to come up with good TCO solutions depending upon what application you're running and where you're running it and there we do think CPUs hunt.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah. Okay. Great. A couple more questions, and then we can open it to the audience. How are you thinking about both Altera and Mobileye at this point? I guess Altera, there's been some movement, but can you just characterize what's happening there? And, you know, are those assets central to what Intel is doing?
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. This goes back to Dave and Michelle having full agency to execute on the strategy. A key part of the strategy was actually to do a stake sale for Altera, on track to an IPO in coming years when the market's ready and when the business is ready. And we continue to execute on that. What we've said is that we expect to have something to say in the Q1 time period. So stay tuned on that front. But we're making progress there. On Mobileye, you know, love the asset. It's not core to the business. And I think Dave and MJ will be pragmatic about, you know, balancing sort of our sources of capital needs with what's right for Mobileye and their shareholders as far as monetizing more of the asset.
+## Joe Moore | Managing Director, Morgan Stanley
+Okay. Very clear. Thank you. Let's see if we have questions from the audience. Great. So I guess I'll keep going. I guess, you know, coming back to the board's decision here, there's a very clear value case for Intel, I feel like, which is just fix the core products, kind of whatever that means, fab-lite, fab, you know, have the fabs, Intel 1.0. You know, it seems like you're still more ambitious than that. You're still aiming at something that's, you know, Intel 2.0-like in structure. You know, just how do you think about the balances there? I mean, there's obviously a very large opportunity here if you execute all of that, but it would be easier to maybe focus and isolate some of that.
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. I mean, listen, it's a good question. I, I think at the end of the day, you know, we understand that we have two very valuable assets that probably aren't being appropriately valued in the marketplace in large part because we haven't executed as well as we should have. And that's.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+You know, the Intel Products is a very valuable asset and Intel Foundry as a very valuable asset. I think that we've set up a structure where we've got optionality about how we go about, you know, ultimately monetizing those assets. You know, we've talked about standing up Intel Foundry as its own wholly owned subsidiary. We're in the process of doing that. On the earnings call, we talked about taking the next step of actually trying to find incremental investors into Intel Foundry and that we're in the early stages of that, Joe. And so what I would tell you is, this is a board that's very focused on making sure we're creating value for all of our stakeholders, especially our investors.
+You know, we're gonna try to look at all the different scenarios and come up with what we think is the best sort of balance of value creation versus timeline versus risk.
+## Joe Moore | Managing Director, Morgan Stanley
+Great. And on the Foundry side, you know, there's, obviously this has been something that we've been talking about for a very long time. How much expertise do you need to run that business? Do you need people running the Foundry business that have a background in it? You know, I know there was the Tower thing that didn't come to completion, but now you have a number of partnerships out there to try to resolve that issue. How much expertise do you need to build in addition to process technology? Once you have the process leadership, how much capability do you still need to build in Intel?
+## John Pitzer | Head of Investor Relations, Intel
+I mean, a lot. I mean.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+The server side of the business is the important side. You need a product that people want. And I think importantly, now that we've got the 1.0 PDK out on Intel 18A, we have seen increased activity around RFQs. It's, you know, our SAM is still somewhat limited to the overall TAM.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+I.e., if you're a high-performance compute customer, 18A looks really interesting to you. If you're a mobile customer, it looks less interesting to you. But in addition to having that process expertise, you do need, you know, the service mentality. And that's one of the reasons why we hired Kevin O'Buckley to run the external Intel Foundry group. Remember, Kevin came from Marvell.
+## Joe Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## John Pitzer | Head of Investor Relations, Intel
+he got to Marvell because he was CEO of Avera. So he also has experience at IBM and at GlobalFoundries.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+On the Foundry side, and we have augmented, you know, our human capital internally with a lot of other people that have worked at Foundries in the past. But as you know, you know, the long-term sort of core of building a Foundry is building trust with the customers that you're gonna support.
+## Joe Moore | Managing Director, Morgan Stanley
+Yeah. Yeah. Okay. Very clear. Oh, yeah. We have a question in the front. Sorry. You have a question in front here, the mic? Oh, great. Thank you.
+## Speaker 3 | 
+Thank you. As investors, what are the, I guess, key milestones that we should be expecting to hear from you as it relates to 18A in the near term? And then I think you partially answered this in your last answer, but what would you say was, I guess, the main reasons why things are taking longer at Foundry than I believe was originally expected, especially as it relates to external customers?
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. So both good questions. On the 18A front, I would tell you that the key milestones is us launching Panther Lake in the second half of the year, which I said we're absolutely on track to do. I've also talked about taping out an external design in the first half of this year, which I think is another sort of important milestone. And it's gonna be additional customer wins that we may or may not talk about depending upon whether or not our customers want us to talk about that. I will put in a little bit of a commercial. We are going to do an Intel Foundry Day on April 29th at the San Jose Convention Center. We call it Direct Connect. And it's really our opportunity to bring together the entire ecosystem. We did our first one last year in February.
+You know, I think it was fairly impressive to see all of the ecosystem that showed up and talked on our behalf. So I would recommend that anyone in the room who wants to learn more about the update to come to that April 29th event. As far as the second question, why has it taken longer than we have thought? Some of it is expectation setting. We probably didn't do as good a job as we could have with the investment community setting appropriate expectation. I would remind you the key milestone to date on the external foundry was really when we got the 1.0 PDK out for Intel 18A. PDK is the process design kit.
+It's really what external customers need to be able to see if the process is going to work for the device that they wanna plant on top of that. That happened in July of last year. It was a little bit late relative to our commit, but it's out there now. And as we talked about, once we got that PDK out, we did see a pretty big surge on request for quotes. We're not gonna win all of those RFQs. It's incumbent upon us to kind of win enough to make sure you're all comfortable that we're headed in the right direction.
+## Joe Moore | Managing Director, Morgan Stanley
+Colette did say today, I brought up, you know, this idea of you invested in a second Foundry. And she said, "Yeah, maybe someday or third," you know, so she did throw that out there. So that's good. Still hearing the right things from them. But I guess the key thing from them is they need to see that you're building, they can obviously make it work, but they need to see that you're building a business around it, that it's worth them making that investment.
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. And again, this was part of the reason why we set Intel Foundry up as a wholly owned subsidiary. There are customers that wanna see operational separation. We completely understand that and we're moving forward in that direction as well.
+## Joe Moore | Managing Director, Morgan Stanley
+Another question. Can you elaborate more on your AI strategy, whether it's primarily based on homegrown technology and work that you're doing, and also, along the same lines, what are the future steps that, you know, we can look out for in terms of the progress that Intel has on that front?
+## John Pitzer | Head of Investor Relations, Intel
+Just so I'm clear, when you say AI strategy, are you talking specifically accelerators for the AI hyperscale market?
+## Joe Moore | Managing Director, Morgan Stanley
+Absolutely. Yeah.
+## John Pitzer | Head of Investor Relations, Intel
+Yeah. It's really not much more that I can add. As we talked about on the earnings call, we've taken Falcon Shores off of the commercialization roadmap. That is only going to be a test chip. And we've really put all of our efforts behind Jaguar Shores. And the important thing there is we're moving from a silicon-only solution to a rack scale solution. You know, we think we've got the assets needed to be able to bring a full system solution to market, especially with some of the IO assets we have in our NEX business. But it's gonna take some time. And I wanna set the right expectation. Now, the other point that I probably should make, 'cause it's an important one, is, you know, Intel Products has an opportunity to capitalize on that part of the market.
+So does Intel Foundry, both on the advanced packaging side and on the wafer side. And we've been, you know, very vocal about how anyone doing anything with AI accelerators today is at least engaged with us on the advanced packaging side. And that's promising because that's, you know, going back to building trust. It's a little bit easier of a path to build trust on advanced packaging than on wafers because, as you know, Joe, you can sort of dual source advanced packaging suppliers in a way you don't dual source wafers. And so they can dip their toe in with us with a relatively small percentage of their needs. We can hopefully under-promise and over-deliver, build that trust, and get more over time.
+But I do think that both on the advanced packaging side and quite frankly on the wafer side, and whether that's a GPU or an ASIC, those are real opportunities as well that are worth pointing out, for Intel Foundry.
+## Joe Moore | Managing Director, Morgan Stanley
+Great. Any other questions?
+Data Source: Quartr Last updated: Mar 5, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

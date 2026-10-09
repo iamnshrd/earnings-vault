@@ -1,0 +1,354 @@
+TITLE: Citiâs 2026 Global TMT Conference
+DATE: 2026-09-09
+## Ron Josey | Analyst, Citi
+Morning, everyone. Let's get started. I am Ron Josey. I lead coverage here of the internet sector at Citi. Always excited to have the Zeta team with us today. Chris and Winnie represent Zeta. Zeta is, I think everybody. For those who do not know Zeta is sort of at the crossroads of a lot of different enterprise and advertising areas, so to speak. When it comes to Data Cloud, when it comes to MarTech, when it comes to marketing tech, when it comes to advertising tech, when it comes to AI infrastructure.
+## Chris Greiner | CFO, Zeta
+Yep
+## Ron Josey | Analyst, Citi
+Zeta is there.
+## Chris Greiner | CFO, Zeta
+Yes.
+## Ron Josey | Analyst, Citi
+Anyway, thank you for coming, both of you today. What I wanted to do is maybe we will kick off really quickly. Chris, tell us about what Zeta is in your words.
+## Chris Greiner | CFO, Zeta
+Yeah
+## Ron Josey | Analyst, Citi
+And introduce yourself. Winnie, I am going to come to you next because Winnie, by the way, is the Head of the Data Cloud, I believe, at Zeta. It is a treat to have you with us today. We are going to get the nitty-gritty on what is a data cloud. Chris, you know everything about the business.
+## Chris Greiner | CFO, Zeta
+We give her an IR badge for far too much of her time than she wants to do, but she's amazing. I'll start off with where we pioneered our footprint. As you said, that footprint now, and really the application of what we can do, we're being pulled in directions that we didn't anticipate, but now kind of going there full throttle. Initially, our primary buyer was the Chief Marketing Officer. If you put yourself in the Chief Marketing Officer's shoes, and these are with the biggest brands in the world, in every industry vertical, they are trying to figure out who they want to reach, how they're going to reach them, and once they do, how do I get that individual to engage with my brand?
+They have done that through the use cases of, I want to keep my existing customers for longer, I want to further grow my wallet with them, and then I want to acquire new ones. If you are a marketer or a CMO, you have to apply dozens and dozens of technologies against those three use cases. Whereas with Zeta, as you mentioned earlier, not only do you get as part of the out-of-the-box solution of using Zeta, access to our proprietary Zeta Data Cloud that you can't get anywhere else outside of the walled gardens.
+You also have the ability to consolidate many, many, many different point solutions and technologies that can consolidate all those use cases on a single platform, market through every single digital channel without exclusions, even through social. As I'm sure we're going to get into today, not just solve those marketing use cases, but we're now being pulled into the office of the CFO, into the Chief Strategy Officer, into customer success and service, and starting to see the application of our data, with use cases well beyond just marketing.
+## Ron Josey | Analyst, Citi
+That's great. I want to stick with this for a few seconds because Chris, you mentioned a primary buyer was the CMO. We ended this conversation on now pulled in the office of the CFO, pulled in the office of the chief strategy officer and several others.
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+This has been a massive year for Zeta, maybe 12 - 8 months in the making, probably more, given the partnerships with Palantir, of course, with OpenAI, with Snowflake.
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+When we emerge or call it expand from the office of the CMO into the office of others within the organization, how do we do that?
+## Chris Greiner | CFO, Zeta
+No better example than Palantir, right?
+## Ron Josey | Analyst, Citi
+Yeah.
+## Chris Greiner | CFO, Zeta
+If you think about what Palantir does better than anyone else in the world, is they create a perfect digital twin of every single piece of information that sits within an enterprise. Whether it is their customers, whether it is their vendors, whether it is their own internal policies and procedures, their own people-based data, they create a perfect digital twin that is hyper machine-readable, that then allows that enterprise to make far more effective decisions and also makes them hyper efficient. Now bring in Zeta.
+Zeta has the ability to do the exact same thing for you, but everything that is happening outside your four walls. When you think about the applications of Zeta and of Palantir together, we have talked about having several pilots underway, and working on many, many more beyond that. These are the biggest brands that love Palantir and are now proactively going to Zeta and saying, "What more can we do as an extension of what we are doing with Palantir?" Those can be certainly marketing use cases, and that is where we are beginning, but I think we could be added beyond marketing. Maybe you can give some examples of that.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yeah, absolutely, and we actually just had a question about Ford in our previous meeting a s an example.
+## Ron Josey | Analyst, Citi
+Ford, yeah, okay.
+## Winnie Shen | Head of the Data Cloud, Zeta
+I was giving some examples of how we can create more intelligence for them outside of their four walls. One, from the consumer perspective, from a marketing use case is we would know when their lease date is ending. We know what competitor dealerships those people are going to. We even know more things about the overall market.
+Imagine for certain locations, maybe there's a predominant Hispanic community there, and perhaps those individuals prefer Spanish language. We can give that information over to Ford to say, in these locations, you need to make sure to staff up on Spanish language speakers to be able to speak to those individuals. It's simple things like that, but it can be also more complex where are the next best locations to open up?
+Because we know where is there demand in terms of new automobiles, the type of automobiles, all the information around it, life events that are happening, population changes, where are people moving to and out of, to help inform them along with their competitor information. Where is there a lot of competitors in those same areas? That we would then be able to give them data points that would help them make decisions around where do they open new locations, where might they want to divest from in certain locations.
+## Chris Greiner | CFO, Zeta
+Yeah, so we're doing that in the dealership franchise model.
+## Ron Josey | Analyst, Citi
+Yep.
+## Chris Greiner | CFO, Zeta
+We're doing that with quick serve restaurants. We're doing that with retail chains. We're doing that with hotels. This kind of location-based intelligence now.
+## Ron Josey | Analyst, Citi
+That is a great example, and great to hear the other verticals as well, because the question we often get is: How do you operationalize the entire Zeta that is coming with you?
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+Winnie, I want to get into your background in a second.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Sure.
+## Ron Josey | Analyst, Citi
+Let us continue with this idea forward. A lot of what you mentioned were demographic information. Things that might be available otherwise.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+Talk to us about what Zeta brings within the broader platform that the dealers and/or Ford Motor might really benefit from specifically.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yeah, absolutely. Primarily our real-time signals. Decisions are made quickly, although automotive probably taken over a more extended period of time, but we know what people are reading online. What do they care about? Is it the features of that automobile? Is it the security? We know their financial and household profile. Are they going to need financing opportunities from you?
+Are they growing their family, and that's the reason why they're choosing to up-level into a larger automobile. So we really create the context around the consumer and the market that helps give better understanding and glean intelligence around who those users are by enriching those profiles with more than like 5,000 attributes and signals per individual within our Data Cloud.
+## Ron Josey | Analyst, Citi
+Let's dive a little deeper on that.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+That's very helpful. Winnie, I think you've been with Zeta for 17 years.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yes.
+## Ron Josey | Analyst, Citi
+Is that right?
+## Winnie Shen | Head of the Data Cloud, Zeta
+You are kind of doing the math, but yes.
+## Ron Josey | Analyst, Citi
+Chris, how old is Zeta?
+## Chris Greiner | CFO, Zeta
+Barely over 17 years old.
+## Ron Josey | Analyst, Citi
+It is barely over 17?
+## Chris Greiner | CFO, Zeta
+Going on 20.
+## Ron Josey | Analyst, Citi
+One of the pioneers of Zeta. Which is impressive, and congratulations on that.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Thank you.
+## Ron Josey | Analyst, Citi
+You are now in charge of the Zeta Data Cloud within Zeta, which frankly holds that 535 million consumer profile, if you will. I know it is not just a profile.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+What I wanted to hear more is that specific living, breathing Zeta Data Cloud and the application, and how do you keep the data fresh? Where do you get the data from?
+## Winnie Shen | Head of the Data Cloud, Zeta
+Sure.
+## Ron Josey | Analyst, Citi
+Why is this data proprietary to you? What does Zeta bring?
+## Winnie Shen | Head of the Data Cloud, Zeta
+Sure. Yeah, absolutely. We think about data in three core buckets. Identities, which are a representation of the individual. Identifiers, so those identifiers associated with you, your personal email connected to your business email, to your digital ID. Then signals, both the data at rest, but more importantly, the data in motion, things that are frequently changing about you.
+Across those three vectors, we have a multitude of sources. We have our own demand-side platform, a DSP essentially, where the bid auction is happening across our programmatic channels. We own our own SSP, that owns supply side. That's a publisher network. While we own our own, we also plug into all the major SSPs as well. We have our own message transfer agent.
+That enables us to send emails across IPs and our domains, where we send more than 6 billion acquisition email campaigns per month, and that's only on the acquisition side. That's not even inclusive of the CRM side. We own Disqus. Disqus is on more than 6 million publisher websites. Imagine there's a publisher site that has a discussion board, most likely Disqus is powering that. We also own LiveIntent.
+Think about premium newsletters like The New York Times or The Washington Post. You get an advertisement within that newsletter. We are powering the bid auction that goes in there as well. We have some of our own operate properties, and then we also round out our identity graph with some third-party partnerships, where we are really trying to create more intelligence for our customers.
+To your point about how do you keep it fresh and what are you adding to it, this year we've added a couple of different sources. One, we've added into the information voter history data. This political cycle that's happening right now, we have which elections you're voting in, what party are you registered with, donation signals, where now we're able to glean intelligence.
+I just did a report for Georgia looking at persuadables. What issues are starting to increase over time that the constituents care deeply about? Those persuadables really care about education right now. They're caring a lot more about disaster preparedness, as well as racial inequality. Those are the key issues that need to be spoken to really influence those persuadables.
+We're also really fortifying our international identity graphs, where we are creating more connections with those identities, bringing in more signal information as well. We're working with a big international airline brand, where now we can tell them, for their U.S. consumers, what are their destinations of interest? For their Canadian ones, where are the differences? For their French consumers, how do we better market to these different areas? We've also really fortified our business-to-person capabilities where we've now brought in technographic data.
+Now we know which companies has your competitor technologies that we can help you better conquest against. All of these signals, as well as the connections of those identifiers, are continuously broken and created based on what we see. If we don't see that connection for a while, we'll break that connection because we see that that identifier, associated with this other identifier, is no longer prevalent for that individual, where oftentimes we also see new connections happening that we can add those signals in as well.
+## Ron Josey | Analyst, Citi
+One last one for you, Winnie, Chris, I'm coming back to you in a second.
+But over the last, call it I was going to say three years, but let's say 18 months. Talk to us about where you have all these signals, how these signals have really evolved to sort of build this marketing platform where you can bring it all together and did things change significantly over these last couple of months now that your partner have all these partnerships to unearth the data to help drive business results?
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yeah, absolutely. I'll say that one of our major changes was around 2024, actually. That was one of our main pivotal moments where AI had really advanced, where it could interpret images and data a lot better. Before it was a little bit hallucinatory. Once that change happened, we actually pivoted our roadmap. We paused in developing net new, and our focus was integrating AI into all of our applications.
+We have dozens of them. So we actually created a challenge for ourselves because it was almost too much data for our customers. By incorporating AI, then we were able to then make it simpler for individuals to understand what are the insights and opportunities for me. But to your point, the last couple of months ago, we introduced Athena to be able to talk to our data cloud applications.
+So you don't have to look at each application individually and get the insights around them. Athena will help you navigate to the right applications that will help answer the business questions that you have, be able to interpret the data, combine those different data sets, and give you actionable insights and recommendations all within minutes.
+## Ron Josey | Analyst, Citi
+That's super insightful. Just because everything's changing here and to hear how it's changing on the ground is key. Maybe, Chris, we're going to bring it back up a notch to a certain extent, and we hear some pretty incredible numbers. Multi-use case adoption rose 90%.
+## Chris Greiner | CFO, Zeta
+Yep.
+## Ron Josey | Analyst, Citi
+I think in 2025, NRR reached 120%.
+## Chris Greiner | CFO, Zeta
+Correct. Yep.
+## Ron Josey | Analyst, Citi
+Once you're on the platform, you typically stay on the platform, right?
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+More customers are allocating greater spend to the platform. One of the questions we often get is just about the visibility of the model.
+## Chris Greiner | CFO, Zeta
+Sure.
+## Ron Josey | Analyst, Citi
+We kicked off the session talking about how Zeta sits within so many different clouds, whether it be the office of the CMO or the marketing cloud or acquisition. Now we are going to more, but just talk to us about the visibility that you see in the model and as a CFO.
+## Chris Greiner | CFO, Zeta
+Yeah
+## Ron Josey | Analyst, Citi
+What allows you to sleep at night?
+## Chris Greiner | CFO, Zeta
+Yeah. It is highly visible. If we first kind of decompose the revenue model itself, call it 60% of the revenue model is what customers pay Zeta to license the Zeta Data Cloud, perform analysis, create campaigns, build audiences.
+## Ron Josey | Analyst, Citi
+Okay.
+## Chris Greiner | CFO, Zeta
+That is the recurring part of the revenue. It is obviously highly visible, highly predictable. The other 40% is when the meter begins to run the consumption-based model, for when our customers take those audiences and campaigns they created and then put them through activation strategies. Activation strategies, meaning Zeta's AI knows which individuals in that audience are most responsive to which curriculum of activation, whether it is CTV, mobile, display, video, social. We have now five years' worth of pattern data with customers. As you mentioned, the last three years of our NRR has been 112, 114, and the last year, 120. We are through the first half of the year above our model of 110%-115%, above the high end of that.
+That is good and we like that, but what makes it predictable is we set, for the most part, our customers through pilots, and then they become scaled, and they become super scaled and beyond. We have data in our supplement, our earnings release materials, but I will walk you through it. Within the first 12 months, an average pilot is called $100,000. In their first 12 months, our super scaled, our customers in general get to around $700,000 in spend. In that next one to three years, that $700,000 on average goes to $1.1 million. In years three through five, it goes to $2.1 million. In years five-plus on the platform, it goes to almost $4 million, $3.9 million.
+There are years and years and years of this data, this pattern, where once we start someone on the platform, we can reliably see how their spend is going to grow. That spend happens, as you mentioned, it has up to this point mostly happened through adding channels. We talked about five or more channels being up 50% year-over-year. Now in the last, call it year and a half, once the One Zeta strategy was come into play, which is the selling of multiple use cases, retain, grow, or acquire any combination, which was up 90% year-over-year multi-use case, we are starting to see bigger deals happen.
+One of the data points we shared in the last earnings call was deals that were won in the quarter. The average size of those deals was up 40% year-over-year. It is one thing to look at what are the deals in the pipeline. Sellers can be aspirational at times in terms of what they load to the pipe, but at the end of the day, what closes is what matters, and those deals were up on average 40%.
+## Ron Josey | Analyst, Citi
+We should expect this cohort data, the five years, just gets better and better as more years go on.
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+Right
+## Chris Greiner | CFO, Zeta
+You talked about customers don't leave the platform.
+## Ron Josey | Analyst, Citi
+Right.
+## Chris Greiner | CFO, Zeta
+The reality is the longer you're with us, the more you spend, the more you use the platform.
+## Ron Josey | Analyst, Citi
+Right. Why do you think that is the case? I know we're going to get into Athena and we're going to get into all the different tools or whatever, but what exactly is changing in Zeta's approach to market?
+## Chris Greiner | CFO, Zeta
+Yeah
+## Ron Josey | Analyst, Citi
+That's allowing that ramp from $100,000 to $700,000 to $4 million or what have you over five years?
+## Chris Greiner | CFO, Zeta
+We start by lowering total cost of ownership. The initial value proposition is test us for $50,000- $150,000 on something you're spending millions and millions on. Let us show you how we can lower your spend by starting your marketing strategy much lower in the funnel.
+## Ron Josey | Analyst, Citi
+Sure.
+## Chris Greiner | CFO, Zeta
+We can tell you deterministically who is in market at this moment, not just who you'd be wasting spend on for someone that maybe isn't credit approved or not even in market. So we'll make you hyper-efficient and we'll allow you to reduce technology spend. But what allows us to get bigger over time is provable value, right?
+## Ron Josey | Analyst, Citi
+Yeah.
+## Chris Greiner | CFO, Zeta
+Within our platform, we create a visibility mechanism to where they can measure the efficacy of their marketing spend, not just of Zeta, but candled against every other vendor they are spending with. It is one of the best ways we go in, is we say, "Let's put pixels down, challenge your other vendors to do the same, prove out the spend." We allow them to measure that efficacy, not just on Zeta scoring the homework, but on their own methodologies, whether there is last touch attribution, multi-touch attribution, if they want to take the data and move it to a third party like a Verizon would do. Have that vendor really test out and prove the ROI. It is ultimately the return on spend that we are helping them generate that allows us the permission to go back and ask for more and to do more with them.
+## Ron Josey | Analyst, Citi
+Measurement is one of the hardest things to prove out within marketing.
+## Chris Greiner | CFO, Zeta
+Yeah .
+## Ron Josey | Analyst, Citi
+Talk to us about how you're able to prove out that measurement so that you can build the ramp.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yep, absolutely. We basically first asked to pixel the website to be able to then track all of the traffic that is coming in, not only traffic that we are driving in, to Chris's point, be able to measure everyone else as well. By placing that pixel on the website, we can see all that referral across those different types of providers, the combination of the channels that we see people coming in under.
+We also ask for all the conversion information. For e-commerce, we would have a conversion pixel on that page, and we would also ask for all their offline conversions to all go into the same omnichannel attribution dashboard. From there, we can then allow them to compare and contrast different types of attribution models, because there is different preferences from one client to another.
+We allow them to then be able to see each of the channels broken out, the combination of those channels. I was even looking and analyzing one of the reports that we have for a brand where we were looking at the combination of the channels. Weirdly, we saw that if you had a combination of display, CTV, and online video for this brand in particular, your performance was not as good as if you just had display and CTV or display and online video.
+That indicated to us you didn't need multiple brand awareness strategies around online video and CTV, you just needed one of them, because then you're creating inefficiencies when you started to introduce more. That's very unique to that brand. That might not be true for another brand. To be able to see that holistic picture across their entire ecosystem and how we can connect them, I saw another brand, a huge amount invested into direct mail. Imagine the people that aren't engaging with you in direct mail. Let's find them in another channel where they're actually engaged, try to re-engage them based on all the signals that we see here.
+## Ron Josey | Analyst, Citi
+We've spoken a lot about, we just got through visibility and measurement, the Zeta Data Cloud, and all the attribute s. Let's move forward a little bit in talking about something that happened this year, which was the launch of Athena, and I think that's the intelligence layer, if you will. Maybe Chris, I'll start with you specifically on Athena.
+## Chris Greiner | CFO, Zeta
+Yep.
+## Ron Josey | Analyst, Citi
+We were testing it for some time. We went live in March. Maybe bigger picture, tell us what it is.
+## Chris Greiner | CFO, Zeta
+Yep.
+## Ron Josey | Analyst, Citi
+I won't say early, but relatively early results thus far.
+## Chris Greiner | CFO, Zeta
+Yep.
+## Ron Josey | Analyst, Citi
+Winnie, I'm going to come to you and ask you how Athena changed sort of the go-to-market opportunity when working with clients.
+## Chris Greiner | CFO, Zeta
+Okay.
+## Ron Josey | Analyst, Citi
+Chris, first to you on.
+## Chris Greiner | CFO, Zeta
+Yeah
+## Ron Josey | Analyst, Citi
+What is and yeah.
+## Chris Greiner | CFO, Zeta
+We've provided our customers with a sixth-generation fighter jet where most are equipped to fly a Cessna, and in marketing parlay, that is an incredibly powerful platform, where there is vast amount of data. That feedback to us was it's almost overwhelming.
+## Ron Josey | Analyst, Citi
+Yeah.
+## Chris Greiner | CFO, Zeta
+Athena was initially created to be this facilitation tool. How do I get our customers to use more of what's in the corners of the platform, right? Really kind of take advantage of finding efficiencies and creating value. In those early days of adoption, we're roughly call it 40% of our super scaled customers are now monthly active users, not just access to it.
+All customers now have access to the platform across enterprises and agencies. But who's actually using it every day, and what patterns are emerging, and what can we glean from that in terms of our revenue funnel? What we're seeing is that of those 40% super scaled customers that are in the platform daily performing work, over 80% of how they're interacting is conversational. Whereas prior to Athena, it was all keystrokes. It was all discovery on your own.
+Sometimes there was our hand helping them along the way, but for the most part, it was their hands on keyboard really doing their discovery and their own analysis and planning and building of workflows. They're now engaging conversationally, which is driving more automations. In our world of how we monetize, if you think about back to our revenue model, what customers pay us that subscription fee for is the creation of audiences and the analysis inside the platform.
+We're seeing thousands of more audiences and campaigns being created because they're now engaging in a conversational way rather than having to do it manually. Downstream from that should be the usage component of our revenue. Once you create an audience, put it through workflow, the next logical step in working with Zeta is now I want to go reach those individuals. Now I want to go acquire them. The early optimistic signs are that it's performing as it's intended. It's making the platform easier to use. They're doing more output as a result of that, which should down the line lead to even further activation, more consumption-based revenue.
+## Ron Josey | Analyst, Citi
+Got it.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Cool. Yeah, I will add on, I will give a real example of a meeting I recently had and how Athena played a huge part in it, but also address some of the points earlier around selling to the CTO, the CFO, the other heads of the organization as well. We were with an agency where the head of their board was on the call, their CTO, their CFO. Funny enough, mostly not marketing people were on that call, and they wanted to understand our platform and the value that we can bring to them.
+One of the first things I talk about is we can white label our platform, give you the technology that you typically wouldn't have as an independent agency to be able to provide services like a CDP capability, to be able to onboard your first party and to glean all the intelligence and actually monetize the platform. Once I said, "Monetize the platform," their CFO's eyes lit up, and they are like, "Wait, let me play that back to you." We would be able to charge for it, that they could have a subscription fee for it. It could be if you spend X amount, we will be able to then monetize in this way. Very simple things that our platform was able to help support across those different types of decision-makers. The next thing I wanted to show them is they are in tons of pitches.
+They send us a lot of different RFPs, very quick turns in helping respond to those RFPs. I show them how quickly and easy it is to do with Athena. They were pitching a news media brand, and so we happened to have that data in our universe. They specifically were interested in their product line around cooking. I looked at our intenders.
+In our intenders, people who are reading about recipes, who likes to cook, and who likes to entertain. For that persona, we have all the information around them. What types of entertainment do they like? What kind of cuisines do they like? What types of food delivery services are they typically using? I basically asked Athena to help me create a persona based on all those attributes and signals.
+It took all that massive amount of information, things that it would probably take you days to actually analyze and put together. It gave me this very long output, thank you, Athena, but it is also hard to digest just in a chat window, right? I had her create a PowerPoint slide for me. Clear, concise, executive ready that we could then share with them, that they could then share with the end client that they are pitching.
+Not only creating that first persona, but even sub-personas based on the signals that we are seeing and even giving them recommendations across their different product lines, which ones should you feature when, based on the trends that we are seeing. All of this, Athena did within minutes. This call was only maybe 45 minutes long. I could show them all these things that we could do that you could then show that end client that you're pitching within minutes.
+## Ron Josey | Analyst, Citi
+It removes a lot of the friction.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yeah
+## Ron Josey | Analyst, Citi
+It makes things more smooth, and you're seeing significant adoption.
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+We're only a quarter in, quarter-ish in.
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+Okay.
+## Chris Greiner | CFO, Zeta
+Couple quarters, yeah.
+## Ron Josey | Analyst, Citi
+How does Palantir fit into this equation? We are now on Foundry. We are seeing more wins, I think.
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+Chris, just talk to us about the Palantir integration that we have been seeing, and how does that bridge us with the benefits and the use cases or the capabilities of Athena?
+## Chris Greiner | CFO, Zeta
+Yeah. It is multifaceted. I think first off, integrating Zeta's data, or I should say, having Zeta's Data Cloud move from AWS onto Foundry, makes the implementation process with Palantir's customers that much more seamless, but it also makes our process, our speeds at which we can deliver analysis much faster. Palantir is interesting from other partnerships that you mentioned earlier in that, of the ones that were kind of newly minted this year, there is Snowflake, there is OpenAI.
+Palantir's unique in that we also, in the course of delivering this seven-year contract, created incentives around joint selling that escalate over the years. It could be number of wins that we have, but then the ACV tied to wins. When we were able to put into the press release that we would envision this being at least a $100 million business on a per year basis, it was actually tied to goals and incentives. Even to little old Zeta, it is obviously pretty meaningful. But meaningful even to Palantir at those levels. The go-to-market engagement is one-to-one, so it is not just Zeta sellers going in. It is Palantir sellers with our senior sellers in the company, and David is leading a lot of these right now himself.
+## Ron Josey | Analyst, Citi
+Right
+## Chris Greiner | CFO, Zeta
+Which is awesome. He is our best salesperson. I think it has got a lot of promise. It is early days, too, though.
+## Ron Josey | Analyst, Citi
+Walk me through the $100 million again.
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+Because that's a number that was thrown out of the press release.
+## Chris Greiner | CFO, Zeta
+Yep.
+## Ron Josey | Analyst, Citi
+We've talked about it quite a bit. The goals and incentive side of it all.
+## Chris Greiner | CFO, Zeta
+Yeah.
+## Ron Josey | Analyst, Citi
+Talk to us about what. Break that down a little bit more for us.
+## Chris Greiner | CFO, Zeta
+Yep. It's a rev share model. Their take, if you will, comes off the top, so it's not a margin impact.
+## Ron Josey | Analyst, Citi
+There meaning Palantir?
+## Chris Greiner | CFO, Zeta
+Correct. It is a higher margin product for Zeta. It tends to be more leveraging our data analysis, which is very limited cost to us. I think it could lead to activation down the road. But right now, it's more on the analysis side, and the business intelligence side. We didn't disclose the tiers that have to happen over the years, but it's an escalating amount of client wins per year, and it's an escalating total value of contracts per year.
+## Ron Josey | Analyst, Citi
+Since we are talking escalating wins and contracts and everything, talk to us about, I think we saw two pilots.
+## Chris Greiner | CFO, Zeta
+Yep
+## Ron Josey | Analyst, Citi
+We have several others in the hopper here.
+## Chris Greiner | CFO, Zeta
+Yeah, we have ring-fenced 20 specific opportunities, with their largest customers with the largest marketing spend. These are all brands spending over $1 billion a year. They are emerging to be bigger than our normal pilots. I mentioned earlier $50,000-$150,000. These are kind of add a zero to them, which is great.
+## Ron Josey | Analyst, Citi
+Okay. Every quarter we will hear more about this?
+## Chris Greiner | CFO, Zeta
+Yeah. I think in every earnings call, I would be surprised if there was not a mention for a while.
+## Ron Josey | Analyst, Citi
+Okay. Winnie, with the integration of Foundry, how does it amplify the cloud, the marketing cloud? How does it amplify Athena's capabilities? Ultimately, so that is two questions. I am going to come back to you.
+With Palantir plus Athena, maybe I should talk about Snowflake and OpenAI, but with Palantir and Athena, how does it allow you to get into other areas in the organization? If you remember the question, Winnie, talk to me about how this amplifies the Data Cloud.
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yeah. Athena right now, as it is with all of our Data Cloud applications, can interpret and make recommendations based on what it sees in our data and what it can finds across the open web. Now you can imagine how much powerful it gets with the context of the organization applied to it, knowing what they care about, their business rules, their compliance, their rules, their regulations, what are their KPIs and their goals. Having that context will make the recommendations even more powerful and insightful for those organizations.
+## Ron Josey | Analyst, Citi
+Great. Chris, how do we expand to other parts of the organization?
+## Chris Greiner | CFO, Zeta
+Yeah. Meaning outside the office of.
+## Ron Josey | Analyst, Citi
+Outside of the CMO.
+## Chris Greiner | CFO, Zeta
+Outside of the CMO.
+## Ron Josey | Analyst, Citi
+Into the CFO, Chief Strategy Officer. Yeah.
+## Chris Greiner | CFO, Zeta
+I think we put in our supplemental deck, we wanted to show what further use cases we are being pulled into. These were the applications I mentioned earlier, location-based analysis, customer service analysis, and what new lines of business should I be moving into. All of those are natural extensions that we could also be doing with Palantir's capabilities.
+## Ron Josey | Analyst, Citi
+How easy is that conversation? In other words, the CMO calls up his or her counterpart in the tech organization.
+## Chris Greiner | CFO, Zeta
+Yep
+## Ron Josey | Analyst, Citi
+Give us a little bit more there, because it is not as. I know everyone is on the same executive committee, and we are talking about the opportunities, but it is a little bit more than that.
+## Chris Greiner | CFO, Zeta
+Specific to Palantir, if Dave were to hear, what he would tell you is that these sales engagements are going faster than they normally would. I think there's immense credibility. There is a passion, a positive passion for how customers love Palantir and what they're doing for them that is breaking down some of the speed bumps that normally exist when you're pitching a big-ticket item.
+## Ron Josey | Analyst, Citi
+Yep.
+## Chris Greiner | CFO, Zeta
+Deals are moving faster. Deals are moving wider into the organization as a result of this partnership. We were seeing this, by the way, even within our own sales cycles. I think a lot of times we'll get the question is, "Given the macro environment, are you seeing extended deal cycles?" And our deal cycles have been consistent because most of our deals close in two to five months because they're pilots. They're not subject to RFPs. That could be 5 - 15 months.
+## Ron Josey | Analyst, Citi
+Okay.
+## Chris Greiner | CFO, Zeta
+That's not out of the ordinary for us, but even moving faster than what we would typically see.
+## Ron Josey | Analyst, Citi
+Got it. We have about three minutes left here. I want to open up for anyone in the audience, any questions, and we can think about the questions. I keep going as well. We'll keep going here. I want to get to margin specifically. Before I do, we have talked about your other partnerships. That were announced, the Snowflake and OpenAI. How do those fit into Palantir Foundry and Athena's launch?
+## Winnie Shen | Head of the Data Cloud, Zeta
+Yep. For OpenAI, the voice that you hear of Athena is powered by OpenAI. We are also accessing some of their newer models that we can test out earlier. We are also actually one of their clients on the advertiser side. So we are actually testing out their advertising within their ChatGPT model.
+## Ron Josey | Analyst, Citi
+Okay.
+## Winnie Shen | Head of the Data Cloud, Zeta
+On the Snowflake side, a clean room environment enables us to get customer data faster into our platform. Since they are already on Snowflake, we are as well, that we can then bring in that data very quickly and glean intelligence faster, a path to intelligence there. We also enable clients to run their own BI models in that clean room environment, because they will typically have their own analytics team that they want to be able to run anything that they think is going to be most powerful for them. We also provide in their marketplace, a lightweight version of our Customer Pulse that basically gleans intelligence on brands at first-party data as well. So, really trying to create more opportunities for us across their network of clients too.
+## Ron Josey | Analyst, Citi
+As we wrap this up and we think about the core platform with the data, the new go-to-market approach, the ability for these, not RFPs, but pilots feed a larger level.
+## Chris Greiner | CFO, Zeta
+Yep.
+## Ron Josey | Analyst, Citi
+Chris, talk to us just about the margin side. Because when I see this and the ability to upsell and I hear larger numbers, it would suggest margins could start to expand. How do you think about that?
+## Chris Greiner | CFO, Zeta
+Yeah, look, I think it's all additive, for sure. If you start with the top javelin throw, which was by 2030, we want to get to at least 30% adjusted EBITDA margins, which is, call it, pretty darn close to 20% free cash flow margins. Everything we've talked through today is part of that roadmap to get to those levels. We have consistently grown free cash flow margins even faster than EBITDA margins, and EBITDA margins have been expanding every quarter and every year while we've been growing 20%.
+We haven't had to make that trade-off for growth versus profitability. I think we can, over the longer term, we can get anywhere from 100 to 300 basis points of gross margin improvement. I think we can continue to be very efficient in G&A. I think we can continue to be very efficient in sales and marketing. As well as R&D. We talked about last quarter, almost 90% of new code that was generated was done in a fully automated way.
+## Ron Josey | Analyst, Citi
+Right.
+## Chris Greiner | CFO, Zeta
+Each one of those OpEx areas as it relates to expense to revenue, like you saw last quarter, should continue to see strong efficiency gains that get us from, call it this year, a little north of 22% adjusted EBITDA margins on our path to 30.
+## Ron Josey | Analyst, Citi
+Okay. Look forward to continued updates on that market actually, because there's all these new changes to the market to the business. I think we're at time. Thank you, Chris and Winnie, for joining us today.
+## Chris Greiner | CFO, Zeta
+Thank you. Appreciate it. Yeah.
+## Ron Josey | Analyst, Citi
+Look forward to next time.
+## Chris Greiner | CFO, Zeta
+Awesome. Thank you.
+Data Source: Quartr Last updated: Sep 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

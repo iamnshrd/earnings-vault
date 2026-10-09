@@ -1,0 +1,1231 @@
+TITLE: AIPCon 11
+DATE: 2026-09-10
+## Moderator | 
+Please welcome Co-founder and Chief Executive Officer of Palantir, Dr. Alex Karp.
+## Alex Karp | Co-Founder andÂ CEO, Palantir
+Hey. God, I hate watching myself, but I guess I have to get used to that. Thank you people for being here, and we have a lot of long-term friends in the audience. Our retail investor represented here. Many people we have worked with for many years, many Palantirians who have been here forever. Revolutions, basically, typically, we think of sex, drugs, and rock and roll and how that kind of changes the world. Most revolutions actually do start with something like a somewhat flawed idea that progresses into an idea that is less and less flawed, that does change the world. Look at how we ended up with our Constitution. Look how Silicon Valley was built, how America was built, other great civilizations were built.
+We assume that everybody involved, like my parents were involved in protesting everything, but also the civil rights movement, and that when you are actually doing it is a lot of just small changes that lead to very big differences. Then a compounding and density of talent around those ideas, which is the way it is still the case that America and Silicon Valley have the greatest density of actual, functional, useful, compounding talent in the world. It really was just American industry and American government working on problems with a university that I went to, that was viewed as universally second-rate, called Stanford. I was like, "Oh, yeah. So second-rate, we can actually get away from just learning Latin and Greek and solve a couple of real problems. Yeah, we are not doing real academics, but we are building companies." Then that spirit.
+If you look at the AI revolution, which really, in nascent forms, began a long time ago with NLP, and these things did not really work, and part of the forward-deployed engineers was completely taken from noticing that in France, the food tasted better because essentially, the waiter was forward-deployed, meaning he was an expert in what they did, understood the product, would change the product for the partner client's eaters need, but would not pour corn syrup on the foie gras, no matter what you paid them. That is also important at Palantir. We will not build bullshit. We had this originally in the U.S. government. We ended up having to sue the U.S. government, that is kind of well-known.
+But the main reason we had to sue the U.S. government is we had this general, and I am sure he knew a lot about the battlefield, but he did not know much about tech. He was like, "Build me this bullshit alien anti-gravity machine that also tells me I am brilliant." And one of my Forward Deployed Engineers literally told the general, "But you are not smart enough to know how dumb you are." Now, okay, you are not supposed to do that, but that was really important. Then you look at what happened currently with the AI revolution, which started with, oh, it became real. Large language models could do very important things. Of course, they lacked precision. And of course, it really did not work with an application layer.
+But there was a willingness to say, "Well, something is moving, and yes, we are paying too much for tokens," and not to pay enough attention about the alpha that was leaving all of our businesses, except for in the classified environment that was never possible. So we knew a lot about how do you make models work where the model becomes precise. Ted is going to talk about this, but essentially, precision as a function of safety and usefulness was already a huge hurdle and required Forward Deployed Engineers rebuilding the Ontology, find post-training models. But also, and there have been many vulgar versions of this in French, actually, especially like we cannot afford to engage in various acts without protection, but you cannot use these models without an application layer, and that became very clear.
+But then what became clear of late, and we have NVIDIA and Cisco and others here that are going to talk about post-training, was you do not have to expose yourself to the dangers of random encounters with somebody who is known to be promiscuous and known to take your value and give it to other people. You can capture the whole value of your stack in your enterprise with your own models using frontier models or open-weight models that are fine-tuned.
+We are using these currently in many environments, especially interestingly in classified environments, where we are getting all the benefit of a model that is outperforming frontier models at a lower cost because of an application layer, with no safety concerns, where you control the alpha. What is that? That is the revolution that actually is changing, primarily, it is not just America, but is dominating the American landscape.
+Because what makes America special is the neurodivergent freak show that I very proudly represent. We bring creativity and ingenuity and knowledge to business. And a ruthlessness and an awareness that these things are real. We are not chillaxing, waiting for our vacation to come in this country. Nobody in business survives that way. You will be replaced, out-competed, totally disappeared, and sent home to do something else. We are in an active environment where we have very specialized ways of doing what we do. We need to augment them, protect them, make them more precise, make them safer, and never let our adversary on the battlefield or our competitor in life understand exactly why we are doing the thing they cannot do. And the systems are at scale. NVIDIA has the most complicated supply chain in the world. Their supply chain, we are on battlefields all over the world.
+Their supply chain is more complicated than many countries' supply chain. It has to work. They do not ship. A lot of the things we do in this country around the world will not work. That, interestingly, yes, that is a revolution. We are not really doing the sex or the drugs, but we are doing the rock and roll. That is literally what is going on, and that is what you see in our company. The other thing I am very proud of is the sovereign focus does many things. Just like the focus on helping the West, you end up with the best business partners ever because we are aligned with you, and we end up with businesspeople and engineers and IT people who are aligned with their business.
+That is an incredible thing because there is also just a lot more fun in getting these things done, in winning and the alignment. You end up working with the best people in the world, and you share ideas, and we proudly partner and share. We are in the business of getting paid after value creation. We are not in the business of convincing you it is valuable, providing steak dinners, taking your alpha. One of the reasons besides the immorality of it, the fact it would not work, it would not work for us, it is less fun, and you end up with the half-idiots. It is no fun. This is like we end up with the very best partners in the world, which are you and many people watching this, and the very best investors in the world. We did our DPO.
+By the way, we get rid of all the bullshit experts told you not to invest. All those experts that have no idea. We do not have many of them in our lives. It is great, too. With that, welcome. We are having a great time building our business into something that is much larger and scaling with and through partners. I am delighted you are here. Yeah, let us keep the music rolling. Take care. Bye.
+## Moderator | 
+Please welcome Senior Director of Solution Architecture of NVIDIA, Alex Neefus.
+## Alex Neefus | Senior Director of Solution Architecture, NVIDIA
+Thank you. The world is constrained by a lack of compute. NVIDIA views our supply chain as starting at the wafer and ending at the first token that is produced. There is unprecedented demand for our products right now. They power all the AI workloads probably of everyone in this room. The question we have is: How do we keep up with all of you and your insatiable demand? To do this, NVIDIA needs unprecedented visibility to identify constraints so that we can build the world's most resilient supply chain. We need to maintain a reliable AI infrastructure supply chain. This is a Grace Blackwell NVL72. It has millions of parts that come from thousands of suppliers who are spread across the globe. Whether you know it or not, this machine is likely running your AI workloads today. Take the compute board that you just saw.
+It has its own bill of materials, suppliers, and lead times. Dozens of individual OEMs are dependent on getting that same compute board in order to build the final system. However, our manufacturers cannot start until they have all the critical components they need, CPUs, GPUs, memory, and many more. We call this the Constrained Material Allocation problem, or CMA, and it is the hardest problem we face in supply chain.
+Optimizing the allocation of those components, some are coming directly from us, others are on consignment, but we are stocking anyway. We want to optimize not just production volume, but we want to minimize the amount of time that those critical components are sitting, waiting for other material to show up before we can build those boards. We have a name for this. We call it Time of Ownership, or TOO. It is the most important metric that we have.
+The goal is to minimize it. That is what keeps material moving to the frontier, where it starts producing AI tokens that all of you are consuming. NVIDIA needs a single view of all of that information in order to make the proper allocation decisions for those critical components. That is what we worked with Palantir to build, and we called it Command Center. You can see it right here. It takes all that data and makes it visible to our supply chain team. Now they can see where the blockers are. They can figure out which of our suppliers carry the most risk. They can see how realistic a factory's build commits really are. It lets our teams make the right decision. For instance, this graph here is basically showing you blue line is that TOO metric. We want it to be going down.
+We want the green line, which is throughput, to be going up. Very simple way to think about it, but all this data needs to get aggregated in one place in order to see that view. Today, this is for NVIDIA, but soon we are going to bring it to partners. We think of our supply chain as going both upstream and downstream, and we want everybody to see the path of those critical components all the way from the wafer through the system to the first token produced. We want to expand beyond just our boundary.
+Underneath, Palantir is providing the operating context for all of this. The Ontology is connecting materials, manufacturers, sites, commits, capacity, allocations. It is helping us put expected output versus the actual output. It all lives in the Ontology in a governed data layer. Dr. Karp talks about chips and Ontology. This is Ontology for chips. Allocating material across dozens of different factories starts as a math, as a quantitative problem. We can look at manufacturers capable of building that Blackwell compute module I showed you a minute ago. We map all the dependencies, we work backwards through supply chain, we factor in shipping, and we can assess what each factory can produce. There are thousands and thousands of different factors. It is complicated, as Dr. Karp mentioned, but it can be done.
+The sheer scale of our supply chain, the fact that we are on an exponential growth curve, makes solving this problem and calculating this problem nearly intractable. But we did it using cuOpt. cuOpt is NVIDIA's decision optimization library. It is a linear solver. Leveraging Palantir's AIP logic plus their agent engine, I hope you just saw the agent running on the right-hand side of here. Incredibly powerful. Their agent engine, we can describe really complex operational scenarios, and then we can model solutions to those. Once you have a solver, you can start exploring solution space. I can run all the what if scenarios. What if I had 10% less memory in this period? What if I stood up another factory site? In an instant, we can plan and allocate, building a new plan.
+But as you might have noticed within here on the left side, there are a lot of things that you cannot work into a mathematical model. Information that we captured in the Ontology that is qualitative, like emails, events, call transcripts, and notes. We can present that to our analysts in the workflows. This helps them in their decision-making process. But at the end of the day, the math just is not accurate without those humans, without adjustments from our expert supply chain planners. They have this tribal knowledge. They all have years of experience, emails that they are exchanging with partners on a daily, weekly basis. They are monitoring events. They are looking for new storms that are on the horizon or labor actions. Every day, they get a debrief from all our contract manufacturers in their inbox.
+All of this is basically feeding an instinct that they have on what the correct material allocation should be for the coming cycle. With Palantir, we needed to start by just building the workflows for those humans. We give them access to all of that data, we give them historic trends, and we help them see the evidence to make those decisions. Our analysts are at their absolute best when they have a complete informational picture, and we want to capture those moments of brilliance. Their tribal knowledge then becomes the explicit decision logic that can live in the Ontology. But data alone is not enough for us to build a model. We need a benchmark. The great thing about Foundry was we are able to build the benchmark right into the platform.
+When the analyst makes their allocation decision, they can save out the way that they did their allocation. This creates a natural benchmark and eval suite for us to look at later. It is better than just a static benchmark that people usually use to train models because it is always improving, and it is always evolving with the reality of the operational side of this application. On the screen, you are seeing Palantir's Autopilot. Along with Palantir developers, we pushed even further by integrating something called NeMo Data Designer. It is a synthetic data generation library. What it let us do is basically take one week's worth of sample information and make that look like months' worth of samples. We have sparse supply chain data, and we needed this to sort of bootstrap and get this project going.
+You probably also noticed in the visuals behind me, a lot of these do not look like normal NVIDIA suppliers because they are fictional names and events. Data Designer not only creates this synthetic data for us, it allows us to anonymize the data, protect privacy, while still keeping the core signal that we need to train off of. Palantir has embedded NVIDIA Nemotron open models and AutoModel, our fine-tuning library, into their platform. We use the inputs from the experts, we add the ground truth from the system, and we fine-tune the model. We already have those benchmarks I mentioned from our analysts, so we now have a reliable way to evaluate the model. We know what good is.
+For example, if I take this candidate model, I can now go run it back, do the backtest two months ago and say, "Will it make the same decision that the analyst would make?" If the model shows improvement, great. We can deploy it back into the workflow, and now we have an assistive technology for our supply chain experts. That closes the loop. Then we can start building the next iteration of the model. You do not fine-tune once. You fine-tune continuously within the product. This takes all the cognitive load, or some of the cognitive load, I should say, off of our professionals so that they can cover a lot more ground, do more. It codifies our tribal knowledge so that we can onboard new analysts quicker.
+Now every analyst is learning from every other analyst because they have this model that we are putting our knowledge in. We captured our alpha, and we trained it into a model. Here is what we learned. We could not have started this process until we had built the workflows in Palantir. We needed a way to capture all that data and get it into the Ontology. So we needed Foundry. We needed Ontology. The next thing we did is we evaluated all of our Nemotron open models. Small, medium, large. We just took the out-of-box performance. Then we put them through post-training, and we were able to get the smallest, most efficient model, called Nemotron 3.5 Lightning, to outperform our largest model, Nemotron 3 Ultra, and by a large gap. A small purpose trained model will outperform the predictive correctness of the biggest model, 10, 20 times bigger.
+Retraining this Model 2, we can do this on just a single GPU in a couple of hours. This lowers the bar, meaning that we can be retraining more and more often, really as often as we like: weekly, nightly. Basically, any time we have the signal that we have enough data that we could be improving the decision intelligence. Here is where we are today. The Ontology, the workflows, the fine-tuning, it is running entirely on premise at NVIDIA.
+Given that this is sensitive supply chain data, that seemed like the smart choice. The hardware baseline is NVIDIA's AI factory reference architecture. We worked with Palantir to port their stack and run on this opinionated version of the reference architecture. We published this together jointly, and it is called the Palantir Sovereign AI Operating System. It is available to all of you. You can see the blueprint. It is up online.
+Above that is the model and application layer. Post-train Nemotron 3.5 Lightning is the open-weight model behind Command Center. We are running our sensitive supply chain data and intelligence within there, within sovereign infrastructure. NeMo post-training libraries, Palantir Ontology are the things that let us turn Nemotron into a supply chain domain specialized model. Palantir Autopilot is the piece of their platform that brings that all together. It lets us trigger retraining an auto model based on the planner's feedback. It lets us do the evaluation against the benchmark and the historic data. Together with Palantir, we have built a governed learning loop. It started with operational data. We built a model. We use that, and our analysts use that to make better decision intelligence, and now we are back to operational data, and we can do it all over again. Thank you for your time.
+## Moderator | 
+Please welcome Associate Administrator for Aviation Safety Management of the FAA, Nick Fuller.
+## Nick Fuller | Associate Administrator for Aviation Safety Management, FAA
+Thank you. Good morning. As leaders, innovators, and engineers in tech, you understand that data is the ultimate truth teller. But data without context and without the ability to take action delivers no value. Before the tragic collision at DCA in January of 2025, warning signals were there. They were scattered across the aerospace system, but no one had the tools to see the risk ahead and importantly, act on it. The issue was not a lack of data. It was an inability to wield that data to drive effective, timely decisions. Decisions that impact the safety of every passenger and crew across the country. Today, I would like to share how we are changing that. In January, the FAA launched Flight Plan 2026, a strategic operational organizational overhaul built on three pillars: safety, people, and National Airspace System modernization.
+A modern safety management system must be a live, agile architecture that enables us to identify and spot risks proactively, connect the dots across our organization, and make decisions before there's a problem. We formed the Aviation Safety Management Office to lead SMS in a coordinated risk management strategy for our entire agency, eliminating data silos and ensuring access to agency-wide data and analysis. We're moving away from a reactive posture, moving toward a predictive posture where our operating system tells us what might go wrong before it happens. Many groups across aviation have historically managed safety within its own silo, with its own data, own metrics, and its own processes. ASM's role is to orchestrate a single national picture of safety risk across the FAA's organizations and industry. This has required a true bidirectional partnership across stakeholders.
+Each safety organization receives workflows that make it more faster and precise while ASM orchestrates a consolidated national airspace picture. These safety organizations aren't just feeding a dashboard. The aggregation comes as a byproduct of them receiving genuine operational value themselves via decision support workflows, all built on Palantir. Delivering on this ambition meant safety organizations work from mission-specific workflows but built on a shared ontology. One source of truth. Decisions are logged, aggregated, orchestrated at the ASM level. That shift from scattered data to an embedded ontology is what changes the game. People, process, logic, all working from the same foundation. In partnership with Palantir, ASM has integrated siloed source systems into one platform, one ontology encompassing the data, logic, and decisions that drive our operations. This is FAA modernization in operational form, changing how safety work gets done, not just where data is stored.
+ASM is the office finally positioned to carry that mandate forward, and Palantir is making it real. Today, I'd like to show you how Palantir is enabling us to combine FAA's unique ontology with an agentic AI, scaling our safety posture by proactively drawing operators' attention to the decisions that need it most. This is the operational difference between collecting safety data and being able to act on it. Across the NAS, the system continuously evaluates safety signals and surfaces where attention is needed. Weather, event reports, air traffic control audio alongside historical context and current actions underway. Every signal, every decision automatically monitored from every location and every state across the country. As you can imagine, replicating this work without Palantir requires hundreds of analysts to pool together multiple systems, reconcile different definitions, and manually compare trends in real time. That alone is already untenable.
+When you add the downstream requirements, connecting the signals to its operational context, evidence, accountable owners, and next actions, combine this ability to monitor proactively at scale with wider data logic and actions ontology, that's the transformational unlock here. Looking into a risk scenario identified in Houston, I can immediately see a recent spike in Gulf Coast airborne separation events. We can break down the pattern by asking what kind of events are driving it, fixed wing to fixed wing, fixed wing to helicopter, or other categories. This moves the analyst from a list of events to an interpretable safety issue. This safety risk is backed by a vast array of context and relations mapped out across the ontology, connecting the relationships between events, aircraft, facilities, people, processes, evidence, risk, and actions. Just making the scale of data available to operators is not the solution.
+It's enabling agentic operators to work alongside our people to scale their efforts and focus their time on insights that matter most. That human AI teaming extends beyond just identification of a risk. AIP enables us to engage a swarm of agents in the investigation stage. This isn't just generating a summary or answering a question. These agents are working through a governed investigative process grounded in the FAA's people process ontology and the underlying evidence. On the left, we can see the investigative agent reasoning through its analysis of the risk. It is looking at where these events are occurring, the common themes they share, and what patterns may point toward a root cause. This first-pass triage is important because it scales the time-consuming work of expert analysts without attempting to replace their judgment. The agent can gather and structure the evidence quickly.
+The human remains responsible for evaluating the analysis and then deciding what happens next. What's critical here is that the output isn't just text, not a report or a document, but an operational safety model. We identify the hazards. What is going wrong in these scenarios? Each hazard has associated risk. For example, a loss of separation could create a risk of a midair collision. For each risk, we can identify mitigations, the actions that reduce or eliminate the risk. Because these mitigations are represented as objects in our ontology, they form the building blocks of downstream workflows, meaning they will tie directly into our decisions. Mitigations flow automatically to the appropriate owner. An air traffic mitigation may belong with one line of business. A pilot or operator mitigation may belong with another. Preventative actions can be staged within the right group, then executed, tracked, and monitored for their effectiveness.
+This was just one safety issue. As we zoom out, we can see that every signal, event, and risk is receiving that same thorough data-driven investigation. Every one of these identified issues flows into our risk matrix. Severity indicates how detrimental the outcome would be if the issue occurred. Likelihood tells us how probable it is to occur. The issues that move up and to the right require the greatest attention. With every trace captured in our ontology, we can see how every single issue got here and what is happening to address it. Are the mitigations assigned? Are they on track? Have they been implemented, and are they effective? Of those mitigations taken into effect, are we seeing a level of risk come down? This is the operating model ASM is building, moving from a passive report of what happened to a connected, proactive safety workflow.
+Palantir enables the FAA to deliver this ambition at the speed, scale, and fidelity that the mission requires. ASM can continue extending this connected operating model across the NAS, connecting more organizations, surfacing risk earlier, and turning proactive safety into a repeating operating capability. Palantir enables us to safely and securely integrate these technologies while maintaining human oversight. AI will serve as a tool to support the decision-maker with enhanced intelligence. This is core to our mission, moving from reactive oversight to predictive safety, keeping America's airspace safe for every passenger, crew, and beyond. Thank you for your time today, and enjoy the rest of your evening.
+## Moderator | 
+Please welcome President and Chief Product Officer of Cisco, Jeetu Patel.
+## Jeetu Patel | President and Chief Product Officer, Cisco
+How is everyone doing? Well, it is great to be here. I am delighted because this partnership that we are going to talk about, this collaboration with Palantir, happened in record time, and the clock speed has improved so much. How many of you here have kids? Anyone? Yep, a lot of you. I have a 15-year-old daughter. I think she is probably going to manage agents way before she manages humans, right? We are going to go through this shift in reality where agents are going to be proliferated all over. In fact, what has happened now that most people do not realize is agents consume about five times the amount of inference capacity than humans do today, right? The agents exceeded human capacity in February, and there is this tremendous amount of momentum that is starting to get built up.
+The secure delegation of work to agents is going to be central to this kind of movement that we are experiencing, because the difference between secure delegation and just plain delegation is the difference between market leadership and bankruptcy. We have to make sure that we keep that in mind. There are three key vectors that we think are pretty important to make sure that you balance effectively when you think about agents, when you think about AI within your environments. The first one is just sheer intelligence density. The second is the cost, and the third is controls.
+The first one on intelligence density, it is not just about making sure that we have the highest and most intelligent model, but that intelligence coupled with cost, so that your cost. It is not just the cost per token, but it is the cost, the unit of intelligence, a useful unit of intelligence per token, per dollar, per watt is really important, right? But even if you just go with intelligence at the cheapest price or at the most efficient price, it is not sufficient because a lot of us find that we want to make sure that we can have control over our data, and that is going to be central. What we are doing, and I am delighted to announce that we are extending the collaboration with Palantir.
+We are already customers of Palantir, but we are extending the collaboration with Palantir, where we have now Palantir's Ontology model for cybersecurity that is going to be provided within Cisco's AI Factory with NVIDIA. What that means is you will be able to have a Nemotron model that will get post-trained and fine-tuned with Palantir, have the right level of security guardrails, and we will provide at Cisco a secure and observable full stack. Everything from the GPU to the networking, to the security, to the observability. All of this in partnership and in conjunction with what we are doing with NVIDIA as well as with Palantir.
+We are hoping that we can actually make sure that this just increases the sheer amount of velocity as well as comfort that organizations have, both public sector, and federal agencies, as well as local agencies, as well as the private sector with the enterprise, specifically ones that are regulated to be able to benefit from this. We are excited about this. Alex and I met last week, and we actually talked about what the market potential for something like this is. Because these things are going to change lives in such fundamental ways, but they require that we have the right level of cost economics in place. They require that we have the right level of controls in place with the right level of density of intelligence.
+The fact that someone like NVIDIA has actually made such a huge push forward on open source and open weights models is going to be fantastic for the country. It is going to be fantastic for the customers all throughout the world. We want to make sure that Cisco plays a small part in that. So excited about this. If any of you are more interested in any of these partnerships that we are doing, please reach out to us. Thank you again for all of the kind of innovation that we have actually seen happen over the course of the past few years with NVIDIA as well as Palantir. Cisco is delighted to be a small part of it. Thanks again.
+## Moderator | 
+Please welcome Chief Executive Officer of USA Today Co, Mike Reed.
+## Mike Reed | CEO, USA TODAY Co
+Good morning. Hey. It is great to be here with so many leaders who are shaping the future of technology and innovation. As you all know, technology and innovation has had a really significant impact on the media business, which I am here and represent USA TODAY because the CEO of that company. You might say, "Well, USA TODAY is a newspaper company. What are we doing with Palantir?" I will explain to you today. We are actually an intelligence organization now because of the shift to online and the data we have from consumers. At USA TODAY company, our mission is to deliver trusted journalism and connect and inform, or trusted content that connects, informs, and serves our communities across the country and in the U.K. as well. Our journalists produce extraordinary work for USA TODAY and more than 200 local properties.
+We are unique in that we have this national platform, and we also have this very scaled local platform, and together, that is the USA TODAY Network. We have excellent reporting that reaches millions of people every single day on our platforms across the country. The challenge we have today in today's world is making sure each reader gets the experience they want that is most relevant to them, and at the moment it matters most. How do we monetize that? Fundamentally, we want to help also, we want to help our journalists and the trusted content that they produce every day find the right audience at the right time.
+We have years, and this is why I just mentioned we are really an intelligence company because we have years and years of first-party data about what our readers read, what they watch in video, what they search for, what they return to us for, what they are engaging with. We understand their interests and how they move across our platforms. Historically, much of that information has been in separate and disparate systems. It has made it very difficult for us to act on that information, turn it into intelligence. But working with Palantir's platform, we are connecting all of that information, all of that data, into a single unique Ontology, turning it into something our teams and our systems can use. The goal is not to just collect more data.
+The goal is to make better use of the data we have, what we already know, while keeping USA TODAY in control of the audience relationship, the decision making, and the experience that we deliver to every consumer on our platform. To show what that means, we are going to follow one reader along today, and this is an illustrative example on the screens that you are going to see here, but it is a reader on our platform, Marcus. He has been engaging with USA TODAY content over a period of time. His interests, his reading history, his subscription status, and his consumer actions across our platform are all represented in the Ontology.
+That matters because the Ontology gives us a shared operational view of the reader, the content, and the actions available to us. In our operational instance here, Marcus's data remains anonymized throughout this workflow, and that is important.
+The system uses governed data to personalize the experience for Marcus without exposing his identity to others. Instead of treating each data source as an isolated record, USA TODAY can work from a connected picture of what is happening. Each day, agents use that context to generate a personalized newsletter for Marcus. The agents select and order a set of articles based on his interests and his recent behaviors on our platform. They can also personalize the affiliate recommendations included at the bottom, making them more relevant, making that a bigger opportunity for us to monetize the consumer. On the right, we see why each article was selected. The explanation's important. The system is not making an opaque recommendation and asking the newsroom to take it in good faith. USA TODAY can expect the reasoning, apply its own policies, and decide how the experience should work.
+We're excited by what this means for our journalists and their reporting, articles, and stories. We're not taking the journalists out of the equation here or authoring any content with AI. These agents are traversing the pool of content available across our entire networks and building a unique experience for every single reader on the platform. We're personalizing this for every single reader. We highlight stories that we can highlight stories they've missed, go deeper on stories they're interested in, and we can introduce them into entirely new topics. This is also how we're helping journalists find their readers. Rising up, the same approach continues when Marcus opens an article from the newsletter, for example. AIP agents can help populate the experience with relevant advertising, affiliate links, polls, and suggested next reads. It's important to note that the journalism remains governed by USA TODAY 's editorial standards.
+Personalization applies only to how Marcus discovers and moves throughout our network and throughout all of our content. As Marcus reads, clicks, and responds, those actions are then written back into the ontology, and his profile becomes more useful over time. It continues to evolve. The next newsletter and his next article experience can reflect what USA TODAY has learned from their current interaction, creating more value and creating a better experience for every single reader on the platform. It creates a continuous operational loop, understanding the reader, delivering an experience, observing the reader's response, and improving our next decision. USA TODAY owns that loop rather than handing that relationship off to an outside platform. That's important for us, too. Trust is a very important part of what we do. Now we can zoom from one reader to the wider audience.
+USA TODAY can use the same connected model to understand cohorts, test different approaches, and identify which experiences create value. Those use cases can start with one publication or one market and then can expand across the entire network with the relevant governance and controls of the USA TODAY in place. That is good for readers. It's also good for journalism. It also creates commercial opportunities. Recommendations can become more relevant. Anonymous interactions can develop into relationships. USA TODAY can make better decisions about what a reader should see next and how to create a value for both the readers and the advertisers that are using our platform. That business context matters. Search and referral patterns are changing, and AI is changing how people discover information.
+In an increasingly digital and social world, publishers need a direct understanding of their audiences and a way to act on that understanding quickly, turning that data into real-time intelligence. Palantir provides the data foundation and the operating model for this. The Ontology connects readers, content, interactions, and business decisions. AIP lets USA TODAY apply agents to those workflows with its own permissions policies, and review processes. That combination gives us a way to build and improve these experiences, but on our terms. Our commitments to data security, to governance, to journalistic ethics, and reader trust remain unchanged, and that's vital to our business. Trust is part of the outcome we're actually trying to strengthen with this partnership. Readers should receive more relevant experiences while remaining confident in the journalism, the content that they're receiving from us, but also how their data is being used.
+Ultimately, this is about creating a more direct connection between great journalism, the reporters who produce it, and the audiences we serve. For too long, publishers have had to rely on intermediaries to understand and reach their reader. USA TODAY is building the ability to understand its audience, improve the experience, and decide how that relationship develops. AI can help our exceptional journalism find the audience it deserves, while USA TODAY 's editorial judgments and standards prioritize our relationship with the reader at the center of all we do. We represent a national voice, but also tremendous local scale. That's what we do at USA TODAY . You will see these all around today, the conference center for you. This is a special wrap we have for everyone here that's wrapped around today's USA TODAY .
+There's also a little QR code if you want a nice subscription price or a subscription offering for all of your employees. Thanks for your time today. Thank you. Enjoy your day.
+## Moderator | 
+Please welcome President and Chief Executive Officer of Hexion, Michael Lefenfeld.
+## Michael Lefenfeld | President and CEO, Hexion
+For almost all of you that do not know, Hexion is a 170-year-old global chemical manufacturer. From kitchen tables, office desks, to homes, cars, roads, and bridges, our company spent all the time building the physical world that you all see today. Our company for many years was in survival mode. We had endured bankruptcy, years of under-investment in our facilities, systems, and people, operating with commoditized constraints. Then three years ago, we set out to reinvent and modernize that company. That transformation resulted in $300 million of EBITDA improvement. We challenged how we worked, how we performed, how decisions were made, and how quickly we could move. More importantly, it also taught us how to open to change, how we could be more agile as an organization, an opportunity that AI fully unlocked.
+For three years, we have been asking, "How do we build a better Hexion?" AI made us ask something fundamentally different. If we were building Hexion today without constraints, with the same footprint and the same book of business, how would we build a more new, nimble, and disruptive organization from the ground up? That is what we are building today with Palantir. We first saw the potential in our customers' manufacturing environments. We acquired a company called Smartech AI to enable us to bring together the fundamentals of chemistry, our data, and most critically, our human expertise across our core business segment. This connected our value chain like never before, meaning a change in our customer's system becomes visible, allowing us to make decisions on the product to drive meaningful value.
+Once we saw that, it was hard not to turn that same observational lens on ourselves in the partnership with Palantir. Our customer-facing data sources expanded inward into our own operations, building a complete end-to-end Ontology across the entire business ecosystem. We quickly began seeing Hexion less as an org chart and more as a connected system. With Palantir, we are modeling the reality of our operations because we know that our biggest opportunity lies in the connections between and across the business functions from procurement to the product specification and back from the customer's demand to every SKU we make. Every function has valuable information and expertise. The problem is that it traditionally moved through the company as a sequence of handoffs within functional silos. A customer signal might reach sales first, then supply chain, then manufacturing, then procurement, and then finally finance.
+Each team sees only part of the opportunity or consequence, and the gap between them slows the decision. Our Ontology, a shared interface between our people and AI, changes that sequence. The agent recommends expediting supply, shows what will change downstream, and identifies the actions required to support it. For our customers with vendor-managed inventory, we want to be able to react to any unprecedented change in product consumption that we will monitor in real time. When an agent senses a spike in consumption, it expedites the existing orders and revises our order schedule for the customer. This goes much further than a simple reorder point. The agent looks at tank levels, consumption rates, delivery windows, vessel scheduling, and order consolidation opportunities to propose a new customer delivery schedule.
+Once the agent confirms the new order, it can then directly write back these decisions both to the ontology and to our downstream systems. Once executed, we could see the result. The customer's tank level moves from below target to a healthy range. The next action is clear, too: notify the customer. But the decision doesn't end with the customer notification. Higher customer consumption of our products changes how we source raw materials based on availability and supplying. Rather than being handed off to another disconnected function, our connected ontology allows a downstream agent to proactively start working to adapt sourcing. The sourcing agent now reasons across the ontology: customers, materials, suppliers, contracts, calendars, and costs.
+We need to determine the most cost-effective sourcing plan for one of the most hazardous raw materials that we possess, which is phenol, at one of our plants, while following all contractual agreements we have and consumption patterns we sense. The sourcing agent tracks what guardrails we have in our contracts and how many orders we can expect to have in the long and short term. The agent then layers in our different sources of pricing for the material, ranging from supplier agreements, global index pricing, and even individual emails we receive from suppliers which contain the pricing updates. For each solution the agent produces, the Ontology keeps track of the evidence and reasoning used, and then the agent also services a score for each candidate plan. Once the agent finishes reasoning, we can review the candidate plans, the recommended action, and the evidence behind it.
+Here, it's critical to note that our people are central to making those decisions. Hexion has generations of knowledge. Our chemists know the chemistry, our operators know the plants, and our commercial teams know the customers. Humans and AI teaming on Hexion's ontology means seamlessly injecting that expertise into decisions where it's needed most. Our chemists, operators, and commercial teams still make the decisions, and they do it with the relevant context in front of them. The cost bridge shows how the supplier allocation gets us to recommended savings before we implement the plan. After we commit to it, we could see the downstream impact. Lower final cost creates a better price for our finished products and savings for our customers. Finally, the customer targeting agent recalculates attractiveness of each customer based on the new cost structure. This widens the pool of viable commercial targets.
+Our Ontology enables us to propagate decisions across the entire business, from sensing demand, to buying smarter, to pricing better, all in one connected value chain. This enables us to operate as one Hexion, not just as a local optima of an org chart. For most of my career, I built startups into global organizations. Startups begin with a single blank sheet of paper, an advantage that established companies can't replicate. Unshackled by the past and able to build for the future ahead. Thinking radically, designing holistically, executing deliberately. Building with Palantir and AIP, we've been able to take a mission-driven approach to Hexion. I believe AI has just handed us a blank sheet of paper. Now the question is: what do we build next? Thank you so much.
+## Moderator | 
+Please welcome Chief Technology and Chief AI Officer of Acrisure, Ben Funk.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Insurance is one of the oldest industries in the world, and it is the reason that every other industry gets to exist, because nobody builds a factory, launches a ship, or breaks ground on a hospital until somebody agrees to carry the risk that it all goes wrong. Insurance is also pervasive. It is maybe the one thing that we all have in common. We all have it, and we all depend on it. But despite that, today, the systems that the industry relies on are still fragmented. Processes continue to be analog, and the most valuable databases live inside a 30-year veteran's head, gone the day they retire. I know this all too well. For over a decade at Palantir, I performed open heart surgery on companies all across the insurance industry, usually in the middle of a crisis. Wildfires in the Palisades, floods in Valencia, a pandemic.
+You learn an industry quite quickly when you see it on its absolute worst day. Today, I lead tech and AI at Acrisure, the same operation, but now the patient is us. Acrisure grew by bringing together close to 1,000 businesses. 1,000. Each one arrived with its own systems, its own data, its own idea of what the word client even means. You can imagine all the seams. But we have put real weight behind becoming one united company with tech and AI in the front. And importantly, we have stopped trying to make the business fit software and started building software that matched how insurance actually gets done. That took us to Palantir, the Ontology, and forward deployed engineering.
+Together, our engineers and analysts deploy from Austin and Atlanta to Grand Rapids, Naperville, Parsippany, Oklahoma City, Chicago, and New York, feeling the heat of the coal face alongside the business and reinventing and co-building product until it works, all against the core processes that the company is built on. This is the taste that I know. The best original vintage of forward deployed engineering. But we did not start last year. Acrisure has been investing in AI and data science for years. What has changed is that we forced it to become applied. So today, we are coming out of stealth to show you what has come of our effort. The platform is called Auris AI. Auris AI wraps our whole company. It offers transparency in the data and the processes, actionability in the moment, and an AI teammate to work with.
+It's a fitted Iron Woman/Iron Man suit for every persona in the value chain, powered by the Ontology and AIP. Insurance, of course, is a team sport. There's different positions that come together to manage the complexities of thousands of carrier relationships, hundreds of thousands of clients, millions of policies, and even more insurable risks. Our client advisors, growth leaders, placement experts, and servicers all collaborate every single day to provide the best advice, policies, software, and partnership for our clients. With Auris AI, everyone is leveled up. Everyone has the suit. Let me take you through one client experience, Laurel's Florist in San Diego. We help insure their flower shops and their delivery vehicles. The journey starts with Auris AI's growth operating system. It has everything that Dominic, our star client advisor, needs to grow his book.
+When Dominic logs in, he immediately sees that Laurel's Florist is lit up. Laurel's has an upcoming policy renewal and several flagged growth opportunities. Laurel's has expanded with two new locations, three new delivery trucks, and therefore quite a few new employees. That means Laurel's needs more coverage. Dominic explores, digging into exactly what Auris AI anticipates that Laurel's will need. An updated employee benefits policy, endorsements to the property and auto policies, and also payroll software, all to aid in undoing the uncertainty of her scaling business. The recommendations are grounded in experiences that other clients have had from the same industry, the same geography, and the same growth stage, putting insights from years of client advisor successes at Dominic's fingertips. The entire AI reasoning chain is visible, and the opportunity is rooted in truth.
+Dominic approves the growth bundle pursuit, knowing that he'll be viewed by Laurel's as the proactive advisor that he prides himself to be. Job done, we move to Luke, our placement professional. He's tasked to find the right markets, retrieve quotes, and select the best one for Laurel's needs. Auris AI kickstarts Luke's effort by automatically aggregating data from the Ontology, historical structured data coming from our systems of record, and unstructured data from our millions of documents. Luke's alerted that the census on file may not be up to date as it doesn't include Laurel's new additionally hired employees. Needs updated. Luke uploads and Auris AI takes over. Historically, this would have required Luke to log into multiple systems, copy data from one place to another, several hours of reformatting in Excel, and triple-checking every single item to make sure that he hasn't made any human errors.
+Now, it's zippy and automated. Next, Luke is tested for how good he is at playing matchmaker. Out of over 2,000 carrier partners that we work with, Luke needs to know which market is best for Laurel's risks. At our scale and with how frequently that the market appetite changes, every human plays an impossible game of catch-up. Auris AI becomes the AI teaming partner for Luke and performs lots of the heavy lifting, analyzing coverages, client preferences, historical placements, and market conditions. Luke selects the narrowed set of markets and submits for quotes. Here, Auris AI leverages a myriad of agentic tools, carrier portal integrations, email communications tracking, rating engine integrations, AI computer use, and MCPs. Together, this whole tool suite we call The Exchange, and it allows us to conduct the multi-party quote and bind coordination securely all across our insurance partners.
+As Auris AI receives back quotes at different speeds and in various formats, it extracts and analyzes them to identify the ideal solution for Laurel's by comparing the differences in coverages, premiums, deductibles, and client preferences. Luke selects the best quote for Laurel's and captures his professional opinion for why that choice is best. Capturing that decision is vital for a compounding feedback loop. In the background, servicing efforts have been humming. Servicing assures that our clients have the best possible experience with Acrisure, and so the work here is vital. It is also really time-sensitive and requires extreme accuracy. Auris AI has knowledge of all of our servicers' expertises, who they have worked most closely with, and their current workload. Katie is one of our servicers and has been allocated tasks related to Laurel's needs.
+As Katie opens tasks in her queue, she recognizes that AI agents have been working for her in the background. They have made real progress against finalizing Laurel's new EB policy and executing the endorsements of her property and auto policies. The agents have been automatically processing requests, catching data inconsistencies across the systems, and generating new documents. At certain stages, Katie is required to act as a human in the loop and intervenes to make confirmations.
+Seamlessly and efficiently, Katie also tag-teams with Auris AI to get the work done. Three teams, one client, one united front. Laurel's Florist get their new locations and delivery trucks covered, a new benefits plan for their growing staff, and a payroll system to meet the demands of her growing business. The advisor team knew exactly what Laurel's needed all along. This is Auris AI. We think it is going to get better.
+The maximalist version of our ontology foundation, ontology maxing, reaches well beyond our own systems and our own client universe. It touches all valued things, buildings, cars, boats, planes, art, dogs, businesses and the people that run them, human lives. That is our market. It is our maximal TAM. We did not set out to build an AI platform. We set out to deal with the complexities of insurance. We built the platform because that is what it took. It does not do much if we are the only ones who can have it. Insurance is a chain, and no one company can reshape the chain on its own. To everyone along that chain, lock arms with us.
+Let us build the digital tissue between our companies, shared appetite, shared data, standards we agree on, and systems that can actually talk to each other, built for the agentic age and built for our clients. A word for everyone else who is not an insurance company, which is most of you, we want you connected to this too. Remember, we help insure all valued things. I know you have valued things. I spent 10 years operating on insurance companies from the outside. Now I operate on our own company from the inside. The next operation will be the industry itself, and no one does that alone. Thanks.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+We didn't believe this speed was possible. We did a CRM implementation last year that took us nine months to get data integration, and the Palantir team did this in two days. I think it took them two hours. It was all CMMC compliant and the latest security. It was just incredible.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Cheers.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Thank you.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Thank you for joining me.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Thank you for having us.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+You're very new to the Palantir ecosystem. Maybe you can give me a little intro about what you guys do.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+The Elmet Group is based out in Maine, and we're the last U.S. producer of pure tungsten and pure molybdenum material and products and components. It goes into everything, all industries. It's been around for roughly 100 years. It was founded in 1929. It was part of the Royal Dutch Philips group for most of its history, making light bulb filaments that we all grew up with.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Interesting.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+All light bulb filaments were made of tungsten, with molybdenum as part of the process. But obviously, light bulbs are no longer made of tungsten and molybdenum, and we had to kind of recreate ourself. So now we're trying to support all different industries. What makes us unique is that over the last 15 years, most of the competition, most of the other companies that had these capabilities in the U.S., really over the last 20, 30 years, have gone away. There's really no one else in the U.S. that's doing most of the things that we do. Other than actually owning the mines, our facilities in the U.S., we have three. We buy from the mines. We manage all of that. We convert oxide and raw material powder into pure tungsten, pure molybdenum. We alloy dope, and create these special materials.
+Then we press and sinter and make ingots that's kind of like making pottery. Then we extrude and forge and swage and roll in these amazing pieces of equipment in Ohio, Michigan, and Maine, to make plate and sheet and foil and fine wire.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Thinner than a human hair, and all the components that come out of that for all of these applications in defense and semiconductor and medical. I reached out to Palantir after reading some article about work you were doing with the Department of War.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+In late May, early June. We had a conversation. It quickly escalated. We had a contract signed in two weeks.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Wow.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+The most incredible team of four engineers came in mid-June, and now we have two divisions. And within the past two months, they've rolled out 10 applications across both divisions. It's being used across supply chain purchasing, just the things you couldn't imagine. We kicked this off without a fixed scope of work.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Many times we do, yeah.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+The team from New York came up to Maine. The talent of that team in working through with supply chain purchasing, the production managers, the general managers, working through what were the biggest priorities, and within that week had the top five priorities for both of our divisions, which was the roadmap that we launched. They were delivering integrated data and apps within three to four weeks.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Incredible.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+We are part of the Warp Speed program through the Department of War, which kind of signifies how fast this has gone. Today, we support more than 125 defense programs. We have roughly 90 Department of Energy programs, projects that we support as well. We are capital constrained. We are running legacy ERP systems. We need some way to compete globally. The Palantir products, I cannot even keep track of all the applications that the team is building for our team, but it starts with really detailed costing, exploded bill of materials, and understanding exactly where are we in being profitable delivering these value-add services. Scheduling, where is the sales order? How should it be scheduled?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Where is a work ticket out on the floor at any given moment? Which machine is an assembly at? Scheduling where things should be at the right time, and all of this is coming together in real-time to make us able to deliver more with the capacity we have.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Without being late and missing all the other challenges.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It comes back to you are really trying to orchestrate and globally optimize your environment here. It is like orchestrating the intelligence to make all this stuff happen in real time, and it is like if you had enough people, you could potentially go do this, but this is now a systems level scale that you have to operate at.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Yeah. The other interesting thing that we are facing is the whole CMMC, I think it is called.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+The regulatory IT NIST framework, and a lot of the other systems that we are looking for could not support CMMC and NIST. The ability of Palantir to have the security and the, I think they call it the bedrock and the highest level of the gov security is absolutely required for us. It is not an option.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+You have got rapid pace development. You have got exciting stuff happening. What are some of the things that have surprised you the most?
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+They shouldn't have given me access to the AI FD. I'm non-technical, but they gave me my own little sandbox, and I put all the CRM data into it, and I started building machine learning algorithms to rate how likely a quote would be to close.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Wow.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Based on all the historic data. I didn't do anything except ask some questions of the prompt, but they were like, "You couldn't believe that we did this." The ability for us to keep up with the growth with the existing ERP systems is really going to require something like this.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Eventually, as we grow, we are going to need new, larger ERP systems.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Well, I appreciate you taking the time. Cheers to this.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Yes.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Enjoy the partnership.
+## Scott Knoll | EVP of Corporate Strategy and Director, The Elmet Group
+Thank you very much for having us.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It's good to see you, Ben. Thank you for joining me. One Palantir forward-deployed engineer to customer and customer to forward-deployed engineer back and forth. What is it you do now?
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I've joined Acrisure. I joined as the CTO and CAIO. 12 years before, I was at Palantir.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I lived the forward deployed engineering culture, DNA, lifestyle.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+A long time. When you were helping as a forward-deployed engineer, no customer has just this perfect landscape you walk into. It is dirty, it is ugly, it is years of things and acquisitions.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Our org is a massive M&A wrap-up.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+They have done 1,000 acquisitions.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+1,000 acquisitions?
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+1,000 acquisitions.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Holy cow.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I think a lot of other organizations at that scale, they often sort of attack this from the perspective of like, it is too sticky, it is too messy, it is too painful, let it lie. Often, that becomes a question of not just what systems, but what data, what unstructured information, what documents.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+What processes, and how can we weave a set of core processes through the organization that are all same. You have to go to first principles and understand how we're doing the things we are, doing that in the field, understanding the core motions of what the experts in each one of those positions do.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Really unwinding it.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+What is your take on the Ontology and the differentiator that enables some of this work?
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I think what's maybe a little bit novel about the way that we've structured our Palantir engagement has been bringing the IT and the tech teams in very early on from day zero.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+As part of that Ontology build. Having that Ontology be the basis of what we're building is inevitably a bit of a differentiator for us.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+What use cases or what are you building out?
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+We build out a really robust sort of end-to-end structure on a project or a program that we built called Left Seat. The idea was, could we create the scaffolding to be able to have end-to-end communications intake to bind.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Okay.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+To ensure a light aircraft. So planes that fly around.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Oh, that is great. I am getting my pilot's license.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Oh, brilliant.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+This is great. Okay, so.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Yeah. We can share your plane.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Okay, cool.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+In our world, almost every one of our brokerage needs requires us to take the client, take all the risk information, then go find the market to place it.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+I see.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+In the aviation space, that's not as many carriers as you'd expect.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+There are 15 or 20 of them that are big players in the U.S., so we built out the full end-to-end path of taking the unstructured data, extracting the key information we needed, enriching it with the right pieces of open source data and our own data, and then building the external integrations with all of those carrier partners. I think what is maybe nuanced about the insurance space is that it is so analog. You are not just looking for a maker and a taker.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+There is not just a buyer and seller. There is a marketplace.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+That marketplace dictates whether insurance carriers want to bear the risk. So we evolved that piece of work on the Left Seat example, where we managed to get that working and humming and embedded and core to our actual workflow over the first couple of months of working together.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+As you were doing this, what is one of the things you were surprised by?
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I think one of the things that continues to surprise me is the consistent lack of, let's call it aspiration, across the broader industry here.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I think it's been tried many times.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+To go conquer the one data model for them all.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yes.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Or create one integration that everybody routes through as a way to communicate.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It's the field of dreams, but no one shows up.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+That's exactly right.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yes. Is the Auris AI the platform and the strategy that you're working out here?
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Yeah. We've invested pretty heavily in the last five years in a broad strokes attempt to sort of level up in tech and data science. We're bringing data and visibility to all of those personas. We're bringing actionability and intentionality and importantly, accountability in the moment of the core process that they're executing. Then third, we're giving them that AI teammate.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Where naturally throughout the process, when it goes off the rails, you have to ask a question, and you have to get an answer. Grounding those agents on top of the core semantic and intelligence layer gives you truth in the moment.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+About what you need.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+What are you most excited about over the next year? What's that big vision that you think is going to be a game changer?
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+It would be table stakes, in my opinion, to get to a place where we're no longer optimizing ourselves.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I think the aspirational thing in a year or two is taking players in every one of those parts of the chain and asking the question, what would be most optimal for the client? Knowing everything that we could know about that risk as it goes all the way through the chain to the end. What is novel about it, though, is that it has not been done. I think what is important about it is that every one of the players in that chain would say the same thing. They are providing a protection for a given risk that is.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+For the benefit of the client.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+The industry is a little bit different than financial services in that I think every one of those players are sort of in it together. They want to be resilient together. Everyone wants to win together.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+The big catastrophic event, everyone suffer.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+All right, I got one more question while I pour us some more wine.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Yeah, of course.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+What is your take on sovereignty in the age of AI right now?
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+In today's paradigm, I think there are really robust frontier models that can do a lot of things.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+They do a lot of things really, really well.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I think it goes a really long way for them to do it really, really well. But I think the nuance is that they are, in many ways, quite open-ended. They are able to do generalist.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Actions reasonably and, in many ways, extremely well.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+I think as time goes on, and especially over the next year, we are going to find it a really important investment in finding the right way to hyper-target those processes in the Auris AI chain.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+In ways that allow us to have the models that are delivering the insight to be tailored very robustly to those individual tasks.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+You're going to have really small, in some cases, really well-tuned, really task-specific agents. You're going to need the same control plane that you've needed for your data and for your Ontology as an extension into the agent space.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Ben, thank you.
+## Ben Funk | Chief Technology and Chief AI Officer, Acrisure
+Pleasure.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+From one Forward Deployed Engineer to another. Cheers, brother.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Cheers. When you are working on something which is super technical, number one, and then new, number two, there is only so many levers that a Forward Deployed Engineer can pull, at a customer onsite. Right? I think the true hallmark of a good Forward Deployed Engineer is one who can feed that information back to the mothership, right?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+That learning back to the product. The second thing is how do we bring product with us, right? This is something that I think when you speak to OG Palantirians, they will say, "Oh, we had product with us at BP, at the refinery.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Building out the product that we now use today." Walking in those footsteps, we took our Autopilot team to the NVIDIA customer onsite, where they built the product while we were there. It was incredibly difficult. It was long nights. It was a lot of questions to the customer. I think they got sick of us at some point. After three to four days, we showed them a product which they were like, "Whoa, this is phenomenal.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+The amount of visibility that we could give them, the amount of levers that we could give them to use and implement the Ontology in a way such that you can actually create more intelligent decisions. Just understanding how we can actually dive deeper into all of the techniques that NVIDIA has, right?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Sid Singh | Forward Deployed Engineer, Palantir
+All of the NIM software that they have, Data Designer, how can we incorporate that in product? Also, how can we apply that at NVIDIA itself?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+All of those different things was incredible in four days. We treat the first week at any customer as Genesis week. Genesis week basically means we do nothing apart from perfecting our Ontology. That is, number one, understanding input of the data, ingesting and understanding the data architecture that the customer has. Number two, understanding permissioning, and how do we set up the stack in a way that the customer is comfortable with. Number three, what are the nouns and the verbs of the enterprise? In NVIDIA's case, there is obviously chips, there is contract manufacturers, there is suppliers, et cetera. Then what are the actions that these supplier or supply chain planners are taking on a day-to-day basis?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+I think Jeff said there was like 600,000 parts in a Vera Rubin rack.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+To get across contract manufacturer supply chain to get all that together.
+## Sid Singh | Forward Deployed Engineer, Palantir
+That is just one product family.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly, they have many product families. You have your Blackwells, your Hoppers, and then your DGXs, et cetera.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Sid Singh | Forward Deployed Engineer, Palantir
+The understanding and the general Ontology just blows up, but I think one has to be very intentional about what are we going there to solve, right?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Sid Singh | Forward Deployed Engineer, Palantir
+We were going there to solve this very specific allocation problem, so you start there. You start there, understand what is the data that I need. You ask the data SMEs, the subject matter experts, ask them for data, and you ask them, "What does this data mean? What are the columns? Why does this row exist? Why does the data exist in such a shape?" Ingest that, clean it, and then create the Ontology. In the first week, we only really got into building the workflow, on day four or five when we were confident with the Ontology.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+I think that was cool because I also heard you talking about how you are transcribing meetings.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Oh, yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Using Ontology, where it is understand what is going on versus what has been built.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yep.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Even then throwing over to AI FD.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Actually building and instead of a taskless queue, they get a PR to review.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+That whole flow is just mind-blowing to me.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Absolutely. I think NVIDIA themselves were impressed that we were, one, with consent, recording all of our meetings, recording all of the emails and essentially all of the interactions that we're having with the SME. Then putting that into the Ontology as memory. We're actually building up the memory that all of our floor deployment engineers on the team have, all of our PDC people on the team have, then putting that in the Ontology such that when we make a design decision, when we make an engineering decision, we are sure that we can trace it back to something the customer said.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Which is incredible because hearing Jeff talk about that speed, the understanding, which is great, but we weren't just trying to build a typical Palantir, "Hey, we're going to go build" We were integrating NVIDIA's own products into this workflow along the way.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+The Nemotron models, cuOpt, NIMs, all the Data Designer stuff, maybe give a flavor of what that was like because that is pretty unique that a customer has a set of great products they already have, and we can actually have this 1 + 1 = 3 .
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+With our product.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah. It is great products and great people.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+I think we were personally impressed with just the amount of effort and people that NVIDIA invested in that onsite as well. We got face time with everyone from Data Designer to NIMs to Nemotron, to Safe Synthesizer. To give sort of the flavor of why we needed these is because these are very specific pieces of software that are required for fine-tuning any model. The issue that we were facing is that sometimes we just did not have the scale of traces that we require for actually fine-tuning a particular model. Data Designer does exactly that. With the new Autopilot product that we are releasing, and you might have seen in the demo today as well, we are actually ingesting the Data Designer product to actually go in and amplify the signal that we are getting from the ground.
+Sometimes that signal might be noisy, sometimes that signal might contain things that we don't want. In that case, we then use Synthesizer from NVIDIA as well, where we can use GPU-driven ways to actually clean the samples that we're feeding for the fine-tune model.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Then we go into NIMs and then Nemotron.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+But in all this is also we're running on NVIDIA GPUs and.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+NVIDIA data centers too.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Right. You have all of those things coming together.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly. We are building all of this on-prem at NVIDIA.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+NVIDIA owns the entire architecture. They own the software, they own the architecture, they own their own models, and they own their own intelligence.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+To make better decisions in the future.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Which is cool. I love the cyclical nature here of that, in order to produce more chips for everyone in the AI infrastructure build-out that is happening.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+They need this to happen to make sure that we get more supply at the right time at the right place.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+The fact that we're dogfooding this at the most fundamental core level between Palantir and NVIDIA that then drives the rest of the AI infrastructure is pretty magical.
+## Sid Singh | Forward Deployed Engineer, Palantir
+I think it is magical.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+The sort of North Star that we landed on-site with was the fact that NVIDIA cares so much about reliability.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+What is probably one of the one or two most interesting things you learned along the.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Way through this process at a technical level?
+## Sid Singh | Forward Deployed Engineer, Palantir
+I think the most interesting thing that we learned was the fact that every single decision that one user makes is only a log until you actually associate it with a business outcome.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+We have an AIP logs export feature, which allows you to basically export all of the LLM logs that any user on any project is making. Those are logs until you actually go in and see actually these four or five different traces. I can actually trace that, or maybe call it decision lineage. I can trace that all the way to a business outcome of my fulfillment went up or down.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+So you are saying, I get all the data together, I have an LLM set of traces that is helping me, the chain of thought reasoning, essentially.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It says, "Okay, if I do these things, I think this will happen," and then what actually happened.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+You are actually getting the cause and effect. We talk about this a lot internally, but maybe we can talk about it externally here, is just the bench making instead of benchmarking.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Like, okay, that sounds like a good slogan, but what does that mean to you?
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah. Once you have the logs, or once you have the training signal, you actually have a good understanding of what were good traces and what were exemplar traces. What you can do is you can use those traces to basically create test cases. The concept to go from traces to test cases means that if you have 100 traces and 30 of them are excellent.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Sid Singh | Forward Deployed Engineer, Palantir
+You have 30 test cases that you can essentially have as a validation set, which means that you just hold that out, you never send that anywhere else.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+You are never training on it. Every time you get a new model checkpoint, you check against those 30 test cases and see if your model performance went up or down.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+If it went down, it regressed, which means that model isn't good.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+You got to retry.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Right? And that is your benchmark. And over time, that 30 goes to 300, goes to 3,000. But more importantly, that is, number one, temporal, and number two, an accurate version of a benchmark for your enterprise and your workflow.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah, because this is some of the stuff we've seen about even the replay because there's the eval piece and the.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Benchmarking, but it is also like, can I replay to build confidence, like past transactions and see, did I get the same thing? It is something new that we have to think about with these stochastic models.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+How do I actually understand what the real business impact is?
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+On a real business flow, not just on an eval either. I think there are multiple ways we have to evaluate this.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Because ultimately the goal is if we create this ecosystem, this continuous feedback loop is, these should be getting better over time.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yep.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Right?
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yep.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+That means you have to create a system, not just a model.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly. I think the value is in the system itself, not in the model, because that model is going to change every quarter or every week if you want, or every day.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Tuning and perfecting that system is where the Forward Deployed Engineers can work with a customer on actually understanding, well, number one, we need to design the workflow in such a way that we are capturing the traces.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Number two, we need to understand what does excellent look like. That means that I need to speak to the customer and understand, well, you made this decision and this happened in your business. Is that a good thing or a bad thing?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Right.
+## Sid Singh | Forward Deployed Engineer, Palantir
+How did this affect your bottom line or your top line? How do I go in and encode that logic back into the Ontology to understand, well, actually, I can now go through all of my thousands of traces and understand, okay, these things were similar to what that customer said, again, using that memory Ontology, and I can now say that, "Let's put this in the validation set. Let's put this as your benchmark." I think there's a lot more things that you can do regarding once you have the system running.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Once you have this concept of self-improving loops, you can get really creative. We're not even there yet. I think the analogy that I give to the supply chain folks is, we are almost building a social media algorithm. This system is going to get better as you use it. The algorithm gets better as you use it because we're capturing all of the information that makes it better.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+There's other techniques. NVIDIA has helped us, I think, understand quite a lot about how do we actually do this fine-tuning process, and also just generally about fine-tuning in RL. We, in the particular NVIDIA example, we use two techniques, namely number one, which is called DPO. It was basically a preference optimization. It's you're comparing good versus bad, and you're telling the model which is good and which is bad, and then you're doing some very simple SFT or low-rank adaption, which basically means you're not changing the entire model. These models are 550 million parameters, for example. You're not changing every single parameter.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+You're only changing a very certain slice of that particular model so that you are getting the response that you want.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+That is the essence of what we are doing at NVIDIA.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Sid Singh | Forward Deployed Engineer, Palantir
+We are trying to capture the intelligence of 20 very sophisticated, very expert-level supply chain planners at NVIDIA who are making very game-changing, world-changing decisions every single week.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah, which, I love this. When I was talking to Jeff, the infinite demand.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Everything that you can increase on throughput and supply is sold.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+There is very few points in history where a company has that type of order book with that type of margin.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+To help them honestly then helps everybody in the economy.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Everyone.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Because everything is banking on.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+NVIDIA and the throughput, and it is such a critical point that we are at.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah. What NVIDIA is sitting right in the middle gives and allowing them having the visibility across both south of NVIDIA and north of NVIDIA, will only help NVIDIA make better decisions for the entire ecosystem.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Which I think is an important point about what we do at Palantir, too, is how do we enable that marketplace, that sharing.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Jeff hit on that many times about the transparency, and the ability to.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+To bring all that together. I think that's the cool part is the Ontology and what we do in USG or Airbus.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Or others is like, actually, I need to share data and maintain ownership and custody.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+I want to enable my partners so that we all win together, right?
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+I think that's the bigger vision that we have. Well, and I think I heard from them, too, the security team at NVIDIA, how excited they were about the level of control.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Control and oversight that they had to have the visibility.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Across everything.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Allowed them to move fast, and I think that is one of the things people was like.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Actually, the security is not just the afterthought. When it is embedded in here, it actually allows you to move faster because now I am not having this retroactive or this bolt-on or this other thing. It is like no, it is embedded across everything we are doing.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah. Yeah. For places where we potentially do not have the solution, we will bring four of our brightest product people to come in and build it for you, live.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Right. As you are fine-tuning these models, there is a lot of different options. There is even the different sizes of Nemotron. I was like, what did you guys learn as you were kind of working across the problem set between Ultra and Lightning and others? What did you learn?
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah. I think a lot of the learnings were things that we spoke about in the sense that general intelligence is exactly that. It is general. It is not specific to NVIDIA. It is not specific to the problem that they are trying to solve. And we noticed through the benchmark that we made, that Ultra actually was only performing to, I think, 50%, and then Nano was 33%. And we actually trained NVIDIA's smallest model, which is Lightning 3.5B, and that achieved actually better performance than their biggest model, Ultra.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Interesting. Why do you think that is?
+## Sid Singh | Forward Deployed Engineer, Palantir
+Well, because we are baking in very specific knowledge from the supply chain planners into a model that is essentially ripe for fine-tuning.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Interesting.
+## Sid Singh | Forward Deployed Engineer, Palantir
+It's such a small model that you can actually train it on a couple GPUs. You can host it on a single GPU, which means that if you want to train it every single day, you could.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Or you train a bunch of variants of it and test them.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+And benchmark them and pick them. You could have champion challenger.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Running every day on LLMs. That's.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+That's actually pretty wild because you can take some of that deterministic modeling techniques of kind of A/B testing.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yep.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Champion challenger, all this stuff,
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yep.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+And actually bring that to the LLM world.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Which really has generally not been realistic from the GPU constraints.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+And everything else, but now that is pretty wild. Sid, thank you. Cheers.
+## Sid Singh | Forward Deployed Engineer, Palantir
+Cheers.
+## Moderator | 
+Please welcome Vice President and Chief Digital and Transformation Officer of L3Harris, Heidi Wood.
+## Heidi Wood | VP and Chief Digital and Transformation Officer, L3Harris
+Good morning. 100 years ago, mavericks built this defense industry, and mavericks are rebuilding it today. We all remember how industry turned on a dime during World War II. We produced over 35 bombers in 1944. We make eight a year today. A Ford plant in the Midwest was rolling off one B-24 bomber every 63 minutes. It was raw ingenuity born of necessity. When the Cold War ended though, sadly, so did that innovative maverick spirit. A belief in a peace dividend and a wave of consolidation left us with a handful of risk-averse conglomerates. I had a front-row seat as a Wall Street analyst, and practically overnight, the entire industry went from pushing the technological envelope to stuffing money in the mattress. The reality of today's threat environment demands a return to those spirited roots. Not since the Great War have we seen this scale of global conflict.
+We have all seen the headlines of missile and munition shortages. Planes that cannot fly into harm's way. Meanwhile, the pace of technological advancement fueled by AI has no precedent. We know that speed is a weapon in warfare and in business, and our defense industry must prioritize velocity the way that we once did. That is what we have been doing at L3Harris, and that is what I am going to show you today. Just to familiarize you with my company, we are the sixth-largest U.S. defense company and the product of that consolidation wave. L3 and Harris together made more than 150 separate acquisitions. Our legacy companies earned their maverick stripes over the years. There are just a couple of quick examples for you. When the Allies had to quickly train pilots during World War II, we mass-produced the Link Trainer, the world's first flight simulator.
+When Neil Armstrong and Buzz Aldrin walked on the moon during Apollo 11, it was our technology that monitored their heart rates and oxygen levels. When U.S. Special Forces captured Osama bin Laden, they were wearing our specially designed night vision goggles. In April, as Artemis had us all mesmerized, L3Harris was proud to have provided more than 100 critical elements to that historic mission. We have been mavericks. We know how amazing it feels. But we also know that when you combine 150 businesses, you can end up with a ton of tech debt, slow-moving manual processes that are a drag on systems and, more importantly, our people.
+How can you create the future and innovate at pace when it takes weeks or months to collect data across numerous systems, get dozens of approvals, and create PowerPoint slides that might have 100 pages and some of the data might be out of date by the time it is done? It is exhausting, it is demotivating, and nothing kills the creative maverick spirit faster than time-consuming manual processes and excessive bureaucracy. This industry has been burdened using human capital to move electrons.
+We have developed a radical breakthrough solution, and I am going to show you a little bit about it today. Last year, we began architecting an enterprise-wide digital ecosystem, one that did not just fix the problems of the past, but positions us to leapfrog into the future. We decided to take a bold, holistic approach to our digital architecture. Not just single-point solutions, but digitize the full enterprise.
+That is something that has never been done before. Using Palantir, we built an enterprise-wide unified data layer, pulling together 33 ERPs, hundreds of software systems, custom applications, and even spreadsheets. We now have 3.5 million data connections to help us architect for near real-time insights into what is happening across our company. The UDL is a single foundation from which we are building dozens of applications to help our teams and leaders see what is happening and collaborate on problem-solving with the same source of truth. Today, more than 5,000 scheduled data feeds flow into Foundry to power our UDL. New data sources and apps are being added regularly. We are also training our internal teams so that they can design their own solutions from start to finish in this digital ecosystem. For the first time, we can have a common view across the businesses.
+We are able to gain real-time insights, collaborate, and problem-solve without the drag of data collection, verification, and meetings just to try and reconcile the data. This empowers us to make faster decisions with greater agility, clarity, and confidence. As we dive into our digital ecosystem, you can see the breadth of capabilities and applications available. Every application, every program, they all stem from this single foundation. This is our sector control tower, a tool that allows leadership to see how their businesses, operations, and programs are running in real time. You can see the most recent performance and track record of different weapon systems with a click of a mouse, no scheduling and awaiting a monthly review. Not only can we get ahead of surprises, we become more dynamic problem-solvers, able to intercept issues earlier before they become harder to solve.
+We're also developing operational tools for our teams running programs, which is our bread and butter. We'll start with PDC, Program Digital Cockpit. We developed this capability rapidly by going into beast mode and produced an MVP in 12 weeks just to give you a sign of the power of what we're building. We have thousands of programs across our company, each with different teams working separately across emails, spreadsheets, PowerPoints, and individual tools they developed to address their particular needs. Consider product scheduling. Normally, the schedule belongs to one team, but things can quickly get knocked off track since materials and labor belong to separate teams that don't always have the chance to talk to one another. This view harmonizes them together for the first time.
+If a material constraint shows up, that meant meetings, phone calls, emails, and time to confirm a problem, then work to decide the fix. With the PDC, the teams see it instantly, and they can fix it proactively. We can delve down further, peel the onion back, and simulate what happens if the timeline gets pushed out, what else moves? Do we need a plan B? How realistic is the schedule? We're not guessing or reacting. We're able to prepare for what's next using data-driven decision-making. Every time you click into one of these vectors, realize that it used to be PowerPoint decks, meetings, and conversations. Now it's all in one place with AI layered on top. What you're seeing here is a slice of our supply chain on a single program, but the data asset we built looks across the entire enterprise.
+I'm going to give you a story that just happened recently. We ran into an issue with a critical part, glass shortages for circuit boards, which are used across many of our programs, but demand from the data centers has created capacity constraints in the supply base and has put availability at risk. In the past, it would've been a huge challenge to identify every program that's using this part across the company. It would've normally involved maybe 30 people and might take as long as three months to get the data. This time, using our digital ecosystem, we had the answer in 10 minutes. You heard me right. What once could take 12 weeks took us less than a few clicks of the mouse. That's Maverick speed. That's built into the daily operations of a 44,000-person company.
+That same foundation has let us reach into the next frontier of AI sovereignty. We believe American defense companies should not be a vassal for frontier AI labs, handing over our data and institutional knowledge, hoping to rent back the intelligence it creates. We recently ran an experiment. We have an AI workflow that helps us monitor country of origin for all the parts that we receive. Previously, we've relied on frontier models, and they've worked fine. But when we fine-tuned open-source models trained on our own data, we were able to outperform the frontier models in less than 48 hours. The cost of our fine-tuned open-source model was 95% lower than the frontier models we were using. AI is a commodity. It's all about the data. We view our data as a corporate asset. It's our unique, hard-earned knowledge.
+We generate over $23 billion in sales every year, and we have decades of data. Our data is a massive competitive differentiator. Using our data in our own Ontology, in our own sovereign AI, that is next-level discriminator. We own the model, we own the compute, we own the advantage. The digital ecosystem we are building at L3Harris doesn't just change how we work. It changes how the whole business operates, down to the individual. When we free people from dull, labor-intensive work, and we give them time to create and solve problems collaboratively using near real-time data, that doesn't just make us more productive. We become more energized, more confident, more Maverick. 100 years ago, Mavericks built this industry. At L3Harris, Mavericks are rebuilding it today. Thank you.
+## Moderator | 
+Please welcome Co-founder, Chairman, CEO of Zeta Global, David A. Steinberg.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+I feel like I am coming out to my Bar Mitzvah song. It is great to be here. We have had a bunch of companies today talking about how to save the world. We are now going to talk about how to do a better job with marketing. Obviously, much more important. Marketing is, there has never been more data available to reach people, and it has literally created a much bigger struggle to getting to the growth that most corporations want. Where do they invest? Which markets to enter? Which customers to prioritize? The volume of data was supposed to accelerate decisions, but it is clouding them. Zeta has built a powerful AI-driven customer intelligence engine. Say that three times fast.
+Our proprietary data cloud consisting of over 240 million Americans, 5,000-7,000 data elements per person, and trillions of marketing signals coming in every moment of the day to our 800 current global clients, which include more than 51% of the Fortune 100 today. At the center of that engine is Athena, which is our AI platform. Athena turns a massive amount of customer data into a clear understanding of who a customer is, what they care about, and what they should do next. Our current customers today are seeing a 600%-700% return on marketing spend and a 295% return on investment across technology. To be clear, we help very large enterprises lower their marketing and CRM expense by up to 50% in real time while creating the outcomes that they are looking for as an organization.
+Even with that opportunity, brands need to realize value faster than ever before. The pressure is there. Marketing data often lives in totally separate systems in the same companies, telling a completely different story. Before Zeta plus Athena's intelligence can do its best work, a brand has to be able to reconcile that landscape and get the data into the same place. Without it, that can delay or dissipate the return on investment. I was going to say next slide, but I have the thing to push it. That is why Zeta is partnering with Palantir. This is a true one plus one equals four, helping brands to put unrivaled customer intelligence to work sooner and faster. Palantir changes the starting point. It gives the brand a clear real-time view of its own business.
+Zeta can then apply our AI-driven customer intelligence with the right context right from the start. Zeta brings the added customer understanding back into Palantir, where it can immediately inform the decision the business needs to make. Throughout, the brand stays in controls of its data, privacy, and security, which is built into the connection. It starts with one simple question: Where is the best opportunity to grow? Palantir and Zeta help the brand look across its own business, identify the customers who matter most, and most importantly, why do they matter? It connects that opportunity to what the brand already knows about its customers and campaigns, so the recommendation is grounded in the company's real priorities, not just another generic playbook on marketing. Now, Zeta adds another layer of customer intelligence, security and privacy-protecting way.
+We can help give the brand a fuller picture of the audience, what they do, what they value, and how to best engage them. The richer understanding comes back into Palantir in the context of the brand's own business, and that's where it becomes actionable. Palantir and Zeta can look at what's already in market, what is working, and where the company should adjust to better target for return on investment. The result is a substantially smarter plan, more relevant to the customer, and tied to business outcomes the brand is trying to achieve. This is bigger than just improving on marketing. This is an entirely new marketing strategy. Once you understand the customer, you can make better decisions about where to invest, which markets to pursue, and which customers to prioritize. Zeta and Athena bring the customer intelligence, the understanding of the audience and the activation.
+Palantir brings the business context and the foundation layer. Together, 1 + 1 = 4 . We put the customer at the center of how the business makes decisions, better informed, faster, and more effective. We are looking far beyond campaign performance, informing the next investment, market decision, and customer experience. It's about giving every business a clear understanding of its customer and putting that understanding behind the decisions that shape their growth as an organization. This is the next era of marketing. Zeta's intelligence connected to partnering with the brand's Ontology through Palantir and put more work against the decisions that matter. Together, we are moving from marketing that reacts to intelligence that helps businesses lead and grow into the future. That is the opportunity. Thank you very much.
+## Speaker 14 | 
+Order up.
+## Moderator | 
+Please welcome Vice President, Chief Data and AI Officer of Eaton, Ross Schalmo.
+## Ross Schalmo | VP, Chief Data, and AI Officer, Eaton
+Good morning. Every AI ambition ultimately meets the same physical reality, power. Data centers need it safely, reliably, and at a scale we've never seen before. Eaton is helping make that build-out possible. More than a century since its founding, Eaton has grown into a global power management company supporting the infrastructure people depend on every day. Hospitals, factories, planes, vehicles, the electrical grid, and now data centers driving the AI era. It's almost exactly three years to the day since Eaton first took the stage at AIPCon. Since then, our ambition has grown from simply how can we best use Palantir into how can we redesign the way Eaton operates? We're doing just that with Equipment Forge, connecting Eaton's entire value chain to the digital thread. Our customers need complex, custom-built equipment on demanding timelines.
+They ask a simple question: Can Eaton build this, and when can Eaton deliver it? Answering that question has traditionally required sales, engineering, supply chain, and procurement to reconcile configurations, requirements, materials, suppliers, and lead times. What makes this particularly challenging in an engineer-to-order environment is how interconnected the engineering and supply chain decisions that follow are. A requirement identified during the engineering analysis can determine which components must be used, which suppliers are viable, and ultimately, whether the customer's delivery date is achievable. The hard part isn't generating a quote. The hard part is making a commitment that our engineering, supply chain, and factory teams can all stand behind. Let's take a look at how Eaton delivers one of these commitments with Palantir. Eaton has the expertise.
+Palantir gives us a way to bring that expertise together around Eaton's own Ontology so that people and agents can work from the same operating context. This is not just a model looking at a document in isolation. This is multiple bespoke agents reasoning across the entire Ontology. The relationship between the customer's requirement, the configuration, the bill of material, the supplier, the plant, and the commitment Eaton is about to make. That gives Eaton one operating context for the work behind the quote, from the customer's requirements to the materials and suppliers that determine what we can deliver. Agents turn the customer's requirements into structured, traceable decisions. They flag possible exceptions, check similar builds, and review the BOM and material lead times. For example, mitigating arc flash risk and safely managing an arc event if one occurs is a critical part of our engineering analysis.
+When a customer has a unique requirement for arc flashes, that has important implications for the configuration and the components that we need to use downstream. Here, an agent has identified a deviating arc-related issue in the requirement analysis. It does this by reasoning over our own standards, which brings together Eaton's product standards and knowledge codified from past engineering decisions. This isn't a faster PDF reader. It is the point where an unstructured customer request becomes something that the rest of Eaton can interpret and act on proactively. The requirements and engineering constraints identified here are handed directly to the BOM availability agent, which reviews the initial BOM against what the customer has requested and what the design requires. It then produces a quote based on what Eaton can actually build and when Eaton can actually deliver it.
+These agents handle deep analysis across that value chain, while Eaton's people remain accountable for the commitment that we make. Here we see highlighted in red the BOM availability agent has identified a critical arc-related component that could take up to a year to arrive. That lead time directly affects our ability to meet the customer's request. The hard part is no longer finding the problem. It is deciding what to do about it in the full context and view, applying Eaton's unique expertise rather than wasting it digging through data. Instead of coordinating the investigation through emails, spreadsheets, and manual handoffs, the decision-maker can see the entire chain of impact in one place, informing a quick decision. In this case, using a second supplier could remove the long lead time and give us the ability to offer the customer an option that still meets the requirements exactly.
+Selecting an option triggers the next agent's reasoning. Agents work across Eaton's entire Ontology, trace the affected requirement through the configuration of the bill of material, check the relevant material and supplier context, recalculate the dependencies, and update delivery and quote options. This is human AI teaming in practice. The agent handles the analysis while Eaton's people review the evidence, weigh the trade-offs, and remain accountable for the decision before handing that decision back to agents to orchestrate those actions. As requirements change while we partner and iterate with our customers, we've collapsed that loop to review, validate, and determine what is feasible in dramatically less time. Today, this helps us respond rapidly. As soon as a customer request arrives, the breakthrough is grounding the customer information in reality before Eaton makes the commitment, wielding that complexity when it's critically needed, allowing us to move faster.
+Then our attention turns to the customer. As a result of this deep reasoning, these quotes can carry some complexity behind the scenes that customers should not have to work through. They need to see the clear options up front. By connecting this thread, our customer will be able to see what we can build, when we can deliver it, and which choices affect that timeline. If speed matters most, the preferred path and its trade-offs are clear. This is how Eaton delivers engineer-to-order of expertise with configure-to-order efficiency. Rather than sending a requirement through several teams and back to the customer, Eaton can provide a coordinated answer much earlier. Price, availability, and lead time become inputs to the commitment, not surprises discovered after it. Eaton can compete with speed while maintaining a reputation for quality excellence. Our customers get more choice and more confidence. Power.
+It is the enabler of the vast ambitions you see from every organization that has been up on stage today. Eaton will help make that power available and reliable. Palantir is helping us drive those decisions that empower Eaton to deliver it faster. At Eaton, we make what matters work, and when our customers win, we win. In the face of this industry-wide transformation, with Palantir, we stand ready to keep winning. Thank you.
+## Moderator | 
+Please welcome CEO and President of Ondas Sentinel , Ryan Hartman.
+## Ryan Hartman | CEO and President, Ondas Sentinel
+I guess it is my honor to welcome us to the afternoon. It is great to be back at AIPCon. Six months ago at AIPCon 9, I shared how we were using Palantir to cut stratospheric mission planning from weeks to minutes. That was one platform running one asset. We have since started exploring how we could compound on that same foundation to scale across not just additional mission domains, but also inward, transforming the operations of our own business. That transformation has become core to building Ondas. Today, I am excited to share our progress. Since AIPCon 9, Palantir has expanded from one flight planning workflow to being the bedrock of our operating system at Ondas . Expanding first across Ondas's core workflows, our collaboration with Palantir has grown to govern our corporate development, post-merger integration, workflows, CRM, managing our leases and insurance, and connecting our ERPs.
+Every workflow is built on a common, connected Ontology. It holds the assets, the companies, the policies, financials, decisions, and operations in one continuously compounding model of the business. Data, logic, and action brought together not just to enhance visibility, but to inform and rapidly accelerate decisions. When Ondas acquires a company, its data and processes join the operating picture. In policy work, teams can compare the source documents, inspect the differences, and decide what the combined policy should say. Finance and operations work from the same current workflow of the business. That is what changes the pace of integration. The traditional benchmark for integrating businesses is typically 12-24 months. Within our workflows and processes built on this connected Ontology, Ondas has reduced that timeline to approximately three months. The value is in the connections between workflows.
+Each new workflow adds context to the Ontology so that the next team starts with more of a business view than they had before. Our knowledge compounds with every decision and our ability to deliver new capabilities continuously accelerates. The acceleration we've seen across internal operations extends to our operations in the field. We're already in a new era of mission operations compared to where we were in March, and the core of that new era is SkyWeaver. SkyWeaver takes advancements in platform autonomy across all of Ondas's fleet and extends those capabilities into unified mission autonomy for multi-domain intelligence, surveillance, and reconnaissance, known as ISR.
+Picture it, a stratospheric balloon or long-endurance unmanned aircraft can now operate themselves, but built on our Ontology, what SkyWeaver provides is the connective intelligence layer that orchestrates those assets against a mission set autonomously, agnostic to disruptions from disconnected and contested environments by bringing compute directly to the edge. Mission sets that previously took hours of manual work can be distilled into minutes, providing detailed and holistic decision packets for the human on the loop. After periods of disconnection, SkyWeaver takes all of the mission-critical decision data in the form of a decision packet stored on the embedded Ontology and syncs the data back to an operator. What follows is the evidence, the accumulated traces of back to every action and decision that SkyWeaver took, bringing in the context needed for an operator to gauge and evaluate SkyWeaver's actions.
+In this particular mission set that I'll share, natural language commands from an operator reshape the mission. The decision packet highlights how the mission was retasked, the detection and triage done at the edge, and then how assets were tasked for recon. Earlier, an operator passed a secure tip-off, shown here in red. High-speed boats were moving along the Vietnam-China border in the Gulf of Tonkin. The operator suspects that they may be involved in an illegal fishing operation. SkyWeaver's retasking agent gets to work at this. Built and tuned on the learnings of previous mission sets, SkyWeaver quickly is able to parse the tip-off into action. SkyWeaver brings in context through the embedded Ontology for assets in the mission set and the current mission status, aggregating that data directly on the edge.
+Higher compute tasks, such as advanced stratospheric rerouting or near-term weather forecasting, are off-boarded to a higher compute node and brought back to the edge. SkyWeaver takes all of that data to develop an action, the new mission plan, rerouting assets to the new area of interest. Once rerouted, the new mission kicks into life. The stratospheric balloon over the area of interest uses a specialized maritime computer vision detection model, turning high-fidelity wide-area imagery into detections in a matter of seconds. High-confidence detections are then actioned by SkyWeaver with automated gimbal control, locking onto the potential threat while simultaneously engaging the onboard AIS transponder and the other sensors to check for radio frequencies emitted from the vessel.
+SkyWeaver fuses this data at the edge to infer a decision, in this case, that the threat is likely real, but a closer evaluation is needed to improve confidence in the decision packet. SkyWeaver's asset tasking agent now answers a practical question. Which asset should perform the reconnaissance? SkyWeaver now evaluates against its mesh, pulling live asset data directly from across the fleet to establish the best asset to task. The agent evaluates the availability of those assets, the remaining endurance, weather patterns in the area, and their suitability for reconnaissance to infer the best asset for the job. In this case, a long-endurance Ultra. The packet now shows the full sequence. Mission retasking, detection and triage, and asset tasking. The record connects each stage to the next decision. Behind the decision packet, however, is the vast amount of data, logic, and actions that led to that decision.
+This data syncs back to the Ontology, where an operator's review of the decision is used to benchmark and evaluate SkyWeaver's performance. Tool calls and inferences are evaluated for correctness and relevance to post-train our models to ensure that models infer both more quickly and more accurately while retaining a low compute footprint suitable for the edge. Fine-tuned models are then benchmarked against representative mission scenarios before being pushed back to the edge for the next mission through Apollo. This is a complex, sprawling architecture that shapes to the needs of our mission rather than us having to shape our ambition to the software. Our partnership with Palantir has uniquely enabled us to deliver this at pace. Six months ago, we showed one use case, turning weeks of stratospheric mission planning into minutes. Today, that capability sits inside an operating system for the entire business.
+The same system supports M&A. Policy, finance, and operations then coordinates stratospheric and UAS assets in the field. Each mission sends new information back into the system. This is sovereign AI. Models built on your data, your decisions, your operating logic, and your infrastructure. Each mission compounds, improving what comes next. This is Ondas. Thank you.
+## Moderator | 
+Please welcome Associate Director, Data Science of Novartis, Douglas Applegate.
+## Douglas Applegate | Associate Director of Data Science, Novartis
+Hi, everyone. I am Douglas Applegate. I am a data scientist at Novartis. My team lives at the research end of the drug development pipeline, where we are focused on uncovering the biology of our medicines. This summer, I have been thinking about a huge question, which is how are we going to use AI not to replace human judgment, but to scale human judgment? Empowering scientists like myself and my colleagues to be more efficient at uncovering the biology that is hiding in our datasets, all while making sure that we are working in a governed fashion, maintaining scientific rigor, and bringing that data to the decisions we are making as an organization. Of course, we have to keep in mind that the whole point of this is to focus on getting new medicines to patients who need them. This all begins with our data.
+We have been working with Palantir for a while now, and we have a data lake that we call Data 42 built on Foundry. It comprises over 3,000 clinical trials, over one million patient records, the genomics, the proteomics, all the different ways that we use to deeply understand our medicines and the diseases we study. This is all passed through an extensive pipeline to harmonize the data, anonymize the data, to make it accessible to scientists like myself to dig in and to discover the biology that is hiding there, all in a governed fashion. The problem, though, is that harmonization is not sufficient. This data lake is comprised of clinical trials.
+Each clinical trial is its own experiment designed to answer key scientific questions with its own design, its own measurements, and it can take a data scientist like myself days to reverse engineer how all these pieces fit together when we revisit these trials after the fact, after the clinical trial team has been dismissed. That is where Fractal comes in. A new offering from Palantir. Fractal is based on AIP, and one of the things that it offers is the ability to have a curated, versioned knowledge context for the agents. In the screen that you are seeing here on the left, you have multiple different sessions running in parallel, reflecting a whole bunch of different scientific investigations that I have kicked off. On the right, you are seeing one agent that is focusing on a multi-tissue proteomic analysis of one of our clinical trials, a fairly complex operation.
+The agent is able to be effective in this because our internal biomarker teams have invested the time to curate the knowledge base that this agent is using and the Ontology to make sure that the agent is effective in the Data 42 data lake, paying particular attention to how to work with proteomics data and genomics data. The level of detail that you see here in this report, if I were to do it myself in focus time, would easily take me three days. But when I sent this off to run with the agent, it was done in 45 minutes while I was eating breakfast. That is amazing rethink of how I approach my day. I come in, I have a bunch of scientific ideas, I submit them, and then in less than an hour, I am thinking about science, I am thinking about biology.
+I am not thinking about data schema. I am not thinking about protocols. This is already a huge advance for us. But speed is only part of what we are trying to do. We also need to think about how to scale these agents, because many of the questions that we want to answer do not depend on only one clinical trial. They depend on dozens or hundreds of clinical trials. And we have tested, and we just cannot quite fit all of those into the context of current agents. Then that becomes how do we do that? Before we get to how we solve that particular problem, I just want to spend a minute to discuss what scaling unlocks for us. I think it is common knowledge that the drug development process is extremely difficult.
+It can take 10 - 15 years, $1 billion, $2 billion, to develop a new medicine. Most pharma companies are very interested in the concept of indication expansion or drug repurposing. There is a bunch of different names. The basic concept is you take a good drug and you try to find additional patient populations that would benefit from that medicine. If you get this right, then you are maximizing the pool of patients that are benefiting from your medicine in a minimum amount of time. If you get this wrong, then you are possibly stalling out your drug development program or taking a good drug and accidentally throwing it away. As a data scientist, I want to bring two things to this conversation.
+One, I want to make sure that we as an organization are most effectively using all of our historic data to make sure that we are maximizing our probability of success when choosing which experiments to run with our medicines. The second thing I want to do is make sure that I am being thorough, scanning the entire hypothesis space to make sure that we capture any rare neglected diseases or jumped into other therapeutic areas that we might have missed in the traditional way about thinking about this. Now, I am going to do that by being systematic and thorough in my search. What I want to be able to do is scan the entire hypothesis space of every single compound and target in our portfolio, and every single phenotype, every single indication that we could possibly have access to with our data sets.
+But if we want an agent to do that for us, we have to answer three fundamental questions. One, how are we going to make sure those agents are being consistent and reproducible over that giant hypothesis space and that uneven data? How are we going to make sure that the agent is being scientifically rigorous as it's working through all of those hypotheses? The third one is an organizational question, which is, how are we as an organization going to deal with that flood of knowledge that we're getting back from these agents and be able to act on it with confidence? To try to answer these questions, we teamed up with Palantir this summer to build out a prototype. What you're seeing here is the real prototype running on our actual data lake.
+Our hypothesis space spans over 41,000 hypotheses of drug indication pairings that we can access from our data sets. Just to make this concrete about what's happening under the hood, we're going to focus on one particular hypothesis for a drug we'll call Immuno working in ulcerative colitis. If we click into this particular hypothesis, what we're seeing is a scorecard about everything we know for this hypothesis. We're integrating through different pipelines, different lines of evidence from genetics, from proteomics, from literature, all merging into one particular place. I'm a proteomics expert, so let's focus on the proteomics pipeline to sort of unpack how we're getting to these scores, how we're deriving this data. Many of you have probably seen these sort of process diagrams before, transforms connected together in a pipeline. Similar concept here, but now we're talking about agent sessions.
+Each one of these boxes is an individual agent session. Whereas before we might have coded up this as one monolithic prompt, what we're doing here is breaking it down into a pipeline of constrained finite prompts, which gives us the benefit that we can have very good intuition about what we expect as the input and output from each prompt. We're not the Wild West. Not some random thing is going to show up out of the agents. We can take that intuition and then move over into the Fractal state machine interface, which allows us to code these expectations into checks that are monitoring the agents and responding to their output. So we have checks that are focusing on consistency that the agents are producing in the output that we expect, but also scientific rigor to make sure that the agents are reasoning correctly.
+One of the things that's cool behind the hood is that we're capturing the full agent sessions, so if we ever need to go in and audit what the agent is doing, we can do that. That also means that we can jump in and extend the analysis. As I mentioned, I'm a proteomics expert, and I just happen to know that the data sets that go into ulcerative colitis in this particular case might be a little bit weird. So this is an example where I prompted the agent to look in and it sees that, oh, the data sets are noisier than expected. They don't contribute to the hypothesis as much as we would've liked.
+We are able to take that insight and bootstrap that back into the state machine so that we are adding additional checks that then get blasted out and run over the entire hypothesis space. So over time, building up all of those checks, we are able to enforce rigor over these agent sessions. This is not that big of a surprise, right? These are classic good programming practices. Break down the problem into smaller chunks, instrument your pipeline, layer in systematic checks. The difference is that we are doing this over agent sessions now instead of transforms and unit tests. The other thing I just want to recognize that I have done is that I have invested my time and attention into this particular hypothesis.
+We want to make sure we build in knowledge capture, knowledge management tools into these prototypes to make sure we are effectively combining human knowledge and AI knowledge, so that when a biologist takes this hypothesis and argues it in front of a decision board, they are going to be able to have an accurate representation of the state of the organization's knowledge about this hypothesis. I just want to underline that last statement there. We are not replacing human judgment. We are using the AI to make sure our data is consumable and impactful in our decision-making process. So just to wrap this up, we have seen that we can use Fractal to massively rethink how our data scientists do their job.
+We are able to scale up that infrastructure so that we can have scientific rigor over large hypothesis space, and we are interested to see how this impacts the decision-making process in real pipeline programs over the next year. Finally, this is all important. If we get this right, then what matters most is that we are going to be able to bring new medicines to patients faster, and that is what matters. Thank you.
+## Moderator | 
+Please welcome Head of Corporate Development of Palantir, Sasha Spivak.
+## Sasha Spivak | Head of Corporate Development, Palantir
+One more round of applause for our morning keynote speakers. I crossed 11 years at Palantir this year, and I am so honored to welcome you to our 11th AIPCon, which contrary to what might be quite reasonable of a conclusion to make, did not start 11 years ago, but in fact started three years ago when Dr. Karp launched AIP in a letter two weeks beforehand. Less than three months ago, as he often does, Dr. Karp shared on CNBC what many customers were feeling in private but could not say in public. He gave those customers a voice with his voice, and now we are giving those customers a voice with our product. We have built so much in the field in the last three months since Dr. Karp launched the Sovereignty movement.
+We also launched Sovereignty boot camps in that period, and then ran two of them with nearly 300 customers across both, each on 10 days' notice. The most important part is that we are always only just getting started. Those of you who are here in the room with us in person, we cannot wait for you to continue demoing to each other, showcasing to each other, and having honest conversations about what is working, what is not, what is a thought experiment, where are we not being ambitious enough, and everything in between. For those of you joining us on the live stream, we have another tranche of content exclusively available to you all from some time that we spent on site at NVIDIA HQ, discussing the work that we launched this morning, running the supply chain.
+Thank you for being here with us, thank you for being here with each other, and thank you for the honor of supporting you.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Well, Jeff, thanks for joining me. This is a beautiful studio here at NVIDIA. What do you do at NVIDIA?
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+At NVIDIA, I run the boards and systems supply chain. My role is to make sure all the material keeps moving through the supply chain and the very complex supply chain.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Well, that world has changed just a little bit with the AI demand. I think everybody in Silicon Valley and around the world now is dependent on you and the supply chain. This is a huge problem set for you. I guess maybe you could explain, what does that mean? What's the scale? How have things changed for you?
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+I think the AI infrastructure supply chain is going through unprecedented challenges. One, we have to deal with a massive scale. The products are very complex, and the number of suppliers are growing exponentially.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+As a result of that, we have to keep the supply moving. I think one of the things Jensen's got us really focused on, and the mission, is we want to measure wafer out to first token.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Okay.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Not just our supply chain, not just getting our revenue.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+But actually making sure our customers can deploy it. We are only part of the product.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The other ecosystem partners are providing other components. The data centers have to be installed. He has got us focused not on the mission of just running a supply chain within NVIDIA's four walls, but also making sure that we can get it out. We measure everything. We are trying to find how we go faster. We measure it, we call Time of Ownership, which is a way that we can track how fast our silicon moves.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Through the supply chain. By measuring that, we can actually see where the bottlenecks are, why did this take longer, then we can do that. Not just stop after we ship a product, but measuring it all the way through where our customers are deploying it, first token. With that clear mission, you just are really going to focus on whatever the constraints are, whatever our customer needs.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+And how do we get more capacity.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+And compute capacity installed in the world.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah, I think the multivariate problem has exploded in an enormous way, and so the complexities. But I like that you guys are also going all the way out to make sure that it's not just I sold the chip, it's that that chip is out there producing tokens.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Right.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Adding value. And I think that's the fun thing that we talk about Palantir, is we can take those tokens and make them very valuable too.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+The whole AI supply chain we are thinking about here. The cool part now is we can actually run NVIDIA's supply chain on Palantir to help get that whole life cycle.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It is really a great process. Maybe we shift to that.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We have tried various platforms. We have been preparing our data because we knew a day that AI would come and help us.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+When Palantir came on board and demonstrated the Ontology approach.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We felt that that was a novel idea that could almost give us that digital supply chain for the supply chain. Not just in our factory, but through all our ecosystem partners as well. That framework allowed us to think how we can take the success of the Omniverse digital twin at the factory and make also a digital twin in the supply chain. When we look at the way our planners have to, they hear about a problem, then they have to go and stitch together all of the data. They have to look at their spreadsheets. They have to get on meetings and phone calls just to find out what exactly is the problem.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+But we really need the Ontology to help monitor. All of that information is being monitored by the Ontology. It can identify really quickly the critical constraint.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Once we know what the critical constraint is, then we can use the experienced people to make the right decision.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+So we really want the Ontology, we want the system, the technology to do the stitching of all of that information.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+So that our experienced planners can actually make the best decisions.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah. I think the way I think about this, too, what you're saying is like, how do I make your experienced planners be able to do 10 times more? Because they're great. It's now the sheer scale has become a problem that it's not scalable through humans. How do I give them the systems to go? I think that's where the Ontology is really the humans plus AI together is how you scale. So really comes back to your planners being able to have basically an Iron Man suit.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+To go do things, and they're working the exceptions, the high-value strategic things, where now we can automate maybe some of the lower value other things so they can really focus.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah. Well, one of the things unique about NVIDIA is where our technology resides in our silicon.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We're a one-to-many, right? Instead of getting orders and then going in to order parts, we actually are driving as much silicon as possible. Our planners have to make a lot of decisions. Where is that material? What's constrained? Where's the factory? How's the performance? Where do they make that decision? Today, they pull together the information. Maybe they can run a dozen scenarios.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Manually. We believe that they need to run millions of scenarios.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Because of the consequential impact.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We're just reaching a point of scale and complexity that the traditional methodologies of people using their tools and technologies
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+That have been around a long time to do it, we just need to 10 times or 100 times the possible scenarios.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah, that's incredible to be able to run multiple MRP, material resource planning, scenarios in parallel at massive scale to understand the knock-on effect is a game changer for those planners. Which is interesting because it's not just a stochastic LLM or AI problem, and it's not just a deterministic. It's actually the marrying of the cuOpt model, the NVIDIA cuOpt model, and even the Nemotron models, and bringing all of these things together to then orchestrate the intelligence, orchestrate this process. I think that's really the shift here, is I'm bringing all these different types of intelligence at NVIDIA and your planners' best, right? It's really what's driving this.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+I think that's what's incredible is by having the Ontology set up for a very complex supply chain.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+With a lot of impact. Then using cuOpt to do the simulation math and algorithms to help understand all the trade-offs and the consequences. Then being able to explain it.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Explain it in simple English and the reasoning why. Better yet, when an experienced planner makes a decision that is not aligned with the recommendation, how it can learn from it.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Be able to capture that. We call it codifying the knowledge we have at NVIDIA.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yes.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+That is unique about the decisions we are trying to make. How do we learn from that, how do we then scale that across all of our planning organizations.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+All over the world?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Which is your alpha, that feedback loop is the entire alpha that NVIDIA has, that knowledge base. You do not want to give it away. You want to own that entire process, the feedback loop, and everything else. Which is cool, because part of this, we also took that knowledge loop and used it to fine-tune the different Nemotron models as well. The cool part is you guys have fine-tuned open source these models. Now we are fine-tuning these with your own alpha, and you guys own it.
+You can do what you want. I think that whole cycle is pretty cool.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah. We are finding that the supply chain across companies, across industries.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+There is common terminology, there is common measurements. But every company has a unique use of how they decide things.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+What do they do, under what conditions. That is unique to us. Our data is also very sensitive as well.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+People really want to know what is happening at NVIDIA, what is happening in the AI industry.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Rumors leak out of our supply chain, and then people draw conclusions. It is really sensitive information, but at the same time, we want this decision insight all into the NVIDIA.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Being able to control that and maintain control is really important to our operations.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah. Having Palantir run on NVIDIA hardware and NVIDIA data centers with NVIDIA models, that you own that entire loop, it is yours. I think that the ability to have the security and sovereignty and the infrastructure is a key part about how you can move fast.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Exactly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It is like, how do you move fast and safe? I think that is the combination we have found here together, is really Palantir and NVIDIA can give the sovereignty and owning your alpha, but also do it in a secure, scalable, production-ready way.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah. Like I said, we have been preparing for the day that AI can really help us.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+By getting that data into what we call our Ops Data Platform.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The sheer volume of that data, it is growing exponentially.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah. Oh, yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The compute power we also need, because we have all done optimizations.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We have all used industry standard tools, they are phenomenal. But they take a long time to run.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We really need the speed and performance to actually make decisions near real time.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+You need to combine the.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The AI sovereignty, you need to take the NVIDIA technology of compute, and we need to scale it up. The industry's never seen the kind of a problem that could be solved this way before.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We are glad to lean into it because we need the help to 10 times our planners' productivity.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah. I know at Palantir, we are very excited about it as well.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Maybe we switch a little bit of topics to also the impact and what you are seeing.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah. I think right now we have to put everything in a priority order.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Right now, our commits have to be sacred, like you said.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The other companies are dependent on it. We have to make our decisions so that we can be reliable.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+And people can depend on it. At the same time, that typically meant supply chain, well, buffer.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Buffer.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Buffer.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Buffer.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+De-risk. We do not have that luxury either. The demand for our product is so high that we are constantly being pushed to be aggressive, but not too aggressive.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+How do you figure that out? By instrumenting our supply chain with Ontology and monitoring the data real time, not only can we monitor how fast things are moving.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Again, to our KPI, our time of ownership, but we can identify what is the bottleneck, then we can deploy our engineering resource. We can watch that shrink and shrink and shrink. Now, we are squeezing inventory out, which is, by definition, putting more risk that if something were to go wrong.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+if we can then react quickly.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+If it goes wrong, we are quite capable there, too.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Getting where is the issue, how many emails spent over the weekend- trying to figure out what exactly is the issue.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+By the time you get to the afternoon emails, the morning emails, data is out of sync as well.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Our ability to know where the problem is, coordinate across experts.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Deploy it, then we can take on the risk of not buffering the inventory, driving it. Palantir gives us that kind of visibility that we can see it. Now, we are early on.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+But we are really excited.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Like I said, we've tried other platforms. We've tried this before. We've never really seen the speed in which this is actually coming together.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Everybody's quite optimistic.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah. Maybe that's a cool thing, too, also, just thinking about how we work together. The forward deployed engineers.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yes.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+That we've brought are good friends of mine. I've heard some of the stories and stuff. Maybe your perspective, too, just of that whole forward deployed engineering model, and how working together with engineers that are understanding your pain very specifically, has that been a difference maker as well?
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+I would say it's a game changer.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Like I said, being in the industry a long time, you're exposed to a lot of technology and ideas.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+POCs are a very common way.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Of understanding each other, not talking at too high a level. It was incredible to me to see the speed in which, one, we could scope the problem, because our role was to scope it with the data we knew we had.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We knew that this wouldn't work if we weren't prepared, or we didn't have the data. So we did our homework to make sure that it was achievable. But we set some very lofty goals.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+To achieve. When the Forward Deployed Engineers showed up, their ability to understand the scope, to generate the right questions, their ability to articulate in NVIDIA language.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+It was shocking to me because usually it can take maybe six months or a year of working together.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+With outside companies to understand it. But within weeks, within one week of the workshop kicking off, the Palantir employees, I couldn't tell who was a Palantir employee or who was an NVIDIA employee.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Because they were speaking our language.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+They understood it, and obviously they were able to build models way faster than my team had ever seen. They are really excited about it because part of it, we actually don't know what we need.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Once you get through this hurdle, usually like, "Oh, you are right, there is another variable I forgot to mention." How quickly the.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The team can pivot.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+At that configuration.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Has been really impressive.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It's hard on large enterprises. Your data says one thing, your code says another, the expert says a thing, the document says a different thing, and a lot of the time is spent de-conflicting that. We've come up with a lot of fun ways to help the human computer component.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Of this in understanding. Are there other things that you think that you'd want to talk about here?
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+I think the one other area that we're seeing a tremendous opportunity to change the game how contract manufacturing works.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Is we have a lot of partners. We're having a lot of factories build our products. But at the end of the day, business is performance based, QBRs
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Split of business, share, all the traditional methods that people, like if I perform, you get good scores in the QBR, you get new business awards. With Palantir, we're looking at ability to be able to make that dashboard completely transparent so all of our suppliers can see their own performance, and then they know that the metric in which we're allocating our material based off performance. So I see us moving away from the traditional methods of quarterly business reviews.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+And business share allocations based off a into a weekly business performance review.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Weekly performance metrics, weekly allocation of it.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The speed in which the suppliers will improve with the visibility.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+How the business will grow when they perform.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+I don't think we've ever had the technology that allow us to share our internal view to them.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Palantir's shown me some methodologies in which our suppliers will have access.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+They'll be able to see their site-by-site performance. They'll see where they're performing. They'll see benchmark against other sites building the same product.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+I don't think we've ever seen that before, and I'm excited about how that can be a game changer in an outsourced manufacturing environment like NVIDIA.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah. I think closing that feedback loop, the OODA loop there, we've got the NVIDIA chips, the Palantir Ontology working together, but it's about how do I orchestrate that intelligence? But it's also the Nemotron models and the open weight models and fine-tuning those with your alpha, the cuOpt, and optimization models. We really take in the best of NVIDIA and the best of Palantir all together in this one thing, which is cool because, like we said, the whole weight of the AI industry is on your shoulders- getting that product out the door to everybody, because without the GPUs, no one's doing anything.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yeah. Well, Jensen's so focused on the ecosystem, right?
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yep.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+NVIDIA plays a critical part. We have critical technology. We are trying to deploy it as fast as possible, but there is a lot of partners involved as well.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We also see how Palantir and this Ontology can help move to an AI pace of infrastructure build-out.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Like I said, Jensen talks about the largest infrastructure build-out in human history, and our products are not simple.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+No.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+I mean, a Blackwell rack can have 600,000 parts.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Oh, wow.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Any one part not showing up on time slows down the entire deployment.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Wow.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+When you have that kind of scale across so many partners, across so many suppliers, again, lead times increase, inventory increases, all to buffer so you can be reliable.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Companies can make decisions on it. When they get their units matter for their quarter, their companies.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We have got a responsibility to be the most reliable supply chain you can build
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Your company upon. We take it seriously.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+That is great.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Kind of excited about leveraging Palantir to help us figure out how to do that.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yes.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Our technology is bleeding edge. It has all kinds of challenges obtaining the technology, the materials. Everybody having a visible part of supply chain where supply chain is something people can trust and not some sort of wizardry.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Let me double order.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+All of the techniques I would say procurement people have learned.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+In order to game the system, I don't think we can really afford gaming the system.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The financials are significant.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yes.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+The consequences are significant. Suppliers can be make or break their profitability depending on decisions. I am really worried about how some of the traditional supply chain gaming.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Of the systems to deal with uncertainty. I feel this transparency that we can share with our.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Customers, with our suppliers.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+I feel like we're going to look back and look at how supply chains had been done in the past.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Yeah.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+And we're going to say how primitive or how narrowly focused they were on people serving their own interests.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Well, and that's.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+We are looking at the technology across the whole thing.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+We were kind of talking about this before too, is everyone is trying to optimize for what is in front of them.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yes.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+That local optimization.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yes.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It is really how do I help them make those decisions with the view of globally optimized?
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Yes.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+It is really empowering more people to make the globally optimized decision. Awesome. Thank you, Jeff.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Hey, thanks a lot.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+This was awesome.
+## Jeff Whitmer | VP of System Supply Chain, NVIDIA
+Great to talk with you.
+## Chad Wahlquist | Forward Deployed Architect, Palantir
+Awesome.
+Data Source: Quartr Last updated: Sep 10, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (19) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

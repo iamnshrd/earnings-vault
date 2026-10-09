@@ -1,0 +1,285 @@
+TITLE: Wolfe FinTech Forum
+DATE: 2026-03-10
+## Darrin Peller | Analyst, Wolfe Research
+All right. Why don't we jump in, everybody? Thank you again for joining us. Again, I'm Darrin Peller, payments, processors, and IT services analyst at Wolfe Research. Really happy to have Mastercard with us. We have Linda, who's the President of the Americas, and we've known each other for many years since IPO.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Mm-hmm.
+## Darrin Peller | Analyst, Wolfe Research
+Linda, thanks for being with us. It's great to have you.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Oh, thanks for having me.
+## Darrin Peller | Analyst, Wolfe Research
+Devin, thanks for joining us as well. Why don't we just jump in? I mean, it's a crazy world out there, so you guys have a better picture of the world than most. What are you seeing? Macroeconomic environment is interesting, and what does that mean for Mastercard? What are the trends you're seeing from a consumer standpoint? Just start there, if you don't mind.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Sure. From a consumer perspective, as we've said in the past, we're continuing to see the resilience of the consumer. We're continuing to see healthy consumer spend amidst a backdrop that might be more volatile. When you look at the consumer and their purchasing power, it's very much a function of wage growth. Wage growth has been exceeding inflation, and so that's empowered the consumer and created more purchasing power for the consumer. On the business side, we've seen also continued spend, healthy supply chains, relatively low cost of capital, continued investment. That bodes well for businesses. Generally continuing to see a very stable and healthy consumer. When you think about the diversity of our business model.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah
+## Linda Kirkpatrick | President of the Americas, Mastercard
+across geography, across product, you know, different lines of business, and merchant category, you know, that diversity helps in periods of fluctuation. We are monitoring the macro environment very closely. We continue to stay vigilant. But that diversity in our model makes us very confident that we can manage the dynamics.
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+in the broader market.
+## Darrin Peller | Analyst, Wolfe Research
+Just to dive in for one more minute, and then we'll go into some other questions. You know, we're seeing a lot of spike in gas prices, and so there's always the debate between how much of your spend is on gas versus the impact on demand. Maybe just a quick comment on that for a moment. How much does that really help or hurt you guys? More broadly speaking, you know, you're obviously seeing other factors in the market, whether it's tax refund season. Just anything else you can give us a little bit more in terms of recent trends.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Again, the diversity of our model across merchant category really smooths out any-
+## Darrin Peller | Analyst, Wolfe Research
+Okay
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Spikes or peaks in any one category like gas like travel like groceries. We do monitor and manage discretionary versus non-discretionary. We look at spending across different products. The reality is that, you know, at the end of the day, given that diversity, the spikes, the intermittent spikes really smooth out.
+## Darrin Peller | Analyst, Wolfe Research
+Okay. For you guys, it's been stable.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+It has.
+## Darrin Peller | Analyst, Wolfe Research
+That's great. Okay. When we think about this environment, I mentioned this in my opening remarks this morning, I mean, the regulatory landscape has been one of focus for investors, especially after earlier this year when President Trump was posting about CCCA and rate cap potential. Maybe just help us understand what you're seeing from that standpoint. U.S. regulatory environment, its implications on the business. If you could specifically hit on CCCA, we still get asked a lot of questions of whether that's a real risk. What are your thoughts there?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We're a company that does business in 220 countries and territories, and we're very familiar with working with those governments, with central banks, with regulators and policymakers. You know, we work, you know, we think globally, we act locally, and we have a lot of experience navigating the regulatory arena. As I think about the regulatory space, there's two themes that tend to come up more often than not, and one is competition and other is cost. From the perspective of competition, as someone who's been in payments for decades, I can tell you that the competitive market has never been more robust.
+## Darrin Peller | Analyst, Wolfe Research
+Mm-hmm
+## Linda Kirkpatrick | President of the Americas, Mastercard
+than it is today. There have never been more ways for consumers and small businesses to pay and be paid. When you think about digital currencies, digital wallets, account to account, ACH, you know, there's a plethora of options. Competition is quite healthy. When you think about cost and the intersection of the payments ecosystem across consumers that use their products, merchants who accept them, there's real value that exists in the ecosystem. If you're a consumer, you benefit from protection against fraud, zero liability, increased purchasing power. If you're a merchant, you also benefit from increased fraud protection as well as, you know, you're not subject to chargeback and delinquency.
+There's real value that exists in the ecosystem, and when we explain that in our advocacy efforts to regulators and policymakers, they understand that, and they understand that the market and the system works. Now with respect to CCCA, again, the premise there is really around competition. The reality is that CCCA takes choice away from consumers and really puts it in the hand of a third party who could run a transaction down a network that's not the safest, but actually the cheapest.
+## Darrin Peller | Analyst, Wolfe Research
+Mm-hmm.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+From our perspective, that removing choice is a bad thing. You know, our whole mantra as a global payments company is you need to provide choice. That really resonates when we speak to policymakers, you know. We'll continue along the path of educating and advocating vigorously.
+## Darrin Peller | Analyst, Wolfe Research
+Right. I mean, any sense of where we are on that whole you know, risk or potential for that to get through?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+You know, CCCA has been around for years. It really hasn't had much traction at all. I don't see that changing.
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+anytime soon.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah. I think we feel the same way. Let's move to another topic. Just in Europe, in a similar manner, regulation has been a topic of discussion there for years as well. There's been a lot of discussion around payment sovereignty, right? Just help us understand. There's been discussion over reduced reliance on U.S.-based companies. How are you thinking about that as a risk? Or, you know, do you see any realistic momentum on that front?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+You know, again, as a global company operating in 220 countries and territories, we have a lot of experience working across different markets and geographies. We're a partner to governments across the globe. We work with governments to drive financial inclusion efforts, to support their fraud and safety and security efforts, and to really support their disbursements. The governments see the value in the payments ecosystem and in the products and services that we deliver. From our perspective, we see very healthy and productive conversations across various markets. Now, the reality is we have a very flexible network architecture that allows us to serve different roles to different markets around the globe.
+You also know, if you follow us, that 40% of our revenues is generated from services, and 40% of our services are not network linked.
+## Darrin Peller | Analyst, Wolfe Research
+Right.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+There's an opportunity for us to continue to work with governments across many different capacities, including across services.
+## Darrin Peller | Analyst, Wolfe Research
+Right. I've heard actually both you and I think even Visa talk about working with incremental networks that are popping up and that governments are pushing to help them actually get going, right?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Exactly.
+## Darrin Peller | Analyst, Wolfe Research
+'Cause it's in your interest to work as a partner in that way. Speaking of, you know, just overall competition, and you're bringing up how competitive the space is, Capital One's acquisition of Discover probably underscores that to some degree, right? You're gonna see another company that was a competitor with another balance sheet even behind it, right? Just talk a little more about how Mastercard's positioned to handle this competitive environment, and what does it mean for rebates and incentives going forward? It's always been a topic of conversation to see that grow, and yet your net yield still goes up pretty nicely, but I'm curious your thoughts.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We have a long and strong relationship with Capital One for many, many years. We've both been very public about continuing that relationship for the long term. We were very excited to announce the
+## Darrin Peller | Analyst, Wolfe Research
+Yeah. Let's hear it.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+renewal and extension of our consumer and commercial credit business with them last quarter.
+## Darrin Peller | Analyst, Wolfe Research
+Mm-hmm.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Of course, Capital One is a big consumer of our services. In fact, we just signed a Ethoca Clarity agreement with them to enhance that partnership. We also have several co-brands, including Union Plus, Bass Pro Shops, REI-
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+BJ's Wholesale Club. The relationship is deep, including on the marketing side. We just had the Arnold Palmer Invitational and the BRIT Awards where we're partnering across a large swath of our credit business with them. Very strong relationship, and I expect that to continue. They've made some acquisitions, as you referenced.
+## Darrin Peller | Analyst, Wolfe Research
+Yep.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We have very good relationships with.
+## Darrin Peller | Analyst, Wolfe Research
+Brex.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Brex. We've been with them since 2018. We've supported their international expansion. They use our services as well. I believe, once they're under Capital One, the acceleration in their growth will amplify, and we'll be right there with them. We're very excited about that. With respect to rebates and incentives, I think you hit on it. We are very diligent and judicious with rebates and incentives. We don't try to win every deal. We try to win the deals that really matter to us, that are tied to our strategy around growing cross-border, digital-first relationships, you know, services-rich relationships, and we're very methodical and surgical.
+## Darrin Peller | Analyst, Wolfe Research
+Right.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+When you look at net revenue yield, it has been going up for the past several years, and that's the measure we hold ourselves to.
+## Darrin Peller | Analyst, Wolfe Research
+You expect that, I assume, to continue. Capital One, just one more quick follow-up on that. I mean, the renewal or the signing you just did in the last quarter you announced, that basically is a testament to saying you guys are committed to each other on a lot of the products you're in. Not necessarily everything. Debit obviously moved, but otherwise quite a bit.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We're very committed to advancing our relationship with them, and again, they've been vocal about the same with us, so expect that to continue.
+## Darrin Peller | Analyst, Wolfe Research
+Okay. Good. You've won a lot of different new businesses, and you announce quite a few of them every quarter. Just what's driving that? I mean, is it VAS? Is it some of the offerings you're giving on the payment side? Maybe help us understand that.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Well, you know, as I said, the competitive market in payments is so robust, and we are very pleased to be winning on so many fronts. We announced last quarter that we had won hundreds of deals, both in our core payments space as well as across services.
+## Darrin Peller | Analyst, Wolfe Research
+Mm-hmm.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We've diversified the type of customer with whom we're working. It's not just banks, it's not just merchants, but it's governments, it's fintech, it's CPG companies, so we're really pleased with the diversity of what we're selling and to whom we're selling, which has been great. You know, why are we winning? We're not necessarily winning on price. We're winning on value. Again, if you look at the depth and breadth of the services that we provide across data analytics, safety and security, loyalty, open banking, we can work with our customers as an enterprise partner outside of payments and inside payments. If you're a large bank or a large merchant, you value the fact that you can work with one partner to support multiple lines of business within the institution.
+I, you know, the insights that we provide, the innovation we bring, the way we fast-track innovation conversations and solve
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+consumer problems on behalf of these customers, it's really valued. We were very pleased to announce last quarter the renewal of our relationship with American Airlines, with Apple, which of course is now with Chase, which we're very excited about.
+## Darrin Peller | Analyst, Wolfe Research
+Yep.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+In Latin America, the extension of our Nubank business into the U.S. Also the renewal of our Scotiabank business. In Canada, we announced a big services deal with Rogers Communications, as well as a big affluent program with Rogers Bank. I'm very pleased to announce today we just signed an agreement with AeromÃ©xico. It's a new co-brand that's launching in a market. Great example.
+## Darrin Peller | Analyst, Wolfe Research
+Congrats
+## Linda Kirkpatrick | President of the Americas, Mastercard
+of where it aligns with our strategy and our sweet spot of cross-border travel. It integrates services. AeromÃ©xico is the largest airline in a market that matters a lot to us, both domestically and internationally. It's a great example of where winning with a winner makes sense.
+## Darrin Peller | Analyst, Wolfe Research
+That's great.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+for our business.
+## Darrin Peller | Analyst, Wolfe Research
+That's great. You know, stablecoin is still a topic that's discussed as a potential risk for the ecosystem by some investors. It was a hotter topic, I'd say, last summer, but even still, it's coming up more and more now, even in concert with AI. Maybe help us understand your view of it, either as a risk or maybe even as an opportunity.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+I see stablecoin as not a competitor, but as an enabler, as an enhancer of the business. We see it, again, as a company that focuses on choice. Stablecoin is another form of choice that if consumers and businesses choose to pay or be paid, they can transact across our network using stablecoin. If you think about how Mastercard plays in this space today, you can use a Mastercard to buy stablecoin. You can leverage stablecoin rewards at the point of sale where Mastercard is accepted. We've embedded stablecoin into Mastercard Move.
+## Darrin Peller | Analyst, Wolfe Research
+Mm-hmm
+## Linda Kirkpatrick | President of the Americas, Mastercard
+which, consumers and businesses use to send money cross-border.
+## Darrin Peller | Analyst, Wolfe Research
+Yep.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We have a variety of solutions on the services side to support safety and security and wallet opening and consulting on behalf of customers. We've been in and around the business for a while. Again, another form of choice and another way in which we'll see how it plays out. I don't think anybody really knows at this point what the utility is of stablecoin. When you think about its ability to scale, in and of itself, stablecoin can't scale without interoperability, without fraud and protection tools, without transparency, without governance. These are all the things that Mastercard as a network player and as an ecosystem convener does.
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+each and every day. This really plays to our strengths. We feel we have a big opportunity and a big role to play with stablecoin.
+## Darrin Peller | Analyst, Wolfe Research
+I mean, have you seen any real progress or momentum in the industry around it? Anything change in the last nine months that's caused any concern for you, from your perspective, or?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We haven't seen a big pickup at this stage. Again, all of the levers I discussed around interoperability.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah
+## Linda Kirkpatrick | President of the Americas, Mastercard
+... transparency-
+## Darrin Peller | Analyst, Wolfe Research
+Yeah
+## Linda Kirkpatrick | President of the Americas, Mastercard
+governance, I think that all needs to align before we-
+## Darrin Peller | Analyst, Wolfe Research
+I think so too, yeah.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+see any momentum.
+## Darrin Peller | Analyst, Wolfe Research
+Let's talk about AI. I mean, especially as pertains to, let's call it agentic commerce, but also really the potential for you to utilize it internally beyond just the agentic. You know, help us understand exactly where you're positioned around it. There was some perceived risks or thoughts of concern that it could route volume different ways, maybe even to stablecoin, as I mentioned, right? But on the other hand, I think most investors are constructive, thinking it could really drive more volume. Your services should be utilized for it, right? In terms of tokenization and value add to fraud. What are your thoughts?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+The headline around AI is that we see it as an enabler of transactions and new experiences that we're well-positioned to capitalize on at Mastercard. I'll talk about it in two contexts. The first, Mastercard as a leader in AI.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+The second, Mastercard's role in proliferating agentic commerce. When we think about Mastercard's role as a leader in AI, I think about all the ways in which we've been using it for decades. One-third of our services has AI embedded in one way, shape, or form. We use AI to inform our fraud tools. We use AI to create more personalized experiences in our loyalty tools. We use AI internally to be more efficient across coding, consulting, budgeting. At the end of the day, we all know that AI models are only as rich and robust as the data that is inputted into those models.
+When you look across the $10 trillion of volume that we process, the $210 billion switched transactions that we have, we are very well-positioned to fuel those models and to benefit from those models going forward as part of our services.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah
+## Linda Kirkpatrick | President of the Americas, Mastercard
+... business. That's, you know, Mastercard's role in as an AI leader. In terms of Mastercard's role driving agentic commerce. Again, here we sit at the very center. In order for agentic commerce to proliferate, you need tokenization to flourish. You need to identify.
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+... who an agent is. You need to let an issuer know that an agent, an agentic transaction is taking place. You need to give a consumer comfort that they can deputize an autonomous agent to make a purchase on their behalf. All of that requires franchise rules, safety and security tools, access to network tokenization, and this is where Agent Pay comes into play. We very much sat at the center of that. We believe that, you know, while cards will continue to benefit in an agentic environment, we will certainly evolve as the market evolves.
+## Darrin Peller | Analyst, Wolfe Research
+Mm-hmm
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We're very well positioned to take advantage of the growth.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah. I mean, we saw Stripe talk about how they're utilizing your tokens publicly. We saw, you know, OpenAI talk about
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Mm-hmm
+## Darrin Peller | Analyst, Wolfe Research
+not doing as much in-house.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Mm-hmm
+## Darrin Peller | Analyst, Wolfe Research
+Really, leveraging you guys on the ecosystem more broadly. I don't know if you can take a guess, but what kind of timeline are you expecting for agentic to really take hold and actually impact the market?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+I think really consumers will decide. Consumers and businesses will decide how quickly agentic will take hold. Again, here we're in early innings. Things are not moving at a fast pace as we see it today. I think the message here is we're poised and ready if they do, and we're part of the ecosystem and building that ecosystem, not sitting on the sidelines, but playing right to our strengths in terms of what we do well as a network.
+## Darrin Peller | Analyst, Wolfe Research
+Right. Linda, where, I mean, you've grown well obviously already, but where does the next leg of growth come from? Especially, you know, you operate some slightly more mature markets in North America, but also maybe less mature markets in Latin America.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Yeah.
+## Darrin Peller | Analyst, Wolfe Research
+Help us understand your outlook and the trajectory for growth for the Americas?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+When you think about our growth algorithm as a company, we've talked about the fact that this includes PCE growth, secular shift, share shift.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Services growth. The growth is coming from those areas. What I'd say on secular shift, we talked about the $11 trillion of opportunity here to take cash and check and digitize, and that's happening across all markets, not just developing ones.
+## Darrin Peller | Analyst, Wolfe Research
+Mm-hmm.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+I look at the U.S., full year 2025 grew at 6% GDV growth. Latin America grew at 15%. That's well above PCE. That is evidence that the secular opportunity is alive and well across developed and-
+## Darrin Peller | Analyst, Wolfe Research
+Yeah, that's true.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+developing markets. I look in LAC at markets like Bolivia, Peru, Colombia, where the dominant form of payment is still cash and check, and I get very excited about that secular opportunity. When I look across markets in the U.S. or in Canada, I look at new verticals, new customers, new buying centers.
+## Darrin Peller | Analyst, Wolfe Research
+Sure
+## Linda Kirkpatrick | President of the Americas, Mastercard
+the opportunity to turn on acceptance where acceptance doesn't exist today. Insurance, transit, rent, these are still ripe verticals.
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+for growth. Of course, services. You know
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+There's tremendous opportunity in services. It's already growing at high double digits.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah
+## Linda Kirkpatrick | President of the Americas, Mastercard
+We see, you know, at 40% of our revenue today, we see opportunity for growth there, particularly in the agentic and the AI use cases that we talked about.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah. On that note, I mean, services, to your point, has been extremely strong for a pretty long time, 40% plus of your business. In your markets, where do you see the most attractive services opportunity?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+From a services perspective, almost every deal we're signing across our markets embeds services in one way, shape, or form. Again, our services are very diverse. Some of our services appeal to, you know, some customers more than others. Fraud, safety, and security appeals to all. Data and analytics.
+## Darrin Peller | Analyst, Wolfe Research
+Mm-hmm
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Everybody can benefit from.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Loyalty and experiences, the merchant community finds particular value in. I mentioned the Rogers Bank example. We have many other examples across Costco and Walmart and American Airlines, all of whom have their own services, and they're using ours to complement their own to be
+## Darrin Peller | Analyst, Wolfe Research
+Right
+## Linda Kirkpatrick | President of the Americas, Mastercard
+... again, that enterprise partner, across payments and beyond.
+## Darrin Peller | Analyst, Wolfe Research
+Okay. We're almost out of time, so, you know, I'll ask one more, and then anyone in the audience, if you have one or two questions, guys, feel free. You know, when we think about the next few years, what are you most excited about for the Americas? What do you see for the franchise when you think of the Americas for the next three years?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+I've been in the business for three decades, and I have never been more excited about the opportunity to grow at Mastercard. We sit at the center of a business model and an industry that's in high growth. We've got, you know, tailwinds with respect to how consumers wanna transact, and we have forces like agentic commerce and digitization and tokenization that's fueling our growth. I've never been more enthusiastic about the opportunity in front of us, and as a company that operates globally, truly globally, we're very well positioned.
+## Darrin Peller | Analyst, Wolfe Research
+Yeah. As you should be
+## Linda Kirkpatrick | President of the Americas, Mastercard
+really excited.
+## Darrin Peller | Analyst, Wolfe Research
+Guys, any questions from the audience? I'm happy to take a couple. I think we have about six, seven minutes. Yeah.
+## Speaker 3 | 
+Just curious on the. You know, you made a move forever ago, from, you know, sort of card present to card not present, and that created a number of security challenges. Now we're looking at going from sort of human present to human not present. I'm trying to think about, like, is the primary responsibility for that gonna rest with Mastercard, another party in the transaction? How do you even do it? Like, I'm pretty sure I could get on my browser today and have an agent complete a form, web form. I don't know how you would possibly know that it's not a human. I don't know if you just. Anything you can shed light on there would be great.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+When you think about agentic or autonomous transactions taking place in the network today, to participate in Mastercard's ecosystem, Agent Pay is essentially giving agents access to network tokens. In return for that access, they need to identify. They need to be transparent in terms of who they are, how they're transacting, in which forum, and give visibility to the issuing community who can decide whether to authorize that transaction based on their own fraud models. Mastercard has a very important role to play here because we're facilitating that transparency, we're facilitating the fraud and safety and security, we're leveraging our data and analytics to infuse more intelligence into the transaction. We do sit at the center of that. Consumers.
+You know, our brand is synonymous with trust, so if they're using a Mastercard product, we do believe it is our responsibility, and our role to apply our services and apply our technology in a way that makes all parties comfortable. Think about a four-party model today, adding a fifth party, requires industry collaboration, partnerships, transparency, and that's where we're showing up.
+## Speaker 3 | 
+Will it be the issuer that's the one who's finally responsible to say, "Hey, your agent wants to do this transaction. Are you okay with it?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+It's always the issuer's ultimate, you know, decision whether to approve a transaction or not.
+## Speaker 3 | 
+Result.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Yeah. We're giving them that transparency too, and data to help them make that decision.
+## Darrin Peller | Analyst, Wolfe Research
+Another question?
+## Speaker 4 | 
+Hi. Thank you, Linda. Maybe as a related question, could you please speak to the importance of Mastercard being the one to issue the network token, and what exact, you know, data rights or incremental data does that allow Mastercard to leverage that other players in the value chain maybe don't have access to or are trying to get access to?
+## Linda Kirkpatrick | President of the Americas, Mastercard
+When you think about network tokens, they are, you know. What is a token at its core? It's taking a static PAN and turning it into a dynamic number that changes every time it's used and makes it less penetrable to fraudsters. Look, as AI proliferates, this becomes even more important to let in good volume and keep out bad actors. The value of a network token is that it's interoperable, everyone is operating by the same standards, you know, there's transparency and security that sits behind it, and our issuers are leveraging it today.
+At the end, by the end of last year, all U.S. banks' cards are actually capable of conducting an agentic transaction if the consumer or business so desires to do that. The market is ready for it, and issuers have the capability to approve. Again, with our network tokens, in the same way network tokens help to drive digital transactions in wallets, network tokens can support agentic transactions in an autonomous world where consumers or businesses want to deputize an agent.
+## Darrin Peller | Analyst, Wolfe Research
+Oh, you know what? Maybe we'll take one more, and then we'll wrap it up.
+## Speaker 5 | 
+Okay. To follow on to the last one. Do you see the network token being tied into repudiation and to chargeback or dispute rules? If you know that the agent has been registered, you know that at least it's not a malicious agent.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Part of the value we bring is in adjudication and chargeback capabilities for both the merchant and the issuer. Those franchise ecosystem rules that apply today in a digital world, card present, card not present, will also need applicability in an agentic environment, and that's part of the value we will be bringing as well.
+## Darrin Peller | Analyst, Wolfe Research
+That's great. Linda, thank you very much.
+## Linda Kirkpatrick | President of the Americas, Mastercard
+Thank you, Darrin.
+Data Source: Quartr Last updated: Mar 10, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (5) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

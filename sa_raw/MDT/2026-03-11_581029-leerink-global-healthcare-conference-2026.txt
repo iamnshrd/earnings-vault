@@ -1,0 +1,228 @@
+TITLE: Leerink Global Healthcare Conference 2026
+DATE: 2026-03-11
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+All right. I think we can kick things off, but thank you all for joining. My name is Mike Kratky. I'm our Senior MedTech Analyst at Leerink, and thrilled to be joined today by Medtronic CFO, Thierry PiÃ©ton. Th anks so much for joining.
+## Thierry Pieton | CFO, Medtronic
+Yeah, thanks for having me.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+You just passed the one-year mark at Medtronic.
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+We'd love to maybe kick it off by hearing from your perspective how the business has evolved over the last year, and as you look out over the next 12 months, what gets you most excited?
+## Thierry Pieton | CFO, Medtronic
+Yeah. Look, first of all, it's been an interesting 12 months. I mean, we've had a lot of things going on between sort of accelerating some of the new product launches and some of the portfolio actions that we've taken that I'm sure we'll talk about. You know, the IPO of MiniMed, and we're going back in offense in M&A, and we've done a couple things in the last 3 or 4 months. It's been pretty busy. Look, I think, you know, the business has growing confidence.
+I think a lot of the work that has been done for several years in the past few years to build the portfolio and reinforce some of the operating mechanisms in the team, and to work on R&D on some of the innovations that you know we're launching now, it's starting to pay off, and I think there's a lot of excitement in the company. Performance has been improving from a top-line perspective over the last few quarters, and so I think it's confidence building, and I think the mood of the team is super positive and leaning forward.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood. Yeah, talking about M&A, I mean, last 3, 4 months and even the last 3, 4 days.
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+...saw the Scientia acquisition. Maybe actually to kick off, we'd love to hear how you think about that business and why-
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+It might be a good fit for you guys.
+## Thierry Pieton | CFO, Medtronic
+Yeah. I think Scientia is the perfect example of what we wanna do, right? What it brings in. First of all, you know, stroke is a massive condition out there. Millions of people have strokes every year. Time is really of the essence when you have a stroke. Every minute that you wait to fix the issue costs you millions of brain cells. For us, you know, having in the portfolio a very differentiated access guidewire is really critical. We have good equipment for the thrombectomy piece of the business, so treating the blood clot or the hemorrhage, but we didn't have access. I think now this is, you know, bridging that gap.
+What we're seeing is because of how crucial it is to have access as quickly as possible, the access equipment actually dictates what equipment is gonna be used afterwards to treat the problem, right? So for us, it generates a lot of synergy. You know, they have a unique technology which is a great balance between the stiffness of the catheter and the flexibility to access different tortuous parts of the brain as quickly as possible.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood
+## Thierry Pieton | CFO, Medtronic
+You know, they have their own base of customers. Some of the customers are common. We have our own. They have their own. There's gonna be a commercial aspect to this. Our sales rep are gonna be able to carry their product in addition to the existing range.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Uh-
+## Thierry Pieton | CFO, Medtronic
+The financials look good. For us, it's the exact type of example of deal that we wanna be doing on a go-forward basis.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Perfect. Might have more on M&A later, but I did wanna jump in on your guidance and some of the most recent, you know, color during earnings that you provided. I'm curious how you'd kinda characterize some of the top and bottom line growth expectations that you've set forth for next year.
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+to what extent that kind of factors in the extra selling week.
+## Thierry Pieton | CFO, Medtronic
+First, I'm sure we'll go through some of these things in detail afterwards, but it starts with accelerated growth, right? What we've said in the 3Q earnings call is that the organic growth that we're going to experience in 2027 is gonna be higher than the organic growth of 2026. Right now, for 2026 or fiscal year 2026, we're calling 5.5%, so we should be north of that. That's excluding the impact of the 53rd week. It's true organic incremental growth, and I'm sure we'll go in the details, but it's on the back of CAS continuing to accelerate in the business because we're still in relatively early innings of the growth of that business and we can drill into the details.
+In addition to that, in the Q3 , we did 6%, in the Q4 , we'll do about 6%. The next generational growth drivers, so Ardian, InterStim, Hugo, haven't really kicked in yet. You'll see in fiscal year 2027 starting to see the impact of these other growth drivers, plus a whole bunch of innovation that we've got in the rest of the portfolio in peripheral vascular health, in neurovascular, et cetera, that are gonna help as well. We feel confident that we've got a great roadmap to continue to accelerate growth in 2027 and beyond, and again in 2027, excluding the impact of the 53rd week. If you look at the income statement, gross margins are, you know, getting better.
+You know, right now the pressure that we've got from diabetes and CAS mix is gonna get better. As that gets better, the progress that we're making operationally through pricing and cost out to improve gross margin is gonna show up, right? We'll get some leverage on the overhead part of the income statement. We'll keep investing in R&D, but we'll more than offset that with leverage on SG&A. That's how operationally we're gonna generate some leverage at the operating margin level.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood.
+## Thierry Pieton | CFO, Medtronic
+Below that, there are a few moving parts that I tried to explain in the Q3 earnings. We're gonna have some dilution from the M&A activity that we've had. There's some dilution that's coming from the diabetes deal, in particular between the IPO and the split, and we'll have some carryover from the tariff effect going into 2027, and we're gonna use the 53rd week to offset part of that at the EPS level. When all is said and done, net-nets, we're committing to the high single-digit EPS growth for next year.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Got it. Very helpful. You know, maybe a good segue to the CAS business.
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Obviously has been a huge source of momentum for you. Fifth straight quarter of accelerating organic CAS growth at, you know, close to 80% in fiscal 3Q. Would love to hear how you're thinking about the elevated growth rates for that business moving forward as you kinda lap some of these tougher comps, yeah, the durability of growth and how you can sustain some of that momentum.
+## Thierry Pieton | CFO, Medtronic
+Yeah. First, you know, it's a growing market, so in Q3 the overall market was, what, $13 billion. It grew 20%. We see it continue to grow in the high teens going into 2027. The pie is getting bigger, you know. Within that pie, we've got a very unique offering now with the versatility that Sphere-9 brings. It's the only catheter that integrates the mapping, PFA and RF, which is a big deal for the physicians because in a lot of procedures you don't know if PFA is gonna be enough. Having the security of being able to do the complete treatment without pulling the catheter out and putting another one in is a big deal.
+Our data shows that in 50% or 60% of the procedures done with Sphere-9, there is actually utilization of both PFA and RF, right? It's a big security. The physicians love it, and so that business is taking off, and it's again, it's in the early innings. We're still building the installed base of capital equipment. We're still working primarily on key accounts, you know. In the US, 70% of the business is with 30% of the accounts, and we're focused mainly on those, so we haven't really started going to the rest of the customer base at this stage. Even the key accounts today, they have one or two pieces of equipment, and they wanna get a second or a third or a fourth.
+We feel there's a lot of runway. At the same time, we're expanding geographically to countries like Japan. We're expanding the indication to VT, and we're about to launch the next generation. We just got CE mark for Sphere-360 in Europe, and we started clinical trials in the US, so we should be able to launch that product, sort of in 18 months from now. Yeah. We see continued increased growth from that business going forward. Obviously, the percentages at one point will not be the same 'cause the base is growing bigger and bigger. But in absolute dollar values, it's becoming a bigger and bigger contributor to our growth, which means growth acceleration for Medtronic.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood. Yeah, really, really helpful there. I guess just digging in on specifically the PFA side within U.S. ablations.
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+You know, how do you think about where overall market penetration is today and where that could be, call it, in the next 12-24 months?
+## Thierry Pieton | CFO, Medtronic
+I think today it's in sort of 50%-60%, and we think ultimately it will get to 80%. There's still a lot of margin for growth there.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Got it. Maybe within that, you know, obviously talked about some of the Affera Sphere-9 dynamics has been gaining significant market share. How do you think about that continuing over time, and what do you think Sphere-360 could ultimately mean for your business in terms of-
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+further market share?
+## Thierry Pieton | CFO, Medtronic
+Yeah. On Sphere-9, as I said, you know, the reality is it's a very differentiated product today, and it's still a market where technology counts, right? The physicians want the best technology and that's what Sphere-9 is today. We know that the competition is working on competitive products, but from the data that we've got, it's still one or two years out. In the meanwhile, we're working on Sphere-360. Sphere-360 is, you know, a large tip, rotation-free, single shot catheter. It's gonna cut the procedure time even versus Sphere-9 by two-thirds. It's an incredible product from a speed of procedure perspective and in particular adapted to, you know, more simple procedures, et cetera.
+We're very excited for the incremental contribution that we're gonna get from Sphere-360.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood. Maybe just one of the last ones on PFA, but.
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+As you think about potential bottlenecks in the market, whether it's capacity or otherwise, is there anything that you see as kind of a key point of sensitivity for market growth over the next 12 or so months?
+## Thierry Pieton | CFO, Medtronic
+For market growth, I don't know. For our growth, manufacturing's not an issue at all. We've got plenty of capacity now to produce both the capital equipment and the catheters. The long pole in the tent, so to speak, is the mappers. We're hiring hundreds of mappers. But we're on track and, you know, if you're a mapper today, you know, part of your remuneration depends on the number of cases that you do. You typically wanna be with Medtronic 'cause that's where the growth is. We're able to attract mappers but again, that's it. If there was gonna be a bottleneck at one point, that would be it, but today we don't see that as a problem.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Got it. Very helpful. Would love to shift to your renal denervation business. You know, could you share some of the early takeaways from the commercial launch so far?
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+just the level of demand you've seen?
+## Thierry Pieton | CFO, Medtronic
+First, we look at the entire funnel, right? From the very top, how many customers are interested in the procedure? For that, we look at the number of clicks we've got on the Internet, and we look at every stage of the funnel down to the number of cases that we actually do. At the top of the funnel, the traction is tremendous. You know, in between Q2 and Q3, we went from 50,000 clicks on the website to 2.2 million, right? There are a lot of people out there that have this problem and that are interested in this kinda life-changing procedure.
+You know, we're continuing to do some direct-to-consumer marketing to continue to build that, but really it's all about creating the capacity to do the procedures down in the treatment centers. We're opening accounts. We've opened more than 200 accounts. We're putting physicians in, you know, helping put them in physician finder so that people can be connected to them on the Internet. We've got more than 150 in physician finder today. But the longest pole is getting the reimbursement done, and it's a new procedure. What we see is once a treatment center has done one procedure and successfully gotten reimbursement, then the second or third or fourth happen pretty quickly. They don't wanna take the risk of not getting reimbursed.
+A lot of the resources that we're putting are dedicated to facilitate the reimbursement to help the customers get it as quickly as possible. We're getting, you know, tons of traction. I mean, the procedure volume is going up, the accounts are going up, the physicians are happy with it. The feedback that we're getting from the procedure is excellent. Competitively, we're very, very well positioned, so we're excited about it. It's a new therapy, so it takes a little bit of time to build that market.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Yeah. I'd love to dig in on some of that. Have you quantified how large that business is today as you think about, you know, your guidance and what you're factoring in for next year, generally, how large you expect it could be by the next 12-18 months?
+## Thierry Pieton | CFO, Medtronic
+For Q4, it's still a relatively small number. Going into 2027, it starts being noticeable, but it will take time, and we haven't given any specific guidance. You know, as it becomes a bigger business, we'll give more details, but it'll start to be noticeable in fiscal year 2027.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Got it. The other point you made is just on the competitive landscape and-
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+How you've been tracking above expectations there. I'm curious what factors really seem to be driving that.
+## Thierry Pieton | CFO, Medtronic
+Yeah. Look, first of all, you know, I think Medtronic, it's been a long time coming. We have 15 years of clinical data, so we have far more data than any competitor out there. And what we're seeing is that we're the only OEM that provides a therapy that keeps having positive impacts after the procedure. You do the procedure, hypertension goes down, and in the months afterwards, it keeps going down, and even up to three years afterwards, you keep seeing a benefit from having the procedure done with Simplicity. What we're seeing is that's actually not the case with ultrasound. What we see is actually the reverse. You have an initial kick from a hypertension perspective when the procedure is done, but then it creeps back up.
+For us, from a technology perspective, it's very encouraging. We're not standing still, so we're developing radial access to make the procedure quicker. We're looking at using Simplicity to do ablation in other organs to further increase the impact. We wanna lean forward and capture that business opportunity in the biggest way possible. It's 18 million patients in the U.S. with uncontrolled hypertension, so that's a massive pool.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Yeah. Yeah, no question. Maybe switching to TAVR.
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+I mean, this has maybe been one of the businesses that's been a little bit more variable. You know, you talked about some of the competitive pressures as one of the main culprits recently. How do you plan on navigating some of the recent challenges you've seen there, and what's the right way to think about the growth rate for your U.S. TAVR business moving forward?
+## Thierry Pieton | CFO, Medtronic
+Yeah. Look, I think we had you know, several good quarters in TAVR, in particular in fiscal year 2025. It was high single digit, and I think the business was performing well. I think it's been a bit slower in the last few quarters, and I think candidly, we need to do better, right? There is, it's one of the performance areas that we need to continue to improve. You know, I'll take a second to hit on the low risk study on Evolut 'cause there was some obviously news around that. For us, it's a valve that we stopped making a long time ago. Now we sell Evolut FX.
+It's the fourth iteration of product since the one that was concerned with the study. We've changed the procedure. There was a part of the procedure that where some physicians were using balloon expansion after the implant to expand the valve, which is part of the root cause of some of the issues that have been highlighted. For us, old procedure, old product. Now we're on Evolut FX new procedure. We're still positive about, you know, the performance of that valve. I think it's, you know, highly possible that we'll see some short-term disruption while people come to terms with the data. Long story short, this is a great space for us. Structural heart, generally speaking, is a great space. Medtronic has good market share, good reputation.
+You know, we made the investment in Anteris recently because Anteris provides a great short valve that's balloon expandable. Balloon expandable is about 70% of the market now. That's us showing that we wanna go in that part of the business as well. We're investing in Mitral, we're investing in tricuspid. Again, we're committed to structural heart. It's a great franchise. It delivers great margins and we need to go back up to the performance levels that we should be at.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Yeah. Understood. Very helpful. You know, another area within cardio that I feel like maybe we get less, you know, color on sometimes is mechanical thrombectomy.
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+You know, we've seen that this has been a really attractive market. I am curious how you think about your place in the market ahead of the Liberant full market release.
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+the commercial strategy there.
+## Thierry Pieton | CFO, Medtronic
+Liberant, you know, for us, combined with Excipio, which is the mechanical thrombectomy catheter, brings the incremental benefit of having the suction. It's a key unlock for us from a product perspective. The physicians are delighted to be able to have those two combined together. You know, Medtronic also has a good reputation in this area, so we're excited about what Liberant brings, actually both in the peripheral vascular health segment of the business and also in neurovascular. It's held by the two teams, and we're excited about that.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Got it. Maybe switching over to neuro, you know, Altaviva, another product that has been clearly a big source of enthusiasm.
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+You know, curious in terms of as that scales, what investors should be keeping an eye on to gauge how large this commercial opportunity could be for you?
+## Thierry Pieton | CFO, Medtronic
+Yeah. In a way, it's very similar with Ardian because you have to build awareness to the therapy, on one end, and on the other end, you need to train the urologist and the physicians to do the procedure. It's a very simple one, and you also need to help them get the first reimbursement and get through the VAC process. That's what we're seeing now. We're sending clinical specialists and sales reps to the accounts and opening a lot of new accounts and helping them get the first reimbursement. Afterwards, we see the cases take off. Again, you know, whereas Ardian is 18 million potential patients in the U.S. alone, for Altaviva, it's 16.5 of...
+5 million of those 16s are actually at a severity of the condition that they're already kind of applying or eligible for that type of procedure. It's another massive opportunity for us that will start, you know, being visible in 2027 and will contribute significantly after that.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood. You know, it's a space that there's a few other potential products and competitors out there.
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+How do you think you'll be able to build market leadership here?
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+just based on the product profile that you have?
+## Thierry Pieton | CFO, Medtronic
+Look, the product is dramatically different to the competition. One, it's activated right away, so you don't need to come back several times in the weeks after the procedure to have it adjusted, you know, et cetera. You come in the office, you have a small incision, it's inserted above the fascia. It takes a small amount of time, you know, and then it's immediately effective, right? Second, the battery lasts 15 years, where the competition is like 2-3. So you don't have to remove the device for 15 years. You come once a year to the urologist, have your checkup, do the recharge of the battery by induction, and you're good to go for a year, right?
+It's also MRI compatible, fully MRI compatible, which is a big deal because for the category of patients that have UUI, typically at one point you're gonna have an MRI exam done for something. The fact that you could do the full MRI without having to remove the device is actually a big deal, right? Yeah, I mean, I think, there's, you know, it's a very differentiated product on the market today, so, you know, good to have it in the portfolio.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Yeah. Understood. You know, maybe another product that I feel like we're hearing more about recently is the Stealth Access platform.
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Curious about, you know, where the differentiation comes from there and how large that could be really over the next kinda-
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+2027 type timeframe.
+## Thierry Pieton | CFO, Medtronic
+Yeah. 70% of our procedures that are done in CST today depend on the navigation element, right? Having the best navigation system is really key to being sticky with the customers. The CST team has been on this journey for several years now, and what we've seen is by integrating imaging, mapping, and you know, now robotic assistance with StealthStation, you basically give much better patient outcomes, give a lot more information to the surgeon so that the procedure can be successful, help with the workflow of the hospital. It's made our CST business a lot more sticky, and I think you've seen it in the competitive dynamics. We've been growing you know, healthy mid-single-digit% for several years. The margins keep improving.
+AiBLE takes that ecosystem formula to the next level, right? The AI is gonna relieve the surgeons from a portion of the mental load that they have to deal with. The mapping is gonna help them figure out the best way to actually carry out the procedure, and the robotic assistance is gonna further improve their skills, you know? We're very excited about that product and it's you know it's what's gonna help us build the overall franchise. It's not just that product for that product, but it's also.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Yeah
+## Thierry Pieton | CFO, Medtronic
+the impact it's gonna have on the pull-through of the implants.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Yeah. You know, maybe that's a good segue to your MedSurg business.
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+talking about what Hugo might mean for that business, both, you know, standalone revenue contribution and then also in kind of a balanced med-surg
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+broader offering.
+## Thierry Pieton | CFO, Medtronic
+It's a great parallel, and I think, you know, Hugo brings to med-surg exactly that, what Stealth Access is bringing to CST. It's the opportunity to provide an ecosystem that makes the outcomes and the workflow better for the hospital. Look, now Hugo is FDA approved in the U.S. It's a massive step 'cause 90% of robotics occur in the U.S. from a procedure perspective. We're the only OEM that can offer open surgery, laparoscopic, and robotically assisted in an area where it tends to be partnerships. People go, you know, with J&J or with Medtronic for the instrumentation, and they tend to stick to one of the two. Having that full offering is a big deal. Now, you know, we've started commercializing Hugo in the U.S.
+We've done the first installations and, you know, we did the first procedure just before we had the earnings release and, you know, the outcome was very positive. Look, it's a great step forward as a second player in that area now.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Yeah.
+## Thierry Pieton | CFO, Medtronic
+We're excited about that. You know, I wanna stress that it's. We wanna be very successful with our key partners with Hugo. It's not about flooding the market as quickly as possible. It's about picking the customers that want what Hugo brings to the table, 'cause Hugo is differentiated, and we want them to be super happy with the outcome so that we continue to build on the partnerships that we've established over time.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood. You know, just under five minutes remaining, but I would love to hear kind of the perspective, the latest thoughts on Diabetes business and the MiniMed and-
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+You know, what that might mean just in terms of the financial implications.
+## Thierry Pieton | CFO, Medtronic
+Yes. Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+for the business.
+## Thierry Pieton | CFO, Medtronic
+Yeah. Look, we're happy that we successfully completed the first phase of the separation of MiniMed. You know, we had committed that we would separate the business by the end of our calendar year 2026, and I think now we made a significant first step there. Obviously, you know, when we launched the IPO, we didn't know that the conflict in the Middle East would erupt and so it did, you know, create some market disruption. At the end, we got a good deal. You know, it's the second biggest medtech IPO in history. I think it's a testament to the turnaround that has been carried out in that business. It's got a great management team with Que Dallara as a leader.
+It's got a fantastic product roadmap ahead of it, which puts it in a position where it can really guarantee time in range for diabetic people and in a very differentiated way. I think it's got a lot of runway and you know we look forward to the second step of the transaction, which is the split. You know I think we should target sort of six months after the IPO, market conditions providing, and then we will have completely separated the business. It'll be an accretive deal for Medtronic over time. The impact on 2027 EPS depends on the timing of the split because the EPS accretion that you get is based on the number of share reduction that you get.
+When we do the split, we exchange Medtronic shares for MiniMed shares. That reduces the number of Medtronic shares and therefore increases the EPS. The number of shares is calculated on a 13-month rolling average, so you only get the full impact of the accretion after 13 months. In a way, the earlier we do it, the bigger impact we will see in 2027. At the end, this is about the strategic move that we're making, right? It'll be accretive, but more importantly, it puts both Medtronic RemainCo and MiniMed in a position where both businesses will have their own capital allocation, their own investors, et cetera, and are poised to be successful. Yeah, I think we're on track, and we're happy to see it move.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood. Well, we started the conversation on M&A, and I'd maybe love to wrap up there. In terms of how you think about your appetite for business development, the size of the deals that you might be looking at moving forward.
+## Thierry Pieton | CFO, Medtronic
+Yeah
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+You know, is yesterday's Scientia deal a good way to think about what you might be interested?
+## Thierry Pieton | CFO, Medtronic
+Yeah.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Near term?
+## Thierry Pieton | CFO, Medtronic
+Yes.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+You know, what would a larger deal might look like for you?
+## Thierry Pieton | CFO, Medtronic
+Yeah. As I said, Scientia is the perfect example. You know, it's complementarity from a product perspective, from a commercial standpoint. You know, we can help at one point scale the manufacturing and so you know, there are a lot of synergies. That's the poster child of what we would be doing. Another example would be Affera. You know, we had PulseSelect that was an organic development on one side, and Affera which is an acquisition, gave us two shots on goal. It turns out both of them are successful, which is great. That's what we're looking for, anything that can help us create ecosystems in our portfolio that make our products more sticky and accelerate our WAMGR, right?
+Those are the criteria for the type of business. From a financial per spective, we have high thresholds from a return perspective. From a size standpoint, you know, we're looking at medium-sized tuck-in. Basically kind of 3-4 max in terms of deal size, but you know, around 1-3 is probably the sweet spot. We'll also do sort of venture investments for more upstream type of ventures, et cetera. We're going back on the offense and it's great to see.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Understood. Well, certainly a lot to be excited about, and I know we're up on time. Thank you so much for joining us.
+## Thierry Pieton | CFO, Medtronic
+Thank you.
+## Mike Kratky | Senior MedTech Analyst, Leerink Partners
+Thanks all for coming.
+## Thierry Pieton | CFO, Medtronic
+Yeah. Thanks, everyone. Thank you.
+Data Source: Quartr Last updated: Mar 11, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

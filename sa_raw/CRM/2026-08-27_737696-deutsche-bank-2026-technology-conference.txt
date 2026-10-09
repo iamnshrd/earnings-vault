@@ -1,0 +1,283 @@
+TITLE: Deutsche Bank 2026 Technology Conference
+DATE: 2026-08-27
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Okay, I think we're going to kick this off. We're live. Once again, I'm Brad Zelnick, Software Equity Research here at Deutsche Bank, on day two of our tech conference here in sunny Dana Point, California. Really delighted to be kicking off this session with Salesforce on such an amazing moment in time, where we are delighted to have Mike Spencer, Deputy CFO, Head of Finance. Mike, thanks so much for being here.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah, thank you for having me. It's great to be here.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+If anybody's paying attention to the tape, I think Salesforce has really been very prominent, and the stock has had a nice reaction to the news that came out yesterday. Why don't we maybe start there for those that might have missed it, which I don't think there are many. Can you just share the highlights from the strong results that you put up yesterday? What would you focus people on? Very importantly, how does the shape of your acceleration journey look today versus when we first started talking about this a year ago?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+I made a comment to Brad in the back of the room. I said it's much more fun to come do these when the stock's having a day like it is today. Let me first start with the retrospective of last year when we made comments at Investor Day to where we are now, and I would say we've been hyper-focused on driving the execution of the business with the building blocks that we outlined last year at Investor Day. What you're seeing now, what we reiterated yesterday in the guidance for H2 re-acceleration is a result of, call it the last three quarters of really, really hard execution, I would say, on trying to drive our overall strategy.
+We're super pleased with the results yesterday. I think about it in two separate buckets when you look at the results yesterday. First, within the quarter, obviously, we were very pleased to be across all the external metrics. But the metric that sticks out the most, at least from my vantage point, is the CRPO, and by way of that, the net new AOV, the bookings performance in Q2, which exceeded all our expectations by a long shot.
+That really is a good indicator of the building momentum as we look at H2, look at the guidance we provided, and more importantly, leads us into FY 2028. So the print yesterday, the guidance, the raise in the guidance that we gave, we were very intentional about organic versus inorganic within that guide, which I am sure we will get into. But all of that is a result of really doubling down and hitting our commitment that we made around re-acceleration in H2 on the organic business, even with M&A as a strategic lever for us.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+You were always very popular, but even more popular today. So I thank you even more so for your time.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+It ebbs and flows. We will take it. We will take it in the moment.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Well, it is really good to see you and good to have you here. The other really exciting update was this announcement yesterday and the partnerships between Salesforce and Anthropic, which I think there was already some relationship there, but now it is culminated in Claudeforce, which I have a little bit of a tough time.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yes.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+It does not yet roll off my tongue. I am sure it will. Can you just talk about what that offers customers and how it might differ from the relationship?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+What customers are doing with Salesforce?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah,
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+And Anthropic separately today?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah, definitely. I had someone last night ask who brought who to the dance with the relationship. Let me first say, just because from a level-setting standpoint, it is really important to understand our investment on the venture side of our business with Anthropic is mutually exclusive from any partnership that we have got on the commercial side. I think it is really important ground-setting structure. The way to think about Claudeforce is think of it as it is really been an organic process of partnership with them.
+For those that use Slack in the room, and if you have had an opportunity to use Slackbot is motored by or the engine behind Slackbot is Anthropic. We have been working with them for quite a while now in a very growing level of intensity is what I would say, because Slackbot adoption has started to skyrocket quite a bit, actually, within the user base. We have been deepening our relationship over months and months.
+What that has led to is a lot of experimentation. We rolled out Anthropic, or Claude, I should say, with an R&D group over the last six months, to really experiment and see what that could do to our product roadmap. There are lots of tentacles, if you will, between. That led ultimately to this idea of Claudeforce, where we could make, and for those that use Claude, you are probably familiar with the structure, but there is a set of connectors and whatnot in there, and then there are skills that you can pre-build.
+What that has led to is a kind of think of it as an out-of-the-box capability for Salesforce users who decide that they want to do more with Claude and Salesforce, that allow you to really plug and play, whether that is connecting the assets within Salesforce, Slack, selling our CRM flagship product, et c, as well as out-of-the-box skills of Salesforce.
+Think like a salesperson example of different skills that you might use when you are interacting in CRM. We are super excited about it. We wouldn't be doing it if we weren't hearing it from customers. The genesis of all of this ideation that we have been doing with Anthropic is a result of customers. We do tons and tons of CABs, or customer advisory boards, with CIOs and execs of our customers. This has been a, call it a circular feedback loop that we have been generating with customers that has led to this moment.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+It's really exciting stuff.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+It's good.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+I know a lot of people are focused on it. When I think of Salesforce, I think like a lot of people, we often first think about core CRM, sales, service, marketing, et c. But the company is now one of the largest data and infrastructure software vendors out there in the market. How does the breadth of offering help set Salesforce up for success in the AI era?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+We've morphed our message over the last couple of years around Customer 360, then we've now grounded with Informatica into the mix. We've grounded that with a dynamic called Data Foundations. Every iteration of our strategy with customers really is about creating what we call layered cake internally. In that layered cake, you've got, obviously, the external model companies as a foundational element, but very closely tied to that is the data foundations, what we call internally the data foundations, which is made up of Informatica, our Data Cloud, our Data 360 product offering, MuleSoft, which provides the connectivity, then Tableau as the analytics engine that sits on top of it.
+Since the acquisition of Informatica just about a year ago, it's really been, I would call it, a fueling engine to driving and helping customers mature their overall AI strategy, which also, by the way, is leading to some of the developments you're seeing with Claudeforce. We feel really, really confident is what I would say right now on the pieces coming together and filling out the portfolio, both from a data foundation standpoint all the way up through the app layer or the end-use scenario, whether it's Claudeforce or our own applications, and meeting the customers where they're at.
+You'll hear us use that terminology a lot. But as you think about the evolution of our stack, that's really at the core of it, is helping customers achieve what they want and how they want to work, and meeting them at that particular moment. That, by the way, cuts over to our pricing and contract structure as well.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+We're going to get to that. But before we do, I think over the last year, we've seen a fair amount of organizational change, leadership change at Salesforce.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+I know there's a life cycle to everything, so that shouldn't surprise anybody too much for a company-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...of such stature and significance and heritage. I'd just be curious, any perspective that you could share on that front.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Just understanding how those changes enable the next phase of Salesforce's growth.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah. The changes, I can even talk about the recent changes. There were changes within the last, call it six to eight months. I don't want to be dismissive of it, so don't take this as being dismissive of it, but every change that's happened has been intentional, not for the reason of Marc trying to manage people out, but it's been intentional in the concept of folks retire, folks are ready for change. We want to tap folks to take on bigger opportunities. Every single change that we've made has had rationale behind it that's aligned to the business.
+The most recent change, though, the one I would probably highlight most, is Miguel, and now Alexa, our CRO, Alexa Vignone. Alexa's a rock star on the sales side, by far and away probably our leading sales rep, really respected leader. She was hungry for more and ready for more, and Marc really wanted to enable her with that. She still reports to Miguel. We also wanted to leverage Miguel more, because Miguel has turned into a force of nature inside Salesforce as well.
+The sales engine is really, really humming right now. As part of that, we wanted Miguel to help us tackle the next big problem that we've got. The next big problem, or next big area, I should say, of opportunity, is really around consumption and adoption within our customer base. It's been a focus area for us, but now you're going to start to really see us pour the gas on the fire with that. Miguel now has taken on professional services, customer support, and what we call our builder motion. So think FDEs in [landscape] speak.
+You're going to see over the next 12-18 months, a really, really intense focus from Miguel on that particular aspect, as well as leading the overall sales organization to drive that. The rest of the business on the product side is really where there's been more change. Two big things there. Steve Fisher retired earlier this year. He's been with Salesforce for, gosh, I don't know, 30 years. Marc and him went to high school together.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Left and came back.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Left and came back.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Yep.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+He'd been wanting to retire for a few years, and Marc kept talking him out of it, and talking him out of it, and he was like, "I'm just done." He's got a new grandchild at home, so he was ready to go. We just hired Rohan Kumar to come in and take over the platform side of the business from Microsoft. I worked with Rohan at Microsoft when I was there. He's going to be a rock star on the platform side of things.
+Then we moved Patrick Stokes over. For those that have been able to see Patrick Stokes in the past, he does a lot of product demos and presentations at our big events. The guy's amazing. He knows our technology, knows our stack upside down and left and right. You'll get to see him more and more as well over the coming days. The combination of Rohan and Patrick on the app side, Rohan on the platform side, we think is really going to be powerful in advancing the product stack.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Patrick crushes. He's great. I'm looking forward to seeing all these new leaders in their new roles.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Especially out at Dreamforce-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...in a few weeks. Which, by the way, you all should come to Dreamforce. If you haven't gotten a personal invite, here's your personal invite.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Thank you.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Awesome. I know I'll be there. Mike, just maybe on a different topic, enterprises of all shapes and sizes, various industries trying to chase this opportunity in AI.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+We've seen the token maxing and the spending, and customers blowing through budgets prematurely. I would love to get your perspective on investor concerns that AI could potentially be crowding out other spending. Because you guys are an AI company-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...but you're also an existing software company-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...that's very well deployed.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+How did the balance of that all play out to be either a net headwind, tailwind, or neutral for Salesforce?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah. I am going to answer it two ways. I think over the past, I would say 12 months, let us call it, give or take a little bit, it has been more of a neutral dynamic than it has anything else. I think what you are seeing in a lot of enterprise customers, ourselves included, by the way, customers are reprioritizing spend to be able to advance the experimentation of the use of the LLMs. On our side of the house, roughly about six months ago, we unleashed Claude in our R&D cycle.
+It is part of the reason we did not raise margin guidance on the year is because we are covering some of the token spend that we have got going. The goal of that really was to let us see what we could break. Let us see what kind of advancement our R&D teams could make on accelerating the product roadmap. Worst case scenario, we would pull back. Now we are actually in a zone where we are seeing a huge advancement in productivity, but now we are going into refinement mode. So we are going into the zone of prescription model choice for task at hand.
+What that really means is you do not need to use the latest and greatest model for every single task you might want to do. Of course, it is applicable in some use cases, but for the large majority, you are totally fine with the second or third generation model that might be out there. That also includes, by the way, optimization across different vendors. So internally, we have got OpenAI, we have got Cursor, we have got Claude. So we have got a bunch of different model generators. We are starting to experiment with Grok. All of them have different cost structure.
+I think we are, I think, a good representation of what we see in our customer base. There is a lot of experimentation in our customer base, and customers are in the mindset right now where two things are happening. They are experimenting, like I just described, that we are doing in Salesforce. They are also advancing or maturing their overall AI strategy, which is why we believe we are starting to see the pickup in bookings, and why we think Claudeforce or the concept of Claudeforce, is really going to catch momentum because that dynamic of headless customers are starting to understand, hey, there might not be one UI across my entire user base that they all want to work under.
+Some want to use Claude, some actually want to use a traditional app, etc . Over time, we are pretty optimistic, I would say, at this point, that it is going to be a tailwind for overall business. But I think it is a building cadence from here. Over the last 12- 15 months, it has been more of a neutral dynamic is what I would say.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Makes sense. You've demonstrated very nicely for us that growth and profitability don't need to be mutually exclusive. As we look ahead, what are the largest levers that support further margin expansion, and how should investors think about the trade-off between AI investment and profitability?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+You'll continue to see us be super aggressive from an AI investment standpoint is the first thing I would tell you. Whether that's internally investing in the R&D example I just gave, whether that's through inorganic investment, whether it's talent or tech within that bucket. You're going to continue to see us be really aggressive, and that's really a statement about how fast the technology landscape's advancing, and we want to make sure that we've got bets, and that we are very diversified from a portfolio standpoint to go after that.
+I would say it this way, when you look at our P&L and the construct of our P&L, we've got FY 2030 framework guidance out there that says rule of 50 by FY 2030. Within that construct, you've got to obviously believe top line, which I'm sure we're going to talk a little bit more about. When you get on the cost side of the equation, I think the way I think about it is in really in two buckets. Let's talk about gross margin line first.
+Within the gross margin line, we expect the cost around supplying of AI within our product set, which is already happening today, we expect to be able to stay relatively neutral on that. Some of that is through incremental premium monetization to cover some of that AI structure, some of its new SKUs coming through. Some of it is just what I called out earlier, deterministic workflow, not having to ping an LLM if we don't need to avoid the cost, and/or model selection.
+Us getting into the zone ultimately, and you can see where the train goes, of us making the selection for customers on which model they're going to actually use for whatever scenario that's coming up. We think we've got a good formula to help control gross margins and make sure that we stay neutral and/or better than where we run today. I'm not saying it's a straight line. You could see ebbs and flows like you saw this quarter versus last quarter if you're comparing quarter-over-quarter. We feel like we've got the right building blocks in place.
+As you move down through the P&L, obviously, no secret to anyone in here, the next really big lever for us is going to be sales and marketing, and how do we get more efficient on sales and marketing? Alexa and Miguel are very focused on it. We've made a little bit of incremental progress, if you just follow it as a percent of revenue over the past 12 months. I would expect that trend to continue as we move forward.
+The really key aspect of that is as we ramp our AI offerings, being able to hit escape velocity from a sales standpoint and increase the mix of self-serve customers, whether that's what we call customers refilling a tank, whether it's consumption-based and/or self-serve customers coming through the website or those various scenarios. We do think there's a lot of opportunity to reduce the cost of sale, if you will, cost of acquisition of customers through the sales and marketing structure moving forward.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Very helpful to ground us in all of that. I want to talk about Slack, if we could.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+If I reflect back time of the acquisition, the investor perception of Slack has really done a, I won't say a 360, I think a 180 is more appropriate.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+I think Marc said on the call yesterday, the best acquisition we've ever done. I don't know if I'm going to use those words, but he was very bullish on it yesterday.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+But it certainly-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...where we are today seems very, he was very prescient-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...at the time. I won't say lucky because I'll give him all the credit in the world. But it's now evolving to be a key engagement layer-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...for Agentforce. Slackbot is really important.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+You gave some stats that you can remind us with just in terms of what it's done. I think with new bundles or pricing. Maybe I've got that wrong. I'm juggling a lot of things.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+A lot of news came out last night. But I would just love to hear from you, as agents become more embedded in day-to-day workflows. How important it is as the employee-facing interface, and can it be a more meaningful driver of Agentforce adoption and monetization over time?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah. I think if you fast-forward five years from now, seven years from now, Slack could be a super interesting business case in school, is what I think could end up happening. For us internally, it has been a journey. When I first got to Salesforce almost five years ago, in speaking with all of you, it was brutal. Sentiment around Slack was as negative as it could possibly be. Fast-forward to where we are today, and why we leaned into it so much yesterday on the call. The momentum around Slack, as you were just highlighting, is off the charts right now, and it is happening in a couple different ways.
+One, engagement is starting to open up a bit more. We are seeing a lot more customers come to the table, being willing to experiment with Slack even if they are a Teams shop. Obviously, there is antitrust pressure on Microsoft, and they are doing some breakup, especially in Europe, in standalone sales of Teams, so that is certainly helping. But the experimentation coming from customer base, especially in the enterprise space, of willing and wanting to try Slack, has really started to open a lot of doors, even if they already have Teams in the ecosystem.
+Second, from an advancement standpoint on showing the art of the possible, is how we talk about it internally, but the power of AI can bring to the fold. Within the Slack ecosystem, Slackbot and Headless have really lit up Slack. Slackbot is our AI engine within Slack. For those that do not use Slack, think of it as a sidecar. There is an icon at the top of Slack.
+I could be in Slack chatting, I click on the Slackbot icon, and then it presents a chat window right next to your Slack, within your Slack app, but right next to your chat window. You can do anything in Slackbot that you could do on Anthropic today. It is not Cowork, so I do not want to make it sound like Cowork, but anything you want to do from a Claude Chat standpoint, an OpenAI, ChatGPT standpoint, you can do in Slackbot. It is powered by Anthropic. It is super powerful.
+Whether you want to pull up conversations that maybe you cannot remember which thread it was in, and you are like, "Help me find the last conversation I had with Brad, and what we were talking about." Or a specific topic, or something as simple as, a very common use case that we use it for, and I use it for, is something like customer prep. I am going to meet with XYZ customer. Tell me everything I need to know about I met with BNY Mellon last week. Tell me everything I need to know about BNY Mellon. What is the current conversation?
+What is the pipeline around them? The execs I am meeting with, give me the full color, and it will spit back within seconds a full download and prep document for me heading into that meeting. I do not have to go search for anything. I do not have to go crawl into CRM or elsewhere. It really brings the power of Slack and then the ecosystem of apps around Slack into it. That is leading to, from a metrics standpoint, as you highlighted, Slack being a really big engine to our bookings momentum that you saw.
+In Q2 alone, Slack was a huge portion of what was a record quarter for us from a net new AOV standpoint, and Slack was a huge contributor. If you look at the revenue growth on Slack, which flows through our platform line in our P&L, or I guess in our new construct, in apps it flows through, but in the old construct, it flows through the platform line. It has been growing strong, double-digit growth, and we are probably on five or six quarters in a row now. I may not have that exactly right. It is quickly becoming a very meaningful growth engine for us, for our company.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Well, that gets us maybe now to the heart of the matter, Agentforce.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+A lot of excitement, a lot of anticipation around Agentforce, and it is great to see the momentum. I think the stat was, what, a $1.5 billion ARR?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+If we combine that with Customer 360, you are almost at $4 billion in ARR as well, $3.9 billion if I have that right.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+What have been the biggest unlocks from a product or distribution standpoint that have enabled customers to accelerate production deployments and spending?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah. The interesting thing about Agentforce and where we are at in the life cycle is that we have taken a crawl, walk, run approach to driving adoption within the customer base. What I mean by that is, historically, Salesforce, in the go-to-market engine, has always been about ACV. Go sell the dollar to the customer, then nine times out of 10, that AE would then move on to the next sale that you could possibly make instead of driving adoption within the customer base. About two years ago, we started to change that in the comp plans.
+In FY 2027, our current fiscal year, we actually made it part of the comp plan in a small way, but we had to get water running through the pipes to figure out how we could change the behavior of our account executives. I went through the exact same journey when I was at Microsoft, when we changed the behavior of the Microsoft force, for Azure at the time.
+What you are going to see next year, with the change on Miguel that I mentioned earlier, FY 2028, you are going to see, I think, a material step change in the behavior of our account executives and our account managers in driving adoption within the customer base, which really becomes the engine for Agentforce. We are seeing an accelerating clip of customers moving from pilot into production. For customers that have already moved into production, the question, if I correlate it back to a metric that we give, which is agentic work units.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Refilling the tank. Oh, I'm sorry.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Refilling the tank. Agentic work units have started to run escape velocity. Within that is customers who have moved into full production. We're seeing them refill the tank at a faster clip. 50% of bookings the past couple of quarters have been from customers refilling the tank. AOV on those customers is escalating quite rapidly.
+I think the stat is roughly 2x the growth rate of those customers versus traditional customers. So, it's proven out, even though it's still a smaller cohort of the overall customers that are in Agentforce that have fully moved into production and are fully ramped. You're going to see huge focus from us going forward, because that's obviously how we're going to accelerate revenue into the framework.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+We're all excited for the acceleration to come.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+The way we've got guidance set up, I think it exists, it's modest, our expectations, and always hoping that you over exceed them. If we look out even further, you've got ambitious plans for an 11% compounded growth rate on revenue through FY 2030, which takes you to $63 billion.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+What supports your confidence in these ambitious targets at a time when you are at significant scale and the world is changing pretty fast?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah. Let me start with H2, and then I will parlay that into 2028 and beyond. We look at H2, and this came up in one of our investor meetings earlier today, and it is a very fair question. When you look at our H2 re-acceleration that we are hitting in the second half of the year, we have pivoted that number every which way to Sunday. So in the spirit of holding ourselves accountable, if you can name an exclusion, we looked at the math, excluding licenses, fully excluding Informatica, taking obviously out Contentful and Fin, taking out even where we have headwinds in the business where you got Tableau and Mule and other things.
+You name it, we looked at it, and we are accelerating in every single scenario. So we feel really, really confident in the numbers. Most importantly to me within that is that as you look out at Q4, so it will step up in Q3, step up again in Q4, and you look out to Q4, and you look at the contributors out in Q4 to the accelerating growth that we are seeing. You look at the core, so core organic is growing despite the headwinds from the license volatility we are seeing.
+So if you said a different way, if I invert that, if you were to look at just the core recurring organic business, excluding licenses, it is actually performing better than when you include licenses. So licenses are weighing things down right now. They are a headwind. You then layer on Informatica once we lap Informatica in Q4, which would be around November 15th. It is a tailwind overall growth for the company. We are beating on Informatica both on top line and on accretion.
+We have been really successful on pouring gas on the go-to-market engine on Informatica. Then you can layer on the additional acquisitions. I will leave those out for a moment. What we are really excited about, though, is the consumptive, and the core of your question is the consumptive nature heading into FY 2028.
+So we are at the very, I would say, early stages of whether it is Headless, whether it is Agentforce, whether some of our other consumption-based tools. We do feel like we are in the very early stages of those actually becoming a meaningful tailwind overall growth. So the question really, if you flip it around and you say, "Okay, you are at, call it 7%, 8%, 9% today in H2, how do you get to 10%, 11%, 12% next year, the year after, et c?" That is really how I think about the equation. License volatility will calm down.
+We'll start lapping, especially some of the comps that we've got going right now on license volatility, which will help. Then you start to see consumption, the spirit of customers refilling the tank accelerate as we get more and more customers into production. Then all of a sudden, you've got the building blocks to getting us to $63 billion and beyond, and some of the newer acquisitions obviously will help achieve above that.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Awesome. I think we all love ambitious targets and, to your words, like to see accountability-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...and holding yourselves to account. At the same time, if I zoom out and I think of the Salesforce journey from 27 years ago w hen Marc started the company, how do we ensure that these targets, we are in the midst of this amazing paradigm shift. How do we ensure that those targets are not constraining you to be as successful and relevant for the next 27 years?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah. It is a totally fair question, and the parallel I will give you on that is, it is a little bit of our inorganic strategy right now. Part of our inorganic strategy is our AI investment thesis, is that we have got to place a number of bets, not only organically, but inorganically as well, to make sure that we are keeping pace in the landscape to your question. That includes talent, that includes tech, it includes established products within the customer base that are seeing adoption. Fin is probably the poster child of this right now. For as well-established as Service Cloud is, Fin is an amazing product.
+They have got a very loyal customer base. If you have not seen the demos of it, you can go on the website and look at it. The Fin technology and their agent and the capabilities of their agent is amazing for as small of a company as they are. The reason I give you that color is you are going to see us continue to make bets across both organically, you are going to see AI infused across all of our product set. You are going to see us continue to bring on inorganic bets, and we think we have got, especially with Headless in the mix now, we have got the right combination, I think, to fuel us into the future.
+The one thing I would tell you, and we were talking a little bit about this earlier, is Marc is a force of nature, and he is spending an inordinate amount of time right now really, really studying the landscape to ensure that we do not miss something. He has got him and his product leadership team really, really focused on that.
+Marc is constantly looking at companies to learn about technologies, look at partnerships, look at targets, look how he can influence the internal product roadmap. It is also why I said earlier we adopted Anthropic internally in our R&D group, is because we are really focused on accelerating the product roadmap, to make sure that we keep pace. I would say we are as optimistic as we can be about being able to keep pace with the market right now.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+It is a fair way to frame it. I think Marc gets credit for a lot of things and being on the forefront. He was the first one to really talk about agents, frankly, in this AI journey and many more to come. I think he also, you talked about Slack. We will give him a lot of credit for identifying assets out there that make a lot of sense. We were familiar with Fin pre-acquisition and-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...very impressive customer success, underlying technology, a lot of good things happening there. Maybe if we can pull on that thread a little bit-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yep.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...how do you see Fin expanding Salesforce's addressable market? Where do you see the greatest opportunity for cross-sell monetization-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...across Service Cloud, Data Cloud, Agentforce, the entire portfolio?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah. Fin is a unique asset in that it is super complementary for Service Cloud. Think of Service Cloud as the enterprise kind of heavier construct of driving agentic structure, and think of Fin as kind of the lightweight, out-of-the-box plug-in and go for the lower end of the market. I think there's two things that are going to happen. First, on Fin itself, we've created a structure inside of our R&D organization called Salesforce Labs, and the goal of Salesforce Labs, we kept a guy by the name of Aman, I'm blanking on Aman's last name now.
+Alex will keep me honest, but he was the CEO of Regrello. He's come on, he's running Salesforce Labs for us. The goal of that is to incubate the businesses. So within Salesforce Labs, at least right now, is going to be Fin, Qualified, and Regrello. The goal is to really incubate them and not crush them, if you will, with the weight of Salesforce to make sure that we get those businesses running down the path of the M&A plan that we put together to justify the acquisition.
+The second phase of it is going to be, and by the way, that includes go-to-market magic that we tend to do with all acquisitions. Take that one step further, the next phase of that is really going to be taking Fin and then infusing Fin into Service Cloud structure as well. There certainly is opportunity to help Service Cloud within that. How do we start to help Fin move up the stack? The example I love to give folks is, one of Fin's biggest customers is actually Anthropic.
+Anthropic's in a massive growth phase, so at some point, we're going to have to figure out how to help them mature through the life cycle of becoming a larger tech company, with Fin, because they're not going to want to move off of Fin. They're already active work stream on that, trying to figure out what that path looks like.
+You can imagine a hybrid world and/or a migration path into Service Cloud or graduation path into Service Cloud full steam. So that's kind of how we look at it. We do think it's very, very complimentary because Service Cloud in an SMB space is not super strong right now. So we do feel like at least near term, you're going to see a lot of synergy.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Awesome. Maybe thinking, Mike, about getting all these great technologies and capabilities, delivering the last mile to the customer, specifically as we think Agentforce, and I know it's not just Agentforce, but as adoption expands-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+...how important is the forward deployed engineering motion and partner ecosystem in helping customers bridge the gap between AI experimentation all the way through to enterprise-wide deployment? How far along are you in building out the FDE capacity?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+I will share a funny story with you all. It was probably, gosh, it was probably a year ago now, I do not even remember. I was flying, there was a number of us flying with Marc, and Marc has obviously got his own plane. We were flying with Marc, and we, for four hours on the plane with Marc, flying from, I think we were going New York to San Francisco or something like that.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+It sounds like it is fun, but I think-
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Well, it has got its perks, but it can be challenging. The reason I share that story is because he has got two TVs on his plane, and he literally, on full steam or full blast on both TVs for four hours, had Palantir, Alex Karp, preaching about FDEs on stage across various different presentations that he did, for four straight hours. I have never gotten more education in such a compacted amount of time on FDEs. I share that because that is a little bit of a lens into Marc's mindset right now on how critical and important driving customer adoption is, especially in a world where customers need the help, frankly.
+That is the feedback we get constantly from customers, is there is just so much tech that they are trying to swallow and digest right now that they need help. They do not know where to start, they do not know where to go, et c. We are going through it, by the way, with our own adoption of Claude and OpenAI internally, where we are trying to roll out Claude, and I have Claude Cowork. Most of my organization does not have it yet.
+But even then, would I consider myself an expert prompter? No. Would I consider the different use cases? No. There is a lot of education that needs to occur. For us, and why we made the change with Miguel, really getting embedded with the customers, think of it almost as kind of the old SI consulting model where you actually put a team in the customer, and you are sitting side by side with the customer, helping them solve the problems, get it launched, et c, and handhold them through the process.
+You are going to see right now internally, we have actually got a bunch of different flavors of, we call it builders. FDEs, builders, it is a synonymous term. We have got a number of different flavors. We have got solution engineers. We actually have the formal term of FDEs. We have got our professional service organization. Then we actually have developers inside our customer success organization. We actually have flavors of different FDEs across the ecosystem, and we are actually working really hard to consolidate them and get them into one motion in how we invest in customers.
+Now we are actually starting to look at it more as an investment, and investment as part of larger contracts that customers are doing. You are going to see us really contemplate trade-offs of, hey, can we put a few more FDE resources on the customer in exchange for a bigger Salesforce Commit or a customer making a bigger commitment to Salesforce, I should say, over time? Because the payoff of accelerating adoption and consumption is going to far outweigh us trying to monetize a few people for a couple $100,000 on near term.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Awesome. Switching to a different topic. You touched on this a little bit earlier, but I want to dig deeper just into the way that customers buy and pay Salesforce. How should investors think about the evolution from subscription paid in advance to consumption, maybe AWUs, agentic work units that you talked about, and ultimately what Fin was doing, outcome-based pricing?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+How do we think about that continuum, and what needs to happen before those models become material contributors to the overall Salesforce?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+As a finance guy, and owning FP&A, I have product finance under me, I can tell you it is an anxiety-filled architecture right now of different pricing structures and contract frameworks. We have been, as most of you know, very intentional about experimentation with customers. A lot of that is fed from our different advisory boards that we operate with customers and experimenting on what works well and what does not, as customers go on their own journey of how they want to consume AI. For us, I think about it in two buckets.
+There is the actual pricing structure, and then there is the contract structure. On the contract structure side of the equation, we have a couple flavors happening right now. We have our traditional way, where customers will make a commitment, they will pay us annually, et c. Great. Works well. The second one is what we call AELAs. You heard Miguel talk about that last year, I think at Investor Day. Think of that as the all-you-can-eat contract for customers, where they sign on, they are like, "Hey, I want Sales Cloud, Slack, et c." Great.
+We will let you go to an all-you-can-eat buffet. The latest one that we have actually been trialing, and you are going to see us start to lean into it a bit more, is what we call Salesforce Commit. Salesforce Commit is more the traditional hyperscaler model, where customers can say, "Hey, I am going to spend $10 million over three years." And then they can consume it as they go. They can buy seats, they can buy Flex Credits, et c. It can be consumption, it can be seat-based, but it is customers getting a discount for the overall spend, but not necessarily having to have it all mapped out on day one.
+It is very much how the hyperscalers operate, so customers are very accustomed to it, but it is a new muscle for Salesforce. Then I switch to the pricing side of things. There are a few things in motion. We have traditional seat-based pricing. We have consumption-based pricing, and you are going to hear that more in the form of Flex Credits, is the way we will talk about it. And then we are actually experimenting right now with outcome-based pricing. Fin is outcome-based pricing. And so you are going to see us really start to experiment with that more.
+The key with outcome-based pricing, which many of you are probably familiar with, is you have got to be very objective about the measurements that are driving the outcomes. And that always tends to be the challenge. When you are a smaller startup like Fin, it is easier to manage. When you get into the broader ecosystem, outcome-based pricing gets a lot more complex. The way, if I compare and contrast you look at Sierra does outcome-based pricing today, but they actually only give you a couple different flavors of the outcomes that you can price your contract around.
+That is how they keep it contained. So you will see some experimentation around that as we look to expand it. On the consumption side of things, we are moving quickly towards trying to figure out and provide consumption-based structure across a lot of our portfolio, at least where applicable, outside of the seats. For Claudeforce that we just launched, it is probably going to be more premium mix, so you can get it as part of Agentforce One edition, or you can buy an add-on, but you could also buy it full consumption if you wanted.
+We think it's going to be more limited adoption on a full consumption basis, but you can buy it that way. Over time, most of the revenue today is still ratable. When I say most, 95%+ is still ratable today. I think to being in a zone where consumption is a more material portion of overall revenue mix, I think you're looking at probably three to five years still from now. I don't really anticipate it changing materially in the near term. You'll see more and more consumption come into the fold. But to be an overall material mix of our revenue long-term, I think it's probably three to five years away.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Mike, this has been awesome.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+It's just about the right time to end it here, but before I do, in closing, what should we be most excited about heading into Dreamforce?
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+I'll speak from a personal standpoint. I think there's a few things. I think you're going to see a lot of really, really great technology at Dreamforce this year. It happens to be the case every year, but I feel like this year we're at an inflection point, especially with Headless coming into the fold. You're going to see some things that I personally would say will probably blow your mind a little bit on how AI is being infused into the product set, whether that's Slackbot and the capabilities around Slackbot, whether it's Headless, whether it's some of our newer acquisitions, but we've got a lot of bets that we're really, really excited about.
+You're going to see that come into the fold. The other thing that I think might be just as powerful is we're being very intentional this year at Dreamforce on bringing in external voices. Marc touched on it on the call yesterday. Dario's going to be there, Sam going to be there, Jensen's going to be there, plus a number of broader tech landscape names, bigger names that you're going to be familiar with. Part of the goal there is to really get the ecosystem around us speaking just as much as you hear from us.
+Us getting on stage and just evangelizing how strong we think we are from a position standpoint, we think can be echoed just as loudly and maybe be more powerful if it's coming from the external landscape. We're really excited about it. Again, if you're not making plans or you want to come, just reach out and we're happy to give you guys a pass, and you can come to our Investor Day as well.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+If there are hotel rooms left in San Francisco.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+I can't speak to that. I'll let [Anna Le] on our team speak to that, but that's out of my pay grade.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Well, listen, again, always great to see you.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah. Thanks for having me.
+## Brad Zelnick | Software Equity Research Analyst, Deutsche Bank
+Thanks so much for being here.
+## Mike Spencer | Deputy CFO and Head of Finance, Salesforce
+Yeah, for sure.
+Data Source: Quartr Last updated: Aug 27, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

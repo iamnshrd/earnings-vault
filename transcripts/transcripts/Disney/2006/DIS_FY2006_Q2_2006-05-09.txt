@@ -1,0 +1,7 @@
+Company: Disney
+ROIC Symbol: DIS
+ROIC Name: The Walt Disney Company
+Year: 2006
+Quarter: 2
+Date: 2006-05-09 17:30:00
+Executives

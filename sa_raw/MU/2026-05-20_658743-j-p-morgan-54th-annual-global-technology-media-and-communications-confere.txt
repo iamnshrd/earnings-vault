@@ -1,0 +1,338 @@
+TITLE: J.P. Morgan 54th Annual Global Technology, Media and Communications Conference
+DATE: 2026-05-20
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Good morning, and welcome to J.P. Morgan's 54th Annual Technology, Media, and Communications Conference. My name is Harlan Sur, semiconductor and semiconductor capital equipment analyst for the firm. Very pleased to have the team from Micron Technology here with us this morning. Manish Bhatia, Executive Vice President of Global Operations for Micron, and we also have Samir Patodia, Senior Director of Investor Relations here with us as well. Manish and Samir are going to kick us off with some opening comments, and then we'll go ahead and kick off the Q&A. Gentlemen, thank you for joining us today. Samir, let me hand it off to you first.
+## Samir Patodia | Senior Director of Investor Relations, Micron Technology
+Thanks, Harlan. I'll start off with the safe harbor and then pass it to Manish. We'll be making some forward-looking statements today, and those statements have risks and uncertainties associated with them. We refer you to the risk factors disclosed in our filings, including our recent 10-Q and 10-K. Manish?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+All right. Thanks, Samir. Standing room in the back. Thanks for your interest in Micron. Our financial outlook has strengthened since our last earnings call. We're on track for another substantial record free cash flow in fiscal Q3. Our balance sheet has never been stronger, and that's underscored by multiple credit rating agencies, actually from all three upgrades from all three credit rating agencies this year. Demand continues to outpace our ability and the industry's ability to supply due to persistent structural factors. We expect tightness for HBM, DRAM, and NAND to continue well beyond calendar year 2026.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Perfect. That was a great update. I think that we can go back and we can ground ourselves on terms of the near to midterm outlook that the team put out back in the mid-March earnings call. I think at that time, relative to the guidance put out for the May quarter, I think the view was that the strong revenue growth outlook at that time was going to be driven by predominantly pricing. A little bit of volume growth. Let's start off there. Relative to that, which of the dynamics has played out a bit stronger than expected or stronger than expected?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah. Well, certainly, pricing has played out. Demand is continuing to be very strong, and the AI world is transitioning from just human interactions to human to agentic interactions, and even machine to machine interactions. Those agentic workloads are driving inference, and inference is becoming a bigger and bigger part of the demand workloads for our customers. We're just seeing memory as continuing to become an even more strategic asset.
+value as memory can be equated with intelligence. Higher performance memory, higher reliability memory, higher capacity memory, all of those help add to the accuracy of intelligence, and that's true on both the High Bandwidth Memory side, it's true on the traditional DRAM side.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+DRAM side.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+LPDRAM and LPDDR.
+It's also true on the NAND side, where context windows are getting longer, NAND flash is a key part of being able to not just store all the new data that's coming up, but improve the accuracy of the results of the models.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+On the midpoint of the guidance for the May quarter, $33.5 billion, 81% gross margins, $19 in change of earnings power, any way to quantify the better strength that you've seen in the May quarter relative to some of the financial parameters that you put out back in March?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Our quarters here.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Right
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+are going to close in just two weeks, and then we'll have comments on that obviously on our next call.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Okay. Maybe the better way to frame it is let's think about it over a multi-quarter period of time. Clearly, the environment, as you mentioned, has gotten better for you, right? I think that, again, going back to the March call, you had talked about demand for this year being supply constrained, but you could still see the industry shipping sort of 20% bit shipment growth in DRAM and low 20% bit shipment growth in NAND. Has that viewpoint changed given the dynamics that you've seen over the past couple of months?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+I think demand is supply constrained for both right now.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yes.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+We're just continuing to work very hard on enhancing supply. I mentioned persistent structural factors earlier in my comments. What really mean on the supply side is that technology transitions for both DRAM and NAND are delivering less and less productivity.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+than they had before. Less bit growth improvement per technology node than nodes of the past. On top of that, for DRAM, we have the structural shift towards HBM.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+in order to deliver the high performance of HBM, there's a trade ratio where HBM die sizes are larger, and therefore you end up with fewer bits per wafer. It takes more than three times as many wafers to be able to deliver the same number of bits, that trade ratio continues to grow as you go from HBM3E to HBM4 to HBM4E. That trade ratio continues to grow. That all leads to needing more greenfield wafer capacity in DRAM.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yes.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Greenfield capacity needs more clean room space because you're putting in full lines rather than incremental equipment to get the incremental benefit of the technology transition. You now need more clean room space because you're putting in full lines, and that takes more time.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+That takes more time. We have these strong demand drivers and continuing to strengthen because of the value memory provides to the end AI solution. Whether that's training or inferencing.
+You have the structural factors in terms of supply, where the whole industry is still trying to catch up, and we don't see the ability for supply to catch up to demand for the foreseeable future.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah, it is pretty amazing. Since the second half of last year, and we had Lip-Bu. We were just talking about it. We had Lip-Bu at our keynote yesterday, and we were talking about this significant increase in memory, storage, and CPU demand. Literally the moment that AI inferencing workloads crossed over training workloads in the second half of the year, it's like the light switch went on, and all of a sudden, memory intensity went up, storage intensity went up, CPU intensity went up, right? That trend has continued, right? As we track inferencing workloads, they're continuing to grow at this exponential pace, and we can understand why, the continued strong demand pull from memory. The team talked about key customers only able to secure 50% to 2/3 of their bit demand requirements in the medium term.
+Is that actually still the case, or has that gap actually widened?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Well, we talked about the demand drivers getting even stronger.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Right
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+The supply continuing to be very difficult to increase. We're all working very hard. You had Tim before talking about how closely we work with them, and we work that closely with all of our suppliers, and we're working very hard to try and catch up, but we don't see that supply being able to catch up to demand for the foreseeable future.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+On that front, and obviously, Manish, you're Head of Global Operations, let's talk about some of the ways that you will be able to unlock the potential for more bit supply over the coming quarters. On your acquired, for example, Taiwan fab in Tongluo, the target was to start production bit shipments sort of second half calendar 2027. How should we think about the first few quarters of the initial ramp? We've heard starting off 10K, 20K sort of wafer starts per month. Your new Boise fab will be ramping about that same time as well. How much output should we anticipate on the first phase of that build-out? Right now, most of these, again, are for second half of next calendar year, but give us an update on these two initiatives.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Sure. You again had a great job having Tim go before me, because he mentioned that, yes, we did make the acquisition of the Powerchip Semiconductor Tongluo site earlier this year. That transaction actually closed ahead of schedule. Very pleased with the support we got from the Taiwanese government for that. We're making excellent progress towards that target of converting that fab from the logic output that it had before towards being able to do leading-edge DRAM. We expect to be able to have production. We're making excellent progress towards production in the second half of calendar 2027. We also announced on our last call that we're going to be building sort of a twin fab.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yes
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+next to the existing fab there as well, and we're starting construction on that this summer. That site will become a larger leading-edge memory site. It's only 20 minutes from our existing Taichung operation, so it's actually really going to be run like a mega cluster site there. We're doing a lot even beyond just what we're doing in Taiwan. You mentioned Idaho.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Idaho 1 is making good progress. Earlier this year, we had announced that we had pulled in our target date for wafer output from second half of 2027 into mid-2027.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+We announced that Idaho 2 construction is underway. Actually, ground preparation is underway right now, and we expect to have wafers out from that late in calendar year 2028, so a little bit more than a year after Idaho 1. We broke ground earlier this year in N.Y., and we're actually ahead of schedule there and making good progress and expect to pour concrete later this year there. Really good progress in Singapore on our high-bandwidth memory.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yes. Mm-hmm.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+facility, which we had broken ground on a year ago at the very beginning of calendar year 2025. We expect to have production impact from that in calendar year 2027 to supplement the HBM operations we have existing in Taiwan. We broke ground on a new NAND fab earlier this year.
+in Singapore as well. We have a lot going on.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Address supply across DRAM, HBM, and NAND.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah, on top of all of that, you're executing on all of these new technology.
+migrations at the same time, right? To that point.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+World-leading technology transitions, right?
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+World-leading, exactly.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Industry-leading technology transitions.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Exactly.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+On these new process technologies, 1-gamma for DRAM, G9 for NAND. You were targeting both of these technologies to represent the majority of your bit mix by mid this year. Very close, obviously. We're almost there. Is the team going to execute to this shipment mix? Can you talk about the progress on yield, manufacturability? Does the insertion of EUV actually will relax a little bit of the need for multi-patterning technology, and has that also been a tailwind for yields in defect density?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah. We're absolutely on track for those goals with both our 1-gamma DRAM and our Gen 9 NAND to cross over.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yes
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+bit output by middle of this year. Both of them ramping very well, both of them in terms of yields ramped faster than prior nodes. I always like to highlight it is not because those technologies somehow got simpler. It is because of the tremendous engineering work, some of the technology development work, the collaboration between technology and manufacturing, as well as our use of AI across, which we have been doing now for many, many years, actually more than 10 years, to be able to continually enhance our ability to get yield improvement, to have productivity enhancement, to improve quality, all those things in all of our manufacturing operations. We expect 1-gamma to become the highest volume DRAM node on a total wafer out volume basis that we have ever had of any node in our history.
+We did comment on the last earnings call that we are very pleased with our EUV progress on the 1-gamma node. It's the first node which we introduced EUV.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yes.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+We're very pleased with our decision to implement at this point in time when we had more modern, more advanced tools from ASML that are actually giving us better performance, better availability. Given that, we had said on the last call that we expect to increase our deployment of EUV in 1-delta and future generations. To go along with that, we actually have recently concluded a multi-year EUV supply agreement with ASML that supports our technology and capacity plans over multiple generations.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Let's talk about part of the manufacturing excellence, right, that we know about Micron is new technologies, ramping new technologies very quickly, but there's the manufacturability, operational efficiencies, yield side of things, right? Given the strong pricing environment, there's not been as much focus by the market on operational and manufacturing efficiencies, right? Also, given the significant mix differentials within DRAM, for example, DDR5 versus HBM versus SOCAMM, right? The cost profiles across all of these are very different. We want to get an update from you on operational efficiencies. What operational efficiencies has the team executed over the past 12 months? On a go-forward basis, how should we think about like-for-like cost per bit declines across your DRAM and NAND franchises?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah. Again, you had Tim on before. I'm in conversation with all of our core equipment vendors at the C-level on every two-week basis, focusing on trying to address the opportunities we have ahead in terms of greenfield, ensure our technology transitions are able to move forward, as well as enhancing the productivity of our existing fleet. We are working across all those areas.
+to be able to meet this surge in demand. You're right. Yield improvement is part of that. Productivity improvement is part of that.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+All of those things in this environment, accelerating technology transitions, all those together do help with our output and our cost. Even with that, we still don't see the ability to be able to catch up.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+to the demand that continues to grow for the foreseeable future. While cost is definitely always a focus, it's a religion for us.
+We're focused on trying to be able to increase supply to be able to meet our customers' growing demand, and we don't see the ability for that to align. We now see the tightness in supply to continue well beyond calendar 2026.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah. Any way for us, though, to think about as we work forward on our models, any way to think about like for like cost per bit declines across? It's such a more varied.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+product profile. Is there a back of the envelope way to think about?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+It is getting more difficult.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Harlan Sur, you're right, because the product portfolio is. I talked about HBM.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Right
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+as a part of DRAM, right?
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+HBM is obviously much larger die sizes lead to the trade ratio, much more complex packaging.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+All those things lead to different challenges there within the DRAM segment. There's also differences even within the DRAM portfolio between LP and LPDDR.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+high-capacity DDR. You have on the NAND side, you have a big gradation between QLC that's being used for client applications all the way up to performance TLC that's used for data center for PCIe Gen 6.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+We're actually having a lot of success as well.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+It's getting more difficult to think about that, and I think we're just really focused on being able to provide a higher value product.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+And of course, cost will always be-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Exactly
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+critical, but we're trying to move our portfolio over time. We've been successful. We continue to move our portfolio towards higher value solutions.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Micron talked about on the last earnings call, securing their first strategic customer agreement. You guys call it an SCA, right? It's a multi-year agreement with specific commitments. I assume the parameters are duration, volume, pricing. Back in mid-March, you talked about securing your first SCA customer that's five years in duration. Since then, how many more SCAs have you secured? How much of your bit shipment target over the next 12 months do these SCAs now cover?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah. You're right. At our last earnings call, we talked about having secured our first strategic customer agreement, and that was a five-year agreement with a large customer. We've made meaningful progress on SCAs with other customers who are very interested in having that kind of strategic relationship with Micron. We'll provide an update on those in the future. I think just in terms of the parameters.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yes
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Kind of the way you framed it, I think one of the things that the SCAs really enable us to do is to improve our planning. Right?
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+I just outlined all these different capacity expansions we have that are going to take multiple years to build out the fabs and then to equip them. Having these longer-term agreements with specific terms help us to align the capacity we're putting in place in terms of both greenfield clean room space, and then, of course, how we're equipping the fabs helps us to better align supply and demand out in the future.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+When we speak with some of your customers, especially the large GPU, XPU suppliers, they're telling us that the entirety of all of current gen mainstream HBM3E and HBM4 is sold out for next year. Right? The only thing that it remains under discussion is next generation HBM4E, because this is the next-generation architecture. There's a certain amount of customization, evals, qual's going to take a little bit longer, but just like HBM4 took a little bit longer last year. Is it fair to assume that the team's HBM3E ,HBM4 supply outlook for next year is already fully committed, volume and pricing?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+We're not commenting on 2027 HBM at this time.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Okay.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Do know that in the past, we did conclude calendar year 2025.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yes.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Prior to calendar year 2025, we concluded calendar year 2026 in the kind of CQ4 timeframe of calendar year 2025. At that time, that included both HBM3E and HBM4.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+The timing that enabled the mix to be aligned between the different technologies for our customers. We're not going to break that out specifically right now, but just know that that's been our history and track record in terms of how we've been able to align the mix of new technologies.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+ahead of the year the last two years.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah. Okay. That makes sense. The new HBM architecture ramping this year is HBM4. You started shipping HBM4 volumes into the upcoming Vera Rubin GPU platform starting in March of this year. How has the volume ramp progressed so far? Seems like some of your peers have had some issues on performance requirements. Any issues for the Micron team as you've continued to scale up volume shipments of HBM4?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+We announced earlier this year that we began shipments, and shipments are underway. Our HBM4 production ramp has actually ramped twice as fast as HBM3E 12-High did last year. Right? Which was a ramp we were very, very pleased with, and we're going at twice that rate in terms of production output, and our yield is also improving faster there. Which we had said we expected the HBM4 yield to come up faster.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Even though it's a more complex product, we said that we expected it to come up faster, based on the learnings that we had from HBM3E 12-High, we've realized that as well. We're just excited about our HBM4 product. It's on our 1-beta platform, which has been really strong workhorse for us. It has an in-house optimized base die that together is giving us an excellent product.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+I think you did say in your opening commentary that part of the better outlook, better demand profile that you're experiencing this quarter was contributed by HBM. Is that correct?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+I didn't give any specifics on the overall outlook.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Right. I think you said better HBM and better overall DRAM portfolio, but includes HBM and non-HBM.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+I didn't sort of say that specifically for the quarter.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+In general, our portfolio has improved over the last few years.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah. Mm-hmm. Right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+As we've enhanced with HBM, as we've enhanced with data center SSDs, I think our overall portfolio has strengthened.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Sticking with HBM, HBM4E is the next inflection. It'll ramp in calendar 2027 on your next generation 1-gamma process. Importantly, you've talked about HBM4E customization options offering further differentiation opportunities, deeper engagements with your customers. The base logic die offers customization, that means that the GPU and XPU customers have to engage with Micron 12 - 18 months earlier in their design cycle, sharing IP, co-optimizing the design process flow and so on. Are you at a point where customers have decided on their memory partners to execute the base die design and therefore your HBM4E architecture? If so, what's been the breadth of your customer design wins?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah. HBM4E development is well underway, and we expect it to ramp in calendar 2027. The first product that'll ramp on that, by the way, is going to be a JEDEC part. Right? That'll be a JEDEC standard part. That'll be the first HBM4E part to ramp.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+No customization is what you're saying?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Not no customization.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+The first product will be a JEDEC standard part.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah, the first product. Yes.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+The first product will be a JEDEC standard part.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+I see.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+We are working with customers on customization, but the first product will be JEDEC, and you're right, it will have our 1-gamma.
+DRAM, which, as I mentioned before, we're really confident in, and by then, it'll be a terrific node for the high performance that HBM4E will provide. We're using TSMC for the logic die as well. We are expecting that to ramp in calendar year 2027.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Are you expecting to use TSMC both for the JEDEC-based die as well as the customized-based dies as well? Is that okay?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yes.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Okay.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+That's right. The JEDEC-based part as well. Yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Given the customer-specific design of the base die for HBM4E, how does the team think about the potential margin profile compared to a standardized base die design, that is leveraged across multiple different customers? I know the first one is JEDEC compliant, but beyond that, once you start going custom, will the Micron team price HBM4E that reflects the customization for every customer? Will the team leverage other design resources like some of the custom ASIC companies like a Broadcom or Marvell or some of the other guys that do have a track record of quick turnaround customization capabilities for advanced logic SoCs?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+I think what you're seeing with the interest in HBM, the interest in ever-increasing performance, and the potential for customization is just how valuable that performance is to the end accelerator company.
+Their customers who are actually driving the AI roadmaps.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+You're seeing the value just continue to increase. What that drives is the complexity in engineering, whether that's on the design side, process side, the core process side, which is absolutely critical, whether that's 1-beta or 1-gamma, and then advanced packaging, right?
+I think the Micron team has done a tremendous job over HBM3E and now HBM4 of being able to drive innovation, and proven track record of being able to execute on all these areas, whether that's driving innovations in design, having really, really strong core DRAM development, and then novel advanced packaging to be able to execute on these products and provide value. I think the potential for customization is the next instantiation of that.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+with even more value being able to be provided. As we think about the path that that can take, we think that our customers would be willing to pay for that.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Let's turn to your flash memory storage franchise. On data center SSD in particular, this is an area where Micron has seen significant share improvements over the past several years. Your data center SSD share has gone from 5%-7% in 2022, to 10%-12% in 2023, exiting last year at 15%. Very, very strong share gains in performance. It comes at a time where we're talking about this inferencing inflection in terms of AI compute workloads, and all of a sudden, whether that's KV cache.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+offload, and so on, there's all of a sudden this very, very strong demand pull for enterprise SSD. Again, team exited last year with 15% global market share. You're now the third-largest global market share leader in enterprise SSD. You've got your 9550 PCIe Gen 5 SSDs out there doing well. You were first to market with your Gen 6 9650 platform based on your G9 technology. Actually, that is a part of Nvidia's STX reference platform. You've always had good base NAND process technology, but the other big differentiator, as we know, is you've got to have great controller design, and even more importantly, you have to have a great software and firmware stack. How did the team over the years acquire these sort of capabilities, and more importantly, does the team expect continued share gains going forward?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah. Harlan, every year when I come, you always ask me this. I appreciate that you've been able to, for years.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+seeing the progress that we've been making, and you've always called it out and highlighted it, and definitely appreciate you recognizing that for us because it has been a deliberate part of our strategy over a decade or so to be able to enhance our own internal ASIC capabilities, our own internal firmware development, and not just target for me-too kinds of products, but leadership in terms of our ability, like you mentioned, PCIe Gen 6 to be qualified.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+lead qualified on Nvidia's STX platform. I think that, along with share gains across all the other areas, as you said, going from five to 10 to mid-teens really shows our track record of deliberate strategy as well as strong engineering execution, coupled with strong technology roadmap on the NAND side and manufacturing capabilities on the NAND side. I think the more interesting thing is really what you mentioned about what NAND now means, and high-performance SSDs mean to all of these AI workloads. The agentic AI paradigm shift, you talked about the key value cache, right?
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+More agentic workloads and the importance of the key value cache is just all about extending the context window. The context window has grown 30 times a year. The context window growing is about accuracy.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Yeah
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+is about value. NAND is not just about being able to store more data that's generated by various different workloads, whatever they may be. It's also about improving the value and improving the learning rate, and that's becoming a more important part of the AI technology stack.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+As we see new tiers of storage and memory emerge, as the inferencing workloads continue to evolve, we are seeing new memory and storage architectures that may be required. One of those is something like high-bandwidth flash. We're hearing more about high-bandwidth flash. Is the team exploring new architectures like high-bandwidth flash? As you work with your cloud and hyperscale customers, looking at the evolution of their workloads, are you working very closely with your customers, and how do you see this sort of evolution unfolding?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah. High-bandwidth flash is an interesting technology, and it has some positive attributes, clearly providing larger capacity and taking advantage of advanced packaging to be able to try and address some of the AI opportunities. Of course, NAND cell by itself does have some limitations versus DRAM. Those are things that engineering needs to work through. I think the bigger picture here is that there's demand for innovation across the memory hierarchy.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+And I think-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+That's just a positive. Across every single tier, there's more opportunity and innovation. I think for a company like Micron that has such a strong portfolio and a history of being able to execute in terms of research and development as well as understanding all different types of memories, I think we're very well positioned to be able to be a leader in whichever trend ends up becoming an area that adds the most value to AI technology stack.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+To that point, you talked about key value caching, the first implementation of that was we've seen new storage architectures, like Nvidia's STX architecture, of which you guys are a part of it. We've seen other hyperscaler companies taking advantage of it by using this new CXL technology, memory expansion and memory pooling technology to not leverage SSD, but to leverage more DRAM. To create these DRAM pools, and then leveraging the CXL controller and pooling technology to essentially store a lot of that sort of KV cache sort of implementation. There you kind of benefit both ways. Whether your customers choose to, on these higher, high volume, KV cache offloading capabilities, it looks like it's morphing into, yeah, we can do it with DRAM offload acceleration, or we can choose to do it with enterprise SSD.
+Is that kind of the innovation that you're seeing in the industry?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Yeah, absolutely. I think what you're seeing is that there's no one standard workload.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Different cloud providers and different transformer companies each have their own workload challenges that they're trying to tackle, and so they'll come up with architectures that match the long-term workloads that they'll see. You can imagine that you're going to see innovation up and down that memory hierarchy.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Again, I think we're going to be very well positioned given the breadth of our technology portfolio and the engagement we have with all of these customers. By Micron having moved to leadership now four generations in DRAM, three generations in NAND with leadership, that's enabled us to be helping define those architectures with our customers. We're not just sitting behind.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Right
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+a JEDEC spec on every single one of these. We're now defining, working with all these different customers on their workloads, helping them think through what can optimize their tokenomics.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+That's right.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+their end applications as they see AI unfolding, whether that's in training or whether that's in inferencing. I think that's the exciting part, is that memory, it's a strategic asset now to help everyone optimize the intelligence that they're driving. That's why there's never been a better time to be in the memory industry, and there's never been a better time to be at Micron, actually.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Given the tightness in NAND, I assume that the team is also working with customers on SCAs for NAND as well. Have you secured any SCAs on NAND and SSDs?
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+We're making meaningful progress on SCAs. We'll have more comments on the future on this.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, J.P. Morgan
+Perfect. Well, we are just about out of time. Manish, Samir, appreciate the participation as always. 2026 is shaping up to be another very strong growth year for the Micron team, so hope to continue to monitor the team's execution on that. Thank you very much.
+## Manish Bhatia | EVP of Global Operations, Micron Technology
+Thanks, Harlan.
+## Samir Patodia | Senior Director of Investor Relations, Micron Technology
+Thanks, Harlan.
+Data Source: Quartr Last updated: May 20, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

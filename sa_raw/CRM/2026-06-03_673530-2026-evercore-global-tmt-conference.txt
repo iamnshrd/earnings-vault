@@ -1,0 +1,412 @@
+TITLE: 2026 Evercore Global TMT Conference
+DATE: 2026-06-03
+## Kirk Materne | Analyst, Evercore
+Let me get going. Thanks, everybody. I assume we'll have some folks filtering in after lunch finishes up. Super excited to have Parker Harris with us, co-founder and chief technology officer of Salesforce. Just a couple English majors talking about headless technology.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+Should be good. Really excited to have you here. Much going on in the industry around agentic AI. You've been through so many of these cycles, so it'll be a fun conversation.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I've never been through a cycle like this one, but I've seen cycles.
+## Kirk Materne | Analyst, Evercore
+No, yeah. No, I don't think anyone has in terms of the pace.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah
+## Kirk Materne | Analyst, Evercore
+The velocity and just sort of size of it's pretty amazing. Why don't we just jump into it, and if you have a question, raise your hand. We try to keep this as interactive as possible.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah
+## Kirk Materne | Analyst, Evercore
+To your point on cycles, you've been through a bunch. We've seen a lot from Salesforce the last month or so on headless. Why are you all as a company so excited about that as part of the broader AI strategy?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah. I think we were surprised. We didn't make it the headline of Dreamforce last year. It was kind of a more recent idea, and we launched it at one of our World Tours . The feedback was just phenomenal. Like everyone, the press, and then on social, and our customers are like, "Well, this is a brilliant strategy." I think what we're most excited about is just meeting customers where they are. We've had APIs to our service forever. It's also kind of related to Claude Code that really hit that tipping point in February; that the first place we thought of is Salesforce should just be easier to configure, to implement, to diagnose. Why not vibe coding it?
+## Kirk Materne | Analyst, Evercore
+Yep.
+## Parker Harris | Co-Founder and CTO, Salesforce
+That was the first step. Let's open everything up headless, and you can hit it with that. If you look at Salesforce, it always follows consumer trends. Like when we started the company, it was about Amazon, the bookseller. When we launched Chatter, it was looking at Facebook. Right now, you look at the model companies and commerce, and there's UI coming into these products. Part of headless was also, let's rethink our experience layer. The experience is actually in the headless layer because you define the user experience in metadata.
+We interpret it, and we play it out in what we call Lightning. That can come to you, but you're not saying what I told you should see. You're just telling the AI, "This is what I want; give me my top deals for the quarter." Tell me what trouble tickets or cases that Kirk might ask me about at Evercore." It'll paint in that response beautiful UI, not just a bunch of text. It's really the new experience layer. We're seeing customers use it from things like Claude Cowork with OpenAI, ChatGPT, but also from Slack, which I've been just spending a lot of time with the past couple of years being a great engagement layer for kind of everything headless. Not just Salesforce, but everything in the enterprise.
+## Kirk Materne | Analyst, Evercore
+Okay. Well, we can definitely talk more about Slack.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+I guess when you think about the headless strategy, what does success look like? Is it opening up the TAM again for you in terms of just these people that might not have come through Salesforce traditionally through, say, more of the app layer?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah
+## Kirk Materne | Analyst, Evercore
+You think about where you'd want to be in a year on this strategy; what would you guys think about as success?
+## Parker Harris | Co-Founder and CTO, Salesforce
+I think first and foremost, it's about adoption.
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Users are moving, and they're looking at these new services. Success would be massive adoption of headless. I haven't seen the stats of MCPs on the Agentforce side, been more close to Slack. The Slack business uses MCP interface just spiked. We just released it, I don't know, a couple of months ago, and it has just spiked. The number of people wanting access to that corpus of information has just spiked. We're seeing the adoption, and we're talking a lot internally about, "Oh, what are the monetization strategies for this?
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I think part of the success is also there's our current monetization, like let's just get more licensed revenue, and an agent may be talking to Salesforce agentically through headless, but it's talking as a named user because it needs to get the right data with the right security protocols, the right context for that agentic response. There's a lot of named users. There's also opportunities for usage-based pricing. We're talking to our customers and saying, "Well, where do they want us to go?
+## Kirk Materne | Analyst, Evercore
+Yep. That makes tons of sense. You mentioned Slack. Let's double-click on that a little bit.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+Probably one of the products, when you think about it at Salesforce that has perhaps the most network effect to it within your customer organizations.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+How does that feed into sort of the broader headless strategy? Why is that such a great engagement layer for the agentic enterprise?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+Talk to us about that a little bit.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Well, take Slack, where it was most successful when it started before we ever acquired it, was with engineering. The engineers would take it and be like, "Great. I'm going to hook it to Git for source code control and Jira for my bug tracking and planning and connect it to my monitoring. "Give me all the tools, but don't make me leave," what they call the flow of work, and just work there in context. What is amazing about Slack is that expanded from engineering groups to all knowledge workers, where they're working together, and All humans at the time before AI like, "Great, I can work in Slack," and we're just getting more work done.
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+It wasn't just about communications; it was really about work. Now it's about AI. It's about getting work done with AI, both as my assistant there, so Slackbot being a native one, but also third parties, Claude Cowork in there or my Linear agent if I'm coding. They're all in Slack because and they all want to be in Slack. It's basically where AI-assisted or more and more AI -autonomous work is getting done, but it's where humans are working together with the AI, with each other. Slack calls it multiplayer.
+When I use a Codex or a Claude Code, that's single player. I'm just working myself with it. If I wanted to work with other people, Slack's really the best place for that. You'll see more things coming where we're opening up more surfaces, where when people want to work together, whether they're coding or they're doing knowledge work, they're in Slack. By the way, in both Anthropic and OpenAI, that's all they use is Slack. They have Slack; they have Salesforce. They don't really log into Salesforce because they're sitting in Slack using their models and stuff they've built, sometimes our stuff, and working with all of these headless APIs to get their work done.
+## Kirk Materne | Analyst, Evercore
+Has AI given you an opportunity to go back into those customers that might have bought Sales Cloud 10 years ago and say, "Look," like financial services is a good industry as an example?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+It's never been a great Slack industry for whatever reason. Maybe people are in Bloomberg chat.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Terrible. We're working on that.
+## Kirk Materne | Analyst, Evercore
+But I think the-
+## Parker Harris | Co-Founder and CTO, Salesforce
+Would you like to buy some Slack?
+## Kirk Materne | Analyst, Evercore
+Our CIO's here. You can pitch him. I think the idea would be you should rethink this in concert with AI. Is that kind of the message your salespeople are trying to reintroduce it to sort of, again, expand the surface area where you've been, and have you seen early success on that?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Sure
+## Kirk Materne | Analyst, Evercore
+Is a tough one, but other industries?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Well, let's take sales, for example. We always try to use everything ourselves first. We call it dogfooding. The sales manager agent, as an example, is this agent that is built on Agentforce that we have all these leads, we have a lead database, all these prospect leads, and there's a lot that we think are invaluable.
+Like, "Don't call them because you're too expensive as an employee to call them." Call these because we think these will close." We've taken all the leads we think are lower value, and we've put them on this sales manager agent, which agentically is having conversations with our customers over email, WhatsApp, voice is coming where it maybe will call you. It's not a one-way batch and blast like marketing automation, like, "Hey, are you interested in sales force automation?" See if they clicked, and then somebody calls it. It's a multi-party conversation back and forth. That's an example where we can go back into a customer and say, "Would you like to close more business? Without adding more humans, we can help you do that.
+## Kirk Materne | Analyst, Evercore
+Sure.
+## Parker Harris | Co-Founder and CTO, Salesforce
+The Qualified great acquisition ex-Salesforce team came back in recently, come to the website, and just engaging with the customer on the website as an agent to get that prospect to the right place where maybe they'll even buy or they'll hand off to a human. There's huge opportunities that we have just to go back into the customer base and say, "Are you an agentic enterprise?" Have you found more productivity with AI or not? And if you've not done any of that, we can help you get there.
+## Kirk Materne | Analyst, Evercore
+Sure. You mentioned sort of monetization around this headless concept. You guys had the AppExchange for a long time, right?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yep.
+## Kirk Materne | Analyst, Evercore
+The API-based sort of revenue stream. Should we sort of think about that in a similar vein? Whereas you could still buy agents directly from Salesforce, you can build within Lightning or, look, you might be able to build agents on Claude?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Sure
+## Kirk Materne | Analyst, Evercore
+Come in through the MCP server and get data that way. Is that sort of the way we should think about it? I guess from your perspective, again, you're just trying to meet the customers where they are. Is that kind of the idea?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah. We have an AgentExchange, and agents can be built on Agentforce. The third parties, if it's built on Agentforce, it's not going through MCP; it's just native. Third parties can go through the MCP interfaces. Customers are building some themselves, which is totally cool. We're just trying to solve what is that use case they're trying to solve. Is it more sales? Is it happier customers in the service department? Is it lead gen and market automation? Whatever it is. We're going to do our best to provide services that like it's just, you can do it, but it's going to be easier, better with us.
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+It's been true ever since we started the company. When we started the company, we were called Salesforce.com. When we started the company, we were like, "Well, we're probably going to do more than Salesforce automation." Should we pick a different name?" Didn't pick a different name, and people told us, like, "Change your name." We had Salesforce automation, and then you have customer service with Siebel or whatever, like, great. We will integrate. We always want to meet the customer where they are and whatever they're doing, but we'll still pitch, and these customers, the integrated platform, and just all from us, it's going to be easier and probably cheaper for you long term and just cost to maintain it and run.
+## Kirk Materne | Analyst, Evercore
+Okay. Agentforce has been out there now for maybe 18 months. What have you all learned in terms of adoption, sort of removing the friction? What have companies that are seeing real success with it done correctly? How do you sort of expand that out to the rest of the customer base?
+## Parker Harris | Co-Founder and CTO, Salesforce
+How many times have people used the word "forward-deployed engineer" at the conference?
+## Kirk Materne | Analyst, Evercore
+Exactly. Plenty.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Plenty. It's a new term, and a number of other companies kind of coined that phrase. I think one of the things we've learned, which is kind of obvious, is agentic AI is non-deterministic, which we know. You don't want in your call center, like it could do multiple things.
+## Kirk Materne | Analyst, Evercore
+No.
+## Parker Harris | Co-Founder and CTO, Salesforce
+We can't tell you exactly what it'll do, but we'd like it to do. That's not a great answer if like, "How's my portfolio doing?" You're like, you want to give the right answer. You want it to have the right context. What we've found is being in the customer, and it's no longer about being in the customer in the sales process and saying, "Here's a demonstration of what we can do for you." It's more like, "Why don't we build it with you?" We have agentic coding now; we can manipulate the entire platform really fast. We want to show you how it's working, and then we want to work with you to make it successful. That's one thing.
+Another thing is that determinism, non-determinism. In the harness of Agent Force, we started out just saying, well, the models are going to keep getting better. When I say do these 10 things in this order, that's great. It will do that. It turns out nine times out of 10 it does. I wanted it 10 times out of 10. A lot of companies are doing this. We've pulled out some of what is really deterministic logic, which is workflow basically.
+We built Agent Script, which is essentially a way in a nice UI to basically script out what do you want the agent to do, like coming into the website, asking who they are, or file a claim for insurance. There's a series of steps you need to do. Each of those steps, some of those, could be non-deterministic. AI through an LLM, that kind of interaction. Mixing the two together, and that's been really successful.
+It's actually faster and cheaper because you're not hitting tokens to do some of those things that you really don't need a model for. What we've found is these things are brilliant brains, but you don't use them for everything, and I think what we first did is like, "Well, great, let's just have it do everything." It turns out they're not great at everything.
+## Kirk Materne | Analyst, Evercore
+Yeah. You all have obviously invested in Anthropic of these native AI companies. Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Thank God.
+## Kirk Materne | Analyst, Evercore
+Yeah, exactly. That's good. That was a good one.
+## Parker Harris | Co-Founder and CTO, Salesforce
+That was a good one. Yeah. Well, we like to tell John Somorjai you saw it, but not enough. You didn't see where it was going enough.
+## Kirk Materne | Analyst, Evercore
+Always too little after the fact.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Too little. Too late. Yeah.
+## Kirk Materne | Analyst, Evercore
+One of the questions you bring up around this sort of harness and orchestration concept is that where the value has to accrue longer term for companies that want to participate in this agentic world. Meaning, to your point, the base -level intelligence for models will continue to get better over time. When you think about how you differentiate, how you deliver value to customers, does it need to be your sort of ability to take that brain and then deliver sort of customer value on top of it? I guess the second part of the question would be like, is that durable? Meaning, is that delta between what intelligent models, the intelligence, again, will keep getting better, is it durable? Is that sort of value add at the orchestration level durable?
+## Parker Harris | Co-Founder and CTO, Salesforce
+I don't think it's just orchestration. Everything we're doing is the harness because we're not building the models. We're using multiple models, mixing them for the right use cases, some for performance, some for cost. When we say "harness," like Agentforce, the entire Agentforce, you could call it a harness because it's basically using these models to do customer service or do sales. We've got orchestration in there. We have telemetry for monitoring. We've got evals or testing. The output of it can then get used to then update the whole configuration, the prompts, and everything. That's hugely defensible.
+We've always been a CRM company. That's why our ticker is CRM. We will stay in that lane; we're not trying to be multipurpose, like just use us for any sort of AI. We're going to be a CRM enhanced with AI, autonomous. I do think that's defensible. We can also take 27 years of our customer base, the implementations, the business logic, the metadata. All of that's already out there. They're asking us, our massive sales force; they're like, "Hey, take us to the future," because we have those trusted relationships. I think that's also a huge advantage we have. Then we're taking them there. We keep using these better and better models. The models don't have the context.
+## Kirk Materne | Analyst, Evercore
+Sure.
+## Parker Harris | Co-Founder and CTO, Salesforce
+They don't have the context that is secure. We don't put all the data in the model. It doesn't have the exact right context for the question, because if you put too much data to the model, it has a hard time, or you spend a ton of money, or both. All of that, I think, is highly differentiated and defensible.
+## Kirk Materne | Analyst, Evercore
+Yeah. You mentioned data, obviously. Bought Informatica.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+You had Data Cloud before that. How important has that been for you all to build a data platform in the back to complement Agentforce?
+## Parker Harris | Co-Founder and CTO, Salesforce
+We can call it context now.
+## Kirk Materne | Analyst, Evercore
+Okay.
+## Parker Harris | Co-Founder and CTO, Salesforce
+That's the cool word.
+## Kirk Materne | Analyst, Evercore
+Okay.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah, we built our Data Cloud, which is really two things. One is a data platform for collecting data, but also a data activation platform that connects to all the other data platforms out there. MuleSoft for API management. Informatica has been an incredible acquisition. It's exceeded our expectations in the first full quarter. Yeah. It's been great for the business. I think we have too many brands right now.
+People know these brands, so it's fine. We were doing customer mastering; that's very important. We weren't doing product mastering. Our customers, or a financial instrument, would be a product, or a car from Ford or whoever. Informatica has an amazing MDM solution for things like product mastering, and if you're an agent and you want to talk to get the right context, you want to get the right context on, "I'm going to the car website, and I want to buy a car." Which car? You want all the context for that product; mastering that is super important.
+Our vision is not that all the data's there and it's going to take forever to make that work. It's a logical, semantic, ontologicalâmaybe is a better word these daysâlayer that combines the metadata of the history of Salesforce with metadata from Informatica. Here's all these other data sources with metadata from MuleSoft of, here's all these other API-connected data sources with Tableau, which is a semantic layer to understand what is the semantic meaning of all this data. All of that comes together and gives us that rich context layer that AI can then use. It 's a huge event, and I'm so happy we were able to get Informatica.
+## Kirk Materne | Analyst, Evercore
+Yeah. Is connecting the data to the agent still the biggest challenge for a lot of your customers in terms of the promise and the reality right now?
+## Parker Harris | Co-Founder and CTO, Salesforce
+It's not connecting the data; it's the AI shows them where the data is not clean; it's not right.
+## Kirk Materne | Analyst, Evercore
+Okay.
+## Parker Harris | Co-Founder and CTO, Salesforce
+They haven't mastered it. We even found that when we were perfect, but cobbler's children, when we stood up our help.salesforce.com Agentforce agent. It started showing us where in our data sources it wasn't clean, it wasn't quite right, so we had to go and fix that, and we had all the tools, obviously, with our products to do that. Getting your data right is definitely that first step for any success with AI.
+## Kirk Materne | Analyst, Evercore
+Yeah. Any questions? I have a bunch more. I'll open it up. Okay, I'll keep going. I think the next one. I was trying to think of the next one. Verticalization for you all. It seems to me like in an AI world.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah
+## Kirk Materne | Analyst, Evercore
+You have the ability to bring an agent that not only understands the domain in terms of being a salesperson but also understands the context and then actual, maybe even the nomenclature that goes into a different industry, something that might become more valuable over time. I think through AppExchange, you all let some of your like Veeva went out and sort of originally did that in pharma.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+How do you think about that going forward for you all? I could see having sales agents that are tuned for retail might be different than insurance that might be different from financial services. I know David Schmaier spent a lot of time on this topic.
+## Parker Harris | Co-Founder and CTO, Salesforce
+David Schmaier did, yeah.
+## Kirk Materne | Analyst, Evercore
+I've talked to him a lot about this topic.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Shout out to, we were talking about Keith Block earlier.
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Former Co-CEO. He really started the motion to go industry vertical, which originally our sales engineers would just go and say, "Sure, I can take Salesforce, and I'll just configure it for banking, retail banking, or investment banking." We realized it's more than just the data model. Everybody's talking about vibe coding your CRM; it's like, yes, you could create a data model, but it's far more than that. I think we have a huge advantage as you go deeper into our product line and you look at our industry verticals. We have a lot of industry vertical business processes built out. We are building out industry vertical Agentforce agents and Agentforce skills and topics that you can use in your industry that understand an insurance claim, understand a know -your-customer motion in banking. Understand, I'm trying to think of other examples.
+## Kirk Materne | Analyst, Evercore
+No.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Just understand all of those, and instead of handing you a horizontal, "Here you go, it's a toolkit." Go at it, we can have it out of the box. It keeps getting better. We're exploring with our research group, might we fine -tune some smaller models that are industry -specific that really understand the business process of that industry to make them even smarter?
+## Kirk Materne | Analyst, Evercore
+Yeah. That sort of leads to my next question. I think I know what the answer will be. I expect you all believe that this is going to be a multi-model world where you're going to be using the right model for the right action.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah
+## Kirk Materne | Analyst, Evercore
+In the right, again, context.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+Is that happening already underneath Agentforce, meaning someone asks a fairly simple question, you don't necessarily need a frontier model?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+You might just want an open -source model or some, to your point, a small language model. Is that already going on, and how, I guess, instantaneous is that? When you put in a prompt, is Agentforce smart enough to know the context of the question so I can go to the right model to get the right answer, or is that still a little bit?
+## Parker Harris | Co-Founder and CTO, Salesforce
+I don't think it's exactly like that.
+## Kirk Materne | Analyst, Evercore
+Okay.
+## Parker Harris | Co-Founder and CTO, Salesforce
+It's more like the core reasoning loop. The large foundation models are really useful to reason what you want. Voice has its own models to do checking on ethics or violations. That can be a simpler model. Just understanding the question of what they are asking and parsing it out in the right way can be a smaller model. The first step is not a cost optimization; it's like, let's choose the right model for the use case, because often it's a performance thing.
+I don't need to run through a trillion-parameter model to do the simple use case, and by the way, it's going to be expensive and it's going to take too long. Quality is the first step; performance and cost will be the next two. We're mixing models all over. We can do it at runtime. We can mix and match. I think we will head in the future; we will look at should we have fine-tuned models per customer for some of those use cases that maybe we're dynamically updating the models from each customer. We wouldn't mix the data. That's another idea. Finally, we're always looking at, well, what's the next frontier model? What can it give me?
+Will the next Anthropic model or OpenAI, the two biggest ones, but we also look at companies like Mistral that we're invested in, and Cohere and other model companies to look at what do they have? We've shied away from the Chinese models. For various reasons, a lot of which are we sell a lot to the U.S. government.
+## Kirk Materne | Analyst, Evercore
+Right. Maybe you could help me with a question I get a lot, which is, there's obviously going to be some workflows that are deterministic. If you have a policy around CPQ, you can't just have a model come up with sort of a guess. It can't beâ
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yep.
+## Kirk Materne | Analyst, Evercore
+How does that get integrated? You mentioned maybe it's the agent script point you made earlier about how do you start mixing in the benefits of both probabilistic models.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah
+## Kirk Materne | Analyst, Evercore
+Also within sort of the parameters of having deterministic outcomes to some degree. You can't have salespeople being like, "All right, close enough on discount approval.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I think one of the best examples is a company called Regrello that we bought, which I think is called Agentforce Operations.
+## Kirk Materne | Analyst, Evercore
+Operations.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah. We never change the names of our products, you know that. It at design time uses AI heavily.
+## Kirk Materne | Analyst, Evercore
+Okay.
+## Parker Harris | Co-Founder and CTO, Salesforce
+It's trying to understand the business process of a corporation that's not written down. It's like, well, oh, you want to give a discount on professional services. This is actually an internal example where we wanted to, for a customer, I want to give them highly discounted professional services in the deal for the implementation. Oh, well, to do that, you need approval from these three humans. You need to go in these four systems. It can look at all the data. You could draw a diagram, and it could parse it, or it could look at some of the emails that are going around, and it's using AI to understand, well, what is the real human business process?
+It takes that, and it turns it into workflow because, at runtime, it doesn't need to be the AI running that process. It's like, first I'm going to ask Kirk for approval via email. When he says yes, then I'm going to go to this person. I've got to make sure this system goes. It's obvious what it is.
+## Kirk Materne | Analyst, Evercore
+Yep.
+## Parker Harris | Co-Founder and CTO, Salesforce
+But figuring that out required an agentic process. I think more and more you're going to see that. Companies like Dell are like, "Wow, we're saving a ton of money." We used to call it "supply chain," which was the first term we used because they use it in their supply chain area, but it was just simplifying their internal business processes significantly.
+## Kirk Materne | Analyst, Evercore
+We obviously talk a lot about agentic, and I feel like we're sometimes in a little bit of a bubble when we talk about this in the industry. When you go out and talk to CIOs, or you're talking to some of your bigger partners, how early are we? I feel like everybody wants the agentic enterprise tomorrow, but when you go out and talk to customers.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I think we're really early.
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I mean, we're still super early. Right now, the hot area that's getting automated is customer service. That's where you see a lot of the little startups. That's where we're playing. In collaboration with Slack and Slackbot, and you see Claude Cowork as an example. Obviously coding is a huge area.
+## Kirk Materne | Analyst, Evercore
+Yep.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah, those are the areas that we see right now.
+## Kirk Materne | Analyst, Evercore
+Okay. Any industry you think that's farther ahead? The ones that are more regulated seem to be obvious. They'll take a little while longer in certain functions.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I think it's more the CIO.
+## Kirk Materne | Analyst, Evercore
+Okay.
+## Parker Harris | Co-Founder and CTO, Salesforce
+It's more the leadership of the company. Are they leaning in or not? I was just in France; I was meeting with Adecco, which is a big recruiter, and they're going all in. They source temporary labor, contractors to corporations of all sizes. I went out to one of their recruiting offices because I wanted to see our software in use. They were using Einstein for sales. That's machine learning. Just help me understand, score some leads, and score this candidate. Is this a good candidate? Match this candidate with the right thing. That's machine learning. It was using Agentforce to, that outbound to have an interaction with a candidate. It was because Pierre Matratxea, the CIO, is an amazing CIO, and he's forward-leaning, and he's going all in, and he's figuring it out. It's about are you picking the right problem to solve.
+I think there's a lot of DIY out there that some has worked, a lot has failed. That's selfishly saying, "Let us help you.
+## Kirk Materne | Analyst, Evercore
+Right.
+## Parker Harris | Co-Founder and CTO, Salesforce
+That's another thing we're seeing. It's still super early, and I think with AI, the demonstrations are so compelling, we think everyone's doing it, and we all have this FOMO, like, "Well, I got to do it." That's why a year ago, every CIO said, "Everybody do AI.
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Everybody bought various tools and did stuff, and now we're seeing more consolidation and more use case by use case success.
+## Kirk Materne | Analyst, Evercore
+One thing I forgot to ask when we were talking about headless earlier in the conversation is it would seem to me that headless, in a market that's moving this fast, lets the customer understand that they have optionality with you, meaning you're not boxing them in. I would imagine at a time where a lot of CIOs frankly aren't sure in which way they might want to go two or three years from now, that's actually a benefit, meaning I can count on you all to be flexible with me because I think every organization's going to have to be somewhat flexible in an AI world.
+## Parker Harris | Co-Founder and CTO, Salesforce
+It's resonated incredibly well, and we just want to meet people where they are, and where they are is moving. We have built user experiences for 27 years. You can customize them, but we think this is the first version that makes the most sense for you for sales service. Maybe the future is not that at all, and how I interact with enterprise solutions is going to be personalized just for me. Maybe it's not me; it's my agent or agents. I mean, you look at how people are coding; they're managers of agents now.
+## Kirk Materne | Analyst, Evercore
+Yeah
+## Parker Harris | Co-Founder and CTO, Salesforce
+Go and rate the spec and test it and do I think every job function will move in that direction? We want to meet the customer where they are. What service do you want to do that in? What user experience do you want? If you want to vibe coding a new UI for part of Salesforce, go for it. You can use parts of what you've already configured, or you can build your own. If that's valuable to you, great. If you want to use it and have it surface in these other tools, great. If you want to be multiplayer and have multiple people working together, we still think Slack's the best. If you want to use Teams, many people have Teams. Obviously, I think Slack's way better.
+We will help you use Teams as a service. I think the world's moving so fast, we can't predict where it's going to be. We all have to be super flexible and super fast and move with the same pace.
+## Kirk Materne | Analyst, Evercore
+You've obviously been at Salesforce since the beginning. Are you pleased with the agility? I mean, it's a big company, so to move, I think there's sometimes a view of like innovator's dilemma or those kinds of things with companies. Do you feel good about the level of velocity that's going on?
+## Parker Harris | Co-Founder and CTO, Salesforce
+I feel really good. I credit Marc Benioff. I think he is an incredible entrepreneur, and he's like, we talked about the innovator's dilemma, and we have to go rethink how we're organized in sales. When we think about forward-deployed engineers, we have sales engineers. Well, what's the difference if we're not building demos? How should we think about that? Should we deploy them more out into where the business is happening? Headless. Yes. Let's go all in on it.
+## Kirk Materne | Analyst, Evercore
+Yep.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I'm very pleased with the rate of change that we're driving. We have an internal process called the V2MOM that helps us stay aligned, and we just keep rewriting it because it keeps changing. That's how tone from the top, change, try some things, don't be afraid to fail, and that's coming from Marc. Use that V2MOM process to say, "We're changing now." Now everybody, we've rewritten it. Here's how we need to align." It's never perfect. I just talked to some of the leadership in our technology and product organization, and they're asking, "How do we take more chances and do more?"
+## Kirk Materne | Analyst, Evercore
+Yep.
+## Parker Harris | Co-Founder and CTO, Salesforce
+We've got to keep hammering on it.
+## Kirk Materne | Analyst, Evercore
+Yeah. You're obviously very in the weeds on all the tech. Just out of curiosity, what's the sort of idiosyncratic thing that you guys have broken through on more recently that perhaps only you would find interesting? But I'm kind of curious what you're spending time on, maybe that's in the bowels of the technology, whether it's data, governance, or models.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Well, a lot of it has been, for me personally has been in the Slack business unit. The breakthroughs I'm seeing is how do you think about multiplayer cloud code.
+## Kirk Materne | Analyst, Evercore
+Okay
+## Parker Harris | Co-Founder and CTO, Salesforce
+Where multiple people are working together with AI to build something. That could also be Cowork, or it could be Codex, or it could be Linear. It's a breakthrough thinking about, well, Slack is a channel-based experience where you're doing work together, and it's all human-based, and we're bringing agents in, and what if that agent is building code or writing an S1 to go for it? Maybe Anthropic's using Anthropic to write an S1. That'd be interesting. How do we do that together? What is that experience? What's the identity of the agent? How do you bring it all in together? Maybe that's not the sexiest answer of like. Oh, we've figured out this agentic loop or that." It's really more at the user experience, and I think change happens at the user experience layer.
+## Kirk Materne | Analyst, Evercore
+Right.
+## Parker Harris | Co-Founder and CTO, Salesforce
+When Steve Jobs launched the iPhone, it was like, well, the world just changed because of the experience. The battery doesn't last a day. The apps weren't maybe the best, but it was the experience. If you think as a company, we're really leaning in harder on, well, what is the experience of the future, and we're trying a lot of ideas. In Slack, what is the experience of many people working together with AI?
+## Kirk Materne | Analyst, Evercore
+Is that pretty much the operating environment at Salesforce now? Is everybody in Slack?
+## Parker Harris | Co-Founder and CTO, Salesforce
+100%. We're all in Slack. We're all using Slackbot. Slackbot as an agentic agent helping people; the adoption rate is the fastest I've ever seen of any feature we've built. It's helping everybody get their jobs done. It's phenomenal. Everybody's work. We have lots of meetings. We just had a big meeting in Los Angeles with our top 500 people. We launched internally Tableau Analytics in Slack, but implemented for all of our regions and all of our sellers so they can run their business. Instead of going into Tableau, going into Salesforce, or something they built themselves, pulling data out, and putting it in Excel, God forbid.
+They're just living in Slack, running their book of business of what's my pipe for the quarter. What are my top deals? What have I closed so far? Who's had trouble? That's all happening in Slack with Tableau tied to all the data. It's a great use case to go sell because they can say like, hopefully they're not showing everything, but Kirk, let me show you how I'm running my business at Salesforce.
+## Kirk Materne | Analyst, Evercore
+Yep.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Here it is. It's a really compelling way to sell.
+## Kirk Materne | Analyst, Evercore
+Yeah. That was my next question, actually, which was it's a reference selling.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+Software has always been reference selling. Anything in the enterprise is reference selling.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Certainly selling Salesforce automation if you're a salesperson and using our tools.
+## Kirk Materne | Analyst, Evercore
+Yeah
+## Parker Harris | Co-Founder and CTO, Salesforce
+It's very easy.
+## Kirk Materne | Analyst, Evercore
+Do you think that Slackbot, when you show it to customers, kind of changes their perception perhaps about where you can go with your technology?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah
+## Kirk Materne | Analyst, Evercore
+Because I think there's a view of like
+## Parker Harris | Co-Founder and CTO, Salesforce
+If it's often a Teams shop where they're like.
+## Kirk Materne | Analyst, Evercore
+Yeah
+## Parker Harris | Co-Founder and CTO, Salesforce
+We don't need another chat tool. We're like, "Yeah, but can it do this?
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+They're like, "Oh, wow, it's tied to Salesforce. We have Salesforce channels in Slack where all the data's there and Tableau analytics, all my work, everything's there." It changes how they think. We have more work to do there.
+## Kirk Materne | Analyst, Evercore
+Yeah. Anything in particular you think you have more work to do?
+## Parker Harris | Co-Founder and CTO, Salesforce
+I think we have more work to do on both enabling with our teams of telling that story and coexistence with Microsoft Teams. In Slack, you can now join Teams meetings. You can MCP to the Teams data.
+## Kirk Materne | Analyst, Evercore
+Yep.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Slackbot could use that data if you're also working in Teams. Most customers I talk to, they're not working in Teams. They're using Teams for video, and they're using Teams for direct messaging, which is a little bit of work, but they're not really working together deeply on something. We have more work to do on getting some IP out there.
+## Kirk Materne | Analyst, Evercore
+Yeah. Just because I think it gets lost a little bit. I think Marc talked about Slack getting to $10 billion at some point in time. Has the monetization sort of thought process behind Slack changed at all because of this?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah. The monetization's still very much license-based.
+## Kirk Materne | Analyst, Evercore
+Okay.
+## Parker Harris | Co-Founder and CTO, Salesforce
+We move you up in the editions; you want more access to more of Slackbot; you move up in editions. That's the typical motion, really successful, and it's one of our best -executing business units. We also see opportunities for some additional usage-based pricing to come out, which we haven't gotten out yet, but we're talking about working on it. Everyone wants their Slack corpus of data. All our partners want access to the APIs. They're dying to build products with it. Now with agentic AI, the intelligence you can derive from all the unstructured data in Slack and the messages, the files, all the collaboration is a huge asset.
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+That's what you can see using Slackbot, but maybe you want to use some other tools. We can monetize that as well the access to all that.
+## Kirk Materne | Analyst, Evercore
+Pretty amazing. The amount of context from a business is in Slack for a lot of them.
+## Parker Harris | Co-Founder and CTO, Salesforce
+It's shocking. Yeah.
+## Kirk Materne | Analyst, Evercore
+I got one more unless anybody else has a question for Parker. All right. Kind of an open-ended one, sort of maybe a softball to some degree.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+If you guys win in agentic enterprise, right, what would you view as success over the next couple of years? Obviously, adoptionâyou mentioned it earlier. Is it Slack becoming, from a lot of your customers, becoming the operating system for them? I don't know KPIs to some degree that you're keeping an eye on to know that you're on the right track around agentic.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I'd like to see Slack become the interface for getting work done. For sure. I think we are well on our way to that. I think success is also that you can clearly see how the enterprise has changed with a combination of human workers and digital workers, and that's reflected in our solutions making that possible, but it's also reflected in our numbers, where you're seeing like, okay, that's amazing. This company is so much more productive. A third or half of the workforce is digital labor. Our investors can see. That value is now seen in this mix of license- and consumption-based revenue. I think we're still on the evolution to consumption-based revenue. You see it, we've had it. Marketing Cloud has had it for years. Agentforce is doing really well. Data Cloud's doing.
+## Kirk Materne | Analyst, Evercore
+Yep.
+## Parker Harris | Co-Founder and CTO, Salesforce
+I want to see that really clear in the market. It's not just our pricing and our revenue there, but what has it done to the customer base? Like, how does that show up ? Where, wow, your call center is half the size, and those people are now doing other higher -level jobs, and your customers are happy. By the way, it's also a revenue-generating center because everything's blending now. This was true before. Agents, they don't care if, oh, I'm a service agent, but I could also tell you like. I could upsell you on something. That's kind of the future I see.
+## Kirk Materne | Analyst, Evercore
+Agentic Work Units, something you keep an eye on?
+## Parker Harris | Co-Founder and CTO, Salesforce
+Agentic work, yeah, definitely.
+## Kirk Materne | Analyst, Evercore
+Yeah. Great.
+## Parker Harris | Co-Founder and CTO, Salesforce
+We really were trying to move away from tokens.
+## Kirk Materne | Analyst, Evercore
+Yeah.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Because tokens are not a great measurement of did something really got done.
+## Kirk Materne | Analyst, Evercore
+Not every token has value.
+## Parker Harris | Co-Founder and CTO, Salesforce
+It just tells you, this is how much we've paid model providers." Helps with their S1s. It's kind of like leaderboards for vibe coding, and are you token maxing?
+## Kirk Materne | Analyst, Evercore
+Right.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Who's using the most tokens to write code? If you read about that, people will say, "Well, that's a terrible metric because people are just going to try to use the most tokens, and it's not really a right metric for output." AWUs is definitely the right metric. We're trying to tie Slack to that metric as well because it drives a lot of agentic work units, from agentic work units to outcomes also.
+## Kirk Materne | Analyst, Evercore
+Great.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Yeah.
+## Kirk Materne | Analyst, Evercore
+Well, we're right at time. Parker, thanks very much for being with us.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Thank you.
+## Kirk Materne | Analyst, Evercore
+Really appreciate it. Thanks a lot.
+## Parker Harris | Co-Founder and CTO, Salesforce
+Thanks, everybody.
+Data Source: Quartr Last updated: Jun 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

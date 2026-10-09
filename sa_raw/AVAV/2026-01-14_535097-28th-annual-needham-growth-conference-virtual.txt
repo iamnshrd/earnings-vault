@@ -1,0 +1,317 @@
+TITLE: 28th Annual Needham Growth Conference Virtual
+DATE: 2026-01-14
+## Austin Bohlig | Senior Analyst, Needham
+All righty. Well, thank you, everyone, for joining us for our fourth installment this morning of our Drone Track Fireside Chats. My name's Austin Bohlig. I'm the Senior Analyst here at Needham that covers the Drone and Defense Tech space. And joining us is the CFO of AV, Kevin McDonnell.
+## Kevin McDonnell | CFO, AV
+McDonnell. McDonnell.
+## Austin Bohlig | Senior Analyst, Needham
+McDonnell. My apologies, and so just kind of as a brief start, would just love a brief introduction, and just could you highlight how AV strategy has evolved over the last 12 months following the completion of BlueHalo in 2025?
+## Kevin McDonnell | CFO, AV
+We built a different company a little bit, but the foundation, as most of you know, was the reconnaissance drone and the lethal drone business, the JUMP 20 and the Puma on the reconnaissance drone side, and then the Switchblade on the lethal drone side. So that was our core businesses, but obviously the whole defense tech landscape is growing, expanding. The U.S. has clearly made their priority or made clear priorities in a lot of the spaces that we're in. So the BlueHalo brought with us the counter-UAS capability, both RF defeat, and also the directed energy defeat with our LOCUST laser system. So, and then also coming is our Freedom Eagle, which is a lethal effect against a larger drone. So we now have a pretty strong position in the counter drone space.
+I would say the Titan 3 and 4 are the premier products in this space. You know, when there's a big event, the FBI or whoever the agency is that's controlling the security for those is gonna probably use a Titan product. Maybe through us directly or maybe through one of our resellers. But it also brought to us a space domain capability, which is kind of a couple big pieces. One is a ground station cap replacing the current ground stations, you know, that you see those big dishes to a different architecture to communicate with multiple satellites at once. That's our BADGER product with our SCAR program with the U.S. Space Force. And also, probably just as importantly, long-haul laser communications.
+We recently won a big contract with an unnamed customer, several hundred million to provide laser long-haul laser comms, which means 200,000 km or more. And kind of what makes that work and what makes laser counter-UAS work is the pointing and tracking capability that BlueHalo brought to us. You know, it's you know, having a laser, the hard part is getting it to line up, you know, either for communications or for when you're trying to hit a moving drone. They've kind of perfected that. And that's one of the secret sauces that BlueHalo brought to us. And so we now have strong positions not only in drones or UAS capabilities. We have the lethal effects in Switchblade and our Red Dragon products. And now we've added the counter-UAS, and now we have the space.
+So we have a great portfolio of products kind of hitting all the key, some of the key things, most of the key themes of the U.S., and those are our allies too.
+## Austin Bohlig | Senior Analyst, Needham
+Perfect. And obviously, defense tech is a very hot sector.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+Today. More competitors, more competition. But like AeroVironment's been doing this for the last 18, 20 years plus.
+## Kevin McDonnell | CFO, AV
+Right.
+## Austin Bohlig | Senior Analyst, Needham
+You guys have continued your revenue trajectory continue to go up and to the right.
+## Kevin McDonnell | CFO, AV
+Right.
+## Austin Bohlig | Senior Analyst, Needham
+So like what do you guys see as AV's like core competitive advantage today?
+## Kevin McDonnell | CFO, AV
+I mean, in some ways, and maybe people won't believe this, but we do have the first-mover advantage when it comes to drones. I mean, we basically invented the reconnaissance drone for the military probably 30 years ago. We came up with this little drone and the general walked in, said, "How many can you make? How fast?" 30 years ago for Middle East war. So we've been in this field for a long time. Not that it buys you much in technology, but it does buy you a lot of knowledge of the customer and the mission sets. And we invented the lethal drone. The Switchblade drone was again born in the Simi Valley, and we've been doing that a long time and a lot of capability.
+So I think that track record of working with the customer on these capabilities is important. Our ability to scale up, we've scaled up multiple times, more recently with the Pumas for Ukraine and also now Switchblades, scaled up quite a bit. So our ability to scale in these categories is important also. You know, I think those are the two primary advantages that we bring to the table.
+## Austin Bohlig | Senior Analyst, Needham
+And I would say, like, back half of last year and on recent earnings call, the Investor Day, you had the Halo software platform.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+It's becoming a huge differentiation.
+## Kevin McDonnell | CFO, AV
+Correct.
+## Austin Bohlig | Senior Analyst, Needham
+Could you maybe just talk on that and like the importance of that unified C2 platform that you guys are now bringing to the table?
+## Kevin McDonnell | CFO, AV
+That's a good one. I mean, kind of two aspects of that. And I didn't say this before, but our strategy today is to have mostly compliant or open systems so that you can, you know, plug and play different hardware. For instance, in our P550 product, you can plug in a new radio system, you know, in a matter of hours. A different vendor could do that. But then you kind of bring that to software too. So we also have our Halo, AV_ Halo kind of ecosystem with multiple parts that all can be interrelated and connect to multiple systems. And we don't have a closed software architecture. We're not saying we're the end all and be all. So we can connect to somebody else's command and control system in the theater or things like that.
+But we really have focused our software capabilities on the edge. And we recently won a contract with the Army to basically do their autonomy stack on the edge to have the software that the operator's gonna use to control multiple assets and to conduct autonomous solutions. So we're very excited about that.
+## Austin Bohlig | Senior Analyst, Needham
+Awesome. Awesome. So like, since probably the beginning of 2025, we've just seen a massive influx of programs, whether it's through the OMB fiscal 2026 budgets. It's over like $13 billion in unmanned programs.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+But if you look across the defense ecosystem, the recent government shutdown kind of slowed near-term contract activity in Q4 across the space.
+## Kevin McDonnell | CFO, AV
+Mm-hmm.
+## Austin Bohlig | Senior Analyst, Needham
+How has that environment changed in the last few weeks now that we're open? Is it like they're now kind of back to buying normal? And like how has that environment evolved?
+## Kevin McDonnell | CFO, AV
+We're still, I mean, what we're seeing, you know, and I don't know if this is everybody's experience, but the Big Beautiful Bill, the big dollars have kind of still holding tight and not really dispersing down into the different services or the programs that we're seeing. I mean, probably there's cases where they are, but for the most part, we're not seeing it flow down. We're expecting increased demand for all of our products as those money start to flow down, but we haven't seen that much of it yet. So.
+## Austin Bohlig | Senior Analyst, Needham
+Do you know what's kind of the hesitation?
+## Kevin McDonnell | CFO, AV
+I think what I hear, and again, there's probably a lot more knowledge in the room than I have, but, you know, that they're worried a little bit about a shutdown and they don't really wanna move forward until after that happens. So once we kind of get past, you know, this current cycle of are we gonna shut down or not, then they'll start letting that money flow down in the services.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. Well, and besides that, like it sounds like this current administration and the DoD is looking kind of to change its procurement. They wanna move quicker. They wanna buy more longer and maybe more cost-effective solutions. So like how is this new buying behavior from the DoD going to benefit AeroVironment?
+## Kevin McDonnell | CFO, AV
+We love it. I mean, we've had this model for the whole time. I mean, the Pumas and all of our UAS products, JUMP 20 have all been commercially developed on our own dime. As you know, we've traditionally pre-BlueHalo spent 10%-13% of our revenue on R&D and developed our own products, sold them to the U.S. government and to over 50 countries around the world. So, you know, Titan product, most of our products are commercial products except when you kind of get into the space area. So, we have embodied the model that the U.S. government wants where we are bringing products to market for the customer. Now they've asked us, you know, tweak this, tweak that along the way with the R&D and T&E dollars.
+For the most part, everything we've sold prior is commercial.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. Okay.
+## Kevin McDonnell | CFO, AV
+We hope it means faster cycles of procurement.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah.
+## Kevin McDonnell | CFO, AV
+So.
+## Austin Bohlig | Senior Analyst, Needham
+Like looking at your fiscal 2026 and on a pro forma basis, so with the combined year guiding to high teens type of year-over-year growth, and we believe the unmanned super cycle appears to be accelerating.
+## Kevin McDonnell | CFO, AV
+Yep.
+## Austin Bohlig | Senior Analyst, Needham
+This year. And so what are like the key drivers underpinning that outlook and like what would need to happen for AV to exceed those expectations?
+## Kevin McDonnell | CFO, AV
+Well, I mean, I don't think we're counting on everything hitting all cylinders. So if we see, you know, procurement cycle shorter, the money really starting to flow, that for sure will move it to the higher, to higher end. We think, well, it's a bigger move, but if the law changed on counter-UAS where local law enforcement can operate a Titan 4 and do jamming, that would be a seminal change for our business. And our international demand continues to grow despite countries, you know, wanting to do their own thing. We continue to see a lot of growth there. And I, we're not, we see huge long-term growth on the directed energy counter-UAS.
+## Austin Bohlig | Senior Analyst, Needham
+Mm-hmm.
+## Kevin McDonnell | CFO, AV
+Not so much in the short run, but if we could see some stronger growth on that in the short run, that would accelerate that number.
+## Austin Bohlig | Senior Analyst, Needham
+With regards to counter-UAS, FEMA just launched like $500 million of grants.
+## Kevin McDonnell | CFO, AV
+Mm-hmm.
+## Austin Bohlig | Senior Analyst, Needham
+To go to the World Cup cities for counter-UAS detection mitigation. Is that a market opportunity for you guys?
+## Kevin McDonnell | CFO, AV
+Yeah. We're already in most of those procurements already.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. Okay.
+## Kevin McDonnell | CFO, AV
+Either through us directly or through our resellers.
+## Austin Bohlig | Senior Analyst, Needham
+Channel partners. Okay. Another big type of kind of growth opportunity for you guys, which I think investors are curious about. So Golden Dome.
+## Kevin McDonnell | CFO, AV
+Right.
+## Austin Bohlig | Senior Analyst, Needham
+Golden Dome initiative continues to evolve with very large contract opportunity and expanding pools of competitors. Where is AV positioned, and could you just talk through some of your recent deployments related to this initiative?
+## Kevin McDonnell | CFO, AV
+Yeah. We're really excited about it. It's evolving nicely. I mean, we basically have been putting forth the idea that we have the products today to protect the inner layer, the infrastructure in the U.S. to protect our critical sites in the U.S., mostly with counter-UAS capabilities. So we've evolved a program and pitched a program where we have a package for each particular critical infrastructure site and pitched it and say, hey, we can do this today. You can show success in buying, you know, our Titan systems, our lethal effect or DE systems, the LOCUST systems and a lot of our software along with it. We can protect your critical infrastructure today. Let us do that.
+## Austin Bohlig | Senior Analyst, Needham
+And wasn't there a program like, like what are you guys doing in North Dakota? Wasn't there a press release?
+## Kevin McDonnell | CFO, AV
+Right. There's a test. We're testing test equipment up there to show the capabilities of this equipment. Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+So like then like a deployment like rollout, because I think what like investors are trying to figure out, like when does this really start going? Like do you guys have any sense of kind of like a timeline of like more broader deployments related to Golden Dome?
+## Kevin McDonnell | CFO, AV
+I mean, we're pushing to try to do something, show success in the next 12 months with at least a few sites.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. Okay.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+Okay, so now with just over like six months since the BlueHalo closed, like could you just walk us through some like financial synergies you have seen in both of terms like cost savings and like revenue acceleration?
+## Kevin McDonnell | CFO, AV
+You know, as you know, it wasn't a cost-driven deal.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah.
+## Kevin McDonnell | CFO, AV
+You know, you have two high-growth companies. You know, we're growing in many areas. You know, you have the typical executive synergies and insurance and duplicate costs like that. We really haven't pushed to push a lot of synergies through the organization because we're growing so fast. So we've increased the total headcount of the company during this time. But revenue-wise, Golden Dome would be an example of, you know, the combined company is in a much better position to capture something like that than either company on its own, you know, prior to the merger. So to me, that would be, that comes through. I would put that down as a revenue synergy.
+There's a lot of technology synergies happening in the background, but it's hard to say, you know, how those are gonna evolve and what, where the payoffs are really gonna be on those.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah. And I would say one thing, like looking at your guys' model, like, like it appears that like free cash flow generation has the potential to increase meaningfully at this larger scale.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+Like, could you walk us through like the key drivers of kind of the free cash flow and how that evolves over the next few years?
+## Kevin McDonnell | CFO, AV
+Yeah. I mean, I think, you know, our kind of the area that we're working on right now is improving our business model in the Switchblade business. That's been typically a bit of a cash drain. So our goal there is to restructure that so that it's more cash flow positive.
+## Austin Bohlig | Senior Analyst, Needham
+Okay.
+## Kevin McDonnell | CFO, AV
+That, to me, if I wanna focus on one thing, that's what I'm trying to focus on.
+## Austin Bohlig | Senior Analyst, Needham
+Okay, and then I think too, and you pointed this out as a key competitive advantage, and I do think like the military DoD wants to buy a ton of drones, a ton of this equipment, and they're going to lean on vendors who can do these higher volumes.
+## Kevin McDonnell | CFO, AV
+Right.
+## Austin Bohlig | Senior Analyst, Needham
+Could you guys just talk about, walk us through AV's current production capacity across key platforms and how you're planning to scale that capacity over the next 12-24 months?
+## Kevin McDonnell | CFO, AV
+Right, so you know, we've laid out our CapEx guidance that, you know.
+## Austin Bohlig | Senior Analyst, Needham
+Yep.
+## Kevin McDonnell | CFO, AV
+Low single digits, and, you know, we'll be within that. But within that, you know, we're investing about $150 million in growth capacity. That would be our new, in the next two years, FY 2026, FY 2027. That's capacity, you know, the new factory in Utah we've talked about, but it's across the board, being able to make more Titan systems, being able to make more JUMP 20 systems, being able to ramp up the P550, being able to make more LOCUST systems, you know. So we're making more BADGER systems. We're investing in all those areas to ramp up to higher capacities.
+## Austin Bohlig | Senior Analyst, Needham
+I think you guys have publicly said like specifically like with Switchblade, like what your guys' like production run rate is?
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+Like goal, like could you touch on that?
+## Kevin McDonnell | CFO, AV
+I mean, we've kind of roughly said today with our current, you know, factory, if maybe some of you have visited us in Simi Valley, it's about $500 million.
+## Austin Bohlig | Senior Analyst, Needham
+Okay.
+## Kevin McDonnell | CFO, AV
+Now we've had other buildings in the area, so we're leaking some lines over to those to meet even higher levels than that. But when we have the Utah facility online, let's just say the manufacturing space in the current Switchblade factory is probably 30,000 sq ft-40,000 sq ft. The new factory would be 100,000 sq ft. So it, you know, and all manufacturing space. So, you know, in terms of Switchblade, we feel like our capacity will be well close to $2 billion.
+## Austin Bohlig | Senior Analyst, Needham
+Is that the new facility in Utah?
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+Okay.
+## Kevin McDonnell | CFO, AV
+Yeah. Now think of the new facility in Utah as a facility that can do a lot of different things. If Switchblade demand is there, we'll probably make it all Switchblade. But if it doesn't ramp fast enough, maybe we need immediate need for more capacity to make JUMP 20s. It's not that hard to move some of the sub-assemblies around to, you know, we do it today. We make stuff because the JUMP 20 has ramped up so fast, we're making sub-assemblies in Southern California that we ship them up there for the product. So.
+## Austin Bohlig | Senior Analyst, Needham
+Gotcha. Well, and this whole defense cycle isn't just a U.S. thing. Like we're seeing this across the globe with NATO moving from 2%-5% of GDP. So how is AV positioned outside of the U.S.?
+## Kevin McDonnell | CFO, AV
+We've always had a strong footprint in Europe and the Middle East. So we continue to see strong demand for all of our products in those markets. I was remarking earlier today to one of the one-on-one sessions that, you know, the Puma has been a, is amazing. With all the money flowing into drone technology today, people around the globe are still turning to the Puma. If they need a reconnaissance drone that can fly for several hours, that is the best product in the market. With the billions of dollars the venture capital going after this market, we still dominate that category.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. And so, thinking about you guys' very strong balance sheet, still plenty of cash in it. So how should we think about future M&A and specifically like which area you guys may be looking at and how that plays into your broader capital allocation strategy?
+## Kevin McDonnell | CFO, AV
+Well, you know, we were always, you know, we've been acquisitive. We'll continue to probably be acquisitive. I mean, we're, you know, as we always say, mostly we look for things that are gonna tuck into our existing, help make our existing businesses stronger, either some type of vertical integration or engineering or manufacturing capacity or things like that. We typically aren't looking for whole new categories. I think we got enough of that with.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah.
+## Kevin McDonnell | CFO, AV
+With BlueHalo for the moment. But you know, we now have a broad portfolio of products. So that means there's a broad portfolio of companies that are potentially, you know, wanna be acquired. And so we're always looking at 'em. You know, it's hard to say what's gonna actually come to fruition.
+## Austin Bohlig | Senior Analyst, Needham
+Okay, and I think too, which is great, like you guys have just a long list of programs that you guys have won or on.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+What program are you most excited about? Like is it LRR, for example, or like, and it could be more than one. Like which program should these investors be paying attention to that like may not be fully baked in?
+## Kevin McDonnell | CFO, AV
+I hate to say that it's not fully baked in because it's.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah. Well, I get more like what's most like exciting to you?
+## Kevin McDonnell | CFO, AV
+It's weird. I mean, it's probably it's interesting. I mean, one of the more exciting is the success of the JUMP 20, which we acquired, you know, several years ago, did not get off to a great start. You know, we laid people off, but now it's the one of the darlings of growth of our company and is making huge tractions with the Navy, the Marines, you know, they're very involved in all these operations you hear about in the news. You know, they're you know, it is the Group 3 , you know, platform of the U.S. and its allies. Strong demand in Europe. Mm-hmm. You know, multiple countries there are now gonna be using the JUMP 20. Multiple services here.
+We're going through a cycle of doing, replacing a lot of the incumbents on the Navy ships and their mission. So, you know, keeps me up at night. I'm always asking, do we have enough capacity? Do we have enough capacity for that product? So it's just kind of exciting to see that mature. I love the P550.
+## Austin Bohlig | Senior Analyst, Needham
+Yep.
+## Kevin McDonnell | CFO, AV
+I'm super excited 'cause I'm excited because I think, and we haven't seen any evidence of this yet, but it's a great product because it is mostly compliant. So you could ship a base unit to some country and they could have local suppliers make other payloads for that system and have local content. So it's a way for the local, you know, all these countries wanna have local content to develop local content for the product by making a radio system or a lethal effect or a EW effect for the P550. So I'm kind of curious to see if that notion plays out, you know.
+## Austin Bohlig | Senior Analyst, Needham
+And to that though, because with the current administration wanting to bring all of this production back to the U.S. with regards to key defense components.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+Of systems. How has that like changed now how you guys are needing to do business? Is there key stuff that you now wanna bring back or?
+## Kevin McDonnell | CFO, AV
+We do not. We use very few components from outside the United States already.
+## Austin Bohlig | Senior Analyst, Needham
+Okay.
+## Kevin McDonnell | CFO, AV
+Particularly not from China.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah.
+## Kevin McDonnell | CFO, AV
+We can't buy from China. They banned us. So we couldn't even buy Dell laptops for a while because they were coming from China.
+## Austin Bohlig | Senior Analyst, Needham
+Oh, really?
+## Kevin McDonnell | CFO, AV
+And so they stopped the shipment of those. This is like a year and a half ago, you know. So, we're not buying anything from China. So.
+## Austin Bohlig | Senior Analyst, Needham
+Okay.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+Well, and I guess too, and like kind of like on opportunities, like, and I think it kind of flies under the radar. So like the maritime opportunity.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+A bunch of money going there. These autonomous boats and things are gonna be equipped with systems that you guys sell.
+## Kevin McDonnell | CFO, AV
+Correct.
+## Austin Bohlig | Senior Analyst, Needham
+So like how are you guys positioned in what I think's going to be a tidal wave of unmanned maritime spending?
+## Kevin McDonnell | CFO, AV
+Yeah. We for right now, you know, we have the Underwater.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah.
+## Kevin McDonnell | CFO, AV
+Group, the VideoRay acquisition, which seems to be doing well, is on a program of record, et cetera. We become the kind of platform or system of choice for, you know, computer vision for many of these unmanned boats. So we're very plugged into almost all the suppliers there. We, you know, that'd be an acquisition area, but like in some ways it's too nascent yet because a lot of the services haven't figured out what they really, really want. Do they want a lot of big boats, little boats? You know, how does this thing look? So it's been difficult for us to ferret out what is the real, who's gonna be the winner there or what's gonna be the winning formula, type of thing.
+But we're involved in a lot of these, with a lot of these vendors on their computer vision side of it.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah. So, like, computer vision, what specifically could you?
+## Kevin McDonnell | CFO, AV
+Finding targets.
+## Austin Bohlig | Senior Analyst, Needham
+Okay.
+## Kevin McDonnell | CFO, AV
+Finding things, you know.
+## Austin Bohlig | Senior Analyst, Needham
+So with the laser solution that you guys?
+## Kevin McDonnell | CFO, AV
+Not laser. It's more like, you know, we acquire, we have a computer vision group in D.C. that basically has the algorithms to identify, you know, military targets.
+## Austin Bohlig | Senior Analyst, Needham
+Okay.
+## Kevin McDonnell | CFO, AV
+So they, we, you know, we have the software and the hardware to, you know, sit there. That's what the Red Dragon uses is the computer vision software, or machine learning. They call it all different things, but basically to identify the target. So it knows like how does a tank look, you know, how does an enemy tank look, how does an armored vehicle look, and an occlusion would be other objects, but it has a library of these targets that it uses. So the U.S. points them to us to provide that for the boats.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. Okay. I'm gonna stop there. Would love to open it up for some Q& A. Otherwise I do have more questions.
+## Kevin McDonnell | CFO, AV
+Yeah.
+Can you talk a little bit more about Golden Dome? Because I believe that the size of the deposit's estimated around $25 billion.
+Yeah. We're.
+## Austin Bohlig | Senior Analyst, Needham
+Sorry Kevin, I'm just gonna talk. So the question is for the webcast, talking more about Golden Dome estimated around $25 billion worth of programs. So we'd just love to expand on that.
+## Kevin McDonnell | CFO, AV
+Yeah. I mean, there's kind of two ways for us to look at that. One way is we're, as I said earlier, we're kind of pitching the idea. We, we've got all the counter- UAS capabilities to protect your critical infrastructure. We could put a system in place tomorrow. That's not a $25 billion opportunity. Maybe it's a $500 million to a $1 billion a year type of thing, maybe over time for us. So it's not near that. But we also have our space, you know, division basically doing laser comms, ground stations, space hardware, which we all see potential increased demand. And probably a maybe even a lesser known part of our play is hypersonic testing.
+I think we've had some news releases in this area where we're now able to put like a hypersonic testing equipment on a Reaper because the traditional way to test our hypersonic missiles has been very expensive, tens of millions of dollars. With our solution, it's, you know, a fraction of that. So we expect more hypersonic testing, which could also lead to hypersonic just, you know, better detection of incoming using our technology.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. So, Kevin, I know it's not a product that you have in your portfolio, but it's just very topical, so we got this $1 billion drone dominance program. Like, is AV positioned in any way with that program?
+## Kevin McDonnell | CFO, AV
+I'm not clear exactly how they're gonna spend that money. Obviously, there's been a big push that they're gonna spend money on the smaller drones. I personally don't see the impact of that. I mean, our model or our mindset always is to try to put the warfighter as far away from the battle as possible. You know, these drones fly very short distances and, you know, a warfighter by their nature has to be much closer to the enemy, which has its use case, I will say. But, you know, what we're looking for is solutions that create, you know, standoff distance from the enemy.
+So the P550, the JUMP 20, all of our Switchblade products, our Red Dragon products, I was telling people today and the government should buy these is, you know, you could pull up with a truck of Red Dragons, launch a hundred of them in like 20 minutes, 30 minutes, and drive away and those go 400 km. So the enemy has no idea where they've come from and you're away. And the warfighter is not in harm's way. If you hear our people talk about this, exactly how they think, how are we gonna, what stuff we're gonna make to make it so that warfighter's not put in the harm's way. That's always been our mindset of unmanned systems. That's why you have unmanned systems.
+But, you know, so the idea that you're gonna need all these little drones that are really close to the enemy is kind of counter to that, counter to that idea.
+## Austin Bohlig | Senior Analyst, Needham
+I think too, and it's maybe not like it's a growth opportunity, but I'd say maybe this is more two to three, four years out, but space is an emerging market.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+I wanted to go back into like this long haul laser communication.
+## Kevin McDonnell | CFO, AV
+Yeah.
+## Austin Bohlig | Senior Analyst, Needham
+$100 million. Maybe dive in a little bit into that, and like what's like further opportunity with a contract like this?
+## Kevin McDonnell | CFO, AV
+We're, you know, working on multiple things in that area. This just happened to be the first, you know, visible one, but we really have one of the first companies in the world to really prove that you can do the long, long haul, you know, space communications with our pointing and tracking technology, as I talked about earlier. So we think it's a huge market. I mean, it's not gonna displace RF communication, but it'll be, it's one of the ways satellites are, you know, particularly if they're defense satellites or highly sensitive satellites are gonna be able to communicate with the ground. It's more secure basically. And then, but we focus on the long haul market. You know, there's no reason why we couldn't venture down into the LEO type of market, if there's a need there.
+We think there's a lot of ways we could go in expanding that business, not only with the current kind of focus on long haul, but also down lower to the earth.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. And then like thinking, and this should be not only in space, but across the whole portfolio, like new product introductions. You guys have the JUMP 20, the P550. You guys have a very strong new portfolio of products that are just starting to ramp. What's the company's cadence of introducing new products? Is it every year? Is it every two to three years you go through a refresh cycle?
+## Kevin McDonnell | CFO, AV
+I wish it could be as predictable as the iPhone, you know.
+## Austin Bohlig | Senior Analyst, Needham
+Yeah. Yeah. Well, that's what we're gonna get.
+## Kevin McDonnell | CFO, AV
+What's gonna get for Christmas? I'm gonna get a new iPhone for my spouse or something. But you know, I don't think it's that predictable, but you know, in the Switchblade business or the lethal munition business, I should say, you know, you got the Red Dragon. We introduced the Switchblade 400 for the LASSO program. We also have another version coming that's a little different than the 400. It's pretty close. That is modular. So you could put a lethal payload on it or a reconnaissance payload and things like that. So that we're kind of excited about that. It kind of has the same; it's mostly compliant. It's gonna have this kind of the same attributes of as a P550 in some ways. So those things are important.
+I think the software evolution, as we talked about earlier, is important there and, you know, really showing how we can help dominate the edge with autonomy and command and control. I mean, I think one of the strengths we did acquisition of Tomahawk a few years ago, they bring incredibly strong command and control. So we not only control our assets, we wanna control all the assets on the edge, you know.
+## Austin Bohlig | Senior Analyst, Needham
+Okay.
+## Kevin McDonnell | CFO, AV
+They have experience doing that. It's been one of the more difficult things for other vendors to foray into the edge is they can't control all those devices. They don't have the experience of doing that. I think we have a competitive advantage on the edge in terms of the software that we're bringing to the table.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. Okay. All right, so one program that I think, and you've quantified it on earnings calls as being $1 billion, just long range reconnaissance. Like, like, like, what's the application there and like timeline to really start? Because it was you and another company were down-selected as kind of the final for that program. How should we think about key milestones in that roadmap ramping?
+## Kevin McDonnell | CFO, AV
+We're hoping that some of this money is gonna accelerate that program. Usually they ramp up over time, you know. We're excited about that. You know, when we think about these things, we don't think like, okay, yeah, that's a U.S. billion dollar program, but we also think about how can we sell this globally. When we have a very strong customer base for our Puma and our Raven products around the globe, we wanna sell that same, either that capability or JUMP 20 capability into those markets. We don't think about just the U.S. program. We think about how can we take this product globally. I think the P550 will have a lot of good global demand.
+## Austin Bohlig | Senior Analyst, Needham
+Is there like, almost like a data play with this LRR? Because like you think about the other provider, Anduril.
+## Kevin McDonnell | CFO, AV
+Right. Right.
+## Austin Bohlig | Senior Analyst, Needham
+Where they do a lot of the communications with the satellites. Is that a similar use case application that you guys are looking like for like the low altitude?
+## Kevin McDonnell | CFO, AV
+We can do that too, but like we use more of that like on the JUMP 20 today, you know.
+## Austin Bohlig | Senior Analyst, Needham
+Okay. Okay. Any other questions? All right. Well, if there aren't any other questions, that's all we had for today. I appreciate you guys taking the time.
+## Kevin McDonnell | CFO, AV
+Great.
+Data Source: Quartr Last updated: Jan 14, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

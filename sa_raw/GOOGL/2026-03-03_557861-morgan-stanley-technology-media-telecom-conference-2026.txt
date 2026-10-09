@@ -1,0 +1,345 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-03
+## Moderator | 
+All right. Good afternoon, everyone. We're thrilled for our next fireside chat to have Anat Ashkenazi with us from Alphabet. Thank you so much for joining us.
+## Anat Ashkenazi | CFO, Alphabet
+Well, thank you for having us here today and for everyone who's joining today to listen to the Alphabet story and your interest.
+## Moderator | 
+It's always good to see you to catch up on everything going on at Alphabet and around the world. A lot has changed in a year, which we will get to in perception at least. First, the disclosures. Please note that all important disclosures, including personal holdings disclosures and Morgan Stanley disclosures, appear on the Morgan Stanley public website at www.morganstanley.com/researchdisclosures. They are also available at the registration desk .
+Some of the statements made today by Anat Ashkenazi may be considered forward-looking. These statements involve a number of risks and uncertainties that could cause actual results to differ materially. Please refer to Alphabet's Forms 10-K or 10-Q, including the risk factors discussed in any of these filings. Any forward-looking statements made today are based on assumptions as of today, and Alphabet undertakes no obligation to update them.
+With that, there's a lot going on with the company.
+## Anat Ashkenazi | CFO, Alphabet
+Mm-hmm.
+## Moderator | 
+Let's sort of take a step back. One year ago, we were sitting here. Alphabet was about a $2 trillion company. The discussions in the hallways and just in general on Wall Street were around search disruption, long-term positioning, versus new search entrants, how to think about the business's growth.
+Now, it's almost a $4 trillion company. It seems that investor sentiment has changed. From your perspective, what has changed internally at Alphabet with how you think about pace of productization, the long-term vision? Like, how do you think about what changed internally now versus one year ago?
+## Anat Ashkenazi | CFO, Alphabet
+Yeah. Great question and way to start. If you think about where we were one year ago versus where we are today or maybe where we were 10 years ago, the core strategy really hasn't changed. It's a company that is focused on user first-
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Consumer first, innovation-based, and then looking at being an AI-first company. That has been the strategy for many, many years. It started with the acquisition of GDM and Sundar making statements about an AI being an AI-first company. That strategy has really led us to where we are today. If the strategy hasn't changed, then is it the execution or is it the pace of strategy and how we're thinking about the business? Within that strategy, we have been talking about having the full stack approach-
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Which in our full stack, we call it technical infrastructure sometimes, in the company, which is the chips that we have, and we have our own TPUs. Right? We've launched our first TPU just over a decade ago in 2015. Now we're on generation 7. Access to GPUs from NVIDIA, as well as a set of data centers, which we mostly build ourselves, but we also lease data centers. Networking equipment that is, I believe, the largest, most comprehensive one in the world. That's our technical infrastructure.
+Then that combined with when I said we're an innovation-based company, world-class research capabilities, which you see through our GDM, our Google DeepMind efforts, our Frontier model, the research efforts that we have across the company, then coupled with the ability to distribute and access, consumers, enterprises,
+creators around the world with a set of products that we have. That kind of anchors our strategy. What we've done since deciding that we're an AI-first company is invested very strategically in building that AI infrastructure across the organization. Now it's really the foundation across the Alphabet business, whether it's in Search or in YouTube or platforms in subscription business or in Cloud, and certainly, Gemini, Google DeepMind, as well as with the Other Bets, whether it's Waymo or Isomorphic, Intrinsic, et cetera.
+It is really the foundation, the research foundation that sits across the company. What you've seen in the past year is the strategy delivering.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Delivering at a rapid pace of innovation. So we are now turning this flywheel, this innovation flywheel, very fast and delivering innovation to consumers, enterprises, creators much faster than we had in the past.
+But we had the privilege of working on this for years and creating these products. And when we deliver those to consumers, then we're able to see how those are used and where we can drive continued improvements so that we can deliver the next wave of innovation.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+That is what the underline of where we are today and what got us here and what will take us to, you know, the next decade and beyond.
+## Moderator | 
+Going forward. The flywheels are spinning faster, so is the investment. I have to ask you about... As a CFO, and you're doing math around ROIC. Last year, CapEx was around $90 billion. This year, the guidance is for around $180 billion of CapEx. What types of analyses are you and the team doing to sort of evaluate ROIC on that CapEx just to ensure that you're getting enough revenue in a reasonable amount of time to generate return for your investors?
+## Anat Ashkenazi | CFO, Alphabet
+As you can imagine, I spend quite a lot of time on this question.
+## Moderator | 
+Yeah.
+## Anat Ashkenazi | CFO, Alphabet
+On the CapEx investment in general, in terms of how much we need to invest, how much are we investing, and what are we seeing as a result of that. We have a highly rigorous framework that we use to make these decisions. The first decision is, how much do you need to invest? $91 or, you know, this year we said $175-$185.
+## Moderator | 
+Yep.
+## Anat Ashkenazi | CFO, Alphabet
+That question we don't take lightly. We start with aggregation of understanding the demand across the business, whether it's internal demand or external from customers, like the cloud customers. From there we build on what do we need from a compute perspective, how do we cost it, which yields the, you know, the numbers we've shared for this year.
+We drive significant efficiency even within that technical infrastructure because we have the benefit of owning that full stack for the most part. We have experts who focus just on that, making sure that our data center, we construct our data centers, we do it in the most efficient way that's tailored to our workload or to what the customers need. Our TPUs, consistently looking at efficiency of the TPUs, ensuring they deliver more and more compute.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+We do this across the board. When we get that demand, we then ask, "What is that gonna yield?" If I'm investing in compute for Search or compute for Cloud or at Waymo, what do I expect to get for that investment? I look at this on a continuum. Some are more near term and it's more certain, and some are maybe long-term, earlier innovation.
+If you think about some of the experiments, maybe Waymo 5, 10 years ago, now it's delivering obviously, but some of these experiments are early stages. Then underneath that, the foundational layer of Gemini and the frontier models that are supporting the entire company.
+We look at, for example, if we're investing X in cloud, and I think I've shared on the call that approximately half or just over half of our ML compute this year is gonna go to cloud.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+What are we expecting in terms of return? Is it external? What's the profitability numbers? There are financial metrics, there are operational metrics as well. We do this across the business to estimate what that looks like, and then we track it.
+We track it on a very frequent basis just to understand, have we invested enough in an area, or are we seeing more demand and we need to start reallocating or make different decisions? The team that looks at efficiency, can we get more and more out of every chip that we have in our data center? A lot of thought and effort and rigor goes into this, which shouldn't surprise anyone given.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+these amounts.
+## Moderator | 
+Yeah. The continuous nature of it, I'm sure must play a role. Anything you can tell us about what's, what surprised you over the course of last year as you sort of adjusted CapEx or areas of more signal or less signal?
+## Anat Ashkenazi | CFO, Alphabet
+Yeah. Last year we gave guidance that was lower than where we ended up. We ended up at $91 billion. We gave guidance that was around $70 billion.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+$75 billion. We ended the year with higher CapEx. There are a few drivers that can cause us to be either higher or lower than the amount. One is, construction of data center would be a great example. Last year I shared that approximately 60% of our technical infrastructure investment went towards chips and about 4
+0% to data centers and networking equipment. If we're able to accelerate construction, we may be able to pull in some of investment, and that's a good thing because we have such high demand for our products that the more we can bring in, the more revenue we can generate. You know, I've now said multiple quarters in a row that we exited the quarter with more demand for our cloud services than we had supply.
+## Moderator | 
+Right.
+## Anat Ashkenazi | CFO, Alphabet
+We certainly wanna invest to be able to support these, the customer demand. That would be one example of something coming in or, chips. As we acquire chips, we can get that earlier. This can also be the exact opposite, where you may see construction delays.
+## Moderator | 
+Yeah.
+## Anat Ashkenazi | CFO, Alphabet
+Something is delivered on a later schedule, so it comes in later. Those could just move the same amount over between years.
+## Moderator | 
+Right.
+## Anat Ashkenazi | CFO, Alphabet
+The other thing is we are seeing greater demand than what we had anticipated at the beginning of the year. We're trying to invest more. It is obviously challenging. There is a limit to what you can do in any year for that same year, just given the timeframe. Obviously, if you need to construct data centers, it's not an overnight type of thing, or order a component.
+Those are the things that can move it up and down, and we'll be monitoring it as for this year. I should say monitor, we are actively managing it for this year as well, and probably provide some updates on the quarterly calls on where we are.
+## Moderator | 
+Great. There's a lot of sources of that demand between Search and YouTube and Cloud I want to get into. First it's on the cost discipline side. So if we think about this CapEx, the amount of DNA that's gonna flow through, can you give us examples of still existing work streams you have in place to sort of manage the other costs, just to potentially put a higher floor on EPS given all the DNA coming through?
+## Anat Ashkenazi | CFO, Alphabet
+Let me start with just the approach. There's a philosophy that I have with regards to cost management. While people may refer to a work stream or an intervention or a project, I view this differently. You always have work stream and always have projects and efforts. It's a nonstop effort. It's not that we're getting to a place where we said, "Now we're the most efficient and we're not working any harder."
+I always say it's like an Olympic athlete. You never stop training, right? You always wanna beat your own record. It's the same thing within a company. You always look to do a little more and drive more efficiency in the organization. Some of these things are the traditional things of just running the business more efficiently.
+Some are scientific and kind of innovation, technical innovation. You know, the technical stack that I've just mentioned or our CapEx of $175 billion-$185 billion, which by the way is the majority of that is our technical infrastructure.
+There's some buildings and some Waymo, et cetera, but the vast majority is our technical infrastructure. Start with that. When you have such a large amount, is how can we ensure that every dollar we put behind a data center or component or we're putting a chip in is the most efficient.
+## Moderator | 
+Right.
+## Anat Ashkenazi | CFO, Alphabet
+It's not just the acquisition cost, but it's the utilization of the data centers and our technical infrastructure across the enterprise. It's an asset. When we have a data center with chips installed, it's an asset, so we wanna make sure we use that asset as much as we can.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Whether it's using something 24/7 or because within Alphabet, we use predominantly TPUs internally. Moving that capacity to where it's needed, that fungibility is incredibly important. We look at that as how do we drive efficiency, running a really good supply chain so that when you have the data center build-out, you have the chips to install them.
+We don't sit in a, you know, we don't have inventory sitting in a warehouse waiting for months for a data center to be complete and vice versa. You wanna try to match them as closely as possible. That's on the technical infrastructure side, and certainly model efficiencies help as well. Across the organization, you've seen some things we've done over the past 18, 24 months, reduction in management layer, just driving efficiency in how we run the business.
+We've introduced for the first time a voluntary exit program last year across the organization. We believe we have a tremendous opportunity ahead of us, and we want those that are excited about it, staying, and those that maybe wanna do something else, they can make some choices. We're also looking at using AI internally.
+While everyone I'm sure here is using some AI tools during your day, we encourage our own employees to leverage the AI tools we have, and in some cases, design AI tools for certain functional activities. We've shared on the call the percent of code that's generated by AI, and then our engineers validate or test it. We have it across the organization. I'll just give you an example from my small team of finance-
+## Moderator | 
+Yes.
+## Anat Ashkenazi | CFO, Alphabet
+where there are tremendous opportunities. We now have a treasury agent, and the treasury agent goes across our balances of the cash we have on hand to maximize the return on that investment.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Is yielding actual real financial results. We have the benefit of having a cloud business that allows us to co-develop these tools with cloud or leverage tools that our cloud business has. Having an AI-first organization as well is one of the areas that's gonna drive continued efficiency. You're right, with investments of $91 billion last year.
+## Moderator | 
+Right.
+## Anat Ashkenazi | CFO, Alphabet
+Just over $50 billion the year before, there's going to be significant depreciation that's going to run through the income statement.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+-coupled with additional cost of just energy.
+## Moderator | 
+Yep.
+## Anat Ashkenazi | CFO, Alphabet
+That's, you know, last year we had about $21 billion in depreciation. The year before it was about $15 billion. That's not a small number to offset.
+## Moderator | 
+Right.
+## Anat Ashkenazi | CFO, Alphabet
+We were able to hold in, you know, some extension in our operating margins. That's hard to do.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+That number is only gonna grow next year just given what we've done historically. We need to have these efforts in place on a regular basis so that we can have more money to reinvest in the business to, you know, turn this flywheel faster.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Some of it may flow to the bottom line, some of it may be reinvested in higher areas, or highest priority areas.
+## Moderator | 
+Well, the best way to trump the ramping DNA is faster revenue growth. Maybe let's talk about revenue a little bit.
+## Anat Ashkenazi | CFO, Alphabet
+Scale helps.
+## Moderator | 
+Scale does help, and so does accelerating growth. Let's talk about search. You've made a lot of changes to search over the last 12 to 24 months. You know, my team and I, we track all these AI Mode, overviews, multimodal search, Google Lens, agentic capabilities have now started to emerge throughout it.
+Is there any way you can help us, if you think about sort of one or two of the changes that you've made that really drove larger than expected benefits to engagement and monetization maybe than what you would've had a year and a half ago?
+## Anat Ashkenazi | CFO, Alphabet
+Yes. We always start with having an estimate of what this would look like.
+## Moderator | 
+Yep.
+## Anat Ashkenazi | CFO, Alphabet
+You hope to beat those expectations. One fun example would be Nano Banana that we launched within the Gemini app. If you are not familiar with this, our image-generating tool went viral.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Within, I want to say two weeks, we had 20 million new Gemini subscribers. I mean, it's quite impressive if you think about, you know, just 1 tool and what it does so quickly. This can happen with different launches. We were incredibly pleased with AI Overviews and AI Mode, as you said, have changed how people search.
+It's not just that you get an AI Overviews answer, which is great, obviously the summaries at the top, but people learn they can ask questions differently or ask questions they've never been able to ask before, never thought they'd be able to ask before. What we're seeing is we're seeing longer queries now in AI Mode and AI Overviews. People are now digging in, they're interacting more. It is driving growth in number of queries.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+as well as commercial queries. As you've said, different ways of searching. While we were used to typing something in, now you can actually point your phone or your, you know, camera at something and use Google Lens.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+It's a high-growth, kind of feature for us, and you see the younger users are using that more. It's a brilliant tool for when you look to shop for something because you immediately get, you know, you point at, "I want this flower," you point to it, and you immediately get the different websites that can offer it.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+We have invested in innovating what was core to Google's growth for several decades now. That's the, as I said, it's kind of our strategy is focus on the consumer innovation-based organization. You have to kind of out-innovate yourself, disrupt your own business model in the sense of we had a great search product which everyone loved.
+## Moderator | 
+Right.
+## Anat Ashkenazi | CFO, Alphabet
+Broadly used with billions of people around the world. We brought new innovation into that model with AI Overviews, AI Mode, Lens, different ways of searching. That's, you know, we always just be thinking about what is that next frontier? What's the next thing we're gonna be introducing?
+## Moderator | 
+Well, maybe that next frontier, it could be agentic. We've written quite a bit about agentic, sort of how to think about, you know, new types of search could change e-commerce, could change travel, could change a lot of these categories.
+Sundar talked about agentic. How do you think about the incremental utility for your search users, your user base, as you roll out new types of agentic capabilities? What are the biggest technological hurdles you have to clear to really scale quote-unquote agentic?
+## Anat Ashkenazi | CFO, Alphabet
+Yeah. Agentic commerce, I would say, still in early days.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+No doubt holds an interesting promise. If you think about how we interact with shopping today online, there are digital interactions, but they're fairly simple.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+What we're looking at is taking this to a much more to a level where you can conduct much more complex processes, all the way from searching through recommendations and then an actual purchase. One of the complexities is the fact that, you know, there are so many sellers and so many brands out there.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+You need a unified way to connect them to the agent. We've developed what we call UCP, this universal protocol that allows them to connect in a consistent way with this agent. We have a few customers on this.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+if youuu go into your web browser, and you type in, "I want a silk pillow," or whatever it is.
+## Moderator | 
+Yeah
+## Anat Ashkenazi | CFO, Alphabet
+it will show up the results, and you can actually there are a couple of them where you can immediately click on the there's a buy button, and you know, you put your credit card, et cetera. You can immediately purchase through that.
+Early days, but there's certainly, I think, interesting opportunities if you think about truly making this seamless for a consumer that goes online and wants to shop for something, and you get everything in one place.
+I have my own things that I really, really wanna see there. I already told our team this would be great for me personally. I'm not gonna share just yet. Maybe in the future. There are some cool opportunities there for users.
+## Moderator | 
+It's, you know, I've used a Gemini agent to search for items for me on repeat. You know, trying to find, you know, golf pants of certain size I can't find. It emails me and looks for every day. Is that the type of thing you're sort of, you're thinking about? Just sort of, you know, real-time search, real-time price comparison, like a, an actual interactive personalized shopper? Or is that not how you're thinking about it?
+## Anat Ashkenazi | CFO, Alphabet
+You can think about this kind of, when we talk about personalization, linking it to what you're looking for, it may be a.
+## Moderator | 
+Mm-hmm
+## Anat Ashkenazi | CFO, Alphabet
+... or it may be criteria that you've provided ahead of time so that you have that personal shopper shop for you. Again, early days, let's see what-
+## Moderator | 
+Yeah.
+## Anat Ashkenazi | CFO, Alphabet
+... we share here
+## Moderator | 
+get my stocks for TMT next year.
+## Anat Ashkenazi | CFO, Alphabet
+There you go.
+## Moderator | 
+... through some agent. You know, you have all these products. You have multiple different monetization nodes. I feel like the discussion around subscription is more pronounced now than a couple years ago, but it's also observable that you are shipping more Gemini-based products to the free users faster than you were.
+Philosophically, how are you sort of making the decision on what stays behind the subscription paywall to drive that revenue stream as opposed to driving broader scaled adoption to the free user base?
+## Anat Ashkenazi | CFO, Alphabet
+We have multiple tiers. We have a free tier, and then we have several paid tiers.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Each tier has slightly different offerings. As you get to the higher tiers, you just have access to more tools, and different users have different needs of what they need to do. Again, if you go back to the strategy just mentioned, if the user i s at the heart of our strategy, that means that we wanna make sure we have the best user experience out there.
+When you launch something that's free first, you get a lot of feedback, and you see how the consumer is using that product. Also offering different tiers to users who may wanna engage more, and maybe they want something for a business activity as opposed to just the personal use.
+We make sure that we have a variety of options, and that's something we've always done and will continue to always evaluate what's free versus what's paid and what are the different levels. We also wanna make sure that our tools are accessible to consumers, not just sitting here in this room, but across the globe. We would have different pricing, you know, in different countries to ensure that consumers in those countries can access our products as well.
+## Moderator | 
+Understood. One of the other big sources of demand for your compute has been Google Cloud. What a difference a year makes in this business. This is now a business growing almost 50%, a backlog of over $240 billion. Our model has Google Cloud getting to be almost 40% of EBIT in a few years. This is a big business.
+This is a much, you know, larger business than it was. Can you just unpack some of the drivers over the last 12 months that have really driven this revenue acceleration and this strong backlog that we were all wrong about and missing 1 year ago?
+## Anat Ashkenazi | CFO, Alphabet
+Google Cloud has had really record results throughout the last year, and as you said, exited Q4 at $17.7 billion in revenue. Annualizing now at a very, very large business already.
+## Moderator | 
+Yeah.
+## Anat Ashkenazi | CFO, Alphabet
+Growing at 48% with a significant backlog. What are the drivers of that growth? When I talked about AI, we're an AI-first company across the organization. That's true for Cloud as well. We have, if you think about Cloud, we have the GCP products, whether it's the AI infrastructure, where we have TPUs and GPUs or our AI services that we provide to customers, as well as our GCP, kind of our core products, such as security or data analytics, where people are Google Cloud is known for and people come for. Then we have Workspace.
+## Moderator | 
+Mm-hmm
+## Anat Ashkenazi | CFO, Alphabet
+... and some other smaller areas. Just our GCP area, which I think I've shared on the call, that growth rate was actually higher than 48%.
+## Moderator | 
+Right.
+## Anat Ashkenazi | CFO, Alphabet
+We're seeing AI drive the growth within Cloud. That's if you think about the vertical in terms of what drives that. Who are the customers? Because I always get that question. Is it one customer? Is it two customers within that backlog? Should we be worried? I always look at, are these new customers or existing customers and the scale, the size of these customers.
+What we're seeing, which I believe is very positive, is for existing customers expand their work with us. They're pleased with the results they're seeing. They're getting the same benefits when we talk about AI-first company, they're getting the benefits of being an AI-first company for that organization. They're expanding the work with us. The new customer coming in and wanting to get on Google Cloud or be getting access to our product services or infrastructure.
+That's very encouraging to see that. We see it across small AI labs, small companies, to some of the largest enterprises. Having that diversity within our customer base is encouraging. It's AI that's driving that growth. Google Cloud, as you've seen in the margins, as you've just mentioned.
+## Moderator | 
+Yeah
+## Anat Ashkenazi | CFO, Alphabet
+... has executed incredibly well in delivering margin expansion, exiting at 30% operating margin with this 48% top line growth is very impressive. They've been laser-focused. Thomas does an excellent job of making sure that we talked about efficiency not being a one-time or episodic thing, but rather a continuous way of how you think about the business.
+That's how he runs the business, is making sure that every dollar that's invested is the most efficient one. Win more customers. We're seeing this win rate, new customer win rate going up as well. That's exciting across the cloud organization.
+## Moderator | 
+Yeah, the type of growth and then the 55% incremental EBIT margins is really impressive. Is there anything other than scale or anything you'd call out on that type of profitability that we should be mindful of that just sort of question the durability of that?
+## Anat Ashkenazi | CFO, Alphabet
+Scale does help a lot, obviously the top line has significantly expanded. They are also faced with what you've mentioned earlier, which is the headwind associated with the depreciation, right? Because a lot of the depreciation would be, would sit in the Cloud segment, and they've worked really hard on every line item, as you can think about within the P&L, kind of the middle of the income statement, to ensure that it's done in the most efficient way. The same things we do across the organization, they're doing that in Cloud. Certainly, the top line expansion scale does help.
+## Moderator | 
+Got it. Talk about TPUs a little bit. There's a lot written, including by us, about the go-to-market strategy on TPUs, how to think about where it is, how to think about where it could go. There's something in the media last week about potentially setting up essentially TPU Neo clouds to sort of sell those TPUs to third parties. Maybe just philosophically, can you talk to us about sort of Alphabet's strategy on how it prefers to sell TPUs, whether it's tethered to GCP workloads or on a standalone basis?
+## Anat Ashkenazi | CFO, Alphabet
+Our TPUs, which I said we launched the first one in just over a decade ago, now in our seventh generation, we use it across the organization. Think about Gemini. Gemini was trained on TPUs.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+That's a benefit that we have because they're customized to our workload. As we think about the external customer base, we offer them both GPUs and TPUs, so they have the choice based on their, you know, specific needs or preferences. They can access those, the TPUs and GPUs. We, the customers lead from that perspective.
+If based on what the customer demand is, whether it's TPUs and how we engage on that transaction is what we'll decide how we're thinking about this, as well as, you know, going back to your, I think, second or third question about ROIC, how do we allocate that compute? Does it go to cloud? Does it go to internal purposes? Does it go to an external customer? All those get are part of that equation of making that decision.
+## Moderator | 
+Okay. Let's talk about YouTube a little bit. YouTube, you have, we think about 2 billion daily active users. Our numbers show it's about 80 minutes per user per day. You have a very big corpus of users and a lot of engagement. This is an ad business that for whatever reason we continue to get wrong. Like it continues to grow slower than we expect.
+It doesn't really seem like we're seeing as much GenAI uptick at YouTube as we are at other big scaled social media platforms. Is there anything different with the way YouTube's ad business is sort of being run than maybe other scaled engagement-based platforms?
+## Anat Ashkenazi | CFO, Alphabet
+YouTube is different. It's probably not compare it. It's not a social media platform, right? It has much more than that. As you think about YouTube has an ad component to it and a subscription component to it. We've shared on the last call the combined revenue profile and the fact that it has grown from the last time we've shared it. That combined revenue profile is just over $60 billion.
+## Moderator | 
+Yep.
+## Anat Ashkenazi | CFO, Alphabet
+When a consumer is on our platform, they can be an ad-supported consumer or they can be a subscription consumer. A subscription consumer, more profitable than an ad-supported one. We look holistically at that across ads and across subscription. Across ads, what you've seen in the last quarter, specifically the year-over-year growth rate was impacted by the lapping of the U.S. election, which impacts obviously YouTube.
+Not surprising. We had this a little bit in Q3, but mostly in Q4 of the previous year. We've seen growth across different verticals within YouTube. I would say think about this in that context, and AI is driving growth there for creators. If you know, we talked about search and how we as consumers use the search tool.
+Think about the tools we're now providing for creators. The video compare just the video on YouTube five years ago versus where we are today. The AI tools they have for creation.
+## Moderator | 
+Right
+## Anat Ashkenazi | CFO, Alphabet
+are, you know, far beyond where they were just a couple years ago. They have video we've just launched. I'm sure you've seen a music-
+## Moderator | 
+Yeah
+## Anat Ashkenazi | CFO, Alphabet
+... creation tool or within the Gemini app. We are giving them more tools that are allowing them to create differently. When they engage more, that means the user engages more with their content. We also look at recommendations within YouTube, just within YouTube and then what we can do there. There are several areas where you're seeing AI impact YouTube growth.
+## Moderator | 
+Got it. Yeah, speaking of the breadth of Alphabet, we've covered Search, we've covered Cloud, we've covered YouTube. Now we're talking about autonomous driving. You know, with Waymo, you've made a lot of progress over the last 12-24 months. We have you launching another 25 potential cities over the next two years. It seems like there's a very impressive ramp coming.
+What are some of the key hurdles or the investment areas that you really need to execute on Waymo just to sort of, like, hit a lot of these city launches that the company has been posting about?
+## Anat Ashkenazi | CFO, Alphabet
+Yeah. We have the Waymo Driver, and we call the vehicle is called the Waymo Driver. It's not an actual driver. Launch was in five cities last year.
+## Moderator | 
+Yep.
+## Anat Ashkenazi | CFO, Alphabet
+Already launched in five more this year, and then, as you said, more to come, including potential for international-
+## Moderator | 
+Mm-hmm. Wonderful.
+## Anat Ashkenazi | CFO, Alphabet
+... cities. When we make a decision to launch in a market, we look at safety first. The Waymo team has invested quite significantly ensuring that the Waymo Drivers are incredibly safe, and the safety track record are very impressive if you look at just the number of accidents versus a human driver.
+## Moderator | 
+Mm-hmm.
+## Anat Ashkenazi | CFO, Alphabet
+Orders of magnitude different. We look at safety. Well, we look at the specific market. Each market... For example, take the U.S. Every state has its own laws and, you know, regulations...
+## Moderator | 
+Right
+## Anat Ashkenazi | CFO, Alphabet
+... on what it would take to operate in that market. We need to make sure it's a market we can operate in from a set of policies and then map that market and be able to launch in that market. We do it with a safety-first mindset to make sure we can do this well and scale up rapidly.
+You're seeing the demand is so high for these Waymo Drivers that we're trying to launch in as many markets as possible, getting to these consumers across the U.S. and outside the U.S. It's one of our areas of investment. You know, if you look at the Other Bets, there are multiple things in there.
+While you see it as one category, kind of if you look below the waterline, we are making choices, and that's the strategy is about making choices.
+## Moderator | 
+Right
+## Anat Ashkenazi | CFO, Alphabet
+... of where do we direct investments within the Other Bets category? We have shifted more to Waymo to be able to scale and get to as many consumers as possible.
+## Moderator | 
+It's an interesting question because on Waymo, I guess, what is the philosophy about sort of if you need to be more asset heavy to fund more cars, to fund more stations in these last miles? Is that an area where you're interested in investing more dollars, or are you trying to stay more asset light and balanced on the forward Waymo investment?
+## Anat Ashkenazi | CFO, Alphabet
+You've seen us do both, and you're referring to partnerships, for example.
+## Moderator | 
+Yes.
+## Anat Ashkenazi | CFO, Alphabet
+Right, local partnerships with other providers. We'll do both. It would depend on the market and the specific opportunity. It's not that one has to dominate the other. It depends on where we are.
+## Moderator | 
+Okay. Maybe one to wrap on a big picture. You know, we've covered a lot about sort of how you're using GPUs and TPUs and GenAI. Maybe, you know, you have a lot of these discussions and questions with investors. What do you think is still the most underappreciated opportunity from all these AI-based investments for Alphabet, and what's the most overhyped opportunity?
+## Anat Ashkenazi | CFO, Alphabet
+I wouldn't say there's an underappreciated or overhyped, but rather. We talked about so many areas just in the last 30 minutes or so. Think about all the things we haven't talked about, right? Alphabet is now such a comprehensive business with AI driving multiple other areas. We've not talked about, for example, Isomorphic
+## Moderator | 
+Right
+## Anat Ashkenazi | CFO, Alphabet
+... and what AI can do for drug discovery and what we can bring in terms of curing diseases that currently are not curable. You're, you know, I come from this field, right?
+## Moderator | 
+Right.
+## Anat Ashkenazi | CFO, Alphabet
+I know this well, but being able to accelerate drug discovery is transformational, right, for human health across the globe. We haven't talked about Quantum.
+## Moderator | 
+Mm-hmm
+## Anat Ashkenazi | CFO, Alphabet
+which by the way, has potential. I mean, not today, but will have potential implications in a diverse set of areas when we hope to have good use cases within five years or so, and we're progressing very well there. We didn't talk about robotics and Intrinsic, right? There are so many areas within the Alphabet business where AI is propelling their potential growth.
+Now, that's where also comes the discipline of what do you invest in because you can't invest in everything. You have to make choices. There are some tremendous opportunities we have across the organization, and you're seeing the results, right? We talked about ROIC. I think a year and a half ago to years ago was a promise. Now it's you see it in the numbers.
+It's already delivering revenue growth across multiple parts of the business and will propel the future growth as well.
+## Moderator | 
+Great. Wow.
+## Anat Ashkenazi | CFO, Alphabet
+Exciting times.
+## Moderator | 
+Can't wait to see the growth in the ROIC ahead. Thank you so much for that.
+## Anat Ashkenazi | CFO, Alphabet
+Thank you.
+Data Source: Quartr Last updated: Mar 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

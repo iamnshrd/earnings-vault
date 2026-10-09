@@ -1,0 +1,7 @@
+Company: PepsiCo
+ROIC Symbol: PEP
+ROIC Name: PepsiCo, Inc.
+Year: 2007
+Quarter: 1
+Date: 2007-04-25 11:00:00
+Executives

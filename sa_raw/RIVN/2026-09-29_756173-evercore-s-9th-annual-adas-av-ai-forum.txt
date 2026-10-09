@@ -1,0 +1,226 @@
+TITLE: Evercore's 9th Annual ADAS, AV & AI Forum
+DATE: 2026-09-29
+## John Saager | Analyst, Evercore ISI
+All right. Hello everyone. I'm John Saager, a Director for Global Autos here at Evercore ISI. With me today is James Philbin, the SVP of Autonomy and AI for Rivian, and Chip Newcom, the VP of IR. James and Chip, I'll leave it to you guys to kick it off. Maybe give us an overview of Rivian and some of the key talking points you've been dealing with for investors.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. Well, first, thank you so much for hosting us today, and great to be here to be able to talk to investors. So, in terms of the key areas, I can talk a little bit, and then James, we'll pass it over to you on autonomy. But really what our investors are focused in on right now first is. Sorry, I'm getting some feedback. All about the ramp of the R2 right now. So that's our midsize SUV that we launched back in June. As you can imagine, this Q3 being the first quarter that we'll have really had a full quarter of production. Lots of questions that I have no doubt we'll talk about of, how is the ramp going from a production and a supply chain perspective, the targets that we laid out on the Q2 earnings call.
+Then of course, a lot of focus on autonomy and our path there.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah. The team's been laser-focused on getting point-to-point ready this year. So, we're very much on track there for initial rollout towards the end of this year. We've really been on this autonomy journey since the launch of Gen 2. Gen 2 was built around this idea of vertical integration and a very strong data loop so that we can collect customer data, customer sensor data together with the driving action. That's really what's allowed us to drive the autonomy development. We launched Universal Hands-Free last year, end of last year. That's the nation's largest scale hands-free system that you can get. With point-to-point, we really think this will be the next important step in our autonomy journey, yeah, as we iterate towards those kind of higher levels of autonomy in the stack.
+## John Saager | Analyst, Evercore ISI
+Maybe you could talk about the development of your AV stack over time and to date, and why you think multimodality is the correct approach.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah. We believe very strongly in multimodality. We think that even if you accept the premise that cameras could be comparable to a human-level perception, we think there's many cases where, actually, that's not enough, where humans also make mistakes. We think that the societal bar will almost certainly be better than human level for widespread autonomy. For those reasons, we think that, yeah, multimodality really helps in the field. It also helps us accelerate our progress. What we see is that when we have radars with cameras, it actually makes the system that much better. When we add LIDAR, it makes it better again.
+This is really a way to accelerate our progress, as we're building the scale with R2, as well as providing a set of sensors that really provides a safe and performant and robust capability to our customers.
+## John Saager | Analyst, Evercore ISI
+How has that developed over time?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah. We started, let's see, three years ago, where we brought the full autonomy stack in-house. Everything from the lowest level camera drivers and ISPs, all the way to the perception models running on the vehicle. Gen 1 had a Mobileye system. With Gen 2, when we launched that, we pulled that system out and replaced it. Then, as we've been gathering that data, developing our perception models, we've been steadily improving things. First of all, with our Highway Assist feature, then Universal Hands-Free, and now the big focus is on point-to-point.
+## John Saager | Analyst, Evercore ISI
+What are some of the technical hurdles that are still remaining for you guys as you look to roll out point-to-point by the end of the year?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah. Autonomy is really about kind of the edge cases. A big focus for us has been not how can we get more boring highway miles, which are not very informative for the model. The sort of gradient you get back when you train with that data is very minimal. But how we can find more interesting cases, which are really sort of driving, kind of different behaviors from the model. The gradient is large. As part of that, we developed this grids system where we can, actually using VLMs, modern AI techniques, we can scale up the collection of edge cases. We currently have a 3,000-query set of very long-tail edge cases that are constantly querying against the customer fleet, and then we're using that to train the model.
+I think that's a big part of the development process, is actually getting those edge cases, getting new things that the model hasn't seen before, so that it can refine its driving behavior.
+## John Saager | Analyst, Evercore ISI
+You had mentioned point-to-point by the end of the year. Where does the autonomy program go from there? What are the next steps and ODDs that you are looking to unlock?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yes. We will begin the rollout of point-to-point at the end of the year to probably our early adopter customers, and then we will continue that rollout into next year, with the aim of having it rolled out to the full Autonomy+ customer fleet a little later next year. As obviously we are rolling that out, we are continually developing and improving the system. We will get improved disengagement rates, more scenarios with better handling. There are also some features we probably will have out of ODD for the first version that we will aim to add in, for example, parking lots. A big focus then is on the Uber Robotaxi partnership, where we are then iterating on that system, getting it to a fully driverless level of performance. That is both on the model side, but also on the validation side.
+Increasingly leaning into simulation, large-scale simulation, to measure and improve the system.
+## John Saager | Analyst, Evercore ISI
+The Uber Robotaxi deployment, will that be domain defined in certain specific roads and areas, or will that be something that you can use sort of everywhere?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+The system is really like a single stack. We will be training the model to handle everywhere. Now, it may have fine-tuning data that is specific to particular cities or ODDs. We have actually started building that through expert fleet deployments in our first three cities, San Francisco, Chicago, and Miami. We actually have an expert fleet driving around here right now. All of that data will be fed into the model to really help get that expert, that Rivian driver policy dialed in, especially for point-to-point urban driving, dense driving.
+## John Saager | Analyst, Evercore ISI
+Will the first point-to-point release be Gen 2 hardware only, or does it require Gen 3?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+No, it will be the whole R1 Gen 2 and R2, phase II and phase III fleets. Yeah.
+## John Saager | Analyst, Evercore ISI
+Okay. Where drivers hands-free, eyes off, where drivers do not really need to be actively involved is sort of a major milestone in the industry.
+What is the largest gating factor for you guys to get there? Is it validated miles, regulatory liability sign-off, or is there some sort of technical hurdle that we haven't?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah, there is probably three pieces to it. One is just raw model performance, as we are improving the model performance, especially in the long tail. That will help. There is then the validation piece, like how you can actually measure that model performance. You really do not want to do that by having to drive every release. You want to do it offline, in the cloud. Then the third piece, yes, is regulatory. Currently, it is a complete patchwork in the U.S., so a lot of states view eyes off essentially in the same bucket as L4. That means that there are some states you can ship that system. Others, there is a pathway, but you have to go through a certain regulatory process. In other states, like New York, currently, there is no pathway. So it is a patchwork.
+## John Saager | Analyst, Evercore ISI
+Yeah. So you have got to sort of navigate that.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yes.
+## John Saager | Analyst, Evercore ISI
+Playing hopscotch.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah, definitely.
+## John Saager | Analyst, Evercore ISI
+Paid Autonomy+ is the $2,500 upfront or $50 a month, launched in April. You guys have talked about that being encouraging take rates to date. Can you frame the attach rate on new deliveries versus the installed base? Is there a gap or a difference there? Then the sort of upfront versus the subscription mix?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+We haven't quantified that as of yet. For everyone who's buying an R2 right now, as part of the Launch Edition Package, they are getting Autonomy+ as part of their purchase. We'll see then, as we shift beyond the Launch Edition Package, what that take rate looks like for the R2. But as you pointed out, for the R1, it's been better than we expected.
+## John Saager | Analyst, Evercore ISI
+Yeah. Can you just frame out how much Autonomy+ contributes to your software revenues?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+It is still relatively small, just given the size of the car park and the monthly price or the full price if someone is purchasing it upfront.
+## John Saager | Analyst, Evercore ISI
+Okay. RAP1 development is on track and in the final testing phases of the production. Silicon, what is the BOM delta of the Dual-RAP1 plus all the sensor suite, the 11 cameras and radars? Is that cost carried in the R2 margin, or is that offset by Autonomy+ pricing?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+From a revenue recognition perspective, it is going to be recognized within autos and auto COGS. There will be a cost around putting LIDAR into the vehicle. Now, the cost of LIDARs has come down significantly. You are talking on the order of a few hundred dollars, versus if you went back several years ago, where it was thousands or even tens of thousands of dollars within the vehicle. That will be buried within the cost of the vehicle. Similarly, as we launch our Gen 3 computer in the vehicle, we actually see a benefit in the sense that we are no longer paying away that margin to our silicon provider. It will be our own in-house silicon.
+## John Saager | Analyst, Evercore ISI
+From an autonomy perspective, how do you think about your position relative to the competition? Most specifically Tesla, but also Waymo and all the other players that have spoken at the conference today. Where do you think you fit, and how do you think you either catch up or surpass some of those other players?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yes, I think, A, we're vertically integrated, so I think we're both building the vehicle and the autonomy stack. I think we have the benefit that we have a very large shipped car park already collecting data. That means that we get huge diversity already from our customer fleet vehicles. I think in comparison, a Level 4 company like Waymo, they actually have to go city by city to really get that data and do their validation. We get the sort of benefit of being able to train the model from the get-go with all of that data. I think the second is that we are really leaned into this end-to-end approach. We think that is the right way to build autonomy systems longer term. It's amazing when you see the capabilities that kind of emerge from that system. I can give you an example. Narrow negotiations.
+You're on a narrow road, two cars coming, and someone needs to pull out. I actually worked on these systems at Level 4 companies in the past. Very, very complicated set of heuristics and other things that you have to put in place to get that to work. This model kind of, it just falls out of the model. There's nothing extra needed. I think when you see things like that, you realize, okay, this really is the right way to build this system, the right scalable approach. But in comparison to, say, Tesla, we really believe in multimodality. Don't think there's really a tension between training end to end and using multimodal sensing. The model sees every sensor essentially the same way. It's a bag of numbers, and it encodes them using its own encoders.
+It's able to figure out those cross-correlations and how to best benefit the output using its inputs.
+## John Saager | Analyst, Evercore ISI
+Right. You mentioned the large and growing fleet bringing in data today. How do you filter through what data is useful and what data is not? You mentioned the 3,000 parameters that you're looking at. Is that the filter process for you to collect all of the data? Like, I drive Rivian, I come home. When does that data get downloaded, and how does that work, and how does that play into your advantage?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah. There's a whole trigger system. Initially when we launched, the triggers were relatively simplistic. It would simply be on things like gear changes or indicators. We now have a much more sophisticated trigger system that actually has machine learning in the loop as well. We've found events that are interesting, actually train a model to trigger on those, and then have shipped that model to customer vehicles. In terms of how the uploads happen, we have a tiering method. Some triggers are considered critical. They'll actually go up via LTE. Other triggers are less critical. They'll go up via Wi-Fi and then LTE only if we have to. We can also push triggers dynamically. You can sit at your desk, say write a new trigger, push it, and then you immediately start getting that data back.
+It doesn't have to wait for the OTA cycle to get the new triggers to the fleet.
+## John Saager | Analyst, Evercore ISI
+How do you think about that sort of real-world data relative to the simulation data and the simulation process? What is the efficacy of one versus the other? I would imagine it's a spectrum that everybody's operating across, where you're either more sim-heavy or you're more real-world heavy. You guys are falling more and more on the real-world heavy side, or how should I think about that?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah, for me, there's no real replacement for real-world data. I think simulation can augment, but the real world always has the most interesting edge cases you can't really come up with.
+## John Saager | Analyst, Evercore ISI
+Can imagine.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+You can't really imagine them, and it often isn't the one thing. It's actually a combination of multiple long-tail events that all sort of congregate into a single scenario. Those things are very difficult to even think up and actually quite difficult to simulate as well. For us, the real-world data is the foundation. We do have abilities to resimulate those real scenarios. That's something we believe in. For us, we have a huge data hose, essentially, of data, and that's what we think is the right way to do these validations.
+## John Saager | Analyst, Evercore ISI
+Kind of the primary driver there.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah, primary driver.
+## John Saager | Analyst, Evercore ISI
+Yeah. You've said RAP1 can easily be extended to solve other physical AI problems, such as robotics. We've recently written a report talking about how we feel the automotive industry, specifically in the U.S., is behind in terms of using their capabilities in the automotive space to enter into other spaces where they have similar applications. Can you talk about that opportunity for Rivian more broadly to focus on other end applications? Is that something that you take seriously now, or is something that you see happening down the line? We've seen, I think there's more than 15 Chinese OEMs. There's Hyundai, there's a couple of the European OEMs, have all made an entry in some form or fashion into the sort of the embodied AI space, to leverage the capabilities that they already have from automotive.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah, I think in Rivian's case, part of what we did is set up Mind Robotics, where as RJ was looking at the current robotic solutions, very specifically around manufacturing, and the use case there for what we're thinking about, that was part of the genesis then of thinking, how can we have extensibility into developing robotic solutions for manufacturing? Now, it's not like a general purpose thing that we're trying to create. It's really focused on that specific area. But to a certain extent, we'd have to defer to the Mind team on where they're looking to head at this point. But part of the partnership with them there is going to be around the fact that we have an in-place manufacturing line and them being able to use that data as they think about developing their own solutions.
+## John Saager | Analyst, Evercore ISI
+Yeah, you can sort of deploy it in your own factories, and then get the data flywheel going, very similar to the autonomous approach.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Exactly.
+## John Saager | Analyst, Evercore ISI
+What do you expect initial production capacity to look like, and how do you prioritize RAP1 for Rivian before entertaining outside supply contracts?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Well, right now, the priority for RAP1 is going to be going into the R2. For employees, the plan is to start rolling out RAP1 , so our third-generation computer plus the LIDAR to go into the vehicle later this year for employees and then start rolling that out to customers next year.
+## John Saager | Analyst, Evercore ISI
+Okay. Uber had invested, I think it was up to $1.25 billion through 2031 with $300 million at signing and then a sort of a milestone-based, where you have $250 million targeted by the end of this year. What specifically triggers the $250 million? Is the 10,000 autonomous R2 purchase commitment a firm order commitment, or is it contingent on some specific autonomy metrics?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Well, we haven't given specific details in terms of what's going to unlock each of the funding milestones. The way you can think about it is going to be around achieving certain technical milestones out of James's team on our march towards getting to an L4-capable Robotaxi and then the expansion of that service, where we said the goal is by 2031 to have rolled out the service into 25 markets, including at least one in Europe. That's what would unlock each of those triggers. But our expectation remains that we'll be able to unlock the second trigger for the $250 million investment here in the fourth quarter. In terms of the actual purchase of the initial 10,000 vehicles from Uber, clearly, we need to have gotten to an L4-capable service before they would want to purchase those vehicles, so would need to make progress there.
+## John Saager | Analyst, Evercore ISI
+Right. You haven't given any sense of timing on that publicly.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+We've said that the goal is to have the service available by late 2028.
+## John Saager | Analyst, Evercore ISI
+Once those purchases have been made, those vehicles have been delivered, who owns and operates the fleet in 2028?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Uber or their fleet partners would be the consumer purchasing the vehicles. From a revenue perspective, we would then recognize the sale of those vehicles to Uber or their fleet partners. But then an important part is that we're going to get a software licensing fee associated with the fact that it will be Rivian's driver out driving every single day. Think of that as being tied to the utilization of the vehicle.
+## John Saager | Analyst, Evercore ISI
+It's a sort of a dollars per mile.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah, we haven't given specific, but think of it around utilization as it's driving around in the mileage.
+## John Saager | Analyst, Evercore ISI
+Okay. You also have personal L4 targeted for 2028. Which comes first?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+We likely think the Robotaxi comes first, just because it will have more operational constraints on it. The bulk of the work towards personal L4 will be the same work that goes into Robotaxi. One would be relatively close in time to the other.
+## John Saager | Analyst, Evercore ISI
+Yeah.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+We do think that the North Star is really personal L4. As big as we think Robotaxi will be, we think personal vehicle ownership will actually not go away, and the vast majority of autonomous miles will be on your personally owned vehicle longer term. I'm personally very excited about the vehicle that can drive me, say, to Tahoe overnight or go pick up my kids and I think that's what a lot of people would want.
+## John Saager | Analyst, Evercore ISI
+Does the Uber platform Robotaxi deployment constrain your ability to monetize that personal level 4?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+No.
+## John Saager | Analyst, Evercore ISI
+At all? No, it's kind of all additive.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah
+## John Saager | Analyst, Evercore ISI
+Into one.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. That's actually part of the benefit of the Uber partnership is by getting the $1.25 billion of capital, assuming we hit each of the milestones, that then enables us to accelerate the investment in R&D spend for James' team.
+## John Saager | Analyst, Evercore ISI
+In the R2 ramp, moving on to discuss that a little bit, what are some of the key focus areas that you guys have been looking at internally, from a supply chain management perspective, that you're most focused on?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah, RJ has talked about this a little bit on the conference circuit, but I'd say first and foremost, it's really around ramping the supply chain and seeing that supply chain mature where, as we think about it really is a symphony of needing to bring not only all of your Tier 1s up, but then the Tier 2s, Tier 3s, and even potentially below that. Because of course, at any given point in that chain, if there's any sort of a challenge, then that's going to be able to limit your production. We've been very intentional from a ramp perspective of taking a crawl, walk, run approach, going through our first design validation builds, then our manufacturing validation builds, then having the first shift up and running.
+We're now hiring and ready to have the second shift get up and running as well as we head into the fourth quarter. That's all milestones as we look to eventually ramp to get up to what we think will be our North Star of 4,000 units a week within the plant in Normal, which would get us up to roughly full utilization of the plant. But it's going to take time to go through that ramp process.
+## John Saager | Analyst, Evercore ISI
+Right. Are there any specific areas, though, where you're particularly focused or particularly concerned, or RJ's particularly concerned that he's talked about?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Not any specific area. As you would expect with a supply chain ramp, any given week there can be one specific supplier focused on, and then the next week it could change in terms of who you're focused in on, because it's really the supply chain right now that is constraining production within the plant, which RJ has talked about. It's continuing to work through that maturation of the supply chain.
+## John Saager | Analyst, Evercore ISI
+Yeah. Can you talk a little bit about the BOM, going from R1 to R2, and where are the biggest areas of cost savings that you're planning to see?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. We talked about this on the Q2 earnings call, but our expectation is that the bill of materials for the R2 is going to be about half of the bill of materials for the R1, and non-BOM costs will be even lower than that in terms of a decrease. Now, some of that is making very intentional decisions on specific elements within the vehicle. Thinking about, for example, the suspension, where shifting from a fully active air suspension to a more traditional semi-active MacPherson strut configuration, that's a 70% decrease in the cost of the suspension. There's other elements of decisions where we made very intentional decisions to drive down that cost of the vehicle overall. It's across multiple different vectors of the design within the vehicle.
+## John Saager | Analyst, Evercore ISI
+Right. Then you've got the scale benefits that come obviously from your own cost side of things, but also from your supplier side of things. Can you talk a little bit about how your relationship with the Tier 1s and Tier 2s has changed as you guys have increased your ambitions in terms of from a volume perspective?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. It is really a virtuous flywheel where as we get more and more scale, you then have an ability to go back to your suppliers to push them more to get even more favorable pricing. Relative to back in 2020, 2021, as we were going through the process of sourcing for R1S, R1T, and EDV, at that point, we were, relatively speaking, an unknown operator looking to go out and ramp an entirely new vehicle program or three entirely new vehicle programs.
+We had to go, in many cases, hat in hand to suppliers saying, "Hey, please work with us. Oh , by the way, there is a pandemic going on." That was a very challenging operating environment relative to where we are sitting now with the R2, where as we were going through the sourcing process, working to get all of the components for the R2, we are now very much so a known entity within the supply chain and being able to have very fruitful conversations to be thinking about how do we drive down cost to get to the price point we want to get to for the R2.
+I think it is part of the benefit of the maturation of the business is that now, as we scale up R2, being able to source appropriately for that, and then of course, with our plant in Georgia, looking to add even more scale so that as the business continues to grow, it just gives you more and more leverage as you talk to your suppliers.
+## John Saager | Analyst, Evercore ISI
+Yeah. One of the things that has happened since you had the sort of idea and planning for the R2 is the industry has largely pulled back from BEVs. How do you think that impacts, A, demand, and then, B, your supply and the cost that you have to pay for that supply? Because the battery industry is largely over-capacitized globally, specifically here in the U.S. So how has that impacted the BOM? Obviously, it seems like it is probably a tailwind, and then also from a demand perspective, I think it is kind of two sides of the same coin. You could argue that people are less open to battery electric vehicles. I think some of our investors have questions about demand because of that. You could also argue there is much less competition than you were probably previously expecting.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. Well, I think we would both argue that from an electric vehicle adoption perspective, we are now to the point where we are back to a more stabilized area, and we are going to see growth from there. I think part of it is, and look, I own all electric vehicles. James, I think you own all electric vehicles as well.
+## John Saager | Analyst, Evercore ISI
+Yeah.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+At least from my personal perspective, I am never going to go back to owning anything other than an EV. From a performance perspective, from a total cost of ownership perspective, let alone looking at the price of gasoline now, it is just a better product. I think from our perspective, part of what has been inhibiting the adoption of electric vehicles is bringing really high-quality choice to market.
+You have heard RJ talk about this, where we think one of the key drivers is going to be bringing more choice, because from a form factor perspective, a lot of vehicles that have come out in the EV space have all looked relatively similar versus when we bring the R2 to market, it has a totally different look, a totally different feel, where it is an EV that is designed not just for being a good daily driver, but if you want to drive up to Tahoe and you want to go off-roading or thinking about more of a traditional two-box shape for what your vehicle looks like. I would say the biggest driver of more EV adoption for the industry writ large, one is bringing more high-quality choice, and we think we are going to do that with the R2.
+Now, in terms of thinking about supply chain, clearly there's a lot of puts and takes in the market right now. Certainly, we are seeing, and we talked about this on the Q2 call, we're seeing increasing commodity costs. We're seeing things like DRAM becoming an increased cost as well. That can offset other places where you might be seeing some benefits.
+## John Saager | Analyst, Evercore ISI
+But the cost of actual battery cells, has that come down versus what you were previously expecting?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Well-
+## John Saager | Analyst, Evercore ISI
+Or has that stayed?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+-Lithium prices are, of course,-
+## John Saager | Analyst, Evercore ISI
+Yeah
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+-going up, too. Now, we do hedge lithium, so we try to manage that price accordingly. But the raw inputs for batteries are also going up, too.
+## John Saager | Analyst, Evercore ISI
+Yeah. I do not know if anybody in the audience has any questions that they would like to ask. We can pause for a second. Yeah, just one upfront.
+## Speaker 4 | 
+I have a question on the EDV. Is there an opportunity for that to become autonomous at any point in time? In addition, are the extended range and all-wheel drive variants on track? Maybe when might we expect to see those roll out then as well?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Want to take the first one?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah. In terms of the stack, it is a general stack. We can move sensors around, we can change the vehicle configuration. We can support new vehicle types and different sets of modalities as well. The way we would do that is, first of all, through the calibrations and then collecting a certain amount of expert driving data on that platform that we can then use to fine-tune the model. I think it's definitely, we've built the stack to be flexible in that way and also to have the flexibility on the compute side so that we can support, for example, Autonomy Compute Module, our second-generation compute and the third-generation compute.
+Now, in terms of EDV specifically, we do support active safety features on the current generation van, and we're always open to. We're actively investigating supporting future versions of the van that could have more capability in terms of autonomy.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. In terms of the partnership with Amazon and rolling out the new variants, continuing to progress well and continuing to see good momentum with the partnership there.
+## John Saager | Analyst, Evercore ISI
+On the. Oh, go ahead. Yeah, one more in the back.
+## Speaker 5 | 
+You mentioned developing your own silicon in-house for future vehicles. Is that done entirely independently, or is that in partnership with some fabless semiconductor providers or other licensing players?
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah. I may not be the person. I'm not the hardware person, but certainly all the TPU-like pieces of that chip are all built in-house, and we own the IP on that. Then some of the other IP that's on the chip, we partner with others to provide. So that's the way we've developed that. Yeah.
+## John Saager | Analyst, Evercore ISI
+All right. I think I'll hop back in. I think one of the biggest opportunities for Rivian to kind of surprise people and outperform is to do another deal that's very similar to Volkswagen. Can you discuss any of the color that you guys have been having in terms of an increasing penetration or other contracts or other OEM wins along those veins?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. Well, certainly nothing we've announced to date-
+## John Saager | Analyst, Evercore ISI
+Yeah
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+-and clearly cannot announce anything here. But I think as we think about the future end state of the industry, which we very much so believe is going to be electric, software and AI-defined, and autonomous. For a lot of traditional OEMs, at some point, they are going to need to figure out how to shift to a more software-defined vehicle, and that means, at a very base level, having a zonal electrical architecture and then the ability to have software that you can update over the air to improve the vehicle over time. I think the biggest proof point right now is around executing first and foremost with Volkswagen. They have said that they expect to roll out their first vehicle with our joint zonal electrical architecture and software next year with the ID.1.
+Our focus then is if we execute with them, that is the best signpost as we think about potentially working with other OEMs over the medium to longer term. Then James, on the autonomy side, I will defer it over to you.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Yeah. The autonomy is separate from the JV with Volkswagen, and we did that very intentionally, just because we had confidence in our own abilities to develop a really good system and then potentially monetize that later. I think we are very open to working with other OEMs, and I think as Chip mentions, every OEM is going to have to figure this out because I think the consumer bar or the expectation level of what types of autonomy available on the vehicles is going up and up, actually pretty rapidly, I would say. I think we will be in an amazing position when we ship and demonstrate point to point in our customer vehicles that we have a technology that is really valuable and that other OEMs will need to have some version of.
+## John Saager | Analyst, Evercore ISI
+Yeah. Then from a demand perspective on the R2, obviously, I think all of the initial launch expectations or reviews were very positive. How do you think about that order book growing over time? I think one of the things that we are trying to get our heads around is just as you are ramping production, that order book should either be staying the same or growing more because you will have word of mouth. Is there another advertising push that needs to be made as we go into 2027 or?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. As you think about what we are going to be doing, one is, from a quality perspective, making sure that our best salespeople, which is our customers, are very happy with their vehicles. From a manufacturing ramp, making sure we are ramping with quality. Then second is starting to drive more visibility in terms of the brand. I would expect to see us becoming much more active, thinking about our marketing efforts to drive visibility of Rivian, because, look, admittedly, here we are in New York, and James and I both live in the Bay Area, where there is a much greater penetration and visibility for the brand. But we do know that getting higher levels of visibility and folks in other parts of the country becoming more aware of the brand is going to be really key as we think about continuing to drive adoption of R2 over time.
+## John Saager | Analyst, Evercore ISI
+What about the opportunity in Europe for you guys to expand there?
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Europe, we continue to expect that Europe is going to be part of our story over time. We have not announced when our plans are to get over to Europe, and certainly there is any number of dynamics that will determine when we will eventually get there. We could potentially ship vehicles from Georgia, for example, or at some point, you need to do manufacturing over there. We will have to see first how the ramp is going here in the U.S. and what demand looks like, and then at some point, we will make that decision for when we want to head to Europe.
+## John Saager | Analyst, Evercore ISI
+Yeah. Then maybe if you could just, I know you have laid it out publicly for investors, but if you could just for our audience, discuss your capacity plans.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Yeah. From a capacity perspective, right now, our plant in Normal has an annualized run rate capacity of 215,000 units. Of that, we have said roughly 155,000-160,000 units would be for R2. The goal, we have already broken ground and are currently working on the stamping press foundation and working on the foundations in Georgia. As we progress on that will eventually become a 300,000 unit facility in terms of annualized production in Georgia to take us to over half a million of productive capacity between the two plants. Georgia, however, is going to be more focused on our midsize vehicle platform, R2 and associated variants, R3 as well as the Robotaxi with Uber.
+## John Saager | Analyst, Evercore ISI
+Okay. Any more questions from the audience? No? All right. I think that is enough.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Great.
+## John Saager | Analyst, Evercore ISI
+You guys have been great. Thank you very much. Really appreciate it.
+## Chip Newcom | VP of Investor Relations, Rivian Automotive
+Thanks for hosting us.
+## James Philbin | SVP of Autonomy and AI, Rivian Automotive
+Thank you. Cheers.
+Data Source: Quartr Last updated: Sep 29, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (5) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

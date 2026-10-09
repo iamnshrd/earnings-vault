@@ -1,0 +1,213 @@
+TITLE: MoffettNathanson's 2026 Media, Internet & Communications Conference
+DATE: 2026-05-13
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Everybody, welcome to MoffettNathanson's 13th Annual Media and Communications Conference. For those of you on the web, welcome. I am really delighted this morning to kick off this year's conference with Dan Schulman, CEO of Verizon. Dan and I go way back. We first crossed paths back at, when he was at AT&T in the 1990s. He brings a remarkable resume to the CEO position at Verizon, serving as not just a business leader at AT&T, but also at Priceline, American Express, Virgin Mobile USA, and PayPal. You took over as CEO in October of last year. That's a good place to start, Dan. You've now been in the CEO chair for a little more than six months.
+Granted, you already knew the company well from your time on the board, but what have you learned in the first six months as CEO that you didn't know before you started, and what surprised you the most?
+## Dan Schulman | CEO, Verizon
+Well, first of all, thank you for having me.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Yeah
+## Dan Schulman | CEO, Verizon
+Craig, you know, we do go way back. It's a pleasure. I always learn a lot from reading all of your reports, and they're always thoughtful and analytical, and I appreciate them.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Appreciate you saying that.
+## Dan Schulman | CEO, Verizon
+Look, I don't think there were any huge surprises when I made the shift from Lead Director to CEO. It was evident we needed to make changes. Obviously, we had been losing market share for five years. You know, we had gone from number one in market cap to last in market cap. Our forward PE was the lowest in the industry, which was a reflection of how all you felt about our future growth prospects. We clearly needed to make a change. You know, I had a lot of ideas about that coming in. I mean, obviously, anytime you come into an organization, you find pockets of things that are better than you thought and pockets of things that were worse than you thought. In general, you know, it was as advertised.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+What's the top priority item for 2026, and how do you judge the progress that you've made so far with the turnaround? 'Cause you laid out some pretty clear and tough language about the turnaround that needed to happen.
+## Dan Schulman | CEO, Verizon
+Yeah. I've got four priorities coming into the year. The first is a, what I would just call a focus shift, where we're shifting the organization from being sort of engineering network- centric to being customer- centric, where everything we do is about putting the customer front and center. It is figuring out that end-to-end customer experience, how we delight customers, address their pain points, and do it in a way that no one else can do that. That's no small task, but the way to measure our success on that, by the way, would be to look at our churn rate. If churn is coming down constantly, that means we're doing a good job at delighting our customers, and then from there, I would look at net adds.
+That's how I look at how are we doing on that shift. Second, thing is a culture shift. You know, when I got there, I feel like the organization was more prey than predator. You know, we were not playing to win. We were, as somebody put it, gently ceding market share to the other two carriers, and that just doesn't work for me. The culture, I mean, there are good parts of the culture of Verizon, a lot of pride in what we do, but way too bureaucratic, way too risk-averse, scared to make mistakes; therefore, we move slow. We love to show our work, as opposed to show outcome, like process versus outcomes- oriented.
+You know, when I came in, I read this article, you know, like, "How is Dan gonna get along inside Verizon when it's a company that files paperwork to do paperwork?" So, busting through that cultural shift is a very important element for us, and I'm quite pleased with the progress there. The third focus is I wanna be the most efficient telco in the world. That means, you know, we committed to $5 billion of OpEx cuts. You know, that's the smallest number that I wanna see. Like, we are well along our path.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+What's the yardstick for most efficient? Is it revenue per employee, or is it just growth?
+## Dan Schulman | CEO, Verizon
+Cost structure.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Net margin?
+## Dan Schulman | CEO, Verizon
+Yeah. I'm on cost structure.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Yeah.
+## Dan Schulman | CEO, Verizon
+Yeah. You know, we cut out $4 billion from our CapEx, and I feel really, really comfortable with that number. Basically, being the most efficient telco is a means to an end. It is not about cost- cutting; it is about investing back into the customer experience. It is about amassing a war chest for us to be able to respond to what is happening in the market. Obviously, it is about shareholder return, and that is the fourth focus area that I have, which is how do we drive shareholder returns? You know, there are a couple ways that we do that. Obviously, you know, we're known for our dividend. That is an ironclad commitment that I have.
+You know, it's almost a 6% return. I don't wanna be known for like a bond return. That's not who we are as a company. This is about driving equity performance. It's about driving sustainable top- line performance. I'm sure we'll talk about that. It is about being incredibly efficient and productive in the middle, therefore driving adjusted EPS growth. If you look at kind of, you know, our EPS growth and our free cash flow growth, you know, for the last five years, our average for both of those metrics has been - 1%. For this year, you know, it's a step function improvement. You know, our EPS, we just improved our guidance on that. For adjusted EPS, it's 5%-6%. Our free cash flow, at least 7%. We put into place buybacks, you know, $25 billion over the next three years.
+In the first quarter alone, we returned $5.5 billion to shareholders. You know, those four things are the things that I'm focused on for this year, and quite frankly, probably over the next several years.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+There's a lot in there that we're gonna unpack over the next half hour. I wanna start, though, you and I spoke a couple of months ago about the need for competitive differentiation in this business. Can you talk about that a little bit? You mentioned in your remarks a minute ago that the organization was too network- focused and not customer- focused enough. Is network superiority, though, still an available position in this industry? Given how important it has been for Verizon historically, is that still important for you in your brand positioning?
+## Dan Schulman | CEO, Verizon
+Yeah. You just have five questions in that one. Think it was. Look, objectively speaking, Verizon still has the best network in the industry. If you look at most measures, like seven out of eight, we have the best network. Having network superiority is incredibly important to me. I wanna compete on that. That isn't the only thing. What I tell the team is network superiority, network excellence is foundational, but it's not enough. I wanna do more than that, and really, it is about the end-to-end customer experience. How are we defining that? How are we supporting that? Is there friction in that process or not? As you well know, and everyone does, that there was a lot of friction in that process.
+The thing about competitive differentiation is, and this is good and bad, and this is exactly what I tell my team. There is no silver bullet. If there was, that'd be great. It'd be easy to go do. I would've done it already. And by the way, you know, all my competitors would've done it as well if there's a silver bullet. The thing about creating competitive differentiation is it is the sum cumulative total of hundreds of things that you have to do extraordinarily well. And I have a team focused on every single one of those metrics every single week. I expect to see every single month, every single quarter, I expect to see us improving on those. I have a mantra inside the company that every day matters. I wanna see what we did better today than we did yesterday.
+I know that's a bunch of intensity that I have inside the organization right now, but that is what we're driving right now. If we wanna reclaim our market leadership across all elements, we need to be intense inside the company. We need to play to win, and we need to do all the small things extremely well because if we do that. By the way, just one proof point is last quarter, our customer satisfaction scores when people called into our customer care centers were at a record high, and to me, that's outstanding progress in that. To me, differentiation is not one thing. It's not a big bang. It is hundreds of things that you need to do extraordinarily well. That's why it's hard, but if you can do that, you have lasting differential value.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+One of the bases of differentiation that I think the industry has been increasingly embracing, and it's one of the things I really wanna pull out of this conference through all the discussions that I'm gonna have with leaders over the next few days, is the topic of convergence. Now that you've closed the Frontier deal, is it fair to say that convergence is the cornerstone or at least a cornerstone, of your go-to-market strategy?
+## Dan Schulman | CEO, Verizon
+I think it'd be fair to say that convergence is a part of our growth story, but I would clearly not say that it is the growth story for us. Convergence is really important. I mean, we have a nationwide broadband offering and fixed wireless access. It's got extremely high NPS scores, higher than cable companies, for instance, you know, the FWA. We have tons of capacity in our network to drive that. We also have a large and growing fiber footprint. You know, we'll be well over 32 million homes passed by the end of this year. With convergence, you get a number of things. First of all, only 20% of our wireless base has a broadband offering, so a lot of opportunity for penetration there.
+When somebody does have broadband, by the way, our connection rate of wireless is also industry- leading. It's over 55%, and take our wireless service as well. Our churn, in general, is quite substantially less, you know, about 30% less when somebody takes a converged offer, and that's across both fiber and FWA. Our ARPA goes up. You know, some people say, "Oh," you know, "convergence is another, you know, word for discounting." That is like-
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+I think it's me that said that.
+## Dan Schulman | CEO, Verizon
+Yeah. Well, I didn't want to say anything. I was giving you the chance not to say that. It's just not true, you know what I mean? It actually adds lifetime value. It adds to ARPA. You know, you can charge, like, depending on what the speed is, you can up charge for that. To me, convergence is a really nice cornerstone for growth. We have some really great assets that we can leverage. You know, one of the things that we don't spend a lot of time talking about because you haven't seen it yet, and it probably isn't in your model, and I'm sure it's not in anybody's model right now, is we also have a gigantic opportunity in AI infrastructure.
+We are sitting on some amazing assets, whether they be dark fiber routes, lit fiber routes. We have hundreds, if not a thousand, central offices that are data centers that we've decommissioned but have power, have permitting, are at the edge. For applications like remote surgery, autonomous driving, et cetera.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+It's not this generation's version o f mobile edge compute. It.
+## Dan Schulman | CEO, Verizon
+Exactly.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Yeah.
+## Dan Schulman | CEO, Verizon
+They're in huge demand. To me, you've got a massive, incremental leg of revenue growth for us that will start to become apparent as we announce deals, going forward. That is another leg of growth. Then, of course, you know, we'll have volumes, you know, that are picking up that will drive growth, and then we've got the fact that we're, by the third quarter, we will have lapped our price increases. Now, instead of having 180 basis point headwind, that turns, as we go into the third quarter. Promo amortization, which most people probably understand, but you know, we were very promotionally intense last year and the previous years. That's how we were driving, net adds.
+That puts pressure on your revenues because you need to amortize that promotional expense on your revenue line. My anticipation is based on what we're seeing right now and our ability to drive down promotional intensity, that will go from a headwind to a tailwind, maybe as early as third quarter.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Third quarter.
+## Dan Schulman | CEO, Verizon
+A lot of legs of that stool of growth and convergence being an important one. You can emphasize it, but I wouldn't overemphasize.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+I do wanna go back to convergence 1 last time for a second though.
+## Dan Schulman | CEO, Verizon
+Sure, yeah.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+You said a second ago that you're getting the 30% churn reduction in both fiber and FWA.
+## Dan Schulman | CEO, Verizon
+Mixed across those. Yeah.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Is FWA then a sufficient answer for the? Ultimately, I think you get to maybe 30% of the country covered with your target homes passed with fiber. In that other 70%, is FWA a sufficient solution, or do you need to keep looking for wireline assets to grow the wireline footprint?
+## Dan Schulman | CEO, Verizon
+I know that there are some, not necessarily you, but maybe you, who think about kind of, you know, what I would call like ILEC 2.0 or something like that. That, that is not how I think about this at all. Like, we have great fiber assets that will grow to 40 million to 50 million over the medium term. I feel very comfortable with that number. We have an excellent product in FWA, that has very high satisfaction rates. We bundle it easily. We have plenty of capacity in the network to continue to push that. We have 6 million customers on it. You know, I think we have guidance out there of 8 million to 9 million, you know, by 2028, very comfortable with that. That's gonna be a growing part.
+Fiber will be an increasing part of our mix of broadband. You know, there are other things going on with Spectrum. You know, we have a lot of millimeter wave. We're thinking about ways, how do we utilize that more effectively in a broadband fashion, and there are ways that we're thinking about utilizing that. I think there's a lot of elements that we have. You know, if you take your argument to its logical conclusion, you know, you would say then, okay, AT&T, Verizon, you guys have a lot of fiber asset. T-Mobile has no fiber assets or very few, then they would be at a massive disadvantage.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+You do get to that, what you called ILEC 2.0, kind of fortress Northeast Verizon, fortress South and West for AT&T and so on. You're, but you don't believe that we're headed in that direction?
+## Dan Schulman | CEO, Verizon
+I don't. I think you're gonna have really strong broadband offerings that will be increasingly powerful. Remember, speed is a interesting concept. On your mobile phone, all of you on, it's doubtful that you ever use more than 25 MB of speed on your mobile phone. You know, speed is really great for speed tests on your mobile phone, but it's good for very little else on that. In the home, if you're at 100 MB, you're probably way more than satisfied on that. You know, will some people need a gig? Maybe to show off to somebody or something like that. Like, we could do 7 gig, you know, on fiber, but, you know.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+There aren't applications for it.
+## Dan Schulman | CEO, Verizon
+No. It's just the speed test. Do we have a really good, solid nationwide broadband offer? Absolutely.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Well, I'm gonna come back to that, especially the FWA capacity questions and that sort of thing, in a second. I wanna sort of dig into the individual businesses, at least as what I still think of as the individual businesses of wireless and so on. Start with wireless. Tell us what's behind the turnaround that you've had in postpaid phone net adds, because it really has been a remarkable turnaround in the last just two quarters.
+## Dan Schulman | CEO, Verizon
+Well, I think we have a lot of work to still do there, honestly, and I think we have work to do on both the account and line level on that as well. You know, look, the first thing is to clearly define what your objectives are, clearly define to the company. Like, we are gonna play to win. Like, it is not a marketing slogan. This is like, look into my eyes, I fully mean that we're going to win.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+This is predator not prey, as you described it earlier.
+## Dan Schulman | CEO, Verizon
+Yeah, yeah. Like, I'm been a mixed martial artist for 40 years. Like, I also know the best way to win a fight is to not get into a fight. Like, 'cause any time you get into a fight, you're always gonna be hit. You know, in the fourth quarter, basically, it's like we're getting into the ring, and we're not gonna lose. It's as simple as that. You know, I have a huge war chest to go spend, but that's not really my way that I wanna compete. Like, my way I wanna compete is to be segmented financially and fiscally responsible, and I wanna close the bottom of my funnel. That's, like, the best way to win.
+In the fourth quarter, we got into the ring, and we said, like, "If you're gonna hit us, we're gonna hit back hard, and we're gonna win." First quarter was very different than that. The first quarter was about how do we think about segments of the market? How do we think about segmented offers into the market? How do we move away from free handset being the answer to everything? How do we stop giving away value from MNOs to OEMs by just giving away free handsets on everything that goes on? How do we lower cost of acquisition, and how do we drive a better customer experience? Because we're not raising prices without value anymore, are we gonna get more customer loyalty? In the first quarter, it was predominantly about shutting down the bottom of the funnel.
+You know, we exited the quarter on the consumer side at 85 bps of churn, which is a really good number. You know, my view as we go forward is, you know, our cost of acquisition, our cost of retention was down 35% from Q4 levels exiting the quarter. You know, I see us being able to stay at those lower levels because we're just smarter about how we're talking to customers and offering, like n. If n is the best model, n- 1, which costs half that in an acquisition, actually plays to, like, 80% of the base. They love that offer.
+We're so used to doing things the way we did them as opposed to being massively analytical, very sophisticated modeling, segmentation of not, like, four segments in the market, but hundreds, then thousands, and hundreds of thousands of segments. I mean, that's the sophistication that we're driving towards, I feel like, you know, we'll continue. You know, we took up our guidance for net postpaid adds. For me, like, that will happen. To me, it's now about how do we also drive account growth? How do we drive ARPA growth? How do we do all the things that are right for the business model? Start with churn reduction. Start with your cost of acquisition and your COR. Start to measure people, like, not on no more free lines.
+Like, I don't really wanna measure a free line as a, as a net add. It's low- calorie. So I told the team, like, that doesn't cut it anymore. No more free lines going forward. You know, ARPA will naturally turn just because you have lapping price increases, lapping promo amortization, volume growth, AI infrastructure growth. That will naturally turn as we go through the year. Account versus line, you know, now that I'm driving the company towards being obsessed with customers are accounts. So, like, both accounts and lines are important. You wanna drive account growth, and you wanna drive as many lines with that account as you can, as long as they're, like, real lines.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Yeah. How do we reconcile that difference? In the first quarter, you added 55,000 postpaid phone net adds, but you dropped 127,000 accounts. You can't even calculate the number of lines per account in that. You're obviously adding lines to accounts really quickly, if you're shedding accounts and adding lines. What's going on there?
+## Dan Schulman | CEO, Verizon
+Both have to improve. Like our account growth did improve year-over-year, but it was still negative. It'll continue to improve, going forward, especially as we focus more and more on customer and less and less on lines per se. I would say that account growth will continue to improve, and ARPA absolutely will grow as the year goes on.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+I'm gonna come to ARPA in a second, but I just AT&T, you know, I struggled this in, with this when I was, sort of trying to digest the last quarter's results across the industry.
+## Dan Schulman | CEO, Verizon
+Don't struggle.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+AT&T lost share of the subscriber growth market, but they actually gained share of the account growth market. Yours was the opposite. You know, if you looked at market share between you and AT&T alone, you're gaining share of subscribers but losing share of accounts. That's obviously not sustainable. How do we even analytically understand that?
+## Dan Schulman | CEO, Verizon
+I don't know. I can't really talk for others in the industry. I do know that we wanna grow our accounts, grow our number of lines, drive our ARPA up, and I think that's how you should look at us. Like, to me, both accounts and lines are important. ARPA is important. Just look at our top line revenue growth, and that will, should guide you the right way. Good enough.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+The ARPA, you said a couple minutes ago, that you thought it would turn in the third quarter.
+## Dan Schulman | CEO, Verizon
+Yeah.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+It was down 1.9% year-over-year, last quarter, despite the fact that you had a big uptick in the number of lines per account because, again, you were losing accounts and adding lines. Is that all promotional amortization that's really weighing that much?
+## Dan Schulman | CEO, Verizon
+No. Half of that was the network outage.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Even with that, you were down-
+## Dan Schulman | CEO, Verizon
+That was 0.9.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+nine-tenths. Yeah.
+## Dan Schulman | CEO, Verizon
+Yeah. 0.9. A ton of that is promotional amortization. Yeah.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+You've talked about changing and moving away from this industry addiction to giving away free phones. Talk more about that. What does that future look like as you move away from free phones? How do you get customers who've been trained for 20 years now to expect free phones every time they turn around to be weaned from that expectation?
+## Dan Schulman | CEO, Verizon
+No, it's not customers that need to be weaned. It's the industry that needs to be weaned. You know, that's just the way that the industry has done things. I can't speak for the other carriers, but what we've seen through our segmented offers, both on the retention side and the acquisition side, is that you can be much more sophisticated in what you offer to a customer. Listen to them, understand what they need. 20% of the market is latest edition free phone addicts. And we'll have offers for those. 80% of the market is not like that. You know, again, I don't know what the other carriers are doing, but I listen to them just like you listen to them on their phone calls.
+I think everybody is coming to the conclusion that we're transferring too much value from MNOs to OEMs for no good reason. Like, if it made sense, so be it. Will there be promotional times where people will be out there? I'm sure that will happen as well. In general, I think, you're seeing it already with Verizon. We can be way more profitable, drive bottom- line performance and top line performance and net adds in ways that we haven't done in a long time by being a lot more sophisticated, a lot more fiscally responsible, and a lot more customer- centric.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+We've talked mostly about the retail wireless business. I don't wanna miss the opportunity to ask about the wholesale wireless business and, in particular, the MVNO that you've got with cable. The question I get most often from investors in Verizon is, "Is cable friend or foe?
+## Dan Schulman | CEO, Verizon
+To me, they're friend. We have a extremely accretive arrangement with them. I'm happy to be really close partners with them. I think my attitude is, you know, I ran an MVNO, as well, so I know it inside and out. I understand the pressures that they have on them, I understand the opportunities that they have as well. It's great that they're on our network. Because we are thinking of each other as partners now and not as, you know, foes, there's a lot of opportunity that comes with that, too. You know, I wanna really think carefully about how we think about our networks together and what can we do, on that front to be helpful to each other.
+I see a lot of opportunity, and I'm good friends with Chris and Brian and Mike, and we're gonna figure out opportunities to work closer together.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Interesting. Okay. Let's go back to FWA for a second. You talked about the capacity you've got for FWA, but you've had now 10 straight quarters of lower year-over-year net adds. What's going on there? Is that just the introduction of new FWA competitors competing in each market? Is it the beginning of competition from LEO satellite? What is the reason why the FWA business seems to be decelerating?
+## Dan Schulman | CEO, Verizon
+Well, I mean, one, we have 6 million people already on it. We'll get to 8 million to 9 million by 2028. We also now have a lot more fiber than we have. You know, when we go and sell, like, you should expect our mix shift to move more towards fiber than FWA. You know, we're gonna do a ton of broadband growth every single quarter. You know, we did 341,000, I think it was, net adds. I don't even wanna look at my team in case they're gonna shake their head that that's the wrong number.
+I think we did 341,000 net adds in broadband. Look, when I look at our net adds across postpaid, across broadband, and across prepaid, you know, we're gonna have quite a number of net adds by the end of the year across all those things, and that's gonna drive a lot of revenue growth for us.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Last year, we published, I think it was probably before you took the CEO position, but we published some, maybe back-of-the-envelope math is the best way to describe it. It would suggest that even by last year, FWA was roughly half of all the traffic on your network, but only about 4% of your revenues. Is that sustainable and, or is that mismatch a problem?
+## Dan Schulman | CEO, Verizon
+First of all, your math is wrong, it's hard to argue against a wrong math equation. It's a minority of traffic, not 50%. Yes, we have a lot of room on the network for FWA to go forward.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+One of the questions that I find really interesting, both as opportunity and it relates to this capacity question for FWA, is. What do you expect AI is going to do to network traffic loads? You can imagine as we start to see whether it's delivery vehicles or driverless cars and drones and various types of robotics and Meta glasses, and you name it, that you start to see much more significant loads on the wireless network than what the growth rate starts to re-accelerate to those old 35% compound annual growth rates that we used to see four, five years ago. There's obviously opportunities in that traffic, but there's also network capacity challenges in that traffic.
+Can you talk about that a little bit as to what you think is going to happen with AI workloads on the network?
+## Dan Schulman | CEO, Verizon
+Well, first of all, it reinforces kind of this AI infrastructure point that I feel we might be best positioned to capitalize on. Obviously, you know, the hyperscalers, alternative cloud providers, large enterprises that are moving rapidly into the AI age are keen to leverage our assets in that. Second, from a consumer perspective, I think, you know, as more and more AI applications, as phones move from apps to kind of an agent- based interface, I think there's room for us to price to that value as well. If we're offering more value, more things, you know, I think people hear me saying like, "I don't, Dan doesn't wanna take price." That's not true.
+I'm not gonna price for no value, but where there is value, it's irresponsible actually not to price to that, because if you don't price to it, then in effect, you start a different type of price war on that. I need to think very carefully about where are we adding value and making sure that we price to that and where we're not, making sure that we're not trying to gouge customers either. I think there's the bottom line on that is I think there's a lot of opportunity both in supplying infrastructure to those who are driving the AI type of things, and then making sure that customers can avail themselves.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+It sounds like you don't see any risk of crowding out FWA with AI workloads.
+## Dan Schulman | CEO, Verizon
+Not near to medium term.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+I wanna talk about fiber. You know.
+## Dan Schulman | CEO, Verizon
+About what?
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+About fiber.
+## Dan Schulman | CEO, Verizon
+O kay.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Which is, you know, I've been concerned about.
+## Dan Schulman | CEO, Verizon
+You need more of it in your diet.
+I can see that in you.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+That as density falls, and as you move into.
+## Dan Schulman | CEO, Verizon
+Your bone density?
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Yes, that's right. As bone density falls, as density falls, the cost per home inevitably rises, right? It's just the nature of the math.
+## Dan Schulman | CEO, Verizon
+Yeah
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Miles per home
+## Dan Schulman | CEO, Verizon
+Yeah
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Fewer homes per mile. That's before the cost pressures that are created on the supply chain by data center demand for fiber and for labor and all that sort of thing. Do you share that concern as you look out over your sort of passings menu for the next two, three, four years? Those are inevitably gonna be lower and lower density passings. How do you maintain the discipline of the ROI that you wanna get out of those investments, given that the cost necessarily has to rise, and that we're starting to see pressure on broadband ARPU at the same time that says the ROI goes down as ARPU goes down?
+## Dan Schulman | CEO, Verizon
+What are you, a big cynic? Cassandra of the industry? No, let me.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+I've been called that by the way, yeah.
+## Dan Schulman | CEO, Verizon
+No, no, no. I think, you know, you, as I mentioned, you're thoughtful around your analysis on this. Like, that's why we came up with 40 million-50 million passings on this. Like, past that, it doesn't pencil out for me, because then you start to get to, you know, more rural and there it doesn't pencil out. In terms of the supply, we do most of it in-house. We just, you know, came to an agreement with our, you know, unions as well. I know what that cost structure is going to look like, and that's how we came up with our number.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Is there a risk that with so many different people chasing the same prize, that AT&T is mostly building in its own footprint, you're mostly building in your own footprint, but you've got all these kind of free radicals, as John Malone would have called them, the Brightspeed's and the Ziply and people that are building in all different markets. Is there a risk that somebody gets to a meaningful part of that 40 to 50 before you can?
+## Dan Schulman | CEO, Verizon
+I mean, there's always risk; my view of that is quite small. On the LEO side, because you mentioned that, look, I think satellite is a really good complementary service to our product; they cannot compete in urban and suburban against the terrestrial network. By the way, that's where, like, 95%+ of the revenues are. The reason for that are really simply comes down to densification and orbital physics. You know, when you have a Low Earth Orbit satellite, it beamed covers a much wider area than a cell tower. Once you get congestion in there, actually, when we get congestion on our network, we add another cell site, it increases capacity 2 to 4 times.
+In urban and suburban areas, terrestrial networks are 100 to 1,000 times more efficient than Low Earth Orbit. Is there a market for that? Of course there is. I think, you know, over the next seven, 10 years, I think that's, like, maybe, like, 5 million households or so. It's a real market, but it's not our market.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+You said before that you really value your partnership with cable. Is there a scenario where you would enter into a similar partnership with a LEO satellite operator and give them an MVNO?
+## Dan Schulman | CEO, Verizon
+No.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Clear. We've only got a time for a wrap-up, so I wanna go to your favorite topic, and mine. That is what you called to me a while back, your growth equation.
+## Dan Schulman | CEO, Verizon
+Yeah.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+We don't get to see pro forma financials. I think about this as a, as organic versus inorganic. Absent Frontier, you're probably right now at sort of roughly flat revenue growth overall or service revenue growth. You've talked about a picture where that starts to meaningfully accelerate. Talk about the growth equation and how you think you can grow organically going forward. What are the pieces?
+## Dan Schulman | CEO, Verizon
+I think there are four areas where I want to assure we execute on to create sustainable and consistent revenue growth going forward. First is create volume growth on that. I've seen that happen, and I expect that to continue. Second, pricing turns around. You have 180 basis points of headwind that turns into tailwind, promo amortization. You have 200 basis points of headwind turns into tailwind. You've got AI infrastructure as well. All of that, you know, along with driving convergence and those kinds of things, I think I see a really good revenue story, and I think you'll see that very, very clearly as you go into the back half of the year and go into 2027.
+In the middle, we wanna be the most efficient telco in the world, and we are taking out a lot of costs, and we are at the beginning of the stages of being efficient. We are moving rapidly to be an AI-native company. We are the only global operator in the world that got early access to Mythos because we do critical infrastructure for the U.S. Like, moving to become AI-native is not a nice-to-do , it is a must-do in this world. Man, can you drive efficiency, productivity, customer sat rates, redefine your value proposition? As a result of that, like, you're beginning to see increasing bottom- line performance and free cash flow performance.
+On top of that, obviously, we're driving quite a bit of capital return, whether that be through dividends and share buyback. That'll also help our adjusted EPS growth as well. When I look at the overall growth equation over the next several years, I just see it continuing to compound.
+## Craig Moffett | Partner and Senior Analyst, MoffettNathanson
+Well, I think I told you the last time we were together, my history with what is now called Verizon goes back to the days of NYNEX. There's no company that I wanna see succeed more. So, I wish you great success i n this transition. I really thank you for joining us this morning.
+## Dan Schulman | CEO, Verizon
+A pleasure. Thank you, everybody.
+Data Source: Quartr Last updated: May 13, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

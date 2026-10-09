@@ -1,0 +1,182 @@
+TITLE: J.P. Morgan 54th Annual Global Technology, Media and Communications Conference
+DATE: 2026-05-20
+## Kenneth Worthington | Analyst, JPMorgan
+Hi. Good morning, everyone. Thank you so much for joining this year's JP Morgan TMC Conference and the fireside chat with Coinbase. I'm excited to host Emilie Choi, President and Chief Operating Officer, and Alesia Haas, Chief Financial Officer at Coinbase.
+Coinbase is a $60 billion crypto platform that facilitates trading, staking, and custody of crypto tokens, as well as other instances of broader engagement across borrowing, lending, development, infrastructure, across the crypto ecosystem, and the list keeps growing. Before we start, I wanted to read off Coinbase's safe harbor statement.
+During today's chat, Emilie and Alesia may make forward-looking statements. Actual results may vary materially from today's statements due to risks, uncertainty, and other factors as described in their SEC filings. Our discussion today may include references to non-GAAP financial measures and a reconciliation of non-GAAP financial measures is available on the company's latest shareholder letter.
+Thank you so much for joining today. To kick things off, I'd be remiss if we didn't start with the big news of CLARITY advancing through the Senate Banking Committee in the Senate. Emilie, let's start there. How does the passage of CLARITY change the cryptocurrency landscape, which of the many things that Coinbase aspires to achieve becomes easier with the proposed legislation? Maybe start out, what is CLARITY in the first place?
+## Emilie Choi | President and COO, Coinbase
+CLARITY is the market structure bill. Last week we had some great developments there where it passed out of the Senate Banking Committee in a bipartisan manner, which is pretty huge, very unusual. We're very excited. The next steps for that are it has to pass the Senate floor, then it has to be reconciled with the House bill, then it has to pass the House and Senate one more time, and then the president signs it.
+We think we're on a path where it will be signed this summer. Very positive development. If you think back to last summer, the EU's Stablecoin Bill was signed, and that really unleashed a whole new wave of stablecoin transaction volume, innovation, investment, and that represents maybe 10% of the current volume in the market. This is the other 90%.
+This is all the other stuff that we do, as it pertains to trading and digital assets and so on. For us, when you think about the way that Coinbase operated for the past whatever years, especially under the Biden administration, we had regulation by enforcement, and we didn't have clear rules of the road.
+You can imagine that we're trying to build a product roadmap and ship things and don't really know for sure if something is going to be compliant or not based on the whims of the regulator and not actually based on clear rules of the road. It's a very challenging way to operate.
+To be able to have this new legislation that clarifies what the SEC and what the CFTC oversee, how we can add more digital assets to the ecosystem, what is a security, what is a commodity, and things like tokenized assets, tokenized equities, how these can be added to the ecosystem in a compliant manner. We think it's just going to unleash a whole new wave of innovation in this space, much as GENIUS Act did for stablecoins.
+## Kenneth Worthington | Analyst, JPMorgan
+Awesome. With that covered, let's pivot to the rest of the agenda. My agenda is, I want to start with trading since this is the biggest part of the P&L. Move to stablecoins, which is really sort of the infrastructure and monetization or a monetization engine. Agentic AI, which is potentially going to be this massive driver of growth and adoption. Tokenization, which I'm sort of calling the enabler. Let's start with trading.
+## Emilie Choi | President and COO, Coinbase
+Kenneth, I love that because you started with our three biggest priorities. We're growing our,
+## Kenneth Worthington | Analyst, JPMorgan
+Yep
+## Emilie Choi | President and COO, Coinbase
+Everything Exchange. We are building stablecoins and payments, we're moving things on chain. This is perfect. Let's go.
+## Kenneth Worthington | Analyst, JPMorgan
+Yeah. The secret to being a good research analyst is to plagiarize and steal whenever we can. Trading is the biggest P&L driver. You're number 1 in market share and spot, and global market share is at peak levels. Global market share is about 8.6% and rising. You're building out derivatives.
+You're adding predictive markets and equities. You're doing well in spot and doing well in the U.S. It's a good place to start. Maybe Emilie, can you talk a bit about the Everything Exchange strategy? What prompted the pivot to expand just beyond spot crypto trading?
+## Emilie Choi | President and COO, Coinbase
+Yeah. First of all, I think our competitive advantage is definitely the crypto economy and powering crypto. We do also want to make sure we meet customers where they are, and our customers were definitely asking to be able to trade other assets. We did make a huge push over a very short period of time to be able to enable things like equities and prediction markets and so on. It's been incredibly positive for us.
+When you think about just the volatility that we've historically had in our business, in many ways, this helps us diversify the offerings we have because there's a bull market somewhere at any given time, and it might not be in crypto. For example, in Q1, crypto wasn't the biggest thing in the world in terms of volumes and trading.
+Prediction markets were big and commodities were big, and so this enabled us to have that buffer. I think customers are very happy about this new broader offering. Again, we're always going to be crypto first in the way we do things, but now that we have this broader offering, they can tap into these other opportunities to trade.
+## Kenneth Worthington | Analyst, JPMorgan
+Got it. Alesia, how are you seeing the results so far? Is the engagement in these newer products coming from existing clients? Are these newer products bringing in newer clients to help drive growth? To what extent are the new products and services sort of incremental to what you have been doing in the past versus potentially cannibalizing some of the existing business?
+## Alesia Haas | CFO, Coinbase
+We're really pleased. I want to start with it is early days. As Emilie shared, we announced this strategy at our December product showcase, and so many of these products went live in the Q1 . Even over the Q1 , they've started to make a dent in our overall P&L and started to demonstrate that our customers are really engaging in the broader product suite. It is both. It is monetizing largely through existing customers, but also bringing new customers to our platform.
+We saw prediction markets in its second month of operation, in the month of March, achieve $100 million of annualized revenue. We saw retail derivatives for the quarter drive to $200 million of annualized revenue. We are seeing nice traction. Emilie said it well, where there's a bull market somewhere. I don't think of these as cannibalizing.
+What I think that we saw in previous crypto cycles, when we saw periods of declining crypto spot prices and/or low volatility, our retail customers largely went into a HODLing mode, where they just didn't trade. They didn't move their assets from our platform, they just didn't trade in that period of time. By diversifying the tradable assets, it gives them something to trade in all market conditions, and we definitely saw that in Q1.
+With lower volatility, with lower prices in Q1, what we did see pickups on were trading of commodity futures. Silver, gold, oil, in response to the global macro environment became very largely traded contracts on our platform. Prediction markets, as we said, saw the growth.
+This will diversify the tradable assets and I think create more resiliency to our trading revenue over time as these products mature and we engage more and more customers in this product suite.
+## Kenneth Worthington | Analyst, JPMorgan
+Thank you. Emilie, I wanted to dive a little bit more into the derivatives and how you look to kind of continue to gain share in the derivative market. Does Coinbase need to do this outside the U.S.? Can you continue to grow the derivative appetite inside the U.S.? How do you go about doing this?
+## Emilie Choi | President and COO, Coinbase
+Derivatives at any given time in crypto are like 3 to 4x the volume of spot trading, they're a very important piece of the market. We've obviously felt the need to diversify deeply into that. I think the short answer is we've got to do it not only in the U.S., but globally. If you'll recall, we acquired a company called Deribit that is by far the undisputed leader in crypto options globally, that is a great tent pole for us in addition to our spot position.
+The goal here is to make sure that we have 1 platform for futures, derivatives, spot options, and so on all across crypto. This obviously helps us have a global pool of liquidity for things like cross-margining and financing and so on that our customers deeply want.
+In the U.S., obviously because we started in the U.S., we have a nice advantage there, particularly with our brand of trust. We were, I think, the first to launch a 24/7 perps-like contract in the U.S. with the CFTC's blessing. You can expect to see more of that in general. The TLDR is we definitely want to go aggressively, broadly with derivatives across the whole globe.
+## Kenneth Worthington | Analyst, JPMorgan
+Yep. One of my observation is the derivatives and the perps part of the derivative market is very concentrated. Any idea why it's so concentrated, and does that make it harder to kind of break in and be a sizable participant in the derivative markets or the perps market versus how successful you've been in the spot market?
+## Emilie Choi | President and COO, Coinbase
+I think that some of the attributes of why derivatives have been so popular internationally is people can go really heavy on leverage and can kind of make really large bets. Sometimes you see that concentration there. We are going to always stick true to this brand of trust. We're always going to make sure we're protecting our customers and doing things in a more compliant way. I think we're going to lead with that, and the customers who are attracted to that will be drawn to that. Anything to add?
+## Alesia Haas | CFO, Coinbase
+Much like most asset classes, the key here is liquidity, working on the best product, the most contracts with the deepest liquidity on a global basis. We believe that we marry our retail customer base with our institutional product to really create those deep liquid markets. We have to build that as we continue to expand internationally away from our deep bench of U.S. customers.
+We believe that there's no reason why we won't be able to do so with our expertise in bringing customers to our trusted platform, building those contracts, and creating the liquidity over time.
+## Kenneth Worthington | Analyst, JPMorgan
+Great.
+## Alesia Haas | CFO, Coinbase
+It's a product journey, but we are deep into that product journey.
+## Kenneth Worthington | Analyst, JPMorgan
+Emilie, you mentioned Deribit. Can you speak about what Deribit is and what we should expect in the coming, or looking forward as you continue to build out that business?
+## Emilie Choi | President and COO, Coinbase
+Deribit was an acquisition we did last year. It was the largest crypto options exchange in the world. We've been very pleased with the progress. We're very much on the journey of integration. We should be fully technically integrated by the end of the year. One of the cool things about Deribit is it's got a nice cross-margin engine that we're using to kind of integrate across our whole pool of liquidity.
+As I mentioned, we want to have this whole panoply of spot options, futures, and so on that we can offer to customers so we have that global pool of liquidity. In terms of next steps with Deribit, we obviously want to be able to offer this in the U.S. as well, and so we're working with the CFTC on that plan. We'll continue to share milestones along the way as we go through that.
+## Kenneth Worthington | Analyst, JPMorgan
+Then Emilie, finally, on prediction markets. Really good traction out of the gate, $100 million, as you said, in annualized revenue shortly after launch. How should we think about the early traction here, and what ultimately is Coinbase's right to win in these markets, given how much they've proliferated across other platforms?
+## Emilie Choi | President and COO, Coinbase
+Prediction markets is a huge phenomenon. We were sharing texts last night about some of the wagers certain folks had on the primaries last night or the NBA semifinals and so on. It's just a fun activity, and I think it's very engaging for users to be able to make these bets on these platforms. In some cases, I think it's just going to be a more popular activity than spot trading and so on.
+We're really pleased. We just launched. We have great traction with that $100+ million revenue run rate. I think our right to win generally is about the bundle. I think we're obviously crypto first, and we're about a bundle where different customers are going to want to be able to access and tap into what they want to at any given time.
+We talked before about there's a bull market somewhere at any given time. Perhaps at that point, a customer wants to make a bet on a prediction market. They might also want to be able to trade crypto or equities or so on. We offer that ease of use, that most trusted bundle for customers, and we think that it's a great value prop for them.
+## Kenneth Worthington | Analyst, JPMorgan
+Great.
+## Alesia Haas | CFO, Coinbase
+I think it's so important what Emilie said, that what prediction markets offer is almost an opportunity for a daily use case. It's exciting to see what the world is doing, what people are engaged with, and when people already have their assets on our platform. Remember, we are the largest crypto custodian. We hold over 12% of the world's crypto. We had $19 billion of USDC on our platform as of Q1. People already are storing assets.
+Now when they have an additional product that they can sell, it creates incremental monetization, it creates engagement with our platform. I like to say people are coming for the convenience of being able to trade everything in one place. It's delightful to be able to be like, "Oh, great.
+I can go see this game that I wanted to bet on. What we can really offer as the true value and why I think we have the long-term right to win is now you can take a bet on global politics on one platform and express that over equities, prediction markets, futures, crypto. It gives you the ability to do much more complex positioning in one platform to take a view on world.
+As the world becomes more complex in the opportunities to take bets, we are now a more comprehensive platform that people can express those views.
+## Kenneth Worthington | Analyst, JPMorgan
+The Everything Exchange facilitates the Everything Exchange.
+## Alesia Haas | CFO, Coinbase
+Yes.
+## Kenneth Worthington | Analyst, JPMorgan
+Great. Let's move into stablecoins. You have one of the biggest fee wallets in stablecoins, and one could argue that you've been the differentiator from a distribution perspective in the build-out of USDC into being the second-largest stablecoin. Maybe let's start at the high level, Emilie. How do you think about your role or Coinbase's role in the stablecoin ecosystem?
+## Emilie Choi | President and COO, Coinbase
+Sure. We believe in the power of stablecoins first and foremost as a programmable digital dollar. We were early in 2018 to partner and bring USDC to life.
+## Alesia Haas | CFO, Coinbase
+We should just stop and remind people that we are the distribution platform for stablecoins.
+## Emilie Choi | President and COO, Coinbase
+Yep.
+## Alesia Haas | CFO, Coinbase
+That our platform since 2018 has been key to growing regulated stablecoins in the overall ecosystem.
+## Emilie Choi | President and COO, Coinbase
+Yep. We are the number one distributor of USDC. As Alesia mentioned before, we hold $19 billion of USDC on our platform. At any given time, we roughly extract about 50% of the economics of USDC. We also enable the trading and custody of other stablecoins on our platform as well. We're very bullish on stablecoins. We think we're at the very beginning of the journey.
+If you think about the different components that we have together as we play this end-to-end platform role, we've got USDC as the digital dollar, or other stablecoins as that digital dollar. We've got Base chain as a settlement layer. We've got enterprise APIs that help with enterprise integrations. We also have x402 too, which I'm sure we'll get into, which is our standard for agentic commerce.
+We have all these pieces of this end-to-end offering, and we think that that's a very powerful position to have given where we are right now in the beginning.
+## Kenneth Worthington | Analyst, JPMorgan
+Yeah. I completely agree. I think one of the messages that I'd love everybody to take is these different pieces fit really well together, and they're sort of perpetuating the other pieces to be bigger and grow faster, and anyway, we'll see how good a job I do here in pulling that all together.
+Alesia, you've had success building out USDC as the preferred digital cash balance for Coinbase customers, and you're tying USDC to many of the new initiatives at Coinbase, including trading, lending, borrowing, and payments. How much do these newer initiatives contribute to Coinbase's presence in stablecoins, and where are you seeing the most momentum today?
+## Alesia Haas | CFO, Coinbase
+These are reinforcing products. With our partnership with USDC, one of the reasons we've become a distribution platform and one of the reasons we've seen the on-platform growth is we're embedding USDC deeply within our products. We use it as the base quote asset in our international exchange. If you want to trade futures, you are trading them against a USDC order book. That grows the USDC balances. We offer lending products for our institutional customers.
+They can trade on margin. That grew to $1.4 billion as of Q1. That is us lending out USDC collateralized by other crypto assets on our platform. We saw the significant growth, quite candidly, in on-chain agentic commerce. 99% of that's in USDC. 90% of that's on Base. We are building those APIs, as Emilie said, with x402, and that is creating now a payments use case.
+As we embed these stablecoins into the products and services, absolutely, it's a reinforcing flywheel. We see that product grow in the case of lending or trading, and then we're seeing USDC balance growth, both on our platform, but also then in the off-platform through the ecosystem. As you create more network effect, you create more liquidity, more people will choose that as the asset they want to trade with and participate with in the ecosystem.
+## Kenneth Worthington | Analyst, JPMorgan
+Last,
+## Alesia Haas | CFO, Coinbase
+Can I pause there, Kenneth? I'm sorry.
+## Kenneth Worthington | Analyst, JPMorgan
+Yeah.
+## Alesia Haas | CFO, Coinbase
+This is where I think USDC is really important. We often talk about it perhaps maybe as a payments story. USDC is a collateral story. It's a trading pair. It is going to be a digital dollar, a better dollar, a global, cheap, fast dollar.
+## Kenneth Worthington | Analyst, JPMorgan
+Yes
+## Alesia Haas | CFO, Coinbase
+Participate in.
+## Kenneth Worthington | Analyst, JPMorgan
+Maybe Emilie, last week you announced a new partnership with Hyperliquid, one of the largest on-chain trading platforms in the world. Can you walk us through the details here and maybe the financial implications for Coinbase?
+## Emilie Choi | President and COO, Coinbase
+Sure. I'll start, and Alesia can pop in there. We announced a partnership with Hyperliquid for USDC to be the primary stablecoin on Hyperliquid. If you look, USDC was already kind of the majority of the stablecoin usage on Hyperliquid. They had like $5 billion worth of USDC on the platform. This was really meant to solidify that adoption and relationship.
+As part of that, our on-platform balances, we'll be holding those of Hyperliquid, which is positive for us. Broadly speaking, we think we're in an early phase of stablecoin adoption. We think this is a big growth vector, and we believe that there are big network effects to stablecoins, and that liquidity begets liquidity.
+For us to do this deal was essentially about making sure that we're reinforcing USDC as a vehicle for Hyperliquid, which is obviously quite popular, and then that reinforces the value of USDC over time. In short, it's like a growth vector for us that we are heavily invested in, and we think that doing these types of deals selectively really helps propagate the network effects and growth of USDC. You want to talk about any more on the economic side?
+## Alesia Haas | CFO, Coinbase
+Think about this as another on-platform customer for us, we will continue to grow those on-platform balances. We do have rewards agreements in place for the majority of our on-platform balances, it's important to share that in the movement of clarity, it protected activity-based rewards. We will see growth in top-line revenue. We will see an increase in our sales and marketing expense as it pertains to rewards.
+As Emilie said, this is just a reinforcing phenomenon. You saw after GENIUS that we started to see a fragmentation of stablecoins, and many people came up with, "We want to launch a new stablecoin." We are really focused on driving one of the biggest global stablecoins to have deep liquidity and network effect, this is a big step forward to the network effect of USDC.
+## Kenneth Worthington | Analyst, JPMorgan
+Great. Okay. agentic AI. Okay. McKinsey projected $3 trillion-$5 trillion of agentic transaction volume by 2030. That's right around the corner. Alesia, for you and Emilie both, when we think about AI, Coinbase is not the intelligence layer like OpenAI or Google, but rather the financial and transaction layer. What is the Coinbase tech stack for agentic AI, and how does it leverage the key pieces of the Coinbase infrastructure? Again, pulling together some of the things that we've already been talking about.
+## Alesia Haas | CFO, Coinbase
+We have a product stack that enables agentic AI. We've talked about USDC. It's a digital dollar. We've talked about Base. It's a protocol. It enables fast, cheap, global transactions to settle on-chain. x402 is a new protocol that we've now added to this stack that enables specifically agentic commerce. We have the payments APIs that Emilie mentioned for businesses. x402, what we've seen is it's processed 100 million payments through this gateway over the last three months.
+We have made this an open-source standard on a Linux platform. We have major partners such as Cloudflare, Google, Shopify, others, that are helping usher in this future. On our earnings call last week, mid-call, it announced that Amazon is our newest partner building on the x402, and so that is just getting started. We absolutely believe that the future is going to be agents.
+Agents will be outnumbering us humans. Agents will be transacting in new ways. You'll see usage-based activity, and we are building the stack for them. We've had early success. The things that are phenomenal to share, in addition to that 100 million transactions, 99% of this agentic on-chain commerce is happening on USDC. 90% of it's happening on Base, you see that our stack is really starting to be the leader in ushering in this future of agentic commerce.
+## Kenneth Worthington | Analyst, JPMorgan
+Great. Emilie, anything to add?
+## Emilie Choi | President and COO, Coinbase
+No.
+## Kenneth Worthington | Analyst, JPMorgan
+Okay. Maybe the next question is, why don't agentic payments work over the existing financial rails? Why can't we just give an agent my Visa card and have that be the financial layer here in agentic AI?
+## Alesia Haas | CFO, Coinbase
+It's a great question, and one that we've talked a lot about. I'm sure it will surprise no one to hear that I still write checks. I do it rarely, but it still happens. I still have a checkbook in my drawer. I also send wires. I also do stablecoin payments. This is an and. Just like we send email, we send texts, we do messaging on all sorts of platforms. Stablecoins provide a new payment rail, or stablecoins plus Base is a new payment rail.
+We've seen innovation in payments for a long time as we've all moved from cash, to checks, to credit cards, to ATM cards, et cetera. What these uniquely provide for agents is agents are not human. Agents are going to be looking for microtransactions. They're going to be buying compute.
+They are going to use ruthless prioritization and try to find the lowest economic cost to execute their transactions. They don't have brand loyalty. They're not emotional in the way that the current system was built for human payments, and they're also going to do so many micro payments. What stablecoins and wallets and the new on-chain infrastructure provide is programmable dollars.
+You can program $50 can be paid to this vendor. You can give it very specific rules. Agents can't open a new credit card themselves. They're not humans. They can't pass KYC. What we think it's going to do is usher in a new type of payments that will be the new growth vector of payment types, and that is where we're going to see most of the agentic commerce growth. You can give your agent your credit card.
+You can also have that credit card number stolen then, by the way.
+## Kenneth Worthington | Analyst, JPMorgan
+Yeah.
+## Alesia Haas | CFO, Coinbase
+That creates a lot of fun for all of us.
+## Kenneth Worthington | Analyst, JPMorgan
+As I was doing research on this, and you just mentioned again this concept of micropayments, which is something that's a little bit foreign to me. How does micropayments play into the agentic AI outlook and Coinbase, and USDC, and Base as kind of the enablers of the future of payments here?
+## Alesia Haas | CFO, Coinbase
+We're moving forward in life, and agents, we believe, are going to do more and more activities for us. They are going to be coding for us. They may need to buy compute while they code. They are going to need to execute micro transactions to move forward their workflows. Or they may need to buy some data, some research. Do they want to get a subscription? No. They want to buy specific research.
+These are going to, we think, turn into new monetization streams, new ways that we consume products and services, and those will become frequent, smaller dose consumptions of information and data or usage, and that's going to be the future of how these agents want to buy and transact online.
+## Kenneth Worthington | Analyst, JPMorgan
+Interesting. Tokenization. Tokenization is not where Coinbase makes money today, but it's been a focus for Brian, your CEO, when thinking about regulation. Emilie, can you walk us through how Coinbase thinks about the full tokenization stack from sort of issuance and custody to compliance and trading? With all those pieces seemingly in place, what's the unlock that gets us from the narrative to real proliferation of tokenized assets on the platform?
+## Emilie Choi | President and COO, Coinbase
+Sure. I think the unlock is clarity, to be clear.
+## Alesia Haas | CFO, Coinbase
+CLARITY for clarity.
+## Emilie Choi | President and COO, Coinbase
+Clarity. Right. The CLARITY Act. The reason we think that it is so important, why we've spent so many cycles working to get this over the line is because, as we've talked about with the GENIUS Act, unlocking the stablecoin wave, we think that this then opens up the whole wave of on-chain financial assets and so on. Yes. As you mentioned, we have the full stack of capabilities, whether it's issuance, custody, trading, and so on.
+That end-to-end stack can then power this on-chain economy once we have that regulatory unlock. I think we're in the very early days of all this with when we have that clarity, being able to offer things like tokenized equities and more on-chain assets and activities. In general, we're very bullish on on-chain over the longer term just because we think it's a much more robust system. It's more efficient.
+There's no middlemen. It's cheaper. It's global. All the things that we care about. It's the fastest settlement. To be able to power that in a compliant way kind of maps exactly to the stack that we've built.
+## Kenneth Worthington | Analyst, JPMorgan
+Okay. Maybe moving to infrastructure and resources and delivering the above. I think Base is sort of a key part of the infrastructure that's moving the rest of the agenda forward. What is Base? What's next for the Base roadmap? Talk about the growing Base ecosystem. Maybe Emilie, do you want to start there?
+## Emilie Choi | President and COO, Coinbase
+Sure. Base chain is a settlement layer for on-chain financial transactions for payments and trading. I think Alesia quoted this. You see things like 99% of agentic on-chain transactions are done via the Base chain, so very powerful early stats here given the fact that we just launched it not too long ago.
+When you think again about that stack that we've been talking about with the digital dollar of USDC or other stablecoins, and then Base as a settlement layer and x402 as that standard for agentic commerce, we think that that's quite powerful. When we think about Base chain specifically in terms of what the future is for Base chain, it's more of that. We'll need to add things like a privacy layer, for example, because businesses care very much about that.
+That's a big theme right now in crypto and in financial transactions. Another thing that we've brought up in the past is that we plan at some point to launch a Base token. We'll keep folks updated on that progress, but I think that's another exciting part of the roadmap.
+## Kenneth Worthington | Analyst, JPMorgan
+Okay.
+## Alesia Haas | CFO, Coinbase
+Then separate from the chain, we also have the Base app. The Base app is our self-custodial product that is really designed for customers who want to hold their assets in their own custody, away from a centralized platform, and enables us to grow in markets that we don't have a presence. For example, our custody product is available in major markets such as the U.S., the U.K., EU, Singapore, Australia, Brazil, et cetera, Canada.
+There's many, many other countries, and we can move with speed to enter those markets for the other countries with a self-custodial product and enable our products to serve the globe and access to over 100 countries through a self-custodial offering. A lot of that international customer growth we anticipate over time will come through the Base app, the self-custodial product.
+## Kenneth Worthington | Analyst, JPMorgan
+Okay, great. Thank you. Okay, in closing here, the question I sort of closed with last year, I think it's fitting again, given the dynamic crypto environment. For both Alesia and Emilie, what do you see as the use cases that are most exciting to you in the crypto ecosystem as you look out to the rest of 2026 and into 2027? How does what is exciting for the crypto ecosystem tie into what's exciting for Coinbase? I kind of like that question as a closer.
+## Emilie Choi | President and COO, Coinbase
+It's funny. It's a great closer. It's a summation of everything we just talked about, I think. Stablecoins and payments, I think we're just scratching the surface of that. Our board constantly tells us, if there's one place that we are going to be growing, it is going to be stablecoins, and we're at the early innings of what's possible there.
+Obviously, tokenized equities and tokenized assets, we just think that that's going to be a very big unlock with clarity. Then agentic commerce, which maps to all the interesting, fun themes going on in AI right now, and being able to be on the forefront of that with having developed the standard of x402. Those are the three big ones, I think, from our perspective.
+## Alesia Haas | CFO, Coinbase
+I think it's the new products and use cases, but I would also just point to our expansion in derivatives and the growth of our derivatives platform as a key near-term focus for us and where we expect to see a lot of growth this year. It's been one of the biggest drivers of our market share growth, and we anticipate that to continue.
+## Kenneth Worthington | Analyst, JPMorgan
+Yep, great. Okay. Thank you so much.
+Being with me today. We're not taking questions. Thank you to the audience for being here, and enjoy the rest of the conference.
+## Emilie Choi | President and COO, Coinbase
+Thank you.
+## Alesia Haas | CFO, Coinbase
+Thank you.
+Data Source: Quartr Last updated: May 20, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,38 @@
+ticker: COST
+name: Costco Wholesale Corp
+cik: "0000909832"
+kalshi_series: KXEARNINGSMENTIONCOST
+fiscal_note: "Q4 = конец августа; звонок в конце сентября"
+speakers:
+  ceo: Ron Vachris
+  cfo: Gary Millerchip
+  operator: true        # operator засчитывается как Costco representative
+  ir: null              # IR на звонках не выступает (David Sherwood удалён)
+call_format: regular
+rules_note: "любой Costco representative, включая operator; аналитики не засчитываются"
+same_quarter_calls: [2024-09-26, 2025-09-25]   # сезонные Q4-звонки прошлых лет
+sources:
+  ir_news: https://investor.costco.com/news-releases   # пресс-релизы, ежемесячные продажи
+  ir_events: https://investor.costco.com/events-and-presentations
+  sec_filings: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000909832&type=8-K
+  sec_api: https://data.sec.gov/submissions/CIK0000909832.json
+monthly_sales_pattern:
+  description: "ежемесячные отчёты о продажах (comparable sales), видны в sa_raw как monthly-sales-update-*"
+  url_template: "https://investor.costco.com/news-releases"   # искать 'Costco Wholesale Corporation Reports <Month> Sales Results'
+local_transcripts: sa_raw\COST           # прошлые звонки (последние 8)
+peers: [KR, WMT, TGT, DG, ACI, BJ]       # звонки того же сезона
+news_queries:
+  - "Costco tariffs"
+  - "Costco Kirkland"
+  - "Costco Gold Bar"
+  - "Costco expansion new warehouses"
+  - "Costco retail media Instacart"
+conference_speaking: []                   # ссылки на конференции, если есть
+speaker_events_sources:
+  - "годовое собрание акционеров: sa_raw/COST/*agm-* (локально) + investor.costco.com/events-and-presentations"
+  - "инвестиционные конференции с участием Vachris / Millerchip (список на investor.costco.com/events-and-presentations)"
+  - "интервью и подкасты Vachris / Millerchip: CNBC, Bloomberg, Fox Business, Retail Dive, Supermarket News (поиск по имени спикера)"
+  - "письма и обращения к членам: costco.com, Costco Connection, пресс-релизы IR"
+  - "публичные заявления о тарифах и ценах: Vachris / Millerchip, ежемесячные отчёты продаж (monthly-sales-update)"
+  - "TODO: проверить, участвует ли Costco в сессиях инвесторских конференций; без подтверждения не заполнять"
+notes: "Ежемесячные отчёты о продажах содержат комментарии по tariffs и gas."

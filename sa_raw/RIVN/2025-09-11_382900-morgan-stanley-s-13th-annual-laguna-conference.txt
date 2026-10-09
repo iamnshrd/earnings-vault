@@ -1,0 +1,268 @@
+TITLE: Morgan Stanleyâs 13th Annual Laguna Conference
+DATE: 2025-09-11
+## Speaker 2 | 
+Is that right?
+## R.J. Scaringe | Founder and CEO, Rivian
+Speak loud enough.
+## Speaker 2 | 
+All right. Let's get started. R.J., thanks for being here.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, lovely to be here.
+## Speaker 2 | 
+I've had more than a handful of people come up to me and say, "Did you see the R2? Did you see the R2?" I'm like, "Yeah, it's R.J.'s truck, but like, we can't drive it." They're like, "I know, but it's awesome." There are other vehicles out there, by the way, that you can, including Rivian vehicles, R1, that are awesome to drive. Just visually and the packaging, it seems to be getting a lot of attention.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, it's funny, when you photograph something, it's hard to get a sense of scale, but when you have them sitting here next to other cars, next to R1S, I think people liked it. I've been driving it to pick up my kids from school, and it's funny because I can see the parents who either own Rivian or like Rivian, and sometimes they're like, "Yeah, yeah." Yeah. My middle son, the rear window drops, and he loves to put his backpack in through the back with the window drop. It's a good school pickup car.
+## Speaker 2 | 
+That's cool. You're a cool dad. I do my best, but I don't have the keys to that kind of technology. Thanks for joining us. Any key messages at the top that you wanted to convey to the audience, and then we'll get into it.
+## R.J. Scaringe | Founder and CEO, Rivian
+I mean, it's great that you referenced R2. For us, it's such an important program. We're really excited to get it to market. You know, the vehicle benefits from so many learnings that we've had as a company in terms of manufacturability, cost optimization. It embeds the next generation of technology for both the embedded platforms, but importantly for our autonomy platform, both on the compute side and the perception side. It's a huge program for us. We're really 100% focused as a business on getting this ready to launch, and the scale it brings is going to be a big inflection point for us as a business.
+## Speaker 2 | 
+Yeah, it really does mark, I mean, at the time of the IPO and leading up to it, you had the R1 made a, obviously, a crazy re-engineering of the vehicle.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah.
+## Speaker 2 | 
+Pretty soon after the launch, right? You learned a lot.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yep.
+## Speaker 2 | 
+You learned a lot about suppliers, architecture, technologies, levels of vertical integration, and everything else. I share your view that this is your, almost your first, all right, now we've, all the lessons we've learned, and then importantly, the post-gen AI moment, and on the autonomy part, which is really, now we've got the shot, this is the socket for the physical AI.
+## R.J. Scaringe | Founder and CEO, Rivian
+Completely, and we have our autonomy and AI data we're planning the end of this year, and we're going to show a lot of the detail around the hardware that's in that vehicle and what's gone into it. Everything from a compute point of view to perception to our data flywheel, how we've structured that. We'll, of course, have some demos that show it operating and what it can do in terms of the autonomous platform. R2 is really the full embodiment of all those different things we're working on that come together into, we think, just an incredible package and something that really has broad appeal. It's a five-passenger SUV. It fits so many different use cases. It's priced from $45,000. I couldn't be more excited.
+## Speaker 2 | 
+I mean, you're a robotics company, right? They're just car-shaped robots, like adventure robots.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah.
+## Speaker 2 | 
+I always want to ask, since we began on this topic, because I recently spent, I did about 1,400 mi with FSD in a Model Y, and I estimate that the FSD probably drove well over 99% of the miles. There was a giant downpour where I had to basically, it's like, dude, you know, watch the road. Otherwise, I took my shoes off and just, it drove, right?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah.
+## Speaker 2 | 
+You've experienced these kinds of things in your technology and competitor technology. A lot of would-be buyers for R2, for example, may be coming from Tesla for a variety of reasons, or coming from competing technology where they're used to this really good, really good ADAS. You have ADAS, you have advanced ADAS, but what is that path to that kind of more end-to-end, turn-by-turn? That would be something no compromise differential from a Tesla. When could you see the vehicles getting there?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, I mean, that's a great question. We've, I guess just a little bit of context, we launched in late 2021 with our first product, and that Gen 1 architecture used what I'd call like an AV 1.0 solution. It was a rules-based environment. It had a collection of different cameras, some of which were ours. Importantly, the front-facing camera was not ours. It was a Mobileye camera. With our Gen 2 vehicle, which we launched about a year ago now, we started working on that, and the technology went into that really in late 2021, early 2022. We brought all of our perception stack in-house. We brought the compute platform in-house. We built a data flywheel around it and really redesigned everything.
+Not a single line of code, not a single piece of hardware was shared between Gen 1 and Gen 2, but designed it around, as you put it, this end-to-end AI-centric approach where we're training on this, the data flywheel that's built with the vehicles driven by our customers. Here we are a year later, and that's now starting to deliver the features that are enabled by this approach. Currently, we have a hands-free highway self-driving feature. That's soon going to be expanded to hands-free everywhere, which is really important. That's a big, you know, it's something like a 50x increase in the number of roads that the vehicle is now going to be able to drive on, driving itself. We go from hands-free everywhere to hands-free and some unique situations where I'll have eyes off. So hands-free, eyes off. We layer in with that turn-by-turn, so address to address.
+Following that, then it's just further and further removing the need of the driver to do any driving. You expand the operating design domain to include every type of road, every environment. As you said, some of them are more challenging, things like rain. We're going to talk a lot about that at our Autonomy Day, and we're actually going to demonstrate what's to come. For us, a lot of those features around expanding the ability for it to drive everywhere with hands-free and then going eyes off, that's something we're really focused on for next year. These are really key developments, and we think not yet today, but certainly by 2027 and 2028, this starts to become a really important consideration for purchase. If done well, it can completely unlock massive pools of demand relative to the competitive set.
+## Speaker 2 | 
+I agree. I mean, just from experience, people who haven't experienced that kind of technology.
+## R.J. Scaringe | Founder and CEO, Rivian
+Once you have it, it's hard to imagine not having it.
+## Speaker 2 | 
+When you see it as the robotaxis just kind of propagate and you show the general public, wait a minute, this technology.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, yeah, completely.
+## Speaker 2 | 
+They'll want to have some of that as an ownership.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, this is by far our biggest focus area from an investment point of view, from a technology development. We've built a really robust network architecture topology, VCUs, our own operating system at the vehicle level. That's not built, it's scaled. We've licensed it as part of a large deal, a $5.8 billion deal to Volkswagen Group. The big next frontier for us is driving into autonomy.
+## Speaker 2 | 
+All right, let's take it back to the core business and the path to profitability. A lot of moving pieces over the past 12 months between tariffs and regulatory credits running off, which not only affect the purchase price decision at the end of this month, and we'll talk about that and maybe some things that you might be able to do to give a little more, you know, get some more things in the door. Also, just like the regulatory credits around selling greenhouse gas credits and zero-emission vehicle credits also changing. How are you navigating that so far and what are the ways that you can kind of offset that to maintain margins, maintain the very significant improvement in margins that you've had over the last couple of years?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, I mean, there's been a lot of changes. I think first, maybe the thing about the categories, there's changes to trade, which impacts us both in terms of cost of smaller components. Uniquely in Q2, there was an export control out of China, which impacted a lot of things, but importantly for us, it impacted rare earth metals, which for us, 100% of our vehicles produced in the States. All of those vehicles are, of course, electric. All of those vehicles require rare earth metals. That was very painful for us in Q2. That's since been lifted, and I think a tremendous amount of work is happening across many companies and in collaboration and conjunction with the U.S. government to create new supplies for some of these very China-specific materials.
+Putting that aside, I'd say the two big shifts we see are this removal of the greenhouse gas , zero-emission vehicle requirements, and what that's driving in terms of the credit sales. For us, it used to be the large source of revenue. We're the second largest seller of this, of course, Tesla being the largest. As that goes away, and then the consumer tax credit, the $7,500 goes away, certainly those are immediate, short-term headwinds. I think a part of this that we should recognize is those incentives also have been creating a bunch of unnatural things in the market. Most specifically, they've created a dynamic where a number of manufacturers, in order to earn credits, have products that maybe aren't selling that well on their own, but they've incentivized them to such a degree that you have very artificial pricing on vehicles.
+You can lease, you can Google that, you can go lease an EV for $50 - $100 a month. That's actually very unhealthy for the landscape because you have this artificially low pricing, which creates downward pressure on everyone else. That's going to go away after September 30th. You're going to see a lot less pressure from most of the existing incumbent legacy manufacturers to try to use incentives as a way to drive volume and use that volume to earn their own credits. That's sort of going to disappear. You're going to see a less competitive environment from both a pricing point of view, and you're going to see a less competitive environment with folks stepping back from electrification and focusing more on either hybrid or their existing combustion business.
+As I look at R2 into 2026 and 2027, I think it's really going to be important in terms of driving overall electric vehicle adoption in the United States. To date, we've really had one set of really good choices with the Model 3 and the Model Y. I think for the first time, you'll have a choice that's also really compelling, but is a different form factor, different brand presentation, different attributes and features that are embedded into the vehicle that are going to give consumers a real choice. The fact that Tesla's been able to maintain such significant market share with a great set of products, but nonetheless, with a set of products that have not changed a huge amount in the last few years, is reflective of just a market that does not have a lot of great choice.
+It's reflective of a market with, I think, consumers looking for something out there and just not finding it.
+## Speaker 2 | 
+It can compete more on your strengths now, yeah, and on design, engineering, and technology. Kind of expressing that with the R2, kind of going back to that, how much of the design and the hardware and software, let's say, dual materials and work is done already? How much of it's cooked? How much is still potentially in play? Remind us kind of your milestones for startup production.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, yeah.
+## Speaker 2 | 
+How are you thinking about it?
+## R.J. Scaringe | Founder and CEO, Rivian
+I mean, from like a building materials point of view, the vehicle's blocked. It's the vehicle, the BOM is sourced. The vehicle I drove in here today is well north of 99% of the parts on it are production tooled. That means both from a supplier cost point of view and from a supplier readiness point of view, the risks are being really well managed, and we have a tremendous amount of visibility into the health of all those different components, and importantly, the suppliers to our suppliers. This is what has, we've felt some pain on this in the past where.
+## Speaker 2 | 
+A year ago, there was some.
+## R.J. Scaringe | Founder and CEO, Rivian
+We had some supplier challenges with supplier bankruptcies, and this actually wasn't our tier 1s. This was in the lower tiers. We're very, very focused on making sure the supply base, inclusive of the tier 2s, tier 3s, tier 4s, are ready to support this significant step up in volume. In many ways, the challenges we've encountered with R1 have been good training for processes and tools, ramping in the middle of COVID and then ramping in the 2022-2023 supply chain crisis was good for some of these learnings.
+## Speaker 2 | 
+What about milestones then in terms of the production ramp in Normal, and then also what you're thinking about, you know, R2 G.A. and the Georgia plant?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah. We've got, we're launching R2 out of our facility in Normal, Illinois. We made the decision to actually allow us to have all of our production still in one campus. We're able to reuse a number of parts of our existing plants, our paint shop, our stamping operation. We added a new general assembly plant, and we added a new body shop, and in total, added about $2.1 million sq ft to the existing facility. That's now built, it's finished. The vast majority of the equipment's been installed, and later on this year, we're going to be building what we call manufacturing validation builds. There's several hundred vehicles we'll build to validate everything from suppliers to logistics to the plant itself.
+## Speaker 2 | 
+By the end of this year?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, and those get built to support the ramp-up of then, you know, as we shift to saleable units. The interesting thing is, as you go from what we call MVP builds to these saleable units, there's essentially like we draw a line in the sand, and once we hit enough of the criteria around things running smoothly, we then turn on the full plant. We start running across a full shift. We started in a single shift, and then very quickly, we pulled in a second shift. The constraint for us in ramping, as we look at 2026, is going to be a few of our suppliers that are being asked to jump up pretty quickly in volume. We are very cognizant that we know exactly which suppliers are going to throttle production in 2026, and those same suppliers are important for us to continue to ramp into 2027.
+The amount of planning that we have on looking at the plan for every part, the plan for the parts that go into every part, has been really robust, just based upon a lot of the scars on our back and the learnings that we've accumulated since first launching.
+## Speaker 2 | 
+Okay. If we were in Georgia right now, touring the land, the project, what would we see?
+## R.J. Scaringe | Founder and CEO, Rivian
+We actually have a ceremony there next week with an official groundbreaking with the governor. It's an amazing site. It's a 2,000-acres site we've built in partnership with the state. The state has funded a full highway that goes right into the site, and we have rail that comes into the site. The plant where the plant is going to sit, all the grading work is done. We've got a water tower, so all the infrastructure is there so that when we start to build the site, it will go up pretty quickly. We've done a lot of work to optimize how we laid out the plant and the logistics in and out of the plant and have the advantage of this, of course, being a greenfield site. In addition to that, we also have the benefit of launching R2 first in our Normal facility.
+We've found opportunities at the vehicle level to further improve it for the Georgia site.
+## Speaker 2 | 
+Oh, really?
+## R.J. Scaringe | Founder and CEO, Rivian
+There are further optimizations that will be.
+## Speaker 2 | 
+In terms of manufacturing options?
+## R.J. Scaringe | Founder and CEO, Rivian
+Really in terms of the vehicle design to then, in conjunction with that, optimize the manufacturing design in Georgia. Those are all things that are underway right now.
+## Speaker 2 | 
+Okay. From that groundbreaking to production, we're still talking about two years.
+## R.J. Scaringe | Founder and CEO, Rivian
+About that, yeah. We haven't provided a precise time, but about that.
+## Speaker 2 | 
+Okay. In terms of business model, you know, a lot of investors, particularly after leading up to the Volkswagen investment and cooperation, and after, you know, see a good opportunity for Rivian to get into different businesses, maybe potentially some more capital light businesses or licensing model, seeing you potentially as like a stood-up kind of tier 1 advanced robotics and AI embodied, you know, enabler or technology supplier and partner. How has that kind of, it's something you've acknowledged before in calls, how has that evolved? I ask that question now because your biggest, let's say your biggest peer, Tesla, Elon's making some pretty, you know, deliberate and decisive actions to diversify away from the steering wheel having car business.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah.
+## Speaker 2 | 
+When I see a lot of car companies, including you, but also a lot of your other pure plays and legacy peers, they say, "We're going to make this EV, we're going to make this EV." I'm like, "Why are you doubling down a business when, or what is it that you, why do you think it could be profitable in this business when Tesla, even at 1.8 million units, is not? The Chinese haven't even come here yet.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah. The question is, like how are we thinking about technology? The deal we did with Volkswagen is really important in that it is the second largest car company in the world. Volkswagen Group is not a large car company, but it has a whole host of brands. Porsche, BMW, Audi, Å koda, CUPRA, Bentley, there's just a wide spectrum of brands across price points, form factors, markets. In many ways, it's the perfect first customer for us as a technology provider because that complexity allows us to demonstrate almost as an existence proof.
+## Speaker 2 | 
+You picked a double black diamond with Wolfsburg .
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, it's hard to think of a way to put it. It allows us to really demonstrate the scalability of the technology. It's now been stated publicly, but one of the first products to come out of this effort is what's called the VW ID.1. It's their smallest vehicle. You can Google it. You can take pictures of it. It's a $22,000 vehicle.
+## Speaker 2 | 
+It's their answer to China.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, exactly. It's their answer to China. When that car launches, you know, as is the case with any car that's pushing techno boundaries, every car company in the world will buy it. BYD will buy it. You know, Xiaomi will buy it. Xiaopeng will buy it. We'll take it apart. I think everyone is going to be impressed with how elegant the network architecture is, the ECU layout, and importantly, the associated wiring and electrical systems to support that. It's really a massive step forward relative to anything that's been done before. The size of the vehicle and the price point of the vehicle forced it. That's part of our technology platform. That same platform is going to equally be used, obviously, with a lot more IO and maybe a few more ECUs, zonal ECUs to support bigger cars, but flagship vehicles in the Porsche and Audi brand.
+To cover flagship within Porsche or Audi down to the lowest priced EV available in Europe on the same technology backbone demonstrates capability that we think is scalable to many other manufacturers. We're absolutely thinking about that. We do think it's an interesting part of the business. We also think that every manufacturer is going to have to make this transition to a software-defined architecture just as a foundational element to even really be serious about integrating any form of AI or autonomy into the vehicle. We see this as a really exciting opportunity.
+## Speaker 2 | 
+It's been over a year. It's been about 15 months or so, I think, since you announced the deal. It was like spring or early summer 2024.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, it's about a year.
+## Speaker 2 | 
+How's it going so far? I mean, it sounds like based on what you said, you're getting product into vehicles.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, I was just in Munich this week for IAA. It's surreal. I grew up a car enthusiast. Specifically, I was a Porsche.
+## Speaker 2 | 
+You're still a car enthusiast.
+## R.J. Scaringe | Founder and CEO, Rivian
+I'm still a car enthusiast, very much so. I was a Porsche fan and a Volkswagen fan. When I was a kid, I would wait for the internet, you know, European car shows to come, and I'd read about Frankfurt. I'd read about what's happening, the cars being released, and wait for the magazines to come out and read them. It was surreal to be there this time and to be part of that and see a car being presented and then realize that that car is all of our tech. Within Volkswagen, it was a very large display that they had. It was a beautiful layout where they had a bunch of different brands, a bunch of different cars. The only brand that was on the wall in their display, and that wasn't one of their own brands, was Rivian.
+It said Rivian, and it had a whole description, this beautiful animated thing with a car that described our technology. It said a partnership to change the world. Big letters. I was reflecting on exactly what you said. It's been about a year since we signed the deal. I was thinking, boy, in the last year, we've now announced these programs. We've built a deep relationship with the Volkswagen Group. They're very happy with it, so happy that they're willing to put it on the wall and very publicly broadcast how closely we're working together. I think a lot of that has come out of our working teams really like the technology. They see it as a big advancement relative to what else is out there. My relationship with the CEO of Volkswagen Group, with Oli, is outstanding.
+The person who's running the joint venture, who's our Head of Software, he's an outstanding leader, and he's built great partnerships. As I said, it really demonstrates our ability to work with large companies. This is now the second large company that we do business with, the other being Amazon, which we partner with to build commercial vans. We continue to show that we're capable of working with large businesses and applying our technology and our capabilities to support those businesses.
+## Speaker 2 | 
+The partnership does not yet include ADAS at this point, but it could. You could deepen and expand the scope within that big complex partner, or you could also diversify amongst partners as well.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah.
+## Speaker 2 | 
+When I think about the autonomy side, which we touched on earlier, just to go back to that, I remember it was also around a little over a year ago, you mentioned when we were talking about ADAS and you were getting the Mobileye camera off the windscreen, you said an OEM either needs to outsource everything to a partner or do everything or almost everything in-house. It's that hybrid model of doing some things and outsourcing where things kind of go wrong. For this audience to understand, like everything that you continue to learn, especially as the technology gets into the AI flywheel, why is that? Why have you taken the approach to go internal? Do you have any, you know, are you, tell us why that was the right decision?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, yeah.
+## Speaker 2 | 
+Where do you go, you know, from here?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, that's a really important question. When we think of self-driving, I think we often look at it and we think of it as a space that's sort of been around for maybe 15 years. While that's true, there are two very different chapters of self-driving. There's the chapter from, call it, early 2010s to maybe 2021, 2022. In that chapter, it consisted of platforms that had a perception stack that saw the world. In this seeing the world, whether it's cameras or cameras plus radar plus LiDAR, whatever the perception stack is, it would identify objects, it would classify those objects, and then it would associate vectors to those objects.
+## Speaker 2 | 
+That was by drawing a circle around the object.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, and you'd have annotations and you'd have a bunch of, actually, often humans that would try to, you know, write the programs for, is that a tree, is that a person? Those then would get handed to a planner and the planner would be operating around a set of rules that were written by humans. It was a programmed set of rules. That rules-based environment would then prescribe to the vehicle how it should behave based upon all that object detection in that environment. As a result, these systems were very specific to the market that they were tuned for, meaning you couldn't take a self-driving vehicle that was developed and tuned for California and put it in Tokyo and expect it to work. Similarly, they were very specific to the vehicle and the sensor set that was on that vehicle.
+If you had increased cameras or different cameras, it required a very heavy lift to reprogram the vehicle to work in that environment. In the early 2020s, along came this big technical innovation of transformers and using transformers to do things like encoding. Suddenly, the whole model started to shift where we went from a rules-based environment of how a self-driving vehicle would work to one in which you're building a very large foundation model or neural net that prescribes how the world works, how you drive in the world.
+To train that model, you need raw data, meaning you can't take a bunch of outputs from third parties, you can't take outputs from, let's say, a Mobileye camera that's saying, "Hey, that's a car moving at this velocity." You need the raw information that you're going to feed into building a large multi-dimensional model, and you're going to train that model with the benefit of all the data coming off of your deployed car park. To do this well, you need control of the sensor set. All the sensors need to provide the raw signals in. You need a really robust and thoughtfully designed triggering system. How do you select which piece of information you want to take?
+There are obvious ones like does the car disengage when it's being driven on its own, that's obvious, but less obvious, like for example, if you're running the model in parallel to the human driver, anytime the model predicts something different than the human driver, that's interesting. That's a chance to learn. You build this framework to trigger and select data, and then you need to take that data and move it off the vehicle. You need a really robust data management platform. You need to be Wi-Fi connected, and then that data has to go somewhere. It needs to go to a large training environment. This is thousands of GPUs that are running and building this model. That needs to happen all the time, every day on every car that's deployed. To do what I've just described, it just simply doesn't work.
+It does not apply in an AI-centric world if you have a tier 1 supplier doing these cameras, another tier 1 supplier doing these cameras. You just don't have an ability to build this data flywheel. What I said to Adam, which I still strongly believe, is that you have to give it all to one person, to one entity that's going to have the ability to create that data flywheel, or the inverse of that, which is you have to own it all yourself. We, of course, took the decision. This is in, as I said, a few years ago now, late 2021, early 2022, to build this in-house. We built a large team. We built a perception stack. We built a compute platform. We built this data flywheel. We launched the vehicles middle of 2024, and we've been building this data set since then and rapidly training.
+Given the size of our car parks, much smaller than Tesla's, which is also using this approach of a really data-heavy, end-to-end trained AI-based approach, we've also gone and we have a really robust camera set. We supplement that with a robust radar platform. We have a 3D imaging radar in the front and then corner radars. We're using this stronger perception stack to allow for accelerated learning, particularly in tough environments. Think, you know, being able to drive in the rain or being able to drive in the fog is really, you know, you can teach the model, teach the model, and the camera's much better if you have things that can see through the rain or see through the fog, like radars. That's where we are. We're starting to see the progress of it really manifest in features.
+We're going to see big steps forward in some ways, a non-linear acceleration to the content as we look at the next 12 months, with the next one being the ability to, as I described it, go hands-free in just about any road. We're going to provide some demos at this Autonomy Day at the end of the year that's going to.
+## Speaker 2 | 
+We know where this is going to be, is it the Autonomy Day?
+## R.J. Scaringe | Founder and CEO, Rivian
+It's going to be in the Bay Area.
+## Speaker 2 | 
+Okay.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, we haven't announced it yet, but I just did, so there we go.
+## Speaker 2 | 
+We got five minutes left. Any questions from the audience for R.J.? Just speak up. Project.
+## Speaker 3 | 
+In what's going on with the largest defender and maybe EV charging off the customer base with these alliances and politics, how does this open the opportunity for R2 to really maybe have a, you help quantify just a bigger market opportunity? I don't know if you've quantified this at all internally, but how do you think about that?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, I mean, it's hard to quantify. I think.
+## Speaker 2 | 
+Are you getting into politics anytime soon?
+## R.J. Scaringe | Founder and CEO, Rivian
+No.
+## Speaker 2 | 
+Okay.
+## R.J. Scaringe | Founder and CEO, Rivian
+I'm fine.
+## Speaker 2 | 
+All right, I just want to make sure.
+## R.J. Scaringe | Founder and CEO, Rivian
+I think the way we look at it is the customers ultimately are going to need choice. In the U.S., we've had electrification somewhat stabilize at around 8% penetration. A lot of talk goes on to what's causing that. I actually really believe we often miss the true causality of it, which is just a true lack of choice, true lack of choice of highly compelling options. If you're going to go buy a vehicle today, the number of great choices is well under the number of, you know, fingers on my hand. It's, you know, I'd say Model 3, Model Y, great vehicles. In terms of if you want a vehicle under $50,000, they're strong, but there's not a lot of others. You contrast that with the ICE space. We have 300 + different choices. It's really created a glass ceiling on how much demand there's going to be.
+We look at R2, and I think certainly there's going to be some cross shop and maybe some movement of customers from Tesla to Rivian. We'll see that. I think the bigger point is that there's 92% of customers that haven't yet found a product that was compelling enough to get them to move out of their ICE vehicle. I mean, I'm highly biased, but when I drive an R2, I just can't imagine someone choosing to be in a similarly priced five-passenger crossover SUV in the ICE world. The technology, the smoothness of ride, the acceleration, the range, the cost of operating the vehicle, it's just so advantaged. The form factor is really interesting, and there's a bunch of other unique features we've developed in the vehicle. The part I'm most excited about is just everything.
+I rarely, you know, I drive a Rivian almost every day, but when I travel, a lot of times I'll be in a rental car just because I want to get experience and sort of expand these non-EVs. Every time I'm in one, I'm sort of blown away that people are still buying them. I think, but why are they doing that? They need a different form factor than what's available, or they need a different, they want a different brand or look. They want a different set of attributes. The delta in terms of capability features is really significant. I've never been more bullish than I am today on what we're building and what's to come with R2.
+## Speaker 2 | 
+All right. We got one here. Okay.
+## Speaker 4 | 
+You mentioned earlier that heavy rare earths are kind of a pinch point. Do you see OEMs like yourself investing up the supply chain directly into mines, like similar to what GM did with MP Materials maybe a couple of years ago now?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, it's a great question. It's a really hard question in that the reality, the harsh reality is when we look at rare earth metals, there's not processing that exists at scale here in the U.S. There's some efforts, as you know and as you referenced, but they're not yet at scale. Until they're at scale to support production, in our case, you know, lots of magnets for motors, we do have a real dependency on the China supply chain. We and many others, many other industries as well, felt this in the second quarter when there was the export control out of China that halted production. I think that was a wake-up call to many that we need to build supply chains outside of that.
+There's a role that we play in that, there's a role that I think collaborations play in this, and there's certainly a role that the U.S. government plays in helping to create the right environments for those to thrive here, either in the United States or in friendly places. I think that's a real risk, not just of electric vehicles, but to a wide range of things that need heavy rare earth metals.
+## Speaker 2 | 
+Question here.
+## Speaker 5 | 
+Thanks, R.J. When it comes to the upcoming expiry of the credit, I guess there's creating this dynamic of some demand put forward this quarter, and maybe it's probably going to pull some from this year and next year. I guess present some challenge with your sales and delivery team in fulfilling those orders. Could you maybe talk to how the team is handling that?
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, I mean, the teams are working hard. I think that we have the ability to absorb those types of spikes, and we've built a process that allows it to move pretty quickly. I think a related question is, what does Q4 look like or Q1 look like? In our case, because our products today with R1, the price for the average selling price in R1 is around $90,000, and that's the average. That means people buying a tri-motor or a quad motor are spending quite a bit more than that. What we're finding is a number of a lot of our customer base is much more pricing sensitive, and the tax credit isn't a huge motivator. It doesn't really change the perspective of whether they're going to buy the vehicle or not.
+For the more entry side of our business, where we have like our standard pack, there is more sensitivity. We're spending a lot of time thinking about how to, you know, as we get into Q4, what demand was pulled forward in Q3 from that, that we're going to see a fall off in Q4. We are projecting there's going to be some impact in Q4, but we're watching really closely to try to project what that's going to look like.
+## Speaker 2 | 
+Okay, we were at, oh, sorry, quick one. Go for it.
+## Speaker 4 | 
+Very quick. You're going smaller in size with a lot of vehicles, but I, you know, I'm somebody that has a large family and a true seven-passenger Yukon kind of size vehicle. Is that something that's conducive to an electric vehicle? Because I don't see too many of those today. I know GM and Ford have, I mean, they're trying, but it seems like that's something that you do very well in.
+## R.J. Scaringe | Founder and CEO, Rivian
+Yeah, we have like our current seven-passenger SUVs, not quite as big as like the big Denali, but it's, I mean, I've sat in the third row. It's comfortable. You can sit back there. We're not planning to build anything larger than that. It's a very unique U.S. market vehicle. You end up with a, it's a pretty small niche. The bigger market by far is actually the midsize SUV, which is where R2 is playing.
+## Speaker 2 | 
+R.J., we're at time, but just a quick one as we head out. I'm going to, let's do buy, sell, hold, rapid fire. I'm going to list, say a word or two, and you tell me buy, sell, hold.
+## R.J. Scaringe | Founder and CEO, Rivian
+Okay, I don't know where this is going to go.
+## Speaker 2 | 
+That's good. That's why I'm doing it. Okay. I hope you come back again sometime. All right. LiDAR.
+## R.J. Scaringe | Founder and CEO, Rivian
+We think it's important.
+## Speaker 2 | 
+Buy, sell, or hold.
+## R.J. Scaringe | Founder and CEO, Rivian
+Buy.
+## Speaker 2 | 
+Okay. Simulation.
+## R.J. Scaringe | Founder and CEO, Rivian
+Important. Buy.
+## Speaker 2 | 
+Okay. Rare earth magnets.
+## R.J. Scaringe | Founder and CEO, Rivian
+Super important.
+## Speaker 2 | 
+Okay. Humanoids.
+## R.J. Scaringe | Founder and CEO, Rivian
+I think many form factors of robotics.
+## Speaker 2 | 
+Micro-mobility.
+## R.J. Scaringe | Founder and CEO, Rivian
+Absolutely. Yeah.
+## Speaker 2 | 
+Okay, selling cars into Europe from the U.S.
+## R.J. Scaringe | Founder and CEO, Rivian
+Very important, yeah.
+## Speaker 2 | 
+Okay.
+## R.J. Scaringe | Founder and CEO, Rivian
+It's easier now with the tariff structure changing.
+## Speaker 2 | 
+Robo taxis.
+## R.J. Scaringe | Founder and CEO, Rivian
+We think it's important.
+## Speaker 2 | 
+Do you experience them on the regular?
+## R.J. Scaringe | Founder and CEO, Rivian
+I mean, I split my time in the Bay Area, so yeah, it's...
+## Speaker 2 | 
+Coolest place you've ever driven a Rivian?
+## R.J. Scaringe | Founder and CEO, Rivian
+Probably Utah.
+## Speaker 2 | 
+Okay.
+## R.J. Scaringe | Founder and CEO, Rivian
+Utah and Moab.
+## Speaker 2 | 
+All right. Two more. Favorite vegan dish?
+## R.J. Scaringe | Founder and CEO, Rivian
+Chow mein masala.
+## Speaker 2 | 
+Okay. How does a vegan get by in Wolfsburg, Germany?
+## R.J. Scaringe | Founder and CEO, Rivian
+With energy bars.
+## Speaker 2 | 
+Okay, thanks, R.J. That was off.
+Data Source: Quartr Last updated: Sep 11, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (5) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

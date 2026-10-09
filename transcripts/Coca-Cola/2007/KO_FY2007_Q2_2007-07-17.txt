@@ -1,0 +1,7 @@
+Company: Coca-Cola
+ROIC Symbol: KO
+ROIC Name: The Coca-Cola Company
+Year: 2007
+Quarter: 2
+Date: 2007-07-17 08:30:00
+Executives

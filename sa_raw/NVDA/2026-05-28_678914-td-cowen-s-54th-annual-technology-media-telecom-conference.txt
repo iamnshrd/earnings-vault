@@ -1,0 +1,176 @@
+TITLE: TD Cowen's 54th Annual Technology, Media & Telecom Conference
+DATE: 2026-05-28
+## Moderator | 
+Thank you, everybody. Welcome to day two of our 54th annual TMT Conference. Really pleased to be joined on stage by Sean O'Loughlin, who heads up our networking coverage, and Gilad Shainer of NVIDIA. How'd I do?
+## Gilad Shainer | SVP of Networking, NVIDIA
+Almost.
+## Moderator | 
+All right.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Close enough.
+## Moderator | 
+All right. My bosses are in the room, so I am obligated to ask you for an II vote if you think we've earned it this year, and if the Wi-Fi password wasn't subtle enough, we'd really appreciate it. Gilad, maybe just to start with that out of the way, you guys reported earnings last week. The networking numbers you gave, I think, were a $14.9 billion, up 199% year-over-year. A lot of that is obviously captive in your NVL racks, maybe you could walk through what are the key components that are driving all the momentum you're seeing on the networking side?
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah. Just to tell a secret, I got a pick on the questions beforehand. The original question was, 199% growth and nearly $15 billion of revenue. I couldn't sleep at night yesterday because I tried to figure out who wrote the question. 199% and nearly $15 billion, right. It could have been an engineer, because an engineer would say 199 and 14.8. It could be marketing person, because it was nearly $15 billion, right. I couldn't sleep at night, sorry for that. I tried to figure out. You correct it now. When you look on what we built, on what we design, we design a single unit of computing. We design an AI factory, which is a single unit of computing.
+When you design a full data center, full AI factory that needs to behave like a single unit of computing, there is a lot of infrastructures, a lot of networking infrastructures that you need to bring into that AI factory to make it work like one. There is scale up with NVLink. There is scale out, and scale out we have InfiniBand as one option, and we have Spectrum-X Ethernet as another option. We have scale across that we're using with uncertain
+Then we have introduced a new storage infrastructure with BlueField as a storage processor, and we also have an access network that we're using BlueField as a device to enable access into the AI factory and provide all the security capabilities and so forth. All of those networks, all of those areas, infrastructures are growing.
+We see growth in NVLink as a scale-up domain. We see growth on InfiniBand and Spectrum-X Ethernet as scale-out domain. We see growth in BlueField as a storage processor, as also a DPU to enable access. There is growth on all those infrastructures, all those elements, and that contributes to the numbers that you mentioned.
+## Moderator | 
+Okay, thank you. I'm going to go back in time all the way to 2020. NVIDIA made the acquisition of Mellanox that brought you and your team over. We've referred to this on our team as perhaps the most important and successful technology M&A that's ever happened. Can you talk about how that deal came together? What did NVIDIA see and why they felt they needed to bolster that networking asset so early, and how is it paying dividends now, and what are your expectations going forward as well?
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah. There's another thing that I saw in the questions, by the way. Those are very long questions.
+## Moderator | 
+Gilad you looked at them.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Very long questions, yeah. I'm an engineer, so if you have more than four words in a question, I need to recap what you ask. How the acquisition happened, I think it was simple. Jensen came, we talked, and he put a deal and we signed it. That's it. Simple as is. I think that Jensen saw that the world need computing data centers or accelerated data centers, AI factories. He saw that NVIDIA needs to become a computing company, not a device company, not an ASIC company, but a computing company. The way that you connect computing ASICs will determine what those compute ASICs can do. If you connect it in one way, you just got a server farm. If you connect it in different way, you actually can build a supercomputer.
+In order to go to a direction to enable the company to become a computing company, you need to bring the right networking infrastructure that enables all of that magic. I think this is what he saw in Mellanox, and that's the reason that he came, we talked, there was a love in first sight, put a bid and we agreed, and we join NVIDIA. Joining NVIDIA, Mellanox was kind of one team. There are no different business units in a sense. Mellanox was one team.
+We were focusing on building networking infrastructure for distributed computing workloads. We built a great technology that used in high-performance computing, AI is another example of distributed computing workload, that's why Mellanox was a great fit to NVIDIA. When we joined NVIDIA, when I joined NVIDIA, it was a great experience because NVIDIA actually behave and work the same as Mellanox. It's one unit.
+It's actually one unit. There's group discussions, groups meetings, networking, and compute, and infrastructure all work as one team, the same as Mellanox. It actually felt like home.
+A larger home. There's more people in that house, more rooms in that space. It felt like we didn't leave Mellanox. It was a great experience, and it still is.
+## Moderator | 
+Okay. Per your direct feedback, I'm going to ask two questions at once.
+## Gilad Shainer | SVP of Networking, NVIDIA
+That's going to be hard. I'm not going to remember the second question.
+## Moderator | 
+No, we'll get through it together, and then I'll pass it to Sean to ask about scaling up, out, across, and diagonally. I think you guys have shifted from selling GPUs to selling fully integrated racks, and I think there has been some pushback from ecosystem partners that don't like being captive into one, not having optionality of which components to pick and choose. Can you talk about the pros and cons of that go-to-market, and then also, how NVLink Fusion came about? Was that a reaction to this trend, and what that offers your customers?
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah. Well, you did combine two questions.
+## Moderator | 
+Thank you.
+## Gilad Shainer | SVP of Networking, NVIDIA
+When you build a supercomputer, when you build an AI factory, you need to build it as one unit, because that's actually the compute unit. When you build one compute unit that has a lot of components inside, you need to have an extreme co-design that combines the software and the hardware and the compute ASIC and the networking ASICs and storage element and so forth, because you build one unit. We design it vertically. Everything needs to work as a balanced system. If one element does not give what the rest of the elements are required, then that system will not work.
+Okay. When we deal with distributed computing workloads, I'll give you one example. When you deal with distributed computing workloads, you need all the compute ASICs to work like one. If one of those ASICs, let's say I have hundreds of thousands of GPUs in my factory, in my data center. If one of that GPU ASIC gets data a little bit late versus all others, all others will wait. Okay. That's how serious it is.
+Therefore, you need to design it vertically. After we design it vertically, and we bring all the co-design elements and making sure that everything works as a single unit, we actually sell it horizontally. You can take pieces. You can take pieces of it. You can take the GPU, you can take the CPU, you can take the networking, you can take NVLink separately, and then you can mix and match with your own designs if you want to.
+What we do, it's actually vertically, but everything can be used as a different separate unit. Nothing is closed. Everything is very open. All the interfaces are given, are known. You can actually put your own software and own modifications and your own enhancement on top of what we do. Therefore, you can choose what you want to take.
+NVLink Fusion, you mentioned NVLink Fusion, and that's actually an answer that it's not a black box.
+Everything we design, we are so proud of them, then we are happy if you take any piece of it. NVLink Fusion, because I think it's the only scale-up network that is proven from performance and from production perspective. If we build something that great, why don't we want our customers and partners to enjoy that as well, even if they have their own CPU or even if their own GPU, that they have built, and they want to use it. Therefore, nothing is a black box. All the components are variable. You can choose, you can mix and match. Fusion actually enable our customers to also take NVLink as a separate element if they want to do that.
+We're also working with an ecosystem, so we have already made announcements on our partners and customers that are part of NVLink Fusion ecosystem or using NVLink Fusion for their own AI factories.
+## Moderator | 
+Thank you. All right.
+## Sean O'Loughlin | VP, TD Cowen
+I wanted to pivot a little bit to some more geeky and more fun questions about tech rather than these lame business questions. Maybe if I could just ask an open-ended question about Spectrum-X and its approach to Ethernet in a system way where there's both intelligence on the NIC side and within the switch as opposed to a more purely switch-centric architecture. What are the benefits on the Spectrum-X side, and how does that translate both in a training environment and in a more distributed inference environment?
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah. Well, we can take an hour-
+## Sean O'Loughlin | VP, TD Cowen
+Yeah
+## Gilad Shainer | SVP of Networking, NVIDIA
+to answer this question.
+## Sean O'Loughlin | VP, TD Cowen
+Less.
+## Gilad Shainer | SVP of Networking, NVIDIA
+If you have time. When we start working on Spectrum-X Ethernet, well, the reason that we start working on Spectrum-X Ethernet, first, we had InfiniBand, and weâll still have, and itâs growing, and itâs one of the best technologies ever created for distributed computing workloads. Thatâs why Mellanox did so great in high-performance computing, and if you look on high-performance computing supercomputers, youâre going to see a lot of InfiniBand there. It was built for low latency.
+It was built to eliminate jitter, which is a key element, and so forth. As AI is growing and AI, every data center become accelerated, every data center becomes an AI factory. We knew that we also need to bring an option for Ethernet because we have customers that invested in Ethernet. They know how to run Ethernet.
+They build their software management on top of Ethernet, and it's going to be hard for them to go and do something else. We have InfiniBand for people to use InfiniBand, and we also wanted to design an Ethernet version that can also be used for scale-out, that can also be used for AI workloads and distributed computing workloads. When people refers to Ethernet, it's important to note that there is no one Ethernet out there.
+There are different kinds of Ethernet, and different kinds of Ethernet that were developed for different kind of workloads. There is Ethernet kind that was developed for high virtualized small radix infrastructure. There is another kind of Ethernet that was developed for single server workloads, large cloud infrastructures.
+There is another kind of Ethernet that was developed for telco and DCI and kind of long distances and based on deep buffers approach and so forth. The issue that we had is that none of those were built for distributed computing workloads. None of those were designed to eliminate jitter. Jitter was fine.
+## Sean O'Loughlin | VP, TD Cowen
+Right.
+## Gilad Shainer | SVP of Networking, NVIDIA
+If I build Ethernet for single server workloads, I don't care if there is a skew in time.
+## Sean O'Loughlin | VP, TD Cowen
+Yeah
+## Gilad Shainer | SVP of Networking, NVIDIA
+between one server to another server, because there is no communications between them. If I'm building something for long distance or DCI, and I base it on deep buffers, I actually based it on creating jitter.
+## Sean O'Loughlin | VP, TD Cowen
+Yeah.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Okay? None of them were dealing with jitter, and jitter is the biggest problem when you deal with distributed computing workloads or AI training and inferencing, which is our example for distributed computing workloads, and that's the reason that we actually created Spectrum-X. Spectrum-X is the only Ethernet that is purposely built for AI. Something that we learned from InfiniBand is that there is no way to build a network that's going to eliminate jitter and do that on a single device. No way.
+## Sean O'Loughlin | VP, TD Cowen
+Right.
+## Gilad Shainer | SVP of Networking, NVIDIA
+It's simple to explain it, okay? Data that comes out from the GPU goes out in an order. Same as we speak. There is an order of the words. Data that's going to be written to a remote GPU needs to get to that remote GPU memory in order. If that data is going to go through a switch, and that switch needs to maintain that order, then that switch will introduce jitter. The reason is that every switch has a lot of ports.
+## Sean O'Loughlin | VP, TD Cowen
+Right
+## Gilad Shainer | SVP of Networking, NVIDIA
+that you can use. There is a lot of path in the network. If the switch will start doing a distribution of every packet can go to a different route, to a different road, because there is less busy roads that I want to use, then that will create, by definition, out of orderness in the delivery of data. That means that I cannot use it on the other side. If you look on all the designs of the off-the-shelf switches that exist today, they're actually based on not creating out of orderness. They're using approaches like flowlets, which mean if there is a flow, I'm going to keep that flow, even though there is an empty road that I can get it faster. No, I'm going to keep it the same path because the data must get in order to the other side.
+That's your enemy, okay? That's how you create jitter. We didn't want that to happen. We actually wanted to make sure that there is no jitter. In Spectrum-X Ethernet, the switch needs to unconditionally distribute traffic across the entire infrastructure that exists. The switch will choose, for every packet, a different port. What is the fastest path? What is the least busiest path I'm going to use? By definition, I'm creating out of order of data delivery.
+## Sean O'Loughlin | VP, TD Cowen
+Right.
+## Gilad Shainer | SVP of Networking, NVIDIA
+In order to put the data back in order, I need a SuperNIC on the other side.
+## Sean O'Loughlin | VP, TD Cowen
+Yeah.
+## Gilad Shainer | SVP of Networking, NVIDIA
+I'm using RDMA, because RDMA enables me to put the data directly in the GPU memory, no buffer copies, no delay on the other side, but I need a smart element that sits next to the GPU on the server that will take data that's going to come completely out of order, but place it in the right order in the GPU memory. That's the purpose of the SuperNIC. That's why when you build an infrastructure for distributed computing workloads, you need to have a switch element that does the distribution unconditionally, and then you need a SuperNIC that will put the data back in order. That's why it's an infrastructure, and it's not a single device.
+## Sean O'Loughlin | VP, TD Cowen
+I think that's a perfect segue to kind of expand this conversation about out of order and packet spraying type concepts and talk about, maybe if you could, just talk about uncertain and the recent announcement that you made with your consortium partners, as well as maybe contrast that with some of the goals that the Ultra Ethernet Consortium is going for. Because it sound, to a layman like myself and I would assume most in the room, a lot of what Ultra Ethernet Consortium is attempting to do is solve for that problem.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah. There is more and more focus on AI workloads. Every data center is going to be accelerated, and AI is going everywhere. Obviously, there is a good attention on it. What we did in Spectrum-X Ethernet is two things. One of them is we brought a lot of learning from InfiniBand to Ethernet.
+## Sean O'Loughlin | VP, TD Cowen
+Yeah.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Lossless. The reason that we prefer lossless is because we don't want to drop packets because of congestion. Once you drop packets, you need to retransmit it, and that means jitter. That means extra delay. We don't want to drop packets, and we're focusing on lossless. Focusing on RDMA. By the way, the other protocols that you mentioned are also based on RDMA. RoCE is just RDMA over Ethernet.
+## Sean O'Loughlin | VP, TD Cowen
+Yeah.
+## Gilad Shainer | SVP of Networking, NVIDIA
+If you say RDMA and RoCE, actually, you said the same thing, okay, twice.
+## Sean O'Loughlin | VP, TD Cowen
+ATM machine.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah. MRC, it's also RDMA or RoCE, for example, based and so forth. We also brought adaptive routing into the infrastructure that is being done in hardware, because you actually want the decisions on the different paths to be done very quickly, immediately. We brought all those things into Spectrum-X. We also enable in Spectrum-X a flexibility to support other routing protocols on top of that. MRC is an example for that.
+## Sean O'Loughlin | VP, TD Cowen
+Got it.
+## Gilad Shainer | SVP of Networking, NVIDIA
+MRC is another way or another algorithm to how to distribute the traffic across the network. Spectrum-X does not support just one protocol. Spectrum-X actually supports multiple protocols on that infrastructure. It supports the adaptive RDMA protocol. It supports MRC protocol on top of that. I can tell you, it supports other customized protocol that our other customers or large customers have developed and are using. There is a variety of routing protocols that can run on top of Spectrum-X, and they are optimized as entire infrastructure on the end-to-end side, because again, for any protocol, you need two element at least. There is an element on the SuperNIC and there is the element on the switch.
+A lot of things, by the way, that we built into Spectrum-X, those are the things that were discussed later on in other consortium, like you mentioned, and there is also other groups of companies that working on more algorithms and so forth. As we have customer that build very large infrastructures, very large AI factories, those are expensive AI factories. They would like to optimize their infrastructure to the way they run their own workloads.
+## Sean O'Loughlin | VP, TD Cowen
+Right.
+## Gilad Shainer | SVP of Networking, NVIDIA
+That's why we brought the ability in Spectrum-X to support different kind of routing protocols, to do that in a zero jitter approach, and it could be the adaptive RDMA, MRC, and several others.
+## Sean O'Loughlin | VP, TD Cowen
+Just to briefly clarify when we talk. Would it be fair to compare MRC to, for example, BGP as that is another routing protocol that could be built on top of Spectrum-X?
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah
+## Sean O'Loughlin | VP, TD Cowen
+obviously has more components.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Exactly. First in Spectrum-X was important for us to use all the standard protocols that exist in Ethernet.
+## Sean O'Loughlin | VP, TD Cowen
+Right.
+## Gilad Shainer | SVP of Networking, NVIDIA
+The way that we implement that was done differently in order to eliminate jitter, and so forth. MRC is another way to route packets, for example. You mentioned other protocols. Yes, there is multiple protocols that you can use. There is ways to implement that in a way that you eliminate jitter, have zero jitter, which is the key element, and all of those options are supported on Spectrum-X Ethernet.
+## Sean O'Loughlin | VP, TD Cowen
+I'll maybe still one more geeky question. That is, if you could just talk about how the networking problem changes moving from large scale pre-training to maybe a multi-tenant inference workload type. Maybe how are your customers thinking about provisioning fungibility across those two deployments? Is there maybe an overprovision of a back-end network in the eventual inference because it gives you flexibility to scale up and down, not scale up in the networking sense, but scale up and down.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah
+## Sean O'Loughlin | VP, TD Cowen
+in a sense.
+## Gilad Shainer | SVP of Networking, NVIDIA
+There is a lot of commonality between actually pre-training and inferencing. Both are distributed computing workloads. Both require zero jitter. Now, when we say zero jitter, zero jitter means that if you're running a single workload, that workload will not impose different delays on different communications to different GPUs, because that's going to be a nightmare, okay. From performance perspective. It's the same thing when you run multiple workloads on the same infrastructure, like a cloud, like AI cloud. One of the key problems in traditional clouds and off-the-shelf Ethernet was used is, as jitter was not a thing that was a focus, what happened is that one workload could impose performance issues on another workload.
+## Sean O'Loughlin | VP, TD Cowen
+Noisy neighbor.
+## Gilad Shainer | SVP of Networking, NVIDIA
+One workload can create delays in the network that will impact another workload that share the same infrastructure. One of the common best practices in traditional cloud was never have two different users runs on the same switch, because one will impact the other, and then your SLA is gone out of the window. There was a heavy focus on how do I schedule different jobs in a traditional cloud that one job will not be on the same switch as another, because that will negatively impact the performance on another job. Once you deal with jitter, once you eliminate jitter, it means that there is no traffic that will create congestion in the infrastructure, if there is no traffic that will create congestion in the infrastructure, there is no way from one workload to impact another workload.
+It doesn't really matter if those are two training workloads running on the same infrastructure or it's 100 inferencing workload that runs on the same infrastructure. You need the same solution for both. What we brought in Spectrum-X for training, that was the first workload that we're running. It's so amazing now when you have inferencing, you can actually see the difference in that. Now, inferencing does enable or board the need to create more infrastructures.
+Recently, we announced a new storage infrastructure for context, for memory context, for inferencing. Now as we move to the world of agentic AI, there is AI talks with AI, there is much more data that you need to hold. There is larger sizes of KV cache. Not everything can be stored in a local server, in a GPU server.
+You need to go to an outside storage, and the outside storage that exists is network storage. Network storage is great for a variety of workload, but it's not really optimized for inferencing. Network storage was built to make sure that the data is not going to get lost. I'm going to invest in replicas of the data and making sure that if an SSD went down, I still have replicas in others. It's too expensive if you look on inferencing, because in inferencing, for the rare cases that something's going to happen to an SSD, I can actually recalculate the data.
+Instead of investing in replicas and so forth, I can build something that is going to be much more effective and optimized for inferencing, and that's what we did with BlueField and uncertain and creating a new storage infrastructure for inferencing for KV cache. What we built for training works greatly for inferencing, actually. Inferencing created or drove the creations of more infrastructures as part of the big AI factory.
+## Moderator | 
+All right. I'm going to ask one that Sean's going to have to deal with the answer to. It seems like the debate on CPO has shifted from scale-out to scale-up more recently. What's your view of what CPO can bring to both of these domains, and what's sort of a reasonable timeframe at which we should expect CPO adoption more broadly in your compute ecosystem?
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah. I'll combine two answers, if it's okay. Wow. He's good. You combined two questions, I'll combine two answers. I heard that there is a debate between copper versus CPO, copper versus optics. It's actually a funny debate. It's like you're going to ask, how do I look on airplane versus a car?
+If I need to drive to the next city, if I need to drive to New Jersey, I'm going to take a car. If I need to fly to Taiwan, which I have a flight tonight, I need to take an airplane, right? There is no way I can use a car. The same thing goes to copper versus optics. Okay? If I can use copper, which means is that the distance that I need to cover is applicable for copper, I'm going to use copper.
+Because optics will be too expensive for that. If I need to go to New Jersey, I'm not going to take an airplane. I can. I can fly from Newark to JFK. For example, I can do that with an airplane.
+## Moderator | 
+A helicopter.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Yeah.
+## Moderator | 
+That's a CPO.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Why, right? Copper consumes zero power. It's very cost-effective. It's very reliable. The problem is short distance. If that distance is okay for where I'm designing, I'm going to use copper. If the distance is not applicable and copper cannot cover the needed distance, I'm going to use optics. That simple. Now, in the optical world, in optical connectivity, there is different ways to connect optics. There is different kind of transceivers and so forth.
+Optics, in order to cover distances, require to use active devices. They require us to use different kind of light sources and DSPs and optical engines and so forth. All of those consume energy. We live in a world today that power is the number one limit of AI factories, of the compute capacity I can build in AI factory, right? That's my limiting factor.
+Of course, I want to try and optimize power consumption, I want to reduce power consumption wherever I can in order to be able to bring more compute, because this is how I'm limited. Since optical connectivity is more and more used, scale-out requires optical connections because of distance, and it consumes more and more power. Scale-up domain, if that scale-up domain is within a rack, I'm going to use copper.
+If that scale-up domain start to have multiple racks, I need to use optics. When we talked about, for example, connecting 1,152 GPUs with the uncertain we also mentioned, hey, that will also use co-packaged optics or optics in order to run the distance. If I'm using optics, and optics on scale-out infrastructure today can get close to almost 10% of the compute capacity on power perspective, that's a big number. Co-packaged optics is a technology that enables to minimize the power consumption that is going to done or run or used on the optical network. That's why we went to co-packaged optics. That's why investing in co-packaged optics, because if I need to go to distances, I need optics.
+If I'm using optics, I want to have the best technology that consume the least amount of power. That's called co-packaged optics, regardless if it's scale-out, scale-up, scale-across, it's all depends on the distance.
+## Moderator | 
+All right. Well, unfortunately, we're out of time. I think we could've sat up here for another hour. Gilad, we really appreciate you joining us and providing all of your insight. It's a privilege to get a front row seat to see what the innovation you and your team is driving, and good luck.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Thank you very much.
+## Moderator | 
+Thank you, Gilad.
+## Gilad Shainer | SVP of Networking, NVIDIA
+Thank you.
+Data Source: Quartr Last updated: May 28, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

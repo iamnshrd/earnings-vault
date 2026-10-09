@@ -1,0 +1,635 @@
+TITLE: 29th Annual Global Conference
+DATE: 2026-05-04
+## Dan Primack | Business Editor, Axios
+That's better. It's good. Thank you everybody for coming to the obviously the best session. Thank you so much. For not going to the other ones. We all sincerely appreciate that here. This is a session on decision intelligence, i.e., prediction markets and everything around them. I'm just gonna ask my panelists to very briefly just introduce yourselves and why you're here. What your relevance is to this. Brian, start down there.
+## Brian Quintenz | Board Member, Kalshi
+Hi, everybody. Brian Quintenz. I was a Commissioner at the Commodity Futures Trading Commission from 2017 through 2021. I'm a board member of the Kalshi Exchange and their clearinghouse.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+I'm Stephanie Guild. I'm Chief Investment Officer of Robinhood. We offer prediction markets, and I also manage portfolios and use prediction markets in my investment analysis.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Hi, everyone. It's really bright here, by the way.
+## Dan Primack | Business Editor, Axios
+It is.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+It's hard to see. Hi, everyone. I'm Paul Liberman. I am a Co-founder and President of Operations at DraftKings, who also offers prediction markets, as well as sports betting and other sports entertainment products.
+## Dan Primack | Business Editor, Axios
+You should all know, like all Milken panels, there's a QR code somewhere. If you have questions for the panel, they are all going to appear. I think it's probably behind me so. Oh, it's right up there. Please, that's the way you can get questions to this iPad here. I am not, you know, watching YouTube during this. This is an actual iPad that theoretically would have your questions, coming in. Let's start kind of with the when you think of decision intelligence, and Steph, maybe let me start with you here. When you think of prediction markets, at least the way they currently are, what signal are you at Robinhood, what are you getting out of them? What's the actual tangible value?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+It's part of a mosaic, if you will. I'll look at things obviously, like doesn't seem to matter as much anymore, but like Fed decisions and what the market is thinking that it's gonna do and how it changes. The futures market has been there for that for a while, but it's another data point. That can obviously move markets. Even as recently as this morning, since Palantir is having earnings after close, which I didn't look at yet, I was looking at like what the markets were saying in terms of, will they beat earnings or not? I was looking this up because I was thinking the analysts that used to see like estimate revisions, right?
+What they're saying that, the estimates are gonna be relative to what actual is. If I can get another data point, on what the market or what the participants on the prediction market say, then, you know, you might get a better sense of where expectations are.
+## Dan Primack | Business Editor, Axios
+Do you weight that more than some of those other more traditional, sentiment indicators?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+No, not really. I have this phrase I say all the time where expectations are everything when it comes to investing. You can have amazing earnings, but if you don't beat by a certain amount, then you're kind of, you know, you've seen that over and over again. I do think it's like a test of sentiment, and if everyone thinks that they're gonna beat their estimates, then maybe they have to beat by more for it to be actually be impressive to the market. That's how I tend to use it, and I love having this extra data point because I actually think market participation has changed quite a bit. It's not just institutions now in the public markets.
+## Dan Primack | Business Editor, Axios
+That's Brian, help me out here a little bit. We're going to talk a lot about sports, and we obviously have Paul here.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Sure.
+## Dan Primack | Business Editor, Axios
+From your perspective, I had an interview recently with the co-founders of Kalshi, and so I'm gonna ask you kind of a similar question I asked them, which is, why does America, why does the world, I guess, need prediction markets? What is the value outside of helping some people make money and other people lose money?
+## Brian Quintenz | Board Member, Kalshi
+The way I think of prediction markets philosophically, as opposed to legally and regulatorily.
+## Dan Primack | Business Editor, Axios
+Yeah
+## Brian Quintenz | Board Member, Kalshi
+Talk about that too.
+## Dan Primack | Business Editor, Axios
+We'll talk about that.
+## Brian Quintenz | Board Member, Kalshi
+Philosophically, you know, as a market-driven, dispassionate view on the importance of what's happening and the likelihood of what will happen. If we kinda break that down, you know, I'm a firm believer in markets. I think of myself to some degree as a markets maximalist. I think market-based information is more important than survey-based information. I think, you know, when we're talking about things that the Fed has looked at in the past, and there was a paper that just came out on this, on data points on Kalshi, a lot of those are survey based. A lot of those responses are survey based.
+When you're looking at a market, someone is taking their opinion and they're figuring out, Well, how much do I really believe that? Then if you apply it to things like culture or policy or elections, and you're engaged in those markets, you have to force yourself to kind of take a dispassionate view. Everyone has probably a pretty emotionally charged.
+## Dan Primack | Business Editor, Axios
+When you say dispassionate, what convinces you that it's dispassionate? Is that just because of the numbers?
+## Brian Quintenz | Board Member, Kalshi
+Well, when I say that, I mean that you have to rely on what your assessment is of the facts as opposed to what your conviction is around your emotional philosophy. For instance, a case in point maybe, when the Supreme Court was considering the tariff case, Kalshi had a 70% chance that the Supreme Court was gonna overturn that, and the highest probability was that six out of the nine justices would agree, right? I think if you're looking at that market or if you're actually engaged in that market, maybe that helps you take a calibrated view as to what an outcome might be and helps inform people that might take a otherwise emotional perspective on that outcome, which is what I kinda mean by dispassionate.
+## Dan Primack | Business Editor, Axios
+Paul, does this mean that if we have a similar I mean, this is a little bit of a hypothetical, so I'm curious, but if we, if there was a contract on something like what Brian said, you know, how the Supreme Court's gonna rule, say, on a tariff case, should we expect if that same contract is on multiple prediction markets, that you're gonna see fairly similar results?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+I think we would expect that because similar to what Brian mentioned, it's, you know, it's a dispassionate view, and the investors that are investing are also making sure that the markets are aligned across all the different exchanges. Whether you're on the DraftKings exchange that would offer a product like this or on Kalshi or Robinhood and their product, we would expect that investors and that sentiment would be, you know, similar across all the different products, and that's something that we see. You see that across, you know, in crypto where the prices of crypto across all these exchanges are fairly the same.
+## Dan Primack | Business Editor, Axios
+Steph, you made a comment during our pre-call, that prediction markets were better signal than X or podcasts. Obvious question, were you relying on X and podcasts before this?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+No. What I was saying is, I actually think using a combination of X and podcasts and prediction markets might actually give you a better signal than just reading institutional research. I think institutional research, no offense at all, I still read it, but it's, it can be a little feels a little slow, relative. The markets are just moving so fast, you need something that's moving fast with you.
+## Dan Primack | Business Editor, Axios
+That's interesting, Brian. In this, I-- on the dispassionate side, and you guys can obviously respond to each other too, how do you, how can I say this? Does it depend on what the thing is? The tariff case, well, obviously certain people in the White House cared a lot about this, and obviously certain traders care a lot about, and they have maybe philosophical beliefs on whether there should be tariffs or not. Most people were making that bet based on what they believed was actually going to happen. When we come to other things, when it comes to sports, for example, maybe when it comes to a federal election, how convinced are you that people aren't betting what they want as much as they're betting what they think is going to happen?
+## Brian Quintenz | Board Member, Kalshi
+Well, I mean, first of all, I don't know. I don't think it's my job or anyone's job, you know, to say how this goes.
+## Dan Primack | Business Editor, Axios
+Well, I guess, does it matter? I said does it matter because the, not the conceit, but the, the talking points, I guess, to a certain extent of the prediction markets is we're discovering truth. You know? We're discovering truth in all this noise. If it's just I want this guy to win the election, then I'm really hoping so, just like I want the Red Sox.
+## Brian Quintenz | Board Member, Kalshi
+Yeah
+## Dan Primack | Business Editor, Axios
+T o win the game.
+## Brian Quintenz | Board Member, Kalshi
+Let me I mean, I think the idea of discovering truth is a noble goal. I think this is one data point to getting there, so I don't wanna overstate that. I also think that, you know, the whole purpose of derivatives markets is to provide information discovery, price discovery, and risk management, right? If you think about, especially in the context of an election, how is someone going to use an election prediction market if they're hedging risk? They are going to trade on the person, party, or control of government that poses the most risk to them, right?
+If everyone was using the market to hedge risk, then the market would show that the candidate or party that had the highest, "odds" was actually the party that posed the most economic risk to the country or to the participants, right. Those aren't the only participants that you have in these markets. Right. You have fundamental analysis. You might have some people that are driven more emotionally. Maybe people are trying to protect their emotions, you know, in the case of a loss.
+## Dan Primack | Business Editor, Axios
+Yeah.
+## Brian Quintenz | Board Member, Kalshi
+I went to Duke.
+## Dan Primack | Business Editor, Axios
+Are you saying you bet on UNC?
+## Brian Quintenz | Board Member, Kalshi
+No, no. I was at that.
+## Dan Primack | Business Editor, Axios
+That was gonna be news.
+## Brian Quintenz | Board Member, Kalshi
+I was at that UConn game, and man, it would've been nice to temper my emotions after that with a contrary bet. You know, I think the entire purpose of a market is to take that disaggregated information, right? All the participants together to create a market-based pricing opportunity that people can interact with, and if it's viewed as out of whack, it should self-correct through arbitrage.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah, I agree with that. I actually was thinking about the New York City mayoral race.
+## Brian Quintenz | Board Member, Kalshi
+Yeah.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+You know? If people who live in New York City, like, you might have voted for one candidate, but you're like, "Well, if I bet on a prediction of the other one, at least I get something out of it.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Emotional hedge
+## Stephanie Guild | Chief Investment Officer, Robinhood
+if I lose." I don't think that's crazy. I actually think you can also use it in your own life. There's so many things you might know a lot about that are just not in the public markets, this can be a way to use that to your advantage.
+## Dan Primack | Business Editor, Axios
+Paul, if scale equals signal to a certain extent, on these markets, does that mean sports is the most intelligent thing? Most of what's happening on these markets is sports.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+You know, it's a good question. You know, I think sports maybe is the only one that's not completely dispassionate. You told us that you bet on the Red Sox, which was clearly.
+## Dan Primack | Business Editor, Axios
+You're gonna suggest there was no intelligence behind that? I hear that. Yeah.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+There might've been intelligence, but a lot of passion.
+## Dan Primack | Business Editor, Axios
+Yeah.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+A little intelligence, lots of passion. You know, I think for sports, it is a good barometer for what is going to happen. And you know, we do see a lot of value and a lot of data that is coming out of the sports prediction markets that is helping us as a sportsbook operate and as a sports prediction market. It's, you know, I think it's The prediction markets have been useful across a variety of things, and sports is one of those that there's a lot of passion around from the consumer. It's at, you know, like Brian said, it's still a derivative. It's still an event contract. It's still, you know, the same exact thing as
+## Dan Primack | Business Editor, Axios
+For the end user, it's the exact same damn thing.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+For the end user, yes. You know, for the end user, whether they're putting a bet on the sportsbook or whether they're doing a trade, on you know, on the Celtics here, they definitely feel as though it's the same.
+## Dan Primack | Business Editor, Axios
+That wasn't needed, but go on.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+It is a very similar experience.
+## Dan Primack | Business Editor, Axios
+Brian, what percentage ballpark of Kalshi's volume monthly is sports? Is it, like, 60, 70, something like that?
+## Brian Quintenz | Board Member, Kalshi
+I think it's come down from the high 80s to about 70, and I think that's just because of the sheer volume of sporting events and, you know, things within sporting events. If you had national elections every week, my guess is that elections would be the highest volume. I think as we get closer to the midterm elections, we will see that share of the markets significantly expand.
+## Dan Primack | Business Editor, Axios
+Give me the basic argument for why if I, again, bet on the Red Sox on Kalshi, why that's not just what, I understand the backend reason why that's not sports gambling. Philosophically, why is that not sports betting?
+## Brian Quintenz | Board Member, Kalshi
+I mean, I think look, people have been calling engagement and trading and investing in the financial markets gambling for decades, if not centuries, right? I mean, I think we have to be a little careful with how we think about what that really means. I think there's a difference between speculation and gambling. I think speculation in the financial markets is wagering or trading where there is more of an economic impact than just the money that is being traded, right? There is a price signal. There is a pricing formation event. There is an opportunity to hedge economic risk, right? Or sense what that probability is, as opposed to putting money on black at a roulette table, right? The only thing.
+## Dan Primack | Business Editor, Axios
+Putting money on Boston over New York. Isn't that, I mean, is there that much of a difference from a, I mean, basically are you saying? I mean, is it, does this go to game of chance, game of skill? Is that this argument?
+## Brian Quintenz | Board Member, Kalshi
+Let's,
+## Dan Primack | Business Editor, Axios
+Will Carnes argument?
+## Brian Quintenz | Board Member, Kalshi
+I don't necessarily agree with that argument, but let's go back to the other end of the spectrum. Is anyone gonna sit here and tell me that there is no economic, financial, or commercial consequence to who wins or loses the Super Bowl?
+## Dan Primack | Business Editor, Axios
+Super Bowl, no, but an average, but game 71-
+## Brian Quintenz | Board Member, Kalshi
+How about a playoff?
+## Dan Primack | Business Editor, Axios
+Of the baseball season, no.
+## Brian Quintenz | Board Member, Kalshi
+How about a playoff?
+## Dan Primack | Business Editor, Axios
+Playoff, sure.
+## Brian Quintenz | Board Member, Kalshi
+Okay. How about the final game of the year? How about the game against your rival?
+## Dan Primack | Business Editor, Axios
+How about the game tomorrow?
+## Brian Quintenz | Board Member, Kalshi
+How about the opening game?
+## Dan Primack | Business Editor, Axios
+How about the game tomorrow?
+## Brian Quintenz | Board Member, Kalshi
+How about the opening game?
+## Dan Primack | Business Editor, Axios
+How about the game tomorrow?
+## Brian Quintenz | Board Member, Kalshi
+Okay. Well, legally, it's a derivative if it has any potential financial, commercial, or economic consequence.
+## Dan Primack | Business Editor, Axios
+If I put enough money on black, it could hurt Caesars. There's some financial consequence.
+## Brian Quintenz | Board Member, Kalshi
+I guess the point is that as I was saying, I think that the difference between speculation and price-forming activity is that when you do that is the only impact, is what you are wagering, right? I think, I believe that the law was written deliberately, and even if people, you know, didn't write it deliberately, I think we have to take it very seriously 'cause it was passed by Congress and signed by a president. I think it's important that the broad landscape of risk management tools is not left to a regulator that wants to play merit-based games and provide value judgments because I think that's a recipe for disaster.
+## Dan Primack | Business Editor, Axios
+Paul, help me out here I, you know, when Kalshi, Polymarket, et cetera, started getting popular, my first thought was, "Man, DraftKings must be pissed about this." They're not allowed, people in California, Texas, huge states, other states too, Utah, aren't allowed to use them, and these folks have found a backdoor way to let people bet on the same games that in Massachusetts I can use DraftKings to bet on. No, you're supportive of this. Help me understand this.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+We are supportive of it, agree with a lot of what Brian has said in terms of prediction markets. You know, ultimately, we think that this allows for our consumers to engage in, whether it is sports betting or trading on their derivative products across all 50 states. We look at ourselves, I think one of the things that we have done really well as a company is we have catered to the sports fan and being able for them to take their predictions and apply them. In some states, it is via sports betting. In other states, it is via predictions. You know, ultimately, what we were excited about is opening up the opportunity.
+## Dan Primack | Business Editor, Axios
+More customers.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+F or more customers, and more products. Lots of our customers are also very passionate about predicting election outcomes or predicting crypto futures. This gave us, you know, with Kalshi and Polymarket leading the way, this gave us the opportunity for us to launch these products, and we're seeing some amazing, you know, like, great results, and people are engaged, and they love the product.
+## Dan Primack | Business Editor, Axios
+Do you make more money, if you take a bespoke sporting event, you know, the playoff game last night, does DraftKings make more money, per user, I guess user, or percentage, I guess? However you want. Obviously, more people, I assume are betting kinda traditional sports books, so it's not apples to oranges. Do you do better if people bet on the sports book as opposed to bet on the prediction market on the same event?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+It really all depends, and I can't say on a single, you know particular market especially right now.
+## Dan Primack | Business Editor, Axios
+Okay. Let me put it to you this way. If I said to you, Paul, in California's gonna be able to make its law. They're either gonna allow sports books and not prediction markets or only prediction markets and not sports books. What do you want?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+You know, that's a great question, and I think ultimately, we would want both because that gives us.
+## Dan Primack | Business Editor, Axios
+Yes, but that's not your choice.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Yeah.
+## Dan Primack | Business Editor, Axios
+That's not what we have said to you. You can have one or you can have the other.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+What we have found is that sportsbooks offer, for sports, a better consumer experience than prediction markets overall. For our customers that are in sportsbook jurisdictions, they prefer to still do business with a sportsbook. We've done a lot of surveys. We know that we are able to give them promotions and offers, and it's a more engaging experience overall. We would prefer that sportsbooks would still be, you know, the lead. That being said, we're also really happy to compete in the prediction market space.
+## Dan Primack | Business Editor, Axios
+Steph, Robinhood has predictions. You've obviously partnered with Kalshi, building your own stuff. Is Robinhood eventually gonna have basically a super app that will include sports?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Oh, meaning like direct sportsbooks?
+## Dan Primack | Business Editor, Axios
+Correct, yeah. Or not sports books, but sports prediction events, contracts, sports event contracts.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+We do have sports event contracts now.
+## Dan Primack | Business Editor, Axios
+Oh, okay. Okay.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah, that's why I was asking the difference.
+## Dan Primack | Business Editor, Axios
+Oh, I was just-
+## Stephanie Guild | Chief Investment Officer, Robinhood
+No, we have it, and it's popular.
+## Dan Primack | Business Editor, Axios
+You're not, but within your, you know, within your part of the business though, it's not, sports is not a piece of the business, correct?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+No.
+## Dan Primack | Business Editor, Axios
+You're a part of the Robinhood business.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah, yeah. Because it, well, we're not putting it in, like, managed portfolios yet.
+## Dan Primack | Business Editor, Axios
+Is that because of the law or because you're just not there yet?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+We're just not there yet. It's, there's a decent amount of infrastructure we need to create, and it doesn't mean that it's not on some longer term roadmap, but
+## Dan Primack | Business Editor, Axios
+How long is that roadmap? Is that like a 12-month roadmap, a two-year roadmap?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Um, it's-
+## Dan Primack | Business Editor, Axios
+Is it like an atlas, or more like one of those little maps?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+I mean, we, you, like most companies, you set a roadmap then things change and you pivot, right? You know, in my dream world, it would be like in the next year or two, because I do actually think there's a lot of interesting ways to put hedges in a managed portfolio, for example, where you're like a ton of equities. There was one I was looking at that was called, 'Nothing Ever Happens,' which is like the phrase that people use to say like, "Whatever, you can all freak out, I'm just gonna buy every dip." That was super interesting 'cause it was a parlay and it has all these things that like could happen and are always a risk, don't, right? China invades Taiwan or, you know, Iran gets invaded.
+Like, the things that you can't actually plan for or do micro research on. That's what, the kind of stuff that I would love to consider rather than it just being like an S&P put.
+## Dan Primack | Business Editor, Axios
+That's interesting. Can just go back to the sportsbook thing for a minute. There's a lot of kumbaya up here, which is great, but I'm curious, Brian, for you, co-founders of Kalshi and actually of Polymarket too, talk a lot of crap about sportsbooks. Basically make the argument that sportsbooks on the sportsbook side of it, not the prediction side, are basically betting against their customers. That it is better for a sportsbook when their customer loses so long as they don't lose too much so they come back. Do you go with that concept? That you got the prediction markets are more egalitarian. It is in one person betting against another person. Kalshi doesn't care who wins, who loses, 'cause they're gonna just take a piece of the bet.
+Do you go with that argument that prediction markets are a better consumer experience than sports books for that reason?
+## Brian Quintenz | Board Member, Kalshi
+Look, I, first of all, I have a lot of respect for sports books and the products they've developed and the businesses that they have built. I think they've built them within, you know, the structure that either was apparent or that they chose and, you know, I compliment them on those businesses. I do believe that prediction markets as a federally regulated exchange is a fundamentally different model. It is an absolutely different model. The odds are not set by the house. The revenue stream is different, right? The regulations on running a marketplace are severe, you know. I don't know much about sports book regulations, so I'm not gonna say they're more severe.
+## Dan Primack | Business Editor, Axios
+They're severe.
+## Brian Quintenz | Board Member, Kalshi
+I know that CFTC rules around running a federally regulated derivatives exchange are strong. You know, if I'm thinking about engaging in those two models, you know, at least, you know, the derivatives model to me is very attractive, because I know that I'm getting a price from a marketplace, right? Because I know that there is a federal regulator overseeing that. I know that the incentives are either aligned or not necessarily opposed. You know, I think, you know, to the point earlier, we've seen sports books, you know, embrace this model.
+## Dan Primack | Business Editor, Axios
+Do you think they've embraced it because they think it's a better model, or because they can now do business in places they couldn't?
+## Brian Quintenz | Board Member, Kalshi
+Well, I mean, I think that's, you know, to your prior, your question about which one do you want, I, you know, I can't answer that. You know, I think if it is a better model, my hunch is, and this is not my area of expertise 'cause I'm not in business, I'm in policy but you know, I think if it is embraced, you know, I think consumers are going to be made better off.
+## Dan Primack | Business Editor, Axios
+Paul, the prediction market argument, at least the way I articulate it, you know, you're betting against another person really, you're not betting against the house. Is that from your perspective, is that true or am I really on prediction markets often betting against an institutional investor?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+When you're in a prediction market, you are most often betting against or trading against a market maker or a sharp. Realistically with sports, it moves so fast that, you know, on the other side, in order for you to really participate, you have to be using APIs, you have to be using scripts. You're not, you know most people, like yourself you're probably not writing APIs to engage. What you're doing is you're going on the, you know, the app. You're saying, you know, you're picking the Red Sox passionately, and you're hoping that they win for that day.
+## Dan Primack | Business Editor, Axios
+By the way, you're not only saying I'm picking the Red Sox, which is a bad bet, you're also suggesting that I'm not doing enough research ahead of time in writing an API.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Right
+## Dan Primack | Business Editor, Axios
+You're making my case worse by every minute here.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+You know, the reality is that if you know, if you look at prediction markets and you look at, you know, sports books, if we were completely different on price, there would be an arbitrage opportunity and other people would take advantage of that arbitrage opportunity. The pricing is very similar between prediction markets and sports books. At the end of the day, our goal as a sports book is to engage our customers to make a great experience, and there's a lot of benefits that us being both the market maker or the bookmaker, as well as the exchange on sports books, it allows us to reinvest, you know, back, offer promotions, engage customers, and that is something that is really challenging in prediction markets.
+That being said, there is a place where prediction markets have their value as well in sports. You know, there's value there too. I think both are actually really positive and we are, that's why we engage on both sides, is because they're both great. They're different. I agree with everything they said. They have their different values.
+## Dan Primack | Business Editor, Axios
+If sportsbooks like yours have gotten into the prediction market game, do you foresee a future in which the prediction platforms get into sportsbooks?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+I certainly think that they may. They may try.
+## Dan Primack | Business Editor, Axios
+Two people who have prediction markets, are you gonna get into sports books?
+## Brian Quintenz | Board Member, Kalshi
+I'm just a dumb policy guy.
+## Dan Primack | Business Editor, Axios
+You're on the board.
+## Brian Quintenz | Board Member, Kalshi
+Well
+## Dan Primack | Business Editor, Axios
+This gets discussed
+## Brian Quintenz | Board Member, Kalshi
+I'm on the board of the federally-
+## Dan Primack | Business Editor, Axios
+Right
+## Brian Quintenz | Board Member, Kalshi
+Regulated exchange.
+## Dan Primack | Business Editor, Axios
+Yeah.
+## Brian Quintenz | Board Member, Kalshi
+Again, I think that's the model, that's the regulatory model that the founders of Kalshi picked before any trade and any contract was ever made. They spent four years going through the process to get a derivatives exchange license at the CFTC, and then another two on operational tests before they could even launch. I think they're very dedicated to this approach.
+## Dan Primack | Business Editor, Axios
+Robinhood, I'll ask the same question. Do you?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Not that I know of right now. I think prediction markets are very front and center for us.
+## Dan Primack | Business Editor, Axios
+Front and center. Brian, when you talked about the, you know, they spent four years, how they ended up suing the CFTC eventually to get federal elections in. The one kinda big player and kinda the elephant in the room here is Polymarket, which isn't up here. They've obviously had a busy week, I guess you could say. Most importantly, obviously the bet on the war and the military act- I'm sorry, not on the military action, the military action in Venezuela that they got hit with. What do you think from. For a company like Kalshi or for the prediction market in general, is there any actual reputational damage beyond some bad headlines to some of the bets that Polymarket has allowed through, and contracts it allows through?
+## Brian Quintenz | Board Member, Kalshi
+I mean, I see a lot of confusion everywhere about what's happening on offshore unregulated exchanges that may be illegally allowing U.S. customers to access their markets, and what is happening in Kalshi and other federally regulated venues. Fortunately, there are already laws on the books, and there are already regulations, and there are already rules on Kalshi's exchange that prevent all of those things from happening. I think to the extent that people think of prediction markets and think of that, the worst actor is doing the industry a very big disservice.
+Kalshi has taken a lot of steps to try to inform the public about all the things that it has to do and does do around know your customer standards to prevent insider trading, surveillance techniques, the prevention of fictitious trades and wash trading, what kinds of contracts cannot be listed on the exchange.
+## Dan Primack | Business Editor, Axios
+Now, what big picture, what contract, what kinds of contracts can't be listed?
+## Brian Quintenz | Board Member, Kalshi
+Contracts that involve war, terrorism, assassination death, you know, the CFTC would automatically view those as contrary to the public interest because they could incentivize harm against an individual or group of people.
+## Dan Primack | Business Editor, Axios
+Obviously Kalshi got into a bit of an issue with the and I can't remember the exact phrasing, I bet you do, about whether Ali Khamenei, the Ayatollah in Iran, would be, I think it said, not in power anymore, and obviously he's not in power anymore 'cause he got killed. That became this big question. Do you think the CFTC is now paying more attention to the wording of certain contracts because of that?
+## Brian Quintenz | Board Member, Kalshi
+I think, you know the settlement of any event contract needs to have very close attention paid to it. I mean, I think that's a market integrity issue, and I think one of the benefits to Kalshi of having gone through a very long registration and regulatory process is having an iterative dialogue with the agency staff over time about all those settlement criteria. I mean, to your direct question, you know unfortunately, if you have contracts on any individual's potential actions or status, that could change as a result of their assassination.
+## Dan Primack | Business Editor, Axios
+Yeah.
+## Brian Quintenz | Board Member, Kalshi
+I think it's it ultimately needs direct guidance or rules from the agency about how to think about that.
+## Dan Primack | Business Editor, Axios
+I was even just thinking just now, like, so that was he wouldn't be in power anymore. I'm even thinking of an election, say you know, once you get to, you know the first day of November when there's really two people left. If something were to happen, one of them were to get killed. Granted, they still might win the election, you know the way our elections work.
+## Brian Quintenz | Board Member, Kalshi
+Yeah.
+## Dan Primack | Business Editor, Axios
+It definitely changes things a lot.
+## Brian Quintenz | Board Member, Kalshi
+I think the whole point of this idea of, you know the CFTC finding that a particular contract would violate the public interest, in my mind is if that contract would incentivize harm against an individual or personal property, right? You know, an illegal offshore exchange offered contracts on how many forest fires there would be here in Los Angeles. If there are 13 forest fires and there's a contract on the 14th, that could incentivize someone to go out and start a fire, right? Incentivizing that is what I think would violate the public interest, and it's wrong, and settling a contract on that would be wrong. Just the idea that could happen, as long as it doesn't settle to that, right?
+As long as that, as someone's, you know, passing doesn't resolve the contract and the contract gets nullified. You know, I think at this point in time, without further clarification from the agency and rulemaking, you know is an appropriate approach.
+## Dan Primack | Business Editor, Axios
+Steph, I'm curious, given that we do have an unregulated offshore prediction market that gets a lot of attention, and does seem to often have some people betting on it who do legitimately seem to know what's gonna happen next when it comes to major geopolitical events, how much have you, when I say you and your team, been paying attention to those bets, and has that impacted decisions? Looked and said, "Oh, they know something.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+I mean, you have to pay attention to it. I think over the last year I've had this sort of view, our whole team has said, like, in some cases investing in line with policy or potential policy because that has really moved markets and, even certain stocks. If you're blind to it or you're just pretending like, "Oh, that's not really how things work," I think you'll miss investment opportunities, and we're here to make money for our clients.
+## Dan Primack | Business Editor, Axios
+So kind of... given that-
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Dan Primack | Business Editor, Axios
+I mean, I hate to ask it this way, but for your clients.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Dan Primack | Business Editor, Axios
+For your clients, is it better that there's also an unregulated exchange out there so you can kinda know what's coming next? With apparently some very duplicitous people working somewhere in D.C.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+I don't know if that's like, it's not good to have inside information like trading, right? That, and that's why there's been so many regulations that have banned it from the stock market, but it still exists, and it kind of exists in Congress, too. Like, is it, is it better maybe for me to be able to watch that and take a guess, but is it better for like the world, Probably not.
+## Brian Quintenz | Board Member, Kalshi
+Can I say something on that, Dan?
+## Dan Primack | Business Editor, Axios
+Yeah.
+## Brian Quintenz | Board Member, Kalshi
+I mean, I think first of all you know traders, companies, institutions have been making, you know wagers using the oil market on Middle East violence forever.
+## Dan Primack | Business Editor, Axios
+Yep.
+## Brian Quintenz | Board Member, Kalshi
+Forever, right? The idea that people use financial instruments to hedge risk or to create some, you know you know, financial tool around their prediction, you know, isn't new. I think to that point, you know, that's why it's so important that the agency comes out with very clear guidance because some of these things might provide useful information, but they also might be viewed very unethically and incorrectly.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+The perfect timing of them.
+## Brian Quintenz | Board Member, Kalshi
+Yeah, and provide the wrong incentive. You know, these, that guidance.
+## Dan Primack | Business Editor, Axios
+Are you suggesting then that's been maybe a CFTC like predating prediction markets, a CFTC blind spot?
+## Brian Quintenz | Board Member, Kalshi
+I think it's something that should have been filled a long time ago. I think the agency is focused on that now.
+## Dan Primack | Business Editor, Axios
+Paul, can we talk a little bit, 'cause this all of this we're talking kind of insider trading and in sports it's been a thing. Help me out a little bit here at DraftKings. Talk to me a little bit about, I don't know if you call it a surveillance team or what your official term is. Help me out. There's obviously been some high-profile examples of athletes, coaches, others around teams betting and getting caught recently. There's probably a lot more who've been betting and haven't gotten caught.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Yeah.
+## Dan Primack | Business Editor, Axios
+What does DraftKings do to prevent, particularly given that you have so many props and I can guess if the next pitch is a ball or it's a strike, what do you actually do to try to nip that in the bud?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+I mean, we have an entire integrity team that is focused on sports integrity monitoring. Not only that, we also partner with our with teams and leagues to make sure that they're getting the relevant data so they can be monitoring the data flows. I mean, There's a lot of regulation around it. We're using artificial intelligence. We're, you know, we have all of the KYC data of all the players in the league. If you're in the NFL, NBA, NHL, any of the major leagues.
+## Dan Primack | Business Editor, Axios
+Okay, you know the player. You might even know their spouse. You might even know their kid. You don't know their next-door neighbor, and you don't know the kid.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+And.
+## Dan Primack | Business Editor, Axios
+They don't, you don't know the person they grew up next to.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+What we've had is a lot of success, and you've seen, you know, some of the lawsuits coming out, in being able to use artificial intelligence to model and understand behavior that is not consistent with the norms of how people behave. Especially on, you know, a negative statistic of somebody not having the minutes played or having a, you know, they're throwing multiple balls, and we're like, we see anomalous behavior, and as soon as we see that anomalous behavior, we're able to really chase that down, research, do their analytics, work with the leagues, work with, you know, the government, federal government, and different law enforcement agencies to track down and to make sure.
+We go down, you know, the rabbit hole on every single one of these because sports integrity is so critical for the success of not only sports betting, but also prediction markets, that it is really important that we get it right. There's also a Sports Wagering Integrity Monitoring Association that we partner with that helps us, and they're doing that not just with DraftKings, but across the entire regulated sports betting industry, and I know they're partnering with the prediction markets as well.
+## Dan Primack | Business Editor, Axios
+Is college sports more difficult than pro?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+It's really the same. We can do all of the same analysis that we do with college sports that we do with the regular, with regular sports. I think that this is one thing that is super important is that getting out of the black market and prediction markets is helping in all the different states that don't have sports betting regulation. Getting people not using black markets, not using their own bookies, and using regulated products actually helps in getting data and being able to do the analysis to find these situations, and I think that that is so important for the integrity of sports.
+## Dan Primack | Business Editor, Axios
+Are you confident that you are really finding most of it?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+We are very confident that we are finding most of it. I mean, you never know the opposite, obviously, of the things that you don't find. We monitor so many metrics and so do, you know, all of our, you know, both competitors and partners that I believe that we're finding up most of it.
+## Dan Primack | Business Editor, Axios
+When you do find something, how often do you? What do you do with it then? You say, "We found something anomalous. This guy doesn't miss this many shots. Something's wrong here. He played X minutes." What happens next?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+We partner with leagues, and federal investigators, and we will send that information for those markets off to those different partners, and they have a process that they run.
+## Dan Primack | Business Editor, Axios
+There's been relatively few criminal charges brought. For people betting on sport, but betting kind of in the app age of sports betting.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Yeah. There have been a lot of suspensions. Different charges brought. Every single one of those cases, there's some false positives that exist out there as well. The most important part is having the data. Data is key here. Being in a regulated market where we're able to work with the regulators, work with the sports leagues, and being able to distribute that is way safer than where we were 20, 30 years ago, even 10 years ago, where all of this stuff was happening. People were betting with their local bookmaker, and it wasn't getting caught. It wasn't that it wasn't happening. It wasn't getting caught.
+You've seen, you know, a rash of these different stories that have come out about, you know, players being identified and, you know, some people are saying, "Well, this is what's happening when sports betting is becoming legal or prediction markets are becoming legal." I think it's quite the opposite. I think what we're doing is we're patching stuff.
+## Dan Primack | Business Editor, Axios
+It has enabled people to bet more.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+It has. You know, I'm not sure. I think that people that want to
+## Dan Primack | Business Editor, Axios
+Let me say, as somebody who had never made a sports bet outside of a, you know, NCAA pool in my office until I download the DraftKings app.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Right
+## Dan Primack | Business Editor, Axios
+W hich I unfortunately use a little more than I should. Yeah, I did. I didn't go out of my way to find a bookmaker, but I don't have to 'cause I'm sitting on my couch and it's in my phone.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Yeah. I think that you're not the population of person.
+## Dan Primack | Business Editor, Axios
+More people get takeout now because they have DoorDash than they did before. I mean, the ease changes things.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+100%. I think the ease makes it more accessible for people like yourself to go bet on the game. I think we're talking about people that are compromising the integrity of sports, and those aren't the people that. That's not you. You know, I'm assuming that you're not trying to go.
+## Dan Primack | Business Editor, Axios
+You don't know that.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+You know, maybe I don't know that. It's a good point. You know, maybe you're going to the Yankee Stadium and doing something. You know, ultimately, people had access to bookies. The black market was huge. It was a multi-billion dollar market where you could do it online. You could use, you know, payment instruments, and that existed. What we're doing through prediction markets or sports betting is bringing that into the open. I feel like that, you know, on top of all the other value that, you know, prediction markets and sports betting has added is getting that data has helped the integrity of sports, I think, more than negatively impacted it.
+## Dan Primack | Business Editor, Axios
+Brian, so okay. Paul talks about DraftKings. They're working with the leagues. They know who all the players are. They, you know who all the coaches are. It's a relatively narrow thing, right? You know everybody who's on affiliated with the New York Yankees and on the payroll. Great. When you go broader in the prediction markets, whether this be something about economics or something about politics or something about business, particularly when, you know, you've got, you know, thousands of people working at these companies, how does Kalshi, from an integrity, surveillance standpoint, how do you do the same? Cause you have a much larger. I guess now you guys do, too, on the prediction market, Paul.
+You have just, this kind of unlimited universe of people who could potentially know these things.
+## Brian Quintenz | Board Member, Kalshi
+Well, first of all, you know, I think there always has to be room for after the fact enforcement. You know, in any marketplace, the most highly regulated marketplaces like Kalshi, and other derivatives exchanges, like the New York Stock Exchange, there are people that do bad things. There are bad actors. There are inside, you know, trades that occur. The goal is to try to prevent as much of it as possible, right? That is part of Kalshi's Know Your Customer process, where not only are you getting someone's, you know, name and address, you're getting their employment information, you're verifying that, and you're trying to assess, is this person someone that could have material non-public information that they have received inappropriately and are using in violation.
+## Dan Primack | Business Editor, Axios
+When you say their employment information, how are you getting their employment information?
+## Brian Quintenz | Board Member, Kalshi
+I don't know that, but I think it's voluntarily disclosed. I think it has to be.
+## Dan Primack | Business Editor, Axios
+If I'm just, I guess I'm just asking you know, if I work at Google and when I sign up for Kalshi, hell, maybe I write you said it's voluntary, Google.
+## Brian Quintenz | Board Member, Kalshi
+Right.
+## Dan Primack | Business Editor, Axios
+Tomorrow I change jobs, I'm probably not going to Kalshi to update my employment history.
+## Brian Quintenz | Board Member, Kalshi
+I think again, there has to be after the fact. You know, we have surveillance tools and AI that look for suspiciously timed trades, right? That look to see, well, has this person ever engaged with this market before? How much did they put on this trade? You know, when did it occur? They refer that to an investigations team, possibly refer it to the CFTC or the DOJ, right? Ultimately, I think there's a misnomer. Maybe people in this room, given financial sophistication, are much more aware of this, I think there's a misnomer around inside information, right? It's not knowing what will happen. It's using that information in violation of a duty of trust and care, you know with someone else or another entity, right, to trade and benefit yourself, right?
+Ultimately, these are cases that are filed, you know, on behalf of a regulator over a otherwise regulated entity, or they're DOJ cases that prosecute someone for those kinds of violations.
+## Dan Primack | Business Editor, Axios
+How long? Cause you were at CFTC, and obviously you weren't a prosecutor there on the enforcement side.
+## Brian Quintenz | Board Member, Kalshi
+No, I'm not even a lawyer, so.
+## Dan Primack | Business Editor, Axios
+Not even a lawyer. How long. I'm just wondering how long these take. There was the DOJ brought a case last week, the one related to Venezuela. The CFTC so far has not brought a single case or fine for anybody for "inside information" tied to a prediction market. Is that just because it's a matter of time and these things take a very long time, or is it 'cause CFTC isn't doing its job?
+## Brian Quintenz | Board Member, Kalshi
+I don't know because I'm not there. My opinion is that it is probably the former. You know, that there are things that they are working through. There will be investigations and cases that are brought. There are bad actors in this space like there are in any other, so I would expect to see that over time. When I was there, for instance, the average length of the investigatory part of a case before I would vote on it would be two to three years. Right? That's a long time. It's not because of a lack of resources. It just takes that long for lawyers to go through their process and to, you know, follow by the standard judicial procedures. I also think that's, you know, it's important.
+The other aspect of this, though, is that sometimes including on Kalshi, the exchange's rules are above and beyond what the agency would require. For instance, Kalshi just recently fined and banned three people that were candidates for an election for wagering. I think they wagered on themselves.
+## Dan Primack | Business Editor, Axios
+They were Pete Rose bettors, yeah.
+## Brian Quintenz | Board Member, Kalshi
+Yeah. Which as far as I know, and I need to put that caveat in there, as far as I know, is not necessarily prohibited by CFTC regs but is prohibited by Kalshi's own exchange rules. They found that. In one case, I mean, it was $100 that was being wagered. I mean, they went in and dug into this and found that person, fined them and banned them.
+They have an obligation to try to create markets of integrity, and when insiders use those markets, it diminishes that.
+## Dan Primack | Business Editor, Axios
+Steph, I'm curious, you know, politically speaking right now, we have a, an administration that is very pro-prediction market. Person in charge of the CFTC is basically kinda been very open about that. Trump family has stakes in this, a t Robinhood, when you're thinking about prediction markets and you're thinking about them going forward into the future, and it's obviously something you're investing a bunch in. This might be a little outside your bailiwick, but I'm gonna ask you anyway. How much do you weigh the political risk of the rules significantly changing? if sports particularly is such a big part of this, if there is some sort of new Congress or White House that in two years, three years decides to lay the hammer down a little bit, does that mean that you guys kind of spent money you shouldn't have spent?
+I was wondering how you think about that or if you guys think about that.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+I mean, we think about it across the board, not just in prediction markets. You know, the rules are changing all the time. They're changing in crypto. They're changing in just regular markets in general, and the structure of our markets are changing, so we think about it all the time. I think we're never gonna try to evade the law at all. Like, ever.
+## Dan Primack | Business Editor, Axios
+No, I'm not suggesting you're trying to break the law. I'm suggesting the law is gonna come, potentially gonna come in.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+To change
+## Dan Primack | Business Editor, Axios
+That's a nice thing.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Dan Primack | Business Editor, Axios
+Y ou have there. No, no more.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+You can't do it anymore?
+## Dan Primack | Business Editor, Axios
+Yeah.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+I mean, I think, yes, it's something I think we think about all the time, and we try to weigh, like, the probability of that happening. I think that might come sooner. We'll see what happens with the midterms, but that could change the nature of how laws get done in the second half of this administration. Yeah, I think it's always in the back of our minds that the pendulum can swing in the other way and that's why we always just try to do everything safely, and not just to the letter of the law but also, like, what feels right in everything that we do.
+## Dan Primack | Business Editor, Axios
+Paul, I mean, what would you see? If, I mean, you, I assume DraftKings has a bunch of lobbyists also. What do you see if Democrats were to, and I'm gonna say Democrats 'cause, you know, the Trump part of the GOP is obviously very open to this. What do you see as being a potential change if Democrats, if not take Congress, you know, take the whole thing in three years?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Look, I don't think we know what's gonna happen. We don't have a prediction market on what's gonna happen. Maybe we can add one of those. You know.
+## Dan Primack | Business Editor, Axios
+According to Kalshi, Democrats are gonna win. As of yesterday. I don't know.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+All right. Well, maybe we do know what's gonna happen. You know, ultimately, I think I go back to what I was saying earlier, which is, and I think it actually is in line with what Brian's saying, is that when you have these federally regulated products, federally regulated or state regulated products, you're ultimately providing a better consumer and safer consumer experience than exists otherwise. We know that there are other products, whether it's black market sportsbook, whether it's, you know, exchanges.
+## Dan Primack | Business Editor, Axios
+Okay, that's fair. There are certain, w e can talk federal, state, but there are certain people who just don't believe there should be sports betting, just like they don't believe, and I'm not going to say this is the same, but there are people who say, "We don't want you to sell heroin." Yeah, you're gonna be able. T o find it somewhere, but that doesn't mean we are going to okay it.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Yeah. Look, I don't, I don't think we know exactly what's gonna happen, and then ultimately, as, you know, with DraftKings, as we're gonna do, if we can participate in the different states, we are going to participate, and we would love to offer the products wherever, you know, we can pass legislation. We are pro, you know, the federal government taking a more active stance and saying, "This is, you know, sports is legal and accepted, and we can do it as a prediction market.
+## Dan Primack | Business Editor, Axios
+Do you believe a state, assuming governor, legislature, depending on the way the state works, do you believe a state has a right to stop people, its citizens, from betting on sporting events?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+I don't have a strong opinion on that one. I feel like, you know, right now we have a federal law that enables the CFTC to regulate it, and there are states laws, so I don't think we have an opinion on where that stands.
+## Dan Primack | Business Editor, Axios
+Brian, you're the only one up here who lives in D.C. How do you see this playing out?
+## Brian Quintenz | Board Member, Kalshi
+Well, just to your prior question, I know that a state can't ban one of its citizens from participating in a federally regulated exchange on a derivative contract.
+## Dan Primack | Business Editor, Axios
+Not under current law, but it could pass a new law which excludes sporting events from.
+## Brian Quintenz | Board Member, Kalshi
+The federal government?
+## Dan Primack | Business Editor, Axios
+Yeah.
+## Brian Quintenz | Board Member, Kalshi
+Congress could? Yes, it could. States cannot currently tell its citizens that they cannot participate in a federally regulated derivatives exchange, right? The case in point in that is that there's actually still a law on the books in Michigan that prevents people from wagering on grain contracts from the 1800s. It has not been withdrawn, and everyone in Michigan is federally allowed to participate in grain futures, right? You know, I think about these models as being able to coexist. I think what will happen in the future, you know, I don't know. I think laws are very hard to change. I think it takes a lot of energy and attention, and usually a significant amount of outrage, to kind of catalyze enough people to focus on changing the law.
+To a prior question, I think we've heard about a lot of bad things that aren't happening in the United States. I think there's a good story to tell about what is happening in the United States. I think as long as all that stuff stays somewhere very far away, I'm kinda proud of the regulatory model that we have.
+## Dan Primack | Business Editor, Axios
+Is it, from a, this is kind of a, it is, I guess, really a politics question, which is, given that the Trump family is so tightly tied to prediction markets, obviously Donald Trump Jr. on the board of Polymarket, was a paid advisor to Kalshi, does that make it more perilous for prediction markets because the, you have the opposite impact, which is Democrats, elected Democrats potentially viewing prediction markets as MAGA plays?
+## Brian Quintenz | Board Member, Kalshi
+I mean, I think it could, but at the same time, you know, Stephanie Cutter, who's a former Obama Campaign Manager.
+## Dan Primack | Business Editor, Axios
+She is, but she's a lot lower profile than the president's son who's speaking at conventions.
+## Brian Quintenz | Board Member, Kalshi
+Fair enough, I mean, I think the point is that, you know, Kalshi is receiving advice from both sides of the aisle. If someone wants to take a highly political view of one of those advisors, I don't think we can stop them. I think what we do have control over is telling our story, telling the policy, telling the regulation, telling why.
+This is a good model, and this is a federal marketplace, and the appropriate regulator for a marketplace is a federal market regulator.
+## Dan Primack | Business Editor, Axios
+Steph, do you have, do you, or maybe it's your clients, do they have any concerns when it comes to political questions on these exchanges that, and I'm not making an accusation, but I'm curious if there's any concern that the referees in this case are putting their fingers on the scale because there might be certain for the markets, for the market as a whole, let alone the individual companies, it might behoove them if a certain person is elected or not elected.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah, I don't, I don't think so. I don't see, like, any trepidation with that. We saw in advance of the last election, you know, if you were watching a broadcast of it, you wouldn't have known as early as our own prediction market was telling us who was going to win. I don't think that there's concern around that. There's definitely a subset of customers who just don't wanna be in prediction markets, and you can just shut it off in the app, and you can focus on the rest of your portfolio.
+## Dan Primack | Business Editor, Axios
+You talked about that last election, the presidential election, I assume.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Dan Primack | Business Editor, Axios
+We're talking about here.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Dan Primack | Business Editor, Axios
+Trump and Harris.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah.
+## Dan Primack | Business Editor, Axios
+That was obviously this huge moment of validation for prediction markets.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Dan Primack | Business Editor, Axios
+The fact that it got Trump right, it got it fairly early.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah.
+## Dan Primack | Business Editor, Axios
+Conversely, if they were to get the next presidential election wrong
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Dan Primack | Business Editor, Axios
+What does that mean? What's the impact of that? Do you make the argument it won't because they get it right?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah, I mean, I think there's been, like, a shift in. This is maybe a non-answer answer, but it's been a shift in I'm seeing more of our customers even, forget prediction markets, like, investing ahead of institutions making calls on companies. I feel, for some reason, I think they're, like, almost closer to the, to the heartbeat of what is happening in our country than people who have been, you know, working for institutions for a long time. I think, like, the last big presidential election was a representation of that, but I've seen it more on a micro basis, too, in what our customers are training, trading. I mean, I don't know. Look, you can always get it wrong but, I think there's more to it than just, like, the one-off I've seen.
+## Dan Primack | Business Editor, Axios
+Paul, we have about seven minutes left. What is not currently being offered that you've seen in any prediction market, whether it be DraftKings or somewhere else, kind of big, not in a category, maybe I guess you could say, that you think either is coming or should be coming, and it's a substantial one? Or maybe it's a really niche one and it's just interesting.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+That's a good question. What categories are not there? I mean, I will say that the prediction markets have been amazingly quick at innovating and adding categories, really, really quickly. I think that in, you know, in sports, we're gonna see faster, more dynamic, you know, micro markets appear that doesn't exist yet.
+## Dan Primack | Business Editor, Axios
+Can I say, am I correct in saying that? If I'm at a sportsbook, I can bet the next pitch is a ball or a strike. I cannot, with the prediction markets, because CFTC technically has to approve or at least not deny a contract, which takes about 24 hours, right?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Not exactly.
+## Dan Primack | Business Editor, Axios
+Just kind of explain that to me.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Be cause they.
+## Dan Primack | Business Editor, Axios
+Help me.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+No, they can approve a broad contract. You know, if they're going to do, you know, next pitch, for example, you can approve the contract and then have that turn up every single game. You just have to approve it once.
+## Dan Primack | Business Editor, Axios
+Okay
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+That one 24-hour period.
+## Dan Primack | Business Editor, Axios
+Even. Okay, but it doesn't have to be, for the eight pitch of this game, it just has to be, quote, "next pitch"?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Correct.
+## Dan Primack | Business Editor, Axios
+Okay.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Yeah. I think you'll start seeing, you know, more micro contracts. You know, we've seen that already with RFQs and parlays, I think you're gonna continue to see innovation there in terms of how dynamic the prediction markets are gonna be able to be on sports. I, you know, generally speaking, I think that there's already a lot covered. I couldn't answer your question. I'm curious to hear what these other guys.
+## Dan Primack | Business Editor, Axios
+Steph, I'm curious.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Because maybe they'll give me some good ideas for products.
+## Dan Primack | Business Editor, Axios
+Particularly for Robinhood because one of the things that isn't in there really is. I know they are governed differently because they're securities, which is stocks, but that's still not there yet.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+I mean, it's not.
+## Dan Primack | Business Editor, Axios
+There's some, but not.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+There's some
+## Dan Primack | Business Editor, Axios
+Not robustly.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+I mean, I would love to see that 'cause I think. That's why I was mentioning Palantir earlier because I was thinking, like, how many times you could do the work, say this company's gonna beat earnings, but there was just one line in the, whatever the presentation after that the market didn't like, or the earnings were really bad, but there was some line in the presentation the market loved. I think being able to have more micro bets on your work on a company, or any other kind of investment, I think becomes even more interesting.
+## Dan Primack | Business Editor, Axios
+Brian, just similar question to you. Is there something you see that's not on these right now that you expect to see or think should be coming or could be coming?
+## Brian Quintenz | Board Member, Kalshi
+Well, let me talk about one that I think isn't really well known or isn't that appreciated that I've heard Tarek, the founder of Kalshi, talk about, is on predicting earthquakes. Supposedly the markets there have been more accurate than the forecast by scientists.
+## Dan Primack | Business Editor, Axios
+Can I say, is there any concern that if you get a major earthquake? I mean, this is the wildfire question. I mean, I appreciate that a person can't cause it.
+## Brian Quintenz | Board Member, Kalshi
+Well, I think that's the point.
+## Dan Primack | Business Editor, Axios
+It's still gonna result in a lot of death.
+## Brian Quintenz | Board Member, Kalshi
+Yeah.
+## Dan Primack | Business Editor, Axios
+Potentially.
+## Brian Quintenz | Board Member, Kalshi
+I think. Look, you know, I, you know, policy is a complicated thing, and I think policymakers, you know, have a very hard job to do across this and any other landscape. However they choose to make this decision going forward, you know, I think they'll certainly take some thought on it. I distinguish between kind of, you know, a contract which would incentivize someone to do something bad than using information on especially something like a potential natural disaster that people could use to inform themselves and potentially hedge that risk. Now maybe that line is too far for some people, and that's fine, I understand that.
+I mean, I think, it's just a really interesting thing that there's a market on earthquakes happening around the world that's more accurate than what scientists are currently estimating.
+## Dan Primack | Business Editor, Axios
+I'm just curious for everybody up here, do you personally use prediction markets? I mean, actually make personal bets with your own money on them? Yes?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah. Occasionally.
+## Dan Primack | Business Editor, Axios
+Okay.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Not obsessively.
+## Dan Primack | Business Editor, Axios
+Brian, do you?
+## Brian Quintenz | Board Member, Kalshi
+Luckily I am precluded from doing that, so I can say no.
+## Dan Primack | Business Editor, Axios
+Paul?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Also precluded from doing it.
+## Dan Primack | Business Editor, Axios
+Let me ask then a different final question for you. Which is, if you had to make a significant personal decision in your own life, a personal life decision, whether that be financial or personal, and it was based on the crowd on a prediction market, would you trust it?
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+Absolutely. Yeah.
+## Dan Primack | Business Editor, Axios
+Steph?
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Not 100%. I would do other work.
+## Dan Primack | Business Editor, Axios
+Podcast X? Just checking.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah.
+## Dan Primack | Business Editor, Axios
+Brian, would you like a serious personal decision?
+## Brian Quintenz | Board Member, Kalshi
+I mean, it's the economist answer, it depends. I think it depends on what how big the decision is.
+## Dan Primack | Business Editor, Axios
+It's big. It's really big. You're gonna have to move it to a much smaller place.
+## Brian Quintenz | Board Member, Kalshi
+Are the odds 99%? Are they 60/40? Are they 51/49? How liquid is the market? Again, I go back to what I had said before, I think this is a data point. I think it's a very important data point.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Brian Quintenz | Board Member, Kalshi
+I think it's a data point.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah.
+## Brian Quintenz | Board Member, Kalshi
+That's what I would say is that's how, like, absolutely you have to use the data point.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Hey, you're just going back on what you said.
+## Brian Quintenz | Board Member, Kalshi
+No, I'm saying you absolutely have to use it as a data point.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+It's all probabilities. Like you asked the question of whether prediction markets get the election wrong, but they're not, they're giving you a probability. It could be 20%, it could be 10%. They're not right or wrong. It's not binary.
+## Brian Quintenz | Board Member, Kalshi
+They will always get it right.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+They will always get it right, it's just a probability.
+## Brian Quintenz | Board Member, Kalshi
+It just depends on when.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah.
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+You know, it's a probability outcome and it's a data point, and that's how.
+## Stephanie Guild | Chief Investment Officer, Robinhood
+Yeah
+## Paul Liberman | Co-founder and President of Operations, DraftKings
+We all use it, and that's how people think about it.
+## Dan Primack | Business Editor, Axios
+I think that's a good way to stop. I wanna thank all of you for coming. Brian, Steph, Paul, thank you very much.
+Data Source: Quartr Last updated: May 4, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (4) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

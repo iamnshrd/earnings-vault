@@ -1,0 +1,342 @@
+TITLE: Bank of America 2026 Global Technology Conference
+DATE: 2026-06-02
+## Brad Sills | Analyst, Bank of America
+Thanks very much for coming. I was looking forward for this session today because Miguel and I had a terrific discussion after the company reported the numbers. He's convinced I'm wrong with my rating, and he's going to prove me wrong, and I'm very open for the challenge.
+As you know, I'm new to cover software, been covering cybersecurity for 20 years and networking for 30 years. I always say that lately I'm the garbage person at Bank of America. Garbage not from a person of quality, meaning every time someone leaves, they tell me, "Okay, you cover it." I cover everything else, basically. That's going to change soon, but software is my focus, networking is my focus, and I want to start with a few things before we start. I want to start with outlining the background for the discussion.
+We have 30 minutes to discuss and we're going to talk strategy. We're not going to talk about the quarter. I don't care about the quarter. I care about where is this company positioned for the next 10 years. Salesforce today is a much bigger company than it was seven years ago, and the growth decelerated.
+The growth in the last quarter with professional services, 7%, 7.1%, without, 7.7%. It used to be 30%, it used to be 20%. That's before AI. We're not talking about AI. AI might be a tailwind, might be a headwind, right? What I want to understand is the reasons for the deceleration, the risks that we see in AI, the opportunities that we see in AI, and how the company is positioned to basically address the opportunities. Because the whole discussion of this quarter.
+By the way, for me, it was the first time I do a quarter call for Salesforce, and the whole discussion was about AI. The whole one and a half hours was about AI. I want to understand AI, and that's the purpose of our discussion. With that, Miguel, thank you very much for coming, and thank you very much for taking the time to educate me, because I need this kind of education. I want to start with big strategic positioning. I'm not giving you direction with my question. I want to ask you, what do you want to highlight when it comes to the opportunity to accelerate growth over the next few years? What are the initiatives that you think will drive higher growth in the future?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+First of all, thank you for having me.
+## Brad Sills | Analyst, Bank of America
+Thank you.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I was actually very much looking forward to this face-to-face.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+A conversation where you sort of rub the eyes a little bit. Can you hear me, the mic?
+## Speaker 3 | 
+No.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It doesn't seem to be. Is it working?
+## Brad Sills | Analyst, Bank of America
+No. Hold on, he's fixing it.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It feels that it's not working very well. Can you hear me at the back?
+## Speaker 3 | 
+No.
+## Brad Sills | Analyst, Bank of America
+He's bringing something new.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Hello? Hello. Yeah.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay, listen. First of all, I think since earnings, I've done 10 analyst meetings. This is the one conference that I wanted to come to. You're the analyst that I wanted to meet you face-to-face. I've studied a lot about you. You studied about the company. I actually was very curious to understand when I saw your price target. I'm the head of sales, I'm the Chief Revenue Officer, but I also studied finance. I studied Financial Engineering and Financial Management at MIT.
+I understand valuations. I was curious to get to know you. Then, when I read so much about you, I actually felt compelled to get to know you personally, because we are so alike. I have a lot of respect for you. By the way, you're very smart. A lot of the things that you touch are reasonable, okay?
+I just want to make sure that I provide enough color so that hopefully you can change some of the hypotheses, because I believe the reality is a little bit different than how you're positioning.
+## Brad Sills | Analyst, Bank of America
+I'm like AI. Sometimes I'm hallucinating.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+No. Yeah, no, you have a great experience. No, listen, you haven't hallucinated a lot in the past.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Listen, first of all, let me just start by clarifying that the 7.7% growth refers to organic subscriptions.
+## Brad Sills | Analyst, Bank of America
+Yes
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Support, okay? Organic in cost and currency. The growth of the company in the quarter was 13%.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Of course, we bought a company last year that was now a $40-plus billion company. We bought a $1.7 billion, and that helps with the inorganic growth. We grew 13% revenue, 14% CRPO. We generated $6.7 billion of cash flow. Not bad in one quarter. There are companies that you like a lot, that in one year, they don't generate that cash flow.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+There are companies that publish results the same day, amazing results. We like that company. I think there are a lot of people here in San Francisco. The whole revenue for the whole year is not even the cash flows of Salesforce.
+## Brad Sills | Analyst, Bank of America
+I'll stop you for a second because it's a conversation. In the last two weeks, we had a rally. The rally in software, you are lagging behind. Your stock went up 3%, the others went up 30%. Something in your message doesn't get across to investors. The fact is, it's not us, that's the stock behavior. Investors are concerned. The question is, where are they wrong? Meaning, what are the growth opportunities that you see in front of you that could prove the-
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Let me answer the question.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I also need to address.
+## Brad Sills | Analyst, Bank of America
+Sure
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Some of the inaccuracies.
+## Brad Sills | Analyst, Bank of America
+Yes.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The stock went up 8.5% on Friday. It went 9.7% yesterday.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Monday, basically the same as the Workday or ServiceNow, et cetera.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I don't know where you get the 2%.
+## Brad Sills | Analyst, Bank of America
+It was since the beginning of the year, so it went down.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay. Sorry.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+You said in the last rally.
+## Brad Sills | Analyst, Bank of America
+Right.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Listen. Our business is for two or three years, nobody really knew whether GenAI first, then AI, then agentic was going to be a tailwind or a headwind for enterprise software companies. The world was divided. I joined the company in 2011, then left for three years, then came back three years ago to be the President, Section 16 Officer, and Head of Revenue. We were, I would say, cautiously paranoid about what could be happening. Last year, we saw it very clear. AI is a massive tailwind.
+## Brad Sills | Analyst, Bank of America
+Right
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+For our business, we were competing in a crowded market where we are the absolute leader in a category, SaaS CRM. We've been doing that for 27 years. We had amazing growth when we are small. As you grow, the growth starts being a bit more difficult. It's a multi-hundred-billion TAM market. All of a sudden, AI is doing several things for us. First of all, everybody loves AI. Everybody loves the AI labs. The intelligence utility is incredible. In the enterprise, to convert that intelligence into proactive work, there are a lot of things that need to happen. You need to have deterministic workflows. You need to have the right context for the data. You need to have the compliance, the governance, the permission sharing.
+That software infrastructure that we built over 27 years is the big difference between beautiful AI for the consumer and productive AI for the enterprise. We are very well-positioned . AI is making our products easier to implement, easier to use, easier to enrich and put data into, and easier to consume. It's making our different clouds more valuable for our customers. AI is opening a door of a multi-trillion, multi-trillion a TAM market, which is the digital labor.
+Today, we had the SaaS market. By the way, the number of seats, the number of salespeople, the number of service people still continue to grow. We can later talk about what happens if it starts declining. We can talk about that because, for some companies in some industries, at some point, the number of seats may decline.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay? Forget about that for one second. In addition to that, which is our traditional business that was decelerating, all of a sudden, you have an opportunity to monetize AI in different ways. First of all, the existing seats, we are upgrading them to our higher-end SKUs.
+## Brad Sills | Analyst, Bank of America
+Right.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+We call it Agentforce one edition or Agentforce for Sales, Agentforce for Service. Every time we do that, on average, we do anywhere between 60% and 80% uplift.
+That's pretty big. Customers are very happy paying because now they have access to all the agentic capabilities of our product.
+The second way that we monetize AI is because AI has made our software easy to implement, easy to enrich, and easy to consume through conversation, then there are more seats available to us. If you look at our last earnings, seven of the top 10 deals were customers that found new people, new humans to use our licenses. More licenses. It's the opposite.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+AI is going to reduce licenses. Far, it's increasing licenses.
+## Brad Sills | Analyst, Bank of America
+Okay.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The third way to monetize, which is probably 50% of the monetization that we do, is what we call Flex Credits. We basically, for customer-facing use cases of agents, those agents need fuel. We charge them with fuel. We call them Flex Credits, and we put enough in the tank so that they get going. Sometimes they buy for the next three years, sometimes they buy for the first six months, and then customers come and refill the tank.
+We are seeing an explosion of Agentforce, which is one of the main drivers. Our core clouds now are better, so they are growing also, and they're growing healthily. You have products like Slack that is exploding, and then we run a very diversified portfolio of products. Every quarter, there are some products and geographies, some industries that they don't perform that well.
+When you look at our numbers.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The most important thing is the net new UAB . Net new UAB is net new bookings.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+You sell new bookings, and then the net is because there are customers that attrit. Our attrition levels are decelerating, and our bookings level are increasing. The difference, which is the net new UAB, is accelerating. We saw that last year, after a great Q2, the best Q3 ever, the best Q4 ever, the largest Q1 ever that we just did. The net new UAB is accelerating significantly and is growing more than the AOV.
+When the lines crossed, and they crossed last year, they crossed in H2 last year. They continue to surpass. The net new UAB growth continues to surpass the AUB growth in H1. That is when AUB accelerates organically. That's what happened. That's why we committed eight months ago with less visibility, but with a lot of conviction, we committed that the revenue was going to accelerate in H2.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It's going to accelerate in H2. In parallel, Informatica the revenue on an organic basis is re-accelerating significantly. There are many other places that we can monetize, and we can talk about that later.
+## Brad Sills | Analyst, Bank of America
+Yeah. What is the core value of Agentforce? Meaning, what do you bring with AI to customers? You touched on it at the beginning. Why would they use your offering versus going and trying to develop it on their own? I'm just talking in generically.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Yeah. Listen, probably, I remember when we started, there was a website, I don't use it anymore, but I remember there were 20 agentic platforms, then six months later, this was two years ago, there were 150.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Probably today, there is 10,000 agentic platforms. There are 10,000 ways, 10,000 companies that offer a platform that you can build agents.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+Okay? Why would you build agents with Agentforce and not with other platforms?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+First of all, Agentforce has a number of advantages. Think of Agentforce like an opinionated harness for commercial use cases. Where you have direct access to the context of your CRM, because it surfaced through that harness, you have access to the hundreds, sometimes thousands of flows that customers have developed in their orgs. Because when a customer implements Salesforce, what they do is they codify their standard operating procedures in our software, and they build flows. We have a tool. They build workflows, and all the workflows it's like a library of workflows. They're available in their org. Agentforce has native access to those flows. Agentforce can easily hand over to humans back and forth. Basically, that's one of the biggest differentiators. Customer, you cannot do that with other platforms. Agentforce is embedded.
+Agentforce allows you to choose whatever LLM you want to be on the back end.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Agentforce has many other advantages and has 29,000 customers, which means that nobody in the world has the amount of customers that we have, which means that we've learned. Our Agentforce today, the platform, is 1,000 times better than it was two and a half years ago when we launched it. The same way that some of our competitors have improved. When you have 20,000 customers across many industry geographies, you learn a lot. By the way, some big CEOs and big personalities in the industry, they will tell you that that agentic layer.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+That agentic layer is going to be commoditized. Okay?
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The good news is, be my guest. Build agents on another platform.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I want more agents. Agents are users that use platforms at a high scale. We started saying, the world of AI is humans and agents working together.
+We changed our tagline in the company. Now it's humans, agents, leveraging platforms, working together.
+The beautiful thing is, if you don't build your agentic layer or your specific agents, typically, companies use several agentic layers to build different agentic use cases in the company. That's okay, because if you want to touch the customers, you will most likely go through our platforms.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+That's it. Other big thing that is happening, this is the one more thing, like from Steve Jobs, that is our Headless 360 strategy that we just launched.
+## Brad Sills | Analyst, Bank of America
+That's my next question.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay, you can ask the question.
+## Brad Sills | Analyst, Bank of America
+No, no. Go ahead. Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Because for me, it's-
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Probably the most exciting thing that we have, and it's on top of what we guided.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+Why is headless different than the regular Agentic opportunity? Maybe for the basics, for those that don't know the company and don't know the space of headless, why is headless different? Why is it growing? You spoke about it also on the call, on the conference call. Why is headless growing the TAM?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Yeah. Growing a headless can significantly or will significantly expand the TAM.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+We are still not factoring any of that in our H2 revenue re-acceleration.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Or i n the profitable growth framework for fiscal 2030 of $63 billion and rule of 50, which is good news for investors.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay? What is different? It's a fundamental difference. Before, our software, by the way, most enterprise software were a full stack with the database, the workflows, and the permissions, and everything, and then the UI. We put the agentic layer on top.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Customers pretty much, if they wanted to build agentic workflows on Salesforce, et cetera, they need to do it through Agentforce.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Now, we've decoupled all those layers, and we've exposed everything, and we've wrapped them with MCP servers. You can access the data, you can access the workflows, you can access even Agentforce, you can access Slack through MCP servers, which means that anyone, anywhere in any surface, I mean, many of you may be working on Slack. Great. You can access our CRM through Slack. Many of you may use Cowork. Okay, it's very popular now. I use Cowork myself, or you use Codex, or you use another platform. Now you can use our software. In fact, I like to be controversial like you, and people are saying, "Okay, but people are going to buy code, the CRM." We've been saying for a long time that's not going to happen.
+People are not going to buy SaaS CRM, because they have to buy, operate them, maintain them. Now I say the opposite. I think people are going to buy SaaS CRM. That's the future. They're going to [audio distortion] using Headless 360, because they want those components that are already secured, that are trusted, that their uptime is the right thing, that you can respect permissioning, et cetera. It's humongous. It's so big.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+That we are afraid of. We are very cautiously talking and working with our biggest customers, our biggest partners, to find the right monetization strategy, because our number one value remains customer success. We don't want to either say, like our friends from Germany, "Oh, no, nobody access our platform," or other companies that try to really take advantage of the opportunity. We just want to do something that is fair. If you are using our platform in a way that wasn't meant to be, because a human being uses the platform, maybe engages with the platform, if you're in a call center, maybe 50 times a day, if you're a salesperson, maybe it is 10 times a week.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+If all of a sudden there is an agent doing that on behalf of a person or on behalf of an organization, and it's accessing the platform 1,000 times more, well, first of all, our cost to serve will go through the roof, so we need to monetize that. We're working again, and every conversation we're having is incredibly constructive, totally understanding, and it's going to be a huge opportunity for the future.
+## Brad Sills | Analyst, Bank of America
+Got it. Agentforce grew 200% year-over-year this quarter. It grew 50% sequentially. Where are we? Two questions. Number one, how do you help customers adopt it? Meaning, you spoke about flex spending. Can you talk about the program? What is flex spending, and how does it help adoption? Number two, where are we in the deployment cycle? Meaning, you have so many customers, 20,000 customers. When you talk to your customers, do you need to convince, do you need to educate them about Agentforce? Do you see deployment, or is it really at the beginning? I'm trying to understand where are we, not from a technology point of view, but from a market readiness point of view to deploy Agentforce.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Yeah. I think that's another piece of good news. I'm very close to where the agentic action is happening.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I'm very curious intellectually to understand what is this new trend. I would say that customers overall, forget about Agentforce, across the board, they are in a nascent period in the agentic transformation.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+We've done one thing that is very cool, working with external consultants, but working with our expertise of 83,000 people and 150,000 customers. We've mapped how would every customer in every industry, so I think we mapped 17 different industries, and in every industry, we looked at the top workflows, and for each workflow, how the workflow will be agentified.
+We come up with agentic use cases, and then we map them, and then we create a library of agentic use cases with a lot of information, what data they need, what do they do, permissioning, guardrails, et cetera.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Every time that I talk to a customer, I put a slide with anywhere between 120 and 180 use cases of agents. It's overwhelming. I call the eye chart across the workflow. They understand the workflows. I then pick up a few examples on how their process works today and how they would work with agents. I tell them, "Listen, I know the company's not ready to do that." Because companies need to be ready. You need to have the change management, but also you need to have the data.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+You need to have the legal checks and balances on any agentic use cases. I always position what we call the hero agents, the five, 10 use cases that are powerful that I know are easy to implement. Customers today, they are probably in the first two, three, four initial use cases of a list of 100 and 120. They're in a very early stage.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Every company, the first thing that they realize is the data is not ready. There's not enough, the quality is not there, it is not clean, it's not connected, it is not being leveraged sometimes. By the way, that's why we invest in Informatica. That's why we created this layer at the bottom we call the Data 360 layer.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+or the data foundation layer. That is a combination of Informatica, MuleSoft, and Data Cloud. It's a $7.5 billion business, growing double-digit . It's going to be a big differentiator for Salesforce, because everything starts with the data.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+If you don't have the right data, the right context, agents are not going to do shit. This is where everybody starts. I think every time that I tell the story, I get very well prepared for the earnings, and I go through the top 100 use cases.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Customers, I get surprised, because I have the same names that I talked about three months ago that, but they only had one agent, now they have five, or they only had 1 million AWUs, now they have 10. It's an exponential acceleration. That's why the AWU that at the end is a metric that you need to follow very closely.
+Because it's real productive work, and I can walk you in a different context exactly how we measure AWUs, because it's real work, it's not just tokens.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+That is exploding. We grew double the AWUs quarter-on-quarter, seven times Q1 versus Q1. We are just, I think in five years, we will be probably 500 times more.
+## Brad Sills | Analyst, Bank of America
+Got it.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Consumption than we are today.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It's that big, and we are so early in the game. It's everyone.
+## Brad Sills | Analyst, Bank of America
+Do customers feel comfortable with pricing? Meaning, the whole industry goes from seat-based pricing to consumption-based pricing. How do you help your customers to make the transition?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I love you. I had 10 or 12 questions that your team has told my team that maybe you may be asking, and this is the first one in the list. Thank you. Perfect.
+## Brad Sills | Analyst, Bank of America
+The question list is just to make sure that I don't run out of questions. Everything else is a discussion.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+No, actually, I was going to tell you at the beginning. Ask me anything. Seriously, there's nothing to hide. Pricing, it's been fascinating to see what's happened with pricing. We had, listen, no idea. We were probably the least sophisticated company in terms of pricing because we were selling by seat. That was our only metric, basically, only pricing until two years ago.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+We launched Agentforce, and we thought we were very innovative. Conversations. What is a conversation? We don't know, but it sounds good, and then we defined it in the contract, like the back and forth between a customer and agent over 24 hours.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay. Very soon we realized that $2 per conversation, is that too much, too little? It was a mess. Fast-forward two years, we are meeting customers where they are in their agentic journey. We are highly sophisticated. I mean, what I'm saying is that more customers want predictability. We have two ways to show predictable pricing. One is for internal use cases, for human users of our licenses. We upgrade them to the agentic version, which is the higher-end, the premium version, typically with a 60%-80% uplift, and then they have unlimited access. We meter, but for them, we don't meter.
+No matter what they use, they pay the same. They like that a lot. In fact, those SKUs that are now is multi-hundred, probably past already a billion-dollar business, is growing 60%.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay? The customers that want, okay, I want to have customer-facing agents because I have a demand plan of agents. I'm going to deploy 20 different customer-facing agents, and they're going to be consuming credits and data, et cetera. We build a demand plan. You're going to need all these credits, all this data, and the customer says, "What if it's very successful ?" Well, it's going to be more. "Yeah, what if it is not successful?" Well, it's going to be less. "Okay, I want a flat fee." We do the AELA, the Agentic Enterprise License Agreement, which essentially is an unlimited, we fix the price. We still meter.
+## Brad Sills | Analyst, Bank of America
+Yeah
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+To give the information to the customer, but it's unlimited, and sometimes customers win, and when customers win, we always win.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The renewal comes. The customer has deployed 10 agents out of 100. Okay, they won in the first 10. At the end, we don't want to win or lose. We just want to have a fair business with a fair margin. That's what customers want from us.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It's predictable, it's beautiful. There are customers that are putting their toe in the water, and they just want to say, "Okay, I don't want to pay anything. I just want to pay when the agents consume." Perfect. Pay as you go, no problem. There are other customers that say, "Okay, I think I'm going to buy 1 million credits.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+You can use it in two years. Okay. We are meeting customers where they are. The last thing, particularly now, because we deploy some out-of-the-box use cases like SDR agents or operations agents, and now we can price per business metric based on value. I'm telling you, I love business value. When I've done business value pricing in the past, we've made a lot of money.
+## Brad Sills | Analyst, Bank of America
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Customers negotiate business value, but then at the end, they say, "You know what? I want something flat." Today, we have 10 ways to price Agentforce or Agentic, but if the customer wants an 11th or a 12th, we'll do it, too.
+## Brad Sills | Analyst, Bank of America
+Got it.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+We are all learning together, and at the end, I want the best for the customer.
+## Brad Sills | Analyst, Bank of America
+Got it. We have two minutes left. I don't want to completely dominate the meeting. Is there any question from the audience? Just raise your hand. We have a microphone.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Sure.
+## Brad Sills | Analyst, Bank of America
+Do we have a microphone for the audience? Yeah.
+## Speaker 3 | 
+I just have one question. We've seen a lot of pilot accounts, and while they're executing, what are the positives and the pain points or opportunities you see?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Are freemium, which typically means they're pilots. Let me start with the end. In Q1, in the top 10 deals, that represented $800 million of bookings and represented 2.5 times more than the Q1 last year. In those $800 million, there were three deals that were pilots, that were successful pilots, and then went into production with a very large deal.
+They made out of 90,000 transactions, they made it the top 10. They were good. I think what makes it work is having the data, having the legal frameworks in place. Legal is important. Legal needs to be part of the whole thing because there is a new thing about liability, shared liabilities. Now these agents are doing what humans used to do, work, many times with customers, which is what from a legal perspective, you need to cover that.
+The business value needs to be there. There is a change management that is very important. Typically, the good successful pilots are those where you are on top of the agent, and you are on a daily basis understanding. That's why an agentic layer, a powerful agentic layer is important to do the right testing, the right monitoring, the right observability. You're listening to what the agents are doing and real-time changing, because otherwise, the agents drift.
+## Speaker 3 | 
+[inaudible]
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Yeah. For us or for the customer?
+## Speaker 3 | 
+Both.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+One of the beautiful things about this new capability, for 27 years, we've been buying, and either organically or inorganically, we've been adding new capabilities to our Customer 360 Suite. We added Marketing Cloud, then we added Analytics. Every time that we added a capability, we were able to monetize the customer another 10% or 20% more. Okay. The beautiful thing about these new agentic capabilities, when customers start the agentic journey with us, they all of a sudden use our software in a step change of how they use our software, in a totally different way. That gives us the opportunity, and again, the fair opportunity, to monetize them in also a step change.
+When customers start the journey, after the initial pilot, the first bite of the apple, they increase their spend with us by 50% or even 100%. They double. We see, on average, those customers that are fully advanced, they are three to four times the original AOV before they started the Agentic journey with us. Three to four times. We started this when we were a $40 billion ARR company, more or less. Now we are $46, or a little bit less than $40. If we get every single one of our customers to start their Agentic journey with us, because every customer is starting their Agentic journey. The question is, are they going to do it with us or with somebody else?
+I think we are very well-positioned so that we are the chosen platform for them to become agentic, at least in the front office. When they do that, their revenue with us goes up three or four times, which is beautiful. For the customer, the ROI, every use case is different, but typically, the ROI of an agent is much higher than the ROI of the equivalent human. What you're finding many times is humans and agents leveraging platforms, working together, and they come up with new use cases, new services that they were providing to the end customers that they before didn't do. Customers continue to invest, which is a good sign of good ROI with us. I think there is another discussion, maybe that's what you have in mind, which is the tokens discussion.
+I'm not an LLM provider, so I cannot answer, but our role is to also optimize that for our customers. We will become a gateway between the agentic use cases and the LLMs. The LLMs are utilities, and depending on the time of the day or the use case or whatever, there's one that is going to be cheaper than others, and we're going to go to the right one for the right use case of that agent.
+## Brad Sills | Analyst, Bank of America
+I know we're having fun, but we are over the time. I want to thank you, Miguel. This was a terrific session. Thank you so much.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Thank you for the opportunity. Thank you very much.
+## Brad Sills | Analyst, Bank of America
+This was great.
+Data Source: Quartr Last updated: Jun 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

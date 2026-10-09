@@ -1,0 +1,7 @@
+Company: Adobe
+ROIC Symbol: ADBE
+ROIC Name: Adobe Inc.
+Year: 2006
+Quarter: 1
+Date: 2006-03-23 17:00:00
+Executives

@@ -1,0 +1,295 @@
+TITLE: Morgan Stanley 24th Annual Global Healthcare Conference
+DATE: 2026-09-15
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+The clock started ticking down, so I think that means it's time to get started. Thank you very much for joining us with Medtronic today, the CFO, Thierry PiÃ©ton. I appreciate the time. This is Peter Harrison from Morgan Stanley Investment Banking Group. Maybe real quickly, you've been with the firm a little over a year I guess now. Maybe real quickly, a little bit of your background on what attracted you to Medtronic, and let's jump straight in.
+## Thierry PiÃ©ton | CFO, Medtronic
+Sure. First off, thanks for having me, and thanks, everyone, for being here. Yeah, so I've been with Medtronic for a year and a half. Attracted by many things. First of all, the sector. I had begun my career with GE HealthCare, so I've always wanted to come back to MedTech at one point. Love the mission that Medtronic drives. I thought I could bring something from my automotive background as well to help improve the business. As usual, when you're picking a new company to work for, a lot of it was just the interactions with the people, with the CEO, Geoff, with some of the presidents of other portfolios, et cetera. So it felt like a great fit. It's been a year and a half, and it's been an absolute honor and privilege, so.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Great. It's been a bit of a volatile year for MedTech, and so-
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+One thing that came across in the second quarter earnings was ACA subsidies, impact of procedures, capital equipment cuts and spending. How are you thinking about
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+That impact, and what are you seeing at Medtronic?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah, we get that question a lot. I think our portfolio is maybe a little different from some other MedTech companies in the sense that we tend to focus on acute procedures.
+Typically, if you have a stroke or if you have arrhythmia with your heart or you need a valve replacement, you have to get it done, right?
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right.
+## Thierry PiÃ©ton | CFO, Medtronic
+So it is not an elective procedure. What we are seeing is the strength of the procedure volume has actually been really good, and you could see it in the numbers in the first quarter. Our biggest franchises, Cardiac Rhythm Management, surgical, spine, they have all been performing very well. If you look at our revenue mix, about two-thirds of it is Medicare. Another quarter is private payers, and Medicaid is about 10%, and ACA for us is less than 1% of our global revenue. So it kind of shows you the mix that we have got. Look, overall, procedure strength has been good, and I would say one thing that is interesting, our free cash flow performance was really good in Q1, and part of it was accounts receivable. So we are getting paid well, both in the U.S.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yeah
+## Thierry PiÃ©ton | CFO, Medtronic
+even in some typically challenging geographies in Southern Europe, et cetera, where it's always hard to collect the cash. Q1 was very strong, so I think we see a lot of underlying strength, generally speaking.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Great. That's good to hear. The other macro trend obviously, or word we're hearing a lot is AI. That's on everyone's mind right now, and it's transforming many industries. How is it impacting Medtronic and-
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+MedTech or hospital spending or whatever it might be, in your view?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. So for us, there's really two big things. One is in the product part of our business, and one is efficiency internally. If you take the product part, AI just gives us an opportunity to improve the procedure workflow, make the results better for the physicians, provide a better service for the hospital, improve the outcomes. I'll give you an example, right? We've got AI attached to one of our endoscopes, GI Genius. The result is that through a typical endoscopy procedure, the AI detects 50% more polyps-
+than a trained physician would with a naked eye. It's great for the patient because you get a better outcome. It's also great for the hospital because maybe you can have a slightly less skilled physician doing that operation, right? Because the system's going to help. Another example would be in some of our spine procedures, the AI can help you do pre-op planning. So map how you're going to do the procedure, help you through the navigation during the procedure, and at the end of the procedure, give you feedback on what you did differently, better, what took more time, and so keep improving the way you actually do it. If you think from the patient, from the physician, from the hospital, there's a lot of benefit. For us, we're in a great position to integrate those new capabilities into the products.
+Then there's obviously the internal efficiency part of AI. The obvious stuff is for back office, like I run finance, and we have more and more operations that are being digitized, such as accounts receivable collections, et cetera. In R&D, we're increasing the amount of software development that's done through AI directly. It just speeds up the way the company works, and we get efficiency out of it.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+On the product side of the ledger for AI, are you able to monetize that?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+bells and whistles to sell the product?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. If you take the spine example that I was giving you, the basic product used to be implants. You would have a problem, you would go in, you would have an operation, you would get an implant. Very competitive, I do not want to say low tech, but almost low tech type of product. Now with the fact that we have got the full StealthAXiS solution, pre-op, intra-op, post-op with the navigation, the imaging, the robotics during the procedure, et cetera, it has made the implants a lot more sticky.
+with the customers, right? They want to get StealthAXiS because they know they are going to get a better outcome. The physician knows his mental load is going to be reduced by the AI. He knows he is going to get the assistance from a robotics perspective. That can be monetized. It has made the implants stickier, and it has enabled us to protect the pricing.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Well, great. Look, in my mind, you have seen Medtronic really pivoted its growth rate, and that was just demonstrated pretty robustly in the strong fiscal year Q1 results.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+What do you think has driven this strength, and do you think the new kind of growth rate you guys are at is sustainable into the near medium term?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. Look, I think it's always a combination of things, and it's not overnight. You've seen our growth rate steadily increase from 4.5%- 7%, excluding the impact of the extra week that we had in Q1, and it's a combination of things. A lot of them is around, obviously, innovation. We've got these four big generational growth areas that are driving a significant portion of the top line. Cardiac ablation with Affera, Symplicity, our renal denervation hypertension procedure, Hugo in robotics, and Altaviva in pelvic health. These are all at different stages of development, and I'm sure we'll talk about them. They're driving a portion of the growth, but the teams have been driving innovation in the more, I would call, traditional or historical parts of our portfolio.
+If you look at Cardiac Rhythm Management, which is basically what was at the start of Medtronic with the pacemaker, that business had 15% growth in the first quarter.
+It's really through innovation. It's CSP with high power and low power with products like OmniaSecure and our 3830 Lead. It's been EV-ICDs. It's been leadless pacemakers like Micra. Micra's almost a decade old now, but it's still growing high double digits. It's really continuing to transform a franchise that has been around for a long time, but through innovation. A lot of our competitors have seen Cardiac Rhythm Management as a low single-digit growth type of franchise, and we don't see it that way. We've continued to innovate there, and it's driving the penetration. In the Neuroscience portfolio, I talked about spine and the impact of StealthAXiS. In the other franchise, we've got meaningful innovation in every single one of the subdivisions. Like in neurovascular, we've got Artisse, we've got Onyx, which is an MMA product.
+We've got Scientia, that is a recent acquisition. In our ENT business, we've got StealthAXiS, so the full solution applied to the ENT business. In pelvic health, we've got Altaviva. Every single key operation that we've got has meaningful innovation going on for it. We measure what we call the vitality index, which is the proportion of our revenue that's generated by products that were launched in the last three years.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yep.
+## Thierry PiÃ©ton | CFO, Medtronic
+We used to be in the teens, now we are in the low to mid-20s. That is going to continue to go up, that is really key because that is where the growth comes from, it is also obviously good news from a pricing perspective.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right
+## Thierry PiÃ©ton | CFO, Medtronic
+Innovation commands pricing.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+How do you get conviction this innovation cycle that you are taking advantage of now continues into the future? You do have generational products right now.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+How do you ensure you have a generational product in three, four years?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. The first thing is the base franchises, our bread and butter business, CRM, Cardiac Rhythm Management, Cranial and Spinal Technologies, and Surgical are humming pretty well.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yeah.
+## Thierry PiÃ©ton | CFO, Medtronic
+Those are stable. They're continuing to grow with innovation. On top of that, we've got these four big drivers, and they're all at different stages. Cardiac ablation is the most advanced one. It just lapped $2 billion trailing 12 months revenue in the first quarter, ahead of our expectations, and we know that's going to continue to grow in the coming years for several reasons. Behind that, we've got the hypertension procedure, which is really still at its infancy. But it's a 15-million-patient pool
+with a $16,000 procedure. 1% of that pool
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right
+## Thierry PiÃ©ton | CFO, Medtronic
+is north of a billion dollars, and it's really in its infancy. It lapped $100 million of turnover in Q4 of last year. Altaviva is probably just behind it.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yeah.
+## Thierry PiÃ©ton | CFO, Medtronic
+Altaviva is the urinary incontinence procedure. It is a small implant in the ankle, and it treats people who have overactive bladder. They can do that instead of getting BOTOX injections and more heavy procedures. It is, again, 15 million potential patients, 5 million of which are actively seeking treatment, and it is another sort of $15,000-$16,000 procedure, so you can see how much that represents. Then we have Hugo in robotic surgery, which is a massively growing franchise for us. The good news is the base is strong and accelerating, and these four generational growth drivers are in rapid succession.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yep.
+## Thierry PiÃ©ton | CFO, Medtronic
+Each one very material.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Okay, great. Look, you talked a little bit about it, but CAS continues to be a bright spot in the portfolio.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Is this level of growth you are seeing sustainable? We talked about the technology innovation, but
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+other factors that will continue to drive this growth?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. Look, first of all, it's a growing market. It's a market that grew 14%, 15% in the first quarter. It's an under-penetrated therapy.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yes.
+## Thierry PiÃ©ton | CFO, Medtronic
+The good news is the pie is expanding. We're taking leadership there. We grew 88% in the first quarter in that franchise. Obviously, the comps are going to get more and more difficult, but we see the growth continuing for many reasons. One, commercially, we're still only targeting the large accounts in the U.S., so they're kind of a 30% of accounts that account for 70% of the revenue. We're only at about half of them. Even in that half, they want more mapping systems. We're really at the beginning. We're expanding geographically, so we launched our key product, Sphere-9, in Japan at the end of last year. It's starting to grow there. We're expanding into new indications. We expanded to ventricular tachycardia in Q4. That's another billion-dollar opportunity for us, and it's growing quickly. We've invested in ICE catheters for imaging.
+That's another billion-dollar opportunity. We've got a new catheter called Sphere-360, a very efficient catheter for simple procedures, coming in the U.S. that's going through the approval process. Commercial product ecosystem and sort of indications, we still have a lot of runway ahead of us. Look, we feel like it's got opportunity for growth. Our ambition there is to take leadership. To give you maybe one stat, the install base of mapping systems grew 40% in Q4 and 35% in Q1 sequentially.
+And that is future pull-through of catheters. It is a great indication of where the business is going in the midterm.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Great. Obviously, you just announced a major investment in a soft tissue robot in China.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+You have talked about Hugo as one of those four growth drivers.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+How do you think about the tie-in with Hugo, how Cornerstone's robot ties into Hugo?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+and why this company?
+## Thierry PiÃ©ton | CFO, Medtronic
+First, if you take a step back from a macro perspective, the surgical business is our biggest business in the portfolio, and we are one of the leaders of open surgery and laparoscopic surgery. Typically, if you are a hospital today, you really have one of two partners. It is either Johnson & Johnson or Medtronic, right?
+We have a big surgical portfolio. Within surgery, the part that is growing the most is robotically assisted surgery. It is vastly under-penetrated, 5% globally today. It is growing very quickly. For us, we want to take leadership in that area, too, right? For us, we have a successful robot now with Hugo. It has been successful outside of the U.S. It got approval from the FDA end of last year in the U.S., and it is ramping up. But what we have discovered is customers in this vastly growing field, they want choices. Some of them want a modular form factor. Some of them want a boom design.
+Some of them want an open visualization. Some others want immersive. It has become clear to us that you need to offer choice and access to customers. The investment in Cornerstone is about finding a partner who can accelerate being able to provide that choice to our customers, right? We went out, and we considered doing it organically, and we looked at potential partners out there. With Cornerstone, we found someone who has great tech, great visualization, great instruments. They have eight and five millimeter rifted instruments.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right
+## Thierry PiÃ©ton | CFO, Medtronic
+On the arms of the robot, which is quite rare, actually, in the sector today. They have a very vertically integrated offering. They have approval in China, CE mark, and in Singapore, so they can commercialize in 50 countries. They have a great leadership team, all people trained in the U.S., Johns Hopkins and MIT doctors, and et cetera. Great fit with Medtronic. We have the capability to help them with the distribution. They have the capability to offer this choice to our customers. So we are super excited. This is about us going on offense in this high-growth sector and just being on top of it. We made a large investment. It gives us optionality for the future, right?
+We like making an investment first and then learning how the company works and seeing if we can do more. So potentially we will do more in the future. But yeah, it is a great development, and we are exciting to see how that moves forward.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Great. That is very exciting. If I think back the last couple of years sitting here with you or Geoff or whomever, structural heart was always one of the products featured-
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+In this innovation cycle of Medtronic, and that is kind of stepped away a bit. What is the plan for this business, and what does the path forward look like for structural heart now?
+## Thierry PiÃ©ton | CFO, Medtronic
+Look, first of all, it is a segment that is growing as a market, and it is a highly profitable one, and it is one where Medtronic has a strong second position. It is an important franchise for us, and we want to invest in it. You saw us invest in Anteris, which is a balloon expandable valve, a few months ago. We just announced an investment in a company called Pi-Cardia that does leaflet modification that can be very useful in TAVR and TAVR type of procedures. We are going on offense on the inorganic side. We are also investing in mitral and tricuspid programs organically. We are in offense. It is probably going to take a couple of years before we get back to the type of growth rates that we are aiming for, but we are going back in offense in this segment for sure.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Before we pivot away from financial results, one last question. Neuroscience was, I guess I would say, a laggard in the last quarter.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+With 3% growth. What do you think that looks like in the future and where does it go from here?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. I think, as I said, we have had a lot of product releases in every segment of neuroscience. Spine did very well with StealthStation. Some of the other segments were a little bit slower in the first quarter. I think you are going to see acceleration, in particular, in the second half of this year. Neurovascular has a fantastic product pipeline. We have made a couple of acquisitions. These will be inorganic for 12 months, and then they will kick-
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+For sure.
+## Thierry PiÃ©ton | CFO, Medtronic
+into the organic growth after 12 months, and we look forward to that. All these acquisitions that we have made, we have made them in areas where the CAGR is sort of north of 20%, so they will accelerate our WAGR. Look, again, intrasaccular device, Artisse, in neurovascular Onyx, which is MMA, Neuroguard for carotid, Scientia acquisition. In the neuromodulation portfolio, we made the acquisition of SPR and made an acquisition in basivertebral nerve ablation, in peripheral nerve stimulation. Then in pelvic health, you already saw the acceleration in the first quarter. Pelvic health, thanks to Altaviva, was up 15%, so that is headed in the right direction. We see that business accelerating, in particular, towards the second half of the year.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Okay, great. One theme we have continued to see in MedTech is separations or portfolio rationalization.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+I would say in contrast to many of the companies I cover, you actually spun out or separated one of your fastest-growing businesses.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+How do you think about separating that versus a slower growth, and why did you choose MiniMed for that transaction?
+## Thierry PiÃ©ton | CFO, Medtronic
+We chose MiniMed because it is different. We are B2B, generally speaking, and MiniMed is B2C. The product cycle is different. Candidly, it is a great business, but the return on investment is lower than what we have on the rest of the portfolio. Margins are lower, and the amount of spend in R&D as a proportion of revenue is about double
+the rest of the portfolio. Clearly, it is about being able to invest in cardiovascular, MedSurg, and neuroscience, where we get better returns. We also think that the fact that it is different is going to appeal to different types of investors. We wanted to give MiniMed an opportunity to do its own capital allocation and attract its own investors. Look, we did the IPO back in May, and I think it is good to see that the stock has performed well since then, especially over the last couple of months. We just launched the second part of the operation
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right
+## Thierry PiÃ©ton | CFO, Medtronic
+yesterday, and we look forward to see the result of that.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Good. Why now? Because the stock has done well, as you said? Why did you do the spin number yesterday?
+## Thierry PiÃ©ton | CFO, Medtronic
+I think we had announced that we would do it within a relatively short
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Okay
+## Thierry PiÃ©ton | CFO, Medtronic
+timeframe after the first stage. Yeah, look, it's performing well. Q4 numbers for them were great. Q1 numbers were even better. The innovation cycle, every product launch is happening earlier than they expect, so they're on
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Okay
+## Thierry PiÃ©ton | CFO, Medtronic
+A roll from an innovation perspective. The business is doing great, and it's the right time to do it. Again, the strategic rationale hasn't changed. We want to focus the rest of Medtronic on the rest of the portfolio, and that's where we want to put our efforts.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Which leads to the obvious question. Now that you've done that, as you look at the rest of the portfolio, is that the portfolio that we expect into perpetuity for Medtronic, or should we expect additional spins or divestitures? How do you think about that portfolio?
+## Thierry PiÃ©ton | CFO, Medtronic
+Perpetuity is probably a little longer than my horizon, but I would say, for the foreseeable future, we like the portfolio at a macro level. That being said, there's more to portfolio management than just these big moves. It's also looking at it at a detailed level, and look, we formed a growth committee and the board, and that's one of the key topics that we talk about. Five times a year, we go through the entire portfolio, look at what's growing fastest, slowest, where we have the biggest right to win, and we decide where we want to add. You could see that with some of the M&A, and sometimes where we want to trim, and we'll keep doing that. I always give an extreme example. We even do that at the SKU level. In 2026, we retired 25,000 SKUs.
+In the first quarter of this year, we retired 9,000, which is a large number. We're systematically going through SKU by SKU, what's a good business, what's not a good business, how can we optimize, and we'll keep doing that. But I think macro level, we like where we are.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Great. The flip side to divesting businesses, obviously buying businesses, and I'd say in my career, I've never seen Medtronic as active as you all have been this year in-
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+M&A. Do you expect that to continue? As we think about focus areas where you will deploy capital,
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+you talked about structural heart already, but any other areas that you're particularly focused on?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. In all fairness, we had kind of stopped for a while doing M&A almost since Covidien, and the reason was we were improving operations internally. The operations are a lot stronger now. Manufacturing is humming, logistics is humming, R&D projects are coming on time, et cetera. We thought the organization was ready to take on new, inorganic plays. We've opened that activity again pretty significantly, as you mentioned, last year. In total, we made, I think, 16 investments.
+We spent, over the last 12 months, about $2.7 billion. It's about accelerating innovation. If you look at the last four or five years, we were doing sort of $2.5 billion of R&D and $400 million or $500 million of acquisitions. Right now we're looking at around $2.9 billion of R&D and between $2 billion or $3 billion of acquisitions. We're going from $3 billion- $5 billion-$6 billion, right?
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right.
+## Thierry PiÃ©ton | CFO, Medtronic
+In terms of total level of innovation. Look, it's with a view of accelerating growth opportunities and moving forward. We look for what we call tuck-in acquisitions, where it's sufficiently de-risked that the outcome is relatively certain, but not necessarily fully commercial yet.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right
+## Thierry PiÃ©ton | CFO, Medtronic
+So that we're not paying the full price. That's the type that we've targeted with Scientia, with Cornerstone, with SPR, et cetera, and we like that. We're also doing a lot of ventures way upstream.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yep.
+## Thierry PiÃ©ton | CFO, Medtronic
+But we like this tuck-in concept. No $4 billion or $5 billion acquisitions, but these kind of $500 million to $1.5 billion, we kind of like that sweet spot.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+When you do nine or so, I think you've done this year, I could be off, that are not fully commercial, your words, not mine, they're often dilutive.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+What is the mentality for kind of managing that earnings dilution?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. Look, we embed it in the algorithm. The algorithm is accelerate growth to get better leverage, work on gross margin, and we have got a lot of opportunity from a gross margin perspective, and take what is going to come from gross margin improvement and growth and reinvest a portion of it into innovation, whether it is organic or inorganic. We embed that in the guidance. This year, we had embedded the dilution that is going to come from the acquisitions that we have made. We had taken a security in case we were going to do Cornerstone, and so that allowed us in the first quarter to raise a little bit the guidance despite making a large investment, and we will keep doing that.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right. On outlook, you obviously, as you mentioned, thought you could apply some of your lessons from the automotive industry back-
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Into MedTech with your GE HealthCare background. Has that come to fruition, and do you think there is meaningful margin expansion within MedTech, within Medtronic?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+in a way?
+## Thierry PiÃ©ton | CFO, Medtronic
+Definitely. If you kind of peel the onion a little bit, there are two parts, the Kaizen stuff, what I call the Kaizen stuff, and the breakthrough. The Kaizen is what we do on a day-to-day basis to improve operations. If you look at pricing through better contracting, better effects management, more innovation, we turn pricing from being a typical one-two points headwind to being a one-two points tailwind.
+That brings us 30-40 basis points of gross margin per year. We look at cost, and by running the plants better, managing our suppliers better, we typically get net of inflation, one or two points of cost down now. That is another 30 or 40 basis points of gross margin improvement. Today, that is being offset by mix from diabetes and CAS, but those effects are going to go away-
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yep
+## Thierry PiÃ©ton | CFO, Medtronic
+For diabetes with the separation and for CAS with the growth of the catheter part of the business. Those Kaizen savings in pricing and cost out are going to start showing up. On top of that, one of the things that automotive does different is design to cost. It is all about instead of trying to squeeze 3%-4% from your suppliers every year, it is about designing the product right upstream in the development cycle. When you do that, instead of getting 3% or 4% per year, maybe you can take 20% or 30% out of the cost out by involving your supplier in the development process.
+Instead of saying, "Hey, we want you to manufacture this," and they have to scramble to make it, invest in equipment, et cetera, if you involve them, maybe they can use things that they already do, they can use critical mass and all that, so you get a much better cost position from the start. We are making a lot of progress into embedding this design to cost mentality in the new products that we are designing now. It is going to take more time
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right
+## Thierry PiÃ©ton | CFO, Medtronic
+Because it is going to come as we launch the new products, but it is a much bigger opportunity from a profitability standpoint than what we have pursued so far. I am excited about that. The North Star for the team is ultimately to get back to gross margin levels close to where they were pre-COVID
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Okay
+## Thierry PiÃ©ton | CFO, Medtronic
+which is about 4 points
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yeah
+## Thierry PiÃ©ton | CFO, Medtronic
+More than what we are doing today.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right. On FY 2027 revenue guidance, what are some of the puts and takes to get there?
+## Thierry PiÃ©ton | CFO, Medtronic
+So look, we did about 7% in the first quarter. We have guided for sort of a midpoint for the full year that is about 7.5%, including the extra week. What you are going to see is continued strength in the cardiovascular business. So, it has been a double-digit growth portfolio for us for a couple of quarters now, even outside of the extra week, and it is going to continue to be that way. The comps are going to get a little harder, especially on the cardiac ablation side, but it is going to remain very, very strong. As I said, neuroscience should accelerate, in particular towards the second half of the year, and that is really driven by the innovation that we mentioned. Med Surg is humming.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yeah.
+## Thierry PiÃ©ton | CFO, Medtronic
+The surgical business is doing well. The Acute Care & Monitoring part of that portfolio was exceptionally strong in Q4 and Q1, so we have got a little bit of one-offs there, so that will kind of normalize a little bit towards the end of the year. But Hugo is going to have an increasingly good impact. So I think you should see a lot of consistency versus what you saw in the first quarter. Again, with a lot of runway on the different growth drivers starting to kick in
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Yeah
+## Thierry PiÃ©ton | CFO, Medtronic
+as we go through the year.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+I guess we probably have time for two questions. Let me pick which of the ones I focus on here. The durability of normalized sales growth in the 6% range. What gives you conviction that obviously you have improved growth at a level I have never seen at Medtronic before. How does that continue into the future?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+And be a differentiated grower?
+## Thierry PiÃ©ton | CFO, Medtronic
+The first, I do not want to spoil the suspense. We have got a big Investor Day coming in December on the 10th and 11th, and that will be a key topic, because that is the number one question we get from everyone is, have you made that growth sustainable? Without spoiling everything, it is back to this concept of the base has become stronger, CRM, CST, surgical through innovation, and then we have got these four generational growth driver that are each at a different stage of development and that kind of take over from each other. That is the basic algorithm. Look forward to going into the detail of that in December.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+As I think about it as a different company than it has been in the past, how has your, if at all, your capital allocation priorities changed between organic, inorganic, return of capital to shareholders? How do you think about that algorithm now?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. I think first of all, we're committed to the dividend, so no change from that perspective. But then on the organic versus inorganic, look, as we said before, we're accelerating on inorganic, for sure. Again, it's a way to, in some areas that we think are going to be future meaningful growth areas, having two shots on goal. Maybe having an organic program and then doubling it up with an inorganic one, or having two inorganics, and we like that. If you look at our cardiac ablation portfolio today, it originates in one organic program with PulseSelect and one inorganic with Affera. It turns out both of them worked, so we love that and we're going to try to keep doing that going forward. That's really the big change is accelerating the M&A side of the equation.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Great. We have a minute left. Any last words you want to leave investors with or thoughts on the company?
+## Thierry PiÃ©ton | CFO, Medtronic
+No, look, I think it's been a long time coming, and I think it's a testament to the efforts that the team has put in place to improve operations and invest in innovation for many years. But we're at a point where we've got this depth of innovation and the breadth across the portfolio, and that's what's changed. That's ultimately what's going to make this growth acceleration be sustainable, and that gives us an opportunity to change the game from a leverage perspective on the income statement. We want to be an and company, growth and leverage from an EPS perspective, and we're super focused on that. Again, we're going to go through the details of that in the Investor Day, and we'll have two days. In the evening before the actual event, we'll have a show and tell
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Right
+## Thierry PiÃ©ton | CFO, Medtronic
+Where we'll show some of our key products with some of our key leaders in the business, and then the next day we'll have the proper event and it should be great. I look forward to it.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Great. Well, thanks for joining, and we're looking-
+## Thierry PiÃ©ton | CFO, Medtronic
+Thank you.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+forward to the Investor Day.
+## Thierry PiÃ©ton | CFO, Medtronic
+Thank you.
+## Peter Harrison | Global Head of Medical Technology, Morgan Stanley
+Thanks.
+## Thierry PiÃ©ton | CFO, Medtronic
+Thanks, [karim].
+Data Source: Quartr Last updated: Sep 15, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

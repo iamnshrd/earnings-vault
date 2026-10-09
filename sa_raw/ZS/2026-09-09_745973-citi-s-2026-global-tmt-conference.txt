@@ -1,0 +1,198 @@
+TITLE: Citiâs 2026 Global TMT Conference
+DATE: 2026-09-09
+## Fatima Boolani | Analyst, Citi
+I'm Fatima Boolani. I jointly head up our software research team here. Thank you for joining us in the afternoon sessions of day two of Citi's TMT Conference. I'm very excited to host a fireside chat with the CEO and Founder of Zscaler, Jay Chaudhry. Thank you so much for being here.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Thanks, Fatima.
+## Fatima Boolani | Analyst, Citi
+Jay, I want to start the session and the discussion off by you just setting the stage. You just closed out fiscal 2026, which was a pretty transformational and transformative year for you. But before that, I have to say, Zscaler is 19 years old this month. It might have been your first baby, but congratulations on that.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Thank you.
+## Fatima Boolani | Analyst, Citi
+A pretty transformational year for you in terms of a lot of activity, a pretty large acquisition. Just to have you set the stage for us and the table for us on the year in review, kind of key milestones coming off closing out this year.
+## Jay Chaudhry | CEO and Founder, Zscaler
+First of all, our platform expanded significantly. Zero Trust Everywhere is a big differentiator because you do not want just for users. The branches, devices, workloads, and our agents. Our portfolio for data security is as comprehensive anything gets. Security for AI, actually, a year ago, we had one product. That was GenAI Security. Now we have got six very good products fully integrated that has exceeded my expectation, the pace at which happened. We expected it. We set up a security AI startup within Zscaler. It has actually delivered solutions very rapidly. Then the launch of Agentic SecOps, that happened today. Great platform on the product side. I think we have better portfolio platform than anyone out there. On the sales side, we got some great momentum. We started the journey of transformation about 2.5 years ago when Mike Rich came on board.
+In that time, we changed the sales team's process quite a bit to be enterprise account-focused. That thing is delivering results. To give you tangible data, you may think that overall ARR growth percentage is here. The real number to look at the growth where we have made changes in net new ARR. In 2024, we basically had very little net new ARR growth. 2025, we took it to 7%, fiscal 2026 first half was 10%, Q4 was 17%. It is tracking very well. So good momentum on the sales side, good on customer side. Customer success is very good. Our NPS, Net Promoter Score, has been sitting in the 80- 85 range. Very proud of it. That is reflected in the amount of upsell we are doing. So very pleased and looking forward to further doing better job in FY 2027.
+## Fatima Boolani | Analyst, Citi
+Product portfolio has expanded materially. The go-to-market motion is now getting to a cruise control or a cruising altitude, if you will. As we look into fiscal 2027, maybe we can spend a little bit of time talking about the security for AI opportunity. That seems to be an area where you are very excited. When you spend time with customers, what are their most salient and palpable pain points that you are solving today? A lot of vendors are clamoring for the CISO attention, clamoring for the budgetary attention. How are you putting a stake in the ground and wedging yourself in the room and saying, "These are the focal points for your architecture today"? I do not have to remind anybody that this has been, again, a pretty consequential year of cybersecurity headlines development, right? Post-Mythos, post the Hugging Face incident.
+How have those conversations shaped the dialogue that you are having with CISOs today that is different from the conversations you were having six months ago?
+## Jay Chaudhry | CEO and Founder, Zscaler
+First of all, it is not just the CISOs. Now CIOs worry about it. The board worries about it. In fact, after Mythos, most large enterprises had a cyber task force whose job was to do some of these things and then report to the board on a frequent basis. Here is what is setting us apart in some of these areas. Think of what the customers are worried about from cyber frontier models. One, even if you do not plan to embrace AI, frontier models still cause a risk because anything that is exposed to the internet, could be a firewall, VPN, application A, application B. They can be discovered, and if they are discovered, frontier models are likely to find some vulnerabilities that creates a problem. In the Zscaler world, we are unique that with zero trust, we can hide those application behind.
+We are very busy working with customers, hiding their applications, customer after customer. There have been cases, a customer had 500 exposed domains, sub-domains, applications, and once we go in, we are able to bring that number down to probably 200 in a matter of a few weeks. Then it takes more time to go further down. That is number one. Number two, they are worried about embracing AI agents. They are powerful, they are excited. Every CEO is putting pressure on them. Do it. Then they say, "Wait a second." Then they read about Hugging Face, then they read about next week, Anthropic saying, "Hey, my agent went rogue." Then Meta comes. "Yes, mine went rogue, too." Then last week, what did OpenAI say? "Oh, one of my agents hacked a German site three months ago." Oops. All this is happening, so enterprises are worried about it.
+For that, they are looking for essentially a solution that can make sure right agent can talk to right agents. There is nobody better suited to solve that problem than Zscaler, because we pioneered zero trust, where a user could only connect with certain application, not to the network. Firewall vendors connect to the network. We advanced it to zero trust for branches, for devices, for cloud workloads. Doing agent was the natural thing for us to do. Those are the two things. I will give you one example. Yesterday, I was in D.C., met a few customers. Two of them were large federal agencies that you would expect in D.C. That is natural part of it. Both conversations tell me, Mythos, they are both using Zscaler, ZIA, ZPA stuff, and now they are looking for help. Now the conversation happens.
+I talk to the CIO how we can do this stuff. They're a large agency, thousands of one day and the CIO said, "I have 900,000 internet access points." "How long will it take for you to give me an assessment and the risk factor of it?" I told her that it'll be faster than how long it takes you to go through your paperwork for procurement.
+## Fatima Boolani | Analyst, Citi
+It's a good pitch.
+## Jay Chaudhry | CEO and Founder, Zscaler
+She said, "How about four to six weeks?" I said, "Done." I said, "Let's get started. We'll figure out." Our real opportunity comes actually to block all those things. One of the opportunity motion we have is to show them what the risk is as a complimentary service, then the opportunity comes to us. It's sizable and we are focused on leveraging it.
+## Fatima Boolani | Analyst, Citi
+Jay, I'm going to take a little bit of a detour, and talk a little bit about the historical context, a few things, so if you can humor me. You've had the privilege and the benefit of actually witnessing and participating in disruption in prior computing cycles, right? You saw the rise of the cloud secure web gateway coming. Cloud was ascendant, and we were moving away from the client-server model. I think you're famous, and you've been famously talking about that the castle in architecture shouldn't exist. You stack the DVD players.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+I think we're familiar with that.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yes.
+## Fatima Boolani | Analyst, Citi
+You lived through that computing shift. Cyber attacks and the rise in volume and velocity and variety and sophistication of cyber attacks.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah.
+## Fatima Boolani | Analyst, Citi
+Was an issue at that point in time. Target.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+COVID era, pandemic era, there was an impetus for security modernization.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+Now we're here in the AI native era, right?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah.
+## Fatima Boolani | Analyst, Citi
+Cyber attacks have always been a problem. They've always gotten worse. But in your opinion, what is different, more pernicious, more consequential in this period of time that doesn't compare to these past periods?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah. The number of attacks and the nature or the impact of attacks has gone up, what I may call incrementally. What Mythos models have shown, it's a step function change. It's a big change. Let me give you some data points. The number of vulnerabilities that pre-frontier model companies who do vulnerability management are able to discover, if it is X, frontier models are discovering 10x.
+It's such a big For example, before Mythos, we would go and tell customers, "You should hide your attack surface with Zscaler. It's a good thing." And they'll say, "Yes, it's a good thing, but it's not a I have a lot of other things to do." It's a kind of priority, but not the highest priority. Now, if something can be discovered, there's a pretty good chance that the frontier model will find vulnerabilities that can be exploited. So the risk has gone up significantly. All these assets have to be done. So that's what makes these people nervous. The biggest change, one of the big attacks that happened, what, 10, 15 years ago, was Target.com.
+That was big. It shook things up. But nothing like this. This says you're seeing things every day. We were part of the Project Glasswing from day one, early March. When we tested our own software, we found quite a few vulnerabilities. I changed priorities in my team and say, "Your number one priority is fixing it, and the feature delivery can slip a bit. That's okay." I think that it's very important. The good thing is, a cloud-native company like Zscaler can fix those things on its own. If you're selling lots of firewalls, then we have to reach the customer to figure out, upgrade, all that kind of stuff. But this is the biggest step function change in cyber world.
+## Fatima Boolani | Analyst, Citi
+Just bringing it back to your opportunities, excuse me, your prosecutable opportunities and your capturable opportunities. I think one of the things that's been confounding for investors is that the environment has never been more dangerous. You just obviously gave us some very spexamples of why the market factors and the exogenous variables are absolutely in your favor. The confounding element, I think for a lot of investors, has been, well, where is the budgetary explosion, so to speak, right? You would have assumed that the cadence of budgetary growth would have accelerated immediately, right? You just mentioned to me that this federal agency has a four-to-six-week time period, right? You also mentioned that your CISO conversations over the last six months post-Mythos, there was a task force, right?
+So it's almost like instead of seeing a budgetary explosion that you've been able to capture, there's maybe been a little bit of a pause from an organizational standpoint as to there is such a tremendous amount of change
+you want to be deliberate and thoughtful around it. Would you disagree with that characterization, number one? And then number two, how can you express comfort and confidence that actually the budgetary explosion, so to speak, is on the come because budgets are only going to need to rise to the occasion of the cybersecurity and cyberattack environment that we're in?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yes, good comprehensive question. First of all, I would say the urgency to handle security issues has gone up big time. That's there. Now, I will contrast the urgency for during COVID versus today. This question has been asked to me. COVID was a catalyst. The difference between the two was the following. When you were sent home on Friday, whatever, March the 14th in 2020, on Monday you couldn't work unless you had a solution. So we were inundated with calls. We're literally working day and night to turn on Zscaler to get things moving. So it happened very rapidly. On Mythos side, the risk factor is viewed as far, far bigger. But now they're trying to understand the risk. What, how, where, prioritization. Those things have played a role, so you did not see a silver bullet saying suddenly the budgets are jumping up.
+But the urgency is going up. Now, urgency is in a couple of areas. One is these models, what can I do about protecting it? And then the other pressures CEOs are putting on CIOs and CISOs is embrace AI safely in a much faster fashion. Now they are trying to figure out what do we do? Now, embracing AI is happening, but bigger rollout are still slowed down because of cyber. Now, when I go and talk about AI security or security of AI to customers, which is every conversation, they are looking for, can you give me a comprehensive solution rather than five-point products? So that's favoring us. We built four products internally. We acquired two products through acquisition, so it's helping us there. The other thing that's helping us is they're seeing there are 1,000, probably, security for AI companies out there.
+The message from CIOs is, "I don't want one more point product. I want integration that's helping us in that space." I am also seeing that even though we have done hundreds of deals in the past 12 months for AI security, the deal size has been smaller. They can't say, "I want to understand, and before I do multimillion-dollar deals." So deal sizes are smaller. Urgency is there. It's also driving need for zero trust because either you hide your applications behind or if you think somebody got in, you need zero trust to reduce the blast radius. So a branch is infected, it doesn't go beyond the branch. So it's helping data security as well. By the way, the deals we closed in Q4 for AI security, 70% of the deals also had data security as a part of that.
+A number of our zero trust deals did get accelerated because of the sense of urgency here. So we're seeing an impact. I think we expect to see more impact in fiscal 2027.
+## Fatima Boolani | Analyst, Citi
+This is a good segue into the next question I wanted to ask you was just around, you've framed the business, by virtue of pillars, let's just say loose pillars, right? Zero Trust Everywhere.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+AI Security.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+And data security. I am curious, has the tip of the spear for you changed? Because clearly in the way you have described it, there is a lot of coincident value in having a zero trust architecture and portfolio of products from you on the zero trust side with a layer of data security. We will certainly get into more of the data security implications, and what that means for your business. Generally speaking, you frame the business in those three particular pillars. I am curious, as it stands today, as you think about fiscal 2027, as those budgets open and the urgency is realized and you are monetizing it, where should investors expect to see the outcome, the positive outcomes of that budgetary allocation? In what domain would you expect that to show up most?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah. So great question. First of all, those three pillars you mentioned, we just added a fourth pillar for Agentic SecOps with a launch. It is a new area. It will take some time, but it is also a big opportunity for us. Where is the traction coming from, right? I have been surprised by the speed at which the security for AI products have taken off. I told you a year ago, we had basically one product, not a whole lot of stocks.
+## Fatima Boolani | Analyst, Citi
+10 x as many products now.
+## Jay Chaudhry | CEO and Founder, Zscaler
+10x as many products. Also we disclosed after Q3 was our last 12 months bookings for security for AI has exceeded $100 million. In Q4, we also saw that sequentially our bookings went up 50%. So we are seeing very good traction. I expect some serious traction this area, though we haven't quite factored a meaningful upside of security AI in our guidance. We just want to be prudent. Unless we prove we get comfortable, we don't really want to raise expectations. Take Agentic SecOps, too. We are working with a number of customers in early stage. We haven't factored a whole lot of that in because we haven't really proven ourselves. The big growth areas AI security starting from small base but exploding rapidly. AI is impacting data security. That is helping.
+Zero trust everywhere is the fine foundational piece if you really need to be secure. There is nothing more fundamental than zero trust everywhere. We are seeing our branch deals going up. Zero trust everywhere, number of customers has moved up from 300 a year ago to 950 this year. That is pretty remarkable. We are doing some very large deal on branch. I am excited with this area, very much so because I have always believed that the network, call it disruption, MPLS, we did that very nicely. People used to say, "You are crazy if you say MPLS is going to go away, it can never go away." Right? Now, Zero Trust Branch is disrupting SD-WAN. Even though Gartner talks about SASE and SD-WAN, we kind of are a different camp. We are in SASE without SD-WAN, Zero Trust Branch and all that kind of stuff.
+We are doing some very big deals in this space. We are also doing deals where Zero Trust Branches bought without having to buy traditional ZIA, ZPA because they want to do segmentation. One thing new this year for us for growth is we are now multiple landing solutions. Even though we had some before, we never focused on it. Now we are realizing that you go to a customer, if you go with one solution, and the timing may not be right for it. But if you have got four offerings, the more likely that he is going to say, "I need this." For example, AI security, a lot of deals we are doing are new logo deals. Data security, a number of those products are new logo products. Zero Trust Branch, when I do plant segmentation and all, I do not need this solution.
+I have multiple solutions that are helping us expand our platform. We share about 785 customers now with $1 million+ ARR. $5 million ARR number has been going up as well. We did a record number of $1 million deals last quarter. We created record pipeline last quarter. Our productivity in Q4 was the highest in the past some four years, and productivity 2026 has been very good as well. That sound bullish about 2027.
+## Fatima Boolani | Analyst, Citi
+There is a kind of a running theme that you are alluding to around this resurgence in zero trust principles as kind of the foundational underpinning to build your agentic workflows.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+And agentic applications. As part and parcel to that, historically, predominantly Zscaler's business model was a user-based model, right?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yes.
+## Fatima Boolani | Analyst, Citi
+You've always been acting as a switchboard between the user and the end application, right? I know increasingly you've been moving towards becoming the communication switchboard for agents, right?
+## Jay Chaudhry | CEO and Founder, Zscaler
+And branches and cloud workloads, yes.
+## Fatima Boolani | Analyst, Citi
+As kind of the end user units, let's just call it that, move away from humans-.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yes.
+## Fatima Boolani | Analyst, Citi
+To machines to agents.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+How are you levered financially to those positive trends? Because I think we've all heard the stats here that an agent to human ratio in the next three to five years could be 50x, 90x.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+100x.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+Right? Sky's maybe the limit on that.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Absolutely.
+## Fatima Boolani | Analyst, Citi
+How is the business model benefiting from that today?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yep.
+## Fatima Boolani | Analyst, Citi
+Where do you expect that to be, and should that actually show up in Zero Trust momentum, or will that show up in the Agentic SecOps pillar that you just launched? What is the culmination of this growth of end user units?
+## Jay Chaudhry | CEO and Founder, Zscaler
+It will show up in both, but the starting point will be Zero Trust Exchange. Then the logs from there flow into Agentic. Agentic SecOps become the secondary part of it. Look, the more Agentic communication happens, there will be more need for policy enforcement, who talks to who. That is where our exchange, our communication hub comes in. Some people have made a case that, oh, this exchange, this policy should run on the endpoint or here and here. It cannot run on one entity because agents will be on the endpoint, they will be sitting on my mobile phone, they will be coming from Snowflake, ServiceNow, and hyperscalers. So you need almost like a phone switchboard in the middle that can connect any party to any party. That is part number one. With that, we will scale.
+If you look at it, the reason we believe we have the right to win in Agentic communication more than anybody else is because we have the core competency. We built the exchange for users to applications, then took it to branches, to devices, to cloud workloads, now to Agentic Exchange. Now, literally to build what we are to build, somebody who does not have this background has to set up infrastructure around the globe. Then they need the policy engines, logging, and reporting. Literally about 70% of what we needed for Agentic Exchange, we already had it. 30% is what we have been building. What is that 30%? What is different? Well, MCP gateways, A2A gateways are starting communication point. You talk, you communicate our prompts. Ability for your proxy to extract prompt, analyze it, understand the intent, understanding potential things had to be done. So guardrails needed to be built.
+Intent had to be understood. Identity, we always taken identity from whoever provided it. Agentic identity is a little bit more cumbersome, a little hard. A user identity is kind of static. You got it. Agent can change on the fly. Is identity for a given session or dynamic, is it? What all can they do if they are launching five sub-agents? Do my permissions go to my agent? What all do they go? So there are little authorization pieces. Those are the pieces we built. We launched our exchange in June at the Zenith Live, and it is in limited availability, working with a bunch of customers to get all the kinks out. But that is the biggest opportunity with biggest barrier to entry. Then logs flow into SecOps. SecOps is there to see if you did not catch something when it is happening. It is after the fact, it is needed.
+Then with our logs, we do not have to spend time to move it to a data lake and get the results back. Today, it can take days or weeks to find something and take an action on it. With Zscaler, we can find things in minutes because we have the first-party data. Take an action to our exchange to block, do a policy enforcement. That is really what makes it exciting for us.
+## Fatima Boolani | Analyst, Citi
+Jay, you brought up identity, so I have to ask you this question. I think there is a debate, I certainly have with a lot of folks, around, well, what is the right way to think about the identity architecture that you wrap around an agent? Clearly, it is very different from a human user like you characterized. But ultimately, do you believe this is a privilege-oriented problem, or is it a governance-oriented problem? And technically and even conceptually
+## Jay Chaudhry | CEO and Founder, Zscaler
+Right.
+## Fatima Boolani | Analyst, Citi
+How do you solve for that.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah.
+## Fatima Boolani | Analyst, Citi
+Agent's level of permissions, right?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Identity can fall in three buckets for your simple understanding. Base is who are you? That comes from traditionally for users, Okta, Microsoft, Ping, or the world. The next level is what all can you access? Within SAP, you can access it. That is called authorization and governance. That comes from SailPoint of the world. The third piece is what special privileges can you have? That comes from privilege access management kind of companies. This is BeyondTrust and CyberArk of the world. These are there. Start with identity. You need to start with identity of the agent. In my view, as we work with all the hyperscalers and Snowflakes and Salesforces of the world, when they create agent, they create identity. Then I am going to go to an independent company and say, "Use my identity for this agent." It gets very hard.
+That is why our decision is take identity from the party that creates agent. Now we can add authorization policies on it, figure out intent and the like. That is the right way to do. A lot of companies who are trying to say, "I am the identity company," they are taking machine identity, many times certificate-based stuff, which is good for servers. It is not good for agents. I personally do not think that is a right approach. We will augment identity authorizations on top of identity we get from the agent providers.
+## Fatima Boolani | Analyst, Citi
+Is that identity intellectual property going to be your secret sauce, or is that something that you would be willing to partner with traditional IDP and identity-.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Identity is going to come from identity providers. We add value to figure out whether the policy should be enforced or not, checking the intent, checking authorization risk associated with that. That is the value we add in our exchange. Exchange is not simple thing anymore. It is more sophisticated, and that is our IP.
+## Fatima Boolani | Analyst, Citi
+Jay, we talked about, again, the multiple landing spots and landing zones for the customers. You've got the go-to-market motion, but something new that you've also introduced over the span of this last year is Z Flex. Just as a procurement model and a procurement vehicle to drive more awareness of the full portfolio, can you give us the top three learnings that you have gained from launching Z Flex and any metrics that you're proud of in basically having this be a very important sales
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah.
+## Fatima Boolani | Analyst, Citi
+Conversation tool, and what should we expect from Z Flex
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah.
+## Fatima Boolani | Analyst, Citi
+As we think about FY 2027?
+## Jay Chaudhry | CEO and Founder, Zscaler
+As the name implies, Z Flex is a flexible mechanism for customers to acquire our products. Z Flex is not a new product, new packaging. Z Flex says, "I want to reduce friction for customers to be able to do larger deals with us, align with us," and it becomes a win-win. What are we offering with that? Number one, customer used to look at, you got six things I am interested in from data security. I want to test A, then B, and then C, we will decide what I want, what I do not want. We give flexibility swap modules. You do not have to keep on testing the stuff. You can keep on moving faster. That is number one. Number two, create a rate card so the customer can buy additional product without going through procurement cycles.
+Any time you go through a procurement cycle, it just drags things on. Number three, with the flexibility, they also want many times, though not always, some ramp. I got six things. I would have bought three otherwise. Now I cannot roll out six at the same time. Give me three months, six months, nine months ramp time. Ramp becomes part of it. With that, they are also willing to do longer deals. More and more four-year, five-year deals. It is a win-win thing, so we are seeing deal size going up. Customers who have done Z Flex with us in the past year, it is in less than a year, their upsell has been 30% higher than customers who have not done with us. I think it is great for customers, great for us. Now we need to take it to the next level.
+We started less than four quarters ago. First quarters are testing the water to see what limited number of things. Then we open up more and more. In this year, we want to take it to a broader level because it is a good thing for customers.
+## Fatima Boolani | Analyst, Citi
+I did want to spend a little bit of airtime talking about the big launch that you had today of the Agentic SecOps and Agentic SecOps. This is something that you have telegraphed on the back of the Red Canary acquisition and what your anticipation was after a full year of integration. Can you just walk us through the culmination of, you did the Red Canary deal last year. How has that now been fully folded in and integrated and melded into Zscaler proper?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Red Canary was done to make sure we can accelerate the delivery of our Agentic SecOps solution. Since they had expertise in SecOps management as a managed service, they had playbooks, they had built some very good agents. We took those SecOps agent, embedded them into our solution. That's what brought together, that's what the launch is about. It was never about us fully saying, "I want to be an MDR vendor." We want MDR management as an option managed service. But SecOps is a great solution. Our enterprise customers want it, so it's a product they can buy, and they can also buy managed service if they choose to do so. From revenue point of view, actually, Red Canary has been a headwind for us rather than a tailwind.
+Because MDR standalone companies traditionally have had elevated churn rates, and we saw the same thing out here. They're also customers on lower end. The smaller customers mean you can't really touch them that often. That generally ends up having higher churn rate. The success of SecOps for me is how much revenue do we grow to our traditional enterprise customer base. There are big deals to be done in this area. We expect that, and we'll plan to bring the Red Canary customers over from the current solution to the new solution because we aren't going to keep two solutions, and we haven't fully tested how much uptake that's going to happen. So we factored some of that as a headwind from Red Canary.
+That's why we're not expecting much the Red Canary side of it, but we are expecting this to really build momentum for our overall SecOps solution to our traditional customers.
+## Fatima Boolani | Analyst, Citi
+Just from a competitive standpoint, Jay, there has been a huge battle to win the hearts and minds and the budgets of the SOC because we are in this generational modernization period. What would you articulate is your de facto advantage in the Agentic SecOps security analytics stack modernization opportunity, and why do you have that must-have angle-.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah.
+## Fatima Boolani | Analyst, Citi
+Relative to some of your peers who may have had a little bit more of a head start in this domain?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Some folks had a little bit head start in the domain, but all the head start was in pre-agentic era. True agentic technology actually happened in the past 18 months, not even two years ago. A lot of stuff before that was designed mimicking human beings, doing a little more automation, doing them faster. We had the advantage of doing it in the past 12 months- 18 months in a new way, designed for agents, not for human beings. That's number one, because agents will do most of the work. That's number one from technology point of view. Number two from technology point of view is closed-loop system. You send it to some system, they take a week or X days to discover it. Now, those remediation has to be done somewhere in an inline system, either on the endpoint or inline system like Zscaler.
+We, being able to offer both, not having to move the data to another lake, are able to do some of the stuff in minutes. That's advantage, especially more so in today's world when you find an exploit and it gets exploited pretty quickly. And third big thing is data. We really have some of the best data. People make a case for whose logs are better logs. Well, inline is fundamentally important. Imagine you need to figure out, how do I keep my country safe? And you know logs about who is moving in and out of your country. The best place you know who is coming in and out. And the EDR is important because EDR sees what's on the endpoint. Endpoint become a point of exploitation. We have both. We correlate both. So with that telemetry, we think they're right to win with this one.
+Lots of customers are asking us, "You create all this telemetry. Why don't you give me more value out of it rather than my having to pass it to someone else?
+## Fatima Boolani | Analyst, Citi
+Jay, my last question for you is, in September 2027, when we're going to have you back at the conference-.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Right.
+## Fatima Boolani | Analyst, Citi
+What will have been the two things that will have happened that would've surprised you to the upside? So instead of doing 17.4% ARR growth in fiscal 2027, you're going to do 25% ARR growth. My number's not your-.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Only 25?
+## Fatima Boolani | Analyst, Citi
+Only. The expectations.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Oh, cool.
+## Fatima Boolani | Analyst, Citi
+Two things that would really surprise you to the upside in a look back from a year from now.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Number one, security for AI growth. I am very bullish. But again, my bullishness and giving you the guidance need to be kept in the right place. Number two, our Zero Trust Everywhere would be the other thing. But in that piece, I am excited and curious to see how the Agentic Exchange takes off. Some of this stuff will take time. Agentic will take some time because there are so many unknown pieces that are being built every day. But I would like to be sitting here next year and say, "I have proven enough to see agentic stuff taking off," because that opportunity is boundless. The barrier to entry to do what we are doing in this space is very hard.
+## Fatima Boolani | Analyst, Citi
+Thank you, Jay. I always walk away much smarter after our conversations. I appreciate your time. Thank you so much, everyone.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Thank you.
+Data Source: Quartr Last updated: Sep 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

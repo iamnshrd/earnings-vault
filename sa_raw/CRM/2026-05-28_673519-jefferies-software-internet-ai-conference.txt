@@ -1,0 +1,239 @@
+TITLE: Jefferies Software, Internet & AI Conference
+DATE: 2026-05-28
+## Brent Thill | Analyst, Jefferies
+Bill, welcome back.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Great to be back.
+## Brent Thill | Analyst, Jefferies
+He has actually been very consistent in supporting our conference, so thank you for being a support.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Thank you for always scheduling it the day after our earnings.
+## Brent Thill | Analyst, Jefferies
+I'm sorry. I know it's hard. Thanks for making the trip, and for you, I'm going to go off memory. You joined in 2017; you were at Microsoft 14 years prior to that.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+That's right. Yep.
+## Brent Thill | Analyst, Jefferies
+Okay, it's ingrained.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+That's memorable.
+## Brent Thill | Analyst, Jefferies
+Had a good chat with Robin last night, post, and talked through things. The key question everyone's asking us today is, you have low teen cRPO growth. You've called for an acceleration in the back half of the year. cRPO isn't accelerating; everyone's like, "Well, how do you see an acceleration overall if we're not seeing cRPO accelerate?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah. Well, first off, thank you for having me again. It's always a pleasure to come speak with you guys about what we're really excited about at Salesforce, and you've always been someone who keeps us on our toes, so thanks, and I'm happy to answer what we're seeing in the business at large. When you look, I think some of the things that you heard in our earnings script yesterday from Marc, and Robin, and the team, we have a lot of real excitement happening in the business, and the exciting parts that really give us confidence about the back half acceleration, number one, Agentforce. Agentforce is really transforming not just the way that the revenue complexion comes into Salesforce, but it's transforming the way our customers are using our software to add value to their business.
+This quarter, our focus has really been on accelerating the adoption of flywheel, getting customers in this moment from pilot into production, and really seeing that production have meaningful returns on the front of their business. We've seen in every industry, companies in financial services, healthcare, high tech, retail, using this platform to finally catch up to the demands of their customer, and that's, I think, been one of the most exciting parts is for the first time, technology is helping companies catch up because the demands of customers have always overwhelmed the service centers, the sales centers, et cetera. Agentforce is really off and running, and I think we're really excited about its early days.
+Over the install base, we're still getting more of those customers through the adoption of flywheel. I think you're starting to see that pick up velocity as we've invested in more forward deployment engineers that really help customers with their adoption and getting their first scenarios live. That's been a big motion this quarter. When you look at the core businesses, like our Agentforce 1 E dition, which is our premium edition of our Sales Cloud, which allows agents to work with sellers and amplify their productivity, that's also accelerating for us. This agentic wave is not just about these functions that are customer-facing functions; it's also about the productivity of the enterprise as well, and both of those are really starting to have dividends on the business. As these get more adopted in flywheel, that's what gives us that confidence about the second half.
+## Brent Thill | Analyst, Jefferies
+The Sales Cloud did accelerate in the quarter. It was good to see that. We got a few questions. The Service Cloud did decel. Everyone was like, "Is this just an anomaly? Is it because of the agents taking over now in service?" Like, what happened in terms of why an accel in sales and why a decel in service?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Right. One of the things I think you have to pay attention to about the Salesforce business is we've changed now our segment-based reporting. We used to report based on our clouds, Sales Cloud, Service Cloud, Marketing, Commerce Cloud, et cetera. Now we're shifting that to really our agentic apps, and our data and platform business. The reason for that is you're seeing a little bit of this maybe taxonomy shift from what used to be always in Service Cloud, now has gone into the Agentforce line. If you added that back into the Service Cloud, you'd actually see it not having the deceleration like you're talking about.
+What to pay attention to, and I think that the root of the question is, are seats going away in the service center? A lot of our Service Cloud has been seat-driven. Service Cloud added seats this quarter. We're adding more seats, we're adding more agents, and I think the combination of those two really becomes the flywheel of growth acceleration for those core clouds.
+## Brent Thill | Analyst, Jefferies
+When you say it added more seats, were you specific in terms of the growth?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+We don't report growth of the seats, but just in a raw net basis, both those clouds are adding seats. People are still hiring in the service center. They're hiring in the sales centers. I think, as you see, what is really exciting, especially with things like Agentforce 1 and Slackbot, we're actually bringing more people into the Salesforce ecosystem because now Slack is working with our Customer 360 applications in ways that now we're inviting more people into the workflow. I think that's really exciting for the future because now it means that we're not just limited to what sales and service teams do. Now you have a bigger addressable market across the enterprise at large.
+## Brent Thill | Analyst, Jefferies
+You've rightfully nailed the pricing. I think it was a bus tour. We came in and saw you're like, "You guys, it's not all capacity. It's going to be seats and capacity." I think every company here has been saying that same thing, which, and most of the people I trust in the industry are like, CIOs can't just go on, just do pure capacity.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+Because they would bankrupt the budget. Any new update? Is that Bill's vision of the world still on pricing?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+You're the only person that's ever told me I've nailed the pricing, so thank you for that.
+## Brent Thill | Analyst, Jefferies
+I'm sure Marc doesn't say that either.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+No. Look, I think in general, human labor has always been easy to predict on the basis of a seat. I think as companies hire and they sort of have software for that human capital, that has been sort of the best way to plan, that's the best way to predict, and that's been the best way to sort of make it easy for enterprises to consume a software as a service subscription offering like we have. You know, agents are different. They're not seats, they're not people. They don't have limitations of work, so they work 24 hours a day, not eight hours a day like humans do. Paying a seat is just not right for that sort of, kind of entity that's working on your platform.
+That's why the consumables make a lot more sense, kind of earn agent, just pay for the work that it does. I think somewhere between that hybrid model is where you'll see this net out, I think, for the industry at large. I would also pay attention to those consumables themselves, because those are also emerging and changing. Today, most of the world is infatuated with the token, and this token sort of explosion that's happening in enterprises. People are starting to ask questions like, are these tokens leading to yield? We've often heard about token maxing as a sort of strategy. Now the counter theory is this, really outcome maxing? We know that we're actually getting content, but is that content actually producing business yield?
+One of the things that we're starting to do some more experimentation on is more value-based and outcome-based pricing of these consumption offerings. Again, where we want to be is the company that doesn't just sort of monetize compute and storage like a hyperscaler does. We want to monetize the outcome that comes off of the software, because if companies are getting more growth or getting more savings, that's how we sort of share in that value exchange. I do think as our pricing continues to sort of evolve down these spectrums, we're going to have lots of different options for different kinds of companies, big and small. I think, as it sort of nets out in an aggregate sense, seat- based and consumables is the right pattern. What those consumables represent is going to be based on the offering that someone is consuming from us.
+That's also, Brent, you've asked me this question before, like that's why Flex Credits are so important. Flex Credits are a new unit of measure, a new unit of currency that companies that subscribe to the Salesforce ecosystem leverage that can work on any of the technologies. They're not buying products; they're buying capacity and output from the offerings we serve them with. I do think this will continue to be an evolving conversation. Our strategy when we first talked about this is we just needed to meet our customers where they are on this journey. That's what we're doing: creating offerings for them.
+## Brent Thill | Analyst, Jefferies
+There's a fear right now that Anthropic comes in and they're effectively going to create an overlay layer, and that they're just going to surround the CRM system, and your growth will stop, their growth will build. They won't replace you, but they'll create an overlay. Right or wrong?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Wrong. Would you like me to elaborate on that?
+## Brent Thill | Analyst, Jefferies
+Please.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Wrong.
+## Brent Thill | Analyst, Jefferies
+Yeah. Wrong. I keep getting hammered by our clients on this topic.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Well.
+## Brent Thill | Analyst, Jefferies
+I'm glad that Marc came out on the podcast and said you spent $300 million on Anthropic, which is maybe a signal that you guys are going to coexist.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+You might be frenemies, you might compete in some areas, but in large part, you can be friends.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+I think, first off, Anthropic is our customer. What Anthropic uses to transform their go-to-market strategy and accelerate their growth is Salesforce. What we use inside of our organization to drive productivity and write code is Claude. There is definitely a coexistence sort of in our future that's there. Look, I'm being a little facetious about just the kind of hard answer, but if that had been true, wouldn't Slack have already kind of replaced Salesforce? Because that was an overlay layer for work and workflow, and it didn't replace Salesforce, it amplified Salesforce. It actually made it so that more work and workflow reached more people. I do think that's truly what we're seeing with this moment of the builder and creator economy with Anthropic and Claude specifically, which I use every day. It's actually helping me do more in Salesforce, not less.
+It's actually helping me sort of analyze my Salesforce data and extrapolate more intelligence around my Salesforce data. It is still most importantly using Salesforce data. I do think this is where the market likes to have these sorts of binary moments of SaaS versus the token. That's not the reality. A lot of companies are working with multiple tools and multiple systems, and ultimately that's why we saw this pattern emerge with what we call our headless strategy, which is to allow the Salesforce platform to be accessed by tools like Claude, or OpenAI's tool set, or Google's tool set, or even the Slack tool set, because we want more people participating in the work and workflow that Salesforce represents.
+## Brent Thill | Analyst, Jefferies
+What are we all getting wrong on the outside because we can't smell and breathe the inside? What are you seeing that you're like, "I wish the market would stop talking about this"? Maybe they can't stop talking about it, but they've got it fundamentally wrong.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+I don't think anyone has it fundamentally wrong. I just don't think everyone has it fundamentally right now. I think that the questions, like I said, everyone likes to make this about binaries and offsets. Okay, if you're no longer investing in SaaS, it's because you're investing in the tokens or some other sort of system that's there. The reality is, companies come to Salesforce because they want to be better companies. They come to Salesforce because they want better outputs, they want better outcomes for what they use Salesforce for. I don't think that the world is going to stop trying to make better companies. I think that we are just going to need to sort of utilize Salesforce in ways that power those transformations that companies are trying to do.
+I think that where the market wants to think of this offsets and terminal value of things like seats and seat-based labor, the reality is where we're finding ourselves at Salesforce today, more work is getting done, more data is being generated, more sort of interactions are being handled, more campaigns are being executed, more orders are being driven on our commerce platforms. This is not a time of less, it's a time of more. I think Salesforce becomes this incredible orchestrator for the enterprise to help businesses achieve more.
+## Brent Thill | Analyst, Jefferies
+There's been a few comments from investors. We're at a technology transformation, tectonic shift, whatever you want to call it.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+Everyone says, "Well, why spend $50 billion on a buyback when I should be leaning in into the tech cycle now?" We have a lot of companies that are at a discount. We have a private market that's dislocated. M&A's in a tailspin right now. This is like go time for most of our clients, they would say. Robin's response to me last night was, "Brent, we're doing both.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+We are doing acquisitions." I guess you're not doing really big ones, you're doing more tuck-ins, but how do you think about this?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah. Look, I think Robin's answer is right. One of the things that I think that the market may be. We were early in sort of our acquisition of Slack a couple of years ago, right ahead of the pandemic, and the market really didn't quite understand that, okay, what we're really trying to do at that time is broaden the aperture of users and sort of work and workflows that happen inside the enterprise. That was perceived as maybe a bridge too far at the time because the valuation of Slack was high. Right now, I can guarantee we're happy as hell that we have Slack because it is becoming a modern surface for engaging work into what that's transforming to be. Informatica is another really great example.
+Informatica is an acquisition we completed last year, which has incredible synergies with our Data Cloud strategy, because Data Cloud was really about harnessing this world of customer information. Informatica was this world of non-customer, but customer-adjacent information that happens inside the company. To the root of the question, we want to only invest in those areas that are on our mission to transform how businesses operate, better data, better workflow, better orchestration, better outcome. Those are the kinds of acquisitions that we look at. There's a lot of technologies out there that's just really good tech, but doesn't really lead to better outcomes for companies. I think that's where we're thoughtful about what we acquire. It's really about making sure that we accelerate our strategy, which is to help companies sort of perform and operate better.
+## Brent Thill | Analyst, Jefferies
+There's been a little concern around some of the departures, and I know your CPO retired.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah,
+## Brent Thill | Analyst, Jefferies
+Go to Anthropic.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+You have a lot of great talent, but how do you kind of calm the nerves of everyone in this room, of "Hey, we feel like we're keeping the most important people?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah. Look, first off, I think technology, there are always sort of these moments where there's an exciting mission for companies to join. What has kept me at Salesforce since 2017 is the mission of making business the greatest platform for change. I think that people who are still on that mission or still understand that technology's purpose is to help businesses drive sort of better results for their cities, their societies, et cetera. That's what kind of galvanizes our culture to Salesforce. It's not because we're fascinated by the next- generation models. It's not because we think about these incredible new use cases or new apps that can be built. We're committed to sort of that mission. It starts with Marc. Marc is sort of the ultimate leader, champion, spiritual advisor to all of us and the company.
+I think that what Marc is really doing is finding the talent that wants to internalize that mission into this next era, really to kind of drive business forward in this moment in time. I think the leaders and leadership that we've amassed in the company and has allowed us to sort of put the right talent in the right places. Myself, I started in the kind of software and product management space. I now do a monetization strategy. Sometimes it's not always linear talent moves, but we put our talent into places that drive the best yield for the company, and I think Marc is a great inspiration for getting the right talent in place here at Salesforce to drive those sorts of transformations we're trying to go through.
+## Brent Thill | Analyst, Jefferies
+That's great. The marketing, commerce, Tableau, there's been some headwinds, right? You got some nice acceleration in sales, and service is stable, and you included the other parts of the transaction, but marketing, commerce, and Tableau have been a little bit of a headwind.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+Can you recover from that? What needs to happen?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah. Look, first off, the breadth of our portfolio is a strength. I think that because of the strength of the portfolio, it allows us to sort of have these moments where we see acceleration in sort of some business units while others are going through more secular transformations. I think the world of marketing is going through a secular transformation. Look no further than what Google just announced on the way that Search is transforming for businesses today. That's going to fundamentally reshape what the world of digital marketing looks like. It's not a secret that a business like marketing may have moments of softness. It's that it is going through more of this transformation state, about what does the future of marketing looks like in that sense. Same with commerce. It used to be that you would shop online in an online commerce store.
+Well, this world of commerce and commerce agents are starting to emerge, as that market retools, those platforms have to retool as well. The good news is businesses like Sales Cloud, our longstanding sort of bread and butter business, are having its moment. Slack is having its moment. Agentforce is having its moment. Not only are businesses that we've long been in, but acquired entities like Slack and Informatica are accelerating. Organic innovation like Agentforce is accelerating, and even our legacy business on Sales Cloud is accelerating. You're going to see these puts and takes, I think, as different moments emerge. Again, the strength of the Salesforce portfolio is not sort of indicative of just one unit cloud. It's really the whole that we care about. We're getting agented to death at this conference.
+## Brent Thill | Analyst, Jefferies
+You don't say.
+Everyone's got an agent, right?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+It's like you've driven in San Francisco and seen all the WHOOP billboards.
+## Brent Thill | Analyst, Jefferies
+Yeah.
+You're the second presenter to bring that up back- to- back. How do you think this kind of settles out? Right now, in your space, just in the front office, we've got 10 vendors that are all claiming the same thing. You have vertically aligned vendors that are in financial services.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+I mean, we got every flavor of agent, we've seen this movie before, where all the movies show, and then a couple rise to the top.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+I was actually with a customer last week, and they made the comment about the San Francisco billboard, so I'm stealing it from them. It was literally every email, every day, every call is about, "Try my new agent." It just can't sustain. I do think incumbent vendors have an advantage because they have the opportunity to agentify processes that are already established. I think incumbency, in many cycles, may be seen as a curse. Maybe I want to try, and replace that technology. I'm not seeing that pattern.
+What I'm actually seeing is more companies coming to us and saying, "Can you agentify this workflow that we have because we want to do it off of trusted data and the governance of the Salesforce platform that's long been how we've operationalized our organization." I do think incumbents have an advantage, more so than even the upstarts at this point, because they have to kind of fight for every sort of breath of oxygen. We have something to prove, which is, let's actually modernize some of the workflow that's there. Where I see it netting out, Brent, is candidly, we can't see thousands of entities. I think there will be consolidation. I think that as big vendors like us that have a breadth of portfolios, agentify all that workflow, it's not just about maybe agentifying each experience, it's also about how they orchestrate with one another.
+That's going to be, I think, where truly the rubber meets the road in terms of what stays versus what just sort of fades off into the ether. I think orchestration is sort of the next horizon. First off, everyone's in the horizon right now of taking these pilots, moving into production. Once they're in production, now let's try and orchestrate and then rationalize, and then what kind of comes out on the end of that is probably fewer, bigger agents that sort of represent more fully autonomous functions for businesses. I think that's the transition that we're starting to see already. A good example of that, by the way, we have a customer in retail. They had an old agent sort of service experience. What they really wanted was that agent service experience to sell digital products. That company didn't have a commerce technology.
+They came to Salesforce and said, "Okay, I'm going to replace that agent experience with Agentforce," because Agentforce serves and sells all at once. I think that's really this concept. We call it a super agent. These super agents can do more than just one function. That's ultimately where I think this will net out to that rationalization moment.
+## Brent Thill | Analyst, Jefferies
+I think maybe not this quarter, and I don't know what the number was or if you launched it, but the mid-market's been kind of a space that's been strong. I think you've had a good leader there.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+You've had people want to buy everything from you. They don't want to assemble it. Can you maybe just give us a sense of what's happening in-
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah,
+## Brent Thill | Analyst, Jefferies
+the mid-market?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+I think the signal you can look into is the packaging strategy we put together for our Agentforce 1 Edition. Agentforce 1 for Sales includes Sales, and Tableau, and Slack all in one offering for a business. That means I don't have to buy a sales analytics offering. I don't have to buy a sales collaboration offering. I don't have to buy a sales force automation offering. I just get it from Salesforce. So, as sort of certain elements of technology, maybe this is that rationalization moment, kind of showing up even in seat-based labor. The seats themselves, where people have had best of breeds on all these different vendor functions that exist, now they want to actually consolidate a lot of that to sort of one vendor because they actually believe that when all of that information signals together, then it can fuel an agent strategy.
+I actually think they're quite symbiotic. Application consolidation leads to better data that gets unified, that leads to better agents that can perform on the outside. This is sort of our flywheel of let's get this Agentforce 1 Edition into more of our install base so that we actually drive more of that data that gets generated on the similar platform that we can fuel agents to perform on behalf of the businesses.
+## Brent Thill | Analyst, Jefferies
+We all do these channel checks, and whether it's Atlassian or you or whatever, and a lot of the smaller system integrators are like, "The vendors are stealing my business." It seems like it is a sense of maybe we're going to higher-end partners, but maybe it's just, hey, this direct relationship with the customer is becoming easier. I don't know. It seems like it's happening across a lot of vendors. With the actual channel checks we all do say are very different than actually what you produce.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+It seems like a common pattern we've seen in Atlassian, too. It seems like, is this a signal, "Hey, it's just easier to implement the software. We don't need as many of the small partners to help"?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+No, I don't believe that at all. What I believe is that the vendors have an added responsibility to help companies find value from the offerings that they've created. Because the technology is so new, a lot of technology vendors are investing in these forward deployment engineers, not only to get the service sort of up and running, but also to get the key signals of how to sort of tune and optimize our offerings so we can improve the products in this moment in time. I think one of the signals that we've done with partners like Accenture is to start to now invest in not just forward deployment engineers that are Salesforce employees, but forward deployment engineers that work at Accenture that actually kind of work as an extension of our workforce that's there. I don't think it's really about closing off an ecosystem.
+I think it's really about making sure that in the early sort of days of this agentic moment, vendors have an added responsibility. We're investing with our resources, we're teaching these channel providers and service integrators how to do it the way that software was meant to be designed, and kind of retooling, I think, in this moment. I would actually think it's more of a retool than it is about stealing their business.
+## Brent Thill | Analyst, Jefferies
+Okay, great.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+That was not my quote. We're not stealing their business. We're retooling.
+## Brent Thill | Analyst, Jefferies
+The verticals have been huge.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+Strength of yours. When you think about healthcare, pharma, insurance, maybe kind of walk through what?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Brent Thill | Analyst, Jefferies
+What you're most excited about there? We always get the question about pharma, so maybe.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah. Well, our Life Sciences Cloud, for example, has been one of the new offerings here at Salesforce that has really had an incredible quarter. As organizations are sort of retooling their sales forces for the future, they want to do so with modern technology, and this cloud was built from the ground up for this agentic moment, where not only is it a great sales orchestration platform, but it's also a great sort of system built with agents that are actually helping qualify leads and do sample management. There's all kinds of great innovations that I think when you rebuild for this ground up, that a cloud like Life Sciences Cloud is innovating on, that's having sort of huge growth opportunities for us right now.
+To answer your question at large on verticals, in our industry strategy at large, every industry is going through different moments of transformation. The fact that we have not just horizontal software that is kind of a vanilla one-size-fits-all, but acutely with the right compliance and the right certifications and the right workflows and the right sort of data model and the right logic for those industries, sets us apart. I do think as we continue to see our industry strategy deliver what customers want, it's all about that faster time to value that it can get up and running. Then, really, software that speaks their language and kind of works the way that they need it to because it's been built from the ground up for all the sort of rules and regulations those industries require.
+## Brent Thill | Analyst, Jefferies
+You get one vertical of up- and- comer for you. You're like.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah, I'm sort of biased because Life Sciences Cloud is one of our newest ones.
+## Brent Thill | Analyst, Jefferies
+Yeah.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+But that's one-
+## Brent Thill | Analyst, Jefferies
+Life Sciences would be the one you're most-
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+I'm very excited there. I would also say the public sector has had a lot of strengths for us. Our manufacturing areas have a lot of strengths, financial services, healthcare. They are all going through degrees of transformation. I think healthcare is always the one that, in our country anyway. This is sort of, again, why you work at Salesforce, because we believe that we can transform healthcare in such a profound way with now digital agents on the front end of those experiences. I think that's why, even yesterday in earnings, we had UCLA Health online with us talking about how we're fundamentally just changing the business of healthcare. That's something we all benefit here from California, but ultimately, as a society, we benefit from it because we can really make the healthcare system more equitable for everybody.
+## Brent Thill | Analyst, Jefferies
+Any questions from the audience?
+## Speaker 3 | 
+Could you just talk about the acceleration in the second half? I know it was our first question. Is your visibility because you're giving people free tokens and they have to work through them, and then they'll buy more? Is it just a function of time to deploy?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Speaker 3 | 
+You know they're deploying it, and it doesn't happen until then.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Speaker 3 | 
+Something else?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah. I would say, very much what is giving us confidence is the pilot to production sort of movement, right, that's there. The signal was the hiring that we did, really around our forward deployment engineers, to help with that hiring velocity to take shape. I think that's really kind of what gives us a lot of that confidence, is moving through the deployment kind of side. This is not like linear deployment, where, like traditional CRM software, if you deployed it, you would kind of knew how to kind of fit a process, a workflow, et cetera. These agents are very different. They have different capabilities, and they have different scales. A lot of this is more about change management than it is about hands-on keyboard writing code. That's the easy part.
+The hard part is getting companies to understand that many of the processes that you have in your organization today were built with an era of human constraint in mind. Well, now you don't have that same kind of constraint, so how about we just go back to the drawing board and design that altogether?
+## Speaker 3 | 
+To follow up on that, just because I feel like six, eight months ago, we were saying that there would be a big acceleration, but it was just because kind of the lapping of the soft renewals for years, and then new [ACVs.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Speaker 3 | 
+Growing faster. Now I just feel like it's a different answer, is that now it's about Agentforce and that adoption, not just the fact that it was going to accelerate regardless of what Agentforce happened, just based on the core renewals lapping that and then getting better.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah. I'm not here to kind of comment about what we said last time and what we said this time. I'm just telling you what it is. What it is right now is, we have a lot of people that have Agentforce, a lot of people that are in their deployment of Agentforce, and that is how we see the kind of excitement about the second half, is just the sheer volume of activity that's out there.
+## Speaker 3 | 
+Okay. I know you guys haven't talked much about the inference cost side of things, other than Marc's comment the other day.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah.
+## Speaker 3 | 
+It seems like you're trying to, and successfully growing the inference business, and you're using pricing mechanisms as a lever to account for what the costs are going to be.
+My rough guess would be you guys are looking at a $5 billion inference bill over the next few years. Do you feel like you have any levers to sort of confront the COGS issue of having agents out there doing 1,000 times more than a human?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yeah, for sure. I think that, again, as I was sort of mentioning in the last gentleman's question, many of these processes in the past were based on what humans could do. Now, with agents sort of having limitless capacity and limitless availability, it opens up a whole new sort of transformation for what businesses are trying to do around kind of how they operate, and in an always-on manner. As you sort of look at where we see the sort of maybe groundswell of inference and tokens kind of hitting our world, this is where I think we have smart architecture around how we've built Agentforce. I don't need to call an LLM to give you an email address. I can just query our database to give you that.
+Our technologies that we've built inside of Agentforce, which we call our Atlas Reasoning Engine, both has deterministic and non-deterministic sorts of scenarios inside of it. Increasingly so, what we find is we can help companies be more efficient in actually using their tokens because, honestly, today, if you're just using Claude and you're trying to kind of query a profile, you're burning a lot of tokens for something that was a simple SQL query. This is allowing us to really be more efficient at the tokenization of the enterprise. I do think that sort of architecture is allowing us to make it much more economical for customers. We're not just pushing it onto the customers themselves. We're actually working with them around how to re-engineer, re-optimize, sort of their work.
+## Brent Thill | Analyst, Jefferies
+Anything else you think I know that you mentioned it's not just a, hey, one takes off and everyone else loses. Any other kinds of things you're hearing from our side that you feel need clarification?
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+No. Look, I think as you classify sort of different technology companies, obviously, there's the hyperscalers who have a different business model than the SaaS providers do today. The hyperscalers really were built for this moment of just letting the meters turn, and the more the meters that turn, the happier they sort of make their money off of. That's not what we're here to do at Salesforce. We're not trying to be a hyperscaler. What we're really wanting to be is probably the world's first hyper value provider, which is we can provide a massive sort of ability for companies to come into this ecosystem, but ultimately drive better performance of their business.
+I don't pay a lot of time or attention thinking about how many tokens just fulfill our work. What I care about is that our customers come to us, and they perform better as an organization.
+That's why this signal of more outcome or value-based sort of pricing as a new lever for us puts us into a shared value space for what our clients expect when they come to our platform, that they're getting utility from. That's where I would really kind of think about, kind of maybe my ask is taxonomize different companies for really what is the pure function that they're aligning to do. For us at Salesforce, like I said, the world is going to be made off of companies that perform better with this technology. That's our mission.
+## Brent Thill | Analyst, Jefferies
+We really appreciate your support, and hopefully, we'll get the new Head of IR down here. We heard he's a really cool guy.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Yes.
+## Brent Thill | Analyst, Jefferies
+I didn't get the call, so I'm feeling a little left out.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+I don't know if you took the call. No, I'm kidding.
+## Brent Thill | Analyst, Jefferies
+Looking forward to having Marc.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+Brent, thank you again.
+## Brent Thill | Analyst, Jefferies
+Thank you.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+We really appreciate it.
+## Brent Thill | Analyst, Jefferies
+Good to see you.
+## Bill Patterson | EVP and General Manager of CRM Applications, Salesforce
+You too.
+Data Source: Quartr Last updated: May 28, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,368 @@
+TITLE: Morgan Stanley's 14th Annual Laguna Conference
+DATE: 2026-09-17
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+All right. Good morning, everyone. For those that don't know me, I'm Andrew Percoco. I cover autos here at Morgan Stanley. Very excited for our next conversation with Mike Aragon, President of Integrated Services at Ford. Thank you for joining us this morning.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah, thanks so much for having us back at your conference this year.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Of course.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Appreciate it.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Before we get started, just a quick disclosure here. Please see the Morgan Stanley research disclosure website at www.morganstanley.com/researchdisclosures. If you have any questions, please reach out to your Morgan Stanley representative. All right, maybe just to kick us off, you're 18 months into the job at Ford. Your career, you've been merging hardware and services and software across various other end markets. Maybe just discuss what you've learned and what you think the market might not be appreciating in terms of the opportunity at Ford when it comes to services and software.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah, when I came into Ford, as I was going through the interview process, especially somebody not from automotive, brand new, mostly from the tech space, one of the things that I didn't see a lot of chatter about was Ford Pro and the fact that we have incredible hardware through Super Dutys and Transit vans that our commercial customers love, but this growing software platform on top of it, where we were getting a lot better at taking vehicle signals, prognostics, and then closing the loop with physical service, which really adds a lot of value to our customers. So that was one area that I just felt was underappreciated.
+What was exciting to me about that was that's a problem that travels pretty well to the retail side of the business, so a lot of room to grow as we expand it from just mostly a commercial-focused initiative to more bringing that same thinking and product development to the retail side of the business as well.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+That makes sense. What surprised you the most? Is it the opportunity for Ford on the Ford Pro side? Is it BlueCruise as it relates to autonomy? As you really dug into the weeds of everything Ford has built, what surprised you the most as you've really started to do your work over the last few months?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Honestly, the thing that surprised me the most, again, because I was an outsider coming in, and a lot of my tech friends were like, "Oh, you're going to auto." There's a perception that as a 120-year-old company, where are these companies going, especially with all of the competitive threats and the macroeconomic threats. The thing that surprised me, the pleasant surprise, was the focus and dedication on transforming our company. We're a 120-year-old company, and it starts at the top with Jim. I'm sure you've gotten to know Jim a little bit, but what you see is what you get with him. He's all in on the transformation of Ford because he sees this as our ripe opportunity to set us up for the next 120 years.
+It was a pleasant surprise that the company at the top gets it, and it permeates down into the leadership team, so all of my peers on the leadership team completely bought in. I would say pleasant surprise, just because I was hoping to do that, and that's the organization I wanted to be a part of. We're doing it, and again, we're doing it with a pretty intense focus.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah, that's great. When you think about executing the growth in this business, I think you guys have disclosed 1.6 million paid subscribers growing at a very healthy clip. How should we think about the true addressable market as it relates to adding these services, both on the Pro side of the business, but also on the retail side of the business? How quickly can you actually increase that subscriber base? Is there hardware integration that needs to happen? Just maybe talk through--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--the addressable market and what it takes to get there.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+I want to start with that 1.6 million subscribers, because a lot of other OEMs look at it a little bit differently. That 1.6 million is just customers who choose to subscribe after they've purchased the vehicle. There are other ways to look at it. You can look at included with duration as part of that. You could look at trials as part of that. I know some of our counterparts in this space look at it that way. Nothing wrong with either option. We just want to look at early signals in terms of product-market fit. We see that as a signal. If a customer's chosen to do this, it's not bundled, pretty good sign of product-market fit. That's why it's an important metric for us.
+Because we have so many products, it's a little bit of a tough question to answer, but I will give you a subset of that answer with a specific. With BlueCruise, we have 1.5 million vehicles that are part of the install base. Of that, we have 530,000 customers who subscribe through us, and that's growing at about 40% year-over-year. Of that 530, 000, 200,000 are part of that cohort I was just talking about, the people who subscribe after the fact, and that's growing at 170% year-over-year. What you're seeing, and what we're happy about is that early leading indicators that product-market fit's really starting to take on, especially as BlueCruise continues to get better with new features very regularly every year.
+The way I think about the, to answer your larger question, the broader opportunity, our job is to do a few things. One is to grow integrated services, and so you'll see that number continue to grow. If we do our jobs, taking all the vehicle health signals, looking at our customer behavior, solving real problems for them on the parts and service side, you're going to see us pull in more of that aftermarket back to Ford, right? A lot of OEMs have this problem where a lot of that aftermarket escapes to individual shops or some of these larger companies out there that do that. We want to pull that in.
+The third component is if we do those first things really well, integrated services as indispensable, and then pulling in more of the aftermarket, that next vehicle's going to be a Ford vehicle, and so we've earned their loyalty. If we do those three things well, I think the total addressable market from integrated services contribution, it's going to be a force multiplier for Ford.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+It sounds like the attach rates are pretty healthy on some of these services today. I guess for the people that don't decide to, after the trial period--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--move to the subscription, whether it's BlueCruise or any of the other services that you offer, what's the reason? If you have any maybe view or insight into the usage. Are they just not using it during the trial period, and therefore they're just electing not to buy it? Are they just mostly driving, commuting point A to point B where they're not really using it much?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+It really depends. It depends on the cohort. General patterns of what we see, maybe you're really rural, and you're just not near any BlueCruise zones.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+There's just not a lot of opportunity. That's one cohort, and that makes sense for we serve a lot of farms and sort of very remote locations, so sometimes that's the case. Other times, you're in cities, and you've got short commutes, and so you're--
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+--not on the highways that often. So there's a variety of reasons. Then sometimes it's cost, especially given where the economy is for some segments of our customers. So it's a little bit of a mix of all those reasons.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+When you think about, I think the interesting thing about software is that as long as you have the hardware on the vehicle--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--maybe the consumer at some point down the road might decide, okay, the technology's gotten good enough, I want to turn it on--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Exactly.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--and really experience that.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+How do you think about democratizing the hardware across vehicles? There is an added cost associated with that.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+There is.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+You can either say, okay, customer A, you have to pay for that if you want it.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Right.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Or you could say, we, Ford, will bear that cost up front--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--knowing that we'll have an opportunity down the road to benefit from that as customers decide to turn on that subscription.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+How do you think about that internally in terms of what the process is?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Right now, especially in this environment, it's really important for us to meet our customers where they are in the journey. And we know there's a larger cohort of our customers where affordability, that's the number one factor. And so when we think about some of this hardware, especially the more expensive hardware, we need to keep it affordable on the lower level trims. And so we don't standardize, we don't try to push that because we want to meet them where they are in that journey. On the middle and higher level trims, we see a lot higher propensity or willingness to purchase, and so that's where we try to standardize our software, especially BlueCruise. We also do look at the vehicle trims, and so I have a good example. Ford Fathom is launching. It's a sub-$30,000 vehicle. It's considered affordable.
+But the cohort of customers that we are seeing that are going to be very tech forward, younger, just have a lot of expectations. In addition, we have some competition who are a little bit more bare bones, so we see ourselves in a really good advantage spot here, where we are going to make that available to every single vehicle. One, because the customer seems like they are the ones that would want it, and two, because it distinguishes us from products that don't have quite the number of features that we believe we are going to be able to pack into that Ford Fathom for under $30,000.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah. It's a really interesting dynamic--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--in terms of the strategies that OEMs are taking in terms of layering that hardware in versus making it more of a bundle package.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+And I guess when you think about it, you mentioned the Fathom as being a vehicle where it's going to be standardized.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+But as you think about the broader integrated services opportunity, whether it is an F-150 or a Mustang Mach-E, a retail kind of focused vehicle, how do those services, what is the opportunity? How does it differ across those vehicle types? If you could just maybe elaborate on that.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. So in the near term, the experience is going to be different between our EVs and our F-150s, and that is actually a good thing for the business. The reason why is because with UEV, which is Ford Fathom, launching next year, we are launching a couple of things that are homegrown. One is our electrical architecture that is homegrown. So traditionally, we had used multiple suppliers for components like IVI and ADAS and audio, and now we are going to consolidate that into our homegrown platform, single compute platform. So that is great. What is great for the customer, from their perspective, what they are going to get, a lot more frequent OTAs, a lot more features in general because it is easier for us to do this instead of having to coordinate across a bunch of disparate organizations.
+Then it is going to feel a lot more cohesive because we are able to think about it as an ecosystem and tie those various components together a lot easier than it is if you had multiple partners doing it. So customer experience is going to be great. But the thing for Ford and for customers is because we are building this in-house, margin is going to be a lot better. It is a lot more economical for both of us, and so the experience is going to feel, the margins just improve on that one. I think one of the things I am also excited about is this new electrical architecture will be on 90% of our vehicle fleet by 2030.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Mm-hmm. You mentioned building that in-house versus-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--outsourcing some of that technology.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Right.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+We're going to get into that in a little bit more detail shortly. But I want to ask a little bit about the BlueCruise functionality.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+I think there's, at least from our perspective, a very big focus on personal autonomy right now.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Obviously, everything that Tesla's been doing is it relates to FSD.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+When you think about the functionality as it where it is today, how do you see that roadmap progressing over the next, call it two or three years, whether it is point to point, eyes off? What are the key milestones that you have really tasked the team at hitting over the next few years?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. To just establish a little bit of baseline where we are today, even in the year and a half that I have been here, it is a product that I would characterize as having gone from good to great. A recent upgrade is that the vehicles now do auto lane change, and it is the vehicle making decisions for our customers and just making the ride even more seamless.
+We just announced this week that we are doing BlueCruise with towing in our F-150 lineup in 2027, so that is another additive feature that is important for especially that cohort of customers. We are going to keep evolving this product based on the use cases of our customers. But one thing that will signal a little bit how we are thinking about this, and this goes back to our in-house ADAS and our in-house electrical architecture, but we recently did a partnership with Apple Maps.
+As you know, Apple Maps has spent a lot of time and resource making that product a lot better over the past couple of years. They were really willing to work with us on integrating their maps more deeply into our ADAS systems. From a customer's perspective, what they are going to feel is a mapping function that is more deeply integrated into ADAS. It is going to have a lot of better road visibility because you are not just relying on sensors that are looking right ahead of you. You have got now the maps data that is going to be able to signal where there are chargers, where there are bends in the road, where are actually the off-ramps happening. It is going to feel a lot more integrated and seamless to the customer.
+I cannot disclose everything that we are doing today because we are going to talk about a lot of this over the next year before Fathom comes out. But that experience is going to feel just a lot more cohesive and is one thing, especially as we think about those integration points with partners like Apple.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+When you think about the milestones or the progress in terms of increasing that functionality, how much of it needs to be done on a software-defined architecture, like what you're doing with Fathom versus the existing architectures? I'm just curious if there's a tech ceiling for the existing platforms, if it's not on UEV as it relates to autonomy, and do you eventually have to transition everything over?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Well, this specific example is going to be on 90% of our fleet--
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+--which includes gas, hybrid, and then electrical vehicles. So the way we've architected, it'll be flexible across multiple drivetrains.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Okay.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+That's an interesting approach because I feel like--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--we do hear a lot of times that it has to be EV native.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+It depends on--
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah, there are some ways that you build it that have to be EV native. The way we've built this particular ADAS system-
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+--it'll port to other drivetrains.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Super interesting.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+As you think about the other offerings, what's the most monetizable in the near term? I think we focus a lot on BlueCruise, but I know there's a lot of other things that you work on. What are you most excited about from a monetization standpoint?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. This goes back to one of the reasons why I was telling you I was excited about coming to Ford and just the whole hardware, software, service loop with Pro. I think there's a huge opportunity for us to continue to build that and expand that capability. If you think about we have hardware, we have my software platform, and now we have a whole distributed physical network where we can actually solve real problems, real physical problems for our customers. The way I would think about it is the example of Ford Pro Intelligence, where we're selling a $10 subscription for Telematics.
+That software is going to be able to tell us and our customers, "Hey, you've got a brake issue that's coming up," flag it to you, schedule that brakes and service part, make sure that part's available at the dealer, and then fix it for them. What you've effectively done is you've taken a $10 ARPU product per month and turned it into hundreds of dollars of aftermarket sales and service opportunities. If you think about all the opportunities and different ways you can do that, again, this is another opportunity for us to really grow monetization. You won't see it necessarily in integrated services, but I actually don't care. What I care about is that the LTV of the Ford ecosystem gets better, and that's where you'll see those types of wins.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+You mentioned there a little bit, the unit economics, obviously quite powerful when you think about the total ecosystem, but maybe help us frame how the unit economics vary across offerings, whether it is BlueCruise, Ford Pro services, and really what you see as the pricing power of some of these offerings as they continue to improve in their functionality over time.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. I cannot give you, Andrew, too many details about the profiles of some of the unit economics, but what I can tell you is that our margins are very healthy. They are very much in line with what you would expect in a SaaS business. Contribution margins are over 50%, and our ARPU for both a blended Pro plus retail is $14 a month. Our job is to keep those margins up and delivering products so that our customers are sticking with us, which then drives the LTV of the product over time. That is the sort of the playbook that we are operating under.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+When you think about the ARPU trends over time, what are customers willing to pay for? What do you think is just becoming a more standardized, just expectation when going and buying a vehicle? How do you expect that to evolve over the next three to five years?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+I think a really good example that is super crystal clear to all of us at Ford that customers are willing to buy is if you are solving real problems. As an example, our fleet management software for Ford Pro effectively helps our customers run their fleet, schedules their drivers, makes sure that it is getting maintenance when it can, flagging pockets of vehicle health, and solving those problems beforehand. Our customers are willing to pay for that, clearly. That is sort of an easy answer to that. I would say on the retail side, it is a little bit more nuanced. The signals that we see on what customers are willing to pay for are when they use the service early and often, you see them use it for a lot longer. They are sticky. They end up using other parts of the ecosystem.
+For us, that activation moment and getting them to continuously use their products is a really important element for us. That's the willingness. It kind of depends on the different cohorts, but it's solving real problems for our customers.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+When you think about the selling aspect of this business--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--when it comes to informing dealers how to sell these products, it's obviously very new. You mentioned it's--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--an industry that's been around for a long time--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--and really haven't seen that much innovation on software and services. How are you working with the dealer network to make sure that they know how to sell this product so that what you are building internally is--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Right.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--appropriately getting advertised to the market?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+I've never had a dealer network like, I've never had a distribution path like this--
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+--in any of my career points. I actually saw it as a gift, just because they're the ones that are shaking the customer's hand and have that relationship. But Ford has a culture where our dealer partners are extremely important to us. I spend a ton of time with them. I probably spend at least a couple days a month with dealers, either speeches or Gembas or just being at the shop with them and learning from them. I would say that one of the ways that we think about education, to me, that dealer experience is so critical to us because it gets the customer activated. There's a trust that's been developed over that sales process. We spend a lot of time using technology to train our dealers because a lot of our products change regularly, so you have to scale communications.
+We build tools so that as you are closing the deal and off-boarding them into their vehicle, they go through and activate the services. Because we know that when you activate early and often, and they use early and often, they end up sticking around for a lot longer. It is just a concept that you see in a lot of digital products. No different for Ford. That is why we do not see them as just this distribution path. We see them as a critical activation partner and spend a lot of time making sure that they are compensated, that they have got the right tools to do it, and that the customers leave the lot knowing they have got a lot of great, both physical and digital technology that is at their disposal.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah. It is an interesting dynamic because I even see it personally in my life where--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--people who have not experienced this on the retail side--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--some of the offerings that are available on the market today when it comes to autonomy, even if it is just L2 today.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+As soon as you try it, you want to use it, and you want to buy it.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Well, that's the moment.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+That's the thing that's not scalable. Going back to BlueCruise, that moment where you take your hands off the wheel, to us, we've used it. Okay, we're sort of conditioned to it. But I've seen and been in a lot of Gembas where the salesperson's telling, "Go ahead, take your hands off the wheel." They're like, "I don't know." They're kind of gripping it. They do it, and there's an aha moment there. The best way to scale those aha moments, you can't do them on a YouTube video.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+You've got to do it in real life.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Our dealers are best equipped to do that.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+It's got to be something that you experience. I agree with you.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+You see a TV advertisement-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+about it, it doesn't do it justice relative to actually experiencing it.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. We see that as well.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah. I want to go back to something you mentioned in terms of build versus buy.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+When you made the decision to build in-house versus buy something from a partner, what does that decision look like?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+What ultimately do you want to own in terms of customer experience, versus outsourcing from a capital efficiency standpoint--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--to make sure that you are scaling this as capital efficient as you possibly can?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Well, what you just said at the end is the sort of the magic quote, which is Ford will own the customer experience. That is first and foremost. There are examples where we decided to build because we needed to own that customer experience better because we wanted to get features out to our customers faster. We want it to be simpler and for it to feel like not a bunch of disparate services, but for it to feel like an ecosystem, which is why we decided to build our in-house electrical architecture. That is an example of a build internally to do that. Plus, it is more cost-efficient. We also look at where pockets of value are. Our Apple Maps partnership, great example, where they have spent a ton of time over the past couple of years making that product even better.
+They were very willing to work with us as the first OEM that they partnered with, to take that map data integrated into ADAS, integrated into our IVI so that it does feel from a customer's experience, one experience, not three different experiences like it does on other platforms today. That was an example where we wanted to take the best of the best with a great brand, do what we know best, which is build products for our customers and own that customer experience. That is a partnership example. The one thing that we will not ever compromise on is owning the customer experience. We want people to know that this is a Ford customer experience.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+I am assuming that is especially important on the Pro side of the business as well, where-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah, exactly.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--the fleet uptime matters a lot. You want to own that experience. I guess when it comes to that, you already, I think, emphasized the life cycle, how important it is to own that. I am curious if you have any data points that you can potentially share in terms of people that are using the Ford Pro software, intelligence services--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--what the retention rates look like relative to someone who--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--isn't using it. Any KPIs that you could potentially share in terms of the success rates that you're seeing once someone adopts that technology.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+We are seeing very, very positive signals that the more you use Ford Pro Intelligence, you come back to us for parts, you end up being a stickier customer in the ecosystem. We believe that, and we know that so much, that Alicia Boler Davis, who runs Ford Pro, she and I both joined around the same time, outside of Ford. To give you a little bit of history on how we went to market with this product, Ford Pro would sell the hardware, and then my team, we have a SaaS sales team. We would kind of come in over the top and say, "Hey, do you want to buy some software?" Alicia and I, that got us to 900,000 subs. That's growing.
+But one of the things that was puzzling to Alicia and I is why are we battling it out with other SaaS businesses, software-only companies? We have a strength. We have Super Dutys that our customers love. We have the software platform, and we have a very well-connected physical service footprint that we can close that hardware, software, service loop. Instead of selling software, we said we need to sell solutions to the ecosystem. How can we lower your total cost of ownership? We're the only ones that can do that because we've got all three of those components. How do we guarantee uptime so that your vehicles or your assets aren't down, you can continue to make money? We've shifted that conversation because of this stickiness, because of what we're able to offer.
+We just executed that reorg, so now my sales team's part of hers. She owns go-to-market, and that's the right thing to do because they're coming to us for our hardware first. It's early innings, but there's a lot of upside for us to make sure to come with a differentiated sales proposition that nobody's really doing today, that only we can do.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Okay. Well, looking forward to hearing more about that over time.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Maybe shifting gears a little bit in terms of AI integration--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--outside of the customer-facing-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Right.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--software and services. How is Ford adopting AI inside the organization to either improve productivity, but also I think the more interesting potential angle here is from a product innovation standpoint. I think there's a lot of eyes on how impressive China has been in--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Right.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--in terms of how quickly they've been able to innovate and bring products to market.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+I'm curious how Ford is really bringing AI into the organization to potentially help improve that part of the business.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+About four months ago, Jim Farley asked me to co-lead our enterprise AI initiative, so not just what's in vehicle, but what's in the employee base. One of the shifts that I've taken the company on in our strategy is let's focus on a bunch of scattered pilots and just experimentation with AI to really thinking about two layers. Layer number one is our employees. We've got a large employee base, and so what we want to do is get them the right tools for the jobs that they're doing. What we care about, we care about tokens and usage and all that. Those are important because obviously there's economics involved with that. But what I'm trying to do is map where all of our employees are in the maturity curve and help them graduate up that maturity curve over time through training, better tools.
+As an example, we know that there are large cohorts of our customers do not use AI at all. How do we get them to prompt? The only prompters, how do we get them to actually start to use some agentic AI capabilities that we have built in-house so that we can make your job easier? For those who are even higher on the maturity curve, how are you redefining your workflow so you can become more efficient? Then adding AI on top of that so that you can really be a force multiplier for your job. That is layer number one. The layer that I spend most of my time on are our transformational bets.
+These are big bets that Jim is very deeply involved in that we believe can help us bring products to market faster, to reshape our factory so we can not only build vehicles, but build even more complex physical products like batteries, and share those learnings in real time. How do we build a product like Ford Energy native, AI native from the ground up? Because we are unencumbered by legacy systems and thinking we can actually literally act like a startup out of San Francisco. Those are the big bets that we are working on, and those are really meant to use AI as a tool, but to use that tool to help Ford transform the way we know we need to do business for the next 120 years.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Would you say there is reception inside the organization to adopt some of these tools? Where are you in terms of implementation?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+There is. We have defined all of these big bets. We track the employee usage every month, but on the bigger bets, the ones that are going to transform Ford, it is Jim-led. I support him on this one because it needs to come from the top. We are already moving on every single one of these initiatives, and we have a commitment that every single board meeting, we report up to them what our progress is. Our goal is every single meeting, every single week, there has to be a step change, in how we have redefined our data set, how we have redefined processes and flows to take out all the inefficiencies now that you have AI is a polymathic tool, right? Polymathic meaning it knows a lot of things very wide, it knows a lot of things very deep.
+Now that we have that tool, we have to redefine our processes to leverage that tool so that we can move towards outcomes that we care about. Like how do we get some of these really great concepts to customers way faster than we have in the past? That's how we're thinking about it.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+That's great.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+You brought up energy storage.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Ford's energy storage business has garnered a lot of attention over the last few months.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+I am curious how you envision that side of the business and the services opportunity--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--both from a physical, almost like a Ford Pro basis where--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--you are monitoring the battery, making sure it is operating efficiently, but also from a pure software basis where whether it is at a data center, you have to manage load fluctuations. Just curious, how much of your time is being spent on that side of the business?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+A lot of my time because it actually crosses over two of my jobs, integrated services and AI. In integrated services, we built years of knowledge and expertise in how do you remote monitor assets? How do you detect problems and then solve them through dispatch? If you think about the physics of the problem, which is you have thermodynamic problems, you have vibration sensor problems, you have voltage monitoring. The problems arise, how do you dispatch the right people at the right time to make sure that these things do not become major problems? Well, that problem travels extremely well, whether you are in a Mach-E battery, Lightning Mach-E with a battery or if you are an energy cell system.
+So, what I am excited about is we are taking all of the learnings that we have and applying that to building that software layer on top of Ford Energy. And the way I see it is, this solves real problems for our customers. A lot of them are entering into 20-year service agreements, so what it turns our business from is a transactional business where we sell energy cells to now one where we sell effectively, hopefully a 20-year annuity on services on top of that so that we can help our customers maintain that asset and make sure that they're getting the highest ROI out of what they purchase from us.
+Early innings. The other cool thing about that is because this is a brand-new business, we are taking a very AI-native approach. It's literally a small team of me and a few of my product leaders from Ford Pro Intelligence that are building out the product requirement documents and the architecture. We're seeing prototypes in literally hours and days.
+It's a lot of fun because I feel like we are working at big Ford, but we also get to act like we're in somebody's garage in Santa Clara, California, building a startup. It's kind of a cool way to mix my old world with my new world and hopefully do something for Ford that in a year or so, you guys can say, "Wow, these guys did this, and they did this AI native, and they did it super fast."
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Yeah.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+I love being a part of something like that.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+That's awesome.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+And I guess on that, if we're sitting here in four or five years from now--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--and integrated services is a massive success, what do you want to be telling everyone in the room in terms of what you've been able to achieve, and how that's fundamentally changed Ford's business?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah, I think for us it would be that, I look at it always from the customer's perspective, that they would see us as they don't see the seams of Ford anymore. They walk into a dealer, the dealer already knows who they are, the problem that they've got. They've already staged the vehicle part and the right technician to fix it. What used to be a three or four-day problem with the vehicle out becomes a half-hour problem because they've already got it. They've diagnosed it. They already know what they got to do. Bay's sitting there ready to go, and the technician's ready to go. So eliminating those seams is how we want this Ford experience to be. Not only that, but we want it to feel like it gets better over time because OTAs have gotten better.
+We're upgrading BlueCruise and all of our digital products. So it feels like you own a Ford, we know who you are. You don't feel the seams of Ford, and I feel like this vehicle that I paid X amount for, it just gets better over time.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+That is great.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Well, looking forward to that discussion--
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+--in a few years and wishing you the best.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Awesome.
+## Andrew Percoco | Head of North America Autos Research, Morgan Stanley
+Thanks for coming.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. Thanks, Andrew. Appreciate it. Thanks.
+Data Source: Quartr Last updated: Sep 17, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

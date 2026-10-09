@@ -1,0 +1,7 @@
+Company: Nike
+ROIC Symbol: NKE
+ROIC Name: NIKE, Inc.
+Year: 2007
+Quarter: 4
+Date: 2007-06-26 17:00:00
+Executives

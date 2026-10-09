@@ -1,0 +1,253 @@
+TITLE: UBSâs 2025 Global Technology and AI Conference
+DATE: 2025-12-02
+## Seth Gilbert | Director of Software Equity Research, UBS
+Good morning. Welcome to day two of the UBS Tech Conference. My name is Seth Gilbert, one of the SMID-cap analysts here, and today it's my pleasure to have the CFO of Zoom, Michelle Chang. Thank you so much for being here.
+## Michelle Chang | CFO, Zoom
+Being here.
+## Seth Gilbert | Director of Software Equity Research, UBS
+You reported three key October earnings exactly eight days ago, and we have the privilege of getting you hot off the press.
+Thank you.
+Thank you for coming.
+## Michelle Chang | CFO, Zoom
+Thank you.
+## Seth Gilbert | Director of Software Equity Research, UBS
+You've been in the CFO seat a little over one year now.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Maybe we'll kick it off with the macro, if that's all right with you.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+So maybe to start, you know, back in 1 Q and not dissimilar from a lot of your SaaS peers.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+You called out some pressures like deal push-outs and added scrutiny.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+But then last week you called out a full abatement of the macro. So I guess the natural question is, it's not really a comment that we've been hearing from a lot of your peers. What do you think could be making you stand out a little bit?
+## Michelle Chang | CFO, Zoom
+Yeah. I don't know that there's something unique that I would sort of point to. Look, I just wanted, with full transparency, we'd said the previous quarter that there had been partial abatement, and this was sort of just trying to tell investors that largely we'd seen those really unique conditions. I think a lot of it depends on how the company's commented on the macro initially. We'd sort of pointed very specifically to an area where we'd seen deal elongation and just wanted to tell investors in that piece we'd seen full abatement. Look, conditions are broad demand, which is great to see. Look, we all read the headlines every day, and it's, you know, very dynamic conditions in general. So, look, I don't think that we're seeing anything uniquely.
+However, I do think that Zoom is really well positioned with our TCO story and the business value that we can give our customers, and so I feel great about that. We're just leaning into that.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Got it.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Maybe we'll shift to online for a minute. The guidance heading into 3Q is for flat growth, and now the guidance has increased a little bit, and you expect it to be slightly up, the online segment. The price increase, of course, plays a little bit of a role as an important, but I'd love to talk about some of the other changes, not including the price increase. Maybe you could talk to why the guidance, you know, raised a little bit?
+## Michelle Chang | CFO, Zoom
+Perfect. Maybe just a little bit of background for people that don't follow Zoom closely. Our online business is about 40%, and we've made great progress. You know, if you can imagine back in pandemic days, it was sort of declining, and we've gotten it to sort of flat, and now, just announced to your point, they're growing. Part of that was price increase. But maybe before I go to the non-price increase, I just want to talk a little bit about the price increase because I think people see it just as sort of an element of price increase when really it is a lot of platform value that we've been investing in for a couple of years, a lot of AI value that we've been investing in a couple of years, you know, for a couple of years.
+And so I think the reason we did so well against that price increase and kept churn down was really reflective of that. That being said, to your original question, there's lots of things that I think we work on in our online business, one being, you know, just simply starting with discovery, with our free user base, which is quite large, you know, everything from product-led discovery to website discovery, all the way through the buy flow process and getting down to a broad marketing message. And so I think we have been working very methodically on those things. And certainly those played in as well as the price increase to broadly what is now returning the online business to growth.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Amazing.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+We could switch gears to the other side of the business, which is the enterprise side of the business, growing nicely, specifically in the up market.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+You had 9% year-over-year growth, and I'm wondering if you can talk about some of these conversations with large customers, kind of how is it playing out? Is it AI? Is it new products that are really pulling them into the mix?
+## Michelle Chang | CFO, Zoom
+Yeah. So first, this is the other 60% of our business growing very well. And the stat we like to use is sort of customers over 100,000 growing at 9%. So something we're very focused on, super excited about. In terms of what's driving it, I would kind of chunk it up into kind of our three priorities that we talk a lot about. The first is sort of bringing AI to workplace, which for Zoom is our meetings business, but also inclusive of phone. And so we've seen a lot of progress in that space, both with churn abatement and also mid-teens growth in our phone. And so that's continuing to be kind of a steady driver for us. Then you kind of go to our customer experience, our contact center, big entrant for us, big strengths that's behind that.
+And then certainly AI, you know, new products, just AI products in general are sort of the third flank. And so it's the combination of each one of those priorities gaining momentum, but also kind of how they play off one another that's sort of behind the stat that you referenced.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Got it. Maybe we could stay on AI for a minute. I mean, you were one of the first companies to include AI for free with a paid subscription. You've mentioned in the past about direct monetization of AI with some of the add-ons, but also some indirect monetization of AI.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+So, I just wanted to give you kind of a chance to, you know, maybe for the audience, just kind of, you know, mention, you know, how you're monetizing AI directly and then also how you're monetizing AI on the indirect side.
+## Michelle Chang | CFO, Zoom
+Perfect. Yeah. So Zoom took a position, gosh, prior to my arrival to really say that unlike a lot of our competitors at the time and even now, some have shifted more to where we are, that a lot of them were just out of the gates charging for AI. And just to Zoom, that didn't make sense. And the analogy I like to use at the time was sort of eventually people just expect that their seat belts in the car, that it's just part of kind of what that would be. So Zoom took a differentiated approach of putting AI value in our paid SKUs at no additional cost, right? Which at the time was very different.
+And so pivoting then to your question, what we talked about at Zoomtopia, per your shirt here, is really just outlining our framework of AI monetization and saying, look, there's going to be times when we are indirectly monetizing AI. And so it's exactly through that, things like that decision where if we put AI value in and if we see usage going up, which we do, it's up four times year over year, now MAUs in the millions, that that will help with things like bringing in new customers, reducing churn, potentially ability to monetize price, you know, either through reduction and discount or more explicit things like we talked about earlier. And then there's going to be more direct ways that we monetize in AI. There's kind of three buckets that I would use in terms of direct monetization in AI. The first one being the most material.
+Maybe I'll start with the most material, which is in customer experience or contact center. We're clearly seeing people, you know, come to Zoom, you know, for agent-assisted AI solutions as well as completely virtual 100% AI-driven solutions, and so that's clearly what's driving our momentum in our contact center space, so that would be sort of pillar number one in the direct monetization. The second one is horizontal solutions, so think about all of that AI value in our meetings base, in our phones base at no additional cost gives us a great zone to really go and monetize, you know, upsell base for custom scenarios, bring your own data, bring your own index, and that will monetize at a $12 per user per month, and then the last piece is more the emergent piece, which is like vertical solutions.
+And so look, across all of these direct pillars, we're seeing great momentum already in our numbers. In contact center, we're seeing high double-digit growth. Look, the majority of that is AI-driven. In our horizontal solution, that one's a newer piece for us, but we've now announced three very significant customers in the period of our last two earnings. The product's only been out two quarters. So we're pleased with the progress that we're seeing there. And look, our vertical and new pieces is sort of the newest piece, but we're excited. We have a product for Revenue Accelerator. Think of that as like a Gong-type competitor seeing great progress there and 50%+ growth as well as we just added a new acquisition to our mix, which is BrightHire.
+## Seth Gilbert | Director of Software Equity Research, UBS
+We'll definitely talk about the acquisition.
+## Michelle Chang | CFO, Zoom
+Back to that.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Maybe staying on AI Companion for one more question. AI Companion 3.0.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Is going to be GA, I think, this month. And I'd love to know, maybe you can help us out with some of the early feedback. Eric showed out, showed a lot of the really cool features at Zoomtopia, but I'd love to hear some maybe early feedback if you've captured any so far.
+## Michelle Chang | CFO, Zoom
+Yeah. First, maybe let me just say at a very high level, kind of the punchy, what is 1.0, 2.0, and 3.0 to get people oriented. Think of 1.0 as the start of the journey was summarize your meetings. You know, it was helping the end user get more acquainted. 2.0 was really when we stepped into agentic and did things like schedule a meeting for me when you were live in a meeting, trying to figure out the best time to meet. It was capturing tasks in the background for you to action on, et cetera. 3.0 and what we're excited to kind of add to our portfolio here in December is really the full manifestation, I would say, of agentic, right? It's really helping the customer get to quality results that impact that workflow, you know, automation.
+And so, to your question, what we're hearing from customers is really playing back kind of that vision, like really helping with things like content creation, really helping with workflow automation, strengthen the integrations because customers don't just come to us as Zoom customers. They expect that we embrace an open platform. And so really, what I would say in the early feedback is playing back that it's really helping in content creation and workflow automation so that ultimately, you know, the whole reason Zoom is sort of in this space is to help customers connect more to get to that human connection. And so that's a lot of what we're hearing from customers is value, automation ultimately, so they get back to connection.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Got it. Well, we'll be on the lookout for it going to GA.
+## Michelle Chang | CFO, Zoom
+All right.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Back to the acquisition.
+## Michelle Chang | CFO, Zoom
+Use it every day.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Use it every day.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Back to the acquisition front, Bonsai and BrightHire, two recent very interesting tuck-ins. Would love to know a little bit more about how those fit into the portfolio and if they impact the 4Q guide at all?
+## Michelle Chang | CFO, Zoom
+Okay. I'll end with the more mechanical guide question, but let me set up the two acquisitions and kind of how to think about them in terms of Zoom's frame of business. So Bonsai was sort of the smaller of the two acquisitions. Think of this as a product that really is targeted at solopreneurs, at small businesses, and really just taking over a lot of the complexity with easy out-of-the-box solutions for things like project management, customer kind of relationships and communication, and then some base billing and kind of transaction. And so that, you know, for Zoom then accrues to that 40% of our online base. So think of that as a new product that we can offer a more holistic solution to our online customers. BrightHire is an AI-first company that is really rethinking the hiring process.
+If you think about, gosh, I don't know, just having been in business for decades, the most important decision any company makes is who they are.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Absolutely.
+## Michelle Chang | CFO, Zoom
+You know, it's the people that ultimately, you know, drive the value of any company, and so BrightHire is really rethinking that with AI solutions. How do you get better at who you, you know, hire? How do you capture the interviews? How do you create a better experience? And so it just allows us to have a more holistic solution for that vertical, so to your question, and that, sorry, will accrue to enterprise. So BrightHire largely sells to mid-market all the way up into enterprise, has great trajectory on it, two acquisitions that I'm super excited about, and it's been a while since Zoom has done an acquisition, and so it's great to see us reenter. In terms of Q4, look, these acquisitions are going to close mid-quarter.
+So, I would think about the Q4 impact as de minimis, and then Zoom guides to 27 in our next earnings results. And so we'll fold that in as well. But we're excited about the potential of what they could bring to the company vision all up as well as to the growth rate.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Amazing.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Maybe switching to some of the numbers for a second.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Free cash flow for 3Q came in way above expectations.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Free cash flow margin hit, pretty high number, 50%.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+And then you called out on the call the change to collections being durable and sustainable, something you've been working at since you've, you know, taken over the CFO seat.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+But we ended up needing to trim our 4Q free cash flow number a little bit. So I was kind of curious if maybe we just had the mix a little bit wrong or maybe there's something about 4Q, maybe something one-time in nature or something that you're seeing that would maybe cause just a little bit less free cash flow in the model.
+## Michelle Chang | CFO, Zoom
+Yeah. So look, we guide to kind of the full year free cash flow. We usually don't even update free cash flow guidance in this quarter because of that approach, but it felt like an important thing to do just given the nature of kind of what questions that investors would have. So we're pleased with the significant strength that you note and the beat and raise. Look, it probably comes back to more framing what happened in Q3. Look, Q3 was in part great, strong operation. Zoom is a very cash-generating company. As well though, as we had some comparables and some one-time things in Q3, the collections being the one that we particularly talked about. And so I wouldn't say that there's anything particular to Q4. We've used a consistent forecast methodology, but we tend to focus more on the full year.
+Things can be lumpy, and so I'll let you sort of sort through that and figure out where you go. But broadly, actually maybe one more comment on what I said about the collections. The collections is durable, meaning the changes in process and procedures that I made and policies will help us keep our DSO low, but they're just not going to be repeatable to the, you know, every single quarter then. So that's probably those combo of things that I would say there's nothing really to be concerned about in Q4.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Okay.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+A lot of questions that we've been getting from investors focused on the really good free cash flow number, and then I think the natural next question is, well, what's Michelle got up her sleeve next? So I'd love to turn over to you if there's anything else maybe that you see in the business that investors should be watching out for, you know, some kind of efficiency that you're able to drive.
+## Michelle Chang | CFO, Zoom
+Yeah. Let me give a broader answer to that, and then I'll go to the more mechanical kind of nitty-gritty, what's top of mind in terms of where I think we can see opportunity. Look, I think the biggest opportunity for Zoom was to get prioritized and focused on where we're going to do. We went through this like great boom, you know, unprecedented demand to some moments of like reset and reinvention, right? And the great news is there's been that reinvention. We planted seeds and you can see them bearing fruit, contact center, AI, et cetera. But there's that natural kind of honing and pruning stage that then I think has to come for a company. And so look, a lot of where I spend my time is thinking about, okay, now that we have some signal, what is it that's really going to drive that growth forward?
+Are we honing in enough? Do we have clarity on what we're going to bet the company on? Are we investing, you know, towards that? And so look, if I had to say what I'm spending my time and what's up my sleeve, it's a lot of that.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Okay.
+## Michelle Chang | CFO, Zoom
+But I think there's also things just, you know, any company should always kind of have these things that they're working on. On the online space, I think I talked a lot about that, buy flows, web presence. So maybe let me then answer a little bit more on the enterprise side. Probably the number one thing would be, I think there's more that we need to look at at a deal flow and deal value.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Okay.
+## Michelle Chang | CFO, Zoom
+Where we give deal value away, can we capture more value? It's not been something that because of our history and all of that, we've focused as much on, and I'm convinced there's great opportunity there. Then maybe the other one, you know, would sort of be marketing and refining and kind of rebooting our marketing message. And then there's ones that I would say we've been working on, channel, for example, like in a business where two large growth drivers are contact center and phone, you need a channel to come alongside. Zoom had made up a lot of growth. That's more in a continuation because I would say we started accelerating that in the last couple of years.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Got it.
+## Michelle Chang | CFO, Zoom
+But those are the top of mind.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Okay.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+You gave a little teaser on the last call about reinvigorating the sales and marketing. I know you probably don't want to front-run it, so it's okay if you don't want to answer, but maybe you could, you know, tease out the teaser a little bit more if you want and describe kind of what you're thinking about or maybe what you see as to how to reinvigorate the sales and marketing of the company.
+## Michelle Chang | CFO, Zoom
+Yeah. Look, I think it stems back, Seth, and like what we hear so often is when our customers experience our product, it exceeds expectations, especially relative to competitors. But also what our customers are saying to us is oftentimes, "I didn't know you had that." And so I think a lot of, we brought in a new CMO in the spring, and a lot of what we've been trying to do is really take a look at where our marketing dollars are going and really think about everything from brand all the way down to demand campaigns and how we were going to kind of reintroduce Zoom to the world. Obviously, there's a lot that we want to anchor to about why people love Zoom, why they choose Zoom, what they know. You know, Zoom is one of those companies.
+I joke I get stopped in the airport all the time with people, you know, professing love for the company. That did not happen in my competitor. Never got stopped in the airport ever, which is great, and so how do we hang on to kind of the history that is us and take people, Zoom ahead. I'll give you a little teaser. Zoom ahead to where we've been working on.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Okay.
+## Michelle Chang | CFO, Zoom
+To kind of reintroduce ourselves all the way from, I think you will see more broad kind of brand kind of stuff, breathing some new life, if you will, into brand, all the way down to demand campaigns that obviously will anchor to revenue, so I'm excited to see it. It's something that we've both reprioritized and invested in incrementally to a smaller degree.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Okay.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+If I wear my Zoomtopia shirt in the airport, you think I'll get stopped and people will profess stuff?
+## Michelle Chang | CFO, Zoom
+I see. You got to try it on the way home.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Okay, I'll try it.
+## Michelle Chang | CFO, Zoom
+Yeah, like it is funny and quite endearing. It's part of why I came to Zoom, so.
+## Seth Gilbert | Director of Software Equity Research, UBS
+I'll give it a shot.
+## Michelle Chang | CFO, Zoom
+All right.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Margins, we'll flip back to the financials a little bit. Industry leading, 41%.
+## Michelle Chang | CFO, Zoom
+Yep.
+## Seth Gilbert | Director of Software Equity Research, UBS
+You made a comment that the long-term target is a little bit below, which is not something we see normally with long-term guides. The long-term target is 33%-36%.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+And then you also made a comment that we probably won't see the margins trend down there until there's an inflection in the growth rate.
+## Michelle Chang | CFO, Zoom
+Correct. Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+So I guess the question is, you know, when this inflection comes, where do you think the OpEx dollars will be going to sort of support this inflection in the growth rate?
+## Michelle Chang | CFO, Zoom
+So when the inflection comes, which is well, you know, I think one. I just want to maybe just give my own words to what you just said, which is we came out with a much lower long-term operating margin, which then asked a lot of questions of like, well, goodness, where are you going to go get there? And so I wanted really to assure investors that we're not going to be in that zip code until we see revenue inflections just to calm sort of the worries that we would be investing and not have that. If helpful, like we think about things like rule of 40, and certainly growth is my number one focus as a CFO. So in terms of where we'll invest, look, it'll be around those three priorities that I talked about.
+So just to recap them, the priorities of Zoom are really infuse our workplace with AI. So our workplace is both our meeting suite, our phone, but also things like chat, calendar, mail. So Zoom allows you kind of that one workplace, whether it's our products or others like Microsoft or Google, the ability to bring that in and then reason over it with AI. On that one, I tend to think there's probably going to be less incremental investment because there's already been a lot of AI investments. That's sort of where our original AI investments went. Products more established, but we'll still invest.
+The second and the third priorities are probably where you're going to see more incremental investment and frankly more growth inflection, so it makes sense, which is the second priority is in customer experience and contact center, be it assisting the agent with AI or having a completely virtual experience, which then allows us to tap into new markets that haven't really even been touched with customer experience. So that will clearly be an area of investment going forward because it's where we see the growth rate already inflecting today, and then the third is really on new products of AI, be those vertical or horizontal like we talked about.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Got it.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Just a reminder to the audience: if you have any questions, instructions are at your seat. Please type it in, and we'll ask Michelle on stage.
+## Michelle Chang | CFO, Zoom
+All right.
+## Seth Gilbert | Director of Software Equity Research, UBS
+You recently increased the buyback authorization.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Now you have about $1.3 billion of capacity. For modeling purposes, is the right way to think about this probably about $400 million a quarter or so another maybe three to four quarters, or do you envision the pace maybe slowing down a bit for the buyback?
+## Michelle Chang | CFO, Zoom
+Yeah. So maybe let me back up and say buybacks had been things that maybe weren't sort of in Zoom's ethos for a while, and I'm very pleased that now with this latest round of $1 billion, we've done close to $4 billion of buyback in the last couple of years. So progress, investors were really giving us that feedback, and I'm pleased with like the continued response to that speaks a lot of, you know, confidence that our board and our management team has in the company. More importantly, because it kind of gets to me, the North Star is taking share count down, which we've already seen kind of do that. So look, we didn't put a time-bound or anything uniquely to this. I don't think your 400 is out there, is not, is directionally sound. So let me say that.
+It will naturally change, of course, with price and dynamics going on in the market from one quarter to the next, which is why we didn't put a time bound on it. The North Star for me is getting that share count down through a combination of both buybacks and stock-based comp.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Got it.
+## Michelle Chang | CFO, Zoom
+Yep.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Okay. We have a question here from the audience.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+You have about $8 billion of cash on the balance sheet.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+M&A has been a hot topic for the stock.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Knowing you like to build your tech stack from the bottom up, should investors be thinking more about M&A from the lens of smaller tuck-ins?
+## Michelle Chang | CFO, Zoom
+Yeah. I think you are going to see Zoom acquire more. I think you already saw that a little bit here. I'm not here to signal what's in our pipeline or anything of that nature. But look, I think similar to maybe the red thread, like Zoom, you know, is evolving and changing from where it had been, which was sort of traditionally whoever asked the question out there, very much like a bottoms-up build, you know? And I think we're learning to branch out. Workvivo was a great acquisition for us, but I think in an era where a lot of companies are out there and well-priced, in an era where AI and things are moving very fast, it makes sense that we would sort of broaden our focus much more to where it had historically been to one of inorganic.
+To the nature of kind of maybe implied in there, how will we think about it? What zip code are we talking about in terms of acquisitions? Look, I kind of have three things in my head that I look at with any acquisition. One is we have to be thoughtful and disciplined not only to the acquisition, but to an integration plan. Having seen a company, you know, and how hard it is to actually create value after the fact, that has to be key. Strategic synergies has to be sort of the second one, and then obviously it has to be sound financially, meaning inflect the growth rate. And so look, I think when you take those principles, the broad market backdrop that I talked about, I think for Zoom it probably means that we will do more small to medium-sized acquisitions.
+Think about Workvivo, which had been our previous one, Bonsai and BrightHire, which we talked about more on the small side.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Got it. Okay. As you look out to next year and you think about incremental revenue dollars, would you expect Zoom Phone, which has been growing quite nicely, to have the most incremental revenue dollars, or do you think some of the newer products like the ZCX, like Zoom Customer Experience , Zoom Virtual Agent will start to, you know, maybe ramp and be more on the incremental revenue dollar side?
+## Michelle Chang | CFO, Zoom
+Yeah. And look, I think we'll see a continuation of what we have seen, which is Zoom Phone continuing to be sort of in the mid-teens. We've said with contact center that it'll be high double digit. I'm not signaling, you know, anything forward-looking beyond what I've said, but I think both of those will continue as they are today to be growth drivers for us. The other thing that I might say is that there's, they play off one another, right? It's not this versus that. It's quite oftentimes, and the stat I always like to talk about is in our top 10 deals, 50% of them have both, right? Because customers don't want to be changing platforms as they talk to their customers, come back in, you know, resolve things, go back out, you know, have the phone communication. So I think there's a natural synergy of both.
+You know, I would say we're excited about both. They're both integral to our growth rate. Then the third one, you know, that I'd call out is just sort of those new vectors of AI growth. Look, those are sort of smaller in nature right now, but ones that I think there's a ton of potential for. I mean, look at some of the big names in even two quarters in our horizontal stuff. Look at the potential of new vertical value and things like BrightHire. We look to the future in Zoom and get really excited about what the company has already been changing, reintroducing ourselves to the market, and then a lot of vectors that really can increase our growth rate going forward.
+## Seth Gilbert | Director of Software Equity Research, UBS
+Got it.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Seth Gilbert | Director of Software Equity Research, UBS
+I think that's about all the time we have today.
+## Michelle Chang | CFO, Zoom
+Okay.
+## Seth Gilbert | Director of Software Equity Research, UBS
+So thank you very much for joining us, Michelle.
+## Michelle Chang | CFO, Zoom
+Love the shirt. So thank you very much.
+Data Source: Quartr Last updated: Dec 2, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

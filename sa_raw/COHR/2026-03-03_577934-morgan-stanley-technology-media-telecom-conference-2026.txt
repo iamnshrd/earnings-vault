@@ -1,0 +1,463 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-03
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Welcome in everybody. I will start with disclosures while everybody gets settled. For important disclosures, please see the Morgan Stanley Research Disclosure website at morganstanley.com/researchdisclosures. If you have any questions, please reach out to your Morgan Stanley sales representative. For everybody in the room, I'm Meta Marshall. I cover networking here. I'm sure you've seen me around. We're delighted to have Coherent here with us today. Jim Anderson, CEO, Sherri Luther, CFO. Obviously big news yesterday-
+## Jim Anderson | CEO, Coherent
+Yep.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+With your NVIDIA announcement. Just wanted to kind of kick it off to you guys to maybe just give a little bit of context for all the investors in the room, just kind of about that agreement.
+## Jim Anderson | CEO, Coherent
+Yeah. Thank you. Thank you, Meta, and thanks for having us. Definitely really excited about the announcement. First of all, NVIDIAs been a great customer and a great partner of ours for over two decades through their Mellanox acquisition, and they really are a wonderful customer. We learn a lot from them. We think, NVIDIA makes us a better company as we work with them, and so a great partner. This new agreement is really a significant expansion in our partnership, and we're really excited about that. It's all around, using photonics and optics to continue to innovate and advance data center architecture, especially around driving better power efficiency.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+Data center architecture, we're certainly really excited about that. It kind of has two main components. There's a equity portion, where, they're investing $2 billion in Coherent, they're now an investor in Coherent, we love that. Having a 20-year customer as an investor is great. There's also a R&D and supply chain piece of the agreement where we've agreed to continue to innovate together on new technology, there's also a supply chain agreement that's multi-billion dollar. It covers multiple different product lines. It stretches out quite a few years, we're really excited about that as well. That's something that's really significant for the company and a significant amount of revenue moving forward. Yeah, really excited about it.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay. You know, Lumentum, when they were here yesterday, said that they would kind of use part of those proceeds to maybe kind of purchase fabs or kind of expand fab capacity. Is there anything that you've kind of earmarked that we should be kind of paying attention to?
+## Jim Anderson | CEO, Coherent
+Yeah. Maybe that's a good question for our CFO. I never saw the money. It went.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+It went immediately to Sherri.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay.
+## Jim Anderson | CEO, Coherent
+Sherri keeps a tight leash on all of that stuff.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+Definitely, first priority is expanding capacity.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay
+## Sherri Luther | CFO, Coherent
+For capital. that's the first priority. frankly, that's the number one priority from a capital allocation perspective that we have for our company anyway.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Sherri Luther | CFO, Coherent
+Leave aside the $2 billion infusion. Really focusing on increasing capacity. You know, this agreement is for CPO solutions, so expanding capacity in our Sherman, Texas facility in particular.
+## Jim Anderson | CEO, Coherent
+Mm-hmm.
+## Sherri Luther | CFO, Coherent
+That's the main focus.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay
+## Sherri Luther | CFO, Coherent
+We'll be on CapEx.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay. Got it. I'm sure we'll kind of, or people might ask questions about it, as we go throughout. Wanted to just kind of, you know, start. We sat here a year ago. You had just completed portfolio review after coming to the company in the second half of 2024. You know, here we are a year later with a seeming mountain of demand. And just how did some of the decisions, you know, out of the portfolio review position you best for today, and how have you needed to change course?
+## Jim Anderson | CEO, Coherent
+Yeah. I think, what was the purpose of the portfolio review? It was really to make sure that we've got all the investment concentrated and lined up on the areas of biggest growth and profit opportunity for the company long term. That had two parts. There were places in the company where we dramatically increased investment, there were places in the company where we shut down investment or where we sold off businesses, right? We did both of those in parallel. Places where we significantly increased investment, where we thought we weren't investing enough, were in data center communications, things like our OCS product. We dramatically ramped up investment in that. Places where we thought, "You know, these really aren't strategically aligned to where we want the company to be long term.
+They're really not gonna move the needle for the company long term. In a lot of cases, they were lower gross margin than the company average. In a lot of cases, they were unprofitable. We either shut those product lines down or we sold them. We sold there were two product lines that we actually sold and divested. A lot of that work has been done, but I think both Sherri and I have agreed that we'll continue to do this on an annual basis, 'cause I think it's a good practice to have.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm
+## Jim Anderson | CEO, Coherent
+To every year look at every product line and make sure that on behalf of investors, that we're putting all the dollars of investment, whether that's CapEx or OpEx, that we're putting all the dollars in the best place for the company long term.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Got it. I mean, Sherri, are there any places where you felt like you needed to pivot during the year?
+## Sherri Luther | CFO, Coherent
+Nothing that I would really say it required a pivot, but what I would say is I'm really, really pleased that, you know, with the focus that we had on reducing debt. you know, when we sold off, you know, some of the divestitures that we've done.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Sherri Luther | CFO, Coherent
+We've really used that money and focused that on paying down debt, so that we can focus on investing for the long term of the company, not only the reallocation that Jim talked about in terms of R&D spend and capital investment, but just really incremental investments that we've needed to make in the business. I think that's been really good.
+## Jim Anderson | CEO, Coherent
+Yeah. That portfolio change allowed us to dramatically increase CapEx for, as you said, for indium phosphide capacity, etc . I think it was really healthy for the company.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Got it. I mean, where do you look today? You have a lot of customers calling you. You know, where do you kind of prioritize incremental investment? You know, what Projects or timelines, you know, versus the customers who say, "I have a billion-dollar order today," versus those who say like, "Hey, I would like you to do this so that I can have $1 billion in 2 years.
+## Jim Anderson | CEO, Coherent
+The billion dollars today, we would have to prioritize that.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+Yeah, It's always a balance and a trade-off, and I'm sure Sherri will wanna give her thoughts on this as well.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm.
+## Jim Anderson | CEO, Coherent
+You know, the way we're looking at it is, first of all, we wanna identify what are the biggest, potential growth drivers for the company in the short term, but especially in the long term.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+We're always trying to build shareholder value for the long term.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Jim Anderson | CEO, Coherent
+F or the company, if there's investments that we can make today that will drive tremendous growth for the company in the future, we're absolutely willing to do that, and we definitely are doing that today. Certainly, data center, tremendous area of growth. We still believe, you know, pluggable transceivers is a big area of growth for the company.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+CPO is a tremendous opportunity for the company. We believe that in the data center, the remaining part of the network that's still electrical scale up will absolutely convert to optical over the coming years. It'll happen in stages, but we'll see that conversion of electrical to optical to the point where we believe the end state is almost every connection in the data center is fully optical.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+Now, that'll take time, and it'll happen in steps, but it's physics is pushing that, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+The physics demands that we switch to optical, and so we're making the investments today to enable that. Yeah, I think that's really the way we think about the big, big areas of growth. There's other areas of growth in our industrial business, et c., but those are a couple examples.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Jim Anderson | CEO, Coherent
+Of the bigger areas. Sherri, would you-
+## Sherri Luther | CFO, Coherent
+Yeah. I would just add on that, you know, that given the strength of our balance sheet and the fact that our debt leverage is, you know, 1.7 in our last quarter, which is well below two, the target that we put out at our investor day last year, you know, we're very well-positioned to make those incremental investments.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Sherri Luther | CFO, Coherent
+And prioritize, you know, for the long-term growth of our company. You know, good, strong cash generation, but with a strong balance sheet, you know, we can easily make those CapEx investments and focus on that long-term growth.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Jim, are you focused on, you know, there are some very big TAM with more competitors. There are you know, like, are you looking for areas where you can have the most share, or are you looking for areas where you can kind of differentiate more when you think about investment?
+## Jim Anderson | CEO, Coherent
+Yeah. I think there's always a series of factors that you take i nto account, right? It's never a digital one or another, right? Certainly we look at the size of the market opportunity and the ability and the competitive field, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+Our ability to compete. We also look really carefully at gross margin dollars, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm.
+## Jim Anderson | CEO, Coherent
+We have had a big focus in the company of expanding our gross margin, and we made significant progress over the last 18+ months. We've expanded gross margin by-
+## Sherri Luther | CFO, Coherent
+Almost 470 basis points.
+Almost 500.
+## Jim Anderson | CEO, Coherent
+Almost 500 basis points.
+## Sherri Luther | CFO, Coherent
+Yeah.
+## Jim Anderson | CEO, Coherent
+We have more work to do, right?
+## Sherri Luther | CFO, Coherent
+Yeah.
+## Jim Anderson | CEO, Coherent
+Our goal is to be over 42% gross margin. Gross margin and ability to get to those targets, that's a big factor as well.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+There's definitely a number of different factors.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Got it. I mean, just on that, you know, maybe back to this NVIDIA announcement, are there any, like, ways in which we should think about kind of the, what the opportunity set is for different for you versus Lumentum, kind of as part of that agreement?
+## Jim Anderson | CEO, Coherent
+Well, I think, you know, Lumentum is a good partner. We like those guys. They're a customer of ours.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+They're a supplier of ours. We do have a broader product line than they do.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+We're a bigger company. We have a broader product line. Our agreement with, I think you're asking about the NVIDIA agreement.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+It covers multiple product lines.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay.
+## Jim Anderson | CEO, Coherent
+One of which is the high-power CW laser that'll be used for CPO. There are other product lines that we have that are also included in that deal. It covered multiple product lines, all around CPO. I think we have a pretty broad offering.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+If you look in the photonics industry, and you can just kinda look objectively at the technology portfolio, there's really no other company in the photonics industry with the breadth and depth of the technology portfolio that we have. Combined with the second thing, which is manufacturing scale, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+Our manufacturing scale is incredible, right? You gotta have both. You have to have both the technology, but the ability to ramp these things to very high levels of volume at very high levels of quality, and that's something that I think is pretty unique and sets us apart. By the way, the other thing related to manufacturing is an incredibly strong U.S. manufacturing footprint, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm.
+## Jim Anderson | CEO, Coherent
+We were founded as a U.S. manufacturing company. We have over 20 U.S. manufacturing sites in 13 different states. One of our most advanced facilities where we're ramping the world's most advanced indium phosphide production is Sherman, Texas, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Right.
+## Jim Anderson | CEO, Coherent
+There's nobody else in the industry that's in production on 6-inch indium phosphide. We started production last year, so we're way ahead of the rest of the industry on 6-inch indium phosphide production, we're a global manufacturing company, but we're certainly very focused on continuing to invest in our U.S. manufacturing footprint as well.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Got it. EML's indium phosphide capacity has been very tight. I think is a generous term. You know, how are you scaling capacity? How are you reducing the need for third-party EMLs? Just how are you judging what type of kind of indium phosphide laser to bring online?
+## Jim Anderson | CEO, Coherent
+Yeah. It's good question, definitely the industry is constrained on indium phosphide capacity right now. Indium phosphide used for, you know, EMLs, as you mentioned, CW lasers, both lower power and higher power CW lasers. It's also used for photodetectors as well. There's a lot of products that are made on indium phosphide. There's certainly we think the industry is constrained through this year, most likely constrained through next year. I think given some of the demand that we're seeing for CPO related technology and indium phosphide usage for CPO, it could be years that the industry is constrained on indium phosphide.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+What are we doing about it? We're ramping our capacity as fast as we possibly can. We've already said that this year we're doubling our capacity, right? We're doubling our capacity. We're doing that with 6-inch indium phosphide. The reason we're using 6-inch is because compared to a 3-inch wafer, you get four times as many devices at half the cost structure, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+We can ramp capacity much faster, and we can do it at half the cost structure. This year we'll double capacity. You can bet that we're gonna continue to increase capacity beyond that. We haven't yet talked about our capacity plans beyond this year. We will continue to ramp the indium phosphide capacity. We see the demand. When you take into account the growth in both pluggable transceivers as well as the CPO growth ahead of us, we feel very confident in the demand and we're ramping capacity accordingly.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Got it. you know, early demand at 1.6T has very much been biased towards EMLs, but CW is expected to have kind of more share over time at 1.6T. Just how do you see kind of that transition playing out, or how are you balancing kind of all of the needs, you know, given that you can do any of those? Do you see more of a role for VCSEL-based transceivers in the high-speed markets?
+## Jim Anderson | CEO, Coherent
+At the beginning of the 1.6T ramp, which is we're early in that ramp right now, it's really a mix of EML and silicon photonics. For us, because we make both EML and silicon photonics-based transceivers, we have both for 1.6T.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Jim Anderson | CEO, Coherent
+We don't really care that much. We're just building whatever our customer prefers.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay.
+## Jim Anderson | CEO, Coherent
+If they have a preference for EML or silicon photonics, we just build whatever they have the preference for. We expect there to be strong demand on both. The other transceiver that we're going to bring out is in the second half of this year, we're planning to bring out our 1.6T transceiver based on VCSEL technology.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+That's based on Gallium arsenide. If we remember at last year's OFC, we were the only company in the industry that demonstrated 1.6T transceivers on all three types of laser technology: EML, CW, and VCSEL. We'll bring out that new VCSEL based 1.6T transceiver we expect in the second half of this year. The reason that that's really good is because if Indium phosphide is the constraint, that runs on Gallium arsenide technology.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+We have plenty of capacity on gallium arsenide. That'll help with some of the industry constraints around laser as well. It has different characteristics that's usually better for short reach applications, but I think it'll help offload some of the demand that the industry has.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay.
+## Jim Anderson | CEO, Coherent
+We're anxious to get that ramped into production.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Got it. You know, Sherry, maybe back to you just in terms of, you mentioned having a book-to-bill of over four, in the quarter. Just, you know, how are you judging, like, I want this amount under LTA to, you know, make an investment. I'm willing to, you know, float this much. Just like how are you kind of looking at that calculus?
+## Sherri Luther | CFO, Coherent
+I think there's kind of three main elements when we look at LTAs that are kind of important. You know, one is the commitment that we make for, you know, capacity or product, you know, volume product for a customer. The second one is the commitment that they take, you know, that they make to take that demand.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Sherri Luther | CFO, Coherent
+You know, there's the third part of it, which is kind of, you know, they've got skin in the game.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Right
+## Sherri Luther | CFO, Coherent
+In terms of, you know, providing CapEx, you know, monies to us. In the case of NVIDIA, it was, you know, equity investment. You know, those are kind of the three main elements that when we look at an LTA. You know, the NVIDIA agreement definitely fits the bill for those three things. You know, not all LTAs are that magnitude that they would be disclosed, and they certainly don't all have equity involved in them.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+I think when you have those three elements, then, you know, it's a really good partnership, where there's something for each, you know, for each party. You know, I think those arrangements have been, you know, we have multiple arrangements like that we have entered into, and those have been very good for us. I think when you look at the amount of CapEx and the requirements in some of those LTAs, you know, you evaluate that what are the needs as compared to what, you know, the customer's agreeing to in there. I think, you know, those have been very good for us, and I think that, you know, certainly the NVIDIA agreement is an example of that.
+## Jim Anderson | CEO, Coherent
+Yeah. I think that that announcement yesterday certainly will catalyze more customers to go and do long-term agreements, right? Some have already done, put them in place. It will certainly catalyze more long-term agreements. For us, we think that's a win-win for us and the customer. Why would we not want to secure demand further out in time? That's just better visibility. It gives us more confidence to invest the capital. As Sherry said, a lot of times there's a upfront financial commitment from the customer, which means skin in the game.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Got it. OCS, you know, you mentioned it earlier, it's been a big topic of conversation over the last year, seeing growing interest there. You know, your approach has liquid crystal, which hasn't necessarily been used by kind of the one vendor who deploys OCS today. You've noted that you're working with 10 customers on OCS. Just where do you feel like customers are both with kind of liquid crystal as an approach and then just kind of with OCS in terms of moving from maybe lab trials to deployment?
+## Jim Anderson | CEO, Coherent
+Yeah. In terms of those 10 customers, it's over 10 that we've engaged with. There's multiple customers. It's not just one. There's multiple customers that have already deployed that in real data center applications, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+I don't think there's any hesitation towards using, liquid crystal. In fact, it's kind of the opposite. It's a more reliable technology that's non-mechanical. I think if you look at in a data center, you know, if I have the choice between using a system that uses mechanical moving parts or using a system that doesn't right? That's based on technology that has no moving parts, hey, you're always gonna wanna use the system that has no moving parts in a data center.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+It's gonna be more reliable, right? Moving parts are not reliable. Better reliability, better, you know, long-term predictability, et cetera. I think the reality is right now the market is very strong. The demand is very strong. We are right now just supply manufacturing capacity limited. The market is bigger than what we thought one year ago. We are trying to ramp our manufacturing capacity as fast as we possibly can. I'm actually not worried about demand at all.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+There's plenty of demand. I'm meeting with the team on a weekly basis, and all we're talking about is how do we ramp capacity faster, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay.
+## Jim Anderson | CEO, Coherent
+I think over, you know, over the long term, what'll play out is, yeah, I believe that the better technology is one that's non-mechanical technology.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay. I mean, just maybe back to that for a second, just in terms of, you know, understanding demand is strong, but how are you determining, okay, this person is doing trials, this person's doing real deployments? Like, how are. There's precious resources that know enough. You know, there's only one Julie, so.
+## Jim Anderson | CEO, Coherent
+Well, Julie's pretty amazing.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+She is.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+So.
+## Jim Anderson | CEO, Coherent
+I think right now, so all of, like, those 10+ customers, they're all in different stages. Some are in production, deploying them in data centers. Others are on the other end of the spectrum. Some are just starting their evaluations.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Jim Anderson | CEO, Coherent
+Right? I think we have enough resources to support those customers right now with wherever they are in those stages, except for the fact that.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay
+## Jim Anderson | CEO, Coherent
+Is below demand, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+The biggest problem we have now is just the demand is incredibly strong. We just need to ramp our manufacturing capacity faster. Every single quarter, we've been increasing manufacturing capacity, and that's really what we're 100% focused on right now.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay. maybe, you know, the announcement with NVIDIA is clearly around CPO for scale-up.
+## Jim Anderson | CEO, Coherent
+Mm-hmm
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+W hich I think has been kind of a, you know, largely an additive market to you guys. There's also been the CPO discussion for a long time about scale-out and just whether it is cannibalistic eventually. I think you talked about on the call that, you know, there's going to be a role that is predominantly transceivers for a long time. Just how are you kind of messaging that path, or how are you determining what that path is of kind of gradual CPO adoption and scale?
+## Jim Anderson | CEO, Coherent
+Well, I mean, ultimately, we'll just, we'll build what our customers need.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Jim Anderson | CEO, Coherent
+R ight? What I can tell you, based on our customers' forecast, the long-term forecast, what they're telling us is that pluggable transceivers will remain the dominant format in scale-out, scale-across, DCI.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm
+## Jim Anderson | CEO, Coherent
+R ight, through the rest of this decade, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+We'll see pluggable transceivers, we believe, continue to grow through the rest of this decade. We will see some adoption of CPO in the scale-out portion of the network, we believe that will be relatively modest adoption.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+That CPO is really the technology that enables the electrical network in scale-up to be converted to optical, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+That the biggest adoption of CPO will really be in the scale-up part of the network. That'll really drive the conversion of all those e-electrical links to optical. That's our view of the market. That's what we're seeing in terms of customer orders and our engagements with customers. You know, ultimately, you know, we can obviously build both CPO and transceivers, and we'll build both, you know, simultaneously, and we'll build whatever mix the customers want.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay. You know, Finisar, maybe more traditionally, or Coherent, hadn't always been known as having the biggest telco business, but you guys are doing quite a bit of business right now, kind of on the scale-across DCI side. You're participating in the ZR market. Just where is the DSP knowledge coming from in order to kind of produce a ZR, and just how do you feel like that opportunity is to take share on the telco side?
+## Jim Anderson | CEO, Coherent
+Very good. I mean, our telecom business, what we call communications business-
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm
+44% year-over- year
+## Jim Anderson | CEO, Coherent
+4 4% year-over-year last quarter.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+We're seeing very good growth. The fastest area of growth is DCI, as you mentioned.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+We're seeing very strong growth, though, in some of the more traditional transmission and transport markets as well.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+In DCI, we feel very good about the growth that we're seeing. We have a full lineup of ZR/ZR+, transceivers at 800G, 1.6T, et cetera, right? We feel very good about the future growth of that product line. Then you asked about DSP.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yes.
+## Jim Anderson | CEO, Coherent
+Yeah, we actually, as part of the portfolio review process, we decided that we should outsource our DSPs, right? We don't have in-house DSP.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay.
+## Jim Anderson | CEO, Coherent
+That's the same thing that we do on our datacom transceivers, is there's perfectly good.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Jim Anderson | CEO, Coherent
+Solutions in the marketplace. We have great suppliers for DSPs in data center, we're using external DSPs for our ZR/ZR+ products as well, right? That allows us to focus on what our differentiation is, which is all the optical technology, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+We're experts in photonics, right? Anything that's photonic related, that we have a solution. We've got great technology. That's where we want to concentrate, all of our R&D dollars.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay. I have questions about non-datacom, but I want to be mindful-
+## Jim Anderson | CEO, Coherent
+Oh what?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+of,
+## Jim Anderson | CEO, Coherent
+Of the other non-datas, Shannon?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+I know. Exactly. Exactly. I'm gonna open it up to questions to see if there's questions from the audience before I move on to other categories. All right. Perfect. Just, you know, we've spent a lot of time talking about datacom. You know, there's certainly a very large materials laser business that serves other markets. You know, you just highlighted some of this at Photonics West. These markets have been relatively flat now for a while, but just where do you see the greatest opportunities emerging here, considering it's still a very profitable business?
+## Jim Anderson | CEO, Coherent
+Yeah. We love this business, even though nobody ever asks us anything about it, right? It's about 30% of our revenue. It's very profitable. It's a high gross margin business, very sticky customers. We think this is a great business to be in. It does grow slower than d ata center and communications, right? It's been relatively stable over the last few quarters, but we're starting to see growth pick up near term.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+That's really about semi-cap. In industrial, what we make, a lot of it's like industrial lasers.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah
+## Jim Anderson | CEO, Coherent
+S o it's photonics, but in a bigger format, a bigger industrial laser. semi-cap uses semi-cap equipment uses a lot of laser technology. As you're seeing, you know, some of the semi-cap vendors like ASML or KLA- Tencor or Applied Materials, you're seeing their them start seeing a pickup in demand. That gets reflected back on us as we're a supplier to some of those semi-cap vendors. We see that market start to pick up, so we expect our industrial business to start to grow over the coming quarters. The other really interesting, I hate mentioning this 'cause we're taking it back to data center, but it's within our industrial business
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+I gave you an out. I gave you an out.
+## Jim Anderson | CEO, Coherent
+Yes. Is in our industrial business, we've got some really amazing materials that actually, that we've used for many years in things like semi-cap equipment, but that actually have some pretty amazing applications in data center. One of them is we make a technology, it's a material called Thermadite. It's a proprietary material, and it has amazing heat transfer characteristics.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm.
+## Jim Anderson | CEO, Coherent
+What we're engaged with a number of very large customers on is using our Thermadite material, as to replace copper heat exchanges in a data center. Think about instead of a copper heat sink, you replacing that with Thermadite, and you're able to pull much, much more heat out at a much faster rate. That's something we're really excited about, and that could be a great application of that material and could have tremendous demand.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Jim Anderson | CEO, Coherent
+There's another technology in our industrial business, which is thermal, a thermoelectric material which can pull the heat, take the waste heat out of the data center and convert it back into electricity. Imagine, you know, right now all that heat that's being generated by the data center is just getting, you know, picked up by the air, the air conditioner, right? Instead, imagine being able to take part of that heat, reclaim it, and put it back into electricity and funnel that electricity back, right back into the data center. Even if you're able to do only a few percent of the heat and pull that, put that back into the electrical supply, I mean, that's a massive win, right?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Jim Anderson | CEO, Coherent
+Especially when you think, you know, data centers today are primarily constrained by the power that goes into them. If we're able to reclaim some of that power, that's great. That's another area that we're investigating within industrial. There's a number of longer term, really good growth areas within the industrial business beyond just our typical markets as well.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah. Got it. Sherri, I wanna spend a second with you. I could not find any person who had been able to get their convertible bondholders to forgo their dividend. Which is something that you were able to do.
+## Jim Anderson | CEO, Coherent
+Sherri's just that good.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Did a search. Yeah.
+## Jim Anderson | CEO, Coherent
+I mean, she's an amazing CFO.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yes. Just how are you thinking about capital allocation opportunities and just chances to optimize the balance sheet? You mentioned kind of getting leverage below kind of target levels.
+## Sherri Luther | CFO, Coherent
+Yeah. Yeah. Well, I mean, first of all, I would say that, you know, the dividends and preferred shares you're referring to are from the investment that Bain had in the company and, you know, they've been a great investor, you know?
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+We really like them. They've been a great relationship and great partner with the company. We really appreciate that. In terms of capital allocation, you know, the first priority, as we've talked about all this capacity expansion and CapEx that's required, that's the number one priority, because that drives the long-term growth of the company. If we don't make those investments, then we don't get the top line growth. Top line growth and all of that is very, very important, to the company and to all of you, all of the investors which is what we wanna drive.
+Making sure that that's the top priority is number one. We talked about the portfolio optimization, making sure that we're putting the money in the right highest ROI within the company, so that's part of that, too.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+It's the number one priority. How do we do that and make sure that we can do that effectively? It's making sure that the balance sheet is strong and clean. You know, we refinanced our debt a quarter or so ago, to get the, you know, the lowest interest rate possible and so that we could best position ourself to reduce the interest expense that's hitting the P&L, but also reduce the debt, you know, the most costly debt that we've got. Our debt has the leverage ratio I mentioned earlier is 1.7x , which is down from over. When I started at the company, I think it was well over three.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+Maybe even higher than that, it's come down quite significantly. That's a reasonable place to be.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+You know, the leverage ratio that we had put out at our investor day last year was below two. You know, we're gonna continue focusing on debt, but the number one priority is really investing for long-term growth. With a comfortable leverage ratio that we have, you know, that makes it even easier to be able to do that and focus on it.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay.
+## Sherri Luther | CFO, Coherent
+I'm really pleased with the progress that we've made there.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+I mean, there's been an intense focus, maybe sticking with you, Sherri, just on gross margins, particularly as just, you know, ways to take advantage of some of the tightness in this market. You know, how do you think that investors should be kind of judging you guys in terms of gross margin progression, both in terms of portfolio makeup, but just in terms of.
+## Sherri Luther | CFO, Coherent
+Yeah
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Kind of taking advantage of this market?
+## Sherri Luther | CFO, Coherent
+Well, I think, I mean, you know, we talked a minute ago about how we've improved the gross margin by almost 500 basis points since the end of FY '24. That's good. It's not good enough.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm.
+## Sherri Luther | CFO, Coherent
+Our target is over 42%. Our last quarter was 38.7%. We're certainly guiding sequentially up in our current quarter. We're focused on a daily basis on gross margin. I think, you know, when Jim joined the company, you know, there was a complete change in the way that we're looking at managing the company in terms of gross margin.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Sherri Luther | CFO, Coherent
+I think general managers had not really looked at gross margin before. That's what they told us anyway. They were not really held accountable to gross margin. Boy, has that changed.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+They all know what they need to drive in terms of improving gross margin. That is a daily focus that we've really put in place. Our strategy is primarily twofold. One is cost reductions, which is the entire company and making sure that everybody is driving yield improvements and reductions in product input costs and improvements in the manufacturing process, for example, and all those areas, and that's everywhere in the company. There is a focus on that. The other part is pricing optimization, maybe a little bit to part of your question in terms of, you know, the market and opportunity.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+Certainly, you know, where there's opportunity to price our products for the value they provide, that makes sense because our products help differentiate our customers. Where we expect to get the larger magnitude of that is really in the industrial side of the business, mostly because those products are, in many cases, we're the only company that makes those products.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Yeah.
+## Sherri Luther | CFO, Coherent
+We have also been able to employ that in our communications business and also in our data center business. It's a strategy that we have been, you know, very successful in today. When you think about the benefits of cost reductions and pricing optimization, those two items, the way to think about which has more of an impact or the quantification of that is that typically the cost reductions is about two-thirds of the benefit.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm.
+## Sherri Luther | CFO, Coherent
+Pricing optimization is about a third of the benefit...
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay
+## Sherri Luther | CFO, Coherent
+T hat we see there. We've got a ways to go in terms of grading us. We're, you know, we're not where we need to be s atisfied with our gross margin, but I am really pleased with that we've made good progress and that there's the focus on gross margin, and we've got a strategy to drive that improvement.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay. Jim, maybe just last question for you. You know, do you guys feel like you have all of the pieces to, you know, execute on what you need? Are there, you know, are you constantly looking at M&A for ways to kind of, you know, further expand capacity? Just how are you thinking about kind of that organic, inorganic calculation?
+## Jim Anderson | CEO, Coherent
+Definitely. We're always looking at scanning the landscape for is there anything that we can inorganically add to the company that would accelerate our plan, right? We're clearly we're making big investments on the organic business. If there's anything that we can add, either technology or a product that accelerates our organic plan, absolutely, we're open to that. We spend a lot of time on that. We haven't found anything really compelling yet that we've needed to add.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Mm-hmm
+## Jim Anderson | CEO, Coherent
+Certainly we continue to scan for that and look for that. Absolutely.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Okay. All right.
+## Jim Anderson | CEO, Coherent
+Yeah.
+## Meta Marshall | Executive Director and Senior Equity Analyst, Morgan Stanley
+Well, Jim, Sherri, congratulations on the last year and everything going forward.
+## Jim Anderson | CEO, Coherent
+Thanks, Meta. Appreciate it.
+## Sherri Luther | CFO, Coherent
+Thanks, Meta.
+## Jim Anderson | CEO, Coherent
+Thank you.
+Data Source: Quartr Last updated: Mar 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

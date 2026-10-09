@@ -1,0 +1,215 @@
+TITLE: Morgan Stanley's 14th Annual Laguna Conference
+DATE: 2026-09-15
+## Moderator | 
+All right, everybody. We'll get started with the next session here. Very excited to be joined by founder and CEO of Rivian, RJ Scaringe. Thank you for joining us today. Just a quick disclaimer before we get started here. For important disclosures, please see the Morgan Stanley research disclosure website at www.morganstanley.com/researchdisclosures. If you have any questions, please reach out to your Morgan Stanley representative. Also, just a quick plug. There are three Rivians outside. If you haven't gone up and test drove them already, strongly recommend you do so. Find some time between your meetings to do it. It's worth the experience. Maybe just to get us started here, it's a very important year for Rivian. A lot's happening.
+Would love for you to just kick us off, RJ, with maybe a few minutes of opening remarks in terms of what you're focused on and kind of where investors should be spending their time.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Well, first, thanks for having me. It's great to be here. For us, this is like an inflection point year. We launched our R1 product, this is in 2021, now almost five years ago, and that was intended to be the handshake with the world. It was our first vehicle. It was the first exposure to the brand. It helped establish who we were. Off the back of that, built incredible brand loyalty, a lot of enthusiasm around the company. But ultimately, the price point of R1 meant that it was not a mass market product. Over the last few years, we've been working towards, and I've certainly been talking about it, R2 is really the mass market vehicle and the vehicle that takes this positive brand sentiment, positive enthusiasm for what we're creating, and puts it to scale.
+That inflection point is starting as we speak. We launched R2 just a couple of months ago. The feedback around the vehicle has been just outstanding. That's everything from journalists and influencers all the way through customers and just the level of engagement and I'd say the product market fit is exactly what we'd hoped for. Now as we think about what the rest of this year looks like and then into next year, of course, our focus is on ramping up production. That's not just our production plan, but making sure our suppliers are capable of supporting the ramp up and delivering a lot of vehicles to excited customers. Alongside of that, we've been really focused on our technology. Within that, you see the technology that underpins our software and electronics.
+We did a deal in late 2024 with Volkswagen for a $5.8 billion licensing arrangement around our software and electronics to support a host of brands under the Volkswagen portfolio. Recently we did a deal around our autonomy platform, with Uber to create a robotaxi version of R2. Ultimately, all those technologies also manifest into the consumer products and create an even more differentiated experience. A huge amount of effort and focus is continuing to go into that area of the business as well. But yeah, as you said, this is an important time, really exciting time. I'm loving seeing more and more R2s on the road.
+## Moderator | 
+That's great. Maybe just in terms of that customer demand and what you're seeing in terms of reservation conversion, I think on the Q2 call you mentioned that you were seeing, I think, a larger percentage of people deciding to go with the Launch Edition of the vehicle. Just maybe provide some updated comments. Has that changed at all over the last few weeks as there's been more people driving the vehicle?
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+No.
+## Moderator | 
+What's that conversion been from test driving the vehicle to putting in a reservation? If any additional color you can provide in terms of how the demand profile has trended over the last few weeks would be great.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah. I guess just as a reference for everyone here, the way we launched R1 is we launched out of the gate with a lot of different build combinations. Essentially everything you could buy was available on day one. We learned a lot from that. It was a very complex way to launch. We introduced massive complexity into the build process and our supply chains from the beginning. With that as a reference, in contrast, in R2, we launched with a very narrow set of build combinations and in fact, one trim, which we called our Launch Edition. That Launch Edition is our most expensive trim on R1. It's a $57,000 starting price vehicle. Very limited paint and color options. The whole objective was to simplify the initial ramp-up.
+But of course, alongside of that, we had to make assumptions around how many people would convert to go to the most expensive version of R2. That conversion has been higher for this early batch than what we expected, which is a really good sign. Folks that maybe thought they were going to buy a $50,000 version of R2 said, "Fine, I'll take the $57,000 or $58,000 version." I think it's just reflective of the excitement around the product that people are willing to be more flexible in the version that they were taking, far more than we expected. Now, as we look at the next 12 months, we'll introduce additional trims, so we have a premium trim that takes price down into the mid $50,000s. We have some base, we call standard trims that are in the $40,000s.
+But ultimately, within the next year, we'll have a starting price of $45,000 all the way up to the maximum price, which is just over $57,000. That portfolio will support an ASP that probably sits somewhere in the middle. But the excitement around all the different trims, we've had a chance to expose media to the different trims and allow them to drive that. I'd say we've done a really good job, of course I'm biased, but we've done a really good job of creating a strong value proposition across each trim configuration and each version of the vehicle that you're getting a lot of value for money.
+## Moderator | 
+Yeah. Does that change the cadence for some of the lower cost variants to come to market in terms of the amount of people that are deciding to go with the launch ? Are you still tracking for performance launch next year and-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+Just curious if there's been any shifting in timing, just given the demand on the Launch Edition.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+It's a good question. There's obviously tweaks to exactly when the different variants come in that we're making, but broadly speaking, it's about the same.
+## Moderator | 
+Great. In terms of the customer base, right, I think you've talked about wanting to attract a broader customer set to the R2. Any data points you can provide in terms of as you look at the reservation book, what percentage of those people already own an R1?
+What percentage of those people are just purely don't own an EV yet, but are very interested in the R2? Just trying to get a better picture of the demographic of and the diversification-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+-of that order book or reservation book.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+One of the goals of R2 was to make sure that we're establishing a really wide net to get as many people excited about the brand and the product as possible. When we think of R2, because of its price point and because of its size, I think it's natural and not sort of expected that a lot of folks tend to say, "Well, how does this get cross-shopped with a Model Y?" The price points are very similar. The R2's slightly smaller than a Model Y. Well, it looks bigger because of its form factor and shape. It's slightly shorter and slightly narrower. Naturally, that's a question asked, but the reality is the opportunity is the vast majority of folks who aren't buying a Model Y. That's folks that are maybe in a Toyota RAV4 or a 4Runner.
+These are in a Ford Bronco or a Honda CR-V or Audi Q5. There's a broad spectrum of vehicles that exist in this mid-size SUV crossover segment. It's the most popular segment in the U.S. It makes up about half the demand in the U.S. Of course, the average price of a new car being about $50,000 in the U.S., from a price point of view, are right in the sweet spot or the broad, thick part of the demand curve. That was the goal is to bring, call it regular consumers in, not just early adopters, not just tech adopters, but our regular customers thinking about buying a vehicle to take their family on trips or to take the kids to school or to drive to the office. That's what we're seeing.
+We're seeing a very broad spectrum of consumers coming in. What I'm really excited about is a lot of the folks that have been activated by R2, this is their first time considering an electric vehicle. That represents a really interesting opportunity where for the test drive, in many cases, the test drive is the first time someone has driven an EV. Of course, if you haven't driven an EV before and you jump into an R2, that experience is somewhat otherworldly. The vehicles accelerates really quickly. It's incredibly quiet. It's refined. The software is very snappy and feels like a piece of consumer electronics. As a result, the conversion from test drives has been quite positive.
+You've probably heard me say this before, but I think one of the most important leading indicators of future demand is the volume of test drives because the conversion ratios are quite high. That's such an important factor. It's the thing I track most closely is how are we doing on getting test drives, because that will ultimately lead to continuing to build top of funnel, mid-funnel, and all the way through purchase.
+## Moderator | 
+Where are you today on that? Is that a number you guys have talked about in terms of number of test drives for R2? I know on the Q2 call.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+We have, I'd say, and maybe without being over. We've given actually specific numbers, but the way to think about it is the R2, because it's such a broad appeal product, it's mass market product, it's significantly increased the number of test drives. It's more than doubled where we were before. But we continue to see that can grow over time. We think that will be a growing metric for us and something we continue to track.
+## Moderator | 
+That's great. It seems like it's becoming less of a demand question and more of a ramp execution, supply chain story at this point in terms of volume growth as we think about the remainder of this year and into 2027. You're a few weeks into customer deliveries. Just talk us through where the main pain points have been. Maybe don't call specific people out.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+But just curious if there's been any particular areas of pain that you've had to solve and what the process has been-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+-to do that.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah. If we think about getting to much higher volumes, there's the demand side, and there's the production side or supply side. I think naturally when we think of producing R2s, our minds go to thinking about the Rivian production plant, and that's the question I get asked most often, like, "How are things in the plant?" That's very important that we ramp that effectively. But that isn't actually what's constraining our ramp-up. Our ramp-up is gated by or throttled by the rate at which we ramp up our suppliers. To state the obvious, I think the difference is often that that comparison is drawn because when we saw Tesla go through this similar inflection point with Model 3, in their case, their constraint was initially in the plant.
+In our case, our plant is out pretty far in front of where we are from a supply-based point of view. Getting the hundreds of suppliers to all ramp at the same rate, and we can only ramp as fast as our slowest ramping supplier. That's been our focus. Now saying all that's not unexpected. That's not like this is a surprise. If you'd asked me this question a year ago, I would've said, I think the throttle for our ramp and what defines the ramp curve will be our suppliers, and that is in fact the case. This is something we've planned around for a while, and now, of course, the work we're doing is to make sure that all of our suppliers continue to ramp up as planned and continue to achieve those targets.
+Because if a supplier isn't ramping at the expected rate, everything else has to be adjusted down. All those other. We wouldn't want 99.9% of our suppliers ramping and then one not, because we'd be building up insane levels of inventory of all the parts we have and be constrained by the one part. I think of it as this big symphony where everything has to move together. It's often not the Tier 1s. The supply chains has been unstable now for quite some time, where you just have a lot of uncertainty within the supply chain, but it's the Tier 2s and Tier 3s that can be the most challenging.
+If you, again, just to decompose this or deconstruct this, if you think of our supply base as having several hundred direct suppliers to Rivian, each of those suppliers, it depends on the supplier, but on average, say they have 10 suppliers, those are Tier 2s. Each of those Tier 2s probably have 5- 10 suppliers as well. You're talking about many thousands of companies that are responsible for making the components to ultimately make their way into a vehicle. Any one of the suppliers in that long chain can cause a disruption. Now, of course, as you move further and further upstream to the supply chain, ultimately getting back to raw material to mines, there's lots of inventory in the system, so there's more buffer, if you will.
+If there's an issue at a mine, that's not something that we immediately feel the next day. But if there's an issue at a mine, we want to know and make sure we have other sources of supply that then feed, often, a Tier 4 or Tier 5, that then feeds the Tier 4, that feeds the Tier 3, that then feeds the Tier 2, that then Tier 1, and then us.
+## Moderator | 
+Yep.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+That's the nature of this. I think because trade has been so dynamic and the trade relationships, especially at the Tier 2, Tier 3 level, has been so dynamic, it's also just been something we've had to really manage carefully.
+## Moderator | 
+And would you say it's gone so far as expected? Is it faster, slower? I'm just curious in terms of if you were to go back six months and say where you wanted to be relative to-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+-where you are today is.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Well, we've provided guidance for the full year that reflects our expectations, and we've made a slight tweak to that over the course of this year. So I'd say guidance-wise, we've been pretty consistent. We, of course, are working to go as fast as possible.
+## Moderator | 
+Yeah.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+So if there are ways to go faster and accelerate, we're pushing on those, and we know what those levers are. We know what the slowest ramping supplier, we know exactly who they are. We know what the issues are. We have people on site. So we're trying to go as fast as we can-
+## Moderator | 
+Yeah.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+-because we see the backdrop of so many customers excited to get their cars.
+## Moderator | 
+Right. The other piece, you talked about adding a second shift by the end of this month, I guess.
+Is that still on track? Where is that process? Where do you stand in terms of getting that second?
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah. Second shift is on track. Again, that needs to be coordinated. Bringing a second shift on to then not be busy because you don't have parts is also a challenge. We wanted to coordinate that really tightly with the ramp-up of the supply chain. That's been choreographed really nicely. We have a great training program for bringing on new resources, both at the team member level, but importantly at the team leader and group leader level within the plant. When you think of plant floor leadership, this really comes down to the group leaders and the team leaders. This is the engine room, so to speak, of the plant.
+## Moderator | 
+Yep.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+We've invested a lot of time into that function and into those roles, into those leadership roles within our operations.
+## Moderator | 
+Okay, great. I know the other area that you're super passionate about is autonomy and the path to autonomous driving. You guys have communicated a desire to get to point-to-point eyes on driving by the end of the year. Maybe just talk through where you are. Obviously, we're getting closer to the end of the year.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+What is left to be done to get that rolled out to customer vehicles?
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Well, we are going to announce the specific date, but we are going to have an autonomy and AI day that we have near the end of this year, similar to what we did last year. The goal of that is to both provide an update on all the progress that has been made over the course of the year. Of course, since our first autonomy and AI Day, we had some announcements. One of which was a partnership with Uber to deploy a robotaxi version of R2 in late 2028. We want to be able to talk about the progress we are making on the technology, then also think of it as an anchor point to then roll out some of these new features that we are really excited about.
+I would say that on the staircase to Level 4 and the vehicles being capable of delivering robotaxi capabilities or full autonomy, a really important step is point-to-point. Just to make sure everybody is clear on what we both mean when we say point-to-point, this is where you get into the vehicle, you type the address of your intended destination into the screen and say, "Go." The car does everything from there forward. It pulls the car out of a garage or out of a parking spot, drives to the final destination, finds a parking spot at the final destination. We think that is a big unlock in terms of how people perceive autonomy. It is by no means the final unlock.
+This is still, call it, early days for what ultimately is going to come, we think, in the next few years, where increasingly it is an expectation that the car just completely drives itself, meaning it can drive itself empty. It could drive it with you in the back seat. On the journey to that, this point-to-point where it is, as you said, supervised. Your hands are off the wheel, but your eyes are still on the road most of the time. When I say most of the time, I mean you can look down and be distracted for a bit, but you cannot take a nap. You cannot watch a movie. The obvious next step beyond that is then eyes off. You have heard me probably talk about hands off, eyes off, but the ability to be completely disengaged from the driving.
+And then, of course, the step beyond that is Level 4, which is you do not even need to be in the car. That roadmap is something we see really playing out meaningfully over the next two to three years, with 2028 being a really important year for us, where we start to deploy the Level 4 version, which is this robotaxi version, in a customer application where you actually have it working, driving cars, earning revenue while it is driving.
+## Moderator | 
+Yeah. You raised a point about the point-to-point being the real unlock for customers where there is an added value that comes-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+-with that versus just being able to keep it on the same lane or on the highway.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+That is a very different functionality and technology. I am curious, as you have engaged with customers, to what extent that is a selling point? Are they waiting for that? I am assuming people who are already in an EV, to the extent they are in a Tesla, know what it is like to have point to point.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+But someone coming from an internal combustion-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah
+## Moderator | 
+-engine vehicle may have never experienced it. They might not know what they're, quote-unquote, "missing" at this point.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+So I'm just curious of what the feedback has been in terms of customers wanting to see that on the vehicle before they're ready to make that purchase decision for the R2.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+I love this question. I think it's important, and all of you in the room spend time thinking about this segment. This is a very unique moment in time where in our own bubbles, it may seem like everyone is thinking about and knows about autonomy and the nuances of it, and the difference between Level 2 and Level 3, and hands-off, eyes-off, and hands-off, eyes on, and all these things that I can say quickly in here and we know what I'm talking about. But the number of actual customers that today know about that is actually quite narrow. As you said, folks that are in a Tesla, because of their exposure to FSD, they have more awareness of this. But the vast majority of customers buying new cars in the U.S. today are not making those purchase decisions around autonomy.
+That is the way it is today. Now, here is what is, I think, the important giant part that we need to underline in boldface is as autonomy becomes more capable, this becomes a very important purchase criteria because you start to get your time back. A core thesis that we hold to be true, and believe in, is that we are going to see an inflection point where this goes from a small subset of the buying public that is early adopters, maybe buyers that are buying EVs today, to everybody in the U.S. Everybody in the market is going to want to have the ability to drive to work without having to pay attention to the road. We think that plays out over the next handful of years. For that to happen, there is a lot of education.
+Test drives are going to play a key part in this. We do think it is something that is going to dramatically shift market shares. It is going to dramatically shift the topology of, essentially, who is providing the technology, who is providing the vehicles. It is going to lead to a very different looking auto industry, as we think about the early 2030s and into the mid-2030s. All that said, right now, the focus is to get that technology right and then, of course, with the recognition that the early adopters know a lot of these details, care a lot about it, and then make sure that customers who are buying Rivians and buying cars for reasons that are not autonomy know these features exist because word of mouth is going to be powerful here.
+## Moderator | 
+Yeah, absolutely. I would say, would you say that that is from a pricing standpoint and a willingness to pay for that functionality, what is the balance, right?
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+Because at some point, if it becomes a requirement for this technology to be on a vehicle, for it to be deemed even worthy of-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+-being on a consumer's mind, one could argue that pricing at some point might have to come down. I'm just curious, as you think about the next three to five years, where your pricing is today-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+-and what the willingness to pay is.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+Maybe it's a much more complex conversation because you get your time back and you have to-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+-factor that in some productivity gains.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+How you think about the pricing algorithm for your-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+-technology over time.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Well, ultimately, it's going to be market-based. I'll tell you my point of view, but the two bookends of how one might answer that question is, on one end is the view that high levels of autonomy, it's a scarce technology, so there's only a few providers of that. The other end is it's commoditized. Probably not too surprising. I believe, and Rivian's strategy is built around this belief, is that we think it's going to be a fairly scarce resource, and we think it's a resource that's valuable to own. So we're spending a lot of money and time developing that. I think the number of companies that will likely have it is certainly less than the number of fingers on a hand.
+It's a small number of companies that have a legitimate and very plausible path to get to these levels, meaning you have robust data flywheel, access to low-cost inference for running large models in the vehicle, really highly robust perception platform, camera heavy, but in our case, camera heavy plus radar and LiDAR. All three of those perception platforms being low cost. So we think there's a narrow set of companies that fall into that category. As a result, we do believe there's going to be persistent pricing power that exists for customers that want to pay for this. I think, again, this is my point of view, Rivian's point of view. I think every manufacturer, to maintain market share as we think about the next 5 - 10 years, will need to have software-defined architecture.
+The vehicle will need to be software-defined, which today is really just Tesla and Rivian. When I say that, meaning not a collection of third-party ECUs that run independent OS islands, but rather a consolidated set of ECUs that run a common OS. Today, two companies do that outside of China, Tesla and Rivian. Then on top of that, a self-driving platform that is capable of delivering very high functions, so ultimately Level 4 functions. I think if you do not have those two capabilities, you will lose market share. That is a belief. On the back of that belief, I think every manufacturer has three choices. Number one is, three paths you can take. You can ignore it. You can say, "I do not believe those things matter for market share.
+We are not going to focus on that." You can build it, you can develop it yourself, which requires very capable teams around software, AI, electronics, model building. Or you can buy it, and there is going to be a fairly, I think, limited number of folks you can buy that from. What I just described, that framework, is exactly the framework that led to our deal with Volkswagen, where Volkswagen decided on the software OS, the first of those two big buckets I talked about, to say, "We are going to work with a company that is proven that can do it." I think there are lots of opportunities in the software world to do that. In the software platform, I think there is going to be a similar set of big opportunities for autonomy.
+As a result, for us, we can monetize the technology platforms that we are building either through market share or we can monetize it through providing it to other OEMs, or we can do both, which is, of course, you can see thus far our strategy is to pursue both. Both pursue growing market share and growing revenue through vehicle sales, but also recognizing that these technologies can be sold independently to manufacturers that have decided to not build it themselves and have decided to act as opposed to ignore these big mega trends.
+## Moderator | 
+Yeah, absolutely. I would say, or ask, when you think about the robotaxi partnership with Uber, you talked a little bit about tech licensing. If you go the other direction and you talk about your partnership with Uber, to what extent is that program important for you to achieve or at least expedite your path to eyes-off point-to-point in terms of the data capture you get, in terms of the experience and-
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah
+## Moderator | 
+-having these vehicles on the road in a driverless, unsupervised capacity. Is that a requirement to get to eyes-off for personal vehicles?
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah.
+## Moderator | 
+Or does it just expedite things for you?
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Well, it's a great question. It's probably helpful for me to just maybe ground us all to describe how we've approached self-driving. When you think about self-driving and the technology necessary to deliver on this, all of us recognize that this has been something that's been worked on for a while now, since, call it, I don't know, 2012, 2013, when you started to see a lot of concerted efforts around this. It would be easy but wrong to assume that the work that was happening in 2013 was highly related to the work that would be happening today. The reason I say it'd be easy but wrong is, of course, the output, the application is the same. It's the vehicle drives itself. The difference is we had a significant shift in how we approached building these systems.
+The way self-driving was approached up until just a couple of years ago was a vehicle would have a perception platform on board. So it's cameras at a minimum, but at a maximum, cameras plus radar plus LiDAR. That perception platform would identify and classify objects. So that's a car, that's a bike, that's a tree, and then it would associate vectors to those objects. So acceleration and velocity to all those different objects. What would then happen is that set of classified vector associated objects would be handed to a planner. What the planner was, is it was, think of it as a large code base that was written by humans to then describe driving. So it would describe what to do with all these various actors in the system. The limitations of that were obvious.
+It was very much specific to the vehicle application. It was very much specific to the geography and the area that it was operating, and it was quite fragile. If you took that platform, put it on a different vehicle, it required a lot of work to redescribe how to drive the car. If you took that platform, moved it to a different geography, a lot of work to describe how to behave in that environment.
+Of course, what happened, and we witnessed this in the most fantastical way imaginable with LLMs, is the introduction of transformer-based encoding, the idea of building large multidimensional neural networks, and the concept which is now so common for us to talk about with foundation models and this idea that a much more complex multidimensional model can capture very complex bodies of human knowledge in ways that are not this sort of rules-based approach that we've tried to do in the past. Of course, in the LLM world, we saw things like Alexa and Siri in 2017, 2018, which could maybe tell you a joke, maybe tell you the time of day. Now advanced to LLMs, which are. There's absolutely zero relationship between what was there in 2017, 2018 and LLM. But an LLM can give you relationship advice. It can write a book report for you.
+It can diagnose a red spot on your arm. It can do all these things that, of course, you would never even think to ask Alexa a decade ago. I call out the Alexa versus LLM because I think it's illustrative, because that's the same dynamic of what existed for autonomy pre-transformer. All the work that happened from the 2010s up through early 2020s was what I'll call autonomy 1.0. We're now in autonomy 2.0, where we're not trying to write down in a set of code how to drive. But we're collecting very large pools of data, and to do that, you need a big data flywheel. Of course, the two companies that have effective data machines are Tesla and Rivian. Tesla's, of course, the biggest because its fleet's by far the largest. All that data gets ingested.
+We use that to pre-train a big model. In our case, we call that LDM, Large Driving Model. But there's only one model. We don't build an LDM for Level 2++ and an LDM for Level 4. It's one big model, and in our case, we're feeding that model with a really optimized set of perception. We have a set of cameras that's been designed not just to drive the vehicle, but it's designed to learn as fast as possible. We place them and size them to absorb all this information. Alongside those, we've put those with radars. We have five radar in the vehicle, and then soon we're going to launch a LiDAR. The LiDAR turns every single vehicle that has one that's deployed into part of this really large ground truth data collection fleet for training our foundation model.
+Anyways, your question was, coming back to that, your question was, does point-to-point, is that a necessary step or an accidental step, if you will, to get to Level 4? It's just part of the continuum. As we think about it, LDM just needs to keep getting better. This is the part that I think perhaps the most confusing for customers is if you're in a Level 2++ vehicle, the way that it feels is actually should be nearly identical to a Level 4. The difference is just how confident we are in the system, such that we allow you as the operator to cease to be part of the operational control of the vehicle. So Level 2++ and Level 4, the difference is you don't have to be in the car, you don't have to pay attention.
+The car is going to be doing, for the vast, vast majority of the time, an identical set of tasks. It's effectively a look at how capable we are at handling the corner cases, and then therefore managing those in a safe way. The first step to that is allowing you to take your eyes off the road to say, "Hey, look, the car's very capable, so you don't even need to pay attention." So it's no longer supervised. Then the next is you don't even need to be in the car because if it does run into, it's not going to run into an issue where it needs to ask you to retake control. All of that said, one of the things I do think is worth calling out, which gets back to my point on the shift from early adoption to mass adoption.
+If you're a tech early adopter, if you're one of us, you can live in this world where it's supervised, you have this partial role. For a lot of people, that's confusing.
+## Moderator | 
+Yeah.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+But soon that'll just be like, remember when we used to have to sit in the car and pay attention while it was driving. That would be like this little brief. We should all enjoy this while it's happening because we'll get to tell people we used to do this. This is going to be a very brief moment, a speck in time, before we get to a world where it's just like, "Of course, the car drives itself. Are you kidding me? You guys had to operate the car?" It'll seem so foreign to. Like my kids will look at that and just be blown away that that was the way it was.
+## Moderator | 
+Are they going to have a license, do you think? What's your prediction?
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+I think they will because I'm influencing them.
+## Moderator | 
+Okay.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Because I like to drive. I don't think they'll need to.
+## Moderator | 
+Yeah.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+In 10 years, I don't think they'll need to. I think it'll be sort of like driving a manual transmission.
+You don't need to drive one, but people do it because it's
+## Moderator | 
+It's cool to do.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+It's like a-
+## Moderator | 
+Yeah.
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+Yeah, it's a-
+## Moderator | 
+Novelty
+## RJ Scaringe | Founder and CEO, Rivian Automotive
+It's a novelty, yeah. But anyways, long way of saying point-to-point's a key step on that journey, but it's not the end step. It's one of the steps.
+## Moderator | 
+That's great. Well, I think we're at time here. RJ, I really appreciate you being here. If you have not driven the car yet, go upstairs, take a test drive. It's worth it. But appreciate it. Thank you.
+Data Source: Quartr Last updated: Sep 15, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,221 @@
+TITLE: Citiâs 2025 Global Technology, Media and Telecommunications Conference
+DATE: 2025-09-04
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+... Welcome to day two of Citi's Global TMT Conference. I'm very delighted to have you all here. I'm Fatima Boolani, I jointly head up our software equity research effort here at Citi, and I am so thrilled to be kicking off day two with, the management team at Zscaler. So to my left is founder and CEO, Jay Chaudhry, and to his left is brand-new CFO, just coming into the seat, Kevin Rubin. Thank you so much. I think this is one of your first tours of duty as CFO of, Kevin.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Yes.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+So I know we have a lot of things to discuss here, so very excited that you're here with us.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Thank you. Thank you.
+## Kevin Rubin | CFO, Zscaler
+Right.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+I want to jump right into it. Jay, you all reported your fourth fiscal quarter results on Tuesday, and I think maybe just to level-set and set the tone for the conversation, you know, if we can spend a little bit of time on re-emphasizing and highlighting, you know, the milestones in the quarter, and we can take it from there.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+The biggest thing was crossing $3 billion in ARR. Only two pure-play SaaS security companies have done it, so it's a great milestone. We also beat all metrics that we had set out. ARR growth, 22%; billings growth, 30%... what percent? 32%, 31%, 32%.
+## Kevin Rubin | CFO, Zscaler
+32%.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+32.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Free cash flow, 27%. I think by all measures, it was a very, very good quarter. And Kevin, other thing you want to add?
+## Kevin Rubin | CFO, Zscaler
+Yeah, I mean, look, we ended the year as a Rule of 50 company again. As Jay mentioned, you know, we exceeded the $3 billion in ARR, the benchmark that, you know, we had set out for. And I think it sets us up really well as we think about 2026.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+I'm glad you brought up ARR, Kevin. That was a, you know, meaningful pivot in the way you're thinking about the business, talking about the business.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+And, you know, to be fair, I think, we were socialized that that was coming down the pike, so it wasn't entirely a surprise. But, you know, just from a guidance and forecasting methodology perspective-
+## Kevin Rubin | CFO, Zscaler
+Mm
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+... ARR is, you know, presumably going to be the North Star and the guiding light for the company. I'm wondering if you can spend a little bit of time, sort of talking to us about the formulation of the ARR guidance, how some of the downstream impacts are playing out from the sales organization perspective. You know, if a salesperson is no longer sort of, you know, compensated on billings or, you know, it's a different paradigm. I would love to have you-
+## Kevin Rubin | CFO, Zscaler
+Sure
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+... spend a little bit of time on that. And I think it's worth discussing, because this time last year, there was a lot of hand-wringing about the billings dynamics between the scheduled and the unscheduled pieces. So, what a difference a year makes, but I'd love to have you take it away on the ARR front.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Kevin, can I start with this?
+## Kevin Rubin | CFO, Zscaler
+Please
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+... broad comment, and you can get into specific. Historically, when we started in 2018, and as after the IPO, billings-
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+As a humble cloud security-
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Yes
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+... web gateway company.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Sitting at some $250 million range, right? So billings seemed like the norm, and that's what we looked at, that's where we started out, and we have been building on it. As over time, ARR became more important, so it is natural for us to think about it and make a switch. Your broad sales question I'll answer, then Kevin can get into the more detail of ARR. When we set out compensation, our management leadership compensation was linked to billings, number one, and some of the ARR growth, number two. When it come to sales teams, at the sales team level, we always had. We used to have only new ACV, okay? Then as churn, as company got bigger, we start adding any churn linked to the compensation. Sales teams haven't changed a whole lot.
+Management compensation is getting more aligned with ARR and de-emphasizing billing in this case. Over to you.
+## Kevin Rubin | CFO, Zscaler
+Maybe just to emphasize as a point, as Mike has introduced a more account-centric model, that is also much more aligned to ARR as a growth metric than billings was. To the point, we did shift our growth metric from billings to ARR going forward. We also took the opportunity to redefine how we look at ARR. The prior definition looked at the exit value of a contract, so if we had a multi-year contract that ramped during the period, we reflected ARR today at that exit value. The definition that we have adopted going forward, we think is more industry standard and more comparable, which is effectively the next 12 months of revenue, which much more closely aligns to how we're actually recognizing revenue. You'll see alignment in those two metrics.
+And that was what guidance was ultimately based on. I know there had been a question out there, you know, we set the $3 billion target some quarters ago. Had we used the prior definition, we actually would've rounded to 3.1 billion in ARR, as opposed to what we reported, so just for apples and apples comparison.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+So we restated-
+## Kevin Rubin | CFO, Zscaler
+Correct
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+... a number of things that used old ARR definition, and the new definition brought the ARR number down. So the number of 5,000,000 customers, 1,000,000 customers, and the like, the numbers slightly came down. In this case, we're reducing upfront, but every year, you actually get incremental gain.
+## Kevin Rubin | CFO, Zscaler
+Correct.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Kevin, I know you had mentioned that there hasn't been a wholesale change or shift in the way the guidance philosophy has evolved, you know, since you've come in. Maybe there's some tweaking and toggling, but no wholesale changes. But as you think about guiding towards a brand-new metric, I mean, certainly it's not a brand-new conceptual metric for all of us, but for you, for Zscaler, for investor expectations, how should we think about some of the mitigants that you've wrapped around the ARR guidance, so we can get comfortable with the fact that, hey, this is actually your first year guiding towards ARR?
+## Kevin Rubin | CFO, Zscaler
+Yeah, look, I think that that's fair. We have the two dynamics. We have, I'm new in seat, and we have a shift in growth metric. If we just look at the guidance that we put out, we're guiding fiscal 2026 at 22%-23% growth. That includes the recent acquisition of Red Canary, that we closed in Q1, so August 1st, and that represented $95 million or about 2.5% of growth as we think about the guide. But what it also implies is that the organic growth of the business is growing over 19% in this guide that we put out, which I think is pretty impressive for a company that's over $3 billion in revenue today.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Yeah. If I may add, the sales transitions we wanted to make over the past 15 to 18 months, essentially are complete. Sitting in August of last year, there are lots of moving parts, and we gave you guidance. Even though there's lots of moving parts, I'm very pleased that we exceeded all the guidance we gave you. And talking about the scheduled and unscheduled billing as one of those funky things that-
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Right
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+... we ran into, and we told you, and we delivered. We beat all the numbers we had to beat. But I think the opportunity for us is large. The platform is large, sales team is all in place, and I am here because we think we have big opportunity, much better opportunity, a bigger growth opportunity. But with some of the changes we've gone through, the new metrics, new CFO, we thought it'd be prudent to really give expectations that make sense for this stage of the time. But the opportunity for us is to grow at a much better rate.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Before we put the ARR conversation to bed, I did want to broach the topic of net retention rates. It's a very much a companion metric. Any definitional tweaks or changes we should think about on net retention rate and dollar-based net retention rate? I know historically, you all have been very consistent in discussing the fact that, hey, as the portfolio has widened and increased in capabilities, as the land sizes with your customers have increased, it necessarily creates more variability in that DBNR metric. So, any commentary that you can offer us as the ARR definition has changed, should we also think about, hey, maybe there is a recalc or a definitional shift on the net retention rate?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+You know, among all the numbers we talked about, there are two numbers that are kind of inconsistent or not always logical. One is NRR, and the second is number of total customers for Zscaler. I could have a thousand-user customer, I could have a hundred thousand-user customer, so one lump of customers count is meaningless in my view. So in that area, we always tell investors it's segment of the customers that matter, rather than saying: "Oh, your customer count went only up 10%," or whatever. Second is NRR. We've always given it. Why are we giving it when it doesn't make sense? Just to remind you, when your platform is growing bigger and you're selling the bigger platform upfront, it brings your NRR down.
+Two, if I have an upsell within twelve months, it doesn't count in that, and I want my sales reps to be selling all the time. In fact, as a general philosophy at Zscaler, no one waits for three years for renewal. If my salesperson is waiting for three years, something's wrong, okay? We are engaged, the platform is growing, adding stuff. So NRR has never been part of my philosophy to look at my business success. Upsell versus new ACV is a more meaningful metric. Is my upsell growing? How much is growing? What's my new ACV growing? So those are the numbers we look at. Kevin?
+## Kevin Rubin | CFO, Zscaler
+Yeah, and the only thing I would add, so in that regard, I think ARR growth is actually a more representative metric for the business, right? Are we growing our ARR period over period? We did give the NRR for Q4, just to kind of put that to bed, which came in at 114%. We don't intend to use that metric going forward.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Yeah, so ARR growth, within that, new logo growth and upsell growth gives you a fuller view.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Very clear. I appreciate the nuance there. Maybe just to zoom out, you know, in talking about the market environment and the market opportunity, I think at the very highest level, I wanted to discuss some of the dynamics playing out in the... let's just call it your core business, which is, you know, the bread and butter, the historical flagships of ZIA, ZPA. You know, I think I tend to have a lot of investor conversation about, "Hey, where are we in the cycle for SASE?" And to use, I should be using football analogies, 'cause, you know, we're in fantasy season, but let's just use the baseball analogy.
+You know, I think there is a perception that the core business on the SASE side, a term that you helpfully coined for all of us, you know-
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Zero trust.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Zero Trust.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+SASE is actually to please every vendor.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Fair enough.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+So they could latch onto something. Okay.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+So where are we in terms of the market penetration?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Yeah.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+I can make a very strong case that it's still early days, but we've seen a lot of competitive influence in the space by some of your largest peers. There are some peer plays that have come into the market, right? So, Jay, please spend a little bit of time telling us: "Hey, this is not a saturated market," and, you know, why?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Let's start with where the market started, with what the market has been. It used to be a secure web gateway dominated by Blue Coat, Websense, McAfee, and Cisco of the world. That used to be our primary competition. Then where is that competition now? It's kind of gone, essentially. We pioneered zero-trust private access to applications that not only eliminated VPNs, it eliminated the entire inbound gateway. That inbound gateway has a collection of things, starting with load balancers, external firewalls, VPN, internal firewalls, DDoS protection, and the like. The whole thing went away. The market expanded, then we added Zscaler Digital Experience, measuring end-to-end performance. We looked the market very differently than any market segments were looked at before. I think investors make the mistake of trying to put the things in old buckets. Those buckets are going away.
+None of those buckets really matter at all. This thing was done for users, okay? That's users, the starting piece, and then this thing had to be done for next level. Cloud workloads. Cloud workloads are somewhat like users. They talk to internet, they talk to each other. How is that secured today? Firewalls. North-South virtual firewall, East-West virtual firewall. We've taken the Zero Trust to really revolutionize that stuff. No one else... There's no other competition in the market other than legacy firewall. Then branches had to be zero-trustized. Device segmentation had to be zero-trustized. The portfolio has expanded far bigger. When somebody says, "I do what Zscaler does at third the price or half the price," they're barely trying to give a basic functionality of Zero Trust for users, or many of them don't even have Zero Trust for users because they're spending on firewalls.
+Let me give you simple examples. If you went out and talked to Fortune 500 companies, there are lots of these regional communication hubs, regional data centers. The traffic comes to those places, then it goes out to cloud, or it goes to internet. And that investment is hundreds of billions of dollars. With Zscaler, all that stuff goes away, because directly from the branch, you go direct. We are able to take out all of that stuff and give customers a lot of value, better ROI. So zero trust has moved from zero-trust users to zero-trust branches, zero-trust cloud, zero-trust devices. That's what we call zero trust everywhere, and we're giving you some of the data about customers. Now, about 350 customers doing zero trust everywhere. This is enterprise.
+If you look at the total number of enterprises, we have, Kevin, the definition we use is 2,000 users minimum on enterprise definition, Kevin? Sorry, Ashwin, how many total enterprises do you count when you say that are our customers today?
+## Kevin Rubin | CFO, Zscaler
+Four thousand.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Four thousand enterprise customers, three hundred and fifty have... That means there's a lot of upsell opportunity in that space. This year, we crossed a milestone to go to 45% of the Fortune 500 companies. And when we say 45%, we don't mean we sold you a little bit CASB here, some firewalls here. When we go in, they, they take all the users, essentially you take us. There's most of the market sitting up there, so tons of opportunity in zero-trust space. But then the next area, think of zero trust agentic communication. That'll be massive.
+The user count in an enterprise is not going to go up a whole lot. There's a lot of pressure with agents and AI, but number of workloads is going up significantly. Number of agents will grow in billions of dollars. We are very well positioned to really keep on driving the market growth. So if you ask me, do I worry about people trying to come from behind? Not really. I'm focused on innovation, I'm focused on solving the next generational problem, and we solve it in very, very innovative way rather than trying to be the copycats.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+You know, you brought up agentic, and, you know, I wouldn't be a software analyst if we didn't talk about AI, so we'll absolutely get to that. But before we do, you know, clearly a lot of expansion in the vision on the zero trust side for traditional SASE that's expanding, like you said, to cloud and devices, that's helping you mitigate some of the pressures on a headcount model or seat-based model perspective.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+But the other area of excitement that I think has surprised to the upside is the type of momentum you're seeing on the data security side. I think you sized that business for you, frankly, at $400 million in ARR.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+And so there has been a renaissance of sorts in the data security world.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+It's gathering a lot of attention for what I think are very obvious reasons.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+True.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+You know, I'd love to have you kind of talk to the opportunity here. Many ways to skin the cat. We've heard different ways to do data security from some of the pure plays, the backup and recovery vendors, and you know, some of the larger platform vendors like yourselves.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Why would do you think, Jay, the Zscaler's way of inline cloud data, DLP-centric?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+... data security prowess is the right set of ingredients to be the AI security player?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+... A very good question, Fatima. So customers want data security no matter where the data is, and they want to make sure the data doesn't leak from any channel. So traditionally, they have an inline DLP. What's inline DLP? Before your traffic gets out to the internet, somebody needs to inspect it, okay? Every bad thing comes from the internet, every good thing leaks to the internet. If the loss of data happens to the internet, that's the best place. If there's one place you could do data security, you should be sitting there, and that's the place where we came from. All of our customers, all traffic that goes out to the internet goes through us, and that's how we got a jump start.
+This market used to be dominated by Symantec, Vontu, some of the McAfee offerings of the world, and a little bit coming from Websense. We had taken a lot of those large customers out. If we are sitting in line doing traffic inspection, we are the natural player to do DLP. It makes no sense for our customers to go somewhere else. Now, the question, Fatima, you're asking is, now the data is changing. Data is sitting in SaaS applications, data is sitting in S3 buckets, data is sitting in Snowflake, data is sitting in endpoints. Over the past half a dozen years, we expanded our portfolio to cover all the places the data sits because the customer is saying, "I have hard time actually enforcing policy of the data," okay, "with one vendor.
+Trying to deal with three vendors or five vendors is a nightmare." So we had the most comprehensive solution. The point you alluded to, different approaches, it's not really different approaches, it is being able to understand the data in different places. So this new one more four-letter acronym, DSPM - Data Security Posture Management, started out and say, if data is in the cloud, how do I discover it? How do I classify it? So we have expanded in that space. We built over time. I can discover, classify your data that may be sitting in SaaS application, cloud, endpoint, even in data center, on-prem. It's a very holistic, most comprehensive solution. With one policy, we built endpoint DLP, which has taken off very nicely, built email DLP, which is going very well. We have eight DLP modules covering all areas.
+If a business unit of data security were an independent company, it'll probably be the largest data security independent company of it, on its own, and this also requires inspection of traffic. A proxy architecture plays an important role. That's why you never hear that a firewall vendor is a great data security vendor.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+And just to kind of close the loop on this, you know, clearly a burgeoning opportunity, but from a pricing model perspective-
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm, mm-hmm
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+... you know, are you tethered to the exponential growth of data that's happening today, and that is only going to continue to be more exponential as AI, you know, acts as a force multiplier on data creation?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+You know, how does that influence the way you think about having a variety and diversity of pricing models within the base?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Yeah, our pricing has been evolving and will further evolve. People always think about user-based pricing. User-based pricing worked for a while. What I do is even Zero Trust for cloud workloads. The workload-based price works kind of, but this, the amount of traffic starts playing a big role into it. So our pricing has evolved. When you talk about data in S3 buckets, for example, how much is the data? What's going on? The user-based pricing no longer makes sense. The volume plays a role in it, and the traffic both play a role in it, and it's evolving, and it should evolve.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+I think this is a good segue into the next area that I really wanted to touch on: Red Canary.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+You know, would be really helpful for you to give us a reminder of, you know, the impetus of bringing on that acquisition. I think there's a perception that, hey, this was a very services-
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+... heavy orientation of an asset. You know, what is it really bringing to the table? And ultimately, and I think you've wrapped that conversation around, you know, advancing your agentic AI aspirations-
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+... how does Red Canary service that vision?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Yes. So if you think about, historically, what we've done, about 18 months ago or so, we acquired a company called Avalor to help us build a data fabric. Data fabric is a new approach to analyzing your logs for security operations point of view. Traditionally, you have built a data lake, tons of transactions. You would fire queries against it. The bigger the database, the slower the query, the harder it gets. The data fabric approach is, create synthesis of the logs, which is much smaller, but it works. Think of it, how many of you use Tableau? You get all the reporting from Tableau versus going to Salesforce against millions of transactions. Tableau can do 95% of the stuff, and 5%, you go to the source of data. Similarly, data fabric technology is, in a simplistic fashion, is like Tableau.
+It also do a lot of work. I don't want my customers to go and buy one more data lake. I want to eliminate the need for having data lake, and we have the source data sitting. We have the Tableau equivalent, which is our data fabric. We have been on that journey, but also, then we need to build the tools for security operations on top of that. We have been building it, but to accelerate, we said, "Let's go ahead and buy an AI SecOps company. Okay, we spent about eight months doing it, and we looked at about 25 AI SecOps companies, okay? And guess what? We couldn't really find anyone that a real solution deployed in real life, okay, with real customers. If they gave me five customers, four were friends and family customers. Then I came across Red Canary.
+They're very good agentic AI, where the agents are actually doing what security analysts do in production. We are, we are excited about that. And also, with 10 years in business, they actually had real expertise in detection engineering. So number one reason to acquire Red Canary was accelerate our completion of security operation solutions that can be sold as a solution and technology to our customers. But also, then it gives an option and said, "If customers want us to manage that solution, I can offer as a managed service as well," but solution also be available to other partners to run it that way.
+So that's the rationale, but also what I'm finding from many of our now Zscaler customers is, "Oh, I want the solution, and I want some managed service as well." There's a large Fortune 100 company that did a deal in the past, recent past, where they're a Zscaler customer, and they bought Red Canary to augment their security operations, not to outsource it all the way. So there's plenty of opportunity. But think of the revenue, ARR. Sitting at about $95 million projections, ARR some $3-plus billion. It's what? About 2% to 3%. It's not going to make us an MDR company. That part gives us some expertise, but we remain focused on technology, and but leveraging some of the key technology they brought to the table.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Jay, just to play devil's advocate, AI-powered SecOps and the modernization of the SecOps and SIM, you know, very attractive areas because we know the competitive and the technology dynamics are very similar to maybe what you saw in the secure web gateway landscape, you know, almost 10 years ago, right?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Mm-hmm.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+But the reality is, there is a lot of competition. There are, you know, very fierce forces that are, you know, advocating to displace and disrupt those very, very large budgets. So I wanna understand, you know, how do you think you are going to be a very formidable player in the AI SecOps movement, as companies look to completely refresh and modernize their SecOps stack?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+So two points there to start with. One, is the market ready for disruption? The answer is absolutely yes. It's hard to find customers who say, "I love my current SIM solution." That's starting point. And the second point is, why is it that way? Because traditionally, everyone has gone in, "Give me a SIM solution," and they're charged by number of gigabytes. It's crazy because they all build a big lake on it. Our view is that if you go in a market, you go in with different architecture, different approach, and then you must have some core competencies. The biggest core competency we have in this space is data. 500 billion transactional logs a day that allow us to create metadata and train our models on top of that, while keeping the customer's data private.
+AI is only as good as the data, and we have the best quality data. If you look at the logs that matter in this area, their endpoint logs, their communication logs, identity logs, and the like. The old-school firewall logs, router switches logs aren't really meaningful. If you have the best logs to train, if you have technology like data fabric, which is very different, I think we... It positions us far better than others trying to go and do it the old way.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Bringing this back into the discussion around go-to-market and how customers are consuming a much wider Zscaler platform, Kevin, maybe the question is for you. Z- Flex is four and a half months, about the age of my newborn daughter. So a lot of learnings in that period. Can you give us a sense of, you know, outside of the $100 million in bookings that you did on Z- Flex this past quarter, what is the ultimate goal and outcomes that are aspired to with this initiative? And just from, again, a guidance perspective, how is this being considered in the way you're thinking about ARR and you're thinking about revenue, and even RPO, if you can comment on that?
+## Kevin Rubin | CFO, Zscaler
+Sure. So Z- Flex, just by way of background, was introduced, I think, halfway through our third quarter. We did about $65 million in bookings in Q3. We did over $100 million in bookings in Q4, and it's really a packaging and pricing solution for customers that makes it far easier for them to ultimately consume more modules on the Z- Flex, the Zscaler platform, and have the flexibility to do that over time. So it's designed for multi-year contracts. It's designed for flexibility. We pre-negotiate pricing, so every time there is an upgrade or a desire to expand, you don't have to go through a procurement process. So it's really intended to reduce friction in that buying process and that expansion process for a customer over time. Aside from that...
+It really is a growth opportunity as we think about, you know, continuing to grow this business from an ARR perspective. It's not the only vehicle that we have to be able to support our customers, but it's a very elegant vehicle that allows them to adopt today, and have confidence that their investment is flexible as they go forward in terms of the modules that they'd like to use.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+If I may add, in some of the investor research I find, I think people are over-favoring to Z-Flex. It's the pricing and packaging to make it easier. The real measurement of the business success is ARR growth. That's what it should be. Because before I do Z-Flex, I actually do discovery and architecture workshop to understand what all can be taken out. Then we go through business value assessment to quantify what can be saved. And then Z-Flex allows you to create a package that's flexible for your needs. So it's a natural evolution for us, but our focus remains growth of ARR, and this helps grow ARR.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Just to be clear, is the orientation of Z- Flex primarily a commitment-based model that, you know, a customer draws down against a solution or SKU of their choice within Zscaler? Or are there just more favorable, amenable financing terms? I mean, 'cause we've seen different variations and permutations of this. So is it a little bit of both? Is it something else?
+## Kevin Rubin | CFO, Zscaler
+Our Z-Flex is not a committed spend over a multi-year period of time. It's an annual commitment, no different than other subscriptions. It adds to a traditional Zscaler subscription the ability to swap out modules. It gives flexibility on future expansion pricing. It's really a more flexible subscription arrangement that, again, encourages and facilitates expansion. It is not a consumption-oriented model. It's not, you know, you commit to spend, and you can wait till the end of the contract and spend it all in the last year. There are annual commitments. There are a set of specified modules that the customer is going to deploy. There's the opportunity to flex into more modules over time, as well as swap modules.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+I wanted to quickly shift gears to the other side of the ledger. We talked... Checked the box on talking about the revenue opportunities, you know, the secular dynamics. But just from a capital allocation and reinvestment standpoint, you know, there, the growth in the emerging product suite has been remarkable, right? And to continue to feed that growth, you have been leaning, and you are leaning in to reinvesting in the business alongside inorganic activity. I'm wondering if you can talk about where the preponderance of that investment is going and expected to go in fiscal 2026, and how should we think about M&A as a complementary force in your capital allocation efforts?
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+You can start with capital allocation.
+## Kevin Rubin | CFO, Zscaler
+Yeah.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+I'll talk about M&A.
+## Kevin Rubin | CFO, Zscaler
+Yeah. No, of course. So look, we have a very efficient financial model, as you've seen play out over the last several years. I earlier mentioned, you know, we have been a, you know, consistent Rule of 50 company. As we go into 2026, you can see the guide as it implies to the areas that we're going to invest. We continue to focus on innovation. You see that manifest in how we support engineering and product. And so I don't expect any change in approach there.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+So regarding M&A, we have been very selective. We don't go out to buy companies for revenues. We look for disruptive new technology that could be embedded with our platform to make a very integrated solution for us. If you look at what we've done, maybe if you show one slide, the four pillars out there. Okay, Ashwin, one slide. I know we're out of time. Can you show one more? Go ahead. Here.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Mm.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+This is our platform evolution. The first pillar, Zero Trust everywhere. That's a big opportunity for us. Data security everywhere, second area, and under AI security, that we have two buckets: security for AI applications, the models you're building. We announced products like AI Guardrails for that. And then agentic operations is where security operations fits in and IT operations fits in. I think we got a big lead, the innovation will continue, and we got a sales force engine in place, and we're excited about 2026 fiscal year.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+I like to end the conversation on that positive note. Thank you so much.
+## Jay Chaudhry | Chairman, CEO, and Founder, Zscaler
+Thank you.
+## Fatima Boolani | Managing Director and Co-Head U.S. Software Equity Research, Citi
+Appreciate the time.
+## Kevin Rubin | CFO, Zscaler
+Yeah, thanks for having us. Great.
+Data Source: Quartr Last updated: Sep 4, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

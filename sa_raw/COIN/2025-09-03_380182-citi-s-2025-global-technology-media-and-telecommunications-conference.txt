@@ -1,0 +1,195 @@
+TITLE: Citiâs 2025 Global Technology, Media and Telecommunications Conference
+DATE: 2025-09-03
+## Speaker 2 | 
+... Speaking about this, last year, the conversation was very different.
+## Alesia Haas | CFO, Coinbase
+Isn't it amazing?
+Very different. What a year, what a year of difference can make, right?
+Exactly.
+Before we get started, though, I'm gonna read a safe harbor statement on behalf of Coinbase. I'd like to remind you that during today's session, the company may make forward-looking statements. Actual results may vary materially from today's statements. Information concerning risks, uncertainties, and other factors that could cause these results to differ is included in Coinbase's SEC filings. Our discussion today will also include references to certain non-GAAP financial measures. Reconciliations to the most direct comparable GAAP financial measures are provided in the shareholder letter on the company's investor relations website. Non-GAAP financial measures should be considered in addition to, but not as a substitute for, GAAP measures. I should have this memorized by now. Anyway.
+Thanks for reading this.
+No, no worries, no worries. But great to have you back. It's like, where do I begin? I think the first thing I'd love to touch upon and get your perspective on is the renaissance that the sector has been undergoing in recent months. We've had tons of capital markets activity. VC investments have rebounded back to pre-crypto winter levels. And it's funny, when we talk to some of these companies, a lot of it has been: Hey, Coinbase has been public. They've had this competitive advantage by being a public company, by having publicly filed financials, CEO, CFO attestation, that kind of thing. So it's really a legitimacy thing that we need to become public so we can compete against them. Do you agree with that thesis?
+I would love to hear your perspective on how you think the chess pieces have been moving recently?
+Ooh, such a great area to dive into. Well, it's great to be back, so thank you so much for inviting me this year. It has been a complete sea change in market conditions. But let's reflect back. So reflecting back, I absolutely believe that transparency and disclosures have been needed in crypto and were beneficial to us as a company. So we got there through our disclosures by becoming a public company. We added to our disclosures, and if I look back at 2022, 2023, when we had the FTX bankruptcy, when we saw a lot of concern about counterparty risks and over-leverage, having financial statements public that were audited, that had a controls attestation, was absolutely calming to our investors and our customers, who could look at the balance sheet risks and understand the counterparty risk that they were taking.
+So I do think it augmented our most trusted brand, and I think it has given us an edge, specifically for institutional clients, as well as for partners who look at that balance sheet strength and our profitability and our ability to manage through the cycle. But I don't think it's just being public alone that gives us a competitive edge, and I think that it is going to be beneficial now, with more companies going public, to add to the transparency in the space and give customers the ability to compare and contrast and to underwrite and compare business models. As being an N of one public company, pros and cons to that also. But I think that the key here is transparency is always positive.
+I think that regulatory environment has become a huge catalyst to growth, and not only have we seen it unlock the capital markets doors, but more importantly, much more importantly, it's unlocked the product innovation doors. Getting to the place where we now can have meaningful conversations with regulators to open up the prospect of tokenized equities, to open up the prospect of bringing perps to the U.S., perpetual futures derivatives, which we've already done, these have been the real sea changes that we see as adding value to our customers. We're on offense on product now. It'll bring more market participants in, but we've been doing this for 12 years, and we are excited about our infrastructure tech stack and our ability to bring these innovative products to the market.
+That certainly makes a lot of sense. I can recall conversations, you talk to regulators and give them all your ideas, and then the next day, they would sue you.
+Yeah.
+It's a lot easier these days, for sure.
+Collaborative now.
+That's, that's great to hear. Any views on, you know, how you think some of the chess pieces are moving? Obviously, Circle was a very successful IPO and as well as Bullish, and there's more coming, and you can judge by the bags under my eyes there's even more coming. So you're gonna have a lot more public names to be compared against and things like that. You know, any views on how you think the industry as a whole just evolves from this or benefits from some of this?
+Look, I think that the market was closed to many crypto companies, and they had no ability to get out while we were under the regulatory environment that we were in. So I definitely think many companies see the window open and are racing to run through that open window for fear that that window may not be open for long. I think that customers have been able to get information through operational due diligence for a long time, and I think we're really pleased with our ability to compete and to become a platform of choice for many large corporates. You can see that through our ETF custody relationships. You can see that through other business deals that we've announced. And so I don't think that being public or private is gonna change the playing field that materially.
+I think it will give those companies access to capital liquidity, but more importantly, I think it will just give investors the ability to be more informed on market dynamics, understand the right questions to ask, get better insights into how to value, and so we'll get to probably more rational valuations with more and more companies in the market.
+That's very fair. Very fair. Thank you for that. I do, I do wanna spend a little bit of time on retail, and Brian's pointed out at the recent crypto summit that you guys held, which was a great event.
+Thank you.
+50 million Americans own crypto today, so there's certainly runway to grow. And there's also several of these hybrid, more full, quote-unquote, "full suite offerings" out there that are getting more competitive by offering crypto. I'd just love to hear what Coinbase's strategy to drive the incremental new user to its platform? And versus some of these others, including some of the full suite broker-dealers out there. And how do you feel that Coinbase One, the subscription program and the card that's coming soon, how do you view these partnerships playing a role in your new user growth strategy?
+Yeah, thanks for that. So it all goes back to our strategy of being the most trusted and easiest-to-use crypto platform. From there, what we wanna be is the platform where we offer everything, every asset available. You can think of us as a one-stop shop to find the asset that you're seeking, to transact in that asset, to be able to do any of the economic transactions that are available in crypto. So whether that's staking, whether that's pledging it for financing, we want to be the full-service offering. So it's a combination of trust. I think what's really important to me here is to think about crypto as bearer instruments, and so we are offering a full infrastructure stack. We can custody assets. We custody more than two times our nearest competitor. We have over $400 billion of assets that we safely store on our platform.
+That's about 12% of total crypto market cap. That is 2X any other centralized player. You know, offerings custody in traditional securities looks very different than offering crypto custody because of the bearer nature of the asset. And it's not a bearer instrument in the sense that I can lock it up like gold in a vault, and I only have to access it once every two years. No, this is like a 24/7 trading asset that I also have to provide on-chain liquidity and make sure I can execute. This is a really differentiated technical infrastructure stack that we offer. So we offer the custody, we offer the wallets, we offer a protocol within Base. We have a partnership on USDC as a stablecoin. So we have a full vertical stack.
+That, along with offering the breadth of assets, provides us a really unique advantage of being able to compete in this marketplace. Because we can monetize at different levels of the stack, we can attract with different value propositions. We can think about a future of cross margin, for example, when we provide spot and future side by side or spot future options, tokenized equities. So I think that we are building a very differentiated platform through the full stack approach, but it all comes back down to that brand and most trusted, easy to use. And so then when I talk about retail specifically, absolutely, Coinbase One plays a big role here. Partnerships play a big role here. Coinbase One is a subscription program that provides our retail users added benefits to benefit of the breadth of our product offerings.
+It provides differentiated rewards rates on USDC, better staking rewards rates, lower trading fees in exchange for this recurring, more repeatable subscription revenue line. We're seeing really nice growth, and as we have broadened that to international users, as we offer different price tiers, we're seeing continued traction and growth of that product. Partnerships are, additionally, unique ways to bring new customers to our platform that come through a very attractive customer acquisition cost, differentiated from the standard growth and incentives that we offer through paid promotions, et cetera. We're seeing really nice traction, and pleased to see us be really a platform and partner of choice of large institutions looking to provide crypto to their end customers, which then benefits other products and services on our platform.
+Does the competitive strategy come down to liquidity? Is that really the heart of it?
+Hmm.
+Where whoever has the most liquidity wins?
+On the exchange, for sure.
+Mm.
+So every product has key attributes of what makes it win. Liquidity, I think, is definitely key for the exchange, and can you offer the deepest, most liquid trading pairs, and so the best pricing on the brokerage. It's network effect then with USDC. It's network effect with Base. Do you have the most market participants to create two-sided marketplaces that really want to adopt and unify product, interoperable product experiences on Base, on USDC, using the Base app, et cetera? So it's a combination of liquidity and network effect.
+I do wanna talk about DEX trading.
+Okay.
+Which-
+Yeah.
+I think is super interesting.
+Does everybody know what DEX means here?
+It's... Do you wanna-
+You want me to do it?
+I mean, I can do it, too, but.
+You can do that. Okay, DEX is decentralized exchange versus centralized exchange. These are protocols that offer a matching engine for people to trade various assets and trading pairs in an on-chain manner.
+Correct.
+I'm glad I got it right.
+One of the more popular ones is, like, Uniswap, something like that.
+We're hyper liquid today.
+Or... Correct.
+Yeah.
+But how should... and DEX volume has been growing-
+Mm
+... significantly faster than centralized volume, industry-wide. How should we think about this integration potentially impacting the financial statements of Coinbase?
+All right, let's start with, yes, it's been growing, and it is a key reason why we're integrating DEXs into our centralized exchange. So why are DEXs growing? DEXs are growing because they offer users access to what I consider the long tail of crypto. These are the meme coins. These are the new assets that are issued, where they can spin up order books instantaneously. So, for example, when the Trump Coin was launched over the holidays, instantly that was on the DEX. There are steps for Coinbase to be able to offer assets on our centralized exchange. We do robust legal analysis, compliance views. We make sure that we can do on-chain tracing for compliance monitoring, et cetera. So the DEX moves with speed. It often has lower barriers to entry.
+People have self-custody wallets, so there's no KYC, and that has created a lot of adoption, especially when you look for these high-vol, long-tail assets. People have a lot of interest in those. So we wanna give our customers access to all of that. We also want to give them access to the centralized exchange, because that provides incremental benefits. So centralized exchanges typically have lower latency. You can get better pricing because of the deep liquidity that are offered on them. You can create the fiat-to-crypto on-ramps. You can connect to banking partners and create the bridge between the traditional finance and the on-chain worlds. We can offer product experiences that are differentiated. We can offer staking with rewards. We can have USDC rewards. We can create the integration between custody and trading for you to be able to sweep into a more highly secure.
+So there's differentiated benefits by centralized exchange. We are absolutely adding assets to our centralized exchange, but we want to provide the long tail as well and be able to move with speed such that we become the everything exchange. When you think of a new asset, you just have to come to Coinbase. You don't have to source that asset out in the ecosystem. And so that'll get us into economics. For the ability to be a one-stop shop, we do offer the same trading fees on the decentralized exchange that we do on our centralized. There's no spread on decentralized, but there is the same trading fee.
+Okay, that's helpful. Thank you.
+Mm-hmm.
+A big topic of late certainly is the Clarity Act, which passed the House, now is in the Senate for... And hopefully we'll have some news on that-
+Hopefully.
+Coming weeks. I think the biggest question that we're getting from investors is: What happens after Clarity? And I guess there's this view that there's this big U.S. institutional investor unlock that Clarity prompts, hopefully. I'd love to hear your view of how and at least your expectations on how you think the U.S. institutional world behaves after Clarity. Is it something that you see gradual adoption and growth, or do you have, you know, hedge funds banging out the door right now, getting ready, doing pre-work? How should we think about this?
+Regulatory clarity is the number one reason that we hear of institutional investors sitting on the sidelines. Now, plenty of hedge funds have already jumped into crypto, but the folks who haven't jumped in are the banks, are the traditional RIAs. So there's a lot of capital that is still sitting and waiting for the regulatory clarity to emerge. Like anything, I don't think this is, like, a big bang, like, instantaneously they're all ready to trade. I think everybody has been waiting for regulatory clarity, and then post-regulatory clarity, they will continue to assess: How do I want to offer crypto to my customers? How do I want to build it into my portfolio strategies? Which partners do I want to work with? Et cetera. How do I want to build the pipes?
+So I do think it'll be a slower ramp to growth, but I absolutely think it'll be another sea change of unlock of growth, similar to how the ETFs grew, similar to how you've seen the treasury companies create growth today. It'll be another kind of catalyst of growth. I think where we are going to see the most benefit from this is through our product, Crypto as a Service. So we are already enabling 250 companies to build crypto offerings for their end customers by building on a white label solution through our products. So we can be a sub-custodian, we can provide liquidity through our exchange, we can help route trades through our prime broker and do that all on a basis for banks, fintechs, other corporates, to build on top and offer it to their end customers.
+I think Clarity will unlock a lot of that potential growth for us.
+So twenty twenty-six, we may hear about new partnerships, new integrations, that kind of thing?
+I sure hope so.
+Yeah.
+The other thing I want to just share here is we are absolutely pleased to see the progress with the SEC and the CFTC as well. And so they are not sitting idly and waiting for Congress to act. But what the Clarity Act provides us is then law. It makes that even the progress that we may see during the SEC right now, it won't be reversed if we see an administrative change in-
+Right.
+three years, and so it's critical that we get through Congress, even though we may actually move with more speed through the financial regulators.
+I think we were having a conversation with somebody at the FDIC at one point, and it was, this was post Gensler, and they're saying, "That's, that's one thing I have to think about. The agencies are going to be writing rules for the next ten years on this stuff. I mean, yes, there is an unlock, but it's still gonna be an evolving thing over the coming years." So-
+Absolutely, but we're really pleased with the speed that they are also operating with right now.
+Fantastic to hear that. And these partnerships, obviously, I do wanna touch upon that a bit. You announced the integration with Chase, which is super interesting. I heard they're an okay bank. They're not the best.
+I kind of wish we had a Citi announcement-
+I know.
+-to share on this stage, you know?
+Tell somebody.
+Okay.
+Tell somebody. We can talk later.
+Follow up.
+Yep. But you can extend the premise to the partnership with Amex and the new card that's coming out soon, the partnership with Shopify, Stripe, PNC Bank. How should investors think about Coinbase's philosophy towards building new partnerships? And how important is this to the broader growth algorithm?
+Sure. I hope that when you hear all those names, it just underpins that we are the partner of choice, that we've built institutional-grade products and services that can serve some of the largest corporates here in the United States and globally. Partnerships are critical to our growth. I think that it unlocks a few things for us. I would put it in three buckets. One is product innovation. So partnering with Amex gives us the ability to offer a credit card where we can give crypto points back to our users, and just creates more utility and value for our users. So product unlocks. Two, there is customer experience benefits. So with Chase, a good example is, for mutual customers, it now creates better connectivity between their Chase experience and their Coinbase experience. Points can be redeemed for crypto. They can use their credit card to buy crypto.
+Just a more cohesive, better experience for shared users. Third, then, is access to new customers. Shopify is a good example here, where Shopify enabling crypto payments via USDC on Base to their merchants unlocks a new channel of growth for us, so grows potential user base to get the, you know, overall crypto ecosystem continuing to expand. So that's really the theme of many of the partnerships: product innovation, customer experience, new customer growth. And then on top of this, as I mentioned previously, we are really the white label partner of choice for many other customers to build crypto offerings on our platform. And so that's where we have over 250 names, which is the PayPal, the BlackRock, PNCs, here, example.
+They are using our technology and our infrastructure, whether it's custody, our exchange, our trading services, to end up offering that to their end customers, and so all of these, I think, will be big catalysts for growth for us in the future.
+You know, it's interesting, when you announce the Amex partnership and the Coinbase One version is-
+Mm-hmm.
+It's a perfect partner because membership has its-
+Privileges, yeah.
+Its privileges, right? And I remember the tag. I'm old enough to remember that tagline. And we get the question from investors, is, I'm sure it's a little bit of both, but it seems like it's a revenue diversification play by hoping to get more of your MTUs on a subscription plan.
+Mm-hmm.
+But it's also a membership acquisition or a user acquisition play as well.
+Right.
+I mean, do you think of it in that-
+Think of it in both ways. We think of this as attractive customer acquisition for the Coinbase One membership to shift more and more of our revenue to a more repeatable recurring pattern. 'Cause the card is only available to those who have a Coinbase One membership. So it will create stickiness to that revenue stream and acquisition, but also importantly, it then drives the buying of Bitcoin on our platform. It creates more and more people holding crypto assets in their wallet. And when you hold crypto assets, you're more likely to explore new crypto assets, you're more likely to explore, okay, I own Bitcoin, maybe I'll buy Ethereum, maybe I'll stake Ethereum, and then we can monetize in multiple different ways. And so we think that this will just unlock more and more crypto owners.
+Certainly, we know this in fintech, credit is a great user acquisition tool, but you have to be very careful.
+Mm-hmm.
+Obviously, I mean, can you just discuss some of the thoughtfulness you've put into building that product and managing things like-
+Yeah
+... like credit loss and fraud and things like that?
+I think it's important here that this is a marketing and distribution partnership, that we are not underwriting the credit on our platform.
+Okay.
+This will not be a balance sheet risk to us, nor a fraud or credit loss.
+Okay. That's, that's super helpful. Thank you.
+Mm-hmm.
+I do want to talk to you a little bit about some of the treasury plays. They've certainly gotten a lot of attention this year. How is Coinbase playing a role in this space? And do you see treasury plays becoming a large part of Coinbase's institutional business over time?
+Yeah. I think that we're pleased to see the growth of treasury companies. It's definitely the flavor du jour of twenty twenty-five right now. So for those who don't know, the treasury companies are, for all intents and purposes, securitization vehicles where they are offering investors exposure to underlying crypto assets, but via the form of equity or a preferred or convertible debt. And so they're raising capital and using that capital to go and buy crypto and then holding that crypto on their balance sheet. So in many ways, it's just another form of investment, just like the ETFs were another form of investment, giving ex- investment exposure to an underlying asset. What we see, and I think the benefit is, this is bringing, again, new capital into the space, because there are definitely funds out there that do not have the mandate to invest in crypto commodities.
+They couldn't invest in ETFs, and so now providing exposure via an equity, via a convert, via preferred, is bringing in new capital into the space. We benefit because, by and large, again, we are the custodian standing behind those treasury companies. They are buying the spot on our platform in many cases. They are financing those purchases, and so we are seeing the growth of our custody business, our prime financing, and institutional transaction volume via the growth of these crypto treasury companies.
+I do want to talk about Base. You know, in a previous life, I used to cover the smartphone industry in the early days.
+Nice!
+We used to track-
+PalmPilots, too.
+Yeah.
+We go back that far.
+I do have a PalmPilot, actually.
+I do, too.
+Wow.
+Yeah.
+It was great for Solitaire. I think that was about it, but we used to track, you know, when there was multiple operating systems, how many developers were on each.
+Mm-hmm.
+I kinda think of Base and some of these other chains that are coming out with some of your competitors and partners, a little bit in that vein.
+Yeah.
+So, recently, we've observed a really sharp increase in Base transactions and addresses in recent months. I suspect that's in part because of some of the new partnerships that you've signed, for sure. But if you could just walk us through, you know, what are some of the key behaviors and trends that you're tracking on Base? And how should investors think about the potential for increased activity over the next few years?
+All right. We are really excited about Base. Base is the fastest growing Layer 2 solution, and as we launched it, you are exactly right. Our sole focus was on attracting great developers to Base because, as I mentioned, network effects earlier.
+Absolutely.
+The more developers we can connect them with our Coinbase retail base, we can build applications, and it creates an ecosystem, so we are absolutely focused on developer growth, and we've seen breakout developers and breakout apps on Base. From there, right now, our main focus is on transactions, and our goal is to be growing, growing number of transactions at the lowest speed, lowest cost possible, and so one of the key announcements we made in Q2 was our initial goal for Base was one second, one cent transactions, and we've been pleased to move on from one second, one cent to milliseconds, millicents. I mean, so these are now incredibly fast, incredibly cheap, global transactions, and that is driving the cycle of developers then choosing and selecting Base to build, so that is the protocol. That is what you need to look at for the Base protocol.
+But we just also announced, and this is early Q3, so we're not gonna go too deep into it 'cause as I put this in the category of our venture product for us, is the Base app. So we've now built our own application on top of the Base protocol. And what the app is doing is it's combining trading, so you can buy and sell crypto. You can make payments. It also puts social. It's also integrating third-party dApps, and so it's brought in Zora, it's brought in Farcaster. These are social apps, very much like an X or like a TikTok or an Instagram, in the case of Zora. Online social. And the magic moment, and we also have decentralized identity. We have messaging in there, so it's a full-service, on-chain application.
+Brian talked about the magic moment on our earnings call that we're really seeing, and customers are on the wait list. This is in beta. Like, this is early days, but customers are having this magic moment of posting content. That content becomes coins, essentially, so it's a tradable asset, like an NFT, and people buy it. And buying it, they're not buying it to trade it, they're just buying it to basically give a tip, to be like, "I love that content." Like, "Coin you those research reports, Pete. Like, we can buy your research," and like all of a sudden, then you see that money go directly to your wallet.
+Yes.
+We have users around the world being like, "Oh, my gosh, I earned $500, or I earned $2,000, and I'm, I've never earned $1 before for social content." So this is the magic moment. As we start to think about the Base app over time, again, venture, new, I want to put all those caveats on it, the focus will be on users, and we'll look at that as monetizing by eyeballs and users and engagement on that platform.
+Seems really exciting, and I'm sure there's a ton of innovation that you're seeing on the platform there, and some new ideas and things like that.
+What I would say is the speed for engineers to develop on-chain with AI is development at a pace that is mind-blowing.
+I do need to touch upon AI. We touched upon it a little bit last year, and I completely recognize it is early days, but in my view, it's not what AI can do for cryptos, what crypto can do for AI.
+Mm-hmm.
+Perhaps maybe as a governance tool. We hear about these, AI hallucinations and things like that.
+Mm-hmm.
+You know, it makes sense that a decentralized ledger that's immutable could solve a lot of these issues.
+Yeah. They're natural companions.
+I'd love to hear, you know, what are some of your early thoughts on-
+Mm-hmm.
+On AI, crypto, perhaps serving AI?
+Yeah. The early experiments right now, we're investing here in our ventures portfolio. The area that we're focused on innovating for the Coinbase side of things right now are really through enabling agents to have wallets. Because one of the big frictions with AI is, can the AI agents pay? And they cannot pay with a traditional bank account. They can pay with a wallet. And so creating. We have a venture product called X402, which is enabling AI bots to use crypto wallets for our commerce product to facilitate payments on behalf of users. And so this is where we think the first traction will be. Over time, I agree, it's the how do we put content on chain so it's immutable, so we can then trace back to sources of origin that we all have trust in, et cetera.
+That's super interesting. Obviously, stablecoins have been a mega hot topic this year, but I don't want to talk about stablecoins.
+Uh-huh.
+But we already-
+We've covered that?
+I think you covered it.
+Okay. All right.
+I want to talk about the tokenization of everything.
+You know, we've hit a whole new, like, all-time high market cap with the USDC, but let's not. Stable coins are still on fire. Okay.
+I want to talk about the tokenization of everything.
+Yes.
+I mean-
+Yes, also exciting.
+The next area that I think we're getting calls on all the time is certainly tokenized equities. You're hearing about private equity.
+Yes.
+You could tokenize everything.
+Yes.
+There's been press reports that indicate that Coinbase has been seeking SEC approval to potentially offer tokenized equities. How is Coinbase thinking about the potential in the tokenized RWA, real-world assets opportunity, and why might Coinbase be the right venue to really start this?
+How should we win?
+Yes.
+Okay. This is the frontier. You see a new headline every week with somebody doing something in this space, but nobody has unlocked true equities on-chain to behave in the way that we think is beneficial and, like, on-chain native. On-chain native is on-chain dividends, on-chain voting and governance, like the ability to hold that in your self-hosted wallet, trade twenty-four seven. That is the vision and the experience that we seek to offer of on-chain securities. And that requires working with the SEC, working through new rules to enable this market, because the current rules for securities trading are archaic. They were written in a time before we had immutable ledgers, which is all good, but this is a very constructive SEC, where now we're working with what does it mean to offer a security on-chain in twenty twenty-fiv and for the next chapter.
+So working on the regulatory frontier, working on the product experience, but our ambition is to bring every asset on-chain and make it on-chain native and unlock the benefits of what an on-chain tradable asset means: less settlement risk, twenty-four seven trading, more clarity and transparency, broader distribution to people to be able to trade in their self-hosted wallet, to hold their own securities. It's like going back to, like, the thirties, where we hold physical securities in our wallet. Now you'll just hold tokenized versions of those in your wallet, and why we think that we are suited to win here is a few things. One, is we have a two-sided marketplace, where we have institutions, we have commercial customers, and we have a big retail distribution base. We have deep liquid markets. We are excellent at offering exchanges. We have a spot exchange.
+We have derivatives exchanges. We are uniquely enabled here. And then I think the opening and magic will be, we believe that we can offer a very differentiated experience through bringing all of these products side by side, to be able to be the everything exchange and trading spot, derivatives, futures, options, equities, predictions, all in one place. And being that unified new tech stack experience for that, we think will really be a competitive offering that people will be excited about.
+... thought of twenty-four seven equities trading.
+It's kind of exhausting, right?
+I think it scares everybody in this room.
+Can understand that.
+The only thing I ask is, please, no earnings call at 2:00 A.M. Gee, that'd be-
+You and me both. Yeah.
+But no, that's certainly a great theme right now that we're just getting tons of interest in. I do-
+So the AI bots will come in, where they'll work overnight for everybody.
+I can use that. That'd be helpful. Thank you. Investment balancing is always a topic where we're in a fun period right now, which we know is not always the case. But also, just as you said before, this unlock is really on the product innovation side. So now with the bevy of opportunities that you have before you, you're scaling derivatives with the integration of Deribit and the closing of that deal, hopefully shortly.
+Close.
+Close? That's great-
+Close.
+To hear.
+Mm-hmm.
+You're building a foothold overseas, so there's the international opportunity there. So you have a lot going on right now. How are you thinking about balancing expense management versus product, new product development, prioritization there versus profitability? It's a lot to balance.
+It is, so we made a commitment two years ago that we will be EBITDA positive in all market conditions, and we are abiding by that commitment, and so we have not changed our approach, quite candidly. We look at every year to be a, "Can we sustain a crypto downturn and still deliver our financial commitments? And if we do that, what can we invest? What is the potential expense envelope?" Then we divide that expense envelope into core strategic ventures. We always have dollars going to new things, so that is why we're putting dollars to tokenized securities, why we're putting dollars to growth of international. We are opening up new markets, as an example.
+We are very, very keen to keep our eye on how we invest in variable costs, such that if we need to reduce them, because any change in the revenue opportunities available to us, we can do so in a rapid way. This is an investment year. We have committed to hiring a lot this year because we do see all these opportunities, but like the Deribit opportunity, that's a highly profitable business that we're gonna be able to add and continue to then use that to drive even more growth in derivatives. I think we're being pretty strategic and prudent in where we're putting our dollars to work.
+The growth there is amazing.
+We have 75% market share in options. It's a pretty phenomenal deal.
+I think or triple-digit growth. I think last quarter, at least in volume.
+Yep.
+It's amazing. I'm very excited to see that fold into the model. I guess last question, you've made a number of investments in startups in recent years. I'd just love to hear you characterize where Coinbase Ventures is today, maybe versus where it was a couple years ago. And are you seeing more venture partners adding new investments-
+Hmm.
+there as well?
+Yeah. So starting in 2018, Emilie Choi, who's our President and COO, she brought forth the idea that we really needed to have an investment arm. And it was a brilliant idea and a great contribution by her because it has enabled us to really see what's going on in the ecosystem, really build a portfolio of customers, build a portfolio of business development partnerships, see where customers are excited, who's seeing unique growth. And we've continued to invest in this space to really just grow this ecosystem. We knew that we could never be the sole company in this space. The big change between then and now is our check size has gotten bigger, to measure it with our own size and balance sheet.
+The companies in the space are more mature, so there's more opportunity for follow-ons and creating follow-on investments, especially where we can do a business development deal along the side. We continue to be excited to put capital to work here. It's important for everyone to know that we hold this on our balance sheet at cost. So with the exception of Circle, which then went public, that is mark to market, like, the majority of these investments are held at cost. And so that doesn't reflect the true fair value of what we think this portfolio is, but we think it provides unique opportunities for us. The areas that we're focused on today, a lot in stablecoin and stablecoin infrastructure, a lot in DeFi, a lot of new things in application layers, and lastly, the intersection of AI and crypto.
+Fantastic. Well, we hit it on the nose. Perfect timing. Alesia, thank you so much. Always great to have you. Thank you, Alesia Haas.
+Thank you.
+Data Source: Quartr Last updated: Sep 3, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

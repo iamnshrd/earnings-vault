@@ -1,0 +1,348 @@
+TITLE: Bernstein 41st Annual Strategic Decisions Conference 2025
+DATE: 2025-05-29
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay, we're on. Okay, welcome everyone, to Bernstein's 41st Annual Strategic Decisions Conference. I appreciate you joining us today. My name is David Vernon. I cover U.S. Airlines, air freight and service transportation, and a bunch of other sort of things involved with moving people and goods around the world. We are absolutely thrilled to have Scott Kirby, CEO of United Airlines, with us today, as well as Kristina Munoz and Katy Murphy from the IR team. We're largely going to do Q&A. We do have a quick public service message from Kristina around required disclosures and those kinds of things. Then we will kick it off. Kristina, over to you.
+## Kristina Munoz | Head of Investor Relations, United Airlines
+Thanks, Dave. Today's discussion may contain forward-looking statements which represent United's current expectations based on the information currently available to the company. A number of factors could cause actual results to differ materially from our current expectations. Please refer to our latest earnings release, Form 10-K and 10-Q, and other reports filed with the SEC. We may also discuss United's financial metrics on a non-GAAP basis during this discussion. Please refer to the related definitions and reconciliations to the most directly comparable GAAP measures in our latest earnings release and investor update, which are available on the IR section of our website. Thanks, and back to you guys.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+All right, thank you guys very much. Again, Scott, appreciate you coming out and supporting the conference here. Big news today around the JetBlue partnership. Why don't you kick us off with some thoughts, expectations around the?
+## Scott Kirby | CEO, United Airlines
+I'll kick off on two things that are in the news recently: JetBlue and Newark. JetBlue, we are excited to have a partnership now with JetBlue. It's great for our customers. I've long been on record of wanting to have United back at JFK and, you know, having a real presence on both sides of the Hudson. We will have done that with this deal. One, we'll have our own metal in the market. By the way, it doesn't come until 2027 because that's when we have aircraft delivery delays, and we have a premium aircraft. We haven't rolled it out yet, but we will. A premium aircraft that's designed for transcom markets out of Newark and JFK. And so we need the airplane to roll it out. That's why it's 2027. It's going to be great for customers. I think it'll be great for JetBlue customers.
+You know, it's places that we have two complementary networks, between the two of us. We'll, you know, now be number one in Boston. JetBlue has a great presence at JFK. They're big in Florida. They're big in the Caribbean. That'll be really good for our frequent flyers. Their frequent flyers, of course, will get access to the world's largest global network at United. I think it's going to be a real win for customers. We're excited about the JetBlue deal. On Newark, I think mostly people have realized that safety was never an issue and is not an issue. I'll at least go through it to make sure that everyone understands that. At the FAA, there are three different facilities that control access to the airspace. There's the tower, there's the TRACON, and then there's the center.
+The way those three work, if any one of them has any issues, or goes down at all, the other two can back them up, and do back them up. You know, the things that have happened recently, Newark has been in the news. They're not unique to Newark. Those are things that are unusual, but they're routine. Dealing with them is routine, because we're trained for it. They have three levels of essentially control facilities, independent control facilities that can take control of airplanes. We also have a fourth system called TCAS on the airplanes that's completely independent of the FAA radars, where all the pilots have the equivalent of radar and can see all the other airplanes where they are in the sky relative to them. There's essentially four levels of backup for those systems. The question becomes, is it reliable?
+I think mostly that people have moved on to a question of, oh, but it can't, it's, but it's not reliable. The reality is for the first three and a half months of the year before runway construction started at Newark, the most on time of the three New York airports was Newark. You know, we just ha+d the best Memorial Day weekend that we've had in our recorded history. That's because the FAA is now managing the number of flights at the airport to equal the capacity of the airport.
+I've spent my whole career at United Airlines banging my head against the wall at the FAA, trying to get them to treat FAA, treat Newark like they treat JFK and LaGuardia, and like all the international airports around the world are treated and use, and manage the number of flights to be equal to the capacity of the airport. When the number of flights goes over the capacity of the airport, it creates operational problems and reliability and issues for customers. We have finally got a Secretary of Transportation who not only understands it, but is willing to do it, has done it, at Newark. What I think this means is Newark is still going to have a lot of flights. It's going to have slightly fewer than it had before. Actually, it's probably going to have the same number.
+It'll just be spread out over the course of the day, but it's going to be reliable. My guess is for the balance of the year, Newark will be the most reliable of the New York airports. It's also less crowded than it will have been. Unfortunately, at least for this summer, the prices are going to be cheaper because we took a hit to bookings, and so we have more seats open to sell out of Newark. Now's the time, if you're a customer, to buy at Newark and come back and try it. Financially, it did have an impact on us. Demand outside of Newark has remained. Hopefully, we're going to move on to long-term stuff, but demand outside of Newark has remained stable to maybe even a little better than stable.
+We would have almost certainly come in at the high end of our previous guidance range for 2Q had the Newark perception issues not happened, but they did. Probably puts us back squarely in the middle of the guidance range. Still in the range, of course, but in the middle of the guidance range.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+All right. So, while we're on the topic of FAA, obviously there's more capital being allocated.
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Maybe more attention from the administration. How do you feel about what's been announced and its ability to actually solve the problem?
+## Scott Kirby | CEO, United Airlines
+You know, I feel optimistic, you mean the right word. I think we're finally going to get the FAA fixed. You know, something I've spent a career trying to get done. It's, I think, going to happen now. It's going to be really good for customers, which is going to be good for investors ultimately as well. We're going to be able to fly much more reliably, much more efficiently. The Secretary Duffy, the President, like everyone is, and both bipartisan at the House, the Senate, as well. Everyone is committed to this. We have leadership that's going to do it. I also think we have an FAA administrator in Bryan Bedford coming in, who's a doer. He was the CEO of Republic. He knows how to build, how to manage projects.
+I think we're going to get it done. I, you know, I'll also, coming back to Newark, you know, I'm more optimistic about what is going to happen for our customers and therefore our own profitability, in Newark, looking forward than I've ever been, because the only way, there was only one thing that we needed at Newark, which was to balance the number of operations to equal the capacity of the airport. That is now going to happen, I believe. That will be, I think, permanent. That's going to lead to, you know, a much better outcome for it. By next summer, we'll, you know, we'll have a much better outcome for customers, which will be a much better outcome for our revenue, which will be a much better outcome for our earnings.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Is it your expectation that we go back to slot controls on a permit?
+## Scott Kirby | CEO, United Airlines
+You know, I don't know if they call it slot controls or something else.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+I think they're, the FAA is, they're not calling it slot controls right now, but effectively is.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay.
+## Scott Kirby | CEO, United Airlines
+They're managing the operations at the moment to 68 operations per hour. I think we'll get it back up to 77 operations per hour.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Mm-hmm.
+## Scott Kirby | CEO, United Airlines
+Stick it there.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay.
+## Scott Kirby | CEO, United Airlines
+You know, in the past, when it was, you know, the FAA says in perfect conditions, full staffing, good weather, it cannot run 77 operations per hour. Yet they let it be scheduled at 80+ for six or seven hours in a row. It just delays every day. I think we've finally got Newark fixed. It is a crown jewel. Like, it is the largest gateway. The United hub there is more international flights, gateway to Europe than any other hub in the United States. It is great. It is great for customers. It is great for the country. I think it is going to fulfill, live up to its potential now.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay. If we think about some of the communications you had with the market in the last couple of months, quarters, one of the themes that's come out of that is brand loyalty. Can you maybe elaborate a little bit on what that means to you for an airline to be pursuing the goal of brand loyalty and how it sort of changes the earnings profile, revenue volatility, whatever you want, however you want to think about it?
+## Scott Kirby | CEO, United Airlines
+I have spent my career wanting to decommoditize airlines, and that means winning brand loyal customers. When I say commodity, I mean not just price, but schedule. The number one reason customers choose an airline is schedule. You know, you take a nonstop flight over a connection, and so getting customers, but for many customers in much of the country, you know, the schedules between airlines are equal or approximately equal. At that point, how do you make decisions? Getting those customers who are choosing between multiple, you have a choice between more than one airline, how do you win those customers and get those customers to fly you? If you win those customers, when I say they're brand loyal, they join your frequent flyer program. They get your credit card.
+They're trying to earn 1K status or Global Services status. They're trying to concentrate their flying on your airline. They want to be able to get enough miles to take the family to Cape Town for vacation. They tend to be very sticky. They tend to be lifelong, hard to, you know, hard for someone else to win them away, easy to lose them if you do things bad to them. As long as you run a good airline, have good service, continue to invest in the product, those tend to be lifelong, sticky customers. That is why United has, coming out of the pandemic, has outperformed. We've won, like, I have all kinds of stats I can give you on where sort of hub by hub, how we have won those brand loyal customers.
+Winning those brand loyal customers is the key to, you know, is the key to success for us. It does not mean that we ignore the rest of them. Like I think I said this morning at the Wall Street Journal, you know, the price-sensitive customers are important. They are a high percentage of our revenue. Those kind of infrequent customers who are not really brand loyal, who shop on price and schedule, they are really important to us. We are not trying to win there. We need to hold serve there. If we do not hold serve, we are not going to win the match. We have to hold serve, but we are going to win with the brand loyal customers.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+In your mind, in that high value component of the brand loyal customer, what is United doing now that's maybe different than it was doing before you took over as an airline? As you think about the changes that you've made to bring you to where you are, right? What's been the.
+## Scott Kirby | CEO, United Airlines
+I do not want to make it about me, but I'll say the things that we're doing that are different than the past is, number one is the most important thing is how our employees treat you, how they make you feel when you fly. That's easy to say, maybe harder to do. I say that I have the easiest job of anyone at United because I only have one responsibility, which is to create an airline our employees are proud of. The reason I say that is because if our employees are proud of the airline, they want you to feel the same way. The captains will come out of the cockpit and talk to you because they are proud to be at United Airlines. I tell the flight attendants, they're the face of United Airlines.
+There's nothing we can do that's as important as you walk onto that airplane. There are two flight attendants standing in the galley who are smiling, who are happy, who are genuine, who care. You can tell whether it's genuine and if they care or not. There really is nothing more that we can do. The only way to get them to do that, like, you can't tell them to do that. You have to make them feel good about where they work, about their airline, about their company, and feel proud of it. If they do, then they're going to deliver for customers.
+Part of making them feel proud, however, is all the other stuff we do, like getting on the, you know, like getting on one of the airplanes that we've, and we're over half of our airplanes now with the, you know, new in-flight entertainment systems, the bigger bins, the lighting, everything on it. They are proud of that product. You walk through that airplane. Like our NPS scores on one of those flights are like 10 or 12 points better. Guess what? The TSA security NPS score is higher if you fly on an airplane with seatback entertainment. It's like 10 points higher. Like everything feels better, when you're doing stuff like that. The employees are proud of that product. The technology, you know, having the best app, in, in the business. We have by, I think every, I do not think anybody debates it.
+We have the best app by a wide margin for customers. Like, those kinds of things matter to customers. They also matter to employees, how they feel. On the app, by the way, while we, I told somebody at The Wall Street Journal this today, while we have the best app, I think there's so much more we can do. That is how we're going to stay ahead. Like, others eventually copy us. It surprises me how long it has taken some of our, even our large competitors to copy things that we do. We've got a bunch of ideas and things that we're going to do. We call it change the unchangeable at United, things that people think are impossible in airlines to do and no one even tries that we're going to do, to make the customer experience better. Those are hard to copy.
+The more and more we do with changing the unchangeable and those kinds of things, it's getting harder and harder for customers to copy. We're just going to win more and more brand loyal customers and take care of our existing brand loyal customers.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Thank you for that. It's really interesting to hear you kind of talk about the genesis around how you kind of make customers more brand loyal, right? Because sometimes I always think it's like, well, it's geography, right? Where do you live?
+## Scott Kirby | CEO, United Airlines
+Geography matters.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+If you're south of Houston, yeah, New York is an airport for New Yorker if you're in.
+## Scott Kirby | CEO, United Airlines
+Geography matters for sure. And there are some pieces like, you know, I pick a different area. If you live in Charlotte, North Carolina, you're going to be a brand loyal airline, brand loyal customer for American. Most, because they give you the best schedule, it's not anything bad. Like they give you something for that. Most people live in places where, you know, they have more schedule options. You know, they either don't live in a hub or they live in a hub that has lots of service. They live in New York City, they go to Newark or they can go to JFK. Like some people maybe live closer to Newark and it's more convenient. There are people have options. Customers have options, and they exercise that. You, and it's, I look at the data at every single one of our hubs.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+I can see at literally every single one how we've won brand loyal customers in the last few years.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Does this become then like the future of competition between the legacy airlines? Like trying to work brand loyalty into legacy airlines?
+## Scott Kirby | CEO, United Airlines
+I don't think legacy airlines is the right, I don't think it's even the right description anymore.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+There are brand loyal airlines. There's a continuum of brand loyal to not brand loyal, you know. I think there's two airlines at the top on brand loyal. The ULCCs are at the bottom. I, they're going to go out of business, because of that. Everyone else sort of fits somewhere in between.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+I guess as you think about folks kind of trying to recreate that same strategy as you mentioned, like, like getting to that level of, of customers.
+## Scott Kirby | CEO, United Airlines
+I think it's not possible. If I was another airline, I wouldn't really, I'd be trying to find a new strategy. Because here's the problem. Like a brand loyal customer, let's just take, you pick one of our competitive hubs, either Denver or Chicago, it's two different airlines. So I'm not picking on any airline, but, in either one of those places, like the only reason for a brand loyal customer to switch to another airline is that airline is demonstrably better.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Mm-hmm.
+## Scott Kirby | CEO, United Airlines
+Not equal to, not 60%-70%. So like, you know, if you're in Denver, you know, we have first class, we have clubs, we have international network, we have all these other things. You put one more of those things in and you're a customer, you look at the equation like, well, is which of those two airlines is better? Still United. You'd have to catch us and you would have to pass us to get customers to switch. It's hard to get, you can't just incrementally do one, two, three, four, five more things. You got to do all of it to get customers to switch, all of it plus. I can promise you we're not going to slow down. We're going to be doing more incremental stuff, I think, than anyone is doing trying to catch up with us.
+That is why Andrew Nocella says it's generational to make these changes. Like brand loyal, we're going to be the best choice for those customers, and we're not going to ever give that up.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay.
+## Scott Kirby | CEO, United Airlines
+By the way, I do think for those other airlines, doing things like putting first class on stuff will help them take their existing customers, they'll get more revenue from their existing customers. They'll be able to sell up, but it's not going to be a market share shift. They will be able to sell up within their own.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+Airplane, but they're not going to get a market share shift from United.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+I guess one of the things I wanted to ask you about in the context of some of those other airlines, either adding like a bigger front seat or a better snack package or assigned seating, baggage fees, things like that. In the low end of your sort of product offer, isn't that like a big price increase?
+## Scott Kirby | CEO, United Airlines
+It is, for them.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+I'm assuming there's a direct impact for you.
+## Scott Kirby | CEO, United Airlines
+I mean, I guess I think of it when they're doing that is we're pretty good at being what has traditionally been called a legacy airline. We're pretty good at being a network, full service airline, is a better way to say it.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Better way to say it.
+## Scott Kirby | CEO, United Airlines
+they're not. You know, Southwest had the best business model in the history of aviation, and they're awesome at the point-to-point Southwest, but they're the fourth best large legacy airline. The more they look like us, the better it is for us.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Excellent segue around, maybe helping investors understand what's changed in the industry. If we go back, call it 10, 15 years, we're out of the financial crisis. We're before the, whatever the great leap ahead or whatever and the overcapacity in the later part of the last decade. Times are pretty good. In that context, you had the discounters, Southwest growing faster, better margins, the full service network airlines, which is a better term. We're not in that position.
+## Scott Kirby | CEO, United Airlines
+Mm-hmm.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Fast forward, it's flipped.
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+How do we flip the script?
+## Scott Kirby | CEO, United Airlines
+I guess I'll say three things. Cost convergence, not really the issue, but cost convergence has mattered because it's made it harder for low-cost airlines to undercut us on price. The bigger thing is two. One I already said, we had to figure out how to hold serve on the cost-conscious customers. We had to, you know, it's probably 40% of our revenue that are that sort of price-sensitive customer. You know, you couldn't ignore it. We had to hold serve. Basic economy and upgazing the airline have allowed us to hold serve. The bigger thing that we've done is we have created a customer choice moat around the business for everyone else, for brand loyal customers. We've created a better airline that customers choose.
+That is a moat that is really hard for others to penetrate because you have got to do it. You cannot just breach the moat at one place. As I said earlier, you have got to do everything that United does at least as well as United does to get that customer in a competitive market to switch to your airline, to switch their loyalty to your airline. You have got to do everything. You cannot do one thing, you cannot do two, you cannot do 90% of it. You have got to do probably 110% to get them to switch. That becomes having a better airline for customers for that other 60% of revenue, which becomes a moat. We had to do both those things. You could not just focus on the 60%. I think it is one of the mistakes some of the network carriers historically made.
+Like, oh, I want to be premium, da, da, da. I want to do that. And sort of disdainful of the price-sensitive. When it's 40% of your revenue, you have to do both. You have to hold serve with price-sensitive and win with the brand loyal.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Do you think that shift, that flipping of the script between the network full service airlines and the discounters and the low-cost guys is permanent?
+## Scott Kirby | CEO, United Airlines
+It's permanent. It's structural. It's irreversible. Like, you know, if you're a customer, why would you switch to the other airline? We can compete on price when we need to, and we're going to always have the better product and service as long as we keep the better product and service. Why would a customer switch? It's all about customers and why a customer chooses an airline, and we've given them a structurally better product and service and reason to pick United. That's why I think it's structural, permanent, and irreversible. It doesn't mean that those other airlines can't find places to be really profitable. They can. The things that Southwest is doing, bag fees and change fees, I think it's going to make Southwest more profitable.
+It's not going to be market share shift. It's going to be generating more revenue from their customer base, which I think will be great for them. They are not going to get market share shift away from United because United's still better for our customer setup.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Let's talk a little bit about how you maintain that leadership position, right? You're obviously investing a lot in premium. You guys were kind enough to invite us out to see the new 787 Polaris Studio suites, which are fantastic if you're ever flying from San Francisco to Singapore someday. How much runway is there to continue to add premium amenities within?
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Within the landscape? Because right, we've added some extra seats. We've added some of the international sort of like the, not the lie-flat, but the recliner type of seats. Like as you think about the innovation sort of runway that you have to continue to kind of extract more revenue from the premium customer.
+## Scott Kirby | CEO, United Airlines
+I'll never say extract more revenue from the premium customer. That's your words. We are going to try to make it better and better for customers. I think there's a really long runway. It's not just about the product. How people feel, the product is great, but how people feel, it's about how people feel when they fly. How people feel when they fly is the product, the hard product in the airplane. It is how the employees interact with you when you fly. It's the technology. I mean, I think some of the coolest things we're going to do are on the technology front. We've started doing this today.
+We do it only on some flights, but we, I want us to get to the world where if there's any delay on your flight, I've asked that the goal is pretend that I personally am on that flight and I have called the network operating center and said, what's going on with my flight? I want to tell every single one of our customers on a delayed flight exactly what the operating center would tell me. A full explanation for that. I think that's going to be huge for how customers feel about flying. You know, I've sat on other airlines and, you know, like the board says, flight leaves at noon. It's 11:50 A.M. and there's no plane at the gate. Like you feel like they're lying to you. They're not lying to you, but they just don't have the systems and processes set up.
+We're better at it, I think, than any other airline in the world by a lot. I don't think we're in the first inning. We have not even really started. We're in the pre-game warmup to think about what's this game going to look like. It's things like that, I think, that can really set the airline forward. I have another goal, which is that when I get a lot of customer emails, and while I don't respond to them generally, I read them. Half of my email inbox is, I'm going to tell you something that we don't do well right now that we're going to fix, is we've lost someone's bag and the process of getting the bag back to you. We're terrible at doing that. By the way, every airline in the world is terrible at it.
+We do our best to not lose bags, but we're not good at getting them back to you when we do lose them. We lose less than 1%, so we don't lose many, but when we do, we're bad at it. We're going to fix that. Our goal is to get 80% of the bags back to the customer within six hours. We're nowhere close to that today, but that's the goal. The other goal is that we will get to 100% of customers before, if we don't have your bag on the airplane, they will text you before you land and send a message to your seatback screen, because everyone's going to have seatback screens, telling you, we're sorry, here's where your bag is. Here are the three options for you to pick to get it back to you.
+My goal is that while I do not want to lose bags, that when we do, we have a higher NPS score for our customers when we lose your bag than when we do not, because they are so wowed and surprised by how good we are at trying to fix the problem after it happens. Things like that are what we are going to do to keep raising the bar. The more that we do that, those are harder and harder for our competitors to copy. None of them are even thinking about it, and we are actively doing it.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay. You mentioned earlier, you know, the importance of how people feel when they're on the plane. A lot of that is the onboard experience and the flight attendants. You just recently, I think, announced a TA with your.
+## Scott Kirby | CEO, United Airlines
+Yep.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Flight attendants union. Is there anything you can share around the agreement that you've reached? As you think about the investments you've been making, I think you were bringing the flight attendants through headquarters and sort of getting that culture built up. I'd love to hear your perspective on where you feel that change management practices are. Are you there where you want to be in terms of employee engagement and commitment into the good leads the way sort of the marketing process?
+## Scott Kirby | CEO, United Airlines
+Yeah. We're never going to be there. Never be complacent.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Never get there.
+## Scott Kirby | CEO, United Airlines
+By the way, the other answer to the way you started that last question is never be complacent. Like, I'm not a worrier, but if I worry about anything, it's complacency. The better you get, the easier it is to be complacent. We are never going to be complacent. We're going to always work to get better. The same thing applies to our employees. Glad that we got a deal done with our flight attendants. They're awesome. They are the face of United Airlines. Like, people feel the way they do about United because of how our flight attendants make them feel. They spend more time with customers than anyone, and so they got an industry-leading deal, which they deserved, and I'm happy for them. Financially, it's been in our guidance, so it's still in our guidance.
+I guess we'll update the full year when we come out the next time, but financially it's in the guidance, but I am happy for them. I'm really proud of them also for, you know, sometimes at airlines when they're going through negotiations, it always takes longer than any of us would like, and it can lead to impacts on customers. They never did that. They were great with customers all the way through, and I'm really happy that they've got this deal. I think it's like, like I said earlier, that my job is the easiest of anyone at United because it's creating an airline that they're proud of. That is like anytime you're getting bad service, if you're getting bad service from employees on any airline, it's the CEO's fault.
+and it's the CEO's responsibility to fix it and the team's responsibility to make them feel good about it. I'm committed to doing that with them and always give them an airline that they're proud of. I get on airplanes all the time. Even when negotiations are going on, employees tell me how proud they are of United. It just like makes me burst with pride.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Like that's what I'm trying to do. I'm glad to hear you say it.
+All right. One of the things that differentiates you, I think, from any of the US airlines is the reach and scope of the international network.
+## Scott Kirby | CEO, United Airlines
+Mm-hmm.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Can you talk about what it is about the domestic network that supports that or what it, like, like where's the history there? Like, how, why is it that you have that advantage? Then we can talk a little bit about the economy.
+## Scott Kirby | CEO, United Airlines
+We were born on third base for international.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+I mean, you know, we've got the hubs in San Francisco, by far the best, global gateway for the Pacific. Newark, best, by far the best European gateway. Dulles is probably the second best international European gateway. We were just, we were born on third base for international. And then we have a great team led by Patrick Quayle, who's taken advantage of it, and found even more places instead of being traditional and saying, oh, you know, like all these Southern European destinations are too small. If you looked at the data, they were too small. We said, let's, he looked at more data because people do not fly to those places. They stop, you know, they go to, you know, Paris and then they, and then they go on to Sicily, or whatever.
+He looked at a lot about that data and said, I bet if we put a nonstop flight in that we'd win a lot of customers. And he was right. And, you know, expanding to places like Nuuk, Greenland is just, just cool, literally and figuratively. And Ulaanbaatar and, you know, so we got a really creative team. It starts with we were born on third base, you know, we got those three hubs. Our other hubs are also, all seven of our hubs are top 10 international originating markets and destination markets. You know, we just were fortunate to have good hubs.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+You guys are also, I think, doing some fifth freedom flying. Is that right?
+## Scott Kirby | CEO, United Airlines
+We are.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah. Can you talk a little bit about that? Because usually not.
+## Scott Kirby | CEO, United Airlines
+So.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+I don't think we talk about U.S. airlines.
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Usually we're complaining about Middle Eastern airlines.
+## Scott Kirby | CEO, United Airlines
+Yeah. We, so what we've done in both Hong Kong and in Tokyo. In Tokyo, we have a great partnership with ANA. They're aircraft constrained. We're flying places that they don't fly, and, you know, one, you know, we fly from all of our hubs into Tokyo. We can connect from all of our hubs to somewhere like Ulaanbaatar, but we also are getting a lot of feed from ANA. The ANA and JAL sort of have the pro good thing, but also creates a problem that their operations were sort of, their fleets were built for Narita and then Haneda opened up and so they sort of split it. Anyway, that's been really good for us. In Hong Kong, you know, we're going to fly to Vietnam and to Bangkok. It's an efficient way to use the airplane.
+It takes one airplane for us to fly each of those two routes. It connects to our US network, but it's really also sort of a way to, we don't have, we're aircraft constrained today on the right kind of airplane to fly to those markets nonstop. It lets us kind of test the market, and if it works, we'll fly nonstop from San Francisco to each of those two destinations. If it doesn't, we'll learn and it's a cheap way to learn.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay. As you think about the economics on that type of flying, like I agree with you, Nuuk is cool. I'm not sure if I'm going to go there. Marrakesh, you might have me next spring.
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Break, but as you're thinking about the economics on that kind of flying, how does that compare to the traditional sort of long-haul flying to the more saturated market?
+## Scott Kirby | CEO, United Airlines
+You know, mostly those have done even better. Southern Europe is the best example. Like we sort of opened up, our competitors have now come into it as well, but we sort of opened up a bunch of secondary destinations in Southern Europe. And they were some of our most profitable flying that we did. They're still going to be some of our most profitable, even with more capacity into them. Not all of them work. You know, we tried Bergen. That did not work. Not all of them work. That is the great thing about, you know, an airline, one of the great things about an airline. It also comes with a downside. Unlike building a hotel, you build a hotel in Nuuk, like you're kind of stuck. You fly a flight to Nuuk and it does not work, you do not fly it next season.
+Like not that big a deal, so we can experiment more, but mostly the experiments have worked out.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay. If you think about the relationship with Boeing and the aircraft, and the aircraft OEMs, obviously, you know, that's been one of the supply constraints that's been affecting the role of the United Next strategy. What's your perspective on where the OEMs are right now and how is that?
+## Scott Kirby | CEO, United Airlines
+I think Boeing in particular has turned the corner, and on their way to improving. I think the whole supply chain is broken, and it just exposes the next set of places that were broken. You know, engines are, I think, a bigger issue than aircraft. Fire furniture equipment. There's a whole bunch of airplanes that are parked in Europe waiting for seats. There's airplanes parked at Charleston waiting for seats to be finished and certified. I think the rest of the supply chain, you know, like whatever anyone has in their models for number of airplanes they're going to deliver around the world, I'll bet they're under. I don't even need to know what it is. I'll bet they're under for the rest of this decade.
+There's going to be supply constraints on aircraft because the whole supply chain, you know, it's very specialized. A lot of people that have spent 30 years, you know, working and, you know, as machinists and things in that area, and they all, many of them left during COVID. It's going to take at least a decade to get that fully repaired. From United's perspective, like, you know, we got lots of airplanes coming. We overordered airplanes intentionally.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Mm-hmm.
+## Scott Kirby | CEO, United Airlines
+Expecting supply chain challenges. They've been even bigger than we thought, but, you know, net, net it's probably a positive for us on a P&L because of the supply changes around the world. By the way, I think, on the supply point, you know, if you look out over a decade or long, you know, decade, long term, if you look at long term, I would put a lot of chips on the long-haul international. I think the long-haul international fleet, yeah, I think they'll get back to building the same number of airplanes, but we got to, you know, because of COVID, there's about a 15-point drop in supply,
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+Compared to normal trend lines that I think it's going to be really hard to recover from. You know, they're not, we're not building new runways at big airports around the world. You know, we talked about slots earlier here at Newark. Every big airport in the world is slot constrained. You know, us flying to Manila, like you can't imagine the amount of work that it had to be for us to get slots to fly into Manila, including getting the State Department to help us get slots in Manila. There's going to be, I think there are very real supply constraints on flying around the globe, because of lack of slots.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+I mean, that's good for, I guess, near-term revenue from an investor standpoint though. Does that worry you long term about the ability to renew the fleet? Because over time, right, these things you either need to get fixed or.
+## Scott Kirby | CEO, United Airlines
+It's about growth.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+You know, the question is how much to limit growth. Renewing the fleet will be straightforward. And typically I think, you know, we are able to, you know, to get into a place like Manila, you know, or one or two flights. So I think we'll be able to continue to grow, you know, international, not at super high rates, but at reasonable rates, internationally. We're also adding, you know, we, because we're born on third base with our hubs in Newark, Dulles, and San Francisco in particular, you know, we can fly to places that other airlines just can't. Not a knock on them. They just don't have the right hubs for flying to those places.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay. So, you know, if I were to, if we were to look out, obviously the industry's changed a lot from that mid-2010s to where we are today. If we fast forward 10 years and you were looking back, how's the industry, how does the industry shake out from here, from your perspective?
+## Scott Kirby | CEO, United Airlines
+Yeah. I think that there are probably a couple of global full-service airlines that are both premium and holding serve.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Mm-hmm.
+## Scott Kirby | CEO, United Airlines
+that are the two most profitable, have the highest margins. I think there's a couple of those. I think there's the ULCC kind of budget business model. It may still exist, but it should be a niche. It's a niche. It's flying small cities to Vegas and Orlando basically, maybe other beaches, but it's a niche. In one way, shape, or form, it will have been shrunk down to that niche. In between, you know, hard to know for sure where that shakes out. I think there's two airlines that gave themselves a huge head start, and it's going to be really hard to catch.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+As you think about the rest of the country, because one of the things that's happened out of COVID is we've sort of, you know, reduced the number of cities getting sort of scheduled service, right? Is there room for something in that part of the market?
+## Scott Kirby | CEO, United Airlines
+You mean the, like what?
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Like secondary markets, Cedar Rapids.
+## Scott Kirby | CEO, United Airlines
+I think Cedar Rapids is mostly going to get served to the hubs.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+To the hubs.
+## Scott Kirby | CEO, United Airlines
+there's not big enough, you know, to.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+To fly. Now, that's the niche that I think worked for the ULCC model. Cedar Rapids to Orlando or Cedar Rapids to Vegas. Small city to big city.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Mm-hmm.
+## Scott Kirby | CEO, United Airlines
+You know, Andrew Nocella is fond of saying you can fly to it from nowhere to somewhere, or from somewhere to somewhere, but you can't fly from nowhere to nowhere. That's a little critical, but you can't fly from two small cities. There's just not enough demand. You can fly from a small city to a big demand destination like Orlando or Vegas.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+You can't, it doesn't work to fly to another small. There's just not enough people that want to go.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay. So, one of the questions from the audience that I have in here is about how maybe you're using AI technology, things like that to enhance the customer experience either, you know, from the time they arrive at the airport or even before.
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+To the time they get to destination.
+## Scott Kirby | CEO, United Airlines
+My guess is we're probably doing more with AI than anyone. A lot of it's still experimental. Some of the best use cases that we have right now, one in call centers, like it's great in call centers for every business, and we're doing that. What I talked about earlier, we call it Every Flight Has a Story, where I want to tell customers what's going on on their flight as if I called. AI is really good at that. We're going to need AI to do that. That's what we're going to be using. I think that's going to be one of our best use cases that we currently have envisioned.
+One of the interesting things that we've used, like this sort of seems small, but like our, you know, we have these labor contracts that have been in existence for decades, and they have provisions that were written, you know, at a time, you know, different era, you know, wouldn't even apply today. All these contract provisions, you know, and they cross, they confuse, they're confused with each other. They're hundreds of pages long. We have specialists that are like for interpreting the contracts and like, into this situation, what does the contract mean and what happens with your schedule and things. It turns out that AI is better than the people, than the people, more accurate and obviously faster at getting it done. It's those kinds of things that have worked. We're using it. We're trying to use it.
+You know, like one of the use cases that everyone thinks ought to be good is, predictive maintenance on airplanes. We have some isolated cases where that's worked, but, you know, the truth is it hasn't worked out. We're still experimenting with it. We're still investing and trying to do it, but it hasn't worked as well as we thought. You know, I'm excited for what we can use it for to do some of the kinds of things I talked about before about telling you what's going on with the delays, baggage recovery. Those are places that AI, I think, can really play.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay. And then if we think about capital allocation, buybacks, dividends, those kinds of things, is there, is a reinstatement of the dividend kind of on the runway or how are you thinking about returns to shareholders?
+## Scott Kirby | CEO, United Airlines
+First, returns to shareholders, you know, I think of it as, we have three things financially that I think are important for us. I said this to our team back when we were in COVID that we were going to do coming out, carry more cash on the balance sheet. You know, when COVID started, we had $6 billion in the bank and we had $6 billion. Well, actually we had $8 billion because we went and raised $2 billion two days before the NBA walked off the court. At the end of February 2020, right before it started, we had $6 billion. We also had $6 billion of air traffic liability, which is revenue that we have in our bank account because customers have prepaid for tickets and have not flown yet.
+Meaning if they all wanted a refund and they did, we had zero, effectively in the bank. We can never be in that position again. We are going to carry more cash on the balance sheet than we did before. We need to have the industry-leading margins. In my career, every time something bad has happened in the industry, whoever started with the lowest margins, of course, was the first to start losing money, bleeding cash, and had to make adjustments. When they make those adjustments, it makes it better for everyone else. We need to have industry-leading margins. We have done that. We need to have a stronger balance sheet. Our balance sheet, our leverage is back to, you know, better than it was. Our net debt is less than it was pre-COVID.
+Our leverage is back a little bit better than it was when COVID started. Our target is to continue to get that down to about a leverage ratio of two times. Right now we're spending, using some of our free cash flow. We're allocating it partially to share repurchases and partially to continue to pay down debt. When we get below two times, you know, we can allocate more towards shareholders. The question about dividends to me is more a multiple question than anything else. When we're trading at our current multiples, we're going to do share buybacks instead of dividends. It's just crazy. I think we're going to have a higher multiple. You know, I think, like, I think you look at this year, it's going to wind up being remarkable.
+We've been in at least a shallow airline industry recession. Maybe not the whole economy, but we have been in airlines. We're going to have Newark happen this year. I'll put that aside. Like, literally, we got on our last earnings call and if demand stayed stable, we were going to grow earnings in a recessionary environment at United. We're trading at what, even now, six or seven times earnings. I mean, it's crazy. I don't think that's going to last. I think especially going through a challenging year like this and demonstrating that we have earnings resilience in a challenging year and earnings growth in years to come is also going to change the multiple.
+As long as the multiple is, you know, we're close to what it is now, I at least am going to be pushing for share repurchases. I'm pretty sure the board supports that. Dividends do not come until we have a meaningful higher multiple, I do not think.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+In your discussions with the board, is there, you know, you mentioned having more cash, but if you think about the level of leverage, right, one of your peers is working towards, you know, getting to like one times to EBITDA. How do you think about target leverage in a post-COVID kind of world? If there is a way to think about it.
+## Scott Kirby | CEO, United Airlines
+You know, I focus actually, to be honest with you, more on net debt, because leverage ratios can swing so much on the,
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Aircraft.
+## Scott Kirby | CEO, United Airlines
+Denominator or, or yeah, the denominator. And, and so I, I focus a little bit more on the net debt. If we get it two times, that seems like a pretty good target. I think most, you know, investment-grade related companies are, are in that area. Seems like a good area. When we get there, we can also reevaluate to see if we should get, should get lower. Again, in a world where we're trading at seven, you know, seven times less, you know, our earnings, like if we get there, if we're at 15 times and we get to two, a lot easier to rationalize going to one than if you're at seven.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay. And you know, in response to your commentary before about the supply chain being kind of broken, right? Boeing's CEO was here and did a fire safety chat earlier today. I was talking about actually things being.
+## Scott Kirby | CEO, United Airlines
+Where's the fire, by the way?
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+What's that?
+## Scott Kirby | CEO, United Airlines
+Where's the fire?
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+I don't know. I tried to get him to put two, like.
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Folding chairs and we can sit in the Basic or the.
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+The upfront. One of the things he talked about was things are getting a little bit better, right? You are telling us that everything is kind of bad. What are you seeing? Like.
+## Scott Kirby | CEO, United Airlines
+I think those are totally consistent. Things are getting better at Boeing.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Yeah.
+## Scott Kirby | CEO, United Airlines
+It's just exposing the other rocks.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+The other rocks in the river.
+## Scott Kirby | CEO, United Airlines
+Yeah.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+All right. Very good. As we think about, kind of what your goals are, right? You've had a tremendous first couple of years in the seat at United, and I'm sure you've got many more ahead of you. How are you thinking about setting the goals for yourself around what you want this company to be and where do you want it to be in that three to five-year period? If you can kind of paint us a vision for what you want this thing to look like for next.
+## Scott Kirby | CEO, United Airlines
+I want us to be the best airline in the history of aviation. Unequivocal best airline in the history of aviation. That means doing things that no one, like almost not being an airline. In fact, that's the way I'll say it. I want us to be a loyalty machine that runs an airline, that customers love us, that our employees love it, and that our customers love us. We have a great loyalty machine. We're a great brand with loyal customers who happens to fly an airline.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+What do you need to do that you're not doing today in terms of running an airline around that loyalty proposition? Like where do you want to invest outside of going to Newark or going to Marrakesh?
+## Scott Kirby | CEO, United Airlines
+I mean, it's those, it's doing all those things plus. I mean, I think a lot of the things I talked about today, like having the technology, using technology, changing our processes, changing our mentality, our culture to be open, transparent with customers, to, you know, focus on the places where instead of like just saying, "Oh, we're really good at not, at having a low mishandled baggage rate." Okay, that's true. But if we lose less, even if we lose less than 1%, how do we make those customers feel good? Finding all the places that we can be better and constantly trying, and constantly pushing, to be better. We have a once a quarter where we go now offsite on these change, the unchangeables, and the whole team actually, they come to my house. We are like not in the office.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+I've heard it's like a resort.
+## Scott Kirby | CEO, United Airlines
+Yeah, it's nice. We, they come to the house and we spend a day, you know, with the whole team, like not looking at what's going on on a day-to-day basis. Like where are we, you know, here are these change and unchangeable products. Some of them are one year, some are three years, some of them are five years. Like where are we on each one of these things? I'm not the one making decisions, but because I care about it and because they come tell me everything that's going on, you know, it makes a difference. We're going to get stuff done that no other airline in the world has even contemplated doing that we're working on right now.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Does that include sort of working on adjacencies, like around the travel, travel sort of experience or?
+## Scott Kirby | CEO, United Airlines
+It might. I think as we get more, I think creating the brand loyal program that people love is the platform to do other things. It can become the snowball that gets bigger and bigger and includes more than airline. I think it does include more than airlines. Our vision is more expansive. That does not mean buying anything, but like having partnerships.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Basically stagnating.
+## Scott Kirby | CEO, United Airlines
+Having partnerships that make it the loyalty program that is a must-have, you know, like the must-have loyalty program that people aspire and want to be in.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Does that, when you think about that loyalty program, is it the United program? Is it Star Alliance? Is it, or one a component of the other? Like how do you?
+## Scott Kirby | CEO, United Airlines
+I don't know how we, you know, it certainly starts as United. It starts as United and.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Okay.
+## Scott Kirby | CEO, United Airlines
+Let's see where it goes from there.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+All right. We're coming up here to the end of the hour. I want to maybe give you an opportunity to think about your vision for the company being the best airline. What does that going to mean from an investor standpoint? Investors who traditionally looked at this sector and said, "Early cycles are okay and late cycles are okay.
+## Scott Kirby | CEO, United Airlines
+I think it's going to be good for investors. Of course, I think that. But I think it's going to do, and I think we're proving that this year is, you know, we're going to always, we're in a cyclical industry. We are cyclical. But the downside, the downside part of the cycle used to always be we lost money and like the world was coming to an end. I think we're going through a mild down period now. You know, we're going to maybe even be able to grow earnings this year, even with that and even with what happened at Newark. Like, you know, we're in a much different place. We're going to have, we're going to have earnings resiliency in a down cycle. And this winning customers has been working, is working.
+Like it's remarkable to see how United is performing in absolute or relative to others. We're going to keep doing that. I think our margins are going to grow. I think we're going to settle somewhere in the mid-teens margins, I guess 13% or 14%. That's going to kind of be our normal pre-tax earnings margin. That's what I think. I do not have proof of that, but I think the things that we're going to do are going to lead us to that point. We're going to be able to be resilient even in a down cycle. I think that is going to not only have higher earnings for us, which would obviously lead to the share price going up, but it's going to reward us with a much better multiple than we have today.
+I think you're going to get both of those things as an investor. The strategy that we have, it's not a new strategy. We're not, I'm not, we're not asking you if you're buying United stock, we're not asking you to buy based on some new strategy or some new spreadsheet of here's all the initiatives that we have. We're going to keep doing what we've been doing. It's working and we're going to stick to it. We're going to keep doing it. It's been working. It's going to keep working.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+All right. I want to thank you again for coming out. I learn more in these sessions than I probably learn in the last time.
+## Scott Kirby | CEO, United Airlines
+Oh, it's nice to see you.
+I don't know if it's true or not, but nice to see you today.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+It's a wonderful time to have you here, and we're very pleased you came out to support the conference.
+## Scott Kirby | CEO, United Airlines
+Thank you.
+## David Vernon | Managing Director and Senior Analyst, Bernstein
+Thank you everyone for joining us for the fireside and enjoy the rest of your time.
+Data Source: Quartr Last updated: May 29, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

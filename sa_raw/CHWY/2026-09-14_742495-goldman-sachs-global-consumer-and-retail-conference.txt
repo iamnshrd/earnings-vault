@@ -1,0 +1,191 @@
+TITLE: Goldman Sachs Global Consumer and Retail Conference
+DATE: 2026-09-14
+## Eric Sheridan | Analyst, Goldman Sachs
+All right. I think in the interest of time, we're going to move on to our next fireside chat. For those who don't know me, my name is Eric Sheridan. I'm Goldman Sachs' U.S. Internet and Entertainment Analyst on the research side, and it's my pleasure to have Chewy here at the conference this year. Sumit Singh, CEO. Sumit, welcome to the conference.
+## Sumit Singh | CEO, Chewy
+Thank you.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay, Sumit, before we get into it, I'm going to dust off my legal degree. Before we begin, please note that today's discussion may include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied. For a discussion of these risks, please refer to the Risk Factors section of Chewy's most recent Form 10-K and its other SEC filings. Forward-looking statements speak only as of today, and Chewy assumes no obligation to update them except as required by law. Let's kick off with the journey you've been on. We take a step back before we take a step forward. The company has been on a journey where you've evolved from a pet retailer to a broader pet care platform.
+As you look at the mix of businesses today, where are you most pleased with the progress, and how are you thinking about the journey ahead?
+## Sumit Singh | CEO, Chewy
+Thank you.
+## Eric Sheridan | Analyst, Goldman Sachs
+Sure, Sumit.
+## Sumit Singh | CEO, Chewy
+Most pleased with our focus on rebuilding the supply chain and technical infrastructure of the company, then layering the food and med side of the house on Autoship. What that has done is it's given us the stability and the predictability to be able to invest those cash back into growing a very large health TAM, which we decided to enter in 2018. Health is $50 billion. $12 billion- $15 billion comes from products, merchandise, meds, diet, health and wellness supplements, flea and tick, et cetera. That's one. The second thing I guess I'm most excited about then is the health growth, given the large TAM and the need to step in and drive a much improved mousetrap in what the industry has been used to over the last several decades. There, we started with the product space.
+We quickly became the number one pet pharmacy in the country. We currently continue that position of picking up $0.70 of every dollar that is moving online into the meds and product space. In 2024, we entered into the veterinary space more seriously, into the health services space by, A, building a software for veterinarians, which is now used by half the veterinarians in the country, then applying that technical capability into launching our own clinics, for which we have 60 now. They're performing better than the case that we laid out. I know we'll talk about them, so I won't go into this in detail. Broadly speaking, if you look at incremental growth on Chewy, over the last six years, we roughly added, I would say, $9 billion or so of incremental growth. Four out of the nine have come from Chewy Health.
+If you look at the last seven years, or six or seven years of us going public, gross margins have gone from 18% to roughly 30%. A third came from Autoship, a third came from health, and a third came from us rebuilding our supply chains like we have.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. There is a lot in there, and I do want to unpack a lot of it, but let us start with the consumer as a jumping-off point. You play in both sides of the consumer landscape with a lot of discretionary and non-discretionary purchase behavior on your platform. What are you seeing in terms of consumer behavior today, and how is it informing your outlook for spend through the remainder of the year?
+## Sumit Singh | CEO, Chewy
+Yeah. I think let us start a bit higher. Let us talk about consumer behavior and also attributing their intent towards the category in itself, because I feel this is an important one to address. It is true that the pet industry is seeing a little less enthusiasm in terms of customers actively voting to participate in discretionary categories. However, what is important to recall is that, go back to January and how this year started, right? The narrative that you heard from me on a stage like this was, "Hey, we are excited about coming into 2026. We are seeing normalization starting to occur.
+We are seeing adoptions starting to run in front of relinquishments, and pet parents are leaning in with their wallets." We had estimated 150,000 - 250,000 net adds, and we had said, "Hey, if the year essentially turns out to be like 2025 was, we essentially expect a net add acceleration in the back half of the year." Right? What happened in March and April post the war, as soon as the war started, we started seeing some signs of customer pullback, particularly tied to fuel, tied to stress in the marketplace, and that impacted attachment rates. We essentially also came back and readjusted our forecast. The two changes that we made was we said, "Hey, it is April. We don't yet know whether this is going to stabilize or not. We're going to leave it as the JPMorgan conference."
+We said, in Boston, we said, "Hey, we're going to leave it as we've seen trends worsening. We're going to readjust our forecast a bit." What you heard from us now is we've said, "Okay. We've seen this trend for a few months now. Trends have stabilized. We see adoptions and relinquishments roughly at parity. We see food and meds at Chewy running strong, and we see our health services outperforming our forecast relative to what we had in April."
+Some part of the narrative that you're hearing about the dog population slowdown and the cost leading to slowdown in vet services visits, yes, the dog population has slowed down a little bit, but we're not seeing the second part of that equation come true on our side. That's one. Number two, when we go pulse shelters and rescues, in this country, shelters and rescues drive roughly 2/3 to 70% of the adoptions in pet. The rest come from breeders. We talk to both communities. Shelters and rescues, yes, dogs are slightly under-running, cats are over-running. Overall, it's a balance. But when they pulse consumer intent, the intent stands as strong as ever.
+We view, and on the breeder side, breeders have seen no slowdown in these kind of elevated breeds that caught popularity in the last 10 years. All they've seen is their Goldendoodle that they used to be marketing for $2,200 a puppy is now selling for $4,500 a puppy. They're still producing an equal number of litters. What that tells you is that on the shelters and rescue side, it's what we consider a pent-up demand rather than any sort of specific fracture in the inputs of long-term trend in the industry.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. Maybe I'll bridge from that to active customers.
+## Sumit Singh | CEO, Chewy
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+Talk a little bit about that.
+## Sumit Singh | CEO, Chewy
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+The company went through a period coming out of COVID where you struggled with customer growth, and you've seen a market improvement in customer growth and retention this year. Talk a little bit about what you've learned about the consumer from a growth and a retention standpoint this year, and how it informs your view of where we're going in terms of the medium term for that metric.
+## Sumit Singh | CEO, Chewy
+We feel quite good about our ability to attract consumers and particularly attract them from. In market, you can grow two ways. You can either bring customers over who are shopping somewhere else, or you can accrete net new customers entering into the category.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+We've already established that the pain that the industry is seeing is this net new customer entrant into the category.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+On an average, you should expect 10 million- 12 million pets to come into the market every year in a normalized market. That number is running quite a far bit below that. Even with that, our ability to pick up and add increased gross adds today with these customers shopping an existing retailer is running higher than our gross adds in 2019. What that tells you is that the propositions that we have launched with, which is improvement in hard goods that has driven hard goods growth, has brought in many customers over 2023 timeframe into hard goods. Our accelerated pace of pharmacy continues to drive customer growth into the pharmacy business. Fresh, we are leading the innovation and go-to-market from a fresh standpoint.
+We have the largest number of brands set up on a built-out supply chain, which we don't have to invest in because we already passed the investment cycle, which we are now accelerating into the growing fresh and frozen TAM business. Net new products like Chewy+ have brought in new customers. We're about to go to market with a new and improved Chewy+. I feel like our ability to continue to drive net adds in this range of 150,000- 250,000 in a market that perhaps, if the market chooses not to recover or stay in this current state for a bit longer, we're not concerned about that.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay.
+## Sumit Singh | CEO, Chewy
+You heard me say our aspiration is to drive high single digit to low double-digit growth.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+There are two inputs into that growth algorithm. Net adds increasing low to mid-single digits, NSPAC increasing mid to high single digits. We are currently staying at low single-digit net adds times mid-single-digit NSPAC. That's what gives you this 6% to 7%, 7% to 8% kind of growth, right? We believe we have it in our ability. I'll talk about our ability to accelerate growth past the organic growth that we're delivering. But when the market normalizes, you should expect us to be on the high end of both those metrics.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+Mid-single-digit growth in net adds and high single-digit growth in NSPAC is what we would expect when the market normalizes.
+## Eric Sheridan | Analyst, Goldman Sachs
+Let's stick with NSPAC or spend per active customer and try to drill in there a little bit. What are you seeing right now from a mix standpoint and a pricing power standpoint when you think about all the various categories that you participate in the broader end demand environment of the industry?
+## Sumit Singh | CEO, Chewy
+Yeah. First, from a unit economic standpoint, our unit economics on an AOV basis has held up really well even though we have communicated to you the pressures in attach. So what's happening is consumer household, right? The average consumer household allocates a budget to pet. With the inflation that the industry's seen over the last few years, right, more of that budget is being eaten up by food and meds, and therefore less to be allocated to discretionary. Sure. You should expect AOV to come down. Our AOV has gone up all these years. Why? Because, A, yeah, sure, inflation helps. But, B, broadly, Autoship helps. An average Autoship order is mid-single digit higher AOV than a non-Autoship order for us. Number two, our penetration of mobile app has essentially doubled over the last three years.
+We have a lot more opportunity to grow in mobile app. Mobile app customers are stickier, more Autoship penetration, frequent visit repeat rates, and higher AOV in their behavior. Overall NSPAC. About a fourth of our customers are Chewy pharmacy customers. We have continued opportunity to develop existing customer base to buy more pharmacy. Today, half the customers in market do not know Chewy sells pharmacy. So if you'd combine this question with what do you guys want to do differently in marketing? We want to go to market and earn more points on unaided awareness and familiarity. So if I asked you, an average customer, do you know Chewy sells pharmacy? You'd say, "Yeah, I thought so." But if I asked you in general, where can you buy your pet meds? Less than half the people today say, I can buy them from Chewy.
+We run the largest pharmacy in the country. We have a ton more room. Every time an existing Chewy customer becomes a pharmacy customer, NSPAC expands by $300-$500. Our marginal cost on that transition is very efficient because you already are an existing Chewy customer. Our NSPAC expanders on the health space are very credible, whether it is pharmacy, whether it is supplements, where we lead market share today, whether it is diet, where we lead market share, or whether it is clinics that are the fastest NSPAC compounder. On the other side, it is Autoship, but it is not just base Autoship. It is getting to get more number of prescriptions attached to a customer. That is the work that we are doing right now.
+## Eric Sheridan | Analyst, Goldman Sachs
+I do want to stick with that theme on Autoship, just the evolution of it, because it is obviously, as you referenced in your first question, been such a big, powerful driver for the business, the percentage of revenue that comes from Autoship today. Talk to us a little bit about how you see Autoship evolving over time and maybe feedback to your last comment there of how it could impact either wallet share or market share when measured against the broader industry.
+## Sumit Singh | CEO, Chewy
+Yeah. On Autoship, this is a question that I have sort of asked myself also all the way back into 2018, 2019 when Autoship was mid-50s. You have to appreciate what has driven the growth of Autoship to be able to appreciate what continues to drive the flywheel of Autoship. What has driven the growth in Autoship is, Autoship layer cake building is a combination of gross Autoship adds and net Autoship retention. There is both an add and a churn prevention effort that is required. Up until a couple of years ago, we were not focused on Autoship retention. Sometimes it is surprising for people to hear that, but it is true. We were focused on opening up the funnel wider. What we have done is we opened up our eligible assortment into Autoship. Pharmacy was a big boost into Autoship revenues.
+We developed products that made Autoship pricing much more transparent to customers, and therefore the attach rate was starting to go up there. Then a couple of years ago, we started focusing on retention of Autoship, specifically settlement rates into Autoship. We do not give promotions, mind you. This is not about me incenting you to settle down. This is me being mindful with my relationship because I have a one-on-one relationship with the consumer. My engine now predicts when the next frequency, next order is due, and if it comes off that curve that I expect to build for a certain cohort, I can lean in with an intervention. The intervention is essentially just perhaps a reminder or perhaps just catching you as you are getting ready to order, per se.
+Autoship, now our effort, this product that we developed in the beginning of the year that we had actually included in our forecast, we talked about this in our Q1 call, is this notion of accumulating personalized signals from Pet Profile, ingesting those, and getting the customer to attach other lines of merch categories into the Autoship product. So expanding Autoship beyond food and meds. From a market test point of view, the product works.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+But currently, given the pressure generally on attach, our expectations were not as strong as what we had forecasted coming into the year.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay.
+## Sumit Singh | CEO, Chewy
+That's what you saw us pull back in terms of revenue pullback.
+## Eric Sheridan | Analyst, Goldman Sachs
+Got it. But that's still something that's on the roadmap.
+## Sumit Singh | CEO, Chewy
+Oh, 100%.
+## Eric Sheridan | Analyst, Goldman Sachs
+Right. Okay.
+## Sumit Singh | CEO, Chewy
+The agentic world, you heard me talk about us continuing to lead in agentic.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yep.
+## Sumit Singh | CEO, Chewy
+You should expect us to launch customer-facing AI products that allows us to not only aggregate search demand, but improve the efficacy of search and discovery, and therefore conversion of that demand on our platforms.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+Which is currently something that we internally are contemplating and testing in beta modes, but we haven't yet announced public market launch announcements to, nor are we forecasting revenue behind.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yep. Understood.
+## Sumit Singh | CEO, Chewy
+It could be a credible driver of revenue in the future.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah. I do want to turn international. It feels like we've had a conversation about international for a number of years, and then you finally launched the Canadian market a couple of years ago. Talk to us a little bit about the lessons learned from the Canadian launch and what those lessons might mean for the potential to expand into other markets over time.
+## Sumit Singh | CEO, Chewy
+International was a very deliberate learning go-to-market use case for us. The tenets behind which we wanted to learn more in international were the following: A, we believe we have customer permission to enter markets. We believe pet parents are more the same than different. We believe we have permission from customers, and the Chewy brand, therefore, is resonant in markets. Number two, each market, as we've learned, is unique to that particular type of demographic or psychographic in the market. This learning comes from many of us in the company have experienced launching international markets for consumable-based businesses. I've launched Amazon's fresh and grocery categories in Germany, Japan, U.K., et cetera. Each of these markets has very specific consumer behavior that you need to understand. Number three, we are not keen on chasing dilutive growth.
+Number four, the share positions that we essentially want to accrue in international markets need to be commensurate or better than the share positions we can capture in home. Number five, we wanted to test out the prowess of our technology stack, go to market with a stack that we can essentially replicate rapidly if we wanted to continue with our pace of expansion. I would say we've been happy with Canada. We've learnt a ton. We've understood each of these data points a bit more closely. We've also learnt things like, going back to the classic sort of innovator's dilemma, needs of big companies aren't met in smaller markets. Some part of that has been that. Overall, I would say we were very clearly able to prove out how we can drive profitable demand in a region.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+That's been a learning for us, a positive learning. International isn't a primary priority.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay.
+## Sumit Singh | CEO, Chewy
+Our priority for investments is the U.S. Within the U.S., it is our premium health businesses.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+It is launching digital products and services and physical services in the health space, clinics, for example, and therefore capturing a very large mind share or large TAM and continuing to see Chewy as a platform that aggregates NSPAC in a much more credible manner than anybody's done in the past.
+## Eric Sheridan | Analyst, Goldman Sachs
+Well, let's stick with that priority around health. You've been on an evolution with health. We've had announcements at various investor days over the last couple of years. Now you sit here, you've got the pharmacy offering, you've got the scaling of the Vet Care clinic offering. Talk to us about what you want the health ecosystem for Chewy to look like a few years down the road. What are your big strategic priorities in terms of scaling the business and investing in the business?
+## Sumit Singh | CEO, Chewy
+The health TAM of $50 billion, you have to interpret it in a few different verticals. That's how we do it, at least our point of view. The B2C vertical, which has led into products and merchandising like I talked about. We've built a very credible network. It doesn't require ongoing investment. We are now leveraging that investment in driving customer adoption and NSPAC growth. Then we entered into B2C services, which we thought was an under-penetrated market. Insurance, B2C services, U.S. insurance is sub 3% penetrated. Insurance in the U.K., Australia, New Zealand, general Europe, mid-20% penetrated. We believe we have the ability to commercialize pet insurance. We still believe we have the ability to commercialize pet insurance. But insurance, the cost of insurance is one that pet parents seriously grapple with.
+Still, we're happy with our entry into insurance and how we've partnered with some credible players in essentially picking up that gold nugget and making it a part of our portfolio. I'll come back to it in one second, so hold it there. We then launched B2C Telemed during the pandemic that we have continued to perfect. So far, we've offered teletriage in terms of the product, but as the industry continues to open up, and it will open up in the near future, we are ready to go to market with a scaled Telemed product. B2B. We're a 1P tech stack. So we built technology for veterinarians that 18,000, half the veterinarians in the country today use. Then we took that stack and we essentially have layered in these capabilities into building our clinics.
+Essentially, if you look at the industry, we are unique in going to market with an integrated technology and experience stack that can combine the overall power of the health vertical faster and larger than any one player has done in the past. In many ways, Chewy started as a retail company, but if you fast-forward this equation five, seven, 10 years, we can very much be a scaled platform or perhaps a leading health brand that also has a very credible retail offering, as opposed to the other way around. Why I said I'll come back to insurance is because when we are building the stack, the stack currently we're applying in our clinics. The stack is also being used by a handful of players that are testing the stack in our ability to offer them a SaaS offering.
+We can blend in all of these capabilities into the same stack. The current market is restricted because a third of pet parents do not take their pets to the vet at a normal frequency or don't do so at all. Affordability and access to veterinarians is the constraint there. You all heard about it's harder to get the vets. You've all heard about vets are retiring, not enough vets are coming in. We're not seeing that problem in the CVC network or in the Modern network. Our average vet recruiting time is four months against an industry which is much longer than that. Our average vet retention one-year cohort is high 80s, low 90% against an industry that is much lower than that. Then finally, this notion of these products like telemedicine will essentially lower the cost to serve, so it'll address affordability.
+It will also improve access to veterinarians because you can then bifurcate your capacity using tech and product to deliver the experience while keeping vets reserved for any type of backup that you need, per se.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. Maybe just one more on this area before we pivot. You obviously also made an acquisition with Modern Animal.
+## Sumit Singh | CEO, Chewy
+Yes.
+## Eric Sheridan | Analyst, Goldman Sachs
+Talk a little bit about the rationale for that deal and how this broadly fits into what you just laid out there, Sumit, with respect to where you want to take the health business over the long term.
+## Sumit Singh | CEO, Chewy
+What we saw in clinics was our ability to. We entered as a new operator in the space. We earned our battle scars, and what we saw very quickly was our ability to ramp these clinics up to an estimated revenue per clinic that was 20%-30% better than the average clinic was producing in the market. We have said a CVC box produces $3.5 million in revenue. On top of that, it drives $800,000 in attach back to chewy.com. Total clinic revenue out of this box is $4.3 million. By the way, we are outperforming these metrics, which we have shared in April, which gives us confidence that this is a durable incremental growth lever as we enter 2027 and 2028. We are breaking even in 20 months.
+We have had success when we put a box in a DMA, and we have spent much lower marketing than anticipated because the Chewy brand carries the halo of attracting customers and driving clinic demand pretty quickly. Then finally, four out of 10 customers that are walking into these clinics are net new to Chewy. That was a staggering sort of realization to us. We said, great, we can continue building at the current rate of eight to 10 to 12, or we should opportunistically go find another player like Chewy, which we found in Modern Animal, to be able to immediately 2x our base. It is a culture orientation that we like. There is a customer orientation that we like. It is a tech-forward stack. There is low risk of integration and low risk of operations.
+Now most importantly, you have two teams that can build organically at two times the rate. It also gives us options to explore what we consider many different forms of going to market with clinics, all the way from asset light to this current model where we are essentially dropping our own boxes into the market. There are a few options in there to consider. Broadly speaking, the economics are highly attractive, and you should think of us as operating a scaled vet. I think we are the largest de novo in the market with 60 clinics. Our build pace will increase. We have given you the numbers to do the math. It is highly attractive ROI. Now the question becomes: how fast do you want to go? How fast can you go?
+## Eric Sheridan | Analyst, Goldman Sachs
+Understood. You referenced earlier and fairly topical, coming off of some of the announcements across the technology ecosystem last week, how are you thinking about agentic commerce? What role do you play in a world that could potentially be more agentic over time? What particular assets that sit inside the company you think could also differentiate you guys in terms of some of the relationships you can develop with agentic platforms?
+## Sumit Singh | CEO, Chewy
+Excited about agentic. The reason I am excited and we view agentic, the framework that I will have you take away is you have to view agentic in two different areas. Agentic in partnership with external agentic services and companies that will aggregate demand, perhaps, and route services back into you. Agentic in your own capability to do two things: A, capture that demand, receive that demand. Just because the demand's being routed doesn't mean you will naturally receive that demand. Your tech and your data has to be ready to be able to respond. Those backend services need to be hardened and ready. Most Fortune 500 companies in the country are not ready for that. We will be, because we're a newer company. We've rebuilt our stack in the last five years. There's no more technology investment that we need, services oriented.
+We're hardening those services as we speak. I've already talked about that on the earnings call. The second is developing AI-forward products.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yep.
+## Sumit Singh | CEO, Chewy
+You heard me talk about Cai in this earnings call.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yep.
+## Sumit Singh | CEO, Chewy
+Cai. Cai stands for Chewy AI, could also be the name of your pet, so it kind of works both ways. Cai today essentially has the capability of offering you self-service. It can take care of your post-purchase needs. You already placed order. Cai can take care of orders needs. We are building agents that essentially allow you to search, discover, and shop more efficiently. Then we are going to build agents that essentially unify customer signals and manage each customer relationship on a one-on-one basis without us spending broad marketing dollars on customers. In an agentic world, you are able to essentially, and all of this is going to hook in through the app.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## Sumit Singh | CEO, Chewy
+That is, A, how we are getting Chewy ready for it. On agentic surfaces, we are leading the partnership with as many players as are serious in the industry. We lead in the number of citations. We led with Google in terms of the partnerships, whether it is the Price Bot. In response to Muse, Gemini has come up with their own kind of model, which Chewy is already demo ready for. You can actually go see it on Gemini's website. They essentially showcase this notion of agents kind of shopping. We are excited because when agents try to accumulate demand, they will route demand to the retailers that win on price, that win on selection, that win on convenience, and that win on trust.
+Chewy essentially has each of those four against any competitor that you can match us against, including the likes of the biggest ones like Amazon and Walmart.
+From a pricing standpoint, we go to market with absolute parity. We have homegrown tech that responds to that very quickly in 15-minute increments, and the pricing is mapped. It is not like players with deep pockets can crash profitability floors in the industry. Health, very protected ecosystem, much harder for agents to penetrate to begin with. Post-purchase service. Pet is a category where high-touch personalized service is needed. Our agentic framework is essentially, I talked on this earnings call, which is we are going to build in the brand tone voice and respond to customers so that you are not essentially talking to a chatbot. You should try dialing into a CVC network, and if you get Callie, you should send me an email if you can determine that Callie is not human, but an AI.
+We are being very thoughtful in building these, and these are 1P-built services. These are not 3P products that you will find outside. Our ability to essentially hack into agentic or be toe to toe in driving innovation and participating in these trends is high. We are excited about this.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. A lot of areas to continue to follow up going forward, both your partnerships with agentic platformsâ
+## Sumit Singh | CEO, Chewy
+Yep.
+## Eric Sheridan | Analyst, Goldman Sachs
+âas well as what you are building and scaling yourself on your own offerings across the site and the app. We have talked a lot about health, we have talked about AI, we have talked about the growth opportunity that presents in the end market. How do you think about balancing all the things you want to invest in the business against continuing to deliver operating margin trajectory for investors?
+## Sumit Singh | CEO, Chewy
+A couple things. One, we are not about to enter an investment cycle. I just want that to be clearly heard. Number two, we do not need investment to continue to gain market share as we are doing now.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yep.
+## Sumit Singh | CEO, Chewy
+If the market does not improve, we do not have to invest to stand steady. At the same time, we want to accelerate growth.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yep.
+## Sumit Singh | CEO, Chewy
+We feel we have some durable levers that we should consider investing behind to drive incremental growth. When you hear the word investment, I do not want you to hear promotions. That is not what I mean. I mean durable, non-dilutive to growth type of investments. What I would say to you is that we have the ability with our base business performing as it is, alongside the network of health clinics growing as they are and producing the margins, alongside the $50 million of AI savings that we have mentioned to you for 2027. We have enough dry powder to be able to self-fund a majority of these investments that we are talking about to drive incremental growth, and still give you incremental margins in the range that you have come to expect from us in the last few years of performance.
+That is how you should think about. Also, we are not baking in, although there has been some enthusiasm in terms of pricing coming back into the market in 2027.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yep.
+## Sumit Singh | CEO, Chewy
+We are not baking that in yet.
+## Eric Sheridan | Analyst, Goldman Sachs
+Right.
+## Sumit Singh | CEO, Chewy
+All of my comments and call it mental framework is assuming that the market does not recover and assuming that there is no pricing that comes back.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. Last one, if I can squeeze one in. As you've laid out, company's becoming more profitable, throwing off a lot of cash flow. How do you think about allocating cash flow between reinvesting back in the business, but also looking at the capital structure and possibly continuing to return capital to shareholders?
+## Sumit Singh | CEO, Chewy
+Perfect segue. This is essentially the proof point of that, where we will identify and are identifying some very high credibility growth levers that will create durable, sustained, incremental margin type of growth and reinvest in them while self-funding a majority of them. That's first level of priority. Second level of priority is to opportunistically evaluate M&A should we find great deals at great prices in the marketplace. You should know these M&As are primarily, when we consider them, there's nothing that I'm going to market with right now. You should also know that, but if I do, it will be in the health space.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yep.
+## Sumit Singh | CEO, Chewy
+Okay. Number three, once we are past number one and there's no opportunistic evaluation on an M&A standpoint, returning capital to shareholders remains a third and important priority for us.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. Sumit, always appreciate the opportunity to have a conversation, especially busy couple of days right after earnings. Please join me in thanking Chewy for being part of the conference. Thank you.
+Data Source: Quartr Last updated: Sep 14, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,7 @@
+Company: Verizon
+ROIC Symbol: VZ
+ROIC Name: Verizon Communications Inc.
+Year: 2007
+Quarter: 1
+Date: 2007-04-30 08:30:00
+Executives

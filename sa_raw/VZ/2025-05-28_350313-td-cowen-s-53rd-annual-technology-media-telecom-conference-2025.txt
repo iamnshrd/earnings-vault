@@ -1,0 +1,161 @@
+TITLE: TD Cowenâs 53rd Annual Technology, Media & Telecom Conference 2025
+DATE: 2025-05-28
+## Greg Williams | Analyst, TD Cowen
+TD Cowen's 53rd Annual TMT Conference. My name is Greg Williams. I cover cable, wireless, and telco here at TD Cowen. I'm joined today by Frank Boulben, the CRO of Consumer Group Verizon. Frank, welcome and thank you for coming.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Thank you. Great to be here.
+## Greg Williams | Analyst, TD Cowen
+Frank, can you just provide an overview of your roles and responsibilities at Verizon and what you're currently focused on these days?
+## Frank Boulben | Chief Revenue Officer, Verizon
+Sure. Before I do that, I need to refer to our safe harbor statement. I'll let you have enough time to read it on the screen. My role at Verizon, I'm the Chief Revenue Officer of the Consumer Group. Basically, I'm responsible with my team to design everything we sell to customers: the value proposition, the pricing, the device component, the products, the content, and then how we go to market with it. Media, promotions, engagement with our channels, and also base management or CRM, if you prefer. It's a team sport. I've got my colleagues running the channels and customer service with whom I interact all the time.
+## Greg Williams | Analyst, TD Cowen
+Wanted to just talk about the consumer segment, particularly around the phone losses in the first quarter, a little bit bigger than us and what the Street were expecting, with churn a little bit higher. Can you sort of put a finer point on what happened during the quarter? We heard that the industry just had a rough January, all the big three for that matter. Should we think about this higher losses in churn as a result of the price hikes on the backbook? You were sort of aggressive on the frontbook. Maybe help us with what happened and what you're seeing now in terms of trends.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Greg, you and your peers are very much focused all the time on the postpaid phone net. Let me just takeâI will address your question, but let me take a step back first. We had a very strong Q1 in terms of financial service, wireless service revenue up 2.7%, EBITDA up 4%. If you look at our phone nets in aggregate, consumer, B2B, postpaid, and prepaid, we were up year on year by about 90,000. The reason why I am talking in aggregate is if you look at the quality of a prepaid phone net and the quality of a postpaid Adeline phone net, it is about the same.
+## Greg Williams | Analyst, TD Cowen
+Right. So, the add-on line in the postpaid world could be the same CLV as a prepaid customer.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Especially if you think of some of our competitors giving them for free. Those have certainly a lower CLV than a prepaid.
+## Greg Williams | Analyst, TD Cowen
+Low calorie lines.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Low calorie lines. Overall, our phone nets in aggregate were better year on year. Now, to address your question specifically on consumer postpaid phone nets, what happened in Q1? Two factors. One competitive and one intrinsic to Verizon. Competitive factor is, for the first time, certainly since I've been with Verizon in the last eight years, we saw our competitors early January not dropping their holiday promotions. They stayed.
+## Greg Williams | Analyst, TD Cowen
+Christmas lasted longer.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Exactly. When we dropped on January 8th, we didn't see our competitors following us. The reason we drop our promotions from the holiday period in January is that it's a low demand period. Measures traffic in our stores is low. Traffic to our digital properties is low. We have a disciplined approach to promotion.
+## Greg Williams | Analyst, TD Cowen
+Yeah, no churn and the marketing cost into the win.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Exactly. That was happening at the beginning of January. At the same time in January, we priced up our backbook, as you mentioned. That was a deliberate decision. We wanted to do it in January so that we would have almost a full year impact. Our price ups, the ones we did in 2024 and those in January, will generate $1.1 billion of revenue roughly in 2025. No second doubt about that decision. That was the right decision. It obviously has an impact on churn that was a bit compounded by the competitive activity. In March, we saw the traffic picking up. We invested more in acquisition. We were high single digit in gross ads year on year in the month of March. That is continuing in Q2.
+## Greg Williams | Analyst, TD Cowen
+In Q2, you're saying that traffic's still picking up from the March cadence. Is that in the gross ads you're seeing?
+## Frank Boulben | Chief Revenue Officer, Verizon
+Yes. What we did at the beginning of Q2, we introduced the Verizon Best Value Guarantee, which has three components. One is we wanted to give peace of mind to our customers. There is a three-year price lock. Second, a free phone for new and existing customers. Our existing customers do not need to hurry to upgrade their device. They have the peace of mind that when they decide to upgrade, there will be a free phone for them. It is tiered depending on which price plan you are on. You have that peace of mind. We are doubling down on the savings we offer through our perks, on streaming services, for instance. We introduced the Best Value Guarantee on top of my plan and my home at the beginning of April. We saw immediately an uptick in gross ads.
+In April, our gross ads were in the up double digit. That is continuing in May. Strong momentum on gross ads. We saw also an uptick on upgrades as we introduced the free phone guarantee.
+## Greg Williams | Analyst, TD Cowen
+How about churn you're seeing in the second quarter?
+## Frank Boulben | Chief Revenue Officer, Verizon
+All these actions we took to give peace of mind to our base, they will take time. They will impact churn. We expect to be back to BAU levels in the second half of the year as the impact of the price lock and the upgrade guarantee play on.
+## Greg Williams | Analyst, TD Cowen
+Right. In terms of the health of the consumer right now, we've got tariff and macro concerns. Are you seeing any changes in the behavior patterns with the customer? You mentioned that you're offering a free phone for upgrades. This could be a good time to upgrade if we have these Apple tariffs. Curious to hear what you're seeing in terms of the health of the consumer.
+## Frank Boulben | Chief Revenue Officer, Verizon
+In terms of the health of consumer, we have a premium customer base. In our base, I'm not speaking for the industry, but in our base, we haven't seen a change year on year. When I look at the key metrics for health of our consumer base, for instance, the involuntary churn, no change year on year. When I look at the quality of the new customers we are acquiring, whether it's their credit score or the ARPA we are getting, it's better year on year. We don't see any sign of deterioration in the health of our customer base.
+## Greg Williams | Analyst, TD Cowen
+Got it. I wanted to ask about the value proposition of Verizon. You mentioned you're doing a three-year price lock, free phones. You're offering perks. Your rate card is a little higher. One would just say the things you mentioned would justify the higher rate card. Help us with the value proposition on what the brand stands for and how it is differentiated in the marketplace.
+## Frank Boulben | Chief Revenue Officer, Verizon
+The value proposition, if I sum it up, is to offer the best value for money in the market. What is the best value for money? First, it's the best network. If you look at the latest route metrics, we have the most reliable 5G network. We cover 500,000 more sq mi than T-Mobile, as an example. Continuing to invest in the network to offer the best network experience is paramount. Now, almost two years ago, we've changed the paradigm for pricing with the introduction of my plan, where we've separated connectivity from any other inclusion. It's offering customers control, transparency, and choice. You choose your network experience, good, better, best. On top of that, you have perks. All the perks give you a saving. For instance, if you buy the Disney bundle from Disney, it's $20.
+You buy it from Verizon, it's $10. And we have a number of third-party perks like that. What we've done is, by separating the connectivity from the perks, we have customers paying only for what they want. They don't pay for inclusions they didn't want. That has also reduced our price premium with the competition, literally non-existent with AT&T, and now around 10% with T-Mobile, 10-15%, depending on, I would say, between 5 and 15%. That's the range, and 10% on average. We feel comfortable that our price premium is justified.
+## Greg Williams | Analyst, TD Cowen
+Got it. I want to talk about the competition that's not the other big two carriers. Cable, Comcast is now leaning into mobile even more. Even Boost had 150,000 ads, 50,000 of which were postpaid. Curious to hear your thoughts on this competition. You obviously have the wholesale agreement with cable, so you get some money on the back end of it. Any color here on playing some defense against those?
+## Frank Boulben | Chief Revenue Officer, Verizon
+Some money, I just want to rebound on that first. It's a critic for us. When we lose a retail customer to the cable companies, we lose the spread between retail and wholesale. When the cable companies acquire a customer from somebody else in the market, we get the wholesale revenue. If you add up the spread we lose and the wholesale we gain, it's a critic for us. The MSOs are taking from us less than our fair share of the market. That's a good financial relationship for us. If I look at it with my retail hat, year on year, we see our port ratio with the cable companies improving. I think they've peaked, and now they're probably, even if they don't disclose it, starting to incur some churn. That's how we can explain that the port ratio is starting to improve.
+## Greg Williams | Analyst, TD Cowen
+Got it. I want to talk about margins. Do you have concerns around maintaining margins in this sort of high-volume environment? Right? You've priced up your backbook. Everyone's aggressive on the frontbook. There's more of a musical chairs going on. Obviously, that's not good for margins. I mean, the price hikes help in terms of financial guidance. Just curious to hear your thoughts on the margin cadence given this high volume.
+## Frank Boulben | Chief Revenue Officer, Verizon
+First, coming back to Q1, we grow our EBITDA 4% year on year in Q1. We've guided for the year between 2-3.5% for EBITDA growth. We are confident we'll achieve that guidance. When it comes to promotion, we have a disciplined approach to promotion. I mentioned earlier the timing of our promotion. We are more aggressive when we see more demand in the market. We also, most of the time, we tier our promotions. We give you more value if you are on a premium plan versus some of our competitors who are any plan. We also have most of our promotions with trade-in. We have a great monetization machine to extract value from the devices that are traded in.
+If you look at those very aggressive promotions that were introduced in Q1, in particular the buyout promotions, we do not market any buyout promotion. We see that AT&T has indicated that they will stop by the end of this month. It leaves only T-Mobile out there with a very aggressive buyout promotion.
+## Greg Williams | Analyst, TD Cowen
+Right. Help us with the 2025 trends then, as we think about the year. You said that churn will reach BAU levels in the second half. When you put it all together, do you still see 2025 consumer phone ads higher than 2024 consumer phone ads?
+## Frank Boulben | Chief Revenue Officer, Verizon
+Yes. We are confident that our phone nets, postpaid phone nets, will be up year on year, by the way, also on the prepaid side. We have a number of levers to address the churn. The Verizon Best Value Guarantee I just mentioned with the price lock and the upgrades. We have a personalized treatment of our base. We are also continuing to deploy our C-band network, our 5G network. What we see is customers who are experiencing the 5G C-band network with a capable smartphone churn less than those who do not. The last and critical lever is we have more and more customers that have mobile and broadband with us. Those customers have a much lower churn. Roughly speaking, right now, 16-17% of our mobile customers have got broadband with us, whether it is fiber or FWA.
+Those have a significantly lower churn. Those levers will continue and play out during the year.
+## Greg Williams | Analyst, TD Cowen
+Definitely want to talk about convergence and fiber. Last question on wireless before we do is just on the upgrade cycle. As we talked about, you're offering a free line or free phone, rather, out there on device promos.
+## Frank Boulben | Chief Revenue Officer, Verizon
+With trade-in.
+## Greg Williams | Analyst, TD Cowen
+With the trade-in, right? And we're seeing possible tariffs. We saw a slight uptick in first quarter upgrades. How do you see the second quarter shaking out to date? Do you see this impacting the upgrade rates with the tariffs these days?
+## Frank Boulben | Chief Revenue Officer, Verizon
+Actually, first quarter, we're slightly down year on year.
+## Greg Williams | Analyst, TD Cowen
+Slightly down.
+## Frank Boulben | Chief Revenue Officer, Verizon
+We have guided for the year that we will be mid-single digit up year on year for upgrades. In Q2, obviously, as we introduced the new promise with a free phone with trade-in for new and existing customers, we saw an uptick. With respect to the tariffs, it is difficult to say. It is a bit of a see-saw. We saw at the beginning of April, there was probably some pull forward. Customers worried about an increase in device prices. It calmed down. Now, with the new announcement of a 25% tariff, maybe it is going to come back. In any case, the decision to pass on the tariffs to customers is a decision for the OEMs, for the smartphone manufacturers. We have no intent to increase proportionally our promotions.
+## Greg Williams | Analyst, TD Cowen
+Okay. So, the burden will be on the customer with the tariffs if they.
+## Frank Boulben | Chief Revenue Officer, Verizon
+The OEMs.
+## Greg Williams | Analyst, TD Cowen
+The OEMs. Got it. I did want to talk about fiber and, more specifically, Frontier. Just walk us through what we can expect on day one of the Frontier integration. What would that look like? What are your near-term initiatives with the integration, first few months out of the gate? What do you see in terms of shaking out one year after the close?
+## Frank Boulben | Chief Revenue Officer, Verizon
+First, we are very excited with that acquisition. The Frontier management team has done a great job with respect to their fiber build-out, improving their customer metrics, their financial metrics. We are acquiring a very healthy asset that has got momentum. We expect the acquisition to close no later than the end of Q1 of next year. It's coming quickly. We want to hit the ground running. What does that mean? We want to be able, from day one, to cross-sell Frontier fiber to our mobile customers in the Frontier footprint, and vice versa, to cross-sell mobile to the Frontier customer base. Those revenue synergies, our customer synergies, will be the priority. Then we will implement all the operational changes, rebranding, bringing our tech stack to Frontier, the network synergies, et cetera.
+We've communicated that by year two, we expect $500 million of OPEX synergy run rate.
+## Greg Williams | Analyst, TD Cowen
+Right. Would that include copper decommissioning, which is happening right now or potentially happening soon? Is there upside to that, since there's been a lot more development with the FCC?
+## Frank Boulben | Chief Revenue Officer, Verizon
+I'll pass on that one. I don't know the details for Frontier.
+## Greg Williams | Analyst, TD Cowen
+Yep. Talking about the build-out in general, can you help us with the maximum fiber builds you could do per year with Frontier? Frontier was at like a 1.3 million cadence or something like that. You guys were at around 500,000.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Yes. This year, we are doing 650,000 in the FIOS footprint. We have accelerated from last year. We did 450,000 last year. We have guided that post-closing, we will do 1 million plus for the combined footprint of Frontier and FIOS, with an emphasis on the plus. You can expect us, as we get closer to the integration of Frontier, that we will communicate an updated number.
+## Greg Williams | Analyst, TD Cowen
+When you go to market with the converged strategy, what is Verizon's fiber and bundling marketing strategy? What's your messaging in the marketplace? Help us figure out how it resonates with customers.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Yes. First, it's demand-led. Look, I've had the experience of converged markets in Canada and in Europe. There are good and bad ways to address convergence. If you do it in a supply-led manner, which happened largely in Europe, with basically a price war, cross-selling the other product at a steep discount, or even offering it for free, the entire industry went down. That's not our approach. Our approach is a demand-led approach. For those customers that want the one-stop shopping experience, having one store to go to, one customer service number to call, and having a cohesive package, we have a value proposition. What we've done is we've introduced my plan I was referring to earlier. We've got my home as well on the broadband side. Same logic.
+You choose your speed, good, better, best, and then you add the perks on top and linear TV if you want. If you are a customer who wants mobile and home from us, it's very straightforward. You have a $15 discount on the broadband side. If you are a premium customer, you get a perk on us. It is a value proposition we've introduced now a couple of months ago. It is less aggressive than the discount we had last year. It is resonating very well with customers. One important caveat, when you think about convergence, it works only if both products have got a strong NPS. If you have a product with a bad NPS and one with a strong NPS, you put them together, you're going to deteriorate the product with the good NPS.
+## Greg Williams | Analyst, TD Cowen
+Yeah, that makes sense.
+## Frank Boulben | Chief Revenue Officer, Verizon
+If both have a strong NPS, then you improve the churn on both products.
+## Greg Williams | Analyst, TD Cowen
+Yeah. If you're a customer and you had problems with, say, your wireline, you don't want to bundle more stuff on the company that you have problems with. That makes sense. You mentioned the discount's $15. I guess the math or the logic works that you discount the bundle, but then churn is that much lower, extends out the tenure of the customer, and hikes up the CLV.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Yes. Absolutely. The economics work very well, especially on fiber. The mobile churn can be reduced by as much as 50%.
+## Greg Williams | Analyst, TD Cowen
+Yeah. I mean, that sounds like a really high number, like the 50% churn reduction. One, it's higher than we've seen, whether it's our survey work and the rest of the industry. I'm curious, what are you doing differently to see such churn benefits on the wireless side?
+## Frank Boulben | Chief Revenue Officer, Verizon
+It comes also from the fact that our FIOS product is extremely strong. In Q1, our FIOS churn on the fiber front was below 1%, which is record low. I haven't seen that in any other geography. When you combine that fiber product that customers are extremely satisfied with, with our best 5G experience and our my plan value prop, you get to that 50% reduction.
+## Greg Williams | Analyst, TD Cowen
+Got it. Want to switch gears to fixed wireless, continues to be an area of strength for Verizon. What are your thoughts on the fixed wireless runway? Is there life beyond the 8-9 million subscriber goal? What subscriber level would you need to hit before you think about augmenting capacity, whether it's cell splitting or other ways to get fixed wireless to the home?
+## Frank Boulben | Chief Revenue Officer, Verizon
+Let's take a step back. A couple of years ago, I was asked the same question. Is there life after your 4, 5 million target?
+## Greg Williams | Analyst, TD Cowen
+Right. Eight to nine.
+## Frank Boulben | Chief Revenue Officer, Verizon
+We achieved the 4-5 million ahead of time. That's what we want to do with the 8-9 million target, achieve it ahead of time. As a reminder, we are selling fixed wireless access only where we have excess capacity in the mobile network. In financial terms, we have no dedicated CAPEX for FWA. It is an ancillary benefit of deploying our mobile network. That is our approach to get to the 8-9 million. To your question, there is a runway to get there. We have not completed the deployment of the C-band network. By the end of this year, we will be at 80-90% of our macro sites upgraded with C-band. We are also introducing a solution for MDU for fixed wireless access. We will continue and have a runway on the fixed wireless access side.
+What's also interesting is more than half of the customers on fixed wireless access side take the premium plan and not the entry plan. They get speeds up to 300 megabit per second. The NPS of those customers is very high.
+## Greg Williams | Analyst, TD Cowen
+I presume if the administration's looking for 600 megahertz of spectrum, if that came to market, I mean, that could be the gift that keeps on giving in terms of upping your.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Look, I like that saying in wireless. I've been in wireless for a long time. I've never met the megahertz I didn't like.
+## Greg Williams | Analyst, TD Cowen
+Right. Sure thing. Who are your typical fixed wireless customers these days, whether it's age, income, rural versus suburban? Is it shifting more towards rural as you deploy the C-band out to those areas?
+## Frank Boulben | Chief Revenue Officer, Verizon
+Correct. At the beginning, where we were focused on tier 1 cities with millimeter wave and C-band, customers were skewed to those high-density areas. As we've continued and deployed C-band, now I would say it's following the population distribution. The majority of our customers are coming from cable.
+## Greg Williams | Analyst, TD Cowen
+Got it. That is a good segue into sort of talking about the competition. During the first quarter, traditional cable broadband operators did multiple things to stop the bleeding, if you will, from fixed wireless threats, particularly price lock guarantees, increasing visibility into their pricing and packaging, increased investment in customer care, creating value-oriented packages for price-sensitive customers, like hunting downstream, if you will. In the second quarter to date, does it seem like these initiatives from cable are impacting fixed wireless net adds in your business?
+## Frank Boulben | Chief Revenue Officer, Verizon
+I don't see any change in the low NPS or negative NPS scores of cable companies. We continue and see the same momentum on FWA. I think some of the practices that customers hate, they are still doing them. Like promotional roll-off.
+## Greg Williams | Analyst, TD Cowen
+Sticker shock.
+## Frank Boulben | Chief Revenue Officer, Verizon
+Is the number one pain point. We stopped doing that on FIOS almost five years ago now. We didn't take a hit when we did it. Customers do like the transparency. They hate the fact that you have a price year one. Then at the end of the first year, there is a price hike of 30%, 40%.
+## Greg Williams | Analyst, TD Cowen
+Right, right. A quite large hike. Is it safe to say, through the balance of this year and next year, there will be a bigger push towards rural customers with fixed wireless because you're going to be rolling out that C-band, BC category through the end of the year and then finish it out completely in 2026?
+## Frank Boulben | Chief Revenue Officer, Verizon
+Yes. Mechanically, the mix is going to change, less tier one and more tier two and tier three .
+## Greg Williams | Analyst, TD Cowen
+Where does fixed wireless fit in the overall strategy? Is it that you eventually get these subs to a fiber solution at some point in time?
+## Frank Boulben | Chief Revenue Officer, Verizon
+There is no plan to do that. There might be one exception in the Frontier footprint over time. We do not sell fixed wireless access where we have fiber in the FIOS footprint. If your address qualifies for fiber, we will present you only a fiber product. As we integrate Frontier, we will have customers that are on FWA that could be served with fiber. Over time, we will offer them an upgrade path if they want to.
+## Greg Williams | Analyst, TD Cowen
+OK. I want to shift gears and just talk about prepaid, because you mentioned it a couple of times now, thinking about prepaid and postpaid almost as similar CLVs, at least the postpaid free lines, et cetera. It has been resilient for Verizon recently. Just help us with the growth opportunities in prepaid and lower income end on postpaid. At what point would you consider creating value packages to target lower-income customers and talk about prepaid as a source of growth?
+## Frank Boulben | Chief Revenue Officer, Verizon
+As a reminder, four or five years ago, we were not a big player in prepaid. We had only Verizon prepaid. At the end of 2021, we acquired TracFone. TracFone was an MVNO. Because they were an MVNO, they were not competitive at the high end of prepaid, where you have unlimited plans. What we've done since the acquisition is we've repositioned all of the brands in the TracFone portfolio so that they are now competitive at the high end of prepaid. We've done that with Straight Talk, which is exclusive to Walmart. We've done that with Total Wireless. There, we are building a network of branded stores with agents. At the end of 2024, we had 1,200 stores. At the end of this year, we'll have 2,000 stores. Total Wireless is growing very fast. Then we have Visible, our digital-only brand.
+Those three brands are generating the growth of our prepaid business. They are all at the high end of prepaid. That is where we are taking share. Even if the prepaid market was flattish in Q1, we took share from our competitors.
+## Greg Williams | Analyst, TD Cowen
+Got it. With the minute we have left, I just wanted to switch topics yet again to the satellite direct-to-device opportunity. What are your ambitions with this product? How will it fit in your strategy? It seems like carriers like T-Mobile, they'll give it away on premium plans. Is this going to be the offer construct for satellite D to D in the future?
+## Frank Boulben | Chief Revenue Officer, Verizon
+They'll give it away. They also said they will charge $15.
+## Greg Williams | Analyst, TD Cowen
+For subscribers to go jump on.
+## Frank Boulben | Chief Revenue Officer, Verizon
+We'll see. Look, I think we're in a different situation. As I said earlier, we cover 500,000 sq mi more than T-Mobile. We have very few gaps. We cover more than 99% of where people live, work, and play. We need satellite for a niche usage. I don't know if you are a trekker and you get in the Appalachian or you drive through a desert or you go to a national park. That's when you might want and use your satellite connection for safety or to communicate back home. We will have a solution for that. I think $15 seems a bit rich to me. I don't think customers will be ready to pay for that.
+## Greg Williams | Analyst, TD Cowen
+Right. Especially as you're painting the map red so robust. With that, we're just about out of time. Thank you.
+## Frank Boulben | Chief Revenue Officer, Verizon
+You're welcome.
+Data Source: Quartr Last updated: May 28, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

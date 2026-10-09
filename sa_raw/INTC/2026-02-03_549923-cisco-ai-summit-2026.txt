@@ -1,0 +1,161 @@
+TITLE: Cisco AI Summit 2026
+DATE: 2026-02-03
+## Operator | 
+Which is a national treasure, Lip-Bu Tan, good friend. Lip-Bu, come on up.
+Nice to see you.
+Lip-Bu, I have, you have a very unique record in my life. Do you know what that is? The speed at which I have developed a friendship with you, I don't think I've developed with anyone else, and it's not a function of me. I think it's a function of just how good you are at, doing the kind of amount of things that you do, on a regular basis. But, thank you for coming here.
+## Lip-Bu Tan | CEO, Intel
+Thank you for inviting.
+## Operator | 
+Tell us a little bit about Intel is a national treasure. Intel has gone through some tough times. You are bringing it back again to life, but there's so much that needs to get done. Walk us through the current state of Intel. Where do you think it is? Where do you think it should go? How should people think about it?
+## Lip-Bu Tan | CEO, Intel
+Yes, I think first of all, I joined the board for two years and learned some things going on. A lot of good friends of mine from Intel. It took me a while to decide to take this role. As you know, that's not easy. A lot of my friends told me that, "Don't do it." You have a great reputation, you know, in the venture investment that is, you know, you, you love it. Why take on this one? But finally, I decided, you know, this is an iconic company. It's very important for the industry and also for the United States. So I finally convinced my wife, "Let me do it one more." And so after Cadence, and he supported me to do it one more time. Just to update, I think I just passed 10 months, coming to 11 months.
+You know, I kind of call it marching off the map. So something that, some of the surprises I don't even know, you know, you had to kind of react to at the real-time basis and learn from it. So in some way, I think it's good to have. And then just update. And we have a very complex company. You have a foundry that's strategically very important.
+## Operator | 
+Yep.
+## Lip-Bu Tan | CEO, Intel
+The other part is the product. You know, so clearly you need to balance the two. The other part is.
+## Operator | 
+Do you believe your foundry business becomes a general-purpose foundry that's outside of just your products?
+## Lip-Bu Tan | CEO, Intel
+Yes. And so that's the intent. And we have the Intel 18A. And when I took over, the yield is quite poor. And so I really get all my friends to help from PDF Solutions to KLA in the equipment to make sure that we have that 7%-8% yield improvement per month. And initially.
+## Operator | 
+8% yield improvement per month.
+## Lip-Bu Tan | CEO, Intel
+That's right. That would be the best practice. It took me a while. Finally, now I'm seeing 7%-8% yield per month. So in a way, it's very helpful that you open up the kimono and let people come and help you. So I think one is 18A. We just announced the Panther Lake. I can really count on my fab to produce that. Interestingly enough, a couple of customers are knocking on my door now. They say, "Hey, it seems like your 18A is doing well. We want to be part of that." So I think we are delighted to see the customer want to see that. But we are laser-focused on the 14A. That will be, you know, it's very important. It's 14A, you know, and this is the most advanced.
+We're going to be in the risk production 2028. And then we'll be in volume production 2029. And, like any foundry, you know, I learned a lot. And, you need to have not only the yield improvement, you need to have the variation so they're more predictable. And you also need to have the final product that, you know, what does the yield look like and the bit spin and all the detail. And second part, you need to have all the IP available. You know, if you want to have mobile customers, you've got to have all the low-power IP to have. Otherwise, you can't serve the customer. So there's something missing in the past. So I really put something in place and then so that we can have both and then serving the customer. Good news is a couple of customers are very excited.
+You know, 0.5 PDK this month, we will have that. The customer can use a test chip to work on us. I think good news is a couple of customers are engaging heavily. We're looking forward to serve them. Hopefully, second half of this year, I will see the volume commitment from the customer, which product they want to have, and I can serve them.
+## Operator | 
+second half, you'll see the volume commitments on the foundry or on your core products?
+## Lip-Bu Tan | CEO, Intel
+On the customer.
+## Operator | 
+On the customer.
+## Lip-Bu Tan | CEO, Intel
+Products. So in a way, they need to let me know what products and what volume they need.
+## Operator | 
+Got it.
+## Lip-Bu Tan | CEO, Intel
+Then, you know, one thing that people will see because first of all, I'm not going to announce any customer. This is confidential. We need to support the customer. And what we're going to do is when you see me starting to put money into glass substrate is a very important material. And then secondly, some of the CapEx equipment I need to have and scaling it. That means that I have real customers I've committed to it. That's kind of discipline I have.
+## Operator | 
+On the fab side, to get to mass scale, what does mass scale look like for you? And what's the timeframe that you feel like mass scale could happen where you could be a formidable fab for third-party chips?
+## Lip-Bu Tan | CEO, Intel
+Yes. So it's very challenging to operate the two because one, it's on the product. You have to drive innovation, drive the product roadmap. The other part is really a service business. Culture had to change. And in some way, I kind of tell my team, this is a business of grinding. You know, it's not like you have good innovation, good technology, you will beat people will come. You have to grind until something that you prove the yield, they can count on you to make the production. And then their whole revenue profit depends on it. That's a lot of trust and responsibility. And we have to earn it. So I think those are the things that, scaling is important. And that's why I always ask customers, "Give me the biggest product that you have, the most important product. Give me 5%, 10%, 20%, 50%.
+Let me earn it and earn your trust." And then many of them, they, I work with them, you know, when I was running Cadence, so they trust me. Somehow I think, back to your point, trust is very important for AI. So I think something that, even more important in foundry, is the customer trust.
+## Operator | 
+Now, if you think about the constraints that are there right now, do you think that the energy constraint is, with power, cooling, all of that, is more severe? Or right now is manufacturing capacity? Which one limits growth first?
+## Lip-Bu Tan | CEO, Intel
+I think in terms of the AI, the biggest challenge I think for a lot of my customers is memory. Memory, actually, there's no relief as far as I know. When I talk to, you know, only three key players, two of them I talk to very frequently. And then, they told me that Lip-Bu, there's no relief until 2028.
+## Operator | 
+Why is that?
+## Lip-Bu Tan | CEO, Intel
+Because I think this whole AI is suck up a lot of memory. You know, our mutual friend, Jensen, tonight you can talk to him.
+## Operator | 
+Yep.
+## Lip-Bu Tan | CEO, Intel
+You know, clearly he needs a lot of memory for his Rubin and the next generation product. So I think it's very important to have that memory. If anything's going to slow down, it's going to be the memory. So that I think is one. Secondly, I think it's clearly, you know, from the compute side, you know, I was very happy to hear that, you know, customers are all crying for more products. And I didn't prepare the production enough to meet their requirements. And so I think people starting to find out that in application, CPU actually is more useful, in terms of, performance for all the, you know, compute requirements. And in fact, a friend of mine, he mentioned that Moore's Law doubling used to be 3-4 years. And now it's like three or four months.
+So the increase of compute is increasing so much. And right now, my biggest challenge is focus on our production, our supply chain, make sure we can meet their requirements. Almost every CEO, they call me up, "Lip-Bu, can I have more? I'm your friend. I'm your customer, the most important customer. I want to have more of that." So I think, you know, it's somehow it's kind of encouraging for me to see that compute has become very important. And then the other part very important to me is beside memory, beside the compute, and then the other part is the thermal we just talked about, the cooling technology. So in terms of some of the high-performance processor, either GPU or CPU, sometimes you have to guide the GHz down because of your thermal issue and the power, you know, power management.
+So those are the ones that you want to find new ways of cooling in terms of, you know, liquid cooling. Air cooling is not cutting it now. So liquid cooling, microfluidic cooling, immersion cooling. So I think those become very important. The other part that you also mentioned, I think something that Cisco have is really good is that interconnect is becoming very critical. Used to be more in the copper, you know, and, like, you know, Credo Semiconductor and Astera Labs I invest in. But now moving to optical now.
+## Operator | 
+Optical.
+## Lip-Bu Tan | CEO, Intel
+Optical becomes very critical. That's something that is a new wave because the speed and latency become very important. So that's another issue. The other part of the constraint is the software. If you really want to address some of this, like the Moore's Law, you need to really look at the whole full stack. So not just the silicon, and you need to, the cooling, and then you need to have the interconnect. And then the other part is the software. You know, the open source, I'm very strong belief in it. And then, of course, the CUDA compatibility is very important. And even more important right now is the cluster of GPU or CPU. And then it becomes the cluster manager, the software.
+Right now, you know, sometimes if we have a problem, you don't even know where to look for it. And now there's a lot of new startups coming, coming to me. I say, "Lip-Bu, that will be an area that we want to work on so that we know exactly how to solve some of this cluster issue that you're going to face." Kubernetes is great, but you cannot find the real issue there. So I think those are kind of interesting. Being a venture capitalist and running CEO of Intel, it gave me that kind of perspective of what are the new things coming? And quantum computing is another big area coming up, is around the corner. And so something that is interesting to see after AI, you know, we talk about agentic AI, the next big wave is the physical AI.
+## Operator | 
+Physical AI.
+## Lip-Bu Tan | CEO, Intel
+The next thing going to be quantum. So I think that's kind of exciting.
+## Operator | 
+You talked about open source and talk to us a little bit about, like, your perspective on open source in the United States. How important is it? What needs to happen?
+## Lip-Bu Tan | CEO, Intel
+Yeah, very good questions. You know, I'm very passionate about the education. And, you know, I want involved with MIT, CMU, and Berkeley and others. The key part is, you know, one thing that I worry a lot is the foundational research. We're starting to not continue. A lot of universities, they're the best professors being recruited out to Asia, to Europe. And, so I think the fundamental research, some of the public companies like Cisco and ourselves, we have some short-term, mid-term, requirements. You cannot invest into long-term, 10 years, 20 years from now. And so that part to me is an outcry on terms of foundational, research. The other part is the open source. I'm a big fan of open source.
+Frankly speaking, a couple of people that, good, very knowledgeable people that told me, "Lip-Bu, we are behind China now." And so that's something that we have to pay attention. I think DeepSeek is just a wake-up call.
+## Operator | 
+But don't you think, like, to some degree, some of the models that are emerging in China are just pure distillations of the models that are here? And so at some point in time, if all you're doing is distilling the models, then the moment, like, they, they can't really get that much farther ahead? Or you, you don't think that's the case? They'll actually figure out a way to start creating original?
+## Lip-Bu Tan | CEO, Intel
+Yeah, very good question. I thought that initially I thought that they will be falling behind because they don't have access to the most advanced GPU from NVIDIA, most advanced processor from many different players. But you will be surprised. You know, recently I was just trying to recruit some of the top talent in CPU architect. And I found out that Huawei have 100 CPU architects, top-notch. I was shocked.
+## Operator | 
+Yeah.
+## Lip-Bu Tan | CEO, Intel
+And when I talked to them, "Why are you going there?" And they said that, "Lip-Bu, even though we don't have access to the best tool like EDA tool from Cadence and Synopsys, but we have the poor man's way to do it. And we can do it." And I said, "What about ASML equipment that you guys don't have?" But I said that, "Well, we are quietly building on it." And so to me, they are just shortly behind us. And then if you're not careful, they will just leapfrog ahead of us.
+## Operator | 
+What they've done is they've spent the calories on infrastructure optimization because they don't have the right chipset.
+## Lip-Bu Tan | CEO, Intel
+Correct.
+## Operator | 
+And so, like, if they're at 7 nm and we are at 2 nm, what they're offsetting that with, and they have unlimited power.
+## Lip-Bu Tan | CEO, Intel
+Yes.
+## Operator | 
+They've got engineering capacity.
+## Lip-Bu Tan | CEO, Intel
+Correct.
+## Operator | 
+That actually creates the capital redirection towards making sure that you drive a certain level of infrastructure optimization.
+## Lip-Bu Tan | CEO, Intel
+That's correct. I think the one thing that we are behind is, you know, I think all the AI crowd, you need a lot of power.
+## Operator | 
+Right.
+## Lip-Bu Tan | CEO, Intel
+Then if you look at the U.S., the regulatory approval, and then it just takes longer to get that. In China, if they decided to have it, you know, they quickly can get all the approval and get it done. So that's something that we have to pay attention. We may be falling behind.
+## Operator | 
+So you're already seeing you're doing this within, you're investing in companies. What do you see open source development changing in the U.S. materially? Or do you feel like it continues on the foundation model side where it's going to be largely closed source and not open weights open source models?
+## Lip-Bu Tan | CEO, Intel
+Good question. You know, some companies, they call it open, open source. And then when they become successful, they become closed source.
+## Operator | 
+Closed source.
+## Lip-Bu Tan | CEO, Intel
+And then so they block it out. So I think we have to continue encouraging open source. I think that's the best way of not repeating everybody's effort. And then so that we can really drive more successful improvement and quicker.
+## Operator | 
+But you almost need a business model where something else is able to go out and fund that.
+## Lip-Bu Tan | CEO, Intel
+Yes.
+## Operator | 
+Because if you go just with open source, the training costs are so high that you, the economics don't work out. Whereas in China, it's different because the government subsidizes a lot of that.
+## Lip-Bu Tan | CEO, Intel
+That's correct. So I think, you know.
+## Operator | 
+So how do we handle that? What's the game theory on our side? What do we do?
+## Lip-Bu Tan | CEO, Intel
+I think, you know, a couple of my friends are putting a lot of effort, in terms of, rebuilding that open source community and even funding some of this, the best AI research, researcher to really do that. They even form a new institute rather than just university to fund some of this program. I think I really encourage I jump on it because this is something that's badly needed. Same thing for semiconductor. You know, I used to be, you know, the only guy venture investment. Until this AI takeoff, everybody knocking on my door. "What is the next big deal that you are doing?" So I think overall, I'm glad to see all my brother and sister from the VC side starting to pour money to VC to co-invest with me. I think in some way, I think we have to continue doing that.
+And then, the other part is on the foundry side. You know, it's very important to have a U.S. manufacturing foundry. That's why I decided to come in and double, triple down. It's a long-term business. But we just have to really do that because the industry needs that. You know, and then the U.S. needs that. So I think overall, not just the process, also the advanced packaging. And that becomes really become the bottleneck and something that we have to really continue to drive system wafer kind of packaging arrangement. And that's why we are investing in some of that and then some of the new technology to drive the packaging so that we can really help enable the AI driver and then to really take off.
+## Operator | 
+Does Intel build GPUs in the future?
+## Lip-Bu Tan | CEO, Intel
+Yes. I just hired the chief GPU architect. Then, so he's very good. I'm very delighted he joined me. It takes some persuasion. Then I told him that not just CPU, GPU is also very important, different or different application workloads. So you have to really optimize. I'm not hung up with just x86. I also embrace RISC-V and Arm. You've got to be more flexible. You know, key thing is more on the, you know, the, it kind of more the software layer that you have to drive down from. So I call it the Software 2.0. It's define the software, you drive the hardware.
+## Operator | 
+Intel's going to build CPUs, they're going to build GPUs, they're going to have their own foundry to build those CPUs and GPUs. You're going to have a foundry that's going to be made at scale, available to other manufacturers. You will make sure that you partner with the other GPU providers.
+## Lip-Bu Tan | CEO, Intel
+That's right. Also some new material. You know, like the glass is a very good insulator. So we are double down on glass. Then the other part is artificial, you know, the, you know, diamond. That's another good, you know, glass. So I think we just have to go through the different chemical table.
+## Operator | 
+Yeah.
+## Lip-Bu Tan | CEO, Intel
+Find out what are the new material. Like, you know, gallium nitride is very good for RF and then switch area. And so that's interesting. So I think we have to look at different new material. We have to look at CMOS is a little bit run out of steam. So you need to look at some of the new material. And that's why it's very important for me is I have continued to have that curiosity. So starting to look at some of this new thing, think a little bit short-term, mid-term, and longer-term.
+## Operator | 
+Longer-term.
+## Lip-Bu Tan | CEO, Intel
+How you're going to make an impact to the industry.
+## Operator | 
+So, Lip-Bu, you've got enterprise audiences over here. You've got the CIOs, you've got chief information security officers. There's 10 million people that are probably watching, going to be watching this. What advice would you have for people on how they should be thinking about AI and how they should be thinking about scaled infrastructure buildout? What would you say to them?
+## Lip-Bu Tan | CEO, Intel
+Yeah, it's a very good question. So I think we all get excited and also a lot of pressure to adopt AI and then to the enterprise. So I think it's very important to think about what is the problem you try to solve? What is the outcome you want to look for? And then, and also some of them, like just Intel, we have a very legacy IT infrastructure. I just recruited, you know, the best CIO that I can find. And I brought her on board. And I kind of told her that, "Look, look at, I think it's a good time to look at the foundation. What are the changes we need to make?
+You don't just put on top of the old legacy, it's not going to work." And then you have to really undo that and then embrace some of the new AI tool, you know, function by function to really drive the optimizations. But more important is what are the process that you're going to drive the matrix to success? And then frankly speaking, a friend of mine, we just talking, actually, is MIT professor. I'm on the MIT, you know, CEO advisory board. And one just mentioned about if you look at all the AI, the study that he studied, is that basically the productivity of the global economy is growing very small percentage. So we still have to adopt more, you know, broadly so that we can really see the productivity go up, you know, with Agentic AI, with agent, and then robots.
+## Operator | 
+It's actually the lowest it's been in, you know, compared to back in the 1800s, and Mark Andreessen had it was very eloquent to, you know, talk about that.
+## Lip-Bu Tan | CEO, Intel
+I was shocked to see the productivity that he showed me the curve.
+## Operator | 
+Yeah.
+## Lip-Bu Tan | CEO, Intel
+I said, "Wow." I thought that would be much higher than that.
+## Operator | 
+Much higher.
+## Lip-Bu Tan | CEO, Intel
+I think that's something that we have to think about. What is the end outcome that you want to have? Then go back, you know, to foundation, how do we drive that? Meanwhile, it's keep ourselves, you know, accountability that able to really drive the productivity of the enterprise that you can measure, you can present to your board. "Hey, by doing this, I invest this new technology, actually improve my productivity and improve our revenue growth," you know?
+## Operator | 
+Lip-Bu, Intel is a national treasure, but so are you. Thank you for being here.
+## Lip-Bu Tan | CEO, Intel
+Thank you for inviting.
+Data Source: Quartr Last updated: Feb 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,287 @@
+TITLE: Cisco AI Summit 2026
+DATE: 2026-02-03
+## Moderator | 
+I don't think, Kevin, I've shared this story too many times, but you're probably the first person, it's seven years ago, I was asking you, like, "What do you think is coming down the pike?" And you just shook your head. I still remember this moment so distinctly, and you said, "Everything's gonna get turned so upside down with AI, and people have no idea." And that's because you were working on a lot of this stuff back then, and you had a front row seat to it. Tell us a little bit about where we are right now, and how you're seeing this thing kind of, you know, lay out. And did you think this. Are you surprised with any of it?
+## Kevin Scott | CTO, Microsoft
+Yeah, I mean, it's hard not to be surprised. I think, things have accelerated probably faster than I was expecting. So, like, none of this stuff is surprising, like, what is happening. You know, I think it was relatively clear, even those, like, seven years ago when we were having these conversations, that, like, you know, scaling laws were gonna work, and that, like, the models were, and the systems that we build around them, were gonna be, like, very, very powerful in a general sense, and they were gonna behave like a platform, and, like, people were gonna be able to build lots of exciting things on top of them. So it was just a question of, like, how fast is all of this stuff gonna happen? And I think it's happening faster than.
+## Moderator | 
+Than you expected.
+## Kevin Scott | CTO, Microsoft
+Yeah, than I would have predicted. But, like, what's happening doesn't seem like too terribly surprising.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+You know, and I think the things that are ahead of us are, you know, I'm sure you all have been talking about this already. We really are not yet at the point of diminishing marginal return on the, like, capability increases in the platform infrastructure that is powering all of this change.
+## Moderator | 
+But at the same time, there's a capabilities overhang, where people are using.
+## Kevin Scott | CTO, Microsoft
+Oh, 100, 100%.
+## Moderator | 
+100% .
+## Kevin Scott | CTO, Microsoft
+Yeah, yeah. I've been, like, diatribing about this inside and outside of Microsoft for a few years. Like, the models are already way more powerful than what people are using them for. I think the closest glimpse that you're seeing to, you know, like, true full utilization of model capability is in coding, and, like, it's an absolute frenzy right now in the state of software development. Like, you have very, very senior people and, you know, like, best coders you've ever met in your life who are just completely overwhelmed trying to keep up with the rate of progress that's happening right now.
+## Moderator | 
+So simulate that out. What happens? It is. There's a software engineering job, how does it change in the next?
+## Kevin Scott | CTO, Microsoft
+Well, I think it becomes more of what, like, a good software engineer, good software engineers have always done. It's, like, less about the mechanics of, you know, like, what characters are coming off of your keyboard and going into a text editor.
+## Moderator | 
+Right.
+## Kevin Scott | CTO, Microsoft
+A nd more about, you know, like, do you really understand what it is that you're building and why?
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+Like, how is value being created? You know, like, how can you move faster in recognizing what value you're creating for people, and just sort of accelerating that rate of improvement. Like, that's what the best software engineers that.
+## Moderator | 
+Right.
+## Kevin Scott | CTO, Microsoft
+Y ou know, you and I have always worked with, like, have been able to do. And, you know, I, I think that is still going to be, like, very true. Like, it's critically true right now because, you know, like, you can produce a lot of code with these coding agents right now. There's nothing to say that it's good code.
+## Moderator | 
+No.
+## Kevin Scott | CTO, Microsoft
+So, like, you can just sort of spray a bunch of stuff.
+## Moderator | 
+Actually, review has become the bottleneck.
+## Kevin Scott | CTO, Microsoft
+Yeah, yeah. You know, review is a bottleneck and, you know, like, you know, people need to really make sure that they're not getting confused between activity and progress.
+## Moderator | 
+Yep.
+## Kevin Scott | CTO, Microsoft
+I mean, and it's been the hard thing. Like, I've been managing software engineering teams for a very long like 25 years now, I think. And over that 25 years, like, I don't think any of us have ever really been able to say what constitutes actual engineering productivity. And, like, there's some things that you can obviously speed up a lot with AI systems, and, like, you know, you can really see it with startups.
+So, like, there are these startups that are getting funded with an order of magnitude less money than they would have just two years ago.
+W ith, like, very small teams doing, like, crazy amounts of work, and, like, moving very quickly. And, like, that's super, super exciting. But, you know, it really is gonna put the focus on choice and taste and, like, understanding o f like your problem domain, your customer, and what you're trying to do. Like, that's the really, really critically important thing now.
+## Moderator | 
+Do you think the roles in the software development lifecycle will fuse and change and merge?
+## Kevin Scott | CTO, Microsoft
+Yeah, look, and it's, it's always changed.
+## Moderator | 
+Yeah, it's always changed.
+## Kevin Scott | CTO, Microsoft
+Y ou know. Like, I, what I hope, honestly, like, this is Kevin's opinion, not Microsoft's opinion, but yeah, I, I've been grumpy, like an old fart for a whole bunch of years now. That, you know, like, we have turned computer science education into, like, vocational education. Like, you know, like, students go get a CS degree because they want to learn how to be programmers, and, like, what I want people to go back to is learning how to be computer scientists.
+## Moderator | 
+Yeah.
+Be thinkers about the the domain.
+## Kevin Scott | CTO, Microsoft
+Yeah. Can you think algorithmically? Do you know how to decompose problems? Do you know how to choose the right problem to go spend your time and energy on? Like, do you understand, like, how the science of what you're doing fits into society, and into, yeah, the, like, the broader ecosystem of science that's happening around you? Like, do you possess the capability.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+A nd the curiosity to, like, punch down through the layers of abstraction, to, like, debug what's going on when the machine doesn't give you the result that you want? I mean, it's like, all of those things are, like, the critically important things, and I think we'll, we'll get back to a lot of that because, like, a bunch of the vocational aspects of the software engineering job are just gonna change so radically over the next handful of years, that it's gonna be unrecognizable.
+## Moderator | 
+Now, you've spent a fair amount of time thinking about the future and the good and the bad, so paint out two futures for us. The fundamentally optimistic one with AI, and one where it doesn't go quite the way that we would like it to go. And then I wanna talk about Microsoft and how you folks are, you know, kind of working with that.
+## Kevin Scott | CTO, Microsoft
+Yeah, so look, I think the optimistic story is probably the more likely one, because it's gonna be the necessary thing that has to happen. So, and it starts with, like, a thing that doesn't sound optimistic, but I was chatting with a friend the other day who runs, like, one of the premier educational institutions in Japan, and like he said this thing sort of offhanded to me that, like, took me aback, and he was like: "Yeah, this year is peak high school graduation in Japan." So Japan will graduate as many high school students as they're ever going to graduate in a single year this year, which means, like, from here on out, fewer high school seniors graduating, like, fewer going to college, and it goes, like, down, and there's nothing to do about it.
+## Moderator | 
+Wow
+## Kevin Scott | CTO, Microsoft
+Y ou know, sans, you know, like, some crazy thing with immigration. I, like, there, there's just, you know, by looking at what the birth rates are, that it's just precipitously gonna go down.
+## Moderator | 
+Is it because of the demographics?
+## Kevin Scott | CTO, Microsoft
+It's just demographics.
+## Moderator | 
+Just pure demographics in Japan.
+## Kevin Scott | CTO, Microsoft
+Just pure, pure demographics.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+And so, you know, like, we, we know in abstract, right? Like, the demographic data is super clear, that, Japan is in population decline. It's a little bit ahead of where, like, other places are, but, like, China, Korea as well, like a bunch of countries in Western Europe, the United States, sans, immigration, would also be, like, in population... or would be in population decline, over the next handful of decades. And so, like, you, you have this aging population,
+## Moderator | 
+It's actually a much, much bigger issue than people have thought.
+## Kevin Scott | CTO, Microsoft
+Like, you can even see it in the United States. Like, there are these rural places like where my mom lives, where the population is aging faster because, you know, just, like, the demographics are kind of unfavorable in, like, rural parts of the country. And, you know, it really has these massive implications that we don't talk about all that much, and, like, one of the implications is, if you don't have as many people to do the work, and you have more people who are going to create new forms of work for society to take care of, like, this elderly population that is growing very, very rapidly, something has to happen with the very nature of, like, how you get work done and what productivity looks like in order for you to maintain just the level of, you know, quality.
+## Moderator | 
+Normalcy.
+## Kevin Scott | CTO, Microsoft
+O f life and society and, like, what we think of as normal-
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+I n society, and, like, it doesn't happen for free.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+And so you have to have technological interventions. This is always the way that we've solved our productivity problems as a species. And so, like, I think the optimistic case is, like, thank God AI has come along when it has.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+That, like, we actually have this and a handful of other technological things happening in the world right now that will give us at least a partial answer for what you do when you, over the next handful of decades, don't have the same labor dynamics as you've had over the, you know, like, actually, the whole course of recorded human history.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+It's, like, a crazy thing that's happening-
+## Moderator | 
+It is. It is
+## Kevin Scott | CTO, Microsoft
+T hat we just don't talk about all that much. And so.
+## Moderator | 
+AI becomes that kind of unlock that you need, otherwise, like, you.
+## Kevin Scott | CTO, Microsoft
+Yeah, and it look, it can't do everything, and it's not a substitute for, you know, it's not a substitute for all of the things that human beings do. Like, I don't, you know, like, I don't think anybody here wants it to be, like. But it gives us an option.
+## Moderator | 
+Right.
+## Kevin Scott | CTO, Microsoft
+F or, you know, like, how do you go sort out some of these crazy problems that otherwise would be very zero-sum and very, very challenging and destabilizing? And so, like, I am optimistic that we can, you know, put our heads together, like, identify all of those things that feel zero-sum. We need to turn them into non-zero-sum problems, and then go tackle them, and, like, have the good sense to have taste about how you, you know, put the technology into practice. So that's the optimistic case. You know, the pessimistic case, like, I won't give you the one, like, you can just sort of pick your.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+You know, like, there's a palette of them right now. Like-
+## Moderator | 
+The Terminator happens.
+## Kevin Scott | CTO, Microsoft
+Yeah.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+Like, you know, many, many things. Like, so my, my pessimistic scenario is that, you know, like, we get into some superficial mode about AI that, you know, like, we, instead of using it to go solve some of these, super important problems with urgency, that, like, we use it to just further distract ourselves.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+A nd, you know, like a bunch of superficial, Like, I look at, you know, my, my kids are, like, half and half, right? So, like, you know, half the time, they're using AI in, like, really super ambitious ways to, like, do things, you know, with, you know, the biomedical engineering projects they're working on, or, like, you know, whatever their technical fascination is, and, like, they're just way ahead of where I was when I was their age. And then the other half of the time, they're using it to, like, you know, make pictures of, you know, green llamas with big butts that they paste someone's face on. And it's like, okay, like, you know, hey, that's, that's a good use of GPUs.
+## Moderator | 
+That's a good use of compute resource.
+## Kevin Scott | CTO, Microsoft
+Yeah, right. Yeah, like, "My GPUs are on fire, and, like, this is why." Yeah, so, like, I hope that, like, we can resist the temptation to make the whole narrative about AI as like, okay, well, here's, you know, the new sensational thing that happened over the weekend or, you know, like, the new way that, you know, a bunch of powerful people are gonna throw darts at each other, and, like, we can just make it more about, like, what does society really need from this technology?
+## Moderator | 
+How long have you been at Microsoft now?
+## Kevin Scott | CTO, Microsoft
+A long time. Like, this is the beginning of my tenth year.
+## Moderator | 
+Tenth year.
+## Kevin Scott | CTO, Microsoft
+It's the longest I've ever worked anywhere.
+## Moderator | 
+What's, in your mind, what's the most misunderstood thing about Microsoft in the world?
+## Kevin Scott | CTO, Microsoft
+Well, look, I think maybe this isn't misunderstood, but like, you know, you, you have to understand about Microsoft, that it's a platform company. So like we, we don't really think about doing anything unless it's building something that someone else can pick up, and then build another thing on top of. It's like wired into the DNA of the company.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+And, you know, both for good and bad, right? It means that, like, we're really good at some things, and like we're, we're less good at others. And, you know, as a platform company with five decades of experience doing platforms, you know, hyper successfully sometimes and less so other times, we just have infinite patience for the messiness of what comes with technological, you know, transformations, like the one that we've got right now. Like, a lot of patience. Like we're not waiting around to go do stuff until the ideal conditions exist for things to go maximally fast. Like, we're gonna jump in early on a bunch of things, like, we're gonna get a bunch of things wrong, we'll get a bunch of things right.
+Like, we will deal with the world as it exists, like, not as you know, we wish it might be. You know, like you know this as well, like, you've spent your, you know, your entire career doing enterprise software.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+Like, it's, you know, it's a messy business sometimes. Like, you have to go make the thing that the customer wants and needs, and in some cases must have. It's like, it's not about changing someone's mind, it's about doing the thing that is necessary in a situation. And so like.
+## Moderator | 
+What's worse than having no customers? Having one customer. You can never turn something off, like you can only turn them on.
+## Kevin Scott | CTO, Microsoft
+Yeah.
+## Moderator | 
+So.
+## Kevin Scott | CTO, Microsoft
+But look, at the same time, like, that's an enormous privilege.
+## Moderator | 
+It is.
+## Kevin Scott | CTO, Microsoft
+Like, if you sort of think about all the things that Cisco runs in the world, and all of the things that Microsoft runs in the world, you know, they. You know, if you took all of those things away, like, it would just be a grinding halt.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+And so, yeah, and, and I think you, you have to appreciate the privilege of, you know, like, all of that messy complexity, you know, obligation that you have to make sure that all of these things work, and they're up, and they're available, and like, you... You know, when they are not available, that you, like, go dig in and understand what went wrong and make it better, so it doesn't happen again. And, you know, it's, it's, for, for me as an engineer, like, it feels, it, it feels great because this is what I've always been drawn to as a curious technical person, is like these platform problems, like making tools for other people to go use to, like, make things. Like.
+## Moderator | 
+Yeah
+## Kevin Scott | CTO, Microsoft
+I t's even what I do in my hobbies.
+## Moderator | 
+I know that.
+## Kevin Scott | CTO, Microsoft
+Uh.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+So, like, it's why I've been there as long as I have. Like, I just super enjoy the challenge of, like, all of these messy platform problems.
+## Moderator | 
+So if you were to think of what has been the most surprising thing for you, what are you most proud of the contribution you've made at Microsoft? And then I want to talk a little bit about the hyperscaler business.
+## Kevin Scott | CTO, Microsoft
+Yeah, I mean, look, I am proudâlike, maybe the proudest thing I've done is helping to recognize the shift, the shift in AI from being a very narrow specialist thing where, you know, like, the way that we all did machine learning 20 years ago, like, to the extent that we were doing machine learning at all, is you had a group of quantitative experts who were working on a very narrow problem, like predicting, you know, whether someone was gonna click an ad or not in a particular context. Like, that's a problem I worked on for a while.
+## Moderator | 
+Long time, yeah.
+## Kevin Scott | CTO, Microsoft
+And like, you'd have your experts and your data related to that domain, and like, you'd pick an algorithm, and you'd go train a thing, and like, you had your experimental pipeline and, like, everything was sort of specific to that problem. And like, being able to recognize that, like, okay, well, finally, the promise of more general AI is about to be realized, and then getting it through the partnership with OpenAI and a bunch of the things that we built together with them, like, really out into the open. So.
+## Moderator | 
+I don't know if everyone realizes that Kevin was the initial architect of the partnership with OpenAI as they were first getting started. So it was. Like, without that partnership, I don't think we would have actually in the world benefited from all the things that came after it.
+## Kevin Scott | CTO, Microsoft
+Yeah, and whether or not that's true, like, you know, the thing that I'm especially proud of is, like, I like a world where you actually have the capabilities of these platforms, like, out in the open. Like, where we can have a conversation like this, where it's not just, like, one Silicon Valley company.
+## Moderator | 
+Right
+## Kevin Scott | CTO, Microsoft
+T hat is building this thing on their infrastructure with their smart people, and then they decide what is going to get done with it. And it's, like, out there for anyone who can go sign up for an API key to, like, go start building something on top of.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+Like, that democratization of, like, powerful AI capability is, like, a thing. Like, you know, whatever small role I had in that l ike, that, that I'm proud of.
+## Moderator | 
+Yeah. So on the hyperscaler side of the business, and how long do you think we stay in this constrained environment of infrastructure? What happens there?
+## Kevin Scott | CTO, Microsoft
+Yeah, I don't know. Like, I, I think it's gonna be constrained for, like, a while. Like, I keep thinking we're, you know, we're about to pull out, and then demand keeps, you know, sort of exploding.
+## Moderator | 
+Yeah.
+## Kevin Scott | CTO, Microsoft
+And like, I look at what's coming capability-wise over the next 12 months or so, and like, I just can't imagine, like, with the capabilities that I know are coming online, that there's gonna be less demand for the product or for the capabilities that are coming. Yeah, so I think we're just looking at coding agents, like the most ambitious teams at Microsoft right now, who are like fully using coding agents, where the thing that limits them is their available attention to manage the full complexity of what the agents are doing, cost about $150,000 a year in inference.
+And so a very tiny slice of even the community of software developers, like, have that degree of access and ambition right now for the product, but, like, they all could benefit from it.
+## Moderator | 
+Right.
+## Kevin Scott | CTO, Microsoft
+And then you could apply that to a whole bunch of other things as well. So I just don't see how the demand for inference is gonna go down. And it's hard to imagine, like, how you get into a state just given, you know, like, what the silicon situation is, the hardware situation, like, how difficult it is to, like, build data centers and deploy power and all the things that you wanna do, like, how you get ahead of that anytime soon.
+## Moderator | 
+Does Microsoft build their own silicon just because there's not enough being built by all the current manufacturers, so you want to continue to do that? Or do you see yourself where Azure is gonna be 99% built on Maia?
+## Kevin Scott | CTO, Microsoft
+Yeah, look, this is the other, you know, going back to your question earlier about, like, a thing people don't understand about Microsoft. Like, we also, for, you know, 50 years now, have only been successful because we have all of these partnerships that we're doing, and so, you know, like we.
+## Moderator | 
+We enjoy a great one with you.
+## Kevin Scott | CTO, Microsoft
+Yeah, so we have our own chips, and, like, the chips are amazing, but, like, we also have gigantic fleets of NVIDIA hardware and gigantic fleet of AMD hardware, and, like, we have a huge amount of silicon diversity. Like, part of that's driven by, like, what people want us to provide for them, and, like, part of it is driven by what we know about where our workloads are going and, like, what we need to build to, like, be maximally efficient. But, like, at any point in time, like, we really... Like, we built an infrastructure to manage the complexity of all of this stuff and, you know, like, whatever is most cost efficient is, like, the thing that we are going to go deploy at scale.
+## Moderator | 
+Last question: What's the one thing about the human approach to technology that you wish were different?
+## Kevin Scott | CTO, Microsoft
+Say that one more time.
+## Moderator | 
+What's the one thing about how humans are approaching technology in this era right now that you wish were different?
+## Kevin Scott | CTO, Microsoft
+So I just want everybody to remember that, like, the technology hasn't transformed into anything other than a tool. And, like, as a tool, it is there for us to do interesting things with. And so, like, I don't think that there's any kind of inexorable trend line about the technology that sort of dictates one path versus another. It's all about choices of, like, what we choose to do with the tool and how we prioritize things. And I think it's, like, really, really, really important for us to focus on, like, how we, as individuals who are wielding the tool, can do that in service of, like, our fellow human beings.
+Like, I wish every day, like, we could all go into our jobs and think about what we're about to do and think, "You know, is this serving my fellow human beings well or not?
+## Moderator | 
+Right.
+## Kevin Scott | CTO, Microsoft
+If we did that, like, we would be in a, like, a great place at the end of the day.
+## Moderator | 
+Last time I'd asked you this question, you had said. It was a great answer you'd given me as well, which was, "I wish people didn't actually think about things as as zero-sum as we do.
+## Kevin Scott | CTO, Microsoft
+Yeah.
+## Moderator | 
+You know.
+## Kevin Scott | CTO, Microsoft
+Yeah
+## Moderator | 
+Be cause it's very kind of zero-sum. I have to, in order for me to win, you have to lose, and I just don't think that's the way that the world's gonna evolve.
+## Kevin Scott | CTO, Microsoft
+Yeah, and look, the zero-sum problems are miserable.
+## Moderator | 
+Mm-hmm
+## Kevin Scott | CTO, Microsoft
+L ike, they're all about, like, scarcity and constraints.
+## Moderator | 
+Yeah
+## Kevin Scott | CTO, Microsoft
+And like winners and losers, and like the thing, the thing that I think we really want from our technology is for it to take as many of those, any of those, like, zero-sum things that are, like, real challenges for us and turn them into non-zero-sum things. Like, it's like, honestly, it's the reason to go do technology.
+## Moderator | 
+Kevin, we should do this more often.
+## Kevin Scott | CTO, Microsoft
+We should.
+## Moderator | 
+It's such a pleasure to see you.
+## Kevin Scott | CTO, Microsoft
+Yeah, pleasure to see you.
+## Moderator | 
+Thank you all.
+## Kevin Scott | CTO, Microsoft
+Thank you.
+## Moderator | 
+Thank you, Kevin.
+## Kevin Scott | CTO, Microsoft
+Thank you.
+Data Source: Quartr Last updated: Feb 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

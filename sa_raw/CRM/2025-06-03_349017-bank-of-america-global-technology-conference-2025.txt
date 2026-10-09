@@ -1,0 +1,440 @@
+TITLE: Bank of America Global Technology Conference 2025
+DATE: 2025-06-03
+## Brad Zelnick | Analyst
+Welcome to day one of the conference. I'm fortunate to be kicking off the conference here with Salesforce. Always my favorite week of the year, just because we have so many great investors in the same place, all these great companies here. Learn a lot. Looking forward to the next three days. Thank you all for joining. We've got a great lineup over the next few days, and really looking forward to the conversations over the week. We have close to 500 registered investors this year. That's a record number. Great attendance, 155 issuers. One-on-one meetings, just for some administrative things, will take place on the second, third, and twelfth floor, as you all probably are aware. The lunch keynote with DataDog will be in this room at 12:00 P.M., and please join us for the evening reception on the 32nd floor at 4:45 P.M. tonight.
+Look forward to that. A quick commercial. It is II season. We do ask for your support. We work hard throughout the year to put together good content and events like this. The TMT team would very much appreciate your support on the II vote: Vivek, Justin, Wamsi, Tal, Jason, myself, Koji, and Curtis. With that, want to kick it off here with Salesforce. We're very lucky to have Robin Washington here, Salesforce's new Chief Operating Officer and Financial Officer. Thank you so much for joining.
+## Robin Washington | COO and CFO, Salesforce
+Thank you. Thanks, Brad. Thanks for the invitation. And good early morning to everyone, although I know for the East Coast folks, it's almost midday.
+## Brad Zelnick | Analyst
+Yeah. Bright and early.
+## Robin Washington | COO and CFO, Salesforce
+Right. Exactly.
+## Brad Zelnick | Analyst
+Exactly here. Yeah.
+## Robin Washington | COO and CFO, Salesforce
+No, my pleasure.
+## Brad Zelnick | Analyst
+Absolutely. So.
+## Robin Washington | COO and CFO, Salesforce
+First one. So.
+## Brad Zelnick | Analyst
+Yeah. This is great.
+## Robin Washington | COO and CFO, Salesforce
+60 days in.
+## Brad Zelnick | Analyst
+We're delighted to have you.
+## Robin Washington | COO and CFO, Salesforce
+No pressure.
+## Brad Zelnick | Analyst
+First one. This is great, and look forward to the conversation. Thanks again, Robin.
+## Robin Washington | COO and CFO, Salesforce
+Thank you.
+## Brad Zelnick | Analyst
+I think Salesforce has been at the conference now since I've been at this firm. We're very much appreciative of your support, and it's great to have you here.
+## Robin Washington | COO and CFO, Salesforce
+Great analysts.
+## Brad Zelnick | Analyst
+Absolutely. Thank you. Why don't we just get started, Robin? Just your background. The role is Chief Operating and Financial Officer. If you want to, I think, provide a little perspective on your background, please. You've been a longtime board member at Salesforce, so certainly not new to Salesforce.
+## Robin Washington | COO and CFO, Salesforce
+Yeah.
+## Brad Zelnick | Analyst
+We'd love to get your perspective on your background and just the role itself.
+## Robin Washington | COO and CFO, Salesforce
+Sure. Maybe just a little bit about my background. I joined the Salesforce board in 2013. I was most recently the lead independent director from 2022 to 2025 when I took this role. Very interesting time for Salesforce, as we describe it, transformational in a lot of different ways. We continue to make progress. Before that, I was the CFO of Gilead Sciences.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+For a little over a decade. Prior to that, I was the CFO at Hyperion Solutions, and prior to that, PeopleSoft Chief Accounting Officer, both acquired by Oracle. So, enterprise technology and biotech, mostly my background. And you want me to just tell you a little bit about the role?
+## Brad Zelnick | Analyst
+The role, please. Yeah.
+## Robin Washington | COO and CFO, Salesforce
+Oh.
+## Brad Zelnick | Analyst
+Great.
+## Robin Washington | COO and CFO, Salesforce
+As you know, we're always ideating at Salesforce. This was really taking a look at our needs, et cetera. As Mark and I talked about where we thought we needed to be, my vision for the COFO, as we call it, org, is really to be the engine that fuels growth and productivity across the company. I think in this age of innovation, moving with speed, agility, cohesion, absolutely critical for us. Breaking down some of the silos between operations and finance is going to help accelerate us strategically and operationally in a lot of different ways. Brad, you heard me, and many of you, I'm sure, read the transcript mentioned on the call, the three priorities that I have. Of course, number one, accelerate customer adoption of AI and ensure customer success.
+Very much focused on operational excellence, as we think ultimately that's going to drive long-term shareholder value and responsible capital allocation. If we can kind of harmonize our investments and think about productivity, I'm certain we'll be continuing to provide long-term shareholder value and growth.
+## Brad Zelnick | Analyst
+Excellent. Thank you, Robin. You've been on the board for 12 years. You've seen a lot. You've seen the company go through a number of transformations. What are you most excited about here over the next, you know, one, two, five years for Salesforce? Where is the opportunity?
+## Robin Washington | COO and CFO, Salesforce
+Yeah. I would say I remain excited about core to Salesforce, which is our values, trust, and customer success being number one and number two, but also innovation, equality, and sustainability. I have learned, even with my biotech experience, I thrive in environments where I really believe in the mission and the value. What I'm really most excited about is we're really in an innovative area, at Salesforce. Six months ago, we weren't talking about Agentforce, and now we'll, I'm sure we'll talk a lot about it.
+It's the talk of the town. If you read and understand the broader ecosystem, you can kind of see the narrative being shared across many, many companies. Really excited about where we are in the cycle and opportunity. As we've talked about, we really can lead in this whole agentic area, or agentic era, I should say. We continue to advance AI and really focus on being the organization that really can fuel the digital workforce in a lot of different areas. So that's our focus of o ur vision.
+## Brad Zelnick | Analyst
+That's great. While we're on the topic of Agentforce, we'd love to get your perspective on how you think about the opportunity over the near and the long term. What does this mean for Salesforce? We're all trying to understand how additive this could be.
+## Robin Washington | COO and CFO, Salesforce
+Yes.
+## Brad Zelnick | Analyst
+To the software industry, and Salesforce seems to be in a great position here. We'd love to get your perspective on, you know, how you see that opportunity unfolding. How material could it be to the business over time?
+## Robin Washington | COO and CFO, Salesforce
+Sure. We think it can be very material, and I'll go into that. I mean, it is very early in the cycle of AI adoption, particularly at the enterprise level. I'm sure we'll talk about some of the causalities behind tha. But w e definitely believe we're well-positioned to win. I would also say, if you think about AI and Agentforce, ultimately, it's really going to continue to fuel our core products as well. One of the things that we're learning just in this process is we're in it together. We're really focused on customer success. O ver the long term. The experimentation that's happening with AI is real. How we lean in. We really focus on customer success. You heard us talk about on the call forward-deployed engineers. We definitely are adjusting our go-to-market motion to really be in the mix or in the sausage-making with the customer to really think about. How to best deploy agents longer term. It is a process. It's ongoing. Clearly, if you think about our differentiation, we call it our ADAM framework, but having the apps, the data, the agents, and the metadata.
+All at the fingertips really will distinguish and hopefully really improve the ROI and return on the agents that our customers deploy.
+## Brad Zelnick | Analyst
+Wonderful. Wonderful. How are you thinking about kind of boiling that down into, you know, some metrics that you're paying attention to in this cycle? What are some of the success metrics that you're tracking, to gauge the, to gauge the progress here with Agentforce and, and, and, how are they trending?
+## Robin Washington | COO and CFO, Salesforce
+Yeah. It's a, it's a great question. You know, just this past quarter, we reported over 8,000 deals of Agentforce. And keep in mind, we just introduced this product after Dreamforce of last year, so it's only b een six months. We reported that we've exceeded over a billion dollar in ARR for Data Cloud as well as AI, at the end of the last quarter. We see great acceleration, 120% year over year. It really continues to be that forward progress that we're looking at. Overall customer success also being important as well
+I think it's a good point. It's, we really believe the vision is this integrated platform. And I know some of the folks in this room I got to meet on listening tours, how do we continue to come up with incremental metrics to really talk about that success?
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+Is and the proof points is important. Measuring customer success, looking at adoption. Even if you look at this quarter, we talked about half of the Agentforce deals included re-ups, as we call them.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Customers coming back.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Having success and now wanting to continue to accelerate the consumption. That is important as well.
+## Brad Zelnick | Analyst
+Wonderful. Wonderful. You talked about Salesforce on Agentforce.
+## Robin Washington | COO and CFO, Salesforce
+Yes.
+## Brad Zelnick | Analyst
+Some of the use cases internally that you're, that you're running. We'd love to get your thoughts on how you're running Agentforce internally and what are some of the benefits that you're seeing?
+## Robin Washington | COO and CFO, Salesforce
+Yeah. We're using it across our enterprise in a lot of ways. You've heard us talk very much about our help desk. If you go onto our website, it takes you directly to use of Agentforce and agents.
+We are definitely seeing, we've seen over a million-plus cases and prompts and portals being handed that way. It has really helped us think about how to leverage our customer success agents. We've had some productivity that we've been able to redeploy. We're just going to announce a new agent. We call it Agentforce, where we're using it internally to really focus on how do we handle crisis or not crisis, I should say, just issues that we see internal. Our sales, our sales agent on Slack is used a lot. It's transforming the way agents sell. We've also got a quote agent that we're using that's really going to help us with C-times, queue.
+## Brad Zelnick | Analyst
+Excellent. Excellent. Great. Q1 results last week, your first quarter as CFO. Would love to get your thoughts. What are some of the key highlights that you'd like to point out here from the quarter? What's been the focus with investors since.
+The weeks, a week or so since you reported?
+## Robin Washington | COO and CFO, Salesforce
+Yeah. We really did well. It was a solid Q1 across all our key metrics. Revenue, op margin.
+Cash flow, CRPO, just overall good performance. We maintain it up the lower end of our guide as well, flow through the FX positive impact or tailwind that we experienced. We also had a great return on capital, over $3 billion returned, in terms of share repurchases and dividends. Solid results. In terms of the feedback, I think one of the top questions we received, Brad, is on the macro.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+You know, how do we think about the macro, going forward? April, which was our, the end of our Q1, was an interesting month around the globe, particularly in the US. You heard us talk about on the call our balanced portfolio. When you think about the different industries, the different products, the different segments we were in, we were able to weather the storm and the puts and takes and deliver on the results and reaffirm our guidance.
+## Brad Zelnick | Analyst
+Wonderful. Wonderful. I think you were pretty clear on the earnings call that you're assuming a similar kind of macro environment. Can you just maybe dive into a little bit of what you did see in the macro across different verticals, perhaps? Maybe that differed across different verticals and, yeah.
+## Robin Washington | COO and CFO, Salesforce
+Yeah. I mean, I think it did. You know, we, again, we had a balance. If you think about areas like manufacturing or consumer.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Clearly, you know, how the, how consumers were appropriately thinking about spending was something on top of mind.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Tariffs, clearly. Then, mid-market, small business, we saw good acceleration. It makes sense. Labor tighter, ability to move faster in deploying agents. We saw good performance in some of our regions and more temperate performance in areas like Northern Europe.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Public sector had its challenges, but it also.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+It had its opportunities. Again, it is that balanced portfolio that we were able to weather. As I said, we believe in environment as long as it remains consistent. We are very comfortable with where we stand relative to our guidance.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+We also, as you know, reiterated our OPEX, our operating margin, for the year as well. It remains for us a focus on being balanced and being responsible and thinking about productivity.
+## Brad Zelnick | Analyst
+Sure.
+## Robin Washington | COO and CFO, Salesforce
+All of those are important areas that we're focused on.
+## Brad Zelnick | Analyst
+Sure.
+## Robin Washington | COO and CFO, Salesforce
+For the company.
+## Brad Zelnick | Analyst
+Sure. Great. One of the things that we saw was the core business, sales and service, decelerated this quarter. It's been very stable, very consistent. Sales and service has been growing roughly in line with total revenue. Was there something one time in there, or is it just this macro impact that you're talking about in the core business?
+## Robin Washington | COO and CFO, Salesforce
+Yeah. We had a one basis point impact on growth of sales and service related to leap year.
+## Brad Zelnick | Analyst
+Sure.
+## Robin Washington | COO and CFO, Salesforce
+we've kind of weathered that.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+The overall expiration base and users, you know, while it's been challenging, another area, marketing commerce, somewhat challenging. I think overall we feel good about the level of growth. You know, this is something that we're really focused on. We talk about a new metric that we kind of call it our customer success, but more importantly, our customer health metric.
+## Brad Zelnick | Analyst
+Yep.
+## Robin Washington | COO and CFO, Salesforce
+That new AOV.
+## Brad Zelnick | Analyst
+Yep.
+## Robin Washington | COO and CFO, Salesforce
+By that, what we mean is we're not focused only on new business, but the health of our customers will, which will ultimately result in healthy renewal of our existing business. It is something that we're looking at incenting broader populations of the organization and some of our selling organizations to think more about that customer health. It has been very successful so far, but it is going to allow us, I think, to overall manage that growth and that.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+That user digestion that we're taking in, and more importantly, ultimately lead to better customer success longer term.
+## Brad Zelnick | Analyst
+Wonderful. Wonderful. I guess on that topic, where are you in terms of rolling that out? Is, are you, are you starting to incent certain organizations on this net new AOV metric?
+## Robin Washington | COO and CFO, Salesforce
+Yes.
+## Brad Zelnick | Analyst
+And you see that more broadly over time, or yeah?
+## Robin Washington | COO and CFO, Salesforce
+Yes. We're experimenting. We definitely have picked certain selling organizations. Sales leadership is all in.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Most importantly, it's a metric that Marc, myself, all of us review as a team together.
+## Brad Zelnick | Analyst
+Yep.
+## Robin Washington | COO and CFO, Salesforce
+We're not focused on selling success, but net new AOV success.
+## Brad Zelnick | Analyst
+Sure.
+## Robin Washington | COO and CFO, Salesforce
+It's interesting. You do see puts and takes in terms of.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+Who's achieving on both. We want to appropriately assent overall net new AOV going forward. It'll be something that we'll continue to roll out in the coming year. We're not changing quotas. I mean, this is something that we set last year.
+## Brad Zelnick | Analyst
+Got it.
+## Robin Washington | COO and CFO, Salesforce
+We're seeing good success. We're seeing good monitoring of our attrition. So we're happy with the outcome so far.
+## Brad Zelnick | Analyst
+Wonderful. Great. Thank you, Robin. One of your key priorities that you outlined as new CFO was operational excellence.
+## Robin Washington | COO and CFO, Salesforce
+Yes.
+## Brad Zelnick | Analyst
+would love to get your perspective on where, where are you, where, where's the focus operationally? And we've seen some great margin expansion over the last several years from Salesforce as the company's made the transition towards balanced growth.
+## Robin Washington | COO and CFO, Salesforce
+Yes.
+## Brad Zelnick | Analyst
+I know it's a priority. We'd love to get your perspective on where's the focus from here on driving up our operational excellence and efficiencies into the organization.
+## Robin Washington | COO and CFO, Salesforce
+Yeah. Really, really proud with our progress, as you said there, in our transformation, a thousand basis points improvement over the past several years. I always know it's what have you done for me lately.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+We continue to really focus here. You know, we reiterated a 100 basis point margin improvement for the full year.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+across the company. If I think about our levers of opportunity, Brad, they exist across our P&L.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+If you think about COGS, we've been focused on Hyperforce, and this is better leveraging of public cloud, AWS. We announced a partnership with GCP recently.
+## Brad Zelnick | Analyst
+Okay.
+## Robin Washington | COO and CFO, Salesforce
+As well. Those are all opportunities. If you think about R&D, we're looking at all types of productivity at leveraging our own tools and tools to make our engineers more productive. Sales and marketing, definitely an area of focus there as well. We've got what we call these golden ratios. You know, Marc talked a lot about the addition of our go-to-market motion and adding reps. That's included in our guidance. Most importantly, I want people to understand there's nothing more important than us being very successful at selling Agentforce and Data Cloud. And so we're experimenting in our go-to-market relative to areas where we see opportunities for growth. We're doubling down and adding resources. I talked about forward-deployed engineers. Again, co-developing agents focused on agent success. These are the appropriate investments that we think we need.
+This is factored into our guidance, and we'll continue to experiment because ultimately that customer success will drive growth longer term. Lastly, G&A, we'll have a new ERP system this fall. We continue to focus on spans and layers, geographic locations. As you mentioned, Salesforce on Salesforce. We've got a lot of levers that we can pull throughout our P&L to not only.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Guide to not only to reach a 100 basis point improvement for this year, but to continue those trends. I'll also add that we've incented our management team, and members of our overall team to focus on profitable growth. If you were to read our proxy, you'll see we've got targets that we've put in place.
+## Brad Zelnick | Analyst
+Okay.
+## Robin Washington | COO and CFO, Salesforce
+Around AI adoption, but also around operating margin improvement. Again, that balanced growth and driving profitable growth long term is key for long-term shareholder value.
+## Brad Zelnick | Analyst
+Wonderful. Thanks, Robin. It sounds like this is going to be balanced across cost of sales and the different operating expense line items. Sales and marketing seems like it could be a big outsized focus. Maybe I'm wrong, but would love to get your thoughts on just within sales and marketing. Where is the focus there on operational efficiency?
+## Robin Washington | COO and CFO, Salesforce
+I think there are bag carriers, and then there's the support infrastructure that we put in place. We talked about the use of agents.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+We have opportunities there as well.
+## Brad Zelnick | Analyst
+Okay.
+## Robin Washington | COO and CFO, Salesforce
+Again, as I mentioned, Brad, some of these investments are adjustments that we need to make. We're rebalancing resources, for instance.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+you know, the customer success agents that we are, customer success support folks that we've had in place, some of those will be redeployed.
+## Brad Zelnick | Analyst
+Okay.
+## Robin Washington | COO and CFO, Salesforce
+To become forward-deployed engineers.
+## Brad Zelnick | Analyst
+Okay.
+## Robin Washington | COO and CFO, Salesforce
+Those are just things that we work through.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+I'd say hold us accountable for OPEX margin improvement, but we want to be sure that we're making the right investments to drive Agentforce success.
+## Brad Zelnick | Analyst
+Understood. Understood. I understand you're reinvesting in sales and marketing at this point, given the Agentforce opportunity. Maybe, could you elaborate on that? You've talked about a thousand to 2,000 new reps that will be hired. Where's the focus on hiring new salespeople?
+## Robin Washington | COO and CFO, Salesforce
+If you think about how we think about growth and opportunity, we look at industries, we look at regions, and we look at segments. There are certain segments in certain territories where we saw great success in Q1.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Most importantly, where we see huge growth in our pipeline and opportunity and interest, those are areas that we're investing.
+## Brad Zelnick | Analyst
+Yep.
+## Robin Washington | COO and CFO, Salesforce
+Enterprise is an area where we're looking at forward-deployed engineers more because more complex, more data challenges. We want to get that consumption and flywheel going. We're investing more there. It really depends.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+Across the area, but where we see opportunity, we've now got the resources in place. One of the things that we talk about is ramping AEs. Some of these AEs have been there since the beginning of the year. We're going to see the ramp of them as we get to the second half.
+## Brad Zelnick | Analyst
+Wonderful.
+## Robin Washington | COO and CFO, Salesforce
+Of fiscal year 2026.
+## Brad Zelnick | Analyst
+Wonderful. Thank you. Why don't we shift to capital allocation?
+## Robin Washington | COO and CFO, Salesforce
+Yes.
+## Brad Zelnick | Analyst
+Repurchase and M&A has been kind of the focus, but would love to get your perspective as a new CFO, on how you, how you are prioritizing.
+## Robin Washington | COO and CFO, Salesforce
+Yeah.
+## Brad Zelnick | Analyst
+use of capital.
+## Robin Washington | COO and CFO, Salesforce
+What I'd actually say our focus on capital allocation has been, repurchase, dividend, and investing in innovation. You're right. The third leg is responsible M&A. We talked about a framework.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+If we'll be opportunistic, if we see opportunities to focus on areas where we can improve the components of our core products. In the case of Informatica, that actually really helps us with data. Again, going back to that ADAM framework, data is really critical. We saw a real opportunity in a company that we've partnered with and we've followed for a very long time.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+It fits our core framework, particularly on right fit, acceleration, and on value. Value we've defined as accretive within two years.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+We've also refined our M&A playbook. That really will allow us to be much more aggressive in terms of integrating. We want to get the Informatica core into our core platform.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+We also believe across the organization, R&D, sales, and marketing, G&A, there are synergistic opportunities for us. It really checked all the boxes for us, and that's why we proceeded with that M&A acquisition.
+## Brad Zelnick | Analyst
+Wonderful. Wonderful. Thank you, Robin. You know, on that topic, I think it'd be worthwhile spending a little bit of time on kind of the rationale for Informatica.
+## Robin Washington | COO and CFO, Salesforce
+Yeah.
+## Brad Zelnick | Analyst
+Obviously, data integration is becoming a bigger priority now that Data Cloud and agents are coming into view more. Why was Informatica the right asset in this category? What excites you about this acquisition?
+## Robin Washington | COO and CFO, Salesforce
+I think one of the areas as we've been ideating and working with customers on Agentforce implementation is the ability to get the right data to fuel the agents, right? Particularly in enterprise, that's very complex. We see Informatica in a lot of our large accounts. When we announced the deal, our head of sales talked about the fact he had several CIOs reach out to him to talk about how excited they were to see this asset in our hands. You know, like any other major innovation cycle, customers are looking at ways to make it simpler and more integrated. We've seen great success with Data Cloud.
+## Brad Zelnick | Analyst
+Yep.
+## Robin Washington | COO and CFO, Salesforce
+We think Informatica will extend our opportunities in that area. It's very complementary. It's not necessarily overlapping, but it really does give us additional tools around metadata, data management. As I said, particularly in the enterprise, it will allow us to accelerate Data Cloud as well. Again, it's synergistic. We're excited about it. We're already planning for it as much as we can. We really see it as an opportunity that fits very synergistically in our portfolio and fits our M&A playbook and framework.
+## Brad Zelnick | Analyst
+Excellent. Great. Thank you for that. Why don't we shift to kind of advantages and culture a little bit? You know, as somebody who's been following Salesforce, I see the culture as one that is enthusiastic. You kind of reflect who you're selling to, salespeople who have, who are enthusiastic. You know, I would love to get your perspective. You know, you've been on the board for 12 years. You're very involved with the organization. What is it that makes Salesforce Salesforce from a cultural standpoint?
+## Robin Washington | COO and CFO, Salesforce
+I think our focus on customer success and trust are really important to us, but also we're very innovative. Agentforce is something that we built internally, with the team that's been with Salesforce a very, very long time and our ability to ideate and see what's happening around AI and how we can take our core platform.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+At AI, AI on top of it and really be value additive to our customers in the enterprise is something that we're very, very good at.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+We move with agility. I think we're adaptable. I think we put customers first. I think all of those things have allowed us to be very successful to date and will allow us to continue to be successful. As I mentioned, for me, we operate within our values.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+They matter to us.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+and again, trust being the number one value, which has proved to serve us well when it comes to our customers.
+## Brad Zelnick | Analyst
+Wonderful. When you think about the opportunity going forward with agents and even just, you know, continued expansion within core sales, marketing, service, et cetera, big category. I mean, what do you, what do you think of as Salesforce's advantages in the core business? When you think just, you know, as you're going after this agentic AI opportunity, what are the core advantages that Salesforce has?
+## Robin Washington | COO and CFO, Salesforce
+I think we've been at the forefront of the most important data in an enterprise, which is our customer data, right? How do you communicate with your customer? How do you better serve your customer? That ultimately fuels growth for our customers. Again, thinking about our framework of our apps, which have been in place for a long time that serve multiple different areas. If you think about now Data Cloud, if you think about our agents and now metadata, that integrated deeply unified platform we think is critical to success. It's proven time and time again, even as. As everyone would, experiments with different ways to think about AI, I think what we found is people come back to Salesforce because that platform and the integration of that platform is truly, differentiated. Data matters. It's a focus of ours, and we're seeing that play out over time relative to some of the stats I shared with you.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Where we see just the real interest in AI, Agentforce and Data Cloud.
+## Brad Zelnick | Analyst
+Excellent. Excellent. Maybe we could go back to some of the discussion earlier around investment priorities. I can imagine Agentforce and data is a big one, but would love to get your thoughts on R&D. Where is the focus? What are some of the focus investment areas there that are strategic?
+## Robin Washington | COO and CFO, Salesforce
+Sure. I would say on an R&D standpoint, there are probably three or four areas. Clearly, continuing to innovate in AI, but we want to ensure that as we think about agents and use cases, that we're ensuring that our core platform has the necessary incremental value. Industries have played out very well for us. We had some great success in life sciences this past quarter with a few really big deals. Our focus on not only life sciences, but other industries and additional functionality to support them is also really important, as well.
+## Brad Zelnick | Analyst
+Wonderful. And then sales and marketing, would love to get your thoughts there as well. What are some of the key focus areas within the Salesforce?
+## Robin Washington | COO and CFO, Salesforce
+Sales and marketing.
+## Brad Zelnick | Analyst
+A little bit of sales and marketing. We did, we did talk about that earlier, but beyond just, you know, Agentforce, where, where's the focus, would you say?
+## Robin Washington | COO and CFO, Salesforce
+I would say I would go back to, again, how we think about our business.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+We think about it in terms of the different industries that we support, the different geographic regions and segments. As we're seeing great acceleration in mid-market and small business. It's how we started as a company, right? In addition to enterprise, you know, so those are areas of focus for us. There are also geographies. You know, Miguel's a student of the world, you know, a Spanish citizen. So.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+He has pushed us to be strategic about other geographic areas that provide us opportunities as well.
+## Brad Zelnick | Analyst
+Sure.
+## Robin Washington | COO and CFO, Salesforce
+I also think just productivity.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+How do we leverage Salesforce on Salesforce to improve the productivity of our reps?
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Are we able to quote faster? Are we able to identify leads faster? All of these things are things that we're going to continue to experiment. Not only will it allow us to better serve our customers, we'll do it more efficiently as well.
+## Brad Zelnick | Analyst
+Wonderful. When we talk to the channel, we often hear Revenue Cloud, Industry Clouds are two core drivers of the core business. We talked a lot about Industry Clouds, but Revenue Cloud, I think it would be great to get your perspective on that. Where's the opportunity for Revenue Cloud? What are you seeing in terms of adoption? Where are we in that cycle? Yeah.
+## Robin Washington | COO and CFO, Salesforce
+I mean, I think Revenue Cloud, like the other ones, is one where we're appropriately positioning in the market as well. I would step back and really think about growth across our clouds and kind of what are some of those drivers. I didn't talk about it, but pricing and packaging.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Is one huge opportunity for us. We're really, when we're selling multiple clouds, we do well. We're sticky.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+We also are looking at different types of innovative ways to continue to get people to, use our bundles.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+You know, Einstein One is one area.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+You know, you mentioned industries. I didn't mention our partner ecosystem.
+## Brad Zelnick | Analyst
+Yep.
+## Robin Washington | COO and CFO, Salesforce
+As well.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+That's also a huge opportunity for us. We had great success with AWS Marketplace. Most of our deals had some type of partner involvement.
+## Brad Zelnick | Analyst
+Okay.
+## Robin Washington | COO and CFO, Salesforce
+These are all types of things that not only are going to fuel Revenue Cloud, but all our clouds and allow us to continue to grow.
+## Brad Zelnick | Analyst
+Wonderful. Industry clouds, it's been an enduring growth cycle for the company now for a number of years. You sell differently to an insurance company versus a retailer, et cetera, and you've executed really well on that. Could you just comment on which industry clouds are really there in terms of feature functionality, the ones that are really seeing traction and others that are maybe, you know, up-and-comers that you might see some momentum in that we don't hear as much about from you today, but could be kind of the drivers going forward?
+## Robin Washington | COO and CFO, Salesforce
+I have to say, I think they're all continuing to evolve. I think this new innovation cycle with AI has caused us to go back and relook at all of them, Brad. I guess I won't call out any specific ones of my children, but we're happy and proud.
+## Brad Zelnick | Analyst
+Yeah.
+## Robin Washington | COO and CFO, Salesforce
+With all of them. They clearly allow us back to that whole net new AOV and keeping customers engaged. If we can sell industry clouds, I mentioned life sciences, manufacturing is another area. You mentioned insurance.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+I think all of those are opportunities for us that we continue to expand in financial services.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+Particularly in large enterprises, we go deeper.
+## Brad Zelnick | Analyst
+Yep.
+## Robin Washington | COO and CFO, Salesforce
+This Agentforce experimentation is helping us understand more what our customers are looking for in use cases.
+## Brad Zelnick | Analyst
+Mm-hmm.
+## Robin Washington | COO and CFO, Salesforce
+To the extent there are core things that we can put in our core clouds.
+## Brad Zelnick | Analyst
+Right.
+## Robin Washington | COO and CFO, Salesforce
+To help facilitate and accelerate that. Those are areas of focus for us from an R&D perspective as well.
+## Brad Zelnick | Analyst
+Wonderful. Robin, that we are out of time. It was great to have you here. Thanks so much for joining.
+Data Source: Quartr Last updated: Jun 3, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

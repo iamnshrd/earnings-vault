@@ -1,0 +1,218 @@
+TITLE: 23rd annual dbAccess Global Consumer Conference
+DATE: 2026-06-02
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+All right. We can start. All right. Good afternoon, everyone. Thanks for joining us today. My name is Benjamin Black. I'm the U.S. internet research analyst here at DB, and I'm very pleased to be joined by Peggy Alford, the CFO of eBay. Thank you so much for joining us.
+## Peggy Alford | CFO, eBay
+Thanks for having me.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+All right. Maybe to kick things off, Peggy, you've been in the seat for about a year now. Some would say that you're a real boomerang, right?
+## Peggy Alford | CFO, eBay
+Yes.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Back to eBay, where you started in the early 2000s. You were at PayPal and on the Meta board in between. What drew you back in, and I guess what surprised you to the upside, and where does it work a little bit harder than you anticipated from the outside looking in?
+## Peggy Alford | CFO, eBay
+Yeah. It's so exciting to be back. As you mentioned, I was at eBay in the early 2000s. That's when everything was sort of ramping. We were ramping a lot of our outside of U.S. business at the time. I always realized what was so special about this sort of two-sided marketplace where we help sellers create a business and reach buyers across the globe. There was this inherent sort of doing great things that still remained when I rejoined. I feel like along the way, eBay sort of lost its way a little bit in terms of trying to focus on new in-season. When Jamie came back about five years ago, our CEO, he really went back to what we have the right to win.
+We wanted to create these customized experiences for non-new and season, for recommerce, really think about these categories where we can create these customized experiences that really help buyers and sellers find each other and increase the trust on the marketplace. It was really just this renewed focus on going back to the basics and doing what made eBay so special that really was attractive to me. You take tools like AI. We'll talk about Magical Listing and agentic search and those capabilities on top of what is this differentiated value prop for buyers and sellers, was just something that I really wanted to be a part of. I think what people from the outside, it seems like a pretty simple place, a platform, buying and selling.
+On the back end, there's just a lot of trust that we've built through these shipping solutions and financial services and Fitment and Authenticity Guarantee. These are all things that really create complexity, but also make it a lot easier for buyers and sellers to trust the platform and to really be able to create value between the buyer and seller.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Yeah, it looks like that's working because.
+## Peggy Alford | CFO, eBay
+Q1
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+2026 looks to be off to a relatively good start. You raised your GMV guide. You raised your operating income guide for the year as well. From a high level, if you had to point to sort of one to two factors that are driving this trend, what are those and what gives you the confidence that those will sustain?
+## Peggy Alford | CFO, eBay
+Yeah. What gives me confidence is how the breadth of the strength. There's a lot of folks that'll talk about the strength in PokÃ©mon. PokÃ©mon is one part of collectibles. We're seeing in collectibles outside of PokÃ©mon, which has been tremendously strong, triple-digit growth. We are seeing all of the sporting categories, cards really being popular. The other collectible card games are extremely popular. You step outside of collectibles. Fashion has been tremendously strong. Parts and accessories is a category that was strong even when I was back here in the 2000s, and it's still creating a lot of strength. When you look at focused categories, recommerce, and our C2C, our consumer-to-consumer business, it makes up about 70% of our GMV now. Those are areas where we can create these very customized experiences, and we're just seeing that strength quarter after quarter. That 70% grew in the high teens.
+Focused categories, specifically double-digit growth in Q1. We're just seeing so much strength that's very broad. Our playbook of really thinking about focusing on these areas with large TAM and creating experiences where buyers and sellers can really trust the platform, are really starting to yield the benefits that we're seeing in our GMV growth.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. I want to dig into all of those, but perhaps just more near term, just given the rising fuel costs, inflationary concerns, it'd be great to sort of hear an update on the health of the U.S. consumer.
+## Peggy Alford | CFO, eBay
+Sure.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+At least from your vantage point. How are you seeing a difference in trends domestically from a consumer health perspective versus internationally?
+## Peggy Alford | CFO, eBay
+Yeah. In the U.S., it's something that we're watching closely. The consumer has been very resilient, surprisingly resilient in some ways. You see that in our U.S. GMV strength, that's both a healthier consumer overall, but also these areas that we talked about that we're really focusing on strategically. Internationally, it's definitely been the macro environment has been much softer, and we see that show up in the strength of the international consumer. When you look at our areas of strategic focus, even internationally, you see a lot more strength than the macro environment would suggest. That tells us that our focus that we have is the right one. We're seeing improvement in the last quarter. In Q1, we saw improvement even outside of the U.S.
+We feel like our areas of strategic focus are the things that are going to cause the consumer, even with fewer dollars, to want to transact with our platform. We also see that because we have this sort of mix of discretionary and non-discretionary goods, if you think about recommerce, a lot of consumers when they're looking to get a deal may want to buy on eBay because they can get what they want for less. In times when you have more dollars, that we have a lot of inventory, like nice-to-have type inventory as well. I think that mix really creates some resilience on our platform as well, both in the U.S. as well as outside.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Some counter cyclicality almost, so to speak.
+## Peggy Alford | CFO, eBay
+Absolutely.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Okay. Let's key off the focus category. Collectibles, eBay Motors, fashion, those all running hot, I think is up 24% or so in Q1. That certainly outpaced the rest of the marketplace. You also have a lot of momentum, as you mentioned, in recommerce. What's the secret sauce? Do you think you found a structural edge relative to the more verticalized players out there? How durable of an edge do you think that is?
+## Peggy Alford | CFO, eBay
+Yeah. I think one of the things that we focused a lot on is making it a lot easier for sellers to list. A lot of friction is created just if you think about all the things you may have in your house and your garage and your attic that you could pretend that you're not using, that you could sell. What prevents people from doing that is just the friction of getting it online. So we have really focused on making sure that it is extremely easy, and AI really has enabled us to do that in a much more scalable way. We have this Magical Listing technology that we introduced where essentially you can just take a picture and all of the 30 years of data can help with creating all of the, tell you, like, "Take a picture of the label.
+Take a picture of the bottom. Take a picture. That enables you to use all of our proprietary data to create the listing, along with pricing guidance and that sort of thing. I think on the selling side, that technology has unlocked a lot of inventory. We see a 50% increase in listings, new listings, new listers, and also increases in GMV as well as items listed, just because of how easy it is. On the demand side for buyers, we're really focused on using AI to help with the agentic search process. How do you actually use your voice to essentially get to what you're looking for in a much more seamless way?
+I think that we're really just focused on taking the friction out of the process on both the buying side and the selling side, which has really been an unlock for us.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Yeah. Maybe sticking with focus categories, and I think you touched on this earlier in terms of the breadth that you really have, right, and how broad-based the strength is. It's not just PokÃ©mon, it's not just bullion.
+## Peggy Alford | CFO, eBay
+Yep.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+What's driving that breadth across sort of the collectible subcategories, across vehicles, parts and accessories, across fashion, and how can you prove to the market that that's a durable breadth and a strength in depth?
+## Peggy Alford | CFO, eBay
+Yeah. Part of our strategic focus has really been for each of these categories, figuring out where is the friction and how do we remove that. You take parts and accessories. We focused a lot both on what we built as well as some acquisitions that we did around fitment and Guaranteed Fit and allowing if it doesn't fit, which it will, given the technology, you can return it easily. If you think about that area, we are leading both in the U.S. and internationally just because of how easy it is to find parts for your car. In Europe, in some parts of Europe, a lot of the salvage parts are used even by, the insurance companies require that the salvage parts be used, or be offered at least, in addition to new parts.
+Then you combine it with the vehicles business that we've been scaling, and if you're an enthusiast car collector, you probably also may be interested in parts for your car. Those two categories are complementary. I think it's a combination of shipping solutions and specific customized functionality for each of these areas that really reduce the friction for both buyers and sellers in these areas with large TAM. That's been sort of our focus in all of these categories, which has enabled us to really get traction.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Great. I think right now, focus categories account for about 35% of GMV today. When you think about extending that playbook to sort of the next set of verticals, what's a bottleneck? What's the gating factor? Is it engineering capacity? Is it the right sort of authentication infrastructure? Is it marketing? How should we think about sort of the expansion to new subcategories?
+## Peggy Alford | CFO, eBay
+Yeah, we have a long sort of roadmap of additional focus categories that are sort of complementary to the ones we have today. We sort of balance the growth of our existing focus categories where despite our growth, there's a lot of TAM ahead. We want to make sure we're continuing to grow the focus categories that we have because these are areas where we really feel like we have a right to win and there's a large TAM. In addition to that, there's geographic expansion as well. We think about the focus categories and what's relevant in different parts of the world and where we can grow those categories as well. We also will continue to increase additional focus categories. Fashion was one of our newest focus categories, and we're seeing a lot of traction both in the U.S. as well as outside of the U.S.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. A lot of runway within the existing-
+## Peggy Alford | CFO, eBay
+Lots of runway, which that's what gives us confidence in sort of the continued growth ahead.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. Okay. eBay Live. Yeah, you spoke about the sort of annual run rate being up 8X.
+## Peggy Alford | CFO, eBay
+8X
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+on a year-on-year basis. That's a big number last I checked. You've launched it across a number of countries over the last few quarters. Maybe talk to us about the next leg here. Is it more category expansion going beyond the collectibles and watches? Is it sellers? Is it monetization?
+## Peggy Alford | CFO, eBay
+Yeah. It's a newer category for us and a newer medium for us, and we've seen very encouraging growth. You talked about 8x growth in Q1 year-over-year. That figure in Q4 was 7x. So we're seeing accelerating growth in eBay Live. We're focused currently on really making sure that we've got the right content on the site, so that's about finding these creators that really will drive the momentum and make it interesting for buyers to view this type of medium. We're also focused on the demand side and really making sure that we're creating an experience that's entertaining and is yielding sort of transactions and GMV. We're always working on sort of just improving the functionality of the capability, and what's exciting about it is for a platform like eBay, it's very complementary to our core business and specifically, right now, focus categories, fashion, collectibles.
+These are areas that are large for eBay Live right now. What we're seeing is that a lot of sellers in our core categories are recognizing that this is a very attractive medium for showcasing their content and enticing buyers, and then it creates this flywheel that works really well on our platform.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Yeah. Certainly. Acceleration is always good to hear as well.
+## Peggy Alford | CFO, eBay
+Absolutely.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Shifting to buyers, and it was great to hear the U.S. growth there, up 6% on a year-on-year basis and across enthusiasts, I think you're up 8%.
+## Peggy Alford | CFO, eBay
+Yep.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Exactly. That's higher than the global trends. Can you talk about what's driving that relative strength in the U.S.? Then relatedly, do you think you're seeing efficient returns on your marketing spend? If so, sort of what cross-learnings can you take domestically to the international business?
+## Peggy Alford | CFO, eBay
+Yeah. Our U.S. buyer growth has been very encouraging. It's really about the areas of strategic focus that are really attracting new buyers and also increasing the activity of the buyers to make them enthusiast buyers. It's something that we've really focused on. We focus on customer satisfaction because we know that GMV follows that. That's what really drives active buyer growth and enthusiast buyer growth. Marketing is a part of it. We've seen a lot of efficiency and effectiveness with our marketing. Especially for some of our newer areas of focus, we have really invested in marketing. It's not just marketing. As a reminder, most of our traffic is organic. 85% of our traffic is organic.
+While we are reliant on marketing and we're always focused on making sure that our marketing dollars are always efficient and driving usage, it's really the focus that we have on creating these really enticing experiences that's really driving a lot of the buyer growth. Outside of the U.S., I think the macro conditions have been what's really impacted our buyer numbers. However, we do see that in our strategic focus areas, the buyer growth is higher, which makes us encouraged that we're on the right track with the strategic focus areas.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. Once the macro clears presumably.
+## Peggy Alford | CFO, eBay
+Yeah. We feel like we're focused on the right things. When the market starts to turn around, then we'll see that shows up in the buyer numbers.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. In regards to sellers, so you had the U.K. C2C overhaul. You had the work in Germany before that. You've launched Australia, I think this or last month really.
+What's the right way to think about the playbook here? Is it sort of a repeatable formula that you keep on sort of portaling from one market to the next? How should we think about sort of seller growth over the next eight and then 12 to 18 months?
+## Peggy Alford | CFO, eBay
+Yeah. We definitely have a repeatable playbook. We see it working. We did the C2C initiative in Germany initially. We then rolled it out to the U.K. As you mentioned, we launched a C2C model in Australia last month. The playbook is something that we continue to apply to many markets. However, we look at each market individually and look at what buyers and sellers actually want, and we create our solutions around that. In the U.S., we have a very strong C2C business already. With the acquisition of Depop, we're extremely excited to amplify the C2C business in the U.S. with that business as well once it closes. Definitely a repeatable playbook, but something that we customize based on each market and what it needs.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. Shifting to AI, which is obviously the topic of every conversation right now. You guys have talked about this as being sort of a structural tailwind just given your unique inventory.
+From the CFO seat, where are you actually seeing the ROI show up today, and what are some of the investments that you're making that may have a longer payback period?
+## Peggy Alford | CFO, eBay
+Yeah. We've been using AI capabilities for a long time.
+Recently we've really accelerated those efforts. We talked about Magical Listing and just the ability to allow sellers to very quickly upload many things and just sort of unlock the friction on the site. We talked about, on the demand side, really making search much more customized and personalized, and easy for buyers to sort of build on their needs as they see results and just continue to add on the way you see in some of the ChatGPT or other models. We have that internally built. We've really focused on building a platform that enables us to have those capabilities that capitalize on 30 years of data. We hit our 30-year anniversary last year, so we have 30 years of buyer and seller data that really enables us to fuel these AI capabilities in a way that it's very personalized.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Yeah
+## Peggy Alford | CFO, eBay
+but also cost efficient, such that we're not having to rely on third-party models fully. I think most importantly, what is a tailwind for us is this sort of trust and enablement layer. We talked about our shipping solutions, our financial services capabilities, our things like Fitment, Authenticity Guarantee. These are all things that when you apply it to extremely unique inventory that we have, builds sort of trust and enablement that causes buyers and sellers to want to do that on our platform. You're not buying toilet paper where you can sort of just put it in a search engine or in one of these AI engines and that's all that matters.
+That's where I think, for us, we're really building this platform that enables us to use these capabilities using our technology, but also flexible enough to be able to plug into third-party models so that we're doing it in a very efficient manner.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right.
+## Peggy Alford | CFO, eBay
+There's all of the capabilities internally. You mentioned engineering capability. AI has really enabled us to get a lot more productivity out of our engineers. Even we created a lot of capabilities for our customer service agents to be able to answer customer calls in a much more personalized way. We even gave these capabilities to our sellers so that they could help with questions that may come in around their inventory or their listings so they could spend more time selling. Those are just a few areas that, in a cost-efficient manner, we're able to really amplify the capabilities that we have on the platform, which makes us very confident that this is a tailwind for eBay.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Yeah. Maybe drilling into Magical Listing specifically, you mentioned AI listings up to $500 million, over a 50% increase in new listing creation rate. How do we think about the through line from it's easier to list to actual GMV, right?
+## Peggy Alford | CFO, eBay
+Yeah.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Is it a bottleneck? Is it supply? Is it discovery? Is it demand? Is it both? Yeah.
+## Peggy Alford | CFO, eBay
+I think what we were addressing with Magical Listing is that the friction is really about getting inventory on site. We talked about earlier, there's just so much inventory out there that I think the stat is everyone has at least $4,000 of things that they could sell, and only a fraction of that is online. A lot of that has to do with just if you think about how busy we are, going into your attic or your closet or the basement and kind of saying, "Okay, let me get rid of a bunch of stuff." Rather than throwing it away or taking it to donate, I could easily get it online. That's the technology that Magical Listing has enabled, because just with a camera, you're able to take pictures, and then it generates the listings.
+If you think about how easy it is to get a listing up and then how easy it is to get 10 or 20 or 30 listings up, that's really the unlock as it relates to Magical Listing, just to get inventory on site. We have so much inventory on the site, which creates an environment where for buyers, you can pretty much find anything that you may want to find.
+With our agentic search capabilities, which makes it much easier to find what you're looking for and be able to talk and continue to hone your search, that capability really enables kind of the demand side of the equation.
+I think it's both, that the unlock that we can use AI that really unlocks both demand and supply.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Yeah, I can imagine the first time you have a successful listing as a seller using Magical Listing, that may unlock the floodgates.
+## Peggy Alford | CFO, eBay
+Absolutely
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+you're going through the ad-.
+## Peggy Alford | CFO, eBay
+Sell everything. Sell all your partner's goods as well.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Exactly. All right. On agentic commerce, you have the on-platform agentic search beta that's showing, I think, 50% increase in search engagement.
+## Peggy Alford | CFO, eBay
+Yes.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+You're also an early participant on OpenAI's Ad Pilot as well. How are you thinking about that on-platform versus off-platform balance and maybe zooming out a little bit, how do you address concerns that agentic discovery?
+could, over time, commoditize marketplaces? That's a concern that we've heard.
+## Peggy Alford | CFO, eBay
+We have our own cloud-based proprietary platform that we built. The reason we did that is because we wanted to make sure that we could create the very customized, unique experience on our site using 30 years of data, along with all of the trust and enablement capabilities that we have, so that you could actually amplify that experience on our site. We built it in a way that we're able to also continue to experiment with third-party plugins and that sort of thing, because we know that that traffic is additive. We see that although traffic from third-party models is extremely small today, it is traffic that's coming with intent, it's additive to our overall traffic, our organic traffic, as well as our paid traffic.
+We see that traffic that comes from third-party sources, it actually, for someone who would buy something coming through a third-party model, we see that when they come back, 50% of the time, they come back organically. That is just an indication of the value that we're driving because of those capabilities as well as the unique inventory on eBay. We felt that it was important that we started by building a platform that we run ourselves, but then make it flexible enough so that as some of these models are producing more and more traffic, that we can plug them in as well and continue to experiment in that area.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. That makes sense. Okay, shifting gears completely.
+## Peggy Alford | CFO, eBay
+Sure.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Cross-border trade.
+## Peggy Alford | CFO, eBay
+Yes
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+and tariffs. Obviously, a lot's happened in the last 12 months or so, and that clearly brings, and you mentioned this a few times, shipping into focus to remove friction. Maybe spend a few minutes talking about your latest shipping initiatives and how much room is there left to run to lower friction, to drive up throughput.
+## Peggy Alford | CFO, eBay
+Yeah. The geopolitical environment and tariffs has definitely introduced friction into the process for buyers and sellers. We noticed in 2025, when we were seeing this happen, that shipping, as you mentioned, was an area where we could really help both buyers and sellers navigate the trade environment and remove some of the friction. Through eBay International Shipping, through our SpeedPak partnerships, these were all areas that we really doubled down on, and we continued to increase this capability in more and more markets because of the fact that we saw this is the way that we can enable buyers and sellers to navigate.
+What we saw is even though we saw impact from tariffs, we saw that over time, first of all, buyers and sellers are starting to get used to the environment a little bit more, but our shipping solutions have really taken a lot of the friction out of the process and enabled us to reduce some of that impact of tariffs.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. All right. Let's quickly move over to margin. You're guiding, let me get these numbers right, 27.6%-28.1% operating margin for Q2. You raised your full year OI growth to 9%-11%.
+## Peggy Alford | CFO, eBay
+nine to 11, yeah.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+8%-10%. As advertising scales and you cycle through the U.K. Managed Shipping impact, what's the right framing for the medium-term margin algorithm for eBay?
+## Peggy Alford | CFO, eBay
+Yeah. We're really focused on driving growth in operating dollars. That's where we focus. That's what we solve for because you mentioned advertising. Advertising has been the primary contributor to our margin and take rate dynamics. Shipping is becoming an increasing contributor also. We have a number of both take rate and margin profiles with the different portfolio of businesses that we have. Some of our newer businesses like Vehicles and Live. Live, because it's earlier in life cycle, and we're really focused on generating growth both on the demand side as well as the supply side, less focused initially on the monetization focus. With Vehicles and some of our other higher ASP categories, which are growing because of the trust we've built on the platform, those may result in lower take rate, both contribute very positively to both GMV as well as to margins.
+That's why overall, we really focus on operating profit growth. As you mentioned, we guided 8%-10%, and now we're 9%-11%, and so we've increased our growth profile for the year. So we feel really good about that. That balance between really continuing to drive GMV growth and investing in continued growth ahead is something that we really focus on overall.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+All right. You mentioned first-party ads grew 30% year-on-year in the Q1. Ads as a percent of GMVs in the 2.6% range. How much runway do you have left there? I guess relatedly, how should we think about the take rate going forward with that and shipping as well?
+## Peggy Alford | CFO, eBay
+Yeah. We talked about, in the past, a 3% target for ads penetration. That's by no means a ceiling. You mentioned 2.6%, and so we're well on our way, but there is so much growth ahead, and that growth can come anything from increased penetration in our listings with advertising, more sellers advertising, or just some of the AI-enabled tools that just increase the relevance of the ads and just drive more use of advertising. There's lots of drivers that are ahead for continued growth in advertising. As I talked about before, that has been a primary driver of take rate and margin.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right
+## Peggy Alford | CFO, eBay
+profile. There continue to be a lot of other levers. You mentioned shipping. We're just focused on making sure that we're continuing to grow our strategic focus areas, and then these enabling functionality like shipping and ads along with it.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right, in shifting to an acquisition, Depop.
+## Peggy Alford | CFO, eBay
+Yes.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Expected to close at the end of the third quarter. Just help us understand what a good outcome will look like in a year or two after the close. Is it primarily about demographic expansion into Gen Z? Is it C2C fashion supply? Is it cross-listing? Could you just help us understand?
+## Peggy Alford | CFO, eBay
+Yeah, really all of that. Depop has been such an exciting brand on its own. It grew 60% year-over-year in the U.S., and just really strong fashion and other categories as well, where we're really approaching it from a position of strength. We have a really strong U.S. C2C business as well, and Depop gives us an additive, strong C2C fashion business, but also access, as you mentioned, to a younger demographic that we think is complementary to the strength that we have in our business as well. We're very excited to allow Depop to continue to operate as a brand, a strong brand that it is.
+Be able to bring some of the scaled capabilities that we have on the eBay platform, some of our shipping solutions, and some of our Authenticity Guarantee, cross-listing. These are all areas that we'll explore for bringing synergy between the two brands and really driving a strong continued fashion C2C business.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Yeah. On capital allocation. You've reiterated the 90%-100% of free cash flow target. You have $2 billion of buyback, the dividend as well. Now you have the Depop acquisition.
+## Peggy Alford | CFO, eBay
+Yeah
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+is $1.2, all cash. With rates where they are today, just walk us through how you're thinking about the right balance between the buyback, M&A, and then also balance sheet flexibility as well.
+## Peggy Alford | CFO, eBay
+Yeah. The financial architecture of eBay is something that was attractive to me, especially as the CFO coming in.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right.
+## Peggy Alford | CFO, eBay
+We've been able to really drive with strong GMV growth, also strong profitability and free cash flow. That free cash flow gives us a lot of opportunity to both return to shareholders while continuing to invest in future growth. Our primary objective first is to drive continued growth. We're continuously investing in areas where we know there's a lot of TAM and a lot of growth ahead. We also want to drive strong flow-through to profit dollars and also return to shareholders. Even with the Depop acquisition, the $2 billion of stock buyback and the dividend, we're square within the 90%-100% of normalized free cash flow that we guided to.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Okay. I'd be remiss not to touch on the GameStop situation. Obviously the board rejected the proposal last month. One of the underlying rationales was that physical retail could give a marketplace, a national network of authentication, of intake, drop-off, even live commerce. How do you think about whether or not physical touchpoints, be it partner-led or otherwise, could actually play a role in eBay's sort of model going forward?
+## Peggy Alford | CFO, eBay
+Yeah. I think one of the things that's been so attractive about eBay is how asset light we are, and the idea of being able to introduce all the capabilities that you mentioned. We have authenticity centers that enable us to do that in a scalable but efficient manner. We have Fitment. We have shipping capabilities that we do ourselves as well as through partners, but all being able to do it in an asset light way. I'm not sure that physical locations really fits into that model because we already have those capabilities. We're continuing to scale those capabilities, but we're doing it in an asset light manner that is much more financially attractive.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. Okay. You're using technology, basically.
+## Peggy Alford | CFO, eBay
+We're using technology, we're using partnership, we're using scaled centers that are centralized that enable us to have a lot of scale in an asset light way.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right. Last question, I promise for you. When you and Jamie are sitting down and you're looking at the next three to five years, you look at the picture for eBay, what's the one thing that you want investors to be focused on that you don't think they're focused on right now? Conversely, what's something that folks are focused on that you think is maybe less relevant for the overall picture?
+## Peggy Alford | CFO, eBay
+Yeah. I guess I would say one and the same on both. I mentioned earlier how exciting the breadth of our strength is, right? I think that because of how strong certain parts of the business have been, people will say, "Oh my gosh, PokÃ©mon, it's been so strong for so long, and how durable is it?" Then they'll tie it into our GMV growth. Yet, PokÃ©mon is just one part of collectibles. Collectibles is just one of our focus categories. If you look at sort of all of our focus categories, you look at recommerce, you look at C2C, these are all growing individually and together and represent such a large part of our GMV. So, even removing collectibles from the equation, we still have double-digit growth for the rest of the business.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Right.
+## Peggy Alford | CFO, eBay
+I think it's really just how resilient our business is because of the focus that we've had on creating these very customized user experience between buyers and sellers, doing them in areas where there is a very large TAM, and doing it in a way that creates sort of diversity of GMV contribution, which gives us a lot of confidence in the durability of that growth ahead, and how much more runway. We're really just getting started, and I'm just so excited to be a part of the journey.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Great. Well, I think we're off on time, Peggy. Thank you for the time, for the insights. It seems like.
+## Peggy Alford | CFO, eBay
+Absolutely
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+a lot of tailwinds going your way with a lot of focus, and a lot of self-help as well. Thank you again for your time, and hope to welcome you back next year.
+## Peggy Alford | CFO, eBay
+Yes, thank you for having me.
+## Benjamin Black | US Internet Research Analyst, Deutsche Bank
+Okay.
+## Peggy Alford | CFO, eBay
+See you.
+Data Source: Quartr Last updated: Jun 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

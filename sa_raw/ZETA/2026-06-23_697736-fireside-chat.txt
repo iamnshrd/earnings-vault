@@ -1,0 +1,397 @@
+TITLE: Fireside chat
+DATE: 2026-06-23
+## Ron Josey | Managing Director, Citi
+David, Chris, thank you for joining us. I'm Ron Josey, cover the internet sector here at Citi. Look, I had a ton of questions prepared for this, there's late-breaking news, really, for the company. David, why don't you take the stage and tell us what was announced.
+## David A. Steinberg | Founder and CEO, Zeta Global
+This morning at 7:00 A.M., we announced we're fully integrating our platform with Palantir, and we signed a seven-year joint go-to-market strategy where we will be marketing to the vast majority of their customers. Putting our data cloud on top of Foundry is going to speed it up dramatically as it relates to data ingestion from our existing and new clients, and it's going to allow our algorithms to train even faster. We've built a joint forward deploy engineering team where we have one, they have one. As we go to market, this was really one of the biggest pivots we've ever made. As we move the company from what is a marketing technology company to what is really an AI infrastructure company.
+If you think of our business, for those of you who don't know, we are a very large marketing. Well, I shouldn't say very large to this group, but as it relates to marketing platforms, we have a marketing platform, and we have a data cloud. Today, 51% of the Fortune 100 and 24% of the Fortune 500 use our platform to better manage customer acquisition, customer retention, and customer monetization. We do that through what's called the Zeta Marketing Platform and through the Zeta Data Cloud. In 2017, we made the decision to totally throw out our old platforms. Well, we ran them for cash flow, and we created an entirely new platform that in 2021 we made live, which is the only marketing cloud that has data and artificial intelligence as native to the application layer. It's literally foundational.
+When people tell me they hear this in every meeting they go to, I suggest they go back five-plus years ago when we went public. We put a big sign on the side of the New York Stock Exchange that said, "Data plus AI equals intent." Everybody was asking me, "Who's Al, and why is he in charge of your data strategy?" We've been doing this for a very long time. Today, one of the biggest and most powerful statements about our platform is for every dollar that's spent on our marketing platform, we return an average of 600%-700% return on marketing spend. That's an independent study that was done by Forrester. Our goal is to get that to 1,000%, an order of magnitude return for every dollar that's spent. Everything we do as a company is to try to get there.
+A few months ago, we launched Athena, which is our voice-enabled super agent. If you think about enterprise software, not just us, any enterprise software company, I always make the joke about the Bloomberg Terminal. What percentage of your Bloomberg Terminal's features and functions do you use on a regular basis? The vast majority of enterprise software people use between 5%-10% of capabilities. Athena, you're no longer navigating a complex platform. You're going to Athena and simply saying, "I would like to create two million incremental customers this quarter, and I'd like to do it by lowering my average expense by about 7%." Athena will access every feature, every function, and every dataset to come up with the best possible outcome. It'll change the user interface to show you the results. You can say to Athena, "Amazing. That's a little big for me.
+I don't want to start with that. I'd like to do a test. Can you activate the test, and every hour send me an email so I can keep track of the return on marketing spend per hour?" When you look at taking the Zeta Data Cloud and Athena and putting her on top of Foundry, which is Palantir's platform, it's going to massively speed her up. That speed, every time we can remove incremental latency, we can return substantially higher return on marketing spend. Also, the credibility that comes from partnering with Palantir and going to market, we think is going to be a game changer for us as a company.
+## Ron Josey | Managing Director, Citi
+David, talk to us about how this came about, working with Palantir. We've been talking about Athena now for some quarters. We just launched not too long ago, and now we have a pretty big partnership here. Talk to us about the genesis of this and sort of how you were thinking and when this came about.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Well, we Hold on.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## David A. Steinberg | Founder and CEO, Zeta Global
+We are doing this as a webcast from a Reg FD perspective because we literally just announced the Palantir relationship. Listen, we've been building our business in a way that we've always really looked up to Palantir. We've always thought they were the type of company we would like to aspire to be. I was originally introduced to the CEO of Palantir through a very close mutual friend. We started talking and working together, then I got to know Elias, who works directly with Alex. The synergies just became so clear.
+If you look at what Alex said in the press release we put out, I'll paraphrase here, Palantir plus Zeta should change the entire marketing landscape. When you think about it, Palantir's entire strategy, I shouldn't sum it up to their entire strategy, but one of their biggest selling points to their clients is, "We can help you meaningfully lower your cost and be more efficient with your business." Zeta is the best platform in the world for managing and lowering marketing and CRM expense. We're usually able to lower our clients' expenses anywhere from 50% to 75% on marketing or CRM expense. I don't know if you saw yesterday, Ron, Gap announced they were throwing four vendors out and replacing all four with Zeta as the system of record for Gap.
+That's the type of deals that we're winning at this point, you put Foundry underneath it's game-changing. One of the interesting things about the Gap deal was we had bid the Gap RFP three times and come in second three times. I was like, "Do we really need to waste our time with this again?" I ended up getting introduced to their CEO and I said, "Listen, we're probably not going to bid it this year. You guys seem great," they'd been with Salesforce. They were a Salesforce shop forever. He said, "Bid it. Just bid it." We came in, we bid the RFP. Halfway through the RFP, Athena became generally available. We went in, we did a full demo in the middle of the RFP process of Athena, the voice agent, the next day they asked us for pricing.
+You start to look at Athena and where she's going in the marketplace in partnership with Palantir and where they are in the marketplace. This will be our fourth year of greater than 30% compounded organic top-line growth and greater than 50% compounded organic EBITDA growth. I think that Athena, in partnership with Palantir, is going to make us a 20-plus % organic grower for many, many years to come.
+## Ron Josey | Managing Director, Citi
+That's a great segue. I think there were some dollar amounts maybe in the press release. Chris, talk to us about how you see the partnership. Obviously, David just put some numbers and growth rates around there, but talk to us more about the dollar amounts. I want to get into execution, too. Let's talk dollar amounts and then execution.
+## Chris Greiner | CFO, Zeta Global
+I'll ladder down from our Zeta 2028 plan, which is to get to at least $2.3 billion by 2028. I'll remind investors that we got to our first long-term model to get to at least $1 billion a year early. Integral to the current long-term model we're operating in is partnership expansion. We've announced a number of partnerships over the last several months, this being the biggest in our history. Those partnerships being a vehicle to not just get to that long-term model, but to get to there faster. David had mentioned in the press release, we see this becoming at least $100 million business over the years to come annually, and there's joint selling incentives and partnership to drive that type of outcome.
+## Ron Josey | Managing Director, Citi
+Let's talk about the process to get there then, dollars will be dollars. Talk to us about, we just had the announcement, Athena is three months old?
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yeah. It's crazy.
+## Ron Josey | Managing Director, Citi
+It seems like quite a catalyst, and then we just talked about Gap.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yep.
+## Ron Josey | Managing Director, Citi
+David, talk us through the implementation process from here on out. What can we look forward to?
+## David A. Steinberg | Founder and CEO, Zeta Global
+One of the big questions that I've been asked in the last hour, so it's not like I could say we've been doing this for a long time at this point was, is this going to mean to a meaningful increment in expense this year? The answer is no. In fact, we were able to move budget from other providers to Palantir to have it be neutral this year, and we think this will help us lower operating expenses further starting next year and out. We've been obviously building this for quite some time. We're announcing it today. I think we will have this live by the end of the third quarter of this year, and we're targeting even sooner than that. We've already really, at a very high level, started identifying customers we want to jointly go to.
+I think the joint go-to-market strategy is going to be a real game changer for us. The other thing that's really important to note is when we turn it on, our existing, as of the end of Q1, 189 super scaled customers will all benefit that day.
+The speed in gestation, the model speeding up, Athena's capabilities speeding up, will all be available to every client.
+## Ron Josey | Managing Director, Citi
+That's great. That's fascinating. As we think about that scaling up, I wanted to ask a little bit more just, I think you said, David, when we first started this webcast, speed will drive greater usage of Athena. We just talked about OpEx maybe going down with the scale.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Speed drives greater return-
+## Ron Josey | Managing Director, Citi
+Infrastructure spend
+## David A. Steinberg | Founder and CEO, Zeta Global
+on marketing spend
+## Ron Josey | Managing Director, Citi
+Yeah
+## David A. Steinberg | Founder and CEO, Zeta Global
+which drives greater spend on our platform.
+## Ron Josey | Managing Director, Citi
+Talk to us about the speed aspect of this.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Right now, we are probably the fastest you can get out there in marketing. Because we're the only one that AI is native to our application layer. Everybody else has to step out of their platform through an API, to an algorithm to do a query, then the algorithm steps through another API to a data repository to draw data, back to the algorithm to create intelligence, then it informs the platform what to do. That latency destroys return on marketing spend. By adding Foundry underneath and replacing other infrastructure we've used in the past, we're going to even meaningfully speed up our ability to process data. That will allow our algorithms to train faster.
+We're already seeing, for those who don't know, Athena went live in March, then on Thursday we announced Athena for agencies, so now it's available to 100% of our total client base. We're already seeing clients who are using Athena spending more on our platform and showing meaningfully higher than a 600% return on marketing spend. We think that Foundry's addition to that is going to supercharge that even further.
+## Ron Josey | Managing Director, Citi
+To that 10x goal that we've been talking about.
+## David A. Steinberg | Founder and CEO, Zeta Global
+The goal is to get to 10x. I'm not saying we're there, or I'm not saying we're not there.
+## Ron Josey | Managing Director, Citi
+It's a path to get there.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yeah. What I would say is we have some clients who are there, and we're trying to get that there on average.
+## Ron Josey | Managing Director, Citi
+We can take questions from the audience. If there's any questions, I've got one in the back. I'll just repeat it if you want to say it.
+## Speaker 5 | 
+Yeah. Thanks. Really exciting announcement this morning.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Thank you.
+## Speaker 5 | 
+A little bit more on the specifics of the Palantir deal. I assume you are now becoming a Palantir customer. Could you talk about how much you're going to be spending with Palantir? And when you say it's built on Foundry, is there some sort of OEM rev share agreement for Palantir? Obviously, a really sophisticated data intelligence platform, as a customer, too-
+## David A. Steinberg | Founder and CEO, Zeta Global
+We're aware.
+## Speaker 5 | 
+What exactly-
+## David A. Steinberg | Founder and CEO, Zeta Global
+You're a client of ours.
+## Speaker 5 | 
+What exactly?
+## David A. Steinberg | Founder and CEO, Zeta Global
+Well, first of all, I cannot.
+## Ron Josey | Managing Director, Citi
+If you could repeat the question.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Oh
+## Ron Josey | Managing Director, Citi
+for the audience.
+## David A. Steinberg | Founder and CEO, Zeta Global
+How much are we spending with Palantir, is there a rev share or, how does the joint go to market work?
+## Speaker 5 | 
+Yeah.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Let me start by saying we're not going to disclose how much it is. What I will tell you is it is neutral to Zeta's guidance from an expense perspective for this calendar year, we expect it to lower our expenses going into next year on. This won't be like, oh, you'll get surprised by expense creep or picking up. B, we are both heavily financially incentivized to jointly sell this product together, to be clear. Palantir's strategy, and it's hard for me to say this with Elias sitting here, but Palantir's strategy is always to help clients with cost and efficiency.
+Today, I think one of the things Elias really liked about it, I know one of the things Alex really liked about it, is you've got a $1 trillion TAM that's effectively opening up to the Palantir Zeta partnership that we can go in together as partners and say to their enterprise clients: "We can help you meaningfully lower one of your largest costs as an enterprise while simultaneously increasing quality." The answer to your first question is it's neutral to lower. The answer to your second question is yes.
+## Ron Josey | Managing Director, Citi
+Maybe to that. Let's take a step back and talk about Athena, because it all sort of comes together here. We're three and a half months in. Maybe David, just what surprised you the most about this platform? You talked about the client win yesterday that was announced. What has changed, I guess, right? Number two to number one.
+## David A. Steinberg | Founder and CEO, Zeta Global
+It's funny. We're a big company at this point. I don't invent most things. I happen to invent Athena. It was something that I came up with last April. We were able to go from the day we decided to build this to generally available with Athena within nine months. Within 90 days of that, we rolled out an entirely new platform for Athena for agencies. If you look at Zeta in the first quarter of 2026, we announced that by using our internal workflow management tool, Spade, we generated 75% of all of our new code in an automated basis. The goal with Athena is to become a full operating system and to truly become the infrastructure that runs artificial intelligence for our clients. The Palantir deal is mission-critical to that.
+Now to actually answer the question you want me to answer instead of the question I wanted to answer. The thing that surprised me the most is the reaction from people. I've been so intimately involved in the creation or what we call the birth of Athena, you see the little steps. Every day it gets better. All of a sudden, somebody sees it for the first time. Winnie and I did a demo for somebody yesterday, CMO of a very large company. He was literally like, "This is the greatest thing I've ever seen." He's like, "This blows me away." I was like, "Great. You should move all your budget to us." Of course, he started laughing. We'll start with a test, and we'll move up from there. Human reaction to Athena is the thing that surprised me.
+What didn't surprise me is people who are adopting it are spending far more on the platform. Enterprise clients that are adopting it are showing amongst the best return on marketing spend we've ever seen. That didn't surprise me.
+## Chris Greiner | CFO, Zeta Global
+We've left 10 minutes in this fireside for Winnie to do a demo for your team.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Oh, great.
+## Ron Josey | Managing Director, Citi
+Are we at that level now?
+## Chris Greiner | CFO, Zeta Global
+I think we have until five after.
+## Ron Josey | Managing Director, Citi
+Okay
+## Chris Greiner | CFO, Zeta Global
+Just know that we've got that ready to be queued up.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Winnie is going to do a demo of Athena, you guys can get a little taste of what she looks like.
+## Ron Josey | Managing Director, Citi
+We've got maybe five more minutes of Q&A.
+## David A. Steinberg | Founder and CEO, Zeta Global
+That gives us 12 minutes.
+## Ron Josey | Managing Director, Citi
+12 minutes of Q&A. Okay, great. Maybe last one on Athena. I believe what was interesting is that every beta customer became a multi-use customer when you were doing it. What we're trying to understand is how adoption goes forward and monetization of Athena. I might have this wrong. Are we monetizing Athena now? Where are we on that?
+## David A. Steinberg | Founder and CEO, Zeta Global
+No, we're monetizing Athena.
+## Ron Josey | Managing Director, Citi
+Yeah. Okay.
+## David A. Steinberg | Founder and CEO, Zeta Global
+every moment of every day. The way Athena works is instead of charging a modular fee for her, we are letting clients use her as a tool inside of the platform. Let me give you some interesting statistics. A number of years ago, we rolled out our first ever voice interface. It was called ZOE. Clients who adopted ZOE spent between 300% and 350% more on our platform than clients that didn't adopt ZOE. I'm not suggesting all of our clients are going to adopt Athena, we're going to grow by 350%, but what I am suggesting is clients who utilize her are not just spending far more money in utilization fees, but they're using multiple use cases. For those of you who don't know our business that well, we have three main use cases, and it's pretty simple. Customer acquisition, customer retention, customer monetization.
+## Ron Josey | Managing Director, Citi
+For companies?
+## David A. Steinberg | Founder and CEO, Zeta Global
+For enterprises and agencies.
+## Ron Josey | Managing Director, Citi
+Right.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yep. Although 80% of our revenue is direct to enterprise, about 20% is agency. Those are round figures. Bottom line, what we found was clients who use multiple use cases, and we were pretty siloed for a while because we were selling that way. We've now broken through the silos, and when customers use multiple use cases instead of one, the data trains the algorithms substantially more effectively. The data that informs customer acquisition further informs retention, which further informs monetization, which further informs acquisition. We're seeing a massive uplift in return on marketing spend for clients who adopt multiple use cases. We call it, as you know, Ron, One Zeta. Last year, we hired a gentleman named Ed See. Ed was the head of McKinsey's global CMO practice.
+We stole Ed away from McKinsey to become the head of one, we call him Chief One Zeta Officer. I think his technical title is Chief Growth Officer. With Athena does the cross-selling automatically. If you're using a use case around customer acquisition, you might say, "Athena, I'd like to drive 2 million incremental customers this quarter. I'd like to do it in an average of 7% savings on a cost to create a customer." Athena will walk you through that whole process at the end of the activation. You'll say, "Please activate that." Athena will say, "By the way, do you know that I've identified 700,000 of your existing customers who are in process of churning off your platform to your competitors' products? Would you like to save them?" It automatically creates a loop into the One Zeta.
+That's why we're seeing with Athena a meaningful uptick in One Zeta clients. What was the growth in One Zeta clients in the first quarter?
+## Chris Greiner | CFO, Zeta Global
+Well, growth in multi-use case, which would be One Zeta, was 50% year-over-year.
+## David A. Steinberg | Founder and CEO, Zeta Global
+50%.
+## Ron Josey | Managing Director, Citi
+To that 50%, maybe we can talk a little bit about the sales pipeline, which I think was up 40% year-over-year in the last quarter. As we sort of migrate from big news today to Athena's live, and we're seeing results and wins and everything to implementing sort of the go-to-market and everything else in the company, pipeline was up 40%. Talk to us just about how you view the pipeline going forward. Would love to have some insights on conversion rates, if that's possible. Anything that can help us better understand that pipeline number and metric.
+## Chris Greiner | CFO, Zeta Global
+Yeah. As you said, our pipeline is up, and that's our model, frankly. We have quarters where it's up 30, 40, 50, 60%. This was indicative of what we've been seeing. We'll often get the question from investors, how is the market reacting to a tougher macro or choppier macro times? When we look at our sales pipeline, and specifically the industries that are closest to consumer discretionary wallet, they're our fastest-growing industries, growing even north of 40%. Athena
+## David A. Steinberg | Founder and CEO, Zeta Global
+Well, I think that's because we're a cost savings.
+## Chris Greiner | CFO, Zeta Global
+Right.
+## David A. Steinberg | Founder and CEO, Zeta Global
+When things get choppy, clients actually grow with us. I'm sorry.
+## Chris Greiner | CFO, Zeta Global
+Yeah. No, they become far more data-driven.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yes.
+## Chris Greiner | CFO, Zeta Global
+What we've also found, while the longer-term benefit of Athena is higher ARPU or higher usage, which then translates to revenue, what we're seeing at the top of the funnel, Ron, is better conversion. It is an accelerant to the sales process. As David mentioned with the Gap, but with many other enterprises, putting Athena as a demo at the very first step of the sales process, which is probably a good jumping-off point for Winnie-
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yep
+## Chris Greiner | CFO, Zeta Global
+is a conversion factor that is allowing us to accelerate time to close.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Four or five.
+## Ron Josey | Managing Director, Citi
+Well, great, we've got 10 minutes left.
+## Chris Greiner | CFO, Zeta Global
+Yeah.
+## David A. Steinberg | Founder and CEO, Zeta Global
+we could probably
+## Ron Josey | Managing Director, Citi
+maybe it's 11 minutes left now.
+## Chris Greiner | CFO, Zeta Global
+We could probably go five minutes longer
+## Ron Josey | Managing Director, Citi
+Sure
+## Chris Greiner | CFO, Zeta Global
+because we started late.
+## Ron Josey | Managing Director, Citi
+Maybe we can ask if there's any audience questions before you get to Winnie. If not, we'll go to demo. We have one in the back.
+## Speaker 6 | 
+Yeah. Have you guys disclosed or talked about how we should think about the impact to gross margins, like economics of the relationship? Should this show up even in your numbers, or is that something that will only show up once the customers start using it? Any kind of pop-offs you guys have?
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yeah. We're going to get it live next quarter. It's not currently in our projections at all for this year. It could be potential upside, maybe not. Next year, I think it's going to be very additive to top-line revenue. The revenue should come in at a very comparable gross margin to our other gross margins. Maybe slightly higher for a few reasons, it will not contract.
+## Chris Greiner | CFO, Zeta Global
+It'll aid, it'll lower OpEx, as David mentioned. We'll get synergies off of it, which then translates to better free cash flow and adjusted EBITDA margins year-over-year.
+## Speaker 6 | 
+Thank you.
+## Ron Josey | Managing Director, Citi
+All right. Well, with that, thank you for the questions. Maybe Winnie, take it away.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Great. Thanks, guys. We're going to switch over to our demo and showcase. I'll be navigating on my laptop at the same time. I'm Winnie Shen, EVP of our Data Cloud. We've been doing a ton of these demos here at Cannes, as Das mentioned, some really great resonance with our clients.
+## Chris Greiner | CFO, Zeta Global
+Sorry.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Our Zeta Marketing Platform is where our entire ecosystem lives in terms of Athena as the operating system, where our data is, where all of our activation capabilities are, all of our intelligence, all housed within this one platform. We're going to transition over to our platform, and before we get started, what I'm going to walk you guys through is first, how do we glean intelligence from all the massive amount of data that we have? We have the ability to reach about 245 million people in the U.S., 586 million globally. We enrich those profiles with thousands of attributes and Signals.
+We transform that massive amount of data into intelligence. From there, once we've unlocked opportunities, we want to determine how do we activate off of it, how do we optimize it, how do we find the right creatives, measure all of it. I'm going to actually take you through that entire flow. Athena will pick up all the noise in the background, so I'll try to mute us, I'll pause and try to explain some of what's happening in the background as I ask Athena questions. I'm going to do this from the lens of travel, since we've all traveled here today. We thought that would be a good use case. I'm going to do it from the lens of United Airlines just so that it makes it more real. None of the data I'm showing you today is any customer data.
+We're just using it as an example to help showcase some of the capabilities. With that, let me get Athena started. All right. One, two.
+## David A. Steinberg | Founder and CEO, Zeta Global
+For those of you who don't know, while we're setting it up, today, our proprietary Zeta Data Cloud has 550 million people globally opted into it, 245 million Americans, with an average of 5,000- 7,000 data elements per person, which includes demographic, psychographic, transactional, credit score, behaviors across 5.2 million publishers that have embedded our technology as a first-party component of their tech stack. We're feeding in trillions of marketing signals on a daily basis to power everything she's about to show you. All of this data is 100% proprietary and has never been shared with a large language model, ever, nor will it. We do not sell our data to anybody at any price at any time. We simply use our data to train our own proprietary models, and we've been doing that since we founded the Zeta Data Cloud and rolled out our AI many years ago.
+Sorry, Winnie.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+No, perfect setup. Great.
+Hi, Athena. Can you take me to the application that looks at always-on intelligence? I want to look at comparisons in online travel destination research comparing United Airlines intenders versus visitors versus transactors.
+## Speaker 11 | 
+Among United Airlines intenders, online travel research leans heavily into broad destination inspiration, such as United States and North America travel, regional travel, family and seasonal travel, plus big dream categories like cruises, national parks, theme parks, and Europe, Caribbean trips. United Airlines visitors show more research around specific U.S. leisure hubs and short-haul getaways, e.g., Florida, California, Texas, Las Vegas, Orlando, New York, San Diego, Palm Springs, indicating strong interest in domestic vacations and repeatable fly to sun destinations. United Airlines transactors are more skewed toward practical trip enablement and concrete planning, with higher relative focus on hotel reservations and mid-scale lifestyle hotels, car rentals and ride-sharing, vacation packages and deals, and travel services content like travel advice and Tripadvisor.
+Intenders over-index more than visitors and transactors on long-haul international inspiration, e.g., Australia, Africa, France, Italy, Spain, Greece, Portugal, Brazil, Caribbean, Indian Ocean, and on aspirational experiences such as private jet travel and luxury hotels.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+This first part, she basically has compared three different reports all in one conversation. That meeting Das referred to, the reaction was, that was just a day's worth of work that we just compacted into a few minutes. Athena does tend to go long a little bit. Basically, she's looked at people that are reading about traveling with United versus people that are visiting their actual terminals versus the people that are spending with them. She's identified the differences amongst them and identified an opportunity with the international travel. You'll notice that Spain. You guys probably can't see. I will just tell you about it. From the people in the back of the room, you'll see that Spain travel actually indexes high for intenders. We don't see that with the current people that are actually traveling with United.
+I want to pull that forward and see where does that ranking happen in our generative engine optimization. I'm going to push it forward. Athena, that's a great opportunity on the international side. Can we go to GEO and see how does United rank on questions related to the best international travel brands?
+## Speaker 11 | 
+United is the number 1 brand in the entire network. On the generic international long-haul overseas prompts specifically, it is mentioned in 100% of them. Its average share of voice is regularly the highest in the answer pool. It owns the broad best U.S. airline for international travel territory, beating American and Delta on most network reach and reliability prompts. For example, United ranked number 1 for share of voice for one airline for all international trips, best long-haul international, and widest international route networks.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+How does United compare when it comes to Spain travel?
+## Speaker 11 | 
+On the 20 Spain-Madrid-Barcelona prompts, United's strength evaporates. United is still mentioned in nearly 100% of responses, so it's not invisible, but it ranked number one on zero of them. It sits third or fourth place in almost every case. United's average SOV is well behind the leaders. Iberia dominates Spain. The Spanish flag carrier leads around 15 of the 20 prompts, hitting 61%-73% SOV on the strongest, and American is usually ahead of United, too. American wins the most nonstops to Spain prompts, thanks to its Iberia Oneworld joint venture. United's best Spain showings are only number two, Barcelona and honeymoon to Barcelona. Overall, United is the category leader for international flights generally, but on the Spain corridor, it's a clear laggard, consistently third or fourth behind Iberia and American.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+What we're seeing with our generative engine optimization is that we can hypothesize the type of questions people are asking in LLMs because we see such massive amount across the open web.
+## David A. Steinberg | Founder and CEO, Zeta Global
+For those of you guys who don't know what GEO is, it's actually the ability to read the output from the large language models. This is data coming right out of direct integrations we have with OpenAI, Anthropic, and Gemini. One of the things our clients this year are really interested in is how are they doing in the large language models, and that's what this platform is showing you. It could just as easily show you this through any other methodology, and we have already announced that we're able to serve ads into OpenAI. I actually think we're the only platform in the world now that matches to the Meta ID, we match to the OpenAI ID, we match to the Palantir ID, the open web, connected TV, messaging, so on and so forth.
+GEO is the hottest thing our clients are talking about right now and where they're investing. Our GEO business is one of our fastest-growing businesses inside the company.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Exactly. It's been very powerful for us as a unique opportunity with our capabilities in innovation. From here, I want to then understand, okay, with current travelers, are they actually interested in traveling to Spain, or is this white space for me with acquiring net new customers? I'm going to continue the conversation. Athena, I want to check in leading indicators for my United visitors, if they are actually researching about Spain or no.
+## Speaker 11 | 
+Within this United visitor audience, interest in Spain travel itself is not surfaced as a top direct leading indicator signal. Spain-specific intent is not present versus other destinations. Destination-wise, Europe hubs like France travel and Italy travel are showing more pronounced, steady growth as leading indicators, suggesting European near-term trip planning is prevalent, yet country-specific. Broader vacation content is also on a gradual upswing, indicating these customers are actively researching reviews, routes, and tips for upcoming trips, including Europe, but not clustering specifically on Spain yet.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+What you're seeing here is for people that are actually visiting, the level of interest in Spain is not there at all. They're not researching anything about Spain. If I flip it, Athena called out France, for example, as one of the destinations. If I switch over to France and look at those Signals, you do actually see intent. It's not that they don't have international travelers. They ranked high in that in GEO as leading indicators for France and Italy. They just are not seeing that in Spain. This is a great opportunity for me to extend. I'm going to take you guys through how do we actually create a media plan around this opportunity here. Any questions so far as we move into the actual execution of it all? Yes, please.
+## Speaker 7 | 
+Previously, how much of this was someone having to maybe run SQL queries even?
+I know probably not everyone.
+How much of this is moving from something that's a little bit more technical to let a broader audience start to ask these questions
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Yeah
+## Speaker 7 | 
+in their day-to-day?
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Yeah. Great question. We like to call it democratizing intelligence. You don't need a Winnie. I don't want to get myself out of a job, Das, but you don't need me to help navigate you.
+## David A. Steinberg | Founder and CEO, Zeta Global
+We're keeping you forever, Winnie.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Okay, perfect. Put that on paper.
+## David A. Steinberg | Founder and CEO, Zeta Global
+To be a little more clear, we are seeing a 75% reduction in man-hours for clients that are utilizing Athena. What used to take 100 hours now is taking 25, and it's allowing different levels of the organization to access data that they could have never gotten to before. They would have had to go to a third party in their organization to put a report together. To bring them one tenth of this information would take hours to create.
+## Speaker 7 | 
+Can I just follow up on that? If you think about that particular flow, there's a portion of time required to clean up the data or set up the data.
+## David A. Steinberg | Founder and CEO, Zeta Global
+This does all of that automatically.
+## Speaker 7 | 
+There's usage. Which one sees much more reduction?
+## David A. Steinberg | Founder and CEO, Zeta Global
+That's a great question. The most reduction we're seeing today is in segmentation. It's in the creation of the right audience for what they're trying to get to, because that's where you had SQL, and that's where you had a lot of big data pools. As it relates to the execution of the marketing, which she's about to show you, that's probably not as big a reduction because it wasn't as time-consuming to do that.
+## Speaker 7 | 
+The preparing of the data is within that segmentation?
+## David A. Steinberg | Founder and CEO, Zeta Global
+Correct. The data cleansing is all in the segmentation. Everything you're going to see, and she's been doing thus far, is totally cleansed data down to a deterministic individual. We're not looking at third-party cookies. This is literally looking at 245 million active Americans as they go through 5.2 million publisher sites where our JavaScript and our first-party tracking pixel sits on every page they publish. You're talking trillions of pages. Let's move into the execution because I want to make sure we get to that.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Great. Athena, I have a $1 million budget to actually use with my partner hotel brand. Can you tell me how I should actually be spending on the different channels and media budgets?
+## Speaker 11 | 
+Pulling up Performance Advisor, here's the recommended channel mix and where to rebalance spend.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Great. Can you actually project out for me, for the $1 million and the destination opportunity that you identified, create a media plan for me to drive those vacation bookings, please?
+## Speaker 11 | 
+This plan is designed to move travelers from inspiration to booking. We allocate 65% of the budget, or $650K, to CTV because Zeta Data Cloud Signals indicate this audience has a strong propensity for premium streaming content. That investment is expected to generate high video completion rates of over 99%, ensuring United Airlines' brand message is fully consumed and driving awareness and consideration at scale. We dedicate 10% of budget, or $100K, to OLV to extend incremental reach beyond CTV and reinforce key messaging through additional video touch points. Finally, 25% of budget, or $250K, is allocated to display, where retargeting audiences exposed to video messaging helps increase engagement and drives stronger click-through and conversion rates. This creates a connected full-funnel strategy where CTV builds demand, OLV reinforces it, and display converts high-intent travelers into bookings.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+We basically took the KPI of interest to get those bookings to happen. If it is a new client without any data, we would look at our Data Cloud and what are the recommendations based on what's going to drive conversions. If it's already a client that's running, we would leverage all the data that they have in the past campaigns to make recommendations on. We want to create awareness first with CTV and online video, then pair that with display to drive to conversion.
+## David A. Steinberg | Founder and CEO, Zeta Global
+All of this is totally dynamic. It is recommended based on the deterministic individuals that are being targeted and how we know is the best way to communicate with that exact person. It's not just saying, "Let's try these different things." It is all 100% data-driven.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Exactly. From here, we know what is going to be the right type of campaign that we're going to run. Now I want to understand the right types of creatives to run. With that, okay, Athena, can you help me actually pick out the best assets that are suited for this particular plan?
+## Speaker 11 | 
+Based on their creative scores, this is the top-performing asset for the plan, a video built for high-impact CTV storytelling that scores strongest on engagement and brand impact, making it the best fit to lead inspiration and drive booking intent.
+Escape the ordinary. Embrace the exceptional. Find your sanctuary. Halindra Resort & Spa.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+That was selected based on what we saw in Signals as what's going to be most resonant to this audience.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Depending on the enterprise, we can either auto-generate content in real-time, creative, or we can have as large a repository as that client would like us to have. Mostly because we work with very large enterprises, they have an agency, and their agency is doing their creative. We never want to disrupt the relationship with the agency, so we'll take their creative, it goes into a very large repository of all of their creative, and then the system automatically chooses the creative it thinks will resonate most to this audience. It's really interesting. If you look at one of our clients, which is a large seller of pet products through retail stores, God forbid you send a cat image to a dog person and vice versa. I use that example because it really makes sense. If somebody's a dog person, you want the hero image to be a dog.
+If somebody's a cat person, you want the hero image to be a cat. That is like 101 class-wise of what we're doing here. This is 1,000 times more data being driven into the decisioning for which creative gets picked. Winnie?
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Exactly. Great. I'm also going to check, Athena, can you show me what I should actually advertise for display as well?
+## Speaker 11 | 
+Here's the recommended display creative for your plan. A 300 by 250 banner built to reinforce your brand and drive booking consideration as audiences move from CTV-led inspiration toward conversion. The overall creative score is strong at 81, including brand guideline adherence and reusability across channels.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Okay. Can you go ahead and build out the campaign and prepare the campaign for launch?
+## Speaker 11 | 
+I've built a campaign using the forecasted media plan and recommended creative. The campaign is set to run for 30 days with a $1 million budget, $650,000 allocated to CTV, $100,000 to OLV, and $250,000 to display. This gives the campaign a balanced mix of premium video reach, incremental video exposure, and lower funnel booking support. I've applied the high intent consumers audience, assigned the recommended CTV, OLV, and display assets, connected the vacation package booking event, and set CPA and VCR as the campaign goals. Campaign setup looks good and is ready to submit for activation.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Perfect. Now that the Zeta team has approved the actual campaign, let's go ahead and start monitoring the performance. Can you go ahead and create a dashboard to help me monitor the campaign performance?
+## Speaker 11 | 
+Sure. Here is the dashboard to monitor your omni-channel campaign performance.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Okay, there's a lot of metrics here. Can you help me interpret how my campaign's actually performing?
+## David A. Steinberg | Founder and CEO, Zeta Global
+You'll note this campaign, which is real
+## Speaker 11 | 
+Sure thing
+## David A. Steinberg | Founder and CEO, Zeta Global
+had a 14x return on marketing spend.
+## Speaker 11 | 
+Looking at the simulated dashboard, over the last year, you've spent about $1.1 million, generated roughly 12,413 bookings, and brought in about $14 million in revenue. That works out to a cost per booking of around $88.84, a return on ad spend of about 12.77%, and an average order value around $1,134. Overall, those numbers suggest strong efficiency and revenue impact.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Perfect. What about the best channels that I'm operating in?
+## Speaker 11 | 
+Based on the data, display is your top channel with about 7,965 bookings, followed by CTV at roughly 4,357 bookings. OLV trails with just about 91 bookings. Display and CTV are clearly performing best for you.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Perfect. What about the audience?
+## Speaker 11 | 
+The strongest audience segments are summer travelers with about 2,984 bookings. Travel enthusiasts close behind at roughly 2,850, and lookalike audiences with around 2,372. Travel intent and retargeting audiences each delivered about 1,830 bookings, and families with kids contributed around 553. These are the groups driving the bulk of conversions.
+## Winnie Shen | EVP of Data Cloud, Zeta Global
+Perfect. Thank you, Athena. Hopefully you guys were able to see how do we take that massive amount of data, find opportunities for our clients, be able to transform that into a media activation plan, execute it, find the right creative, well, find the right creatives, then execute it, and be able to measure the impact of every dollar spent.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Today, I think you guys saw the power of this and how fast it is. When it's put on top of Foundry, it's going to be substantially faster. It's going to be substantially smarter. The reason the Palantir deal is so important to us is, A, the capabilities they bring to us from a foundational, easy for me to say, a foundational level. B, the joint go to market, which is going to be very, very powerful. Three, our real move from being a marketing platform into an AI infrastructure platform. I want to go back to what I said earlier about Athena. Nine months from idea to generally available, 90 days to launch her as a fully agency-capable product. We are turning her ultimately into a full operating system where this data will inform all of our clients' decisioning. Let me give you a perfect example.
+This is a real example we've already done. A very large client who's a very large hotel chain was trying to figure out where to put their next 500 hotels. We researched. We took every one of their existing clients. We looked at every credit card transaction that they did in every market that they were not. We segmented it to their competitors from a landscape perspective. How many room nights were they consuming from their competitors in a five-mile circumference around that competitor in markets they did not have hotels? They made the decision that those markets, where they had the most hotel nights for their most loyal customers, were where they should put their next 500 hotels. As they've opened those hotels, they're using us to launch the marketing and do conquesting against the competitors and move those consumers to them.
+That is the convergence of business intelligence and marketing in that case. When you think of Zeta, we really think of ourselves more as a business intelligence/infrastructure company that chose marketing because it has a trillion-dollar TAM. It's something that we've been focused on, and we've been working through. You had a question back there, and then I'll go to you.
+## Speaker 6 | 
+Yeah, about the reference architecture. It sounds like Foundry is going to get you guys efficiencies and obviously better answers, et cetera, what were you guys doing typically before without getting too much away? Was it like an S3 kind of architecture on AWS, or how were you guys-
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yeah, lot of AWS.
+## Speaker 6 | 
+Okay.
+## David A. Steinberg | Founder and CEO, Zeta Global
+By the way, we love AWS, we love Snowflake, we love a lot of our existing vendors, we have moved some of the spend we were doing with others, or spend we expected to increase, to Palantir to replace those vendors in our tech stack. Did you have a question?
+## Speaker 7 | 
+Yeah. Can you help me just understand the impact of the partnership with OpenAI, both on how OpenAI's-
+## David A. Steinberg | Founder and CEO, Zeta Global
+The question is how does Palantir affect OpenAI? It's not going to affect it in any way other than today we use OpenAI to be the voice engine for Athena. The reason that's important is every time an individual enterprise or agency individual uses it gets to know them better. It really begins to understand inference in addition to just what you're saying. Okay? When we put Athena on top of Foundry, they'll stay independent, but the data that's fed to Athena will move much, much faster. There's no problem there. As it relates to the advertising ramp of the OpenAI relationship, it's ramping as we expected it to. Everybody's right now trying to figure out how to do it. This is very emblematic of a number of partnerships we've started over the years.
+It actually reminds me, years ago, when we helped to build the API that helped a little company called Meta get into the advertising space. I think it's one of the reasons we're the only platform that I know of that matches our ID to the Meta ID. Meta, of course, is an amazing company and been an amazing partner. When they first started, they were trying to figure it out. We're seeing it ramp nicely. We have a lot of demand for it. Enterprises want to be in it. I think a lot of it's sort of the new and cool factor. We're super excited. I think we're the only platform that is partnering with OpenAI both ways. Let me Go ahead.
+## Speaker 7 | 
+Just on the comments earlier about reducing this, Palantir providing cost savings for you, is the-
+## David A. Steinberg | Founder and CEO, Zeta Global
+In out years. We're not suggesting this year it's going to lower cost.
+## Speaker 7 | 
+Is the system and other technology spend consolidation, is that more application SaaS vendors, or is it more like we were talking about this data infrastructure there?
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yeah. We don't consume a lot of SaaS-based technology because we are a SaaS platform, right? Most of our architecture is our own. The only time we've used third parties in the past has been around cloud compute, primarily through either AWS or Snowflake, which by the way, we've openly talked about our partnership with Snowflake, and I think it's pretty well-known we're an AWS shop. Yesterday, when Gap announced that they were making us the system of record, we're doing that in partnership with Google Cloud. We're totally sort of, I don't know if Switzerland's still considered totally neutral, but we're very much like Switzerland in that we're trying to stay very neutral. The reason Foundry made sense from a migration perspective was the quality of their architecture, and quite frankly, a lot of their architecture maps really well to our infrastructure today.
+Listen, we wouldn't have announced this today if we hadn't been building this for quite some time. Right? We've been in process.
+## Speaker 7 | 
+Can I just ask, some of the holding companies we mentioned, they say they're still cautious about building tools, kind of using.
+## David A. Steinberg | Founder and CEO, Zeta Global
+That, right
+## Speaker 7 | 
+not with using the LLM data.
+## David A. Steinberg | Founder and CEO, Zeta Global
+We don't feed our data into any large language model ever, nor I believe any of our enterprise clients would allow us to do so. We totally agree with that. We're only using OpenAI as the voice interface for Athena. She never sees the underlying data. She's seeing an output that's coming from our Data Cloud. By way of example, everything you saw here, you could've navigated through our platform using a keyboard a few months. You still can, if you could figure out how to do it. None of the output or none of the underlying data goes to the large language model.
+## Speaker 7 | 
+There's the real risk of an iOS model or moment where you have to have a big opt-in and a big change. That's the pushback that they were saying.
+## David A. Steinberg | Founder and CEO, Zeta Global
+When iOS moved to a no-cookie system, our growth that year was only 62%. We don't rely on third-party systems to track people. We do not fear that type of a thing. When people say to me, "What are you most worried about?" It's a data breach. For a company like us, where 51% of the Fortune 100 are trusting you with all of their data, if you have a breach, trust could be lost, and that's where you have a major problem. What do we do? Our network operating center operates on four continents, 24/7, 365. Our head of data security, Dr. Jeffry Nimeroff, who has his PhD from the University of Pennsylvania, used to help to run all data security for eBay before joining us, has designed a siloed data system with 28 different silos.
+Each of one has a different encryption key to connect the PII to the different data points, and we invest very heavily in that. The other thing that Foundry gives us is another added layer of data security. It's one of the best data security platforms in the world. Whereas a number of our other competitors, I'm sorry, our other partners, didn't have that layer. Did you have another question?
+## Speaker 7 | 
+Last one was going to be, I think early on when we saw TikTok ads, it was hard to kind of predict how big Snap was going to be.
+## David A. Steinberg | Founder and CEO, Zeta Global
+We partner with TikTok, we partner with Snap, we partner with Meta, we partner with LinkedIn.
+## Speaker 8 | 
+Really, I wanted to know, based on what you're seeing with the LLM ads, some of the returns, some of the, I guess, economics, but the performance, the experience, how would you compare that to what's out there in the market?
+## David A. Steinberg | Founder and CEO, Zeta Global
+Well, it's hard to compare it to TikTok because TikTok is so viral.
+## Speaker 8 | 
+For sure.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Right? You don't get that type of a viral nature in the natural outputs of the existing large language models. That being said, we are seeing very high click-through rates, but we're only serving the ads in a very small percentage of what is a large inventory pool. It's not going to be a small amount, but we're seeing higher click-through rates. It's still early on the return on marketing spend, to be honest.
+## Speaker 8 | 
+Okay.
+## David A. Steinberg | Founder and CEO, Zeta Global
+One last question. Do you want to, Ron, sum us up or?
+## Speaker 9 | 
+Just in terms of the return on ad spend metrics.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Well, we say marketing, but yes.
+## Speaker 9 | 
+In terms of the third-party verification of those numbers.
+## David A. Steinberg | Founder and CEO, Zeta Global
+It comes from Forrester.
+## Speaker 9 | 
+Okay.
+## David A. Steinberg | Founder and CEO, Zeta Global
+This is a Forrester independent study that they published showing that the average return on marketing spend was an average of 2.4 x to 2.7 x, and we were at 6x-6.5 x. We were more than 100% higher than number two in their study.
+## Speaker 10 | 
+Did they give any granularity as to why they were so effective?
+## David A. Steinberg | Founder and CEO, Zeta Global
+I don't know. Two minutes? I have two minutes. You can get the report from Forrester. It's available through them. I personally, I don't recall if they put a narrative around it.
+## Chris Greiner | CFO, Zeta Global
+What they did was they actually took a number of customers from different industries, looked at different channels that they were using, and the different use cases of acquire, grow, and retain. The outcomes in that study by customer range from anywhere as low as four and a half, I want to say, to as high as 9 x.
+## David A. Steinberg | Founder and CEO, Zeta Global
+By the way, when Forrester named us the number one marketing automation company, again, third year in a row, I'll point out in the year that they just named us number one, we did not spend meaningful dollars with them as a client. That's something I always like to point out. We're big fans of Forrester, but I like to be clear about that. They said, when putting us the highest and furthest to the right in their study, "We take the most complex marketing problems and make them simple." I think that's ultimately what clients want. The CMOs are always under pressure. They're usually the lowest tenured employee in any CXO suite. Our job is to make them the hero of their own environment and ecosystem and keep things as simple as possible while driving the highest possible return on marketing spend.
+By the way, what she showed you was not a demo. This was a real interaction with the platform. The outputs are from a real campaign that ran, and you'll note that it was 14 times return on marketing spend. She did not cherry-pick that. We have a lot of clients who were well above that order of magnitude return. The average is 600%-700%.
+## Ron Josey | Managing Director, Citi
+It's a great place to end it. David, Chris, Winnie, thank you for the time.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Enjoy the heat.
+## Ron Josey | Managing Director, Citi
+Congrats on the big deal.
+## David A. Steinberg | Founder and CEO, Zeta Global
+Yeah.
+## Ron Josey | Managing Director, Citi
+Enjoy the heat, yes.
+Data Source: Quartr Last updated: Jun 23, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (11) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

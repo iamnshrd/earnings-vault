@@ -1,0 +1,203 @@
+TITLE: The 6th Annual Evercore Consumer & Retail Conference
+DATE: 2026-06-10
+## Greg Melich | Senior Managing Director, Evercore ISI
+Good morning, everyone. I want to thank you for joining our Sixth Annual Evercore Retail and Consumer Conference. Doing it the first time in our global headquarters here in New York, and it's my great pleasure to have with me Seth Dallaire, who is the Chief Growth Officer of Walmart. Just stepped into that role. I guess, Seth, you are the Chief Growth Officer. What does that mean? What do you actually do?
+## Seth Dallaire | Chief Growth Officer, Walmart
+That's a great question. I get it frequently. Thank you for inviting me. What it means is that I look after a set of businesses that complement what we do in the more traditional retail world, and I'll explain what those are. First, it starts with our third-party marketplace seller business. That business is one where we work with sellers to bring more assortment to our e-commerce business and stores so that customers and members can find it and be introduced to general merchandise categories, fashion, beauty products, things that maybe who knew Walmart had.
+That's an important part of our business in terms of building assortment for customers and helping our customers shop omni-channel with us. Introducing them to our digital and e-commerce businesses. That's one part of the business, and that extends over the Walmart Enterprise. Each segment will work internationally with the marketplace sellers. The retail media businesses, Walmart Connect, Sam's MAP, other advertising that sits within different countries where we have e-commerce offerings. That also now comes into the growth organization. The Data Ventures businesses, which create the data product called Scintilla, that perhaps some of you are familiar with. Our suppliers subscribe to that information.
+That also is coming through the growth business but now extending into Canada and Mexico and o ther international businesses. The membership businesses, Walmart+, expanding those offers through not just the U.S., but we made an announcement that we'll be rebranding the Canadian membership offers to Walmart+ last week. We'll be looking to do more of that type of work in the future. Lastly, the VIZIO business, which is the television manufacturing business that we completed the acquisition of last year, 1.5 years ago . That business sits adjacent to the advertising businesses that we run.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Okay.
+## Seth Dallaire | Chief Growth Officer, Walmart
+I'm often asked, "Well, why would Walmart buy a television company?" The reality is that we sell a lot of TVs at Walmart, and the television business is no longer the domain of the sort of buy it for wholesale, sell it for retail, and keep the margin. The real television business is now post-sale, and it's driven by technology and the operating systems that sit behind the glass on these devices. That is an area of advertising, Connected TV advertising, that complements what we do with advertising products in our e-commerce businesses and stores, we're excited about that.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Yeah. I'd love to double-click on that. So, ad vertising was about a $6 billion business for you guys, just to frame it. Take us through the evolution of getting into advertising and how VIZIO is now complementing that and accelerating it?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Sure. I've been at Walmart for just over 4.5 years, and I would say that when I joined, the investments in the advertising space were, we were making them, but there were certain technological features and capabilities that relative to other platforms that I had built, were not the same, were underdeveloped. When I came, I worked with the team to really define the opportunity and why advertising is so important and complementary to a retail business. That was the first sort of task. In doing so, once getting agreement that, hey, this is an area we want to invest in, its actually advertisements are good for our customers. They're good for our seller community.
+They help avail customers and members to new products or things that they didn't know were available for sale at Walmart. They have a different margin profile than the traditional retail business, k ind of everyone wins in that respect. We focused on building a platform that could grow that business and scale as the investments we were making in e-commerce were taking hold. We're very tightly coupled with the e-commerce business. That business has been growing healthily. We've been making investments there. As that business grows and more customers and members come in and shop, they want to find more assortment through the marketplace.
+Those marketplace sellers want to advertise their products. That creates opportunity for us to serve customers and drive operating income. Similarly, the large advertisers, some of whom we've had on stage earlier today they want to capture as much demand at the point of sale with our customers and members as possible. They buy the products as well. That discussion, once we sort of got over that line with the leadership teams has been a huge accelerant for the business. The leadership team on the whole now will say, "Well, this advertising business and retail media is a critical component to how we serve customers and members, and also to the P&L."
+## Greg Melich | Senior Managing Director, Evercore ISI
+How do you make sure that that experience for the customer doesn't get cluttered or overloaded? You're growing 40% in Walmart Connect. How do you drive the organization so that it doesn't get loaded up on the customer?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Well, we have an experimentation orientation in terms of that business, where we will constantly run AB tests to understand what is the tolerance level for advertising or different types of ads or formats of ads. The way that you respond to those ads may be different than the way that I do. The different categories. Some shopping for beauty category, you may be much more tolerant of advertising and perhaps video advertising than you would be of a category like produce, for instance. We have to experiment in order to understand customer response, and we can do that in a digital environment.
+Running those tests, the different AB tests, I don't want to say that it's cheap-cheap, but it's easier for us to run one of those tests and get statistical significance on a test and a result and give us confidence to then extend that experiment out to the entirety of our store, than it is to do that same type of test in a physical environment. You can imagine where if we were setting up mods and features in different ways, takes time, takes a lot of labor costs to do it. Doing it across 4,600 stores is a challenge. The digital and e-commerce environment allows us to do a lot of experimentation to understand just what that threshold or boundary might be before you say, "It's too many ads. I'm going to abandon my cart."
+In fact, what we find is that ads are accretive to the experience b ecause it creates the opportunity for new brands or challenger brands to get time or attention from you while you're shopping in the category. Our customers enjoy the serendipitous nature of finding new product. We've been talking quite a bit about advertising or about even around how agents or new surfaces that customers use to begin a shopping journey, how they impact or provide utility. If you're going to continue to be served the same thing, the same shopping list, the same products that you've always bought in the past, that shopping experience might be pretty boring.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right.
+## Seth Dallaire | Chief Growth Officer, Walmart
+I like to be exposed to new products. I like to understand, even in categories that I shop frequently, that there may be new offers. New brands and new products or new price points, and advertising plays a critical role in that. In fact, it's very similar to merchandising.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Yeah. Actually, maybe we'll pivot to another part of the growth area, is membership. Walmart+ been very successful. Sam's with its own membership model start. I guess that's where the headlines are, but if we bring it in. I think probably a third of Walmart's global EBIT is under your mandate. What do we do to really bring that home into the part of the membership so that what they're learning, the data, and understanding that customer flows through to more loyalty, more traffic, more tie-in with those customers?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Yeah. It's an important part of our business for all the reasons that you just mentioned, but it's also complementary to, for instance, the marketplace business. If you're a new e-commerce customer for Walmart. Maybe you're buying something that we're shipping to you from one of our fulfillment centers, you have to pay for the delivery m ost likely, depending on the cost of the item. If you do that once or twice, you don't want to continue to pay that delivery fee. You may then decide, okay, if I'm finding the assortment that I want from Walmart, I want to have these items delivered. I love that convenience. I'll try the membership. We know that once you're in trial, if we can deliver those items to you and meet your expectation around delivery speed, the likelihood that you become a paid member is high.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Wow.
+## Seth Dallaire | Chief Growth Officer, Walmart
+When you become a paid member, we see this. It's predictable. Th e amount of spend and wallet share that you give to us increases. As you use more benefits within the membership program, your renewal rates or the likelihood that you will renew i ncreases as well. We have cohorts of customers who only shop with us in store. We'll encourage them to try shopping with us in an omni-channel way, bring them into the e-commerce business. As they come into the e-commerce business, we'll encourage them to become members.
+They become members, we then encourage them, and we see that their visit frequency, purchase frequency, and the average order value of those baskets increases in a way that looks very different than the buy-in store only customer. That membership piece it has many benefits to our P&L. We also get to serve these customers and members in a different way, too. The assortment that we bring is really a critical component of that, and that's why the marketplace, it's so strategically important for us.
+## Greg Melich | Senior Managing Director, Evercore ISI
+I want to get to the marketplace, but I want to double-click on the membership for a second. Is membership the connective tissue? It seems to me, to put these things together. Is it a standalone P&L driver in its own right when you factor in all the costs of delivery and to serve that member, or is it really just about connecting all these things together?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Well, we try to look at all of these components of the growth business as complementary to other parts of Walmart. If we, I think, ran them as purely independent types of businesses, then it minimizes the impact or complementary nature that we have across other parts of our business. That we need a strong e-commerce business in order to have a really compelling membership offer.
+We need to have a really strong e-commerce business to complement and meet our customers' desire to shop however they want to shop, in store or on their phones. The businesses in the growth team, membership, marketplace, advertising, they all benefit from those investments, both the experiences we bring to our customers and members in the stores and clubs, as well as in the app. I wouldn't say that any one is that we look at independently of one another. They all complement and depend on one another.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Absolutely. To get into the marketplace. Double click on that a little bit. We have Walmart Data Ventures, t here's 3P. I guess, frame where that is now in terms of the growth drivers that you're looking at. What's the real proof point to see if that works with companies that are looking to be on 3P, or if you can get vendors. How do you actually win in 3P?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Well, it's early innings for our marketplace business for sure. We're excited about the signal that we're getting for that business and we hear and see it in a couple different ways. One, we hear from marketplace sellers who I would argue are some of the most sophisticated digital marketers and e-commerce participants in the industry. We hear from them frequently that they want ease of setup with us. They want access to scale and Walmart customers across any channel in which we're serving them.
+We've made big investments in terms of technology to enable a seller to set up, bring their product to our product catalog, do it in a way that we can build that once and scale it globally. That's really been John Furner's mantra is to build a platform once and then scale it globally. We're taking that same approach with the marketplace business. The output or measure where we would determine whether that's successful or not is are we seeing the actual assortment come into our product catalog? We are.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Okay.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Do we hear when we do outreach with sellers across the globe, are we hearing that they're finding our customers and selling more stuff? We hear that as well. There's a lot of enthusiasm from that community because they see that we're serving a group of customers and members that our competition has not, or we're able to do it in a way that is different than how they've done it. Perhaps we're bringing something unique like physical point of sale to the equation. Across each one of those different dimensions, those sellers have told us, "Yes, keep going. Give us more capability. We want more access to your customers so we can sell more stuff. We know they're in there and that they want to buy our products."
+## Greg Melich | Senior Managing Director, Evercore ISI
+How important is Walmart Fulfillment Services to complement that growth in 3P marketplace?
+## Seth Dallaire | Chief Growth Officer, Walmart
+It's critically important.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Okay.
+## Seth Dallaire | Chief Growth Officer, Walmart
+We see a causal relationship between delivery speed and conversion. That's why you'll see so much emphasis in our marketing materials and across the execution of our business around delivery speed. We have a unique position where our stores sit close to over 90% of U.S. households. We can get products to people quickly and really fast. You'll hear my peers like Walmart U.S. CEO, David Guggina, and John Furner, talk about delivery speed being a critical part of our offer for customers and members. We know that as you bring items closer to the customer and you shrink the amount of time it takes to deliver those items, that the conversion rates on those items and the purchase frequency increase.
+When we talk with a seller about bringing their product catalog into our store, it's not just about getting the catalog and making it available and shipping it to you in 2 weeks. That wouldn't be good enough. That item might sit. When we bring that item into one of our fulfillment centers and we're delivering it to you same day or next day, we see the conversion rates go up. Our customers love that. From a supply chain standpoint and just how we're bringing fulfillment to the table, speed is what our customers want, and that fast fuels the frequency.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Interesting. That's actually a great transition, I think, to the next thing I want to talk about, which is Walmart's talking a lot about global platforms. Under John's leadership and you taking this role, I guess what I would say is how can you create value for Walmart by taking this global view of these platforms and really how do they work together? What sort of findings and learnings do you get and integrate through the business?
+## Seth Dallaire | Chief Growth Officer, Walmart
+That's a great question. I'll talk about Data Ventures as a starting point. We built that business a couple years ago from scratch. Building it from scratch affords you some flexibility in terms of you don't have a lot of technical debt behind the product. We were successful bringing that forward, and we heard from our suppliers who's subscribing to that product that there was nothing like it in the other countries that they were working with us in. When we're addressing a global enterprise on the supplier side, news travels about data quality. If there's a piece of data here that they're getting from the U.S. business. How do we get that for Mexico? How do we get it for Canada?
+When that request starts to come through to our teams for building a new product, we have a lot of freedom to go in there and set it up the same way. Same principle of building this product once and then scaling globally. We've done that now in Canada and Mexico with that Data Ventures, with the Scintilla product, and we see a lot of runways for us to do that in other countries that we serve. Similarly, with advertising, now that all of the advertising businesses are rolling up through a single organization in the growth org, all of the capability that we've worked so hard to build for Walmart Connect, we can now start to bring similar capability to the Sam's business for advertising.
+The reason why that's important is that we may be working with the Procter & Gamble of the world, for instance, in our U.S. stores for Walmart. The types of outputs or data signal and capability that we bring to them for advertising in the U.S. for Walmart may look different historically than what Sam's is offering, because they built it on a different platform. Now we're looking at things and saying, "Okay, how do we provide the same attribution windows? How do we provide the same definitions of sales outcomes to Procter & Gamble so that they can look across the Walmart Connect business and the Sam's MAP business and say," 'Okay, I'm no longer having to rationalize or compare two different apples and oranges in terms of these data definitions.'
+Again, the same principle of building once and scaling globally applies there in a way that will ultimately help our suppliers who are investing in these ad products too.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Those are some great examples of, I guess you mentioned Canada bringing Walmart+ there.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Yep.
+## Greg Melich | Senior Managing Director, Evercore ISI
+What learnings have you found from around the world that you want to either import back to the U.S. or move into different markets?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Yeah. It's not one-way traffic.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right.
+## Seth Dallaire | Chief Growth Officer, Walmart
+We're looking out into the international markets and trying to understand, okay, are there things that are happening there that our U.S. businesses might benefit from? Are there things that are happening in Sam's that would benefit the Walmart U.S. business were we to start using them? I'm going pretty deep on that now w ith my peer, Chris Nicholas, who's the Walmart International CEO. One observation, some of our customers who live in Mexico want to shop the U.S. catalog.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Yeah.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Some of our customers who live in the U.S. want to shop the Mexico assortment. They want products that are local. How do we enable that cross-border shopping? We're building that capability now, where we're going to enable those customers that sit in those different markets to buy across border. That's a big learning for us, where I think even 6 months ago, we may have sat here and said, "Canada just wants Canada, and Mexico just wants Mexico," when in reality, there are many communities here in the States that want to shop those Mexico products and v ice versa. We're going to enable that.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Fascinating.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Yeah.
+## Greg Melich | Senior Managing Director, Evercore ISI
+That'll bring up a whole other tariff discussion probably, so I won't even go there.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Right.
+## Greg Melich | Senior Managing Director, Evercore ISI
+I want to make sure we have time in this. I can't believe we've gotten through probably 15 minutes and haven't brought up AI yet.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Okay.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Let's talk about it a little bit. We've heard people say that it's going to disintermediate retail. It could take away the retail media business and advertising, I guess advertise, whether it's for Amazon or even yourselves. I guess as your teams leverage AI to grow and scale your businesses, how important is it for you to scale fast versus scale well as you implement AI?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Well, you want to do both. I think scaling well, given my prioritization, would be the first thing we would do before scaling fast. If you scale fast but poorly, there's a whole bunch of tech debt you may assume, or things you may have to unwind, that in the interest of speed might not be helpful. You may want to run experiments that would allow you to move quickly and g ive you signal quickly that you could decide thumbs up, thumbs down.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right.
+## Seth Dallaire | Chief Growth Officer, Walmart
+That to me is the part about doing it well. You need that to have some point of comparison or have a thesis about why you would want to move so quickly to begin with. If you're just moving for the sake of moving, that might not be the best use of your energy or resources. How that's applying to our approach working with AI, we are leaning into engagements with most of the big names in terms of the hyperscalers. The reason why that we're leaning in is because we need to be where our customers are. That is an important point for us in the commercial behavior to understand how customers are going to use these different tools.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right.
+## Seth Dallaire | Chief Growth Officer, Walmart
+There's a lot to learn, and it's our belief that we're going to learn more and learn better by being involved as opposed to sitting on the sidelines and waiting. That's been our approach, and we are learning a lot. Much of that application of the learning, we can use in the environments of those agents. We've been public about how we've been partnering with some of those companies. Also we get a lot of learning that we can apply to the building of our own agentic tools like Sparky. Some of those, the way that in observations that we have about our customers who are using those agentic tools within our own walls is very interesting.
+We've talked publicly about some of those things recently. On the earnings call, we shared some different usage benchmarks. I would say one of the most interesting things to me is the types of prompts that we get from customers in those agentic environments are quite different than what maybe historically we've seen. That the language, there's a natural language, a query string of questions that may take on almost a research type of tone to them. An example that I gave earlier this morning, we may see a prompt around, "I'm looking for a detergent for my child who has sensitive skin. Can you recommend something that's fragrance-free?"
+## Greg Melich | Senior Managing Director, Evercore ISI
+Okay.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Now, we can talk that here. That's not historically how people have searched for fragrance-free detergent. If that type of query string is now happening in a commercial environment, we need to be aware of that. If that's how our customers are coming to us to shop, and they're looking for a retrieval or an answer to that prompt that has value for them and that's correct, we need to orient ourselves around that. That's very different than fragrance-free detergent.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Well, no, it's fascinating. I guess so as you're involved in that conversation very early with the consumer. What does this mean to the retail media network part of the flywheel? If the agents are filtering product choices, does that end up cannibalizing the opportunity in retail media?
+## Seth Dallaire | Chief Growth Officer, Walmart
+In our own agentic tools, we've introduced some advertising placements there. It's something that we'll continue to experiment with. I would say that I have, at my core, belief that advertising is very similar to merchandising in the e-comm space. Advertisements contextually in a retail environment provide a lot of value for customers because they introduce you to new products, they introduce you to new brands, they introduce you to new price points and w ithout that type of introduction, in an environment where you're just looking at your phone, you're not standing in front of a line and ladder or shelf of items that are designed to attract your attention.
+I think that's a shopping experience that's just not as interesting. We'll be careful to watch in customers and how they're using these tools. I would expect that the advertising and retail media will have a role to play because it helps customers shop i t's not an interruptive experience. It's contextually relevant.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Where do you see agentic AI creating the most leverage for the business, and where do you see human oversight as most needed to sort of make sure we don't go off the rails on this?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Well, in my business, there's a couple places where the human component or oversight is really important. We describe our business as being people-led, tech-powered. That holds true with how we're approaching some of these agentic capabilities. An example for you in marketplace. We could automate a ton of behaviors, and we have, and capabilities to allow sellers to give us more information about their products and ingest them into our product catalog.
+We need to have some human moderation over that ingestion so that we understand these are the types of things that we actually want in our product catalog. These are the types of products or pieces of information that maybe you didn't include that are important for us in terms of providing and making a great shopping experience for customers and members. That's a side-by-side where they're better together, than if we just allowed an agent to operate on that independently without any moderation. It may take us someplace that's suboptimal for the retail experience.
+## Greg Melich | Senior Managing Director, Evercore ISI
+I have to step back, given your long experience in the business. Which of your either competitors or partners do you think are doing the most interesting things with AI right now?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Besides Walmart?
+## Greg Melich | Senior Managing Director, Evercore ISI
+Besides Walmart. That's what I got. I'm forcing this on you.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Okay.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Sorry.
+## Seth Dallaire | Chief Growth Officer, Walmart
+There's so much going on, and there are very distinct different strategies for engagement even across the retail space. That to me is fascinating, like why is one company behaving this way and another company is behaving another way. I certainly have my own theories about it. I would say that one thing I do think critically about is the approach that we bring or I would bring to Walmart and the team and how we're interacting and c ulture here is important. Walmart is a people-led business.
+People are a feature of our business, not a bug. When we show up in stores, our customers show up in stores, we are often this far away from them. We might be asking you about your day. You may be asking me for help to find an item. Those are experiences that I imagine, I'm highly confident they will continue in the future. The need for that type of human interaction and the experience that you have in the store as a customer or member- will be heavily influenced by that interaction.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right.
+## Seth Dallaire | Chief Growth Officer, Walmart
+That's a different approach, I'll speak for myself, in my experience, where before joining Walmart, I had worked exclusively at technology companies. Some of which people, I would argue, are a bug, not a feature. If you move towards that orientation so heavily, I think you have very different outcomes and experiences that you provide for a customer. The great privilege of mine is being able to be on the ground in supercenters, in clubs, regardless of country, to see just how our associates interact with the communities that they serve. It's been a huge eye-opener for someone who's worked at companies where the interaction with the customer is behind glass, and you don't maybe ever see that person.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right.
+## Seth Dallaire | Chief Growth Officer, Walmart
+I take a great amount of pride in the experience our associates put in front of our customers every day. I believe that the technology that's being developed right now, agentic or otherwise, can only make that experience better.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right.
+## Seth Dallaire | Chief Growth Officer, Walmart
+It won't eliminate it.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right. With AI building baskets, and actually becomes more properly agentic in shopping, I guess where does Walmart need to sit? Do you need to be the customer-facing agent or more, if you will, agnostic, the infrastructure behind everyone else's agents, or basically all the above?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Yes.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Okay. That was an easy
+## Seth Dallaire | Chief Growth Officer, Walmart
+Yeah. There's a couple different ways that we engage with customers. We talked about why we would work with third parties. We need to be where our customers are. There will be one way of engaging with a third party that may require us to work with them on product catalog ingestion. It may require us to work with them on payment mechanisms or baskets. That might be a very different approach that we would take to how we would use agentic tools in our supply chain or the rails of the business that sits behind the supercenter or behind the club or behind the e-commerce business. We have to be ready to work on all of those dimensions. If we ignore one of them for the sake of the other, I think we'll get out of balance.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Right. Look, growth can be expensive. We know that. We're, well, lots of shareholders in the room here, and it's a retail consumer conference, ultimately people look for growth and returns. I guess, as Chief Growth Officer, how do you look at your role in driving that 4%+ top line translating into hopefully 8% operating income growth over time?
+## Seth Dallaire | Chief Growth Officer, Walmart
+The businesses that the growth organization manages have obviously very different profit profile than the traditional retail business. The advertising business, data subscriptions, the technology of televisions, membership, marketplace, they all offer a different profile than the more traditional P&L that you would see in a supercenter or a club. All of them add to the customer experience.
+I've a high degree of confidence that any investments or dials that we turn to make those businesses bigger and better are in service of the customer and member experience. They make them better. The fun thing about it is that we can grow really quickly as we make those investments because we still have a lot of room to run with our e-commerce business, for instance. You had mentioned, at what point do you have too many ads or not enough ads? We look at those measures across competitors and across our own experimentation. I have a lot of belief that we can do more.
+## Greg Melich | Senior Managing Director, Evercore ISI
+A lot more.
+## Seth Dallaire | Chief Growth Officer, Walmart
+It's fun to watch the progress there and the amount of growth that each one of these teams has been delivering. It's very tightly coupled with other parts of the business. We then have the optionality. My teams exist to bring the optionality of investment of those funds across the rest of the business. Advertising, operating income, membership income, all those things are then, we have the optionality to apply them across other parts of the business. Could be in investing in more supercenters, could be in remodels, could be in price investment. There's a whole bunch of ways that we can use the outputs and success of the growth businesses to make the experience better for our customers. That's in line with EDLP, EDLC principles that the business has been built on.
+I'm very excited about the work that I get to do. I love the remit that I have now to sit across, horizontally across these segments and i nternational geographies. To bring all the successful things that we've had in the U.S. to bear there, and then reciprocally learn from all the things that have been happening in these markets that could help improve our business here in the U.S.
+## Greg Melich | Senior Managing Director, Evercore ISI
+To keep it simple, $100 billion digital business at Walmart U.S. with a double-digit variable margin, it's probably given 40 basis points of tailwind to profitability. How do you see the opportunity to do that sort of thing now around the business, now as Chief Growth Officer?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Well, I think one of the reasons why the role for the growth organization was elevated across the segments was because there's recognition that we could make more investments in other parts of the business. The opportunities and things that we're building in the U.S., it could be a new advertising feature, it could be the TV business. How do you apply those things or what opportunity do you see across these other companies or the companies that are in our portfolio in the different countries in which they operate? That to me is exciting, i would say that we're, again, it's early innings for us in that respect. I look at those things with a sense of urgency to say, "Let's go. There's so much here that we can do. Let's just start doing it." That's what gets me up in the morning.
+## Greg Melich | Senior Managing Director, Evercore ISI
+From a return standpoint.
+## Seth Dallaire | Chief Growth Officer, Walmart
+Yeah
+## Greg Melich | Senior Managing Director, Evercore ISI
+It doesn't sound like with the hyperscalers like Amazon doing $200 billion of CapEx, you don't need that. In fact, you almost wouldn't want it. I don't want to put words in your mouth, do you worry that they're spending so many more multiples than you guys are on CapEx, which I think is around $30 billion?
+## Seth Dallaire | Chief Growth Officer, Walmart
+Well, I would tell you that my orientation is around how we serve customers. I'm not following a competitor in terms of how we might orient our business that way. That's my answer to that. I don't know. What's the right answer? It's like, how do we serve the customer the best way? What number is that? I don't know. I am just focused on making sure that we make the customer and member experience better.
+## Greg Melich | Senior Managing Director, Evercore ISI
+That's good.
+## Seth Dallaire | Chief Growth Officer, Walmart
+That's what my teams are designed to do.
+## Greg Melich | Senior Managing Director, Evercore ISI
+That's where I'd like to go, I guess, last, is that part of Walmart's mission is always delivering value for money. People can save money and live better.
+## Seth Dallaire | Chief Growth Officer, Walmart
+That's right.
+## Greg Melich | Senior Managing Director, Evercore ISI
+You mentioned you're democratizing fashion. We saw that in the recent quarterly results, some acceleration there. Now the VIZIO that you mentioned before are having some pretty shocking price points that are quite low. What's the vision of how what you're doing, Chief Growth Officer, can really drive the Walmart mission forward?
+## Seth Dallaire | Chief Growth Officer, Walmart
+The marketplace is important here. When you look at our e-commerce business, and I can say this, I have an informed opinion about this, we do a great job with groceries. That stock-up trip, that fill-in trip, these are complex orders to serve. 20 items in a basket- high order value, perishable items that we're bringing out of the store to our customers' homes. That's very difficult to do. We do it really well. You see our business as being the numbers that are on the scoreboard reflect that, as well as our membership business numbers as well. There's a whole part of business in general merchandise, and you mentioned fashion consumer electronics like TVs. There's home decor.
+There are areas of investment that our merchants have made on the one piece side to elevate those brand experiences, both in Sam's Club and at Walmart, that are starting to show up. Additionally, the marketplace allows us to bring assortment that we haven't had in the store, or maybe the Walmart customer who's been shopping with us didn't know that we had. Who knew that you had these items? The marketplace assortment allows us to expand and bring brands and products to them that maybe they hadn't shopped with us before. When they try it, maybe they buy a home decor item that they've shopped that's a new category for them with our business. That's important for us.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Yeah.
+## Seth Dallaire | Chief Growth Officer, Walmart
+It does drive then, okay, a bigger relationship with the customer. The margin structure of that general merchandise business is quite different than a grocery stock-up trip. There are many benefits for us on the consumer side of availing them to a whole host of different products in categories that maybe they haven't shopped with us before. Like general merchandise, home decor, fashion. The margin structure, that's different. Because it's marketplace, it then we come into all of the seller services that we provide. The impact on the P&L there. That's a big crank of the flywheel. That, again, serves our customers and members well, but then also supports the investment thesis we put forward.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Well, Seth, I could keep going on forever, but that's a great way to end it. Really appreciate you coming, and look forward to the next few...
+## Seth Dallaire | Chief Growth Officer, Walmart
+Yeah, thanks for the time today. Appreciate it.
+## Greg Melich | Senior Managing Director, Evercore ISI
+Yeah.
+Data Source: Quartr Last updated: Jun 10, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

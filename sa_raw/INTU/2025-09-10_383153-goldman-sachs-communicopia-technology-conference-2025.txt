@@ -1,0 +1,413 @@
+TITLE: Goldman Sachs Communicopia + Technology Conference 2025
+DATE: 2025-09-10
+## Kash Rangan | Managing Director, Goldman Sachs
+This is day three of the Goldman Sachs Community Co-Quantum Technology Conference. It's the fourth year that we have rebranded this conference, reversioned it, and consolidated a couple of industry groups, and it's been a tremendous success. We're at more than 3,000 registrations. I know that may not sound like a big number, but in our industry, financial services industry, that's actually pretty good.
+## Sandeep Aujla | EVP & CFO, Intuit
+Correct.
+## Kash Rangan | Managing Director, Goldman Sachs
+One of them, if not the biggest, probably the biggest conference Goldman Sachs hosts every year. That's in part because of companies like you and speakers like you that we're able to create a sense of a great platform that people would love to get value from listening to great conversations.
+## Sandeep Aujla | EVP & CFO, Intuit
+You're very kind.
+## Kash Rangan | Managing Director, Goldman Sachs
+That's what we're about to have right now.
+## Sandeep Aujla | EVP & CFO, Intuit
+You're very kind and appreciate everything that Goldman Sachs does. I started my career at Goldman Sachs in banking, so yes, good memories.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah, thank you.
+## Sandeep Aujla | EVP & CFO, Intuit
+Congratulations on the next stage. Massive impact across your career, and I wish you all the best in the future.
+## Kash Rangan | Managing Director, Goldman Sachs
+Thank you.
+## Sandeep Aujla | EVP & CFO, Intuit
+Junior.
+## Kash Rangan | Managing Director, Goldman Sachs
+Appreciate it. Thank you so much. Thank you so much. The past couple of years have been remarkable for Intuit. Big breakthroughs. You had the mid-market, assisted tax, AI, et cetera. As you take stock of what the company has been able to accomplish, give us an assessment, mark to market, of how things have come along. More importantly, how do you, as a CFO and a business partner to Sasan, how do you look at the business ahead for the next four to five years? I'm sure everybody plans. I mean, not all these plans necessarily happen with 100% accuracy, but you got to have a plan. What is the plan ahead?
+## Sandeep Aujla | EVP & CFO, Intuit
+I love that question, Kash. We're really proud of how the team has executed across the board and the results that we've been delivering. It really starts out with the courage and the foresight it had to bet the company on data and AI circa 2018, before it became really fashionable to talk about AI.
+## Kash Rangan | Managing Director, Goldman Sachs
+Have I told you this story? It's a very short one.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah, no, don't go far.
+## Kash Rangan | Managing Director, Goldman Sachs
+When Sasan became CEO, he and I went to see clients. I think we were the first to go marketing with.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+All he talked about was AI, 2018. In case Sasan, you're listening, you know the trip.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+It was all about AI before AI became a thing.
+## Sandeep Aujla | EVP & CFO, Intuit
+No, and I remember I would get questions like, hey, what is this AI-driven expert platform strategy, right? That question kind of miraculously went away starting Thanksgiving 2022 for some reason. That has paid off dividends because we started investing in delivering done for you experiences for our customers. With 100 million active customers on our platform, as I look ahead the next five years, it's going to be continuing to scale that business, serving a lot more than 100 million globally, and continue to double down on delivering done for you experiences using AI and AI-empowered human experts. We believe, and our results are showing, that that's a true competitive differentiation, AI and HI, human intelligence, working together.
+Looking ahead on the business platform, I expect that five years or less from now, most of the work that small and midsize businesses are doing on the platform will be done by AI or AI-powered human experts. Today, already, since introducing agents in July, we're seeing a meaningful amount of our customers save 12 hours per month. I mean, that's a massive productivity gain. They're getting paid five days early. I expect that to continue, continue to make progress in mid-market. We've declared a mid-market segment for us as customers with $2.5 million to $100 million in revenue. I would take that as a warm-up exercise. Over the next five years, the ambitions are well above the $100 million in terms of the scale of size of customer we want to go after.
+On the consumer side, we have an amazing business with TurboTax, a phenomenal business with nearly 150 members and over 40 million monthly active users on Credit Karma, to deliver on an end-to-end vision of having one platform where customers can manage their financial life, everything from building credit to building wealth. We delivered tremendous progress last year and expect that to continue to compound over the next five years.
+## Kash Rangan | Managing Director, Goldman Sachs
+Got it. We will definitely get into the AI thing, but before that, at a high level, what is your pulse on the small business environment? We've heard in the past few weeks the jobs added, that data didn't look particularly great.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+Economists like to think that 80,000 jobs added is about the stable sign. A couple of years ago, we were adding a couple of hundred thousand.
+## Sandeep Aujla | EVP & CFO, Intuit
+Right.
+## Kash Rangan | Managing Director, Goldman Sachs
+Now it's like well below that trend line. Is there a relevance to Intuit? How closely do you watch that? More importantly, as you take a step back and look at the lens of your small business ecosystem, what do you see that's out there and how would you characterize the strength of the small business ecosystem?
+## Sandeep Aujla | EVP & CFO, Intuit
+We're in the business of serving consumers and entrepreneurs.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+As an entrepreneur, we call them small, midsize businesses, but they are impacted by everything that they hear in the press. The sentiment is always evolving. I always cut through the noise and look at what the data is telling me. What the data is showing us across the small business environment is revenues are relatively flat, but profitability is up as companies continue to get more efficient. The two leading indicators that I watch most closely are the cash reserves in bank and the hours worked by the employees, because that's a key leading indicator, like how much you're having employees invest into the business. Both of those are up year over year. I continue to feel good about how the small business is positioned. It's a delicate time in the macro, given all the noise around tariffs and everything else.
+We continue to see resilience on the part of small business, but something we're watching carefully.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah. You could characterize that the macro has been the number one thing in the last, since 2021, unbound, and we had this wave of optimism that resulted in big growth rates and extended tech buying cycles.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+2022, 2023, 2024, 2025, we're still asking macro questions, right?
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+I hope one day we'll be asking no macro questions, just talking micro, like 2021 was.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yes.
+## Kash Rangan | Managing Director, Goldman Sachs
+In 2020, in some sense, right, after we had the vaccine, it was just back to the fundamentals.
+## Sandeep Aujla | EVP & CFO, Intuit
+Exactly.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah. The one thing that I have always admired about Intuit, this goes back to the days of not only Sasan as CEO, but his predecessor, Brad Smith, is that we don't control what we don't control. We control what we control. Chart out your destiny.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yep.
+## Kash Rangan | Managing Director, Goldman Sachs
+One of the things that having covered Intuit as a company and admiring it from the outside for the better part of 15, 16 years, I think I first met Brad Smith in 2008, just at the bottom of the worldwide financial crisis.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah, yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+There's always been resiliency.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yes.
+## Kash Rangan | Managing Director, Goldman Sachs
+Resiliency, right? That's manifest in when you look at the mid-market opportunity, the one that you're about to enter, that's been characterized as an $89 billion, $90 billion, give or take, mid-market opportunity. We've seen great statistics from QuickBooks Online Advanced.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+Suite, which was launched last year.
+## Sandeep Aujla | EVP & CFO, Intuit
+Right.
+## Kash Rangan | Managing Director, Goldman Sachs
+That's doing quite well. As you continue to scale up market, remind us again, in the interest of messaging, what is that white space that is opening up for Intuit? I have a follow-up question about ARPU, ARPC, et cetera.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yep. Absolutely. First, double down.
+## Kash Rangan | Managing Director, Goldman Sachs
+Because I hear from clients, they don't believe it. What is mid-market?
+## Sandeep Aujla | EVP & CFO, Intuit
+Got it.
+## Kash Rangan | Managing Director, Goldman Sachs
+It is a formula that is, in their view, broken, because there was a formula of adding subs at a certain ARPC.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+You are going up market and ARPC is going up, and unit growth has slowed down. Something's wrong.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah. Understand their perspective. Let me unpack it and what's giving us the confidence. In terms of mid-market, as you said, $89 billion market opportunity, and we are defining that mid-market as customers with $2 million to $100 million, as I stated earlier. There's about 1.7 million of businesses like that in the wild, and about 800,000 of those are using QuickBooks right now. The initial game is to be first to market with an ERP-like solution that resonates with these customers. Intuit Enterprise Suite is basically resonating with people who have multiple entities. Because QuickBooks, if you have three locations, you got to run three different QuickBooks. Intuit Enterprise Suite gives you the end-to-end holistic perspective of how your business is doing. It's also an area in the mid-market we're targeting that there isn't that much alternatives. When we talk to these customers, a couple of things pop up.
+One, that they're stitching together about a dozen different apps to run their business. Just think about the level of burden on this business owner to try to figure out how their business is doing by going to a different workforce app, different payments app, different inventory tracking app, etc., etc. We can bring it all together.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+Give them one dashboard to run their business.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+The second is they're spending billions of dollars. Customers on our platform are spending billions of dollars with others for capabilities that we have. They can actually save money by bringing it onto our platform. We end up gaining as well, because right now the spend is happening with someone else.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+In businesses, a few times you get such rich win-win opportunities. Our thing is a unique value proposition of better insights, lower cost of ownership, and just the total cost of ownership also being low on mid-market. That's what's resonating. As you said, Intuit Enterprise Suite has been in the market for about a year, but tremendous success. 40% revenue growth last year, 23% customer growth. Those are strong metrics, and we're just getting started on this journey.
+## Kash Rangan | Managing Director, Goldman Sachs
+I think of, and I described investors as a few concentric circles. You got the very outermost circle would be the circle of small businesses, then QuickBooks Online Advanced, the next concentric circle inside, and then Intuit Enterprise Suite.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+The value is higher and higher as you go closer to the center.
+## Sandeep Aujla | EVP & CFO, Intuit
+It is. QBO resonates with everyone from someone just starting a business, a solopreneur, to someone who has multiple employees. We have companies with hundreds of millions of dollars still using QBO. Advanced resonates largely with those with $2.5 to $10 million of revenue, more complex business, need better insights, better reporting, et cetera. IES, $10 million plus. To your point, we just keep honing in on these products to the customer segment that resonates. That is the game. When I say to your first question, it was five years plus, I expect to be much higher than 100 million-type customers.
+## Kash Rangan | Managing Director, Goldman Sachs
+By the way, Intuit has their financial analyst day.
+## Sandeep Aujla | EVP & CFO, Intuit
+Thinking of coming next Thursday.
+## Kash Rangan | Managing Director, Goldman Sachs
+Next Thursday.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+It's one of my favorite analyst days because you have packed information, insights. The slides are just a work of art. The coolest thing is that during the break, there will be snacks and such served by Intuit staff, but made by your customers.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+All sourced from your customers. It's so cool that small businesses, what they contribute and how you showcase what it is that they do actually.
+## Sandeep Aujla | EVP & CFO, Intuit
+Earlier you talked about companies are a manifestation of the culture and the people.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+Sasan, Brad, and what's kept me around at the company for 10 years is that truly everything we do is rooted in addressing the needs of our customers. You mentioned how we run Investor Day, another role our customers play in making the things that we serve, et cetera. Even when we think about new products, new innovation, even with AI agents, productivity of our customers, everything in the company, our leadership conference we had two weeks ago, everything about how it's done for experiences in an era of AI, changing customer expectations, how we stay ahead of that. It is very much a core to what the company is, and that's what's showing up in the results.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah. Last year when we had Sasan, he did talk about the leadership offsite that you guys had.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+He mentioned that Bill was at the leadership conference last year. Did you have any other public software CEO types this time?
+## Sandeep Aujla | EVP & CFO, Intuit
+We had Eric Schmidt, and we had a couple of other CEOs.
+## Kash Rangan | Managing Director, Goldman Sachs
+He talks a big thing about AI. AI is this big super thief, right?
+## Sandeep Aujla | EVP & CFO, Intuit
+Eric?
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+Oh, yeah. I think, and you know, given Sasan's relationship, Scott Fuchs, our founder's relationship, and just our own history over the four years of driving disruption and making sure we come out bigger and stronger through every change, whether it's a change in mobile, a change in the cloud, now the era of AI, we want to be leading the change.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+It's always good to engage with these leading-edge thinkers.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+I love it when we bring it to and expose their thinking to the broader leadership.
+## Kash Rangan | Managing Director, Goldman Sachs
+He's probably egging you on, Erik, to move even faster with AI. You're moving quite fast.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yes. We definitely don't know how to take our foot off the throttle, and I love it that way. That's what we're built for.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah. Great. Let's then talk about the story transition from unit growth to ARPC growth, and that's a completely different world. How should investors think about the trade-off moving away from a unit-driven model, high attrition to more value, better retention, better lifetime value? Talk more about that.
+## Sandeep Aujla | EVP & CFO, Intuit
+Sure. Let me, if you allow me, break down the question into two time series, the long term as well as the here and now.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+Over the long term, as I look at a $327 billion market across Intuit and the current 6% penetration, that's going to come through a mix of customer growth as well as unit growth. The focus of the long term of scaling both customers and monetization hasn't changed. In terms of as you're executing through every chapter, you have to drive focus in terms of this is what you need the leadership team to go execute. The focus right now is to make sure that we are building an all-in-one platform and delivering capabilities for the more complex, higher-value customer. In the business platform, last year we grew customers 5%. The customers that had multiple offerings on our platform grew 14%. Mid-market customers grew 23%. U.S. TBO grew 8%. That's what drove the massive increase in ARPC. ARPC grew 14% in three-point acceleration from the year before.
+This is a very deliberate, strategic focus right now. As we scale mid-market, we continue to scale platform adoption. Over the long term, we are also going to be focused on scaling the customer size as well.
+## Kash Rangan | Managing Director, Goldman Sachs
+I tell clients small business is a big business for Intuit.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yes.
+## Kash Rangan | Managing Director, Goldman Sachs
+I think I made the observation last year, and Sasan corrected me. I said, your small business is as big as ServiceNow.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+Growing about as fast. He said, growing 2% faster.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+People don't realize that there is a ServiceNow inside of Intuit in terms of revenue, size, and growth rate, and perhaps even operating margin composition, right?
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+I know you don't disaggregate the businesses as we talked.
+## Sandeep Aujla | EVP & CFO, Intuit
+No, totally. You know, Bill and the team run a phenomenal company. In terms of the numbers, the business characteristics, that's next.
+## Kash Rangan | Managing Director, Goldman Sachs
+When you look at the road ahead, what I wanted to ask, what does the competition look like? I remember a point in time when I was a junior analyst in the mid to late 1990s, the Senior Analysts were very busy covering the large-cap ERP companies. They said, Kash, you're the junior guy. You're going to cover mid-market ERP. There were like nine or 10 companies, Marqam, Maybigs, J.D. Edwards, SSA Technologies. That's just right off the tongue. There were a dozen more, or maybe half a dozen more.
+## Sandeep Aujla | EVP & CFO, Intuit
+Right.
+## Kash Rangan | Managing Director, Goldman Sachs
+They don't exist anymore.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+Part of me says that's an opportunity. Since 25 years ago, that space has changed. There are younger companies here, digital natives, and so on and so forth. That supply of ERP companies is gone, just gone. Are you seeing any competition, and how wide open is this?
+## Sandeep Aujla | EVP & CFO, Intuit
+You know, let me address the question a couple of different ways. What you shared resonates. I mean, I started my career doing tech M&A in 1999.
+## Kash Rangan | Managing Director, Goldman Sachs
+Okay.
+## Sandeep Aujla | EVP & CFO, Intuit
+A lot of the companies that were my clients, they no longer exist. That's why it's so critical that we continue as a company to embrace a culture of self-disruption.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+Right? To continue to get ahead of the curve. Like we talked about AI. Sasan was talking about AI circa 2018 before most people were even thinking about it.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+AI is being core to the future. That's just, even when we talked to our leadership team a couple of weeks ago, it's like you can't lean on the amazing moat we have across our products and behave like an incumbent. You got to behave like a disruptor. That's core to the thesis that continues to drive our competitive advantage. In terms of now competition for our products, we, as acting like a disruptor, want to make sure that we have a healthy degree of paranoia of what could happen. I mean, in the era of AI, done for experiences, why coding everything else? You want to make sure that you are driving amazing productivity and refreshed platform experience to your customers.
+When a customer logs in and the customer thought they were going to log in and be there for 45, 50 minutes to doing their work, they're done in 10. Right? That's what's happening with the accounting agent right now. Right? Because I'm like, most of my work is already done. I've just got to look at it and click on done. When a customer is looking for like, hey, Kash, what's the lifeblood of my success? They're seeing that they're getting paid five days faster on us and aren't even encouraged to go look elsewhere. We are our own competition in driving that. The areas we operate in, we feel really fortunate given all the innovations we brought to be that end-to-end platform where most of the competition are point solutions.
+What the customer is looking for is come to one place and have a holistic view of their business and be able to run it. They're not looking to add more complexity to their already over-digitized life. That's actually a competitive advantage to us. We're making sure we're taking.
+## Kash Rangan | Managing Director, Goldman Sachs
+Generally, when investors hear going up market.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+They're like, oh, margin compression.
+## Sandeep Aujla | EVP & CFO, Intuit
+Got it.
+## Kash Rangan | Managing Director, Goldman Sachs
+How are you able to balance the incremental, the hugely incremental growth opportunity with higher value customers, but maybe also higher value to acquire those customers? Is that, how do you look at that equation?
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah, your CAC is higher, customer acquisition cost, but your lifetime values are of a magnitude higher, right?
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+You're an economic that you play out pretty nicely.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+You're also building this on the same platform that the rest of QuickBooks Online runs in, so you got both cost advantage, right?
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+The margin cost is relatively low. As you get these customers on, they're bringing spend that they were doing elsewhere onto you. These are all areas where the marginal benefit is there. I think the opportunity, as you move up market, is the bigger dollars to play with on the revenue line, so you could scale your motions to go up market. Our advantage is those who are up market can't come down market because the unit economics are very different and we know how to make them work.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+This is actually why we are so confident in and have such conviction in this mid-market being a catalyst for our revenue growth while we continue to deliver margin expansion over the years to come.
+## Kash Rangan | Managing Director, Goldman Sachs
+Got it. The retention rate also has to be meaningfully higher in mid-market businesses versus small because the attrition, it's not that they don't want to use the software, but the going out of business, the obsolescence risk of a business is much lower in the mid-market, I would assume.
+## Sandeep Aujla | EVP & CFO, Intuit
+It is. You know, one of the key goals we have for ourselves is the success of those on our platform should be higher than the small business success outside. We shared at last Investor Day that customers on our platform tend to have 19 points higher success rate.
+## Kash Rangan | Managing Director, Goldman Sachs
+Wow, OK.
+## Sandeep Aujla | EVP & CFO, Intuit
+We will update this, of course, next week. Trends continue to be very impressive. You have a higher probability of being successful by using our platform and getting the insights from us. Customers leave either because they go out of business, but they rarely leave because another offering is better for them. We actually have world-class retention when it comes to the SMB in the mid-market space.
+## Kash Rangan | Managing Director, Goldman Sachs
+Do you end up displacing any known ERP companies? Are you starting to butt into displacement opportunities?
+## Sandeep Aujla | EVP & CFO, Intuit
+This is actually the beauty of our business. A lot of the opportunity is still what I would define as greenfield. These are customers who are either using things like Google Sheet, which I consider non-consumption because they're excellent Google Sheet, or they're working with a bookkeeper. They are seeking a digital solution, or they're using multiple different apps. They could be using Square for payments and some other company for payroll, etc. This is bringing them onto one platform. It is really a greenfield opportunity right now.
+## Kash Rangan | Managing Director, Goldman Sachs
+Got it. Moving on to TurboTax Live. Amazing. I mean, what an incredible quarter that was. If there was one quarter that made it like a really firm solidification of a trend, it was that.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah, Mark and the team nailed it.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+It was incredible. It grew 47%. Obviously, we cannot sustain this kind of growth rate. I just wanted to dig behind the cover of what drove this performance. What is it about? Is it just a product market fit, a maturity, trustworthiness? What caused the business to inflect this quarter? We've been on it for like years and years and years.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah. You know, the results across TurboTax Live, the 47% revenue growth, the 24% customer growth, are a reflection of the innovation that we've been building and using AI to help customers discover and guide them to the offering that's right for them, using technology to build a seamless experience across a Credit Karma and TurboTax platform, where the people coming from Credit Karma to TurboTax, 30% more filings. Many of those using the assisted way to do taxes. We continue to learn from the marketplace to say, how do we expand our brand equity? That's amazing on the do-it-yourself tax side to the assisted side and leaning into the marketing there, unlocking the local channel. These are all areas that we worked on, that we had learnings from. Now we are truly disrupting the assisted tax category. I feel great about the momentum.
+This is, to your point, things I've been working on for multiple years. Sasan actually used the example of bamboos that, you know, the roots take years.
+## Kash Rangan | Managing Director, Goldman Sachs
+It is not a cheap substance.
+## Sandeep Aujla | EVP & CFO, Intuit
+This is how businesses as well. You learn and then you catch it and you just, you know, nail the execution of it.
+## Kash Rangan | Managing Director, Goldman Sachs
+Got it. Let's talk about the AI vision, the forward-looking side of it where you're on the offense, completely understood. I want you to talk about how you're using AI within the product suite in tax to gain more efficiencies, automation, unlock new ways of having customers onboarded to the platform quicker. On the flip side of the coin, what I do hear from investors is, yeah, I mean, tax GPT, why would not somebody just have GPT absorb the tax code of the United States?
+## Sandeep Aujla | EVP & CFO, Intuit
+Got it.
+## Kash Rangan | Managing Director, Goldman Sachs
+Why would I not be able to, with PDF documentation and support, throw my stuff into this and have it do my taxes?
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah. Now let me touch on both sides. The name of the game with AI for us, whether it's helping our customers or using it internally, is massive gains in productivity. Your first part of the question was around how are we using it internally.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+Over 80% of our developers are using AI to code up to 40% faster. That's helping us bring innovation to market.
+## Kash Rangan | Managing Director, Goldman Sachs
+80% of your developers are using.
+## Sandeep Aujla | EVP & CFO, Intuit
+At least one AI tool.
+## Kash Rangan | Managing Director, Goldman Sachs
+Wow.
+## Sandeep Aujla | EVP & CFO, Intuit
+That is leading to.
+## Kash Rangan | Managing Director, Goldman Sachs
+Which tool are they using, Sandeep?
+## Sandeep Aujla | EVP & CFO, Intuit
+That is a question that's better for our Chief Technology Officer, but I know there are multiple tools on there.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+I'm just slipping on the name right now.
+## Kash Rangan | Managing Director, Goldman Sachs
+40% improvement in productivity. That's great.
+## Sandeep Aujla | EVP & CFO, Intuit
+40% improvement in productivity. Through our platform, they have access to multiple tools. How do we get them to adopt more tools and continue to build on that? I think we're still in the early innings there. In customer success, we shared that over $90 million of cost savings and driving better containment rate, having AI address many of the questions before.
+## Kash Rangan | Managing Director, Goldman Sachs
+You're able to get $90 million in savings in.
+## Sandeep Aujla | EVP & CFO, Intuit
+We will update the number next week at Investor Day, and the number continues to be great.
+## Kash Rangan | Managing Director, Goldman Sachs
+Is that from saving, not having to add as many headcount, or?
+## Sandeep Aujla | EVP & CFO, Intuit
+Because you have AI addressing the calls, your containment rate, you're adding less people.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+You're training people faster. You're scheduling them better. It's across multiple areas.
+## Kash Rangan | Managing Director, Goldman Sachs
+Wow.
+## Sandeep Aujla | EVP & CFO, Intuit
+On our marketing team, 90% of our marketers are using AI to drive better targeting and better outcomes from marketing campaigns. All of this is paying dividends. I believe, truly believe, we're in the early innings. This should continue to manifest for years to come. On your second part of your question, like, why can't any tool, ChatGPT, you name it, disrupt it? It comes down to trust and confidence. We invested in the experience. No one's going to just take their data and throw it into ChatGPT because you need to know what questions to ask. You can understand the tax code, but for example, in California, if you bought an electric car, you probably got solar panels involved, asking those kind of questions. People still want to have a conversation with a live human expert. The triple B act fast.
+Does my overtime need, do I need to pay taxes on those or not? Those are complexities that an LLM cannot address, that you need a fully thought-through tax engine, a tax experience to really deliver. That's the competitive differentiation.
+## Kash Rangan | Managing Director, Goldman Sachs
+The way I explain it to my clients is that for $50, $60, $70, whatever the price point is, it's a very high risk, very high reward to risk ratio using TurboTax, as opposed to trying to do it on your own with some GPT.
+## Sandeep Aujla | EVP & CFO, Intuit
+It is. You know, you nailed it. The fear, uncertainty, and doubt in taxes is real.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+I mean, the IRS is one of the most feared organizations out there. You want to make sure you get your taxes right to the last penny.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah. I remember when we hosted Sasan, this is many, many years ago, we got into disrupting the assisted category. I was ashamed to admit to him, and we're on a public webcast. I know this, it's probably going to be listened to. I said, you'll not believe how much we have to pay to an outside accountant who uses TurboTax to do our taxes. He said, we're going to do it with AI one day.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+I will quote you a price without even knowing how much you pay for your tax attorney. You will say yes to that price. I'm not going to say what that price is. He said what the price was. I said yes, I would take it.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+It looks like that day is not too far off that you can have very complicated tax returns.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+Be addressed by TurboTax Live.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+That's a higher, way higher ARPC. You're playing in a, I'll ask you to answer the TAM question. How big is the TAM for TurboTax?
+## Sandeep Aujla | EVP & CFO, Intuit
+The TurboTax Live assisted category is about $35 billion TAM.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+We're just getting started. You know, the ARPC is around $250, $300. I pay, you know, in the five figures to do my taxes. I actually replicate what my accountant team does on TurboTax, and it works. The product definitely is an opportunity to continue to scale up.
+## Kash Rangan | Managing Director, Goldman Sachs
+That's one of my projects in retirement to figure out how to do this with TurboTax.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah. In addition, TurboTax, I think also on the agent experiences on the AI side, on the global business solutions side, and the opportunity we have with business tax. I think that's the key one as well, the exciting momentum we have on the global business side. If you're good with it, I would also love to touch on that because I know there's been some questions since earnings that you and I have talked about.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yes.
+## Sandeep Aujla | EVP & CFO, Intuit
+You know, the global business solution side, the momentum we had in the online ecosystem continues.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah.
+## Sandeep Aujla | EVP & CFO, Intuit
+I mean, we delivered 20% growth last year, 25% growth excluding Mailchimp. That SaaS business, the momentum continues a year ahead. The area on the desktop side, we completed our migration from the license-based to software-based. That's an area where, as we take less pricing post the migration, the desktop growth will decelerate from the 5% last year to low single digits. One of the areas that you and I have talked about since the earnings, like, hey, you're getting a lot of questions from your clients, like, hey, unpack the GBSG side. I want to also take the opportunity just to address the exciting momentum on the tax side, but also the phenomenal momentum and the opportunity we have. As we talked about mid-market, we talked about all-in-one platform. We talked about the agent experience across the GBSG.
+For the overall company, I'm feeling really good about and optimistic about the opportunity ahead.
+## Kash Rangan | Managing Director, Goldman Sachs
+Got it. On that note, thank you so much for your perspectives. It's always fun to engage with you on a conversation about Intuit because it's such a cool company.
+## Sandeep Aujla | EVP & CFO, Intuit
+Thank you.
+## Kash Rangan | Managing Director, Goldman Sachs
+I wish you much success in the years ahead.
+## Sandeep Aujla | EVP & CFO, Intuit
+Thank you.
+## Kash Rangan | Managing Director, Goldman Sachs
+On your path to becoming a 2X, 3X of your current size.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah.
+## Kash Rangan | Managing Director, Goldman Sachs
+In fact, Sasan told me in 2018 that when he becomes CEO, my goal is to, he mentioned a multiple, and you have overshot that goal. Congrats to him and to you.
+## Sandeep Aujla | EVP & CFO, Intuit
+Yeah, no, we love to deliver on our commitments.
+## Kash Rangan | Managing Director, Goldman Sachs
+Yeah, round of applause for Sandeep.
+## Sandeep Aujla | EVP & CFO, Intuit
+Thank you, everybody.
+## Kash Rangan | Managing Director, Goldman Sachs
+Thank you.
+Data Source: Quartr Last updated: Sep 10, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

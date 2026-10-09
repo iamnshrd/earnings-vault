@@ -1,0 +1,155 @@
+TITLE: The Six Five Summit: AI Unleashed 2026
+DATE: 2026-08-25
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Welcome to The Six Five Summit 2026. I'm Patrick Moorhead, and I am with my esteemed co-host and bestie, Daniel Newman. We are kicking off day one talking about one of the most important factors in the enterprise today regarding enterprise AI, agentic AI. Something that's interesting, we've been talking about it for three years, but it's like, yeah, we have reached this inflection point in why trusted data, governance, and context may ultimately matter more than the models themselves.
+A big learning here. Also talk about what it takes to build AI-powered enterprises as these organizations move beyond POCs toward scaling. I can't imagine a better person to have this conversation with than Sridhar Ramaswamy, CEO of Snowflake. Sridhar's alumni to Six Five, but a first time at the summit. Welcome.
+## Sridhar Ramaswamy | CEO, Snowflake
+Thank you, Pat. Super excited to be here.
+## Daniel Newman | CEO, The Futurum Group
+Yeah, really appreciate you joining, Sridhar. Thanks so much for helping us kick off day one. What an esteemed group to have. You're one of four. Marc Benioff also spoke here today. We've got enterprise apps, we've got data, we've got Matt Murphy kicking off, CEO, across the semiconductor space. We even have a wafer fabrication equipment with Gary Dickerson over at Applied Materials. We love having this broad perspective of CEOs opening up the days for us.
+I want to get your broader take. There's just so much going on, and you're all in different parts of the market, but I want to hear yours. You're in the middle of this data, this build-out. You talk a lot about provenance, governance, sovereignty, and so much is going on. Where are you seeing what's going on at the enterprise layer, and what do you think the market is still underestimating about all that's happening in AI right now?
+## Sridhar Ramaswamy | CEO, Snowflake
+I think portions of the market actually get it, Daniel, and that is that software is getting easier and easier to create. What used to be a precious item-
+## Daniel Newman | CEO, The Futurum Group
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+...is now more industrialized, more of a commodity. That means that if you have great data, and Snowflake has always been about getting our customers to have great trusted data governed the right way, the value that you can get from it is pretty immense. It is not just me or any number of our customers finding out how much revenue did they make yesterday, but even a CEO can now slice and dice and look at the data. Why did this go on? Why did this go up? That kind of access to data, combined with access to all of the information and the tools that we all use, thanks to technologies like MCP, is heralding a real revolution.
+I would say the final thing is also that because we are making tools that make the act of bringing data into Snowflake go a whole lot faster, there is like this ever-speeding up virtuous cycle of you can get more done, which means bringing data into Snowflake, which means that you can get more value from the data, which means that you can begin to adapt what it is that you do.
+We have lived through changes like this with both us, our sales teams, our finance teams, and so on, but increasingly with our customers. I think that is what is really, really unique about the moment. It is that ability to both program and get stuff done with software, but also then get value from it in terms of how you get things done every day. All of the things that drive enterprises and businesses.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah, it is interesting. In the run-up I talked about even three years ago, data was discussed, but it seems like a lot of the benchmarks were, a lot of the conversation were the LLM benchmarks. There is still that today, but it kind of missed the point of where the value is, particularly for enterprise, right? It is really, thankfully, starting to focus on what can you do with these models and the outcomes, but the big enabler is still data. It is funny, this is a conversation whether it is garbage in, garbage out. It has always been about data.
+But it seems like in this new age, it is as important as ever. I am curious, when you look at leveraging data, effectively getting security, the controls, the governance, big conversation there with governance today. Why did this conversation change? Is it the reality set in, escape, caged animals from the zoo attacking data out there? Was the Boards demanding ROI? Why and how did we hit this next phase?
+## Sridhar Ramaswamy | CEO, Snowflake
+Ironically, it is the models themselves. That was the first point that I made, which is that they have gotten so good at writing code.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+I do not think people internalize that enough. Code was always really, really hard. Just look at your phone. Look at all the apps that you have on your phone. It is probably three to five people at the very minimum. Obviously, with the big apps, it is thousands of people. They had to work incredibly hard to make something like that happen. Now, I have literally, in the space of an hour, taken an app that I have on my phone, something like a simple Metronome app, and I can get one of the coding agents, including our own CoCo, to write me a new app that can do something like that.
+That is what I mean when I say software has gotten significantly cheaper. What has not gotten cheaper is what matters to your business. Data is the thing that matters to your business because it is not just how much revenue you made yesterday, it is how are your opportunities progressing through the pipeline of actually turning into customers? Who is being most effective? Who is not? Is there a better pitch that somebody has?
+All of that analysis can now be done a whole lot faster. Where governance and provenance and things like that matter is if you have bad data, no amount of software is going to help you. Even in my own situation, once I realize that I am not quite interpreting a data set correctly, I immediately stop all work because the smartest model in the world cannot make sense of truly bad data. I think it is that realization that is driving this change.
+But I think we are also seeing the second-order changes happen. Used to be, like a salesperson, when we gave him a sales agent, what they would do, it's like, "Oh, great, I can spend less time looking up the open use cases so that I can figure out what to do." It went from there to, "Okay, let me use AI to figure out what the three best next things that I should be doing for this customer are." Or if I have a new conversation, let me make sure I take the latest news about this customer into account as part of my pitch.
+It's that ability to do things like that is driving second-order improvements on top of this data, and I think that's the excitement that you're hearing from everyone. But on the other hand, for every serious company, governance is a big deal. Like with the sales agent, for example, it better be the case that one of our account execs can see information only for their account-
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+...not for all of the customers that Snowflake has. Getting that right, that's not an option. That is something that we absolutely have to do right. We also need to know where that data came from so that we can be sure about the calculations that go on with it. And I have an amazing data team that works on what are the certified data sets that can be used collectively within the company. And so all of the things that Snowflake provides are the things that get massively leveraged by the data. So I would say, going back to your question of why is data so important now, it's because AI is good enough-
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+...at writing software that it can only realize value on top of great data, and people are using it to better their businesses.
+## Daniel Newman | CEO, The Futurum Group
+Let me double-click a little bit on this one. Basically, if I heard you, Sridhar, you said the model is not the moat. Which, by the way, I agree. Their models are very good. They are very capable. They are also very democratized and becoming increasingly inexpensive to access, right? All of the above. In many ways, I often talk about access to compute being a moat, but you are actually kind of suggesting another moat here with the data.
+Enterprise data has become the real moat is sort of what you just said. For the businesses, let's break that down one more level. Some companies are doing this well. Some companies are starting to try to do this. Some companies are probably struggling to do this. What does the continuum look like of companies that are being able to take advantage of their data and execute and get that kind of value and productivity out of it?
+## Sridhar Ramaswamy | CEO, Snowflake
+I said all of the things that we have to solve if we want to get value from data. First of all, have to know what data.
+## Daniel Newman | CEO, The Futurum Group
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+Does it have the meaning that you think it does? Most companies have multiple forms of revenue. At Snowflake, we have what's called metered consumption, but there's also GAAP revenue, which is subject to a different set of accounting rules, and you need to be able to tell between the two. Every company has its own complicated definitions of all of the things that matter to them. If they are sitting in a platform like Snowflake, where it is governed, where you can be sure that only the right people have access to the data, where there is meaning, semantics attached to the data, then AI comes super natural. It's easy to put AI on top of it because you have that shared understanding.
+But a lot of other companies, they have their data sitting literally in a box in a garage somewhere that a few people can access, or it has a slow connection up to the internet. Those things are harder to deal with, and it's driving a whole renaissance in data modernization because people now understand how much more value that they can get from it. But the best customers, to be honest with you, are also taking an iterative approach. The world of data teams is famous for doing never-ending projects.
+## Daniel Newman | CEO, The Futurum Group
+Sure.
+## Sridhar Ramaswamy | CEO, Snowflake
+I've been part of many migrations, three, four years. It's terrifying. But what is again, I think, amazing with the new tools, stuff like CoCo that we ship, is that migrations can be done in weeks and months rather than quarters and years that it used to be before. So even going through a prioritization process of figuring out what are the most important sources of data, who needs access to it? Is it a business user? Is it that you just need to do analysis on that?
+Taking that iterative approach is unlocking a lot of value for a lot of our customers, but for the industry in general, because things that used to take very long are now going a lot faster. I talked about how models are making software creation a whole lot easier. They're making things like system integration or building pipelines or migrations, all of which are just software with a different name. They're making those go much, much faster as well, and that's the buzz that you hear from the data industry.
+It's because people understand that there's now a fast path to getting value from data so that every company can be on this path to an agentic enterprise, where more and more of the things that they do, which are rote, can be automated, so the human's role shifts more into things like judgment, what's the right thing to do, as opposed to copying information from one tab to another, which unfortunately, you, me, and everyone else on the planet has spent many decades of their life doing.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah. So Sridhar, when you were talking through that, the first thing that popped into my head is something that my company has been pressure testing for a couple of years, and that was, I think we are fundamentally done with legacy environments. The automation to pull data and pull applications from legacy into modern, given the sophistication of coding agents and data agents, quite frankly, is going to really change the world and unlock a lot of opportunities. And the other thing that is unique in this agentic AI era, which still includes models, is that it's a lot easier, or the highest value comes from pulling data from different parts of the organization.
+## Sridhar Ramaswamy | CEO, Snowflake
+That's right.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Right? I think you might call it the agentic enterprise, right?
+## Sridhar Ramaswamy | CEO, Snowflake
+Yep.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+It's taking front end to the back end, all your Ms in the enterprise, HCM, HR, ERP, CRM.
+## Sridhar Ramaswamy | CEO, Snowflake
+Yep.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Pulling it all together. As companies are starting to move in that direction, what are the foundations, the incremental, the newer foundations that they need in this era, before they can turn this into a system of action? Think of swarms of agents, headless, right? There's still a human in the loop, but some of them, if you get them confident enough, they're just operating behind the scenes.
+## Sridhar Ramaswamy | CEO, Snowflake
+I think first of all, an iterative approach to this, thinking about what is the most important thing that you need to modernize-
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+...is indeed very important. At Snowflake, for example, a lot of the energy that we put into AI went into the motions that drove scale for Snowflake. Our software engineers, because creating great products is the lifeblood of Snowflake.
+We spent a lot of time on that. Similarly, we spent a lot of time on sales because getting our customers to know our product, to sell it to them, but deploy it to them, is just as important. Companies having a clear view of the functions that matter to them the most, the things that define them as companies, figuring out how to bring those pieces of information together into a central place is super critical.
+At Snowflake, we have always been very lucky where, for 10 years now, every piece of information about Snowflake flows into an instance of Snowflake that we call Snowhouse. That 360 view of everything about Snowflake is what powers a lot of our AI at Snowflake. The sales agent, for example, not only has information from Salesforce, as it should, but it also has information from Snowflake itself.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+Consumption information about our customers. It has information from Workday, which is where our HR information is. It has information from a system that we use for enablement, which has all of the material that we give to our sales folks. It is that ability to bring all of it together that gives us this 360 degree view, not only of what is going on with the customer, but what are the trends that we should be looking at. You talked about swarms of agents, Pat.
+It is kind of absurd to be able to think that I can do this. I will basically look at something, let us say use cases that we won and lost last quarter. I will talk to CoCo and ask, "Hey, what are the different dimensions that I should examine this use case dataset with?" It will tell me, "Oh, you can look at it by territory. You can look at it by G2K versus not. You can look at it by what product category was involved. Was AI involved or not involved?
+It will give me 10 or 12 things, and I decide which are the slices that I want to look at, and it will go off and send agents that are now collecting that data in parallel, crunch for 10 minutes, and come back. I now even have agent swarms that can run overnight, probably hundreds of invocations, to deliver this high-quality report in the morning. But it is all built on that rock-solid foundation-
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+...of data with great meaning attached to it, governed the right way, because that really sets the stage for getting all of these more complicated things and optimizations done.
+## Daniel Newman | CEO, The Futurum Group
+With all the opportunities you have to witness companies going through the transition. I'd love to get your read on what advice are you giving? I'm listening to you talk about all the different things-
+## Sridhar Ramaswamy | CEO, Snowflake
+Yep.
+## Daniel Newman | CEO, The Futurum Group
+...and it's a lot. What practical advice right now are you giving leaders to be able to execute what you're able to do being inside a company that lives and breathes this every day?
+## Sridhar Ramaswamy | CEO, Snowflake
+First one is, as I said, think iteratively. Don't get caught in old ways of, "Oh, we need to clean up all our data before we can get everything done." It's not even things like consolidate on one single platform. I want Snowflake to succeed, but I also want the ecosystem of all the enterprises that rely on data to also succeed. So often we'll tell our customers, "Your data is your most precious asset. You should really keep it in an interoperable format that, yes, Snowflake can help you manage, but you can use any tool to read that data."
+Having that clear understanding of what is the data foundation of the future is something that companies should get right. It's not as complicated as it sounds. It's the basics of our data is our data. We need to be owning it, and all of the applications that we use need to contribute to this basically company knowledge base of how it is operating. Once you go there, it's very quick. It comes down to what drives additional revenue for you.
+Let's face it, in between cutting costs and making more money, every CEO, every company, Wall Street, wants us to be making more money. What drives increased adoption of our products, what drives revenue growth, is typically top of mind for people. Obviously, the other strategic things like, "Hey, don't spend too much on AI." That's a problem that we deal with like everybody else. The fact that we can spread our traffic across models, both from OpenAI and from Anthropic, we also use open source models.
+These are the things that our customers want, and helping them deal with model cost, making sure that AI is inexpensive, is an important part of how we operate. I can assure you, for example, that the sales agent that my sales team, all 4,000 of them use, costs a lot less than the dashboarding that we used to pay for. That is pretty stunning, because we give this agent to our sales teams like, "Hey, any question that you want that can be helpful for your business, it can drive a complicated plan." It is still not that expensive because we have gone in, we have squeezed costs, we have put in the best models, we have pre-computed things.
+So we have done a bunch of things that every customer can do, but all of those are downstream. I would start with, what are the things that matter the most to help our company go faster, and how do we get that done quickly with a partner like Snowflake that is all about delivering results? That is where even things like our forward deployed engineering motion, where we work closely with customers to deliver the outcome.
+We are now sending our own engineers to be on-site with our customers to finish the project, because that is the speed at which people want to get things done. Going about it step by step, addressing the most important functions within an enterprise is how I would think about breaking it down. We are not just thinking and talking about it. We are involved in a ton of data modernization efforts, because people want that step-by-step roadmap of how to be more effective.
+But the great thing about today is that not only can you get a project done, but your team can become way more effective using agentic tools to manage the data than what they used to be. That is also the joy of work today for me, because I can get things done with data and code that I could not even dream of a year or two years ago.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah. One thing I want to drill down on, and we did talk a lot about cost, but I want to make sure that we've simplified this. You've already talked about customer zero, how you balance cost and effectiveness.
+## Sridhar Ramaswamy | CEO, Snowflake
+Yep.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+I'm curious, how are you guiding them on balancing the two? I heard you talk about getting strategically aligned on the ones. But it's so funny, a lot of this seems common sense, but we didn't do it. We were using token maxing and basically giving the producers in the company kudos for spending the most money, regardless of the benefit that it provided downstream. So how are you guiding customers in the effectiveness versus cost trade-off?
+## Sridhar Ramaswamy | CEO, Snowflake
+Oh, it's very simple. The tools that we provide for a particular function needs to cost less than what they're already using. I can assure you that the, as I said, the AI agents that my sales team is using cost less than what our dashboarding licenses used to cost. I'm very cutthroat about stuff like that, which is people cannot come in and say, "Hey, ta-da, great functionality. Spend a lot more." So what we tell our customers is, "Yes, we can help you roll out agents. Yes, we can talk to you about what drives transformation in how your sales team or how your finance team operates."
+But what you should also put into place are things like per user budgets that we support. And so it's perfectly fine if a customer says, "On average, I don't really want a user to be spending more than $30 per month on this critical tool." It's like, yes, it's a critical tool, but I want an upper limit on how much it is that they can spend. We support that out of the box. This way, they get the best of both worlds. They know-
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+...that their employees can get answers to the questions that they want answered, any question, far more than what a dashboard could answer. But they also have the peace of mind knowing that some over-enthusiastic kid is not going to go blow through $1 million budget. That's the kind of mindset that I think can be very successful today. It was never about token maxing. I'll confess, I have shared AI usage stats with my exec staff. I used to even embarrass them by putting it up in front of every staff meeting. But what I would tell them was, big numbers here don't mean that you're very effective using AI. But trust me, zeros across the board sends a really loud signal.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+It does, for sure. It sounds like finding the right tools that allow you to manage, almost like a restart button between effectiveness and cost, picking the right applications to do that, and of course, buying more Snowflake.
+## Sridhar Ramaswamy | CEO, Snowflake
+Where appropriate. We have to deliver value.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yes.
+## Sridhar Ramaswamy | CEO, Snowflake
+I never want our customers to be spending money if they're not getting that. Look, I am proud of the fact that with things like CoCo, our customers can optimize their Snowflake spend without involving my sales team.
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+I'll admit, I don't have too many conversations like this with people in your space that have this much discussion about cost. Thank you on behalf of all of your customers and users.
+## Sridhar Ramaswamy | CEO, Snowflake
+It's what keeps us in the business in the long term.
+## Daniel Newman | CEO, The Futurum Group
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+If we make money that we don't deserve to make, customers find out. I tell all my sales team, "If your customer discovers an optimization that saves them a pile of money, they'll be happy minute one after they discover that optimization. Minute two is-
+## Patrick Moorhead | Founder, CEO, and Chief Analyst, Moor Insights & Strategy
+Yeah.
+## Sridhar Ramaswamy | CEO, Snowflake
+...where the hell were you?
+## Daniel Newman | CEO, The Futurum Group
+And I'll tell you what, to your credit, it is showing up in your numbers. We track thousands of your customers and we run a regular intent survey for you. I am just looking here, and 46% of your customers plan to increase spend, and you already have 30% pervasion, very high pervasion in the customer, and high intent. Your Net Promoter Score is sequentially growing, annually growing, which means people are getting value. CoCo, which I am sure you care deeply about, is seeing significant growth in purchase, pilot, and planning.
+## Sridhar Ramaswamy | CEO, Snowflake
+That is right.
+## Daniel Newman | CEO, The Futurum Group
+So, a little bit for everybody out there, people are digging it. When Patrick said, "Buy more Snowflake," the market is actually looking like they are going to buy more Snowflake. We will see if it shows up in the next quarter. I will never ask you about that. Anyway, let us wrap this up. We started big picture, and we will end with a crystal ball question, right? What is more fun than telling me what is going to happen? I actually remember the first time I asked you a crystal ball question, you told me multiple years are too far out.
+You might say something like this again, but as we look into the future, and everything is changing so fast, but it can be three years, five years, maybe it is only one year because we are in AI dog years, we call it. Everything is going so fast. But what do you see that is going to define the successful agentic enterprises? What should CEOs be doing to make sure that they are one of them?
+## Sridhar Ramaswamy | CEO, Snowflake
+The enterprises that succeed are the ones that make their organizations more effective by having AI take care of the drudgery of work, where people are more focused on the value and the judgment questions of what are the choices that we should be making. Life is infinitely complicated. As anyone that has negotiated a deal knows, there are 20 different parameters that you can move. What is AI going to do? It is going to make sure that the legal terms that are part of some contract, they are acceptable to you.
+What it is going to do is ensure that there is no gotcha term somewhere, and it is going to ensure that there are no mistakes. The human is still left with, "Huh, is this the right trade-off to be making?" I think the more we think progressively about how do we take the portions of work that are merely just transformation, moving, communication overhead, things like that, and use the power of AI and data to handle it.
+With the humans being left to deal with, okay, what is the framework? What is the judgment question? How can I do this more effectively? How can we collectively share the knowledge that we have so that we are a more effective enterprise? That is where I see things inexorably going. Models getting better at writing software, at thinking, at creating long-range plans. These are all means to that kind of an end.
+Going back, this is where things like data, things like free access to all the information about your company, are such critical building blocks for creating futures like this. Obviously, many companies are big, complicated, including Snowflake, so it is going to take some amount of time. That is the part that is really exciting because we get to focus on the things that are intangible and hard, and have AI take care of all the mechanical things that we all spend so much time doing.
+## Daniel Newman | CEO, The Futurum Group
+Well, Sridhar, I want to thank you so much for helping us kick this day off here.
+## Sridhar Ramaswamy | CEO, Snowflake
+Thank you, Dan. Thank you, Pat. Have an amazing summit.
+## Daniel Newman | CEO, The Futurum Group
+It's day one at The Six Five Summit 2026, AI Unleashed, and you just got a whole lot of insight there from the CEO of Snowflake, and someone that's deep in what is going on here in AI and agentic enterprise. We hope you'll stick with us through the entire day here, and of course, the entire Six Five Summit. Check us out. We appreciate you. Stay here for-
+Data Source: Quartr Last updated: Aug 25, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

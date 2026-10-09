@@ -1,0 +1,282 @@
+TITLE: Bernstein 42nd Annual Strategic Decisions Conference
+DATE: 2026-05-28
+## Harshita Rawat | Analyst, Bernstein
+Good afternoon, everyone. I am Harshita Rawat, the senior analyst covering U.S. payments at Bernstein. I am delighted to be here with me today, Michael Miebach, Mastercard CEO.
+## Michael Miebach | CEO, Mastercard
+Hello, Harshita. Good to see you.
+## Harshita Rawat | Analyst, Bernstein
+Nice to see you.
+## Michael Miebach | CEO, Mastercard
+Thanks for having me.
+## Harshita Rawat | Analyst, Bernstein
+Michael, there is so much to talk about, as we were chatting earlier. Let's get the macro question out of the way first.
+## Michael Miebach | CEO, Mastercard
+It's always a starter.
+## Harshita Rawat | Analyst, Bernstein
+Yes.
+## Michael Miebach | CEO, Mastercard
+Yes.
+## Harshita Rawat | Analyst, Bernstein
+Let's talk about the overall consumer spending environment.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+What are you seeing in terms of spending transports domestically and in cross-border?
+## Michael Miebach | CEO, Mastercard
+Good. We have a good lens on consumer spending by the nature of what we do globally, all the card categories, which is not all of consumer spending, but it gives us a pretty good view of what's going on. What we've seen is continued growth in consumer spending, that's the first thing to say, throughout the first quarter. We gave you in our last earnings call an outlook into the April data as well. The growth in consumer spending has continued into May, the first two weeks as well, where we saw stable to slightly better consumer spending. That's fundamentally the good news and the trend that we're seeing. If we drag it down a little bit, we see that coming through in consumers adjusting to higher prices, driven by elevated energy prices. They're adjusting between discretionary and non-discretionary spending. That's good.
+As long as it's on cards, that's great for us, which is a good chunk of the consumer spending. We're seeing it in the U.S., holding true as in healthy growth in the U.S. Also internationally, just a little bit lower, but continued growing at a healthy clip. That's true, and if we zoom out and ask ourselves why is that? We're reading the headlines on conflicts and this, that, and the other pressuring the consumer, but it's still fundamentally true that unemployment has been relatively low. It's also true that wage growth has kept up with inflation in a relatively good balance so that net spending capacity is intact. It's also true that general equity markets are doing fine. The wealth effect is still there. All of that just points to basically a supportive environment for consumer spending.
+That's fundamentally a good thing for us, so don't have to worry about that part of the business, as that's a big fuel of how we grow.
+## Harshita Rawat | Analyst, Bernstein
+Fantastic. Michael, let's talk about agentic commerce. It's early, but things are moving quickly.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+Tell us about how you think agentic commerce may evolve, both in consumer payments, but also a new category of commerce around agent to agent micro-transactions.
+## Michael Miebach | CEO, Mastercard
+Right. agentic commerce. It is early days. I think what's happening is you see AI-enabled ways of commerce starting, so people are changing their ways on how to discover products, how they find out what they really want to buy, and then there are ways for them to check out in different ways than they might have been in the past. It could be on the chatbot of their choice. That is a journey that is happening, but it's happening very slowly. Example of one, my wife tried the other day to search for something on ChatGPT, and it was a good result, good recommendation, and tried to check out. That is just not as convenient as the reality is today when you go onto a marketplace and you check out, it's very seamlessly.
+What is true, though, is that over the past year, the ecosystem has been getting ready for consumer behavior to change. What have we done as an ecosystem, a broader payments ecosystem? A set of protocols were established to enable the merchants to make their product catalog available so that an agent can actually discover the product, so then the consumer can find them. Without discoverability, it doesn't work. Commerce protocols were established, and the payment players established payment protocols, so you can stick the two together that from finding the product, you can check out the same way you are used to. One of the complexities in all of this is to recognize that there's an additional party in the payment ecosystem, which is the agent.
+I think we should assume that this whole thing evolves in a way that first we see agent-assisted commerce happening, and eventually it could be autonomous, which is the second part of your question. We can come to that. The various protocols were put out. Mastercard, we put out Agent Pay, which is basically a trust layer in agentic commerce that establishes that everything you're used to today in terms of protections, i.e. reliability if something goes wrong, a path to disputes, authorizing the agent as the agent is actually a real agent versus a rogue agent, et cetera. That is done. We've also gone and we've enabled all issuers globally, and we're rolling this out with merchants.
+A key part of the merchant rollout is you have to make it easy, particularly for small merchants, where there's a big opportunity in all of this, is that a small business can start to compete with a large business because they're suddenly discoverable, because the agent will discover them in different ways than that happens today. It might go to a few marketplaces, then it's a level playing field for everybody. If that implementation is too difficult, that would be a real problem. We have a low code to no code implementation, which is a big differentiator to other parties in the ecosystem. All of that is ready. Now, it just takes a little bit of time and people to play around like my wife did, and next time it's going to be better and so forth.
+All of this takes a bunch of partnerships and big partners to come together, Microsoft, OpenAI, Google, and so forth, and that is happening. Now, that's on the consumer side. You look in the world of B2B, tremendous opportunity. That's a huge upside as well, because it's not hard to imagine that somebody will go to their chief procurement officer and say, "Why don't you get a bunch of agents that are going to help us procure what we need as a company?" If you imagine, there's a set of agents on a company side, and then you have vendors that also use agents, and you can see a completely automated part of procurement for certain aspects. Digital content, for example. I buy advertising space. Those are the things that could be easily automated.
+This is where you could say, well, there might be a whole new set of transactions that haven't even happened before. Tremendous TAM expansion could emerge out of that, which is why we think that getting ready for that side of the equation is particularly important. Cards can go a long way for that because we're used to high-frequency, low-ticket transactions take transit. We should also, which we always do, we look around two corners as a company. If this is higher frequency, instant micro transactions that are the fraction of a dollar, our stablecoin capability may just be about the right thing to go after those additional transactions, while our basic card proposition works for all the consumer things we've just talked about, and for bigger, more regular B2B transactions. This could happen.
+Our announced BVNK acquisition might just be the tool set for that. Currently, we do this with third parties. We could do it today, but then we will do it in-house and natively. I'm excited. Bottom line of the whole thing, agentic is a tremendous opportunity. It just takes a little bit of time.
+## Harshita Rawat | Analyst, Bernstein
+You talked about how it could accelerate B2B, create kind of new TAM. I think also on the consumer side, in a way, the complexity of a transaction goes up a lot.
+There is obviously a whole host of questions around who actually authenticated the transaction.
+## Michael Miebach | CEO, Mastercard
+Right
+## Harshita Rawat | Analyst, Bernstein
+whether you had an intent to that transaction. I know you launched Verifiable Intent.
+## Michael Miebach | CEO, Mastercard
+Yes
+## Harshita Rawat | Analyst, Bernstein
+also earlier this year. Can you maybe talk about, I think you talked about Agent Pay?
+## Michael Miebach | CEO, Mastercard
+Right
+## Harshita Rawat | Analyst, Bernstein
+Maybe talk about the whole suite of capabilities and the additional value you're bringing on the transaction?
+## Michael Miebach | CEO, Mastercard
+Right. First of all, by enabling all the parties, as I just talked, to issuers, merchants, hubs, we're bringing that value initially to get everybody ready with a set of protocols and standards so you can play together. That's how you unlock a space, generally. That is what we've done in cards, what we've done with our account-to-account as a franchise, basically a whole concept that everybody can go by. You go ahead and say, all right, what are the things that we know a consumer or business will expect and that will not change? Ease, trust, what happens if something goes wrong? As simple as that. That is true today, and that was true yesterday, today in forms of payment, and will be true in agentic. We have to enable that. tokenization is a big part of that.
+Every transaction in agentic will be tokenized. That's the way how the information moves from the person that's authenticating an agent, that's giving the instruction to an agent, and for the agent to pass on the information and be recognized by the next party, which would be the bank and so forth. All of that is tokenized. In the current world of payment, about half of our online transactions are tokenized. Tremendous opportunity for us. At the same time, tremendous value that we bring to that ecosystem with tokenization. That's a big part. You come and say that transaction happens. Imagine the following. You buy a pair of running shoes and you check out on your chatbot. At your doorstep appear 10 pairs of running shoes, and you're surprised. Okay, I never asked that. How do you prove that?
+How do you get to a point to prove it so that a return can be initiated and so forth? That was a piece that was unresolved in that ecosystem. That's a piece that's perfectly bog standard today when you pay with your Mastercard, through chargebacks and disputes, that is enabled. We went out and said, "Okay, let's talk to a partner that's really close to the commerce ecosystem to figure out a standard that we can work on together and enable that missing piece in the ecosystem." That was when we got together with Google to have Verifiable Intent, which basically an undisputable record of what the agent was instructed to do and what the agent then did, and is that the same thing? It can be automated, passed on as an information token, so to say, to facilitate the whole transaction.
+A lot of technology in the background, but essentially enabling the exact same experience that the Mastercard promise is today, Zero Liability. Merchant, you will be paid. Consumer, if something went wrong, it's not your fault. That is, I think, a big unlock, and it should reduce the hurdles for consumers to really go about that. That is a lot of value that we bring from the start of the transaction, even before the transaction, on the standard setting, authentication, tokenization, dispute, all elements of it. You can layer a set of services on top of it. How do we prove the identity of the person that's making the transaction? If it was you, so there's identity solutions that we can bring to the table to say that is another piece of value that we bring.
+Another big piece is we have over 500 million consumers in our loyalty data that sits on our systems, that's all permissioned, personally identifiable data. With the right kind of permissions, you can create an insight token that then enables the agent to make an even better recommendation by leveraging loyalty information. That is how you can layer on value after value. I'm super excited about agentic. It's like a growth opportunity. It's a transaction expansion opportunity. Because baskets will spread around all these SMEs that might be discovered. The most fundamental thing is if it drives a better experience, it's generally good, a tailwind for commerce.
+## Harshita Rawat | Analyst, Bernstein
+Trust identity dispute becomes even more important as services in the agentic world.
+## Michael Miebach | CEO, Mastercard
+Exactly
+## Harshita Rawat | Analyst, Bernstein
+than e-commerce world.
+## Michael Miebach | CEO, Mastercard
+Good thinking ahead on our identity solutions. This will be another way to deploy them. Right.
+## Harshita Rawat | Analyst, Bernstein
+Michael, there is a perception that stablecoins can be more suited to be the money layer on this new Internet, this agentic Internet.
+as opposed to cards. You can do both. How are you viewing this?
+## Michael Miebach | CEO, Mastercard
+Right. I'm not sure where all these perceptions exist. It's not my perception, for sure. I think we have to zoom out a little bit and look at what the card proposition brings that I just talked about, what stablecoins bring. I gave you an example earlier why different types of transactions might need different solutions, which is why we always expand our payment capabilities. Fundamentally, I think the starting of comparing that stablecoin might be, whatever the cheaper answer or something like that, I think these are kind of misconceptions. They're really different things, very different things, but they're also similar things in a way how we look at it. Stablecoin is another rail. We have card rails, we have account to account rails, we have stablecoins as a rails. It could be seen as another currency.
+We have it as part of our offering, but say the cards ecosystem brings a lot of value for a lot of transactions in agentic, the consumer piece being one of them. There will be these emerging use cases where stablecoin will matter. That's how I look at it. Fundamentally, it's all expansive and we have all of these capabilities. If that weightage changes in 20 years from now, that's fine. We want to be there today because if our customers want that, we want to offer that capability. For now, I really think it's something that might happen on high frequency, very low value kind of transactions. Choice, whatever it is, it's just something for us to have on our radar. There's a broader conversation to be had about stable coins in general.
+Aside from agentic, so where is that technology helpful? You look in the B2B and across border space, there's tremendous applicability of that. Again, for P2M, cards is great, but we love stablecoin for a whole host of reasons we can talk more about.
+## Harshita Rawat | Analyst, Bernstein
+Let's talk about that.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+You recently announced BVNK acquisition.
+You have very healthy growth in your crypto co-brand card program. There is clear potential for stablecoins, especially when paired with cards to improve a lot of flows.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+You also talked about the opportunity in B2B. This is an opportunity for Mastercard, that's why you made the BVNK acquisition.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+What do you think is misunderstood by some with regards to Mastercard and stablecoins?
+## Michael Miebach | CEO, Mastercard
+Before we come to misunderstandings, like your perception question earlier, let's just talk about this in more general terms. Stablecoins, underlying digital assets, even crypto, blockchain-based technology is fundamentally helpful technology. It facilitates transactions between two parties that don't know each other. We like it from that perspective. We want to offer it as a payment choice to our customers. We see applicability in a set of particular use cases where this kind of technology is particularly useful. B2B, imagine programmability, which is an aspect of blockchain-based technology. Programmable payments in B2B is, let's say you have something to do with international trade transactions. Say if these 10 conditions are fulfilled, I'm going to release this payment.
+You can't really do this in a card payment today, and you don't want to because whatever you're buying, it's just a once and done transaction, but you could do that in a B2B context. In cross-border payments, you have illiquid corridors where somebody wants to be preferred to be paid in U.S. dollars, and you do that. Okay, I've sent a dollar stablecoin, and it's a payout, where you don't have an immediate value exchange of goods or services or something like that. That's why a stablecoin payment could be a very sensible thing. We see these emerging use cases, B2B, cross-border, me to me kind of payments, and that's an opportunity on the upside. We feel we have to offer that to be a relevant payment partner to our customers.
+We have a lot of the related or needed capabilities, send, receive, store, convert, today through partners. We decided we want to have it in-house because it's going to be bigger over time. Not in the card-based use cases, which are great for B2B payments, VCNs and so forth. That's not taking away from that. In these emerging, we want to go after that volume as well because we apply services after all. Said, okay, let's find a company that can help us in a world of stable coins. If I just describe that world for a moment, we're going to have more chains, we're going to have more stable coins, we're going to have more denominations. You can see this world of multiplicity.
+If you're a company and you're buying from me, and we have a payment flow in between, and you have a stablecoin of your choice, and I have a stablecoin of my choice. How's this payment going to flow? I want to be paid like this, and I say I want to pay like that. Who needs to sit in the middle? Somebody that can facilitate, send, receive, store, convert, and manage the interoperability conundrum of this world. That's what BVNK does. They have the best licensing regime and the best talent to do that, the best technology established, and we said, "We do all of this today, somewhat okay through partners, but this needs to be a key Mastercard capability." We're going to go after them, and we took a close look, and today this transaction is announced and not closed.
+It's going to happen this year, as we expect. I can tell you that the demand we get from our customers on that today is outstanding. Obviously, no gun jumping in all these kind of things, but the interest is there. "Hey, when can we start talking to you guys about that?" We're starting those conversations. This is, I think, a tremendous opportunity. The misunderstanding part in your question, it might just come from the fact that there are some enthusiasts that say, "Well, stablecoins are a much cheaper opportunity." I think beware what you compare, because if you're comparing, I'm getting money from A to B, it might be a similar price. The next thing is an FX layer. FX doesn't go away. It happens on either one of these payments. The second thing that is to be considered is security.
+Security costs something. We invest billions of dollars in security. How do you ensure the cybersecurity, fraud identity? All of those things we have just talked about on card payments. You layer all of that up and you start to compare the price with the end resulting economic position for the user of that payment solution after fraud, after everything. Is the price then competitive? Is the value that we bring to that transaction worth the additional cost? We can prove that very easily, and customers that we work with want our services because they know they are protected, and it's a better experience, and the acceptance is there, and everything that comes along with it. I think that's where the misunderstanding lies. It's an easy comparison on a base level, but that's not how reality works.
+We make sure that this is understood and it's not nebulous, but we really point to an outcome.
+## Harshita Rawat | Analyst, Bernstein
+You also provide on-ramps and off-ramps, right? Like with stablecoins.
+## Michael Miebach | CEO, Mastercard
+We do that. That's where most of the volume is today.
+## Harshita Rawat | Analyst, Bernstein
+Yeah.
+## Michael Miebach | CEO, Mastercard
+That's exciting. We're creating a future here for other use cases and other payment volumes for us to go after because there we can apply all of our services that we lay on top of that.
+## Harshita Rawat | Analyst, Bernstein
+Michael, let's switch gears and talk about the core of Mastercard, consumer payments more in detail.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+You have historically, globally in the U.S. and Europe, grown several percentage points faster than PCE.
+That delta in some markets around the world, not every market, has narrowed versus historical levels.
+How do you see Mastercard's consumer volume growth prospects relative to addressable spend growth?
+## Michael Miebach | CEO, Mastercard
+I think there's a tremendous opportunity. You might expect me to say that, but there is. If you really break it down, there is a tremendous opportunity. I think the first is we have to understand what is PCE a proxy for. PCE is a proxy for all of consumer spending. Not all of consumer spending is card-based. That's the first thing to say. Obviously, that distorts the picture a little bit. That difference is also pointing to that the pieces that are not card-based are actually an opportunity for growth for us. Take insurance or healthcare, those are verticals we have talked about in our earnings that we're very busy in putting card acceptance in place and to get the growth up there. That's not something that we historically focused on because we're very busy with everyday P2M kind of volumes.
+Now we're doing such a good job that now it's starting to be really worthwhile for us to look at the next vertical and repeat some of the goodness that we have driven in P2M kind of categories. You start to put that argument aside and say, what are we seeing in terms of growth opportunities? In our last investor day, we laid out a 1.5 trillion transaction opportunity. PCE does not measure transactions. It's a volume-driven focus, but the transaction opportunity is huge. One of the best examples is when you think about transit. Here in New York, MTA, the number of transactions where people start to tap themselves through, it just used to be a MetroCard once a month, and now it's like every time you go and you pay. This is happening around the world in hundreds and hundreds of transit systems.
+One such example. We have previously talked about new business models where you used to go to a restaurant, now if you do Uber, it turns one transaction into three transactions. There's all this multiplicity that's happening on the transaction side, and with great methodology and precision, we go after all of these transactions, which is why we laid out that goal. Across the management team, people are primed for that. Our focus area, even our compensation is focused on driving transactions because that's an opportunity for us to attach more services and so forth. That's a broader picture of that. From a geographic point of view, if you look at United States, everything that I just said is true.
+If you look outside of the U.S., you find quite a number of markets, very large markets, developed markets, where just a simple cash and check opportunity is still alive and well. The U.S. is a bit further along. If you go into Europe, my home country, Germany, you're somewhere in the 40s on digitization. That's tremendous cash opportunity. Look further south into Italy and Spain. These are very large economies where we just do what we have done the last 10 years in just going after the transaction opportunity and turning cash and checks into digitized payments. There's an adjacent opportunity in some of these markets where you have domestic systems. We put it in the category of secular growth because it's not fully digitized.
+These are systems that don't have tokenization, various other things, so it's a tremendous source of transaction growth for us that, again, fuels our model. You look further into Asia, Southeast Asia, Japan, another huge, third largest economy in the world, not very digitized, tremendous upside. Again, they're about around the 40% mark. Mexico and Latin America, Colombia, the fifth largest economy there. Again, tremendous potential. You take all of that. I think this narrowing part, come back to the proxy piece. Let's understand the transaction opportunity works a little differently, and we have laser sharp focus on verticals, hard under-penetrated verticals and geography where there is a lot of growth potential. The reality is, bottom line is more transactions are in cash and check today still, despite all of our efforts, that we can turn into digital transactions and apply our model.
+## Harshita Rawat | Analyst, Bernstein
+This transaction growth, I think people often miss that, right? Because you are getting into more everyday spend.
+## Michael Miebach | CEO, Mastercard
+Right. Yeah.
+## Harshita Rawat | Analyst, Bernstein
+There's also kind of processing penetration, which has grown for Mastercard.
+## Michael Miebach | CEO, Mastercard
+Right
+## Harshita Rawat | Analyst, Bernstein
+which also adds to the growth rate there. I want to also ask about payments nationalism in the consumer payments context.
+## Michael Miebach | CEO, Mastercard
+Right. Sovereignty. Yes.
+## Harshita Rawat | Analyst, Bernstein
+We have seen this growing desire for countries to control their payments infrastructure.
+or to at least have it locally. There have been some renewed discussions in Europe as you very well know.
+I know this is not something new to you, and you've worked through this in the past, but maybe share your perspectives on nationalism.
+## Michael Miebach | CEO, Mastercard
+Right. Yeah.
+## Harshita Rawat | Analyst, Bernstein
+around payments and how you're engaging.
+## Michael Miebach | CEO, Mastercard
+We are in payments because it matters. The payments matter to governments for the same reason. It's pretty close to national critical infrastructure, electricity, water. We like that. That's a good thing.
+## Harshita Rawat | Analyst, Bernstein
+Yeah.
+## Michael Miebach | CEO, Mastercard
+We matter. Truly what we do matters to countries. There is a significant degree of alignment between what governments want out of their payment infrastructure and what we want out of it. Alignment on resilience matters in payment systems. How would you translate that to the question that you have? It's never good to just have one payment system, just simply from a resilience perspective. Inclusion matters. Inclusion is long-term market growth for us. The more people you pull in the digital economy, the better it is for all long-term growth. Governments want financial inclusion for economic participation. There's alignment there. Cybersecurity, everybody wants to protect their citizens and their businesses, particularly small businesses, which are always the weakest link in the chain. For them, it's very hard to protect against cyber risk. That is our business. That matters to us. There is alignment.
+When we have a conversation with the government, how to participate in a country's digitization journey and building their digital commerce environment, we're generally a welcome partner. Where sovereignty comes in is when countries decide, "I don't want you to be my only solution." That comes right back to the resilience topic. That's fine for us. The ways we find, as long as we can compete, we're very happy with that. We also partner with local solutions. Take cybersecurity, take acceptance. There are certain solutions where we make our services available as long as we can compete, and that is a one plus one is three solution generally. I think that's been serving as a good model.
+I think it's also important for us to show up globally, so to say, as a true global best practice kind of partner to help with all of these priorities that these governments have that I just talked about, like cybersecurity, resilience and so forth. At the same time, to recognize local needs and requirements, including the resilience part. What we do is, we just announced October last year with Europe, you talked about Europe, that we're going to set up three new data centers. That gives more resilience because more technology is on soil. Let's say the undersea cable is cut or whatever happens. Supply chains are fractured, as we've seen in COVID. These are kind of things that drive more resilience. It's also resilience from our own perspective because we always like to have a backup of a backup.
+With current conflicts in the Middle East, we see that. That has served us very well. While some of the cloud companies suffered from that, we had the right kind of setup. This kind of recognition of local needs is important. Our technology's flexible enough to do that. In the end, we find the right balance between compete, partner, and invest, and therefore we continue that journey. We've been on the sovereignty journey for like, I don't know, 12 years or so. Something that I spend time on, that I think a lot about, but I think our approach works really quite well.
+## Harshita Rawat | Analyst, Bernstein
+Michael, very quickly on China.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+It's been almost two years.
+## Michael Miebach | CEO, Mastercard
+Quickly on China, this almost feels like it is mutually exclusive.
+## Harshita Rawat | Analyst, Bernstein
+There's so much to cover.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+It's been almost two years since you launched domestic processing in China.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+How are things progressing? You also recently accompanied President Trump on his visit to the country.
+## Michael Miebach | CEO, Mastercard
+Right. We negotiated and it was a long process to get the license in China. It's a domestic license. We've had a longstanding cross-border business in China. Now we are live in China since May 2024 with a domestic license. That is a really important point because the combination of both allows us, as a very large global player, the only one with a domestic license there, is to put products into Chinese citizens' hands that are available for dual use. Here's a Mastercard in your hand that you can use in China. Use it as a QR acceptance point through your Chinese app, or through the card itself, or now through Apple Pay. At the same time, you can travel with it and use it externally. That sounds super normal for all of us, but that was not normal in China.
+It's now a unique solution that we bring, and people who travel, Chinese people who travel, they value that. It's really given us a very good start. We are winning our fair share, more than our fair share, of the market since we went live. We're also building an ecosystem. This is a massive economy, second-largest economy in the world. We're working with all the Chinese banks, we're working with the acceptance players and the Chinese digital players through our joint venture partner, to build everything that's needed, issuance and acceptance, and good value propositions. There's a whole number of programs that we put out. It's very encouraging.
+The Chinese government and the U.S. government, this is why we were part of that delegation, sees that both as a very helpful point to connect the Chinese economy with the global economy, to also make sure that Western payment standards are available in China, and the Chinese people that are used to QR standard can pay elsewhere. It's good connectivity. It makes sense from every party's perspective. Long-term significant opportunity, which is why we called it out our Investor Day as a significant part of our growth algorithm going forward. Very happy with what we see, but it's a longer-term thing. Of course, we need to keep geopolitics in mind all the time.
+## Harshita Rawat | Analyst, Bernstein
+Another significant part of your growth algorithm is value-added services, not long-term, it's happening now. We were talking about this earlier. Historically, for investors, it was easier to forecast Mastercard's revenue growth.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+All you needed was a concentration.
+## Michael Miebach | CEO, Mastercard
+Our investors are so clever, they can forecast a lot of things.
+## Harshita Rawat | Analyst, Bernstein
+Oh.
+## Michael Miebach | CEO, Mastercard
+Surely.
+## Harshita Rawat | Analyst, Bernstein
+Now, value-added services are 40% of your revenue.
+## Michael Miebach | CEO, Mastercard
+Correct, yes.
+## Harshita Rawat | Analyst, Bernstein
+and growing meaningfully faster.
+## Michael Miebach | CEO, Mastercard
+Yes
+## Harshita Rawat | Analyst, Bernstein
+than the rest of your business. maybe help us understand what is driving the growth of your value-added services.
+## Michael Miebach | CEO, Mastercard
+Right. Right.
+## Harshita Rawat | Analyst, Bernstein
+What is driving your conviction?
+behind that growth?
+## Michael Miebach | CEO, Mastercard
+Right. I want to start off with, it's probably the most frequent question I get, and I always love talking about it because I see there's a tremendous growth opportunity here, and I'm happy to always find another angle as I lay it out to make it even more tangible. First thing is to start off with what we call the virtuous cycle of growth of Mastercard. We go after all this payment volume, as we have just discussed for the last 30 minutes. That fuels our dataset, a very unique and rich dataset, high-frequency global dataset that fuels our services. We choose services that benefit from that dataset because it's such a unique differentiator versus other services providers. If you start to look in the world of cybersecurity services, we have competitors outside of payment, but they don't have the payment data. That differentiates us.
+In loyalty, we have a lot of transaction data. There's loyalty specialist companies out there, they don't have the data estate that we have. Again, that differentiates us. More transactions, better services. Better services drives more differentiation of our payments because our payment would be smarter and safer than the next competitor's payment, particularly when you compare it to domestic schemes and things like that. They just cannot do what we can do. That helps us retain more payment portfolios and win more payment portfolios, which means more data, and the whole cycle keeps going. That's the fundamental basis of our virtuous cycle and our strategy. In service itself, how do we go to market? How is this a sustainable piece of growth, not in the short term, but in the medium to the long run?
+The first thing to say is the power of our distribution model through the network. 60% of our services, by design, are distributed through the network. We put those services out alongside the transaction, before the transaction, during the transaction, after the transaction. Earlier, we talked about identity solutions. We talk about transaction fraud solutions that come along with the transaction. Tokenization services come along with the transaction. They carry the transaction. Post-transaction, you have things like disputes and others, and you have consulting and marketing services around it, and loyalty. It's kind of like the set of concentric circles. With the transaction at the center, 60%. If you're a SaaS company, you have to, say, sell every widget, buy every widget. That's not what this services portfolio is about. It's designed that way.
+It's designed to be network distributed in its majority, and that will drive a big part of longevity. The next thing is within those kind of network distributed solutions, there's a lot of choices to be made on what we put into that portfolio. It's very carefully curated. We focus on things that we believe have long-term, underlying secular trends. Cybersecurity. In our world, in our data more digital world by the day, there will be more data, there will be more cyber risks coming along with that as people go after that data. Fraudsters and scammers go after that data. That's a long-term trend. Think about an AI-enabled world and AI-driven scams and frauds. It's just going to be more of that. That looks very risky. For us, it's actually an opportunity because that's what we do, and it will drive part of our services portfolio.
+Combination of network distribution and underlying trends. Need for data and dealing with cyber data-related risks, that makes a really solid portfolio. The next thing then is, when you then go and look at the other 40% of our services that are not network distribution, and then you say, "What kind of products are those?" A good chunk of those are still enabled by the data. They're just not distributed through the network in the same way, and they're kind of on top of the transaction. They're like an opt-in or something like that we do, that doesn't come necessarily straight with the transaction. That's still a very advantage go-to market. You kind of waterfall that whole thing, and you're starting with straight on the transaction, opt-in. Then you take our consulting services, which the furthest out, a good chunk of that used to be human-delivered.
+We're probably the largest payment-related consulting company in the world. We're not just consulting. We're consulting on payments, and yet again, you have a link to our transaction, you have a link to that data, and we help our customer use that data in a better way. It's always going back to the heart of our differentiation, our data, and the fact that we have this network that can put that out there and collect that data. All of this together is a very durable model. We still look to obviously bolt-on into the next piece, and Recorded Future is a great example of that. Said, so if we have a differentiated proposition, which we do today in cybersecurity, which I'm very excited about, there's too many risks in the world, but it's good for us to help address them.
+Said, "Okay, what's the next thing that companies worry about? What is their concern?" In a world of these cybersecurity risks, you cannot outspend against every risk. It's impossible, because the threat vectors come from all angles. If you had a partner like Recorded Future, like Mastercard with Recorded Future, that would tell you, your risk is the highest in this area, because there's a set of threats that are occurring that we see from whatever this particular threat actor, this particular consortium, and here you should raise your defenses, vis-Ã -vis trying to raise them across the board. That is what Recorded Future does. They have data sources that literally nobody else has, from the dark web and to every data source there is.
+Now we put that together with the data estate that I just talked about, which gives an amazing capability to predict where the next fraud piece is, and say to a bank, "This is where your next threat vector is. In particular, this card number has been seen in the dark web. You should ask extra questions and put your security level up." Reduces cost, increases efficiency of the fraud solutions, and so forth. Very powerful. Durability, because we keep extending, but we always keep in mind the starting point that differentiates us vis-Ã -vis just selling widgets and being a services company.
+## Harshita Rawat | Analyst, Bernstein
+It's fascinating. I think in the early days of e-commerce and up until now, cybersecurity is a great example where.
+## Michael Miebach | CEO, Mastercard
+Correct
+## Harshita Rawat | Analyst, Bernstein
+trust and fraud, I guess the inverse of each other, they were such a big area for you to focus on.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+I think that also drove a lot of your services.
+## Michael Miebach | CEO, Mastercard
+We do a lot of brand analysis, and what does our brand stand for, the two interlocking circles. Trust is the word that is most often quoted, because when you hear ou r sonic brand or when you hear the interlocking circle, people say, "I don't have to worry about that transaction." It works in the furthest corner of the world. With all these new risks emerging, that still gives us a lot of applicability to prove that point every day in different ways and better ways.
+## Harshita Rawat | Analyst, Bernstein
+I would feel much safer with an agent with a Mastercard than something.
+## Michael Miebach | CEO, Mastercard
+I hope you do. Is there anything else?
+## Harshita Rawat | Analyst, Bernstein
+Let's talk about tokenization.
+## Michael Miebach | CEO, Mastercard
+Right.
+## Harshita Rawat | Analyst, Bernstein
+A foundational layer for growing payments use cases, and services enabled by Mastercard. Talk about what do tokens do for you with respect to enhancing the network and your opportunity to deliver more valuable services?
+## Michael Miebach | CEO, Mastercard
+Right. Tokenization, most fundamentally, takes the payment credential, the 16-digit card number, and puts it into a one-time use token, and that facilitates the transaction in the most secure way. Should that ever be hacked, then you can't do anything with it because it was only for one-time use. That was a simple idea. It goes back to over a decade ago when we created that. It's been a facilitator for us to, particularly on the online payment space where we've seen more fraud, to roll that out. Today, I mentioned it earlier, about half of our online transaction are now tokenized. We started rolling that out and sharing with our partners around the world, this is a better way to do things. We wanted to find a way to critical mass around that. Which we now have with half of our transactions.
+We can go ahead and say, we can tag on a set of additional services around the basic token capability. That could be token authentication. You could go ahead into life cycle management. Say, for example, a card. Like when your card credential runs out, and the card expires, and you have a token, then automatically that can be updated to say, "Here's the refreshed card number," and that's all behind the scenes and technology that is updated. These are a set of services that you can imagine. It's a new vehicle to distribute services. It's a very powerful tool. Once we reached critical mass, we started to price for the value that we provide. The value that we provide, in the simplest terms, is higher throughput. The approval rates go up 3%-6%, because it's safer transactions, security is increased, and fraud goes down.
+That's a very quantifiable value. We were very excited to go out and have these conversations with our customers, and then we're also charging for that. Then you can see, as you lay on other token-driven services on top of that, you can quantify that value and start to see that as part of just how we continue to grow, because we invest in this foundational technology, we rolled it out, and it drives a better digital commerce ecosystem. Earlier, we talked about agentic, and in this case, tokenization is the center of all of that. With agentic rising, you will see a world where the growth rate of tokenization is going to continue to increase, because everything by definition is tokenized there. That is one reason we're excited about that.
+You can also see, as I touched on that, is if there were additional tokens that carry other information than just the payment credential, it could be your preferences out of your loyalty program. Say, here's a tokenized set of information on what Harshita likes and what she doesn't like, so that the agent can provide a better recommendation inside tokens. Again, that could be the next layer and the next layer. Our product people are very excited and very busy to find more layers of value that we can deliver through tokenization as another angle. That's part of our services portfolio.
+## Harshita Rawat | Analyst, Bernstein
+Michael, we have about six minutes left, and we haven't-
+## Michael Miebach | CEO, Mastercard
+Right
+## Harshita Rawat | Analyst, Bernstein
+talked about commercial and new flows. This is such a big opportunity for you. Over the past year, you've had more focus on segments where there's a more proven product market fit.
+Historically, commercial had also been such a hard addressable market to go after because of the heterogeneous flows.
+## Michael Miebach | CEO, Mastercard
+Yeah.
+## Harshita Rawat | Analyst, Bernstein
+Tell us about how you see the opportunity, what you're doing, and how has your thinking evolved?
+## Michael Miebach | CEO, Mastercard
+Right. In our Investor Day, if I recall correctly, we had about $80 trillion laid out as the kind of addressable market there. It's a humongous opportunity. It's pretty clear that this market is ripe for better solutions. It's fragmented, heterogeneous, I think is what you called it just now. All commercial entities are on increasing pressure for profitability. Everybody's focusing on streamlining their processes, put out better products. We're just at a situation where I feel there's an unlock. You see people that are used to slick, easy digital experiences in their personal life, and they look at a green screen at their job, so that kind of doesn't line up. There's a lot more momentum in the space than we've ever seen before, but it's still heterogeneous. I think that's also true.
+We're finding easy ways to create points of aggregation, and finding parts of the commercial ecosystem where there's just a clear alignment between payers and payees on the need to really disrupt this and make it easier. Travel was a good example. We really got into the world of travel and online travel agencies, where we said, "Okay, so you both have a pressure point between airline to hotel payments, and how you do all of that in a much simpler way, much more aggregated, all this data that needs to be reconciled." Very good. We do that through our VCNs, where we are the leader in ECN and VCNs and said, "What else can we do?" Said, "We need flexible economics so that payers and payees can agree on that." Mastercard Cross-Border Fee Manager is an example of that.
+You always need to make sure that the supplier and the buyer side, that their respective issues are addressed. All of that very systematically that we have done for that particular vertical. We're now doing this in other verticals, in rental, for example, in healthcare, in insurance, and just rolling that out. I think that's a better approach than going across the whole world, what does commercial even mean? It's industry by industry. We're looking for other aggregation points. ERP systems are a good example of that. We're now in 10 plus of the leading ERP systems, where we just recognize their existing services, and we plug our services that make payments easier right into that. Many points of unlock have now been put together. I feel this is a tremendous growth opportunity for us.
+Some of these is not even about new products, it's simply distribution. Take small business. Just more and more governments, more and more banks therefore, more and more countries are focused on enabling their small business sector in a better way. If you have a fit for purpose SME proposition, we're launching these programs left, right, and center all day. This is just really gaining a lot of momentum. From our growth perspective, as far as we can see, we're outpacing the market, so I see the momentum coming. I'm impatient, though. I want to see more, and I would suddenly see it quicker, and I'm pretty convinced with our team that we're on the right track there. Those $80 trillion, if you break it looks very huge.
+We're really breaking it down very specifically, say, by vertical, by geography, and say, "Here's a big focus for us.
+## Harshita Rawat | Analyst, Bernstein
+As you alluded to earlier, agentic commerce has some of the best product market fits.
+## Michael Miebach | CEO, Mastercard
+Right. Exactly.
+## Harshita Rawat | Analyst, Bernstein
+in B2B, and can potentially accelerate the digitization.
+## Michael Miebach | CEO, Mastercard
+Exactly
+## Harshita Rawat | Analyst, Bernstein
+here. Michael, we have about two minutes left. We have talked about a number of growth opportunities.
+## Michael Miebach | CEO, Mastercard
+Right
+## Harshita Rawat | Analyst, Bernstein
+for Mastercard. What is your vision regarding how Mastercard as a business will evolve five years from now?
+## Michael Miebach | CEO, Mastercard
+Right. The vision that I see is, we laid out a very clear strategy across our consumer payment opportunity, which we just spend a lot of time, the commercial payment opportunity, and the set of services that truly differentiate that. That is a strategy that is set to last the years to come. I'm excited about that strategy. It works. When I look at the underlying product set, our go to market, our distribution capabilities, our data advantage, I'm very excited about how we roll that strategy out, and we see it in our numbers, and how we continue to put good prints out there and are there for our customers. I'm excited about our team that is behind that strategy, that I work with every day. I think we're a truly differentiated player.
+What I'm particularly excited about is our continued constructive paranoia of looking around the next two corners to see what else is coming, so that we had the right kind of sentiment and drive to go after BVNK at the right time. This is ripe for us to come, that we were there on day one with Agent Pay, that we found Verifiable Intent. We're really shaping the industry. We're not following the industry. We're shaping the industry, we adjust our strategy where needed, but that is, I think, the thing that really sets us apart. We do this in emerging market, we do it in developed markets, from that perspective, I think we're going to have a long and exciting future. We lean in every day.
+## Harshita Rawat | Analyst, Bernstein
+This is what you did as the Chief Product Officer 10 years ago for Value Added Services.
+## Michael Miebach | CEO, Mastercard
+That might've been a reason that I'm in the seat today. Yes. Exactly.
+## Harshita Rawat | Analyst, Bernstein
+On that great note, Michael, thank you so much for joining us today.
+## Michael Miebach | CEO, Mastercard
+Thank you, Harshita. Thank you very much. Thank you.
+Data Source: Quartr Last updated: May 28, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

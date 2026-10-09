@@ -1,0 +1,7 @@
+Company: GameStop Corp.
+ROIC Symbol: GME
+ROIC Name: GameStop Corp.
+Year: 2007
+Quarter: 1
+Date: 2007-05-23 11:00:00
+Executives

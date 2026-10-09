@@ -1,0 +1,198 @@
+TITLE: Goldman Sachs Communacopia + Technology Conference 2026
+DATE: 2026-09-08
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+All right. I think we are ready to get started. Thank you, David, Chris, for coming. Really appreciate you guys taking time out of your busy schedules to be here.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+It's our pleasure to be here. Thank you.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. With that, we can get right into it. Marketing was one of the first applications of the Zeta platform. You've increasingly talked about the company more as this intelligent AI infrastructure asset. How do you think about what Zeta can become over the next five years beyond the core Marketing Cloud?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+That's a great question. Trying to keep my voice here. I've been talking, you've had me talking since 8:00 A.M. this morning. When you think about the evolution of our business, you have to go back to some of its foundation. When we originally started the business, we started the business as a business intelligence company. We actually just focused on marketing because it was a trillion-dollar TAM. It's been a very, very positive thing for us. As we think about the evolution of our business, it really revolves around intelligence. We think there's going to be two types of software companies. There are going to be software companies that create intelligence and have proprietary assets, and then there are going to be workflow management tools that they're going to have problems in the future.
+Because you have got to be able to take data, create it, synthesize it, and then make it actionable. That is really what I think we do best at Zeta. When you look at our core marketing business, today, we return between 600% and 700% return on every dollar spent through our platform in marketing. Now, what we are seeing with the adoption of Athena, we gave some updates for Q2, but we are seeing faster adoption than we expected, and we are seeing better return on investment than we expected. When you think about Athena, I think Athena is really the future of our business. Not to get too esoteric, but you go back, humans in sort of our current form have existed for about 400,000 years. For almost all of those years, we have communicated via voice.
+You look at some of this enterprise software, most individuals use between 3% and 5% of the capabilities of their enterprise software. I always sort of joke with this type of an audience what percentage of your Bloomberg Terminal do you actually really use? Athena supersedes the creation of the keyboard of the 1950s, which I think has created meaningful friction between humans and technological adoption. I think we are now at 83% of people utilizing Athena are utilizing it from a voice perspective versus a text perspective. We are seeing, as I said, a substantially higher uptick in sort of adoption and a meaningful increase in return on marketing spend for enterprises that have adopted Athena. At Zeta Live, we are going to make three of the biggest announcements we have ever made.
+They will be the evolution of Athena, to answer your original question, where we start helping enterprises to run their entire businesses, where it is not just customer acquisition, retention, monetization, or business intelligence, it is the actual seamless integration and superior operating of their core businesses by using Athena and our Data Cloud.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. I think one of the focuses of you has been getting more big, large enterprise wins, and I think a good example of that is Gap. Gap selected Zeta as part of their broader marketing stack transformation. So what is kind of changing in the market that is causing some of these large enterprises to reconsider their incumbent marketing platforms now?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Well, first of all, they made us their system of record. I am not sure we are part of the ecosystem. I think we are the core of it.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+What I would say is two things have really changed. One, AI has now become so prevalent, but most enterprises do not know how to adopt it in a way that creates return on investment. That is what Zeta does for a living. Because we are able to create such a high return on investment, enterprises that in the past might not have worked with us are now saying yes. The other issue is we are in, I think, the largest sort of replacement cycle of existing marketing and technology stacks I have ever seen. I thought it was peaking a year or two ago, and it is actually now accelerating. It is accelerating at a time where I would tell you five years ago, nobody had any idea who we were. I started every meeting with, "Zeta who?" Meaning, who are you and why are you here?
+We then moved a couple of years ago to sort of why Zeta? They know who we are. They know why we are in the room. Why are we going to pick you? We have now crossed over to Zeta now. It has really become enterprises feel they need us to be a part of their tech stack, or they are not going to keep up with their competitors. Now, we would like to get to must-have Zeta. That is sort of the holy grail for us. I am not sure we will ever get there. That happening simultaneous to the opening of testing with AI for return on investment, simultaneously to the evolution of our brand, simultaneously to this massive upgrade cycle for technology and Marketing Clouds, I think has been a driver, as you know better than most. Last quarter, we grew the business 44% top line, 56% EBITDA growth, 73% free cash flow growth.
+We all know that numbers are output. The input is the business working. Our business is really working right now. I think it is working better than at any point we have ever operated the business.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. Data has been part of Zeta's differentiation for a long time. As customers increasingly bring their own data in through platforms such as Snowflake and Palantir, how do you think about the role of Zeta's data moat, I would call it, evolving?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Shockingly, two of our biggest announcements this year. In the first six months of this year, we announced that we are amongst OpenAI's first enterprise partners, that Athena was going generally available both for the enterprise and the agency. We announced our strategic partnership with Snowflake, and probably the largest deal we have ever announced was the Palantir partnership. Both those companies are incredible companies. We have in fact re-architected all of our Data Cloud on top of Foundry, and we have adopted Palantir's Ontology to help onboard data and streamline it between us and enterprises. But in no cases does our data go into their platform. They do not see it. It is the same thing with Snowflake.
+Unless we are using a clean room, sort of a no copy, which has been a massive win for us to be able to go in no copy and go joint to market, because it has accelerated the time to test, it has lowered the barriers to testing, and it has now got clients saying yes, much, much faster. Our entire business is based on enterprises giving us their first-party data, but merging it with our data, and that is where the magic happens. So the fact that they are able to move their data faster through Snowflake, Palantir is a massive win for us because they are partners of ours. We do not expose our data even to the enterprise client. So when we combine the data, we remove the personally identifiable information and we replace it with a Zeta ID number. That does a number of things.
+A, it allows us to import the 5,000 to 7,000 incremental data elements that our clients might not have on their end users, demographic, psychographic, credit card transactions, credit scores, all the way through. Not only does it allow our algorithms, which we have built internally, we have built all of our own inference-based models, it allows the algorithm to get smarter. But if the enterprise were to ever fire us, they would lose 100% of that knowledge. It never transfers to them. I think that is one of the reasons we had a net retention rate of 120% last year, and why we continue to have a much higher net retention rate than I think we have projected to at 110%- 115%.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. To spend a little more time on AI. Zeta offers pre-built agents across campaign creation, audience building, analytics, quality assurance. Which agents are gaining the most meaningful production usage rather than just experimental engagement? How do you think about the value that those individual agents provide versus what Athena provides as kind of that aggregate?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Well, I was going to say number one by far is Athena.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+We saw 40% of our super-scaled clients adopt-
+## Chris Greiner | CFO, Zeta Global
+Yeah, our monthly active users
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+-Athena.
+## Chris Greiner | CFO, Zeta Global
+Yep.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+They are doing things that we have never seen before in the platform from a scale perspective. They are building audiences, they are looking at new technologies, they are looking at new activation capabilities at rates we have never seen.
+## Chris Greiner | CFO, Zeta Global
+Yeah.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+I think Athena is really going to be the most powerful one. As it relates to other agents, they are all sub-agents that then work together. Audience building agents then lead to activation capability agents that then lead to agents that help you lower your churn. All of them begin to compound and work together. The other thing that has been really cool from my vantage point, I am a nerd, so the fact that I think it is really cool might not mean others think it is really cool, but the uptake of our build-your-own agent has been astronomical. We are on our third iteration of our AI Agent Studio, where our clients can now use Athena to voice enable build their own agents to build and handle tasks that they otherwise would have had to do manually.
+You go back to the average enterprise user uses 3%-5% of most enterprise software. The more agents they are building, the more they adopt Athena, the more they are able to use the entire capabilities of the platform and the data ecosystem, the better the return on marketing spend they are seeing, the more they spend with us, the higher our net retention rate. It is a nice funnel.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+To go into that metric that you were talking about, 40% of super-scaled customers have became monthly active users of Athena within four months of launch. How do you think about what has reduced the friction of adoption relative to maybe some of the other enterprise AI products that we have seen that are taking a bit longer?
+## Chris Greiner | CFO, Zeta Global
+I think David mentioned it's the voice enablement. Of those 40% active users, what we know is that they're growing faster than the rest of the set of super-scaled customers. David made a slight mention to it, but just to give you a sense for how our revenue funnel works, customers pay Zeta on a license and a subscription basis to effectively use the Data Cloud to create automations around audiences and campaigns. Of those 40% monthly active users, 83% of the engagement's voice, and what we're finding is it's creating thousands more audiences and campaigns, which if you now think about downstream from that, roughly 50%-60% of our revenue is that subscription to the Data Cloud and the platform. The other 40% is the monetization through consumption.
+That consumption happens once you create an audience and put a campaign workflow in place, then the software of Zeta helps you understand deterministically which individuals in that audience are most responsive to CTV, display video to mobile, to email. Once that curriculum of workflow begins to operate, that drives the meter of usage with them. So it's an early positive indicator in terms of the intent of the Athena platform is to create a facilitation tool, more easy to use and access more of the platform, and it appears to be working.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah. We're already seeing it flow through, but it's still early days, and I think we'll see it continue to flow through. Listen, the business is really working right now across the board. When we set out to grow the business, we really look at it normally, like how do we get to half our revenue growth is from existing customers and half our revenue growth is from new customers. It's certainly been much higher than we expected on both fronts. We're adding more customers than we expected to, that are spending substantially more money than we originally expected them to do that, which is a good combination when you're running a business.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+What do you think it is specifically about voice that is changing things for your customers? What are they not doing on the traditional interface that they're now doing with the voice interface?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah. I think the big thing there is we did not just create a voice interface to navigate the platform. We actually did that a few years ago. We built this platform called ZOE. I think this is the standard for-
+## Chris Greiner | CFO, Zeta Global
+Zeta Opportunity Engine.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+You are so good at the acronyms. We have so many acronyms.
+## Chris Greiner | CFO, Zeta Global
+He names them, but I have to remember.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+I name them and then I forget. We have more acronyms now than I can keep track of. But ZOE was effectively a voice enablement to better just navigate the platform. Customers who adopted ZOE spent 250% more than customers that did not adopt ZOE, and she was rudimentary at best. The big difference with Athena is Athena has been built, so you just have to tell her the outcomes you want. You can literally tell Athena, "I'd like to create 2 million incremental customers this quarter, and I'd like to lower my cost to create customers by 15% while doing it." She will then navigate the entire platform, the entire Data Cloud, and in real time, show you what you need to do to do that. You can then say, "Great, Athena. Yeah, let's start with a test of $500,000.
+Could you email me the reporting every hour on the hour? Because I'm going to be out of the office, because I want to see the return on spend here. Activate now." She will activate for you. She will then send you the emails every hour on the hour. I don't want to get too ahead of what we're announcing, but ultimately, we believe that you should be able to access Athena through any UI, not just through ours. You'll be able to go into whatever platform you're using. I'm going to get in trouble for this later with the tech guys. But the reality is, you're going to be able to talk to Athena and say, "Great, the test is working. Let's go live." That's where I think it's going to be very interesting.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. I know you guys love to talk about ROI. So, how do you think about the incremental revenue opportunity you're getting from this higher usage that people are getting with Athena, versus the cost that you have to absorb to support higher AI usage and what it implies for Zeta's longer term margins?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Well, I think it's interesting to note that last quarter, it's not your exact question, but as you know, I'll answer the question I generally want to, versus the one you're asking me. But I'll start with, last quarter, 89.6% of all new code generated by Zeta was generated on an automated basis. Yet, to answer your question, less than 1% of our revenue, total as a company, was spent on token utilization. Well under 1%. Bless you. So when you think about it, we've built workflow management tools starting with Spade, rolling to Loom, to allow for workflow management to the best foundation models at the lowest token utilization while doing automated QA, before it goes to an architect who then pushes a button and makes it generally available.
+Our ability to have built the vast majority of our AI internally, all of our inference models are homegrown and home-built. As we scale as a customer, our AI utilization expense has not gone up at all. In fact, I would say it's gone down as a percentage.
+## Chris Greiner | CFO, Zeta Global
+Yeah, more or less.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah.
+## Chris Greiner | CFO, Zeta Global
+Yeah.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Over the last few quarters, I think it will continue to go down. We were able recently to cut a very interesting deal with one of the foundation models that will allow us to scale very large at a fixed cost.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Nice.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+You talked a little bit about this earlier, but Athena's kind of evolving from just answering questions to really executing actions and recommending things for your customers. Where are you seeing customers be more comfortable delegating decisions to Athena, versus where are they still a little hesitant and want more human in the loop?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+I think that is a great question, which is not to say your other questions weren't great.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Oh, thank you.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+The reality is that we are seeing a lot of exploration with Athena. Clients are really comfortable exploring in their data sets, in our data sets, in the merge data sets. Where we're not seeing everything yet is activate now. We're seeing them spend more time making sure that they're double and triple-checking the numbers. The accuracy levels have been at the five nines, to be clear. And we're even sending in some of our FTEs to help clients really understand the accuracy level of the outputs from the explanation, exploration, I should say. I think, I equate it to when we all started using the internet. You are probably a little young for this example, but I say that as a compliment. You lost 90% of transactions on the credit card entry page. People were terrified to put their credit card into a transaction.
+I've lived through this, I'm sure a lot of us have for many, many years. Today, you just, who cares, right? You put your credit card in, even if it's a site you've never been on, you just put it in and you know it's going to be fine. And if it's not, your bank will cover it, and so on and so forth. Although most of us go back to Amazon and just push the buy now. We're seeing a similar thing with Athena. She's getting them to that last page. They're looking at it. They're doing the activation, but they're double and triple, quadruple checking it before they're going into the activation mode. I think that'll continue to scale.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. As consumer discovery is kind of shifting more towards AI-generated answers, and we have this conversation internally a lot about agentic commerce and the implications-
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+-of that. What role do you think Zeta can play in helping brands remain visible and kind of influencing their own demand?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Let me start by saying, I don't think the HTTP layer of the internet's going away.
+I do think commoditized products, and I shudder to say commoditized, and then travel because we have so many clients in that vertical. But you know what an airline ticket is, right? You don't really need to go to the website to see the four or five different offers. You can go agent to agent in travel and that type of thing. I don't think my wife is ever going to go to her agent and say, "Pick me out a black dress for Saturday night." I also think that as AI begins to or continues to proliferate, managing the HTTP layer is going to become less and less expensive because you'll be able to auto-generate your code for that HTTP layer. So I don't think it's going away. I think there'll be more agent-to-agent commerce. I think that you'll see smaller publishers have challenges in a post-Gemini world.
+We are already seeing that in a meaningful way, yet our data cloud is growing exponentially. Why? We have launched what I think will be one of the biggest GEO platforms in the world. Today, we integrate from a GEO perspective into Claude, into ChatGPT, and into Gemini. Across the whole platform. Many of our clients are using it. I think GEO is going to be the next SEO. That does not excite me that much. It is real money, but it does not excite me. What excites me is the data extraction we get, because we are now getting more data out of the GEO extraction than we are in, I would guess, the bottom 2 million of the 5.2 million publishers who use us on a daily basis.
+I think that is going to continue. I think that enterprises are trying to figure out new ways to market in a post-Gemini world, and I think our business has been a big beneficiary of that as we have expanded and grown exponentially in connected TV, in messaging. Even email continues to grow at a very rapid pace. I think, once again, I think the agent-to-agent commerce is going to be good for Zeta. I will remind you, we have a big e-commerce business, and I think that our data extraction will continue to actually grow, but it will grow in different places than it has grown over the last 10 years.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah, that makes sense. The Palantir relationship.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Who? That is a joke.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. Already helped Zeta engage some very large enterprises, and you've talked about that, but wanted to get more into the tech stack side of things. What does that combined product kind of enable Zeta to do that it kind of couldn't do before or provide independently?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+The Palantir partnership is changing the game for Zeta. From a technological perspective, we took our Data Cloud and completely re-architected it on top of Foundry. That did two or three major things. A, it allowed us to onboard customers much faster. B, it's making our Data Cloud much faster because we've adopted their Ontology. C, I think the go-to-market, the seven-year go-to-market arrangement, is going to change the game for us from a, not just direct to their clients. I'm already seeing the halo effect in other components of our pipeline, where we've. Today, I think 24%, 25% of the Fortune 500 use us, 51% of the Fortune 100 use us.
+In every single onboarding of a new enterprise, bar none, you have a data privacy workflow, you have a data security workflow, and you have a data use case workflow when you have as much data as we have. I have never been through a more arduous workflow than the creation of the contract and then the merging of the platforms with Palantir. They looked at things that I've never even considered. I do think people forget that when you have 500, what do we say publicly?
+## Chris Greiner | CFO, Zeta Global
+525 million
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+525 million. We have a lot more than that, but say publicly, 525 million people who have opted into our Data Cloud. Multiply that by 5,000-7,000 incremental data elements per person. Multiply that by the trillions of signals that we are extracting from the 5.2 million publishers and the GEO clients, and you get into some of the levels of the data that we have in our Data Cloud. I think at our peak period, we do 7,500 computations per millisecond, multiplied by every moment of the day. From a Palantir perspective, we actually are managing that outside of our pipeline. I am personally managing that. Elias Davis, who is one of their top guys and one of the best humans I have ever known, who helps to run their commercial business, reports directly to Alex, and I have been attached at the hip.
+I have said publicly that we have gone into three meetings together. We have had three yeses. I have never seen a group of clients who love their technology provider more than enterprises love Palantir. It is amazing. By the way, they go in and say, "This is our solution to help lower your cost for marketing and CRM by 50%. We think you should test this very quickly and then scale with it." They are like, "Okay." It has been great. As Chris has said, Chris, why don't you talk about the pipeline numbers for Q1, Q2?
+## Chris Greiner | CFO, Zeta Global
+Is that okay?
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah, go for it.
+## Chris Greiner | CFO, Zeta Global
+We've kind of setting context. In the first quarter, our sales pipeline was up 40% year-over-year, and accelerated to 60% year-over-year. That is independent of the Palantir opportunities that are being managed separately. As to keep a good frame of view into the core outside of the partnership ecosystem. What's interesting about the pipeline, because you can have aspirational goals if you're a seller and put what you want in the sales pipeline. We're not lost on that. If you look at the deals that have been closed and the pattern of deals being closed, David made mention of that, but I think it's good evidence point of the replacement cycle from an IT perspective is the deals that were closed in the second quarter were 40% bigger than a year ago.
+If I look at the sales pipeline, the value of those deals, it's greater than 25% in terms of average deal size. I think to us, that says that our sellers are doing an even better job of showing our prospects and our customers how much more they can be doing with Zeta. Other points of evidence for us of that is they're using more than one use case. That statistic as of last quarter was up over 90% year-over-year, and customers spend roughly three to five times more as they build on use cases. Then customers that are using five or more channels was up over 50% year-over-year.
+It all nicely hangs together when I look at what does the sales pipeline project into the outer periods, which is why I think we have such good visibility into the business, and confidence in our guide.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+I would say that I publicly said that I think Palantir can be a $100 million a year in business. I think, as I sit here today, that seems very low compared to what we're seeing.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+On those pipeline numbers, obviously your quota-carrying headcount is growing quite a bit slower than that right now. Can you speak about a little bit of the individual pieces of individual rep productivity that have come in better than expected and some of those drivers?
+## Chris Greiner | CFO, Zeta Global
+By design.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah.
+## Chris Greiner | CFO, Zeta Global
+Over the last four years, from 2021 through 2025, we were adding 22% more quota carriers per year. When we released our most recent long-term model, we said we did not believe we needed to add that many quota carriers to generate the similar levels of growth that we had been, that we felt like we could effectively hire half as many. Last quarter was a good example of that. We grew quota carriers by 11% year over year. What makes that possible?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+But we grew the business 44%, just to put it out there.
+## Chris Greiner | CFO, Zeta Global
+Sales productivity is really, obviously quite strong. What makes that possible is we have two fast-growing parts of our business, those that go directly to enterprise and those that are now call it in its fourth year of maturity, selling directly into agencies, and that's roughly approaching 25% of our revenue, not quite there yet. Our model for agencies is a one to many. To scale like we've been scaling, we do not have to add and throw resources at growth. We can do it in a very efficient way because we have high quality there, and as we get new agencies and new independent agencies, we add headcount, but we can grow within an account very efficiently. On the enterprise side, it is more of a one to one, because we divide the sales team between hunters and farmers.
+Those are going after new logos and existing customers, which is why half our quota carriers are employed equally, which is why half our growth has come from new customers and existing customers the last four years.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+I would add to that, the quality of salespeople we've been able to attract over the last five years is unlike any people we ever thought we would get to work with us. Salespeople are motivated by success, right? What we would find is we would beat Salesforce, Adobe, Oracle in an RFP, and literally within 60 days, the head salesperson would call us and say, "We want to be with you." So the ability to bring in substantially more senior people and really build behind them has allowed us to do that. We also have a core group of people who close a lot of deals and we tend to be out there a lot.
+## Chris Greiner | CFO, Zeta Global
+Something that I think David and the sales team, and our president in particular, has done well over many years is you look at our revenue and where it's diversified. We serve 15 different industry verticals, and there's no concentration in any one, two, or three. But we, years ago, went away from this generalist salesperson.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Right.
+## Chris Greiner | CFO, Zeta Global
+This idea that you can walk into Goldman Sachs on Monday and United Airlines on Wednesday, and even halfway sound like you understand their business model, let alone how they use data to go market and go acquire customers. That led us down a path of we are going to go hire industry-level experts.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah.
+## Chris Greiner | CFO, Zeta Global
+That's also, I think-
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+By the way, we just brought in one of the top healthcare guys in the world to really focus on healthcare, because we think that's a vertical we can really, really grow in.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. You've spoken a lot about the outperformance and revenue that you guys have been able to achieve over the past couple of quarters. How do you think about the split of the outperformance across customer additions, ARPU expansion, Marigold cross-sell, new partnerships, and how do you think about those drivers also going into next year, and where do you feel the most confident?
+## Chris Greiner | CFO, Zeta Global
+For investors, we give you the model.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah.
+## Chris Greiner | CFO, Zeta Global
+You don't have to dissect it every quarter, and we don't have to be kind of weird in how we talk in code. We give you our long-term model, but underpinned by that, we tell you what are those metrics that we must be on, not just every quarter, but over a multi-year period, to be getting there on time or faster, or if we're behind, it'll be very clear. We're ahead in all metrics, and that is-
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+By a lot.
+## Chris Greiner | CFO, Zeta Global
+How fast should we be adding customers? Our model is to add between 4% and 8% more customers year-over-year, every 90 days. We've been averaging 15%. We want to grow their spend with us between 12% and 16%. We've been averaging at the high end of that. Net revenue, we want to drive between 110% and 115%. We've averaged the last four years, 115%+ . Last year was 120%. When I look at the building blocks of what allows us to guide like we do with the stated level of conservatism that we say, we say our guidance is going to have embedded in it two to five points of conservatism. That gives us headroom on all those metrics to effectively be at the low end to get to our number, and if there's upside, it tends to mean we're at the high end.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah. I mean, our net retention rate has been running much hotter than we expected, which is always very nice. When your existing clients are spending an average of 20% more in a given year, and your stated goal is to grow organically by 20%, that gives you a good head start on that. That is why we have been growing. I think last quarter, we were at the Rule of 40 as it related to growth plus operating margin was 67, 68. And we have been, I would say, pleasantly surprised by that. I am not surprised we are adding more customers, and I am not surprised we are growing the ARPU. It is just the net retention rate has been a really powerful metric. And even in the last two quarters, we have been above the-- We do not break it out, but you can do the math. We have been above 115.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah. Makes sense. I will try and squeeze one more in. We started this conversation talking a little bit about the proprietary data advantage that you guys have. As you kind of expand the use cases of your platform and as AI has kind of changed a little bit maybe what are relevant advertising channels these days, how do you see the data advantage becoming more valuable to customers, and how have you kind of adjusted the business to respond to that?
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Yeah, I think that is a great question. What I would say is our data moat is the biggest moat we have in our business.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Yeah.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+You have got 20 years of building or buying platforms that create trillions of fresh data points per month. We are not relying on an old, antiquated database. We are literally creating new data every second of every day. And in a world where effectively the whole open internet is being ingested by foundational models every moment of every day, we made a really conscious decision a few years ago to never sell our data or expose it to a third party.
+And I will tell you, during the few years that we were re-architecting the business and we went from making real money to nothing for a few years, I was pretty honored, and I know Chris was too, and Steve Gerber. A few weeks ago, a Harvard case study published on Zeta and the decision we made, and they centered it around the board meeting where we pivoted the whole company.
+There were years where the private equity guys were like, "Sell the data! Sell the data!" We're like, "No." I would tell you, the fact that we've never exposed our data to any large language model ever, and will not, is mission critical to our long-term moat and our ability to do what really matters. It's not about the data.
+It's not about the AI. It's about creating actionable intelligence. If you're not creating actionable intelligence, you're going to fall by the wayside as a technology company going forward. That's why I think our pivot into becoming an intelligent AI infrastructure company, launching the business intelligence use cases, and some of the big launches we have coming soon are going to be so game changing, not just to Zeta, but I think to the businesses that choose to license our technology.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Well, thank you so much. Please join me in thanking our data experts.
+## Chris Greiner | CFO, Zeta Global
+Thank you, Callie.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Thank you, Callie .
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Thank you so much.
+## David A. Steinberg | Co-Founder, Chairman, and CEO, Zeta Global
+Great job.
+## Callie Valenti | Equity Research Associate, Goldman Sachs
+Thank you. Thank you so much.
+Data Source: Quartr Last updated: Sep 8, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

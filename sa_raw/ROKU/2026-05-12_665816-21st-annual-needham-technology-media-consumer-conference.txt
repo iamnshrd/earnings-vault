@@ -1,0 +1,932 @@
+TITLE: 21st Annual Needham Technology, Media, & Consumer Conference
+DATE: 2026-05-12
+## Laura Martin | Senior Media Analyst, Needham & Company
+We are gonna get started. I'm Laura Martin. I'm the Senior Media Analyst at Needham & Company, and I'm here to introduce Dan Jedda, who's the Chief Operating Officer and Chief Financial Officer at Roku. Where Dan oversees the company's global financial operations and strategic growth initiatives. Dan has been instrumental at driving steady margin and free cash flow growth. He previously spent 15 years in Amazon serving as the CFO of digital video, including Amazon Studios, advertising music, before a brief job as a CFO of Stitch Fix. Okay, great. Dan, first thing I wanna ask about leadership.
+I'm very interested in this notion that Generative AI changes everything, and therefore, leaders have to manage sort of both the fear of the incumbent, let me call it employee base, but also sort of maybe hire differently, and how do you just think about your role as a leader changing in this uncertainty of Generative AI tech disruption?
+## Dan Jedda | COO and CFO, Roku
+Yeah. Well, first of all, thanks for having me. It's my third year.
+## Laura Martin | Senior Media Analyst, Needham & Company
+I love it.
+## Dan Jedda | COO and CFO, Roku
+Been three years at Roku, third year at the Needham Conference.
+Thank you.
+## Laura Martin | Senior Media Analyst, Needham & Company
+I think you were here within a month of joining.
+## Dan Jedda | COO and CFO, Roku
+Probably. Probably. Yes. I came back.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Thank you.
+## Dan Jedda | COO and CFO, Roku
+I appreciate you having me. Thanks everyone for coming. Gen AI. I think the question is how does AI really impact how we as leaders think about the operating expense side of it.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Is that really what we're getting at?
+## Laura Martin | Senior Media Analyst, Needham & Company
+Sure.
+## Dan Jedda | COO and CFO, Roku
+Okay. I think you're kinda getting at token cost here, which is really how we look at it. First of all, like, AI for Roku is an absolute tailwind in many aspects. We don't consider it disruptive to our business. We consider it a tailwind. We've got AI embedded in our ad tech. We've got AI embedded in how we do in-stream video. We'll talk about Ads Manager, I'm sure, later on.
+We believe AI is gonna be instrumental in both short and long form content, and I think that creates an incredible opportunity for Roku. To your specific question, yes, it is on my mind in terms of how the AI cost is building up. We are in the process of looking at this ourselves. We're dashboarding everything out.
+Who's using AI. We're really pushing people at Roku to use AI, not just in engineering, but across the whole company. I can tell you from my own team what I'm seeing in AI. I love it. They're using AI agents to write analytics. We're using AI agents to analyze things. We're using AI agents to help us in our operations side of our business. It's really exciting. Of course, there's a cost to that, and that is the token cost.
+The way I think about it is I think companies are gonna be dashboarding all this out. I think companies like Roku are gonna be looking at the ROI of that spend, and they're gonna have to find ways to measure that. We're starting to do that now. Our spend is ramping. It's very noticeable, and we're watching it, and we're saying, "Hey, what's the ROI of the spend?" There does need to be an ROI. That ROI could come in efficiency. It could come through not adding as many headcount growth, but it also can come through shipping product faster on the engineering side, which ultimately will lead to higher revenue. Like there's many different aspects of how it would drive positive ROI. The important thing is you have to measure it.
+You have to hold the teams accountable for those ROIs. What you can't do is just spend on tokens and hope that it provides some level of efficiency. You have to be able to measure it, and there are ways to do this, and I think companies are starting to understand this more. I know we are. I'm pretty excited about how that impacts it. Now, what does it mean for OpEx growth? That, what it won't mean is like net, this is gonna increase OpEx without increasing efficiency. That won't happen. I'm 100% sure of that. It's either going to increase operational efficiency or it's gonna increase revenue depending on where the AI is spent.
+## Laura Martin | Senior Media Analyst, Needham & Company
+What do you do for human resources or legal or something? How do you measure their productivity? They're not directly linked to revenue. They're not really directly linked to costs.
+## Dan Jedda | COO and CFO, Roku
+That's gonna be operational efficiency. I'll give you an example.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+One of the things we're doing in legal is we're looking at how AI can scan contracts.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+Look for key issues that would take our lawyers time to actually read the documents.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+That's real. That's happening right now.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+You don't need as many hours.
+Focused on this because the agents can do this for you. Now, you have to be careful in areas of legal 'cause legal is you need to be tight, and you need to be right 100% of the time.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Not 99% of the time.
+## Laura Martin | Senior Media Analyst, Needham & Company
+That's true.
+## Dan Jedda | COO and CFO, Roku
+You need to be right 100% of the time.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+Legal is an area where we're starting to experiment in, but it should take less hours to review contracts. Especially for the areas that we're focused on in our contract reviews, whether it's a business contract, whether it's a licensed contract, et cetera. It's an area that is ripe to use AI. Just require less legal hours. That means we won't have to grow as much in terms of headcount for legal as we grow our business.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right. Yeah. No, that makes sense to me. You just had your three-year anniversary, as you just said. What do you think Wall Street most misunderstands today about Roku's business model, monetization potential, and strategic position?
+## Dan Jedda | COO and CFO, Roku
+Yeah, great question. I referenced this from when I came on board in May, three years ago. I just hit three years at Roku. It's been such a fun ride. First of all, I think that the understanding of how much scale we have at 100 million streaming households, over 100 million. We used to say approaching 100 million. Now we get to say over 100 million streaming households. We hit that metric last month. Super excited about that. I've been waiting to hit that. It's great. We're over 100 million streaming households, and in the U.S. we're over 50% of broadband penetration. That kind of scale is massive in the CTV world. No one's even close to us in terms of that scale.
+While I think people understand that 'cause we preach a lot, I don't think it's well understood what that means and what it allows us to do. Let me give you some examples, and I'm gonna talk about where we were three years ago as an advertising company and a subscription company and where we are now. Now I'm going to go into the monetization side of the business. The scale is there. The team continues to focus on building scale. We're going to continue to grow from 100 million streaming households. What's really changed over the last three years is how we monetize and how we are focused on this massive asset that the company has built, this incredible operating system and how we monetize it. We have the scale in the U.S. We have scale in other countries.
+I'm sure we'll talk international. In the U.S. I'll just talk about the U.S. We have this scale and how we monetize it has changed considerably and I don't think it's fully understood outside of Roku because I'll give you some examples. Like call it three years ago, we were primarily a direct sales led company. Like we had a sales force that went out and they sold to the top, call it 100 to 200 brands. We had an M&E business. That was the bulk of the advertising. The idea was to grow M&E and to grow the top 200 brands.
+## Laura Martin | Senior Media Analyst, Needham & Company
+M&E define.
+## Dan Jedda | COO and CFO, Roku
+Media and entertainment, it's the content partners out there, and what they spend to drive their subscriptions.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+That's primarily theatrical trailers. That's M&E. Thank you. That was the majority of the ad revenue. You could if an advertiser wanted to come through a demand side platform, which I'm sure you'll ask questions on that as well, you could do that, but it had to be through our demand side platform that we owned. It was a product called OneView, and it was via an acquisition that we made that we turned into a demand side platform. It was very limited. We were limiting the shift to programmatic. We were limiting ourselves. The advertising base outside of the top brands, we were limiting ourselves. Fast-forward to today, we have completely diversified the advertiser base, the ad products that we use, the how we monetize the home screen.
+Like we've diversified across the entire advertising segment, which we now break out. On the demand side platforms, like instead of mandating that you use our demand side platform, we've integrated with every DSP out there, including our most recent integration with DV360, with Google. We've integrated with The Trade Desk, Amazon, Wurl, Yahoo, DV360, Google and we've integrated on all on the SSP side as well with all the demand facilitators. That's very different. We're driving more demand. That's on the DSP side. By the way, we're driving far more advertisers now, not just the top brands. We have the whole gamut of advertising, advertisers from the top brands down to the SMB market, which we now have an ad product focused on SMB.
+On our home screen, we've really started to monetize our home screen in a very thoughtful way. All that wasn't happening three years ago. It's all really happening now and you're starting to see the benefits of it. We grew our ad business 26%, actually it's 27% in Q1. We segment that out now. Similar story on the subscription side. We had subscriptions three years ago. It wasn't a focus. We continue to have a pay product called Roku Pay, but we weren't driving subscriptions. We just had it. If you signed up through our on our platform through a subscription partner, we got a rev share on that. What we didn't have is a focus on it.
+We didn't have a leader. We didn't have product focus on it. We didn't have a home screen that really pushed subscriptions and specifically premium subscriptions, which is our version of a similar-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Like BritBox or Acorn.
+## Dan Jedda | COO and CFO, Roku
+Right. But premium subscriptions is similar to Amazon Channels.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+Where the content is embedded throughout the user interface, not just in the app. We have a premium subscription product where you sign up and now that content is embedded throughout the user experience. These, the all this diversification, all this focus has driven a lot of incremental demand our way. Supply, never an issue. Plenty of ad supply. We always had plenty of ad supply. Our sell-through rates were very low because of The Roku Channel being the number two app on our platform. We used to say it was a top five app, then we'd say it's a top three app. We've said over the last year it's the number two app on our platform. Everybody knows who number one and number three is, but we are number two.
+You have The Roku Channel having a tremendous amount of supply of ad impressions. Now we're really focused in driving the demand our way. That's why advertising business is growing. Our subscriptions, a big focus on driving subscriptions, specifically premium subscriptions, and you're seeing that growth. Total subscription business grew 30% in Q1. That's with a friendly comp, a friendly comp from last, from Q1 of 2025. Even backing out friendly, it still grew 23% year-on-year in Q1.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. One of the sentences you said was, "We're starting to monetize our homepage in a thoughtful way." Just for way of background to level set everybody up to our level is they used to only do essentially theatrical advertising, but you could also, if there was a new show on Netflix or something, they might buy an ad unit on that homepage. When you made the comment that you're starting to monetize your homepage more thoughtfully, I still don't have video on my homepage. I still don't have an ad unit for you guys that's like a house ad unit on the homepage, and I still don't have scrolling, which Verizon had even before they got bought by Walmart. Defend the sentence, we're starting to monetize our homepage more.
+## Dan Jedda | COO and CFO, Roku
+Yeah.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Thoughtfully.
+## Dan Jedda | COO and CFO, Roku
+You have video on your homepage. Of that I'm 100% certain. You have video, auto-playing video in the right marquee ad unit on your homepage.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+That is a significant number of impressions.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+It tells me you're not spending time on your homepage. You're just jumping to your content.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right. That's fair.
+## Dan Jedda | COO and CFO, Roku
+I'm 100% sure, that you have video on your homepage.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+The content row at the top, which is a personalized row, that's new. That's driving incremental engagement into hours that we monetize.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+It's driving incremental subscription signups.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+By not by a small amount. Like, it's very intentional how we've personalized that.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Content row at the top.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Lastly, I'll say this, like, we have a new home screen coming out that we've talked about. We've rolled that out to a, you know, a material percent of our group. It's still not fully rolled out. It's not even close to being fully rolled out. It's call it low double-digit percentage have rolled out. As we continue to test and reiterate the new home screen, I've been using it for two months, it's amazing. It's even more personalized. The ad unit is even more prevalent because you start right on the home screen rather than starting on the left nav. You've got even more impressions now being generated for that ad unit that can be video. It's not always sold video, but there's a video ad unit, an auto-play video ad unit there.
+All that is, and now you mentioned ad units, other ad units on the home screen. Stay tuned for that.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+As we roll the new home screen out. I'm very excited. I think there'll be more ad units.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+On the home screen. I think there can be ad units embedded in the content tiles of the home screen.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Biddable, whether they're biddable or not, we'll figure that out.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+We've got an amazing product team that's focused on this. I'm super excited about it. There is even more opportunity in terms of engagement that we monetize, in terms of subscriptions that we monetize coming to the home screen.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right. 'Cause, I mean, what I would say is that most of streaming is targeted, and the nice thing about the Roku homepage with your density of, you know, like, installed base, it could be a reach product.
+## Dan Jedda | COO and CFO, Roku
+Yes.
+## Laura Martin | Senior Media Analyst, Needham & Company
+If every single person sees that ad, it is a in my opinion, a competitor to linear in terms of its reach.
+## Dan Jedda | COO and CFO, Roku
+It could be a reach product, and we have that because 125 million people start the home screen.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Like, that, I mean.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Like above Super Bowl level reach.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Every single day. We have that. We also could have performance-based products because again, the whole top of the home screen is personalized. It's personalized now, but the newer home screen's even more personalized. What you can do is you can put, again, an ad unit in there that's highly endemic to the personalization.
+Again, think of it can be both a broad-based reach unit, but it also can be, some type of a targeted performance-based unit as well.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. When I go to Roku, it says, "Dad, Mom," you know, then my three kids' names. Is the home screen that page, or is the home screen once I hit Mom or once I hit my 23-year-old daughter?
+## Dan Jedda | COO and CFO, Roku
+The home screen, first of all, the home, we, again, we have logged in user information as a household. We do not have profiles up.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Your home screen is where you start.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Now again, it to be fair.
+## Laura Martin | Senior Media Analyst, Needham & Company
+How do you personalize if the home has four people?
+## Dan Jedda | COO and CFO, Roku
+Well, again, we can personalize it at that level.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+It's not personalized per se at who's watching at what point in time.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+We have a pretty good idea. We know who's watching what.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+When they start, and we can personalize it accordingly.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. 'Cause I was gonna say it must be a household personalization.
+## Dan Jedda | COO and CFO, Roku
+It is.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Like by zip code.
+## Dan Jedda | COO and CFO, Roku
+That's true.
+## Laura Martin | Senior Media Analyst, Needham & Company
+By, you know, viewing. The fact I watch BritBox, you think I'm a Brit, so you're giving me personalized.
+## Dan Jedda | COO and CFO, Roku
+Yeah.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Teeth care products.
+## Dan Jedda | COO and CFO, Roku
+Yeah.
+## Laura Martin | Senior Media Analyst, Needham & Company
+You know, something.
+## Dan Jedda | COO and CFO, Roku
+Yes.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. All right. Fair enough. How should investors think about Roku's long-term margin structure if the business continues shifting towards software advertising, subscription, and home screen monetization?
+## Dan Jedda | COO and CFO, Roku
+Yeah. Again, we broke out our two segments, subscription and advertising, and one of the reasons we wanted to break that out is we wanted to give investors more insight into how the platform revenue built up between subscriptions and advertising, and we wanted to give the margin structure as well.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep.
+## Dan Jedda | COO and CFO, Roku
+We segmented it out starting in Q1. I'm very excited about that.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep.
+## Dan Jedda | COO and CFO, Roku
+We've been working on that for several quarters.
+Let me just talk about margins of each business, and then I'll tell you how they are gonna mix out from a platform side. On the subscription side, we did just over 40% margins for Q1. That's down on a year-over-year basis from about 44%-45% prior to Q1. What we're seeing there is the premium subscriptions just driving a lot of the subscription business. We're still growing non-premium subscription business, but premium subscriptions, which has a slightly lower gross margin-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Is the biggest driver of that.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+I do think, and I've said it, I do think that we will stay at or above this 40% for the rest of this year.
+We have other activities within subscriptions that are higher margin that I believe will start to grow be a higher percent starting, you know, in Q2. I think this 40%, maybe slightly higher, will hold for the rest of this year.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Still very profitable business for us. On the ad side, there was this thought, this notion, and I, as much as I try to dispel it, there was this thought that, hey, since you're integrating with DSPs or since CPMs are coming down in the industry, that's hurting your advertising gross margin. I constantly said that's not accurate. There's a mix impact within platform. Advertising is doing well, and now that we've broken out, you see that. Advertising margins were just over 60% in Q1. That was up 450 basis points from Q1 of last year.
+I said that we believe that we'll get to maintain 60% or just north of 60% for the rest of this year as we continue to focus not just on growing our advertising revenue, which we are doing, but also on optimizing our gross profit in advertising. We're seeing good and there's a lot of reasons why gross margins will continue to stay at 60%. We've got the home screen, very high gross margin.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+We're getting very good at optimizing our campaign performance. We optimize for, of course, campaign completion, campaign metrics, but we also optimize for gross margin within our in-stream video, and we have ways of doing this. Not all impressions are created equal from a gross profit perspective. We can optimize to fill our highest gross margin impressions first.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+Our lowest gross margin impressions.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Last.
+## Dan Jedda | COO and CFO, Roku
+Last.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Of course, this just makes sense. You know, we're getting really good at this optimization. I'm pretty happy with where we are in advertising gross margins. I think that there's a chance for them to grow. We'll wait and see how we do. For the rest of this year, I think that 60%, just north of 60% is the right target. Now, what this all mixes out to is this 51%-52% platform gross margins.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Probably closer to 52%, which is what I stated during the call.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right. Okay. You know, the two things that Wall Street thinks have pricing power in the Gen AI world are unique content and unique data. Roku has both. Can you talk about, as we get more synthetic content being created by Generative AI, why do those assets become structurally more valuable?
+## Dan Jedda | COO and CFO, Roku
+Yeah. Well, you know, that's a great question. You know, we believe that Gen AI content and specifically, long form and then also, within video, call it 50, 30-second advertising videos. Like Generative AI content has a chance to be very disruptive.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+In our space. We're very excited about that. We think that we will be a beneficiary of AI content in the form of long form. We monetize long form content very well. Again, if short form comes to CTV, we'll monetize that as well. We actually have some short form content. We have clips on Saturday Night Live. We have shoulder content on sports. Like we have versions of short form content. It's not massive, but it's there. If, even if short form content does come onto CTV, we're very good at monetizing ours. We'll monetize that as well. Long form has the opportunity to be very disruptive in areas like for Howdy, which is a low-priced-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+Ad-free content offering.
+Imagine if Gen AI in long form impacts Howdy, like we can continue to put a lot of AI, really good AI long form content and still charge a relatively low price.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+There is a market for that. Howdy's doing very well. We just launched it in Mexico. We just took it off Roku. It's in Amazon Channels. It's doing well in all three, on Roku, off Roku.
+In Mexico, where we just launched. There's that opportunity. I think the real disruptive can and will be AI for even shorter form content, which is like 30-second and 15-second videos. That's where our Ads Manager product comes in, where Gen AI has created the opportunity for small and medium-sized businesses to participate.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+In CTV. That was the reason, one of the two, in my opinion, primary reasons why SMBs did not advertise on CTV was one, they were too small for a DSP or an agency, and two, they would have to create video, which can cost $20,000, $30,000, $40,000, $60,000-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+For an in-stream video.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+The Ads Manager, which is a self-service, SMB-focused product, has taken both those impediments away. Now it's really easy to generate, to sign up to have a campaign that's based on performance.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+More, as importantly, you can create videos from a Generative AI perspective that will help you immediately upload your 50 or 15 or 30-second video for in-stream video. Now there's no reason why performance advertisers and SMBs can't come to CTV, and they are coming to CTV.
+## Laura Martin | Senior Media Analyst, Needham & Company
+One of the things that this Ads Manager is sort of a new product for you, but MNTN's been doing this performance CTV targeting SMBs for three years. Are you benefiting from the fact you're sort of a little late here that because it's already been an established market somebody else had to educate people and create?
+## Dan Jedda | COO and CFO, Roku
+Yeah. We're not late. I'll let me tell you why we're not late.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+You know, I believe that we've got a big advantage relative to others because.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Everyone, you know first of all, as a publisher, as a platform.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Level publisher, we're quite large.
+We do not have to go and negotiate deeply discounted impressions to go back and sell.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Because we are a publisher, we have impressions.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+By the way, we have massive reach across the platform.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+We don't have to stay on the platform. We could go off the platform. We could that, but we don't need to because.
+We can go off TRC, because we can do what's called our run of network.
+We can go off The Roku Channel.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Into the apps.
+## Dan Jedda | COO and CFO, Roku
+In the Yes, just get inventory that way.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+We have massive reach that no one else has.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+We are in a great position to do this. What we needed to do, and what we have done, is built a very easy-to-use self-service sign up, and then, make sure that you can upload a Generative AI video in an easy way, and then we just have to tell people about it through marketing, and that's what we're doing. By the way, our first party data allows us to do amazing targeting, get amazing performance. We're integrated with measurement companies. We'll API sites to do site visits, whatever KPI the advertiser wants to get at. We're integrated with Shopify, so we can get conversion data.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+In that view, you can get true ROAS or return on ad sales. There's a lot of opportunity for this SMB market, which is, you know, $600 billion.
+According to sources are like spent by the SMB market in total. Of that, a significant amount is spent on search and social, and I think those dollars are going to migrate. You have the tailwind of linear TV moving to CTV.
+You have a tailwind of search and social or performance-based moving to CTV. This TAM that we play in is growing very well. Not only is our diversification in ad products growing, but the TAM we play in is growing well. It's a great position to be in.
+## Laura Martin | Senior Media Analyst, Needham & Company
+One of the things that I would say other companies are talking a lot about is you have to be omni-channel. You can't just be in one sector. Do you disagree with that because you guys are only in CTV?
+## Dan Jedda | COO and CFO, Roku
+Yeah, I think that first of all, like we have ways of we're working on this as well. Like for example, you know, Howdy has a mobile app now.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+TRC does have a mobile app.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+I do agree that omni-channel is a further opportunity, and we'll see where we go with this. Right now we are seeing the performance and the KPIs play out.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+I think-
+## Laura Martin | Senior Media Analyst, Needham & Company
+In the CTV channel.
+## Dan Jedda | COO and CFO, Roku
+In the CTV channel.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+You know, whether we get that data, whether we buy that data, there are ways to incorporate that perspective into our own CTV. Again, like let's see where this goes.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+I don't believe it is a must-have. By the way, all indications are, from all the KPIs I look at, and I look at a lot of them, all indications are we don't need them because the ads business, Ads Manager business is doing extraordinarily well.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. Yeah. It, yeah. Ads Manager opened up a whole new TAM for you.
+## Dan Jedda | COO and CFO, Roku
+100%-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Small business.
+## Dan Jedda | COO and CFO, Roku
+a whole new TAM, and as importantly, an entire set of millions of advertisers.
+that want to try something different.
+Like who wouldn't want to see a video of their SMB business on TV? They all want to try it, but they also want to make sure it's working.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+They want the performance capabilities.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Now with products like Ads Manager, those capabilities exist.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah. Okay. After spending 15 years at Amazon, does Roku have a structural advantage over Amazon and other large walled gardens, or does their scale and sort of breadth of product help them?
+## Dan Jedda | COO and CFO, Roku
+Okay, that's a great question. I, again, like you The difference between my first 18 months at Roku and my second 18 months at Roku are like night and day.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+For my first 18 months, I had started Roku. I think literally six months after I'd started Roku.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Serving ads in Prime Video.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+Which is a major announcement.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes. Major.
+## Dan Jedda | COO and CFO, Roku
+A very bold, very bold move.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep.
+## Dan Jedda | COO and CFO, Roku
+Very major announcement.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Overnight. They're ad-driven.
+## Dan Jedda | COO and CFO, Roku
+Literally overnight.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Opted everybody in.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep, yep.
+## Dan Jedda | COO and CFO, Roku
+Said, "You're gonna have to work.
+## Laura Martin | Senior Media Analyst, Needham & Company
+What's opted? Command performance, everybody.
+## Dan Jedda | COO and CFO, Roku
+You're gonna have to work. You're gonna have to work to opt out.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Pay.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Exactly.
+## Dan Jedda | COO and CFO, Roku
+Pay.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Pay.
+## Dan Jedda | COO and CFO, Roku
+You know, during that time I heard a lot and I saw a lot written on, "Hey, it's over. The walled gardens have won the CTV ad business.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+I could not have disagreed more because I'd had this, you know, we had this view on where this would go. One, our first party data is unmatched.
+## Laura Martin | Senior Media Analyst, Needham & Company
+That's true.
+## Dan Jedda | COO and CFO, Roku
+100 million streaming households.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep.
+## Dan Jedda | COO and CFO, Roku
+You start the experience with Roku on our home screen. We know who you are because we have 100 million- plus logged in users.
+Granted, that's streaming households.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Permission logged in.
+## Dan Jedda | COO and CFO, Roku
+Yes.
+Our first party data is unmatched. Secondly, and again, I saw this, but I was kind of like preaching this, think about it this way. I mentioned that The Roku Channel is the number two app on our platform. I know, I basically said that we are over half of broadband households, and no one's even close to us from that.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep.
+## Dan Jedda | COO and CFO, Roku
+People, everyone knows who number one is.
+Everyone believes they know who number three is.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep.
+## Dan Jedda | COO and CFO, Roku
+We're number two, you know, who's not number one, two, three, four, like these walled gardens.
+Even on our platform, like we have massive reach, and it would be better for these companies to partner with us rather than go it alone.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Despite what everybody thought, these are smart companies, and what they're doing is they're partnering with us because they know our first party data plus their first party data, our scale plus their scale, we're far better off together. What does that mean? That means that as Amazon launches a DSP, we're quite certain they were gonna do this. They wanted to partner with us. We wanted to partner with them. We signed an agreement on a platform level wide to integrate into Amazon. DV360 starting a DSP.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Google.
+## Dan Jedda | COO and CFO, Roku
+Yes. Google is not They're basically, you know, YouTube will be part of that DSP, but it's not just going to be YouTube.
+They just partnered with us. We just adopted as one of the first, I think we were the first, to adopt their unique identifier, which is a hashed-
+I think it's a version of a hashed email.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Which is similar to other identifiers.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Sandbox.
+## Dan Jedda | COO and CFO, Roku
+Now we're up to that. Our media will be on top of the overall demand within DV360 because they see the value of integrating with Roku given our scale.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Think they're copying Amazon.
+## Dan Jedda | COO and CFO, Roku
+Our 1P data. My point on all this is the walled garden approach is, yes, it might be there in some aspects, but the partnership approach, I think that we've solved that, you know, working together is far better than going it alone.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Isn't it that just they're trying to become omni-channel, and they started from a, just a different place? They're coming into your world to become omni-channel.
+## Dan Jedda | COO and CFO, Roku
+They believe that more reach is better.
+## Laura Martin | Senior Media Analyst, Needham & Company
+I wish I agree with.
+## Dan Jedda | COO and CFO, Roku
+That 1P data, when you match 1P data.
+## Laura Martin | Senior Media Analyst, Needham & Company
+That's true.
+## Dan Jedda | COO and CFO, Roku
+Across massive reach that Roku has.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes
+## Dan Jedda | COO and CFO, Roku
+Is better. Remember, like it's not.
+## Laura Martin | Senior Media Analyst, Needham & Company
+True
+## Dan Jedda | COO and CFO, Roku
+Just The Roku Channel, it's a platform-wide agreement. The matching that we give, which is all done in an anonymized clean room.
+In safe environments, the 1P data match that we do really does give, like Amazon far more reach than they otherwise would get, even if they integrated with us just as a publisher. Where we are integrated as a publisher, because TRC, plus remember, we have reach beyond TRC.
+We get share of inventory.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+From other partners. We have share, we have reach across the whole platform.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep, yep.
+## Dan Jedda | COO and CFO, Roku
+That is unmatched.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+Any DSP, whether it's not really omni-channel, it's just like the reach and the data together, we're just going to be better.
+Both companies win in that environment.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. Okay. It doesn't give them competitive advantage over you.
+## Dan Jedda | COO and CFO, Roku
+It does not.
+## Laura Martin | Senior Media Analyst, Needham & Company
+They also have these off CTV assets they're marrying with your CTV asset.
+## Dan Jedda | COO and CFO, Roku
+If they want their performance to work well, it does not. They're better off integrating with us and letting the advertisers go across and get scale.
+## Laura Martin | Senior Media Analyst, Needham & Company
+I get that that's beneficial for them. My question is, are they putting you out of business with your own data?
+They're now omni-channel and you're not.
+## Dan Jedda | COO and CFO, Roku
+Our data is very safe and very secured, and we have ways to protect that and so on. No, it's not a worry.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. That they don't have a better ad mousetrap than you.
+## Dan Jedda | COO and CFO, Roku
+Not a worry.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay, okay. Fair enough. You now have DSP integrations with The Trade Desk, Yahoo, FreeWheel, DV360, and Amazon. Can you talk about the impact those DSP agreements have had on fill rates, CPMs, and total Roku margin and revenue growth?
+## Dan Jedda | COO and CFO, Roku
+Right. Again, go back three years ago, zero DSP integration.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+Fast-forward now.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Everyone.
+## Dan Jedda | COO and CFO, Roku
+Everyone is integrated.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+We're trying to go as deeply as we can with all the demand side platforms.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+As deep as they want to go, we'll go.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+As long as we're protected. We are doing that.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+What does that mean? It means we've opened up a lot of incremental demand to flow to us as a publisher, to us as a platform, to Roku as a platform. We are now getting a diversified area of advertisers, a diversified across the spectrum of CPMs. You know, think about it this way, like different DSPs and different impressions will have different CPMs.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+I think this is really important to know. It's probably not well understood. Like, everyone thinks CPMs are coming down. That's bad. Not necessarily. Like, if we're adding. Not every impression is created equal. If we have an impression in news-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+That's very different than an impression in some of our highly rated content, like our original content or our direct licensed content.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Sports.
+## Dan Jedda | COO and CFO, Roku
+Sports content.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Like 2 Broke Girls, for example.
+Those two impressions are not created equal.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+We may put a lower floor CPM.
+## Laura Martin | Senior Media Analyst, Needham & Company
+CPM, yeah.
+## Dan Jedda | COO and CFO, Roku
+Run that through the programmatic pipes at a different rate than this impression over here, which is gonna have a higher CPM, and maybe even different data signals.
+Which will command a higher CPM in the auction.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Like, we play across the entire CPM demand curve. What does that mean? It means that all these integrations, even within DSPs, some DSPs are gonna have lower CPMs than others, depending on who's using that DSP. A DSP that's big in app downloads.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Probably gonna have a lower CPM.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+'cause they're looking at app downloads.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+That's fine. We'll play in that space, but we're gonna set the floor pricing appropriately. Other DSPs or other inventory, we're gonna put higher CPMs on, but we're gonna be integrated with all the DSPs. What does it mean? It means we bring incremental demand.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Lower CPMs does not equal lower margins.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+That's another fallacy out there, that everyone thinks-
+## Laura Martin | Senior Media Analyst, Needham & Company
+That's a good point.
+## Dan Jedda | COO and CFO, Roku
+Lower CPMs.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Means lower margins.
+It does not mean lower margins for us.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+I also think within the DSPs, I think the take rates are probably going to get more competitive and come down. That doesn't impact us because the advertiser is paying the data fee to the DSP.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Aren't they all the same? No, 'cause you're saying Amazon pays a lot, or takes a smaller take rate than-
+## Dan Jedda | COO and CFO, Roku
+I'm saying, I.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay, goes-
+## Dan Jedda | COO and CFO, Roku
+I'm saying that different DSPs will have different take rates. It's just how they make their money, right?
+## Laura Martin | Senior Media Analyst, Needham & Company
+You don't care.
+## Dan Jedda | COO and CFO, Roku
+Don't care.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Or do you care? If they get take rate pressure, some of it comes to you, the publisher.
+## Dan Jedda | COO and CFO, Roku
+The better the rate for the advertiser, the more they might spend on advertising.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+Of course.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes. Okay.
+## Dan Jedda | COO and CFO, Roku
+That is always beneficial for us. My point is.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right
+## Dan Jedda | COO and CFO, Roku
+These take rates with the DSPs, we may have payments with the supply side, the SSPs, but that's all incremental demand facilitation as well.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+That's where we're just integrated with an SSP as a publisher, and we're saying, "Hey, as long as you can hit these metrics, just keep filling.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah, these floor people.
+## Dan Jedda | COO and CFO, Roku
+Yes.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Keep filling the inventory.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+It's all incremental.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+My point on all this is, again, like that is very different where we are now. It's been a huge positive to integrate with the DSPs to set the right floor pricing, to bringing incremental demand. As I said, because we're the number two app on Roku, the TRC, and because we have run a network inventory across the whole platform, supply is not a problem.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+We have plenty of supply.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+We can create more supply relatively inexpensively.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Just by having your ad load go up?
+## Dan Jedda | COO and CFO, Roku
+Well, that would be the last thing we wanna do. We can steer more people into TRC.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+There's lots of things that we can do to increase our supply. Yes, we could go. We have a very low seven-minute ad load right now. It's very low. I don't wanna do that because it just, that is a slightly negative streamer experience, but we could. We could do that. We don't need to do that.
+Are not close to being sold out. We're still generating more impressions on the supply side. CPMs coming down, not a bad thing for us.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+I welcome it.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay, great. No, that's super helpful. Okay. What is Roku's content aggregation strategy as Netflix and other OTT competitors add short-form video, vertical videos, clips, and AI generated? I know I asked this on the call and you just mentioned it now. You guys do have some short form. Typically, it's like a highlight reel of something that's around like to promote a longer form content. I think the, my form of the question is more like standalone, like vertical videos where it's specifically a series or short form video where it's specifically like a series, not an adjacency to something that's sitting long form.
+## Dan Jedda | COO and CFO, Roku
+Yeah. We have, again, we have short form that does well because we're very smart, but we just don't have a lot of short form video. I said this earlier.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Cause those ad loads are too tricky?
+## Dan Jedda | COO and CFO, Roku
+Well, no, it's just that CTV is just hasn't moved to short form.
+## Laura Martin | Senior Media Analyst, Needham & Company
+It's true.
+## Dan Jedda | COO and CFO, Roku
+Like, it just isn't there yet.
+## Laura Martin | Senior Media Analyst, Needham & Company
+It's true.
+## Dan Jedda | COO and CFO, Roku
+If it goes there.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah
+## Dan Jedda | COO and CFO, Roku
+If the big, beyond YouTube, if others come, that's great. They're gonna wanna be part of Roku, and we'll monetize that. Because again, we have massive reach, we have massive scale, we have, the OS is in over half of broadband households. If more short form, if CTV were to shift to short form, we will be a beneficiary of that because that's gonna lead to more hours, and we know how to monetize hours. I think more importantly is this concept of where gen AI can improve video and ad video specifically. You know, within Ads Manager.
+our signup flow, I was just looking at this the other day, our signup flow is so impressive on how many people start. They sign up.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+They say, "I wanna do this." They go to the next. They choose their campaign, their KPIs on what they want to target, how they want to target. They choose where they wanna advertise across, you know, The Roku Channel and other publishers. You get down to the gen AI form video. That by the way, it's great we create, we have tools that do this. We have outsourcing tools that help you create a video on gen AI. It's still the biggest fall off in the pipeline.
+In other words-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Like 90% go there, 90%. They can't
+## Dan Jedda | COO and CFO, Roku
+There's so much opportunity.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Like people take all the time to fill it out.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+They get down to that piece.
+## Laura Martin | Senior Media Analyst, Needham & Company
+The very end.
+## Dan Jedda | COO and CFO, Roku
+It's still the biggest fall off that we see.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+We're still doing amazing. There's so much opportunity for Gen AI and agentic AI to, like create the video from scratch via prompts.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Like instead of asking them, just say, "Here's three videos. Do you want to choose one of these?
+## Dan Jedda | COO and CFO, Roku
+Yeah.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Like agentically.
+## Dan Jedda | COO and CFO, Roku
+Then improve from there. I actually want to make this person over here, or I want to.
+some more people into this video-
+or I want to have some more.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right
+## Dan Jedda | COO and CFO, Roku
+In this video.
+## Laura Martin | Senior Media Analyst, Needham & Company
+I want it to be in a forest, not a desert type thing.
+## Dan Jedda | COO and CFO, Roku
+100%.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+I think that's gonna come, and I think that's gonna help in this product even more. Also, if you fast-forward even a little bit more, like having the AI run it where creative is being created on the fly learning.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Like a dynamic.
+## Dan Jedda | COO and CFO, Roku
+Yes.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Like a dynamic.
+## Dan Jedda | COO and CFO, Roku
+It's running 1,000 creatives.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Wow.
+## Dan Jedda | COO and CFO, Roku
+Over, you know, $1 million impressions.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+And picking the right creative-
+## Laura Martin | Senior Media Analyst, Needham & Company
+For the right situation.
+## Dan Jedda | COO and CFO, Roku
+To optimize-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+For the, whatever KPI. They're optimizing for.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+By the way, this isn't specific to Ads Manager, but that is going to happen. It's just a question of when. Gen AI is there, it's working. It just has some ways to go and it's gonna get better.
+## Laura Martin | Senior Media Analyst, Needham & Company
+When I think about proprietary content having pricing power, is there, you know, is there some reason we aren't hiring three kids from USC School of Cinematic Arts to just use gen AI tools to make proprietary.
+## Dan Jedda | COO and CFO, Roku
+That's happening.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Short form, but on Roku, for Roku. Like 10-minute episodes?
+## Dan Jedda | COO and CFO, Roku
+If again, if it becomes Like that's happening, that's going on. It's just early times, we will play in this space. We will play in this space, we'll see where it goes.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+I can't say when it's gonna happen.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+I just know it's going to happen, and we will be a beneficiary. We're well aware of this.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+We're very focused on it.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+We're, you know-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Well, you can follow. I mean, it's not urgent to be first.
+## Dan Jedda | COO and CFO, Roku
+Yeah.
+## Laura Martin | Senior Media Analyst, Needham & Company
+You can just follow.
+## Dan Jedda | COO and CFO, Roku
+Yeah.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+We'll lead. We'll be upfront on this.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay.
+## Dan Jedda | COO and CFO, Roku
+Like this is a big deal for us. Like, we will be out front on this.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. Okay. Let's go to devices. How should investors think about Roku's hardware segment based on device revenue down 16% with -14% gross margins in the first quarter?
+## Dan Jedda | COO and CFO, Roku
+Right. This is always a challenge. I just want to take a step back and explain how our device business works and how unit sales and device works. The way our accounting works is we recognize revenue when a 1P player or, which is all our players, and a 1P TV where we are the manufacturer of the hardware are sold. We recognize revenue and we recognize gross profit. When we are the OS on our OEM partners like TCL and Hisense and, you know, Philips, et cetera, when we are the software on someone else's hardware, that does not show up as device revenue even though-
+## Laura Martin | Senior Media Analyst, Needham & Company
+That's true. Yeah.
+## Dan Jedda | COO and CFO, Roku
+It's a unit sale for us.
+Where that shows up in terms of distribution costs is on sales and marketing.
+What you're seeing now in device revenue is you're seeing a lot more volume flowing through our OEM partners.
+We just signed two multi-year agreements with our top OEM partners. Our OEM partners are partnering with us very well because we have a BOM cost, a bill of materials cost advantage given our low memory footprint i n this rising,
+## Laura Martin | Senior Media Analyst, Needham & Company
+It's actually really important.
+## Dan Jedda | COO and CFO, Roku
+Yeah.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Explain that to memory.
+## Dan Jedda | COO and CFO, Roku
+This rising memory environment.
+Is, creating a lot of issues for a lot of different industries.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+The CTV is one of them because There's memory involved. Our operating system was built by design to have a lower memory footprint than everyone else's operating systems. That was something Anthony felt very strongly.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yep.
+## Dan Jedda | COO and CFO, Roku
+That he built from the start. It was really smart to do because it's always allowed our BOM cost, our bill of materials cost, to be lower than everybody else's out there, so partners would want to work with us. You fast-forward in a high memory, where memory cost is going up, that BOM cost advantage just grows.
+Because-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Just let me give you some numbers. We think every TV they make is under 2 gigs of memory cost. We think Amazon and Google's are 4-6 memory.
+## Dan Jedda | COO and CFO, Roku
+Yeah.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Gigs of memory.
+## Dan Jedda | COO and CFO, Roku
+There's a significant advantage to having the Roku OS on your hardware. What that has meant is more OEMs are coming to us saying, "Hey, we want the Roku OS." Not only is it a great operating system, not only is The Roku-
+## Laura Martin | Senior Media Analyst, Needham & Company
+Lot cheaper.
+## Dan Jedda | COO and CFO, Roku
+Channel have, not only is it simple to use, not only is the home screen amazing, but really importantly, it's significantly cheaper.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Basically reduces the entire cost of the TV.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+For the OEM.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+We are seeing more volume than we originally expected at the start of the year.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Right.
+## Dan Jedda | COO and CFO, Roku
+Going through our OEMs. Also memory, the increasing memory cost does impact our own player margins, so you're seeing that go through as well. My point on this is between Q1 and Q2 nothing has changed from our total unit forecast. Nothing has changed on our device investment. What you have is some mix accounting between.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yeah.
+## Dan Jedda | COO and CFO, Roku
+Our 1P and our 3P units.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Okay. Questions from the audience for Roku? Yes, sir.
+## Speaker 4 | 
+You mentioned something about taking share from search and social. Can you just expand on what's driving that? Why is that happening?
+## Dan Jedda | COO and CFO, Roku
+Yeah, I can. Search and social is primarily focused a lot of it on SMB, and those SMBs have certain KPIs. They're not running advertising for reach. They may, but they don't. They wanna know that they can review site visits or clicks or conversion data. That has always been an impediment of TV because when you're on linear TV you had no way of actually tracking those KPIs. Now, with CTV, you can actually do that. I'll give you an example. Like, if there is a small business who has 5 restaurants or auto dealerships in the Austin area and they wanna run a very specific geo-targeted ad and track site visits, how many people visited the auto site, you cannot do that on linear TV. Now, on CTV, you can do that.
+You come in through Roku Ads Manager, you do, like, five clicks. You geo-target it, you say go, you upload a video, which we can help create. You hit go publish, you are off targeting that geo-targeted space. Via APIs, we can track site visits. We're integrated with measurement companies, we can track that KPI that advertiser wanted to see, they see does it perform. What's really important is it has to perform.
+## Laura Martin | Senior Media Analyst, Needham & Company
+Yes.
+## Dan Jedda | COO and CFO, Roku
+That's on us as a publisher to make sure it performs, we're really good at this. It will perform. If it doesn't perform right away, we'll get it to perform. My point on all this is that impediment, it was that, tracking those KPIs, the ability to create a video which would've been, again, $10,000, $30,000, $40,000.
+They don't know how to do it. They have to hire someone to do it. Now, it's done through Gen AI. You've got the two biggest roadblocks, performance-related KPIs and Gen AI-created video now gone. It's bringing more of these SMB advertisers over into CTV. Yeah. Okay. Yes, sir?
+## Speaker 4 | 
+Can you expand on that performance, ability to drive performance and how you're defining ROAS and with this new mix of customers?
+## Dan Jedda | COO and CFO, Roku
+Yeah. Yeah, it's a great question. You know, we'll never it's not there, like last click attribution is there. Like, I'm not suggesting that we now have last click attribution and you can track everything specific. I think we'll get there at some point. I have thoughts on this. I don't wanna get into that 'cause we're not even I don't think anyone's close to, like, last click attribution. We are there on things like, again, tracking site visits. We're integrated with many companies that help track measurements. Like Shopify, we're integrated with Shopify. If you have an SMB with Shopify, we can, through integrations with Shopify, track conversion data. That we can get ROAS on, as long as the advertiser allows us to do that.
+We're integrated with measurement companies like INCRMNTAL, which will do causal-based lift analysis for the advertiser. You can literally get, you know, via data feeds, you can understand what the impact of the ads were. There's other KPIs. Again, I mentioned site visits. There's other KPIs. By the way, here's a great one that's actually done really well. Insurance. Putting an insurance number on a CTV video and being able to track how many people saw that video that also called the number. It's lead gen in that particular case. It's working. Insurance companies love that because they can track the cost per every lead.
+## Laura Martin | Senior Analyst, Entertainment, Cable and Media, Needham & Company
+The performance of the ad.
+## Dan Jedda | COO and CFO, Roku
+This was not possible in linear TV, not even in CTV many years ago. It's possible now. It's a great product. Working very well for us.
+## Laura Martin | Senior Analyst, Entertainment, Cable and Media, Needham & Company
+Okay. I'm gonna call it there. Thank you very much.
+## Dan Jedda | COO and CFO, Roku
+All right. Thanks, everyone.
+Data Source: Quartr Last updated: May 12, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,367 @@
+TITLE: Barclays 23rd Annual Global Technology Conference
+DATE: 2025-12-10
+## Moderator | 
+Hey, as everyone streams in here, welcome to our next session. Really happy to have you on here with us, Mark. Maybe just talk a little bit about yourself and your role at Intuit, and then we can take it from there.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Sure, sure. Yeah, hi, I'm Mark Notarainni. I have the pleasure of leading our consumer team within TurboTax or within Intuit, and that really encompasses TurboTax, Credit Karma, and our ProTax group, so really serving consumers' financial needs. I've been with Intuit now for 18 years in this role for coming up on three now, super excited to be here and really looking forward to talk about the future of our consumer platform.
+## Moderator | 
+And it's kind of funny because, like, you can't go to these tech conferences and don't start on AI, you know, to talk about AI for any reason.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Oh, yeah. Yeah, that's kind of a big deal.
+## Moderator | 
+Yeah. Weirdly enough, I don't know why. Can you talk a little bit about the thinking from the Intuit management team, how that has evolved in terms of, like, what AI means for you guys?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah, AI is an incredible opportunity for us across all of Intuit, both our business platform and our consumer platform, and it really enables us to do done-for-you experiences for customers, right, so we've been in the case of TurboTax an incredible platform that's been driven by a linear interview process, and what AI has enabled us to do is ingest data, apply data, and personalize an experience that basically enables us to do much more of a done-for-you experience, bringing your data, get the work done for you without having to put in information, and then get you the best outcome so that you could finish and file. In the case of TurboTax, in Credit Karma, it enables us to be much more helpful to a customer because of the data points that we have.
+We have about 70,000 data points on each consumer, and that enables us to actually personalize experiences, beyond credit cards into personal loans, into debt and debt management. And so really, truly becoming a daily interactive product for our consumers and solving real problems every single day. That's all enabled by AI.
+## Moderator | 
+Yeah. And then can you talk a little bit about the evolution or, like, the action you guys have taken to be ready for that? And there I'm thinking, like, there's, like, a harmonization of the technology.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Mm-hmm.
+## Moderator | 
+There's a data platform, etc. Like, you know, what you know, it sounds all very simple. It's like.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Oh, yeah.
+Yeah.
+## Moderator | 
+And then, reality is often kind of a bit tougher to.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. It is much harder. Yeah. So, you know, there's the first thing is making sure that we have the data organized, right? And that's a big part of our platform is our data and what we call our data services. So we have the ability to aggregate and collect data that's very important for driving your personal finances. So that's really a transformation that we had to drive. Our data was locked up in different products. And we had to organize it in a way where it could be consumed real-time by a product, and so that's been a big transformation. We also, in the case of TurboTax, right, we're a 40-year-old company, and so we had to modernize our platform across our tax product. We had to do that in QuickBooks as well 'cause it's been around.
+And one of the things that is very unique, and I think this is important for anybody going through an AI transformation, is you have to have the culture for change, so Intuit has been around for 40 years. Amazing. 40-plus years. We started off as a DOS company. It turns out that the technology they use for DOS doesn't work in the world of AI, and we've been able to migrate and manage through really big technology shifts. This one is super fast and more impactful than the internet or mobile for sure that preceded it, so it really, like, Intuit is a culture of change, and we just really leaned into it and adopted it and understood what it could do to solve customer problems.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+AI could do. Yeah.
+## Moderator | 
+If you think about that, at least, like, I don't know if you had it, but, like, when ChatGPT came out, there was this horror scenarios 'cause ChatGPT can do your taxes, you know, and then everyone's like, "Okay, well, I don't need TurboTax anymore," etc.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Moderator | 
+How, like, talk a little bit about the journey that you kind of experienced in the discussion internally, but, like, also, like, in terms of how you wanna position yourself then.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. So at the core, you know, we declared being an AI-driven platform.
+## Moderator | 
+Mm-hmm.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+human platform, about seven years ago, so we've adopted AI.
+## Moderator | 
+Wow.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Very, very early on.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+In that transformation and believed that it could transform our experiences. ChatGPT and other LLMs came onto the scene and drove a lot of traffic, a lot of engagement with customers, but doing taxes, managing books, accounting, payroll, all the things that we do, it's not just about general questions and answers. Data is incredibly important. Security, accuracy, and confidence are all things that are incredibly important that Intuit has built into both the consumer platform and our technology platform so what we view with a ChatGPT, and we've already, we just announced our OpenAI agreement, is we need to go where customers are and what we love about what's happening there is obviously 800 million weekly active users, but it's a way to interact with a customer and get them into the right products that are best served for them, whether it's TurboTax, Credit Karma, or QuickBooks.
+That's what we view as the future as an opportunity, and less of a threat, and much more about meeting customers where they are, and helping them get the answers they need and then getting them into our products and solving their problems.
+## Moderator | 
+Yeah. Was there, I mean, did you see it in the change in the ecosystem as well? If I think about the tax consultants, etc., did they kind of.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Moderator | 
+Or come down as well, or were they always, like.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+You know, I think there's always, like, in every transformation, I could tell you, in terms of, like, the tax professional.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+You know, when we launched TurboTax Live eight years ago, one of the big fears that our experts had, our tax pros, was video.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And that was a big hurdle. And so there's changes is my point is very common, and you have to manage through it. We have about 13,000 tax pros on our platform. They absolutely love it. They're a little bit afraid at first.
+## Moderator | 
+Mm-hmm.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+But they're much more worried about, "Am I able to do my job effectively a+nd drive the accuracy for my customer?
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And so that's kind of the basis of their concern. And once we showed the capabilities and once we started doing and removing mundane tax tasks and actually enabling them to serve customers, which is what they really love to do, and solve those problems and drive confidence for those customers, they've really adopted AI. And we really don't see that as a challenge within our platform anymore.
+## Moderator | 
+Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+They're kind of over the change curve on that and actually see the benefit.
+## Moderator | 
+And then as part of that, like, let's talk a little bit about, you know, TurboTax, you know, we wanna do assisted. We're kind of moving.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Mm-hmm.
+## Moderator | 
+In a way, upmarket. There seems to be, like, a huge opportunity because there's still so many people that are kind of doing that. Like, talk a little bit about the evolution of your capabilities and where you are on that journey.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. So yeah, there are about 88 million Americans that still file their taxes through what we call the assisted category.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+So it's a huge, huge market. It's about a $37 billion TAM. So it's, it's an enormous opportunity for us. The technology investments that we made starting seven, eight years ago in TurboTax Live have only gotten better and much more advanced, which enables us to serve more customers. That's the way we see it.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+So it started with, I had talked about video. It started with being able to work from home and virtually. That all enabled us to start to scale. But AI, and generative AI in particular has accelerated our opportunities to serve those customers and move upmarket.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+because our experts are no longer doing things that consume the time away from a consumer or away from a customer and actually empowers them to serve more and more customers because that work is being done for them.
+## Moderator | 
+Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And so that's how we start to think about it. It also allowed us to branch into new types of services that we launched two years ago, but really last year was our first GA year: business tax. And small businesses and helping serve them because we could start to build a product using AI that was focused on our customers' behalf. AI is transformative for us in many ways, certainly in the product experience and our expert experience. But our developers are 40% more efficient with AI, right? So that enabled us to go build a Biztax platform, which would've taken us a long time before.
+## Moderator | 
+Yeah. Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+But because of how our developers are aided by AI and much more efficient, we could build faster. On a customer success side, as an example, we see this year about $135 million of efficiency opportunities. And that efficiency translates into our ability to serve more customers. Right? So it's very powerful for us across the board, customers, experiences, and our internal operations.
+## Moderator | 
+What is the one of the messages that came from you guys for a long, long time on tax was that too many dropouts, like people started it, they didn't get comfortable?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Mm-hmm.
+## Moderator | 
+And then kind of dropped out, went to the tax guys then afterwards. Like, how is Gen AI in theory helping that? There should be the ability to do a lot more handholding while you interact with ChatGPT at the moment. Like, there's a lot of, like, handholding capabilities. Like, is that one of the factors that you kind of consider in terms of, like, changing that conversion rate?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. Absolutely, and I like the handholding term. It really is, as I had mentioned earlier, TurboTax was a very linear interview process that required everybody to go through hundreds of questions, and that's where you saw a bunch of fatigue, right?
+## Moderator | 
+Mm-hmm.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Because many of the questions didn't really apply to you as an individual, and what we've built now is an AI-driven experience that uses data.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+to actually personalize that experience and only offer up the questions that are relevant to you, which shortens the time for you to actually complete your taxes. We saw a 12% reduction last year in tax prep, and we expect further refinements in that. That creates confidence, and then what it also enables us to do is infuse Human Intelligence. You know, we talk about AI and HI.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And that has been infused into our product, which really helps with the confidence factor of getting the most refund or paying the absolute required payments that you have to make if you owe money. So it's very, very important, the combination of AI plus HI.
+## Moderator | 
+Yeah. And then where do you see that market in a way ultimately play out? Like, is there a certain limit how much of a tax return you can do, and at some point it just gets too complex, or is now, like, the ability is there? In theory, everything is just that inertia on the consumer side that is these two ends of.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. In terms of being able to do it.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Driven through AI. We believe, so AI for us.
+## Moderator | 
+And assisted, yeah. AI for the, yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. It's the combination of the two, AI plus HI, but also within our HI capabilities, generative AI is a component, right? LLMs are a component of our offering, or our ability to deliver. But we also have advanced machine learning.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+In there as well, which is really also helping us drive breakthrough, and so when you look at our products next year, it'll be 90% enabled by HI, and then once, and but it's less about doing your taxes in that way. That's a great confidence builder for customers. It's also the knowledge that you have a human that can help you answer that last-mile question or give you that last-mile of confidence that you're doing everything right and you're maximizing your return.
+## Moderator | 
+Yeah. Yeah. Yeah. I mean, and how do you think the, I'm kind of leading to that.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Moderator | 
+Famous question from the analyst of the long-term ambition of 20%.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Mm-hmm.
+## Moderator | 
+You're a part of that. You're a part of the organization. If you think about that, like, if you like doing more assisted drive growth, you know, like, you know, you get more people in there, you know, and potentially at a higher price point. How do you think about that trajectory in terms of how you can kind of do that from a timing perspective? Like, you know, is this kind of like a gradual uplift? Do you think, like, you know, a little bit this year and then step changes because more and more people get comfortable? How do you think about that?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. Certainly the 20% is an aspirational target.
+## Moderator | 
+I know. Yeah. Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Internally and.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+It's meant to motivate us. What we do believe is that by focusing on the consumer problems or the small business problems, we have an opportunity to get to a 20% growth company. And with the advent of and the emergence of generative AI plus our Human intelligence, we have an opportunity to solve more of those problems more frequently. So we have an incredible consumer platform that goes well beyond taxes now. Credit Karma helps customers manage their credit. It helps them get the best loan. It helps them save money. So that flywheel within that consumer platform allows us to be a much more relevant part of our consumers' lives every single day, which then gives us opportunities to serve them and drive towards that 20% growth in the consumer platform.
+The same thing can be said for our business platform as well.
+## Moderator | 
+Yeah. That's their challenge too. Yeah, yeah, yeah. It is how you're.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Moderator | 
+Talking a little bit about the different groups. So on our side, we all focus on, like, okay, we have a big assisted category. You guys move upmarket, more cons more customers there that you can deal with that you never dealt with at the higher price point. Thank you very much. But the lower end is still kind of important because it's the younger generation often come like that, the top of the funnel. Talk a little bit about what you're seeing there in terms of trends.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. So certainly, digital native mobile is at the forefront of our Gen Z strategy. We're also very aware of price sensitivities there. So we've launched breakthrough offers like our mobile app offer that is a free offer for new customers to file their taxes for free. But it's also what we see is that Gen Z in particular has a real desire and still has confidence issues and likes to engage with our expert system, and so we're trying to make that much more accessible to them through our mobile experiences. We're decomposing our services, meeting them where they are with their questions, so that they can file confidently. Many of them are new, right, the first-time filers.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And so it's a very daunting experience because there's a lot of fear associated with that. For many of them, most of them, it's a very large refund. And so they want access to that. So we also look at how can we provide value-added services that are meaningful to them. Things like fast access to money or five days early product was very popular because they no matter what they want their money as fast as possible. And so that's how we think about addressing that category.
+We also believe that within Credit Karma and the 140 million member base that we have there, it's a large population to be able to help because as they're engaging with Credit Karma to get credit cards or get personal loans, it's a natural extension at this time of year for them to come in and start to do taxes.
+## Moderator | 
+Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And we're making that very easy for them to do that.
+## Moderator | 
+And then, have you seen any change in terms of who you're kind of seeing there? It looks you used to, you know, it's, you know, the classic H&R Block that was always there, TaxAct. It's like, do you see any changes in terms of someone new coming up, or is there the world changing there?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. So what we do see is they love mobile.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+They expect everything to be.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+On their mobile device. They embrace these new ways of engaging with our experts, right? So we're not a traditional assisted. We have a lot of capabilities that are natively embedded in their app. So the app plays a huge part of attracting that customer base.
+## Moderator | 
+Yeah. Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And then we do know that they're also heavily engaged in OpenAI and ChatGPTs. And so we need to be in those categories and helping answer their questions as they're asking them in those LLMs as well. And we're very excited about what we're doing with OpenAI over the coming month here to embed our experiences for the ChatGPT users.
+## Moderator | 
+Yeah. Yeah. Okay. Perfect. And then moving on a little bit, Credit Karma, it was more cyclical than we initially kind of thought. Now it looks like we're kind of coming out the other end. Like, can you talk a little bit about your learnings from, you know, when you started to own the asset to kind of now, your learnings and how that's kind of influencing what you want to do with it going forward?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. This is where we believe there's just an incredible opportunity to help customers make more personal finance decisions daily.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Our focus right now is really how do we drive that engagement on a daily basis with our Credit Karma members? We're deploying a fleet of agents that we're calling assistants starting with like a refund assistant. You know, you get a.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+A $4,000 check through tax. What do you do with it, right? What do you do with that money? And what's the best application for it? So our refund assistant will know what kind of what's your debt portfolio, right? 57% of Credit Karma members have revolving debt. So we can help them make better financial decisions based on that moment in time.
+## Moderator | 
+Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+That they get that big refund, maybe pay off some of that debt, maybe rotate it into something that's more advantageous for them. How do you set up high-yield savings and really start to get them on a journey of financial health, right? We also have the debt assistant that'll be constantly working in the background for our members, and surface opportunities for them to make better debt decisions on a year-round basis. We have Credit Spark. Credit is a huge problem for Gen Z, right?
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Not a problem, but it's a.
+## Moderator | 
+Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+They're new to it. So Credit Spark is an agent that we're deploying, that will look at where their spending habits are and make recommendations and for them to leverage, like, things like utilities or rent and to improving their credit score real-time. That will be very powerful for them as they start their financial journey.
+## Moderator | 
+Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+That's how we think about Credit Karma. It's an incredible platform that has 43 million monthly active users, and that just gives us an incredible opportunity to engage every day in those everyday decisions that members have to make.
+## Moderator | 
+What can you do there on the product side or the offering side to kind of maybe remove some of the cyclicality? Remember we kind of started with like 25% plus growth, then we went kind of.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. I remember.
+## Moderator | 
+And we went down. Now we're coming back up again. Like, is there anything to way to smooth it out, or is that kind of something that we kind of need to appreciate it?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Moderator | 
+This is what it is. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. No. It's a great question. So one, there is experience, and that's really solving more problems for customers, right, and members, right? So that's all the agent work that we're doing, that I had talked about. And that's all based on the data that we have on customers, and them, and their connected accounts. And that allows us to spread our risks. Many years ago, we were largely a credit card business. Now we've expanded verticals as well, right? We've got personal loans that's growing.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Significantly. We've got insurance. We've got new markets and new opportunities in other areas like home, and we have Credit Karma Money that we need to invest in. That's a daily app. So there's also an expansion of the services that we can offer for customers.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+and that will spread out risk and also enable us to, in good times, right, in good macro times or maybe bad macro times, be able to offer the financial advice that they need, and take action against. And that's really the promise that we see within the Credit Karma platform.
+## Moderator | 
+Yeah. Yeah. And then, is there, if you think about Credit Karma connects to TurboTax, if you think about it, also go to the other side of QuickBooks, like, how is that connection? Is there like.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Oh, quick.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. There is a cohort of small businesses within Credit Karma that we can offer business loans to for sure.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And that's actively worked. But what we're really excited is with our business tax offering, right? Because that job to be done taxes for a small business is very difficult and can be very impactful to the operations of their business. And so we deployed Biztax last year at scale, and we were very excited about the breakthrough that we got there. What we have an opportunity to do is that moment in time that they're filing their taxes is to start to establish a relationship with them through QuickBooks.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+On a year-round basis, and there's a lot of opportunity because not all of our customers are already QuickBooks customers that are coming in. That allows us to then really get them into a QuickBooks product that's right for them that helps them manage their finances year-round versus coming to us with a spreadsheet and saying, "What do I do? How do I file my taxes?
+## Moderator | 
+Yeah. Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+and so that's another flywheel, if you will, within the broader Intuit ecosystem that we're really excited about.
+## Moderator | 
+Yeah. Okay. In the last few minutes I want to spend, like, as we're moving closer towards the tax season now, we're in December.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Moderator | 
+Like, you talked a little bit about making your onboarding easier. Like, how do you think about the new tax season if you kind of plan it out? Like, is it kind of what I learned last time around, like try to change it, or like how does that process work for you?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. So, there was a lot that we learned through last tax season that carries forward into this year.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And there's a lot more new innovation that we're deploying. So we're very excited about this tax season. One, we have been deeply embedded within Credit Karma, and those monthly interactions are helping us smooth that onboarding experience and really make it much more natural to go from Credit Karma.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+To TurboTax. Data experiences. The other is, we're going big with our local presence, right? We're opening up 600 service centers, 20 retail stores, roughly 20, and one flagship. And what that does is it unlocks the whole category of customers that are interested in someone doing their taxes that's close to them. And when we did that last year, and we did it towards the tail end of last year, we saw a 5X engagement rate with our experts. And so we've really refined and built some incredible new innovation that's going to allow us to meet those customers in the communities that they're in, with the best expert network that's out there in the industry.
+## Moderator | 
+Yeah. What's the, I mean, the counter argument with that is like you're rebuilding what was there before. Like, what's different about this local versus.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+One is our brand.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Our brand is super powerful. Two is that we're a technology-first view, so in our platform, and so you don't have to come in with papers. You don't have to come in with anything. You just show up.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And then we can engage with you, and then we connect all your accounts, and that's when the magic happens. And it's much faster.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Right? So that we really focus on an experience. Our price points are very attractive for our full service.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+and then you get fast access to money, right? Again, it all comes down to the money and how fast can I get it into my account for a vast majority of Americans.
+## Moderator | 
+Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+and that's where we're really uniquely positioned over any other service. And then now with Credit Karma, we can take that refund and make it go much further, right? And so that's the last, you know, the last.
+## Moderator | 
+Yeah. Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+step, that keeps us engaged, and they come back to us yearly.
+## Moderator | 
+Yeah. Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And with it, you know, the 5X engagement was a massive breakthrough for us because it was within a 50-mile radius, right, of an expert. We're like, "Okay. That means a lot," right?
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Being local means a lot to consumers, and so we're doubling down on that.
+## Moderator | 
+Yeah. Yeah. That's a kind of, yeah, that's after all these years, there's a new learning, yeah?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. Yeah. Yeah.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+That's, that's what's fun about experimenting.
+## Moderator | 
+Yeah. Yeah. Yeah. No. Okay. That's interesting. Then last question for me, so there's the growth and you kind of guide for that. There's also then the profitability envelope that you have to kind of achieve those things. Like.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Mm-hmm.
+## Moderator | 
+Talk a little bit about that dynamic of growth versus margins that, you know, you have to live with.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. We manage at a portfolio level, right? We have many different ways that customers monetize with us, and that gives us a lot of flexibility to lean in.
+## Moderator | 
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+And look at it at a portfolio level. It is something that, you know, we as a team and the consumer group, and I know they do in the business team as well, look at every day and how do we make those investments and how do we model those investments that may show monetization somewhere else.
+## Moderator | 
+Yeah. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+but we get engaged a customer is really what we need to stay focused on.
+## Moderator | 
+Yeah. Yeah. Yeah. Yeah. Okay. Perfect. Same, that's a good closing statement, actually.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Okay.
+## Moderator | 
+Perfect. Thank you, Mark.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Thank you.
+## Moderator | 
+I really enjoyed our conversation.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Thank you.
+## Moderator | 
+Thank you.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Thanks.
+## Moderator | 
+Thank you.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+All right. Thanks. Appreciate it.
+Data Source: Quartr Last updated: Dec 10, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

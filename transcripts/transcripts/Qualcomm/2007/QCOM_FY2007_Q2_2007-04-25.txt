@@ -1,0 +1,7 @@
+Company: Qualcomm
+ROIC Symbol: QCOM
+ROIC Name: QUALCOMM Incorporated
+Year: 2007
+Quarter: 2
+Date: 2007-04-25 16:45:00
+Executives

@@ -1,0 +1,297 @@
+TITLE: Bank of America Global Technology Conference 2025
+DATE: 2025-06-03
+## Speaker 2 | 
+All right. Good morning. What a great way to start our conference with Nikesh. I know he's going to kill me now, so.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Why would I do that?
+## Speaker 2 | 
+From you, I know after that it's easy.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+I will not kill you.
+## Speaker 2 | 
+I'm very happy to host Nikesh. I preparedâwe have about 30 minutes. I prepared the list of questions. We're going to goâI wanted to start with something more recent rather than the regular kind of "tell me what you do." If you have any questions at the end, we have the microphone, as always. Like every year, we have the microphone around. Thank you, first of all. Good morning. I want to startâI want to start with the word "platformization." I want to understand what is platformization for you and how is it different than, let's say, Microsoft using the word "platform," like the word "platform." What does it mean for you and what does it mean for others?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+You should bring the guy before me back, Matt. He works in Microsoft, right? Maybe he can tell us their version. I tell you mine, you should ask him about his.
+## Speaker 2 | 
+I'll ask you about other companies then.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Look, if you go back historically and think about any functional space, whether it's CRM or you think about ITSM or workflow management, over time, what has happened is multiple applications converged into a set of applications that shared data and talked to each other. You know, I worked at Fidelity when I started my career. I used to be in IT, and we had 26 apps, which hadâwe had master tables, and we had secondary tables, and everybody had their own tables. We all wrote our own software, and you try to get stuff to come together. Today, you know, you don't buy four CRMs. You buy one Salesforce, one system of record in the back. You have a bunch of applications sitting on top because that's what you need to run an efficient organization. I think if you look at cybersecurity, it's the newest area of technology.
+It came about after connectivity from a software infrastructure perspective. In that context, the industry lacks this backbone system of record integration converged "platform." Our view is instead of going and selling individual products, these products which need to work together after you put in a platform together. We can talk about various examples, but we have two fundamental platforms. One, which we call our network security platform, which effectively secures the perimeter, whether it's sort of hardware firewalls, software firewalls, now AI firewalls, or SASE or browsers. The other one we call is our Cortex platform, which is effectively the data-oriented cybersecurity platform, which allows you to use all of the data in the enterprise and be able to protect against bad actors. I don't know what Microsoft's platform means.
+## Speaker 2 | 
+The question is, you made a lot of acquisitions in the space. Is platformization at the end of the day today, is it about the way you convince customers to consume more than one platform?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yeah, one product.
+## Speaker 2 | 
+Is it about technology synergy between the products, or is it more about pricing, bundling, and pricing mechanisms?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+The former, not the latter.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+The latter is a consequence of it, perhaps. Take the instance, like let's take a company which started off with a data center. You'd buy a hardware firewall. You could buy it from Ken, who I just saw in the hallway. You could buy it from us. You could buy it from Cisco, Check Point. You decide you're going to go to Google Cloud. You could buy a software firewall. You could buy it from Google. You could buy it from Palo Alto. You could buy it from wherever you want. You say, "I want to do SASE." You can get Jay Chaudhry to give you SASE or get Schlumberger to give you SASE from Kator, Sanjay from Netskope. They got SASE, you got hardware firewalls, you got software firewalls. You say, "I need a browser.
+Let me go to Island. What happens is this assumes that's your enterprise. You know this as well as I do, Tal. You'd have a set of policies you'll have to set up for the browser with Island. You'll have a set of policies you'll have to set up with Fortinet. You'll have a set of policies you'll have to set up with Zscaler. You'll have a set of policies that you'll have to set up with Google Cloud. Imagine we set the policy once and have it perpetrate all four use cases.
+## Speaker 2 | 
+Mm-hmm.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+A platform will allow you to do that. A set of point products you'll have to be buying from four different companies. Now, you have one policy pin, you have less errors. Not just that. When you put one policy point together, your data is talking to each other, which means if you ever want to use this wonderful thing I've learned recently called AI, it needs some consistency in the underlying data. You have to have that data be consistent across all those four capabilities. To me, platformization is a convergence of those point products into a single set of solutions over time.
+## Speaker 2 | 
+Yeah. Where are you on the integration of all the acquisitions into this kind of journey?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+You know, there is a fallacy that we bought 20 companies. We must be a raggedy muffin collection of products, which is kind of not true because our hardware firewalls, software firewalls, SASE is pretty much devoid of most acquisitions. That entire network security platform has about three acquisitions in there, which we have integrated over the last many years. A lot of our acquisitions concentrated on the cloud side, which we have just rewritten, which we talked about in the last earnings call. We used to have a bunch of raggedy products that connected together. We have rewritten the entire Prisma Cloud backend on Cortex in our data platform, which is about nine acquisitions being collected. So nine there, three here. Expanse is different. Unit 42 is different. So a bunch of stuff are still standalone, which work independently of these platforms.
+We're pretty close to being connected. The only one we haven't fullyâwe're like 85% there on the browser, and we are zero on Protect or AI, which we haven't closed yet.
+## Speaker 2 | 
+Yeah. You changed the name. I mean, there is a strategy behind it, but you changed the name from Prisma Cloud to Cortex, right? To, whyâphilosophically, why was it important to take Cortex, which was more towards the endpoint, and take cloud security, which was more towards the cloud, and put them together?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+What we've discovered is either your perimeter products in the network security space or your products that leverage a lot of data to solve the security problem. TakeâI'll give you an example. Take email security, right? Email security has traditionally been something that inline and it checks your email, looks at your email, says, "Am I being sent to the wrong internet address or the wrong URL?" It stops you. If you go past it, if you click on that URL, your email security product is done. You're gone. You have no visibility as to where you clicked, where you went to, whether it stole your credentials or it allowed you to connect to your next AWS server. Now, funnily enough, we collect all that data in our SIEM in Cortex.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+We can actually look at after you went through the email security, you sort of missed the bad URL. You clicked on it. We know you hit the firewall. We know from the firewall you went somewhere else. We know from there where you went because we have all the data. We just launched a new email security product, which does all the hard problems that email security products do not solve. You realize once you collect all this enterprise data, you can do a lot more security, which over time lends itself to real time because you have all the data in the same place. In that context, you know, it was important that all the cloud data be resident in the same place as the enterprise data was. We had to rewrite the whole thing. It is very exciting.
+It's exciting because I think, it allows us to converge our real-time security capabilities, not just with the enterprise, but also with the cloud.
+## Speaker 2 | 
+Yeah. Did you have to change your go-to-market, or how did you have to evolve your go-to-market when you started implementing platformization? Is it the same buyer, for example, for variousâ
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yeah. Yeah. Look, I have many examples where when a customer is a Palo Alto hardware firewall customer or a Palo Alto software firewall customer, that they see the natural gravitational pull to buy SASE from us or vice versa. They land a SASE. It's sort of our net new customers, network security, our SASE customers. Over time, we get them to evolve into hardware and software. We are seeing the benefits of a land with a certain part of the platform and expand the rest of the platform. I think it's hard work and grindy right now, but to me, it's abundantly obvious that in five years from now, when you're sitting here or somebody else is sitting here, you'll look back and say, "That made a lot of sense.
+## Speaker 2 | 
+Five years, I'm still going to be here.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Oh, I know what I need to say. It's a long time.
+## Speaker 2 | 
+Got it. But I asked you, is itâis it, by the way, the same buyer, for example, for Cortex and for network security, or are you going afterâ
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+It depends. Eventually, the CEO's the buyer, the CIO's the buyer, the CTO's the buyer, the VCO's the buyer. Yes, as deals get larger. I'll give you an example. Last quarter, we announced a $90 million deal.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Which you did across both platforms. The CIO was involved. There's no way you're doing a $90 million deal with a company with the CIO not paying attention.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Even the CEO knows that the deal's getting done. As deal sizes increase, everybody knows in the organization where it's happening.
+## Speaker 2 | 
+Got it. You also started to cooperate more with system integrators. What'sâwhat's behind it?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+If you look at what's going on right now, many companies, funnily enough, are accelerating their cloud migration because they've discovered if you're not in the cloud, it's harder to deploy OpenAI or Gemini or LlaMA, whatever have you. They're all busy trying to chase the cloud transformation. The cloud transformation, the AI transformation, the network transformation, a lot of these are complex transformations which are now being fronted or led by system integrators. You hire an Accenture, Deloitte, PricewaterhouseCoopers, British Telecom. All these people are actually sitting with the CIOs, planning how to take them from point where they are today to where they need to be in the future.
+It is very important that the systems integrators understand our strategy, understand the capabilities, understand how much we can offload from what they have to do if they actually use a consistent set of products. You know, as you would expect, we have partnered with all of them and are working hard to make sure that they understand our portfolio so they can help us implement it.
+## Speaker 2 | 
+Got it. Does it have any margin implications for you, by the way, or no? It is allâ
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+No.
+## Speaker 2 | 
+Labor work is offloaded basically to system integrators.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Look, for the most part, we are a product company primarily. We have a small services business like many of our peers in the industry because that allows us to make sure we're doing it right. We're learning from it. We have a small services business. We'll maintain the services business. The idea is to make sure these third-party partners, the system integrators or MSSPs or, you know, telecom companies, they do a good job implementing with us.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+They get the service business, they get the consulting business, we get the product business.
+## Speaker 2 | 
+Got it. Okay. I want to talk to you about, like, one question that we ask all the companies that are here about current spending environment. You made some comments that April was tougher and then, things went back to normal.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+It depends what normal is, yes.
+## Speaker 2 | 
+Yes. So that's exactly.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Every week, the normal changes.
+## Speaker 2 | 
+Yes.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+We're going to put tariffs in Europe. We're not going to put tariffs in Europe. We're going to put tariffs in China.
+## Speaker 2 | 
+Where are we in terms of spending environment?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+You know, when you see something out of the normal happen, every sort of deer in the headlights, "Holy shit, what do I do now?" When the original tariff conversation came out, we all went deer in the headlights. "Holy shit, what happens now?" The stock market moved and everything moved. Now it's like, every morning we go, "Oh shit, there's another piece of news about tariffs. The market keeps doing its thing." Do not underestimate how many CEOs, how many CFOs get knee-jerked by the market, right? You see the market go down 10%. You see that, "Oh my God, this must be true. If the tariffs come, the market's down 10%.
+I'm going to have to pay, you know, $20 for my, you know, thing I was going to pay five bucks at Walmart for." Everybody goes into this mode of, "Holy shit, what's going to happen?" Honestly, at that point in time, I was with a bunch of retail CEOs the week after the tariffs. I said, "Oh, we got a big deal with you guys." He's like, "Actually, we're trying to figure out how many Christmas trees to order because the price of Christmas trees is determined this week, and the amount of Christmas trees are going to ship. We have to order now, four months in advance." They are more busy figuring out what the price of Christmas trees is going to be in October and November than buying Palo Alto Networks cybersecurity. Obviously, the bogey changed in people's heads.
+All of that stuff has kind of normalized. People are sort of business as usual now. I do not know how all the tariff stuff is going to manifest itself in the second half of this year in terms of the macroeconomic conditions, but the initial shock is out of the system.
+## Speaker 2 | 
+Got it.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+People still need to go do their AI thing. They still need to go do their, you know, transformation thing.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Margin.
+## Speaker 2 | 
+That takes me to AI. You announced Prisma AIRS, AI security platform. Elaborate onâI'll ask you like I ask startups. What is the problem you're trying to solve? Meaning, what is the solution? What's the position for it in the market and why?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Right. As all of us have seen this beautiful AI expression, whether it's a ChatGPT expression or a VO3 expression, make a video, we all understand the answers in a consumer context, right? When it gets to a professional context, our desire for accuracy is higher, right? You can go to deep research from Gemini or Google and go ask it to produce a research report on Palo Alto , but it'll pale in comparison to Tal Liani's report on Palo Alto , which I have a few suggestions for that we'll talk about later, but not that understanding. What it is, our desire for accuracy is way higher in the enterprise world than that you're seeing on the consumer side from an AI perspective. Every enterprise company is busy trying to understand how to deploy AI.
+The first thing you have to do to deploy AI is either use a packaged software from the outside, there are legal lawyers using Harvey.ai, or you could be using ChatGPT, or you build your own. Now, if you think about it, I think AI will end up in the same proportion as we use SaaS software versus self-developed software in companies in terms of how much we use our own, how much we take from the shelf. If you believe that, you have to make sure that whatever SaaS software you're using, or in this is going to be called AI as a service, whatever AI as a service software you use is equally secure in enterprise. We're not sending our corporate documents into it. We're not getting data stolen.
+We're not getting, you know, we don't have a large drug discovery AI software being trained by every company's proprietary data. You don't want that. There are a lot of requirements in enterprises to deploy AI in such a way that data doesn't escape because that's kind of the intellectual property. There are a lot of requirements that, you know, you can't hijack my AI. There are, you know, it'sâso I'll tell you this. The most fundamental difference between AI behavior and SaaS behavior. SaaS software delivers a predictable outcome. You ask a question to a SaaS app, it does the same thing at 7:00 A.M. in the morning, at 9:00 P.M. in the night. Today, tomorrow, it does the same thing every day. You have Salesforce, Workday, ServiceNow. You pick your SaaS application, do the same thing. AI is fundamentally different because you're constantly training.
+You expect as your LLM gets trained, your application gets trained, it's going to give you a better answer, which means it is no longer a predictable answer. Now, it's very hard to understand the difference between a better answer and a not a better answer, but we know that if the output constantly changes, you have to test it for security on a constant basis. Right? What do you say? "Hey, what's the formula for X?" And it says, "Click on this link." The link is a malware link. You have no idea whether that link is accurate or not. Yesterday it wasn't doing it. Today it's doing it. In the AI security world, you have to constantly bash your AI deployment to check that it's not creating a security risk. There is something called persistent red teaming.
+You have to persistently bash against your application to make sure they're not hacked by somebody else. That's the capability we bought to protect our AI. That's kind of one of the underpinnings of what we're doing with Prisma AIRS, which is AI runtime security. When you deploy AI, you can deploy it safely by putting a security envelope around it.
+## Speaker 2 | 
+Isâare we there in terms ofâI understand the need. I understand why you're doing it, what you're doing, but are we there in terms of willingness of enterprises to look at it, to invest in it, to buy it?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+You know, I was reading this wonderful deck from Mary Baker, who used to be at Morgan Stanley. I think it's about this 300-page deck on AI. I saw some of the AI stalwarts on the weekend, and I found out that the use of, you know, Gemini tokens of 50X in the last one year. Somebody's using it.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+It's probably being used in apps like coding assistants for now, or it's being used inâit's going to get used in a bunch of creative use cases. You're beginning to see the usage. Now, if a coding assistant becomes popular, every enterprise deploys a coding assistant against it. It needs to be deployed securely. You can't just have any coding assistant. At Palo Alto , you have to go through 17 hoops before you can deploy a coding agent to help you because we're scared we don't have security software. If our software gets exposed to the public world, they figure out how it works or where the flaws are, they can use it to reverse engineer us. There are a lot of security requirements as you start using the LLM.
+I don't know, I don't know in the short term out of here there or not, but I know that the current state of AI is the worst it's ever going to be. It's only going to get better. And, you know, I remember my first brick phone. It used to be in my car. I had to put a charger into it, and it cost $2.99 a minute. You told me that was the state of technology if we weren't there. But today, you can't leave home without those things, right? If you imagine five years out, what is going to be the state of AI? It's going to be a very different world. In that scenario, who is going to be there? We have to be constantly paranoid in our business that we've got to protect for something we don't understand fully yet.
+## Speaker 2 | 
+Right. Could itâis Prisma AIRS, is it part ofâis it a feature on your other solutions, or is it a product standalone? Meaning, will we be able to measure it in the future, or is it going to be just integrated into other solutions?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+No, it'll be measurable by itself.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Like you said, look, there's a lot of people evaluating AI, but if you can ask all your companies to come here and say, "How much AI are you using internally?" the answer is going to be, "We're still experimenting," or "We have one project, we have five projects." We're using 37 models at Palo Alto. Thirty-seven, right? Half of them are experimentation. That's, again, a stark departure from the notion that enterprise is going to use one. We're not just using OpenAI. We're not using Gemini. We're using 37 different models. When you use 37 different models, you need to make sure they're all secure. Suddenly, your security attack surface is increased. If I was using one, you know, Google can help me protect Gemini or Sam Altman can help me protect OpenAI.
+If I'm using 37, it's my job to make sure I'm protecting these all 37 models being hijacked.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+You know, we made this bet seven years ago that we didn't think most customers are going to be on a single cloud, which has turned out to be true. If you look at any company, they're on two or three clouds. I think the same thing. You're going to be using so many different models that you have to find a way to protect against them.
+## Speaker 2 | 
+Yeah. As you speak, I haveâI ask myself, take for example the bank I work for. Publicly, they said that they have 300 security solutions. You are talking aboutâ
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+You guys have too many.
+## Speaker 2 | 
+Right. But you're talking about a platform that has a pricing advantage, has a technology advantage. What needs to happen? Maybe it's already happening. What needs to happen from enterprises to abandon this issue of best of breed and optimize each domain separately and migrate more to a platform approach? Because anything we're going to touch on, XSIAM, Cortex, and AI, there are benefits of having a platform. Forget the price. There are technical benefits of having a single platform. What needs to happen in the market for the market to migrate from the historical deployment of point solutions to a single vendor that is going to provide you? I'm taking it to extreme. It's not going to be this way.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yeah, yeah.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Look, it's happening. The problem is we're sitting on a trillion dollars of security plant. It's unamortized. People bought this over the last 10 years. It's notâit's a trillion dollars of security spent in the last 10 years, which is in production being used right now, which is a large mesh of all these things you talked about.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Getting that sorted out, understanding the renewal cycle of those, understanding the replacement cycle of those. Look, the easiest thing to do is to do nothing, right? It's working. Why mess with it? I don't understand the tangible benefit of security. Of course, the day you get breached or hacked, you understand the tangible benefits of notâor the tangible downside of not having security. That kind of becomes the holy grail for all of us. We all rush to that place and say, "Can I help you transform the whole thing?" That works. Normally, if I walked up to a CIO and said, "Do you want to replace this entire backbone?" He's going to say, "Dude, I got to go to AI. I'm busy. I got to do cloud.
+I'm busy." The natural inertia of technology organizations is to not fix what's broken until you get to an inflection point where it's so bad that you look silly by not changing it.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Look atâand you know thisâlike, look at the endpoint industry, right? For a long time, you did not have to replace Symantec and McAfee. It was great. Eventually, it is a hell of a shift. You cannot be using Symantec and McAfee. You got to get off that, whether it is, you know, Broadcom buying Symantec or whether it is McAfee going through three private equity cycles. Eventually, everybody moved from there to CrowdStrike or Microsoft or Carbon Black, or you have yourâpick your favorite XDR vendor.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+The industry inflects and transitions. At that transition point, you have to figure out how to find a platform solution because that provides the incentive to migrate. Take XSIAM for us. You know, SIEM was not inflecting five years ago. We started building five years ago.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Today, SIEM is inflecting. Every company either has a SIEM replacement or migration plan project started or about to start in the next 12 to 24 months. Now, we should use that opportunity to inflect and replace. Like today, on average, when you deploy XSIAM, we replace four to seven vendors. It's a good start.
+## Speaker 2 | 
+Yeah. Last question on AIRS, or maybe one and a half questions. There is security of AI.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yeah.
+## Speaker 2 | 
+There is AI being used for security.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yes.
+## Speaker 2 | 
+What problem are you solving with this solution? Both or one of them?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+No, AIRS is fundamentally to help organizations deploy AI securely. If you want to deploy your own AI in your own company, use Prisma AIRS, and it puts a wrapper around it and protects you.
+## Speaker 2 | 
+Got it.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Your data does not get stolen, your models do not get hijacked, people do not inject prompts. There are all kinds of fun examples.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Like examples like, you know, all of you are in San Francisco. Some of you might try Waymo outside. That's an AI model teaching or telling the car when to turn, when to stop, when to brake, where to drop you off. If somebody was able to crack the security of that car, how do you feel about that? Now, if you take that analogy and apply that to every agent you want to run your enterprise and protect every agent from being hijacked or being taken over by bad actors, that's what needs to be protected. That's what Prisma AIRS will do.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Using AI for security is a different problem. For that, you need a lot of good data. Our biggest challenge in the security industry is we have a lot of data, but not a lot of good data.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+That is why I said to you, the SIEM industry is inflecting because that's where the data was supposed to be. The old models were charged so much money to ingest data that there was a natural disincentive to collect a lot of data. If you, you know, look at the traditional companies, I won't take names, but who were in the SIEM business, the number one gripes you always had, "Oh, it costs too much money, and there's a lot of data, and I have to pay a lot to ingest the data." They created a natural disincentive. We flipped that on its head. Today, we collect anywhere from 70-100 terabytes per customer of data at the right price for the same price they were ingesting half of that earlier. That allows us to deliver a better security outcome.
+## Speaker 2 | 
+Yeah. So you launched XSIAM a few years ago, grew tremendously.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Thirty months ago.
+## Speaker 2 | 
+Thirty months ago.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yeah.
+## Speaker 2 | 
+Grew tremendously. What's your differentiation? There are, when we talk to vendors, everyone tells us they have a SIEM solution.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yeah.
+## Speaker 2 | 
+Some kind of a SIEM solution.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yeah.
+## Speaker 2 | 
+What's your differentiation in the space?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+The intelligent people understand, will understand the differentiation. Look, fundamentally, SIEMs have been large data stores. People collect a lot of enterprise data and then run solutions on top, like UEBA and a bunch of workflow management to figure out how to figure out the most important security issues they have today and solve them. The problem is like playing whack-a-mole. Every morning you go to, you know, every morning you wake up, there's a new set of issues. You got to play whack-a-mole. It goes away. Our whole principle was ingest all this data, analyze it using machine learning, and use humans as a training element. We said that five years ago. Now it's becoming more real with AI, the way it's being deployed. Our intent is to eliminate everything in your security infrastructure, any issues, using some version of automation or technology or machine learning.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+I'll stay away from the word AI, but effectively, what is traditional AI or precision AI, we like to call it. That's the point of view we had. That's how we did it. The proof of the pudding is, and it's eating, we have taken, we've deployed at about 150 customers so far out of 200 plus that we've sold. The average or median time to detect and remediate has gone on average from four days to under 10 minutes across every one of the deployed customers. Every one is a case study, right? That's what we go with as our credentials. Say, you take three to four years, four days to find out what has hit your infrastructure. That's too long. Today, the fastest ransomware attack was simulated by us at 27 minutes.
+Twenty-seven minutes from start to finish, we can get into a company and take their data and leave and hold them to ransom.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+If your time to detect and fix it is four days and the time for me to get in and get it out is 27 minutes, we have a problem. You got to go below 27 minutes. We're at 10. At Palo Alto, we're at one.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+We want to take all of our customers to one. Eventually, it needs to get as close to real time as possible.
+## Speaker 2 | 
+You spoke about the expansion of XSIAM to email. What are the areas XSIAM can grow to? What can you just think about kind of your strategy for the next few years? Where would it go?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Look, in the long term, as latency continues to improve, as cost of storage continues to decline, as bandwidth continues to become, you know, more and more abundant, you have sensors which are effectively at the edge of your network or edge of edge of your solutions. Those sensors collect data.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+They have some technology or models at the edge which say, "I know this is bad. Stop it." Most security attacks happen when something is bad. You do not know it is bad. If it is bad, you know it. You stop it. This is not a prevention at the edge problem. This is a, "I did not quite understand this was bad. Hence, it got through." When it gets through, it becomes a data problem, right? Our view is that eventually there will be sensors and large streams of data running into a large analytical backbone where it is going to be analyzed on the fly. The analysis on the fly will tell you, it looked good. It was bad. I figured that out in a second. Let me go back and block any activity post that. That is the holy grail, right? That is where you want to get to.
+You want to be able to real-time stop bad things from happening and analyze them.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Otherwise, you keep fortifying the doors with more and more things to do. You'll take, like we take off our shoes at the airports, right? Every time something happens in the security industry, you have one more thing to do. No liquids. Take off your shoes. All these new rules are written because that was bad. We didn't know it was bad then. Now we know it's bad, so we protect for it. Somebody causes a new attack vector, which is no longer known. You got to take off your socks as well now. I don't know.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Try to use non-security analogies. Still learning security.
+## Speaker 2 | 
+We have two minutes left. I want to ask you one more question before I pass on the mic. QRadar you acquired IBM's QRadar SaaS assets. Can you give us just an update on the experience after the acquisition?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Look, it was great because it allowed us to partner with Microsoft and go to many of their customers and take them as this journey of migrating their SIEM and SOC. It added a tremendous sort of boost to our abilities in the SIEM space because if IBM decides that they should partner with Palo Alto and effectively allow us to manage their product for them, we've seen a lot of the, many of their large customers convert to Palo Alto . We're still in the midst of converting a lot of them as well. You could see that the migration had already begun on the customer end. They were already thinking or planning to move off the platform. We showed up at the right time. I think it's still going to go down as one of our best deals that we've done from a, this is non-traditional.
+We didn't buy product. We actually bought, I'd say, go-to-market.
+## Speaker 2 | 
+Yeah.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+In a way.
+## Speaker 2 | 
+Got it.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+So far, so good.
+## Speaker 2 | 
+Great. Is there any question from the audience? We have, yes, one here and one here. Here we go. We're going to go like one or two minutes into the.
+## Speaker 5 | 
+Okay, I'll be quick. With all of the capability that the platform is now powering, right, can startup AI security companies really gain much traction when you've penetrated the, you know, increasingly the data stack as well as the network side? Is there room for those players in the existing market?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+I'm, look, that's a good question. Look, I can't say no because if you look at the history of cybersecurity, it's always been two or three companies come from the side and become big, whether it's CrowdStrike or Zscaler or now Wiz. You will see always somebody chasing that. I will say the environment today then is very different from seven years ago. Seven years ago when I started this job, we all used to sort of stay in our swim lane and let live and let live was the philosophy. Today, you notice most, I'd say somebody said the top five cybersecurity players in the market, they're all paranoid. We're all looking to see what else can I acquire? Where else can I expand? I think somebody has bought a SIEM solution to enhance their capabilities. Somebody bought CNAPP capabilities to enhance their firewall business.
+What's happening is everybody is starting to cross over into territories which traditionally they'd left alone for somebody else. You're seeing they are getting some degree of penetration. You're seeing 2%, 4%, 5%, 10% market share in many of these categories by incumbents, which was never seen in the past. In the past, a whole new category. You take the XDR category, like McAfee and Symantec were kind of doing their thing. You saw Cylance, Carbon Black, Cybereason, CrowdStrike. There's a whole bunch of them that showed up, and all of us just watching. Nobody did anything, right? Suddenly now, that's not possible anymore. You say CNAPP, every security vendor says, "I got it." What it does is it creates commoditization. What it does is it says, everybody says, "I have the capability." Then you have to go discern which one has it.
+I think it's more competitive from that perspective. Having said that, you know.
+## Speaker 5 | 
+Scale is going to matter.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yeah, scale is going to matter, but incumbents have to be careful. You know, there's always somebody smarter, faster than you. So our job is to identify them, and hopefully they partner or sell to us. Like if Protect AI hadn't sold to me, I'd have to build that capability myself. I'd be six months behind them. The key is, can you get momentum? Can you move fast enough? Can they see the value of being part of your platform as opposed to going something and doing it? Platforms take time to consolidate. If you look at cloud security, it was the Wild West about five years ago. There was DivvyCloud, Lacework, Dome9. All these things are gone. Now you've got Wiz, you've got Palo Alto, you've got Libra, CrowdStrike on the cloud side.
+Suddenly it's beginning to consolidate into existing platforms as the industry matures from the solution set. Today in AI, we don't know what the solution set's going to look like. We're still evolving it. We said, "Oh, shit, we didn't think red teaming was important. Now we think it is important. We didn't think model scanning was important. Now we think it's important." Now there's a whole bunch of agentic AI security that needs to be built, which just doesn't exist. Can a startup show up tomorrow and say, "I do agentic AI security"? Sure.
+## Speaker 5 | 
+Thank you.
+## Speaker 3 | 
+That was it.
+## Speaker 4 | 
+Question I have was, do you allow migration?
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+Yes. Yeah, let me, since everybody may not have heard the question, he's asking the question is, just tell me what's growing really fast and what's not growing so fast, right? Is that what you said? Okay, got it. Yeah. It's easier to put that in your model. I know. I'll give you the financial answer. The financial answer is we have a portfolio, and in some quarters, some things grow a lot better than the others, but they sort of normalize over time. The way I see it is if I do this for the next five years, if we can keep compounding our business in the mid to, you know, low double-digit % points, this business doubles in five years, right? If this business doubles in five years, you decide what multiples you want to put on it.
+With the combination of the portfolio we have, we're doing, we are seeing all the right trends. We're in the hardware to software migration network security better than anybody else in the industry. You know, seven years ago, we didn't have a SASE business. Now our SASE market share, we're probably number two in SASE after Zscaler in the world. Nobody expected us to be in that space. We didn't have an XDR business. I think we're one of the top four in XDR, and we'll see what happens to one of the three players. It's Microsoft, CrowdStrike, us, and SentinelOne. I think we're slowly making inroads into categories which are important for the future. In SIEM, we didn't play until 30 months ago. Today, we're one of the three people that people consider moving into from their existing SIEM. We are catching the right trends.
+We'll see how the AI trends shows up. The whole idea of catching the right trends is to make sure that the portfolio grows at a certain % and over time allows us to platformize. The more we show up as a solution, the customer says, "I already have Palo Alto. Why do I need to go buy something else to attach to this?" Our view is land the platforms, grow the platforms. I'll give you an example. There was a customer when I joined Palo Alto whose total spend was $3 million a year on a product that was, I'm pretty sure they were ripped out, had we not refactored the product two years in. That customer went from 15 over five years to 23 over three to 70 over three. That was an upgrade mid-cycle. They're probably going to be 140, right? That's platformization.
+You go from $3 million a year to going to, you know, $30 million a year. That's the 10x over time when you keep working with the same customer and keep helping consolidate. If I can do that for a few thousand companies in the world, we can get a real business going.
+## Speaker 2 | 
+Thank you.
+## Nikesh Arora | Chairman and CEO, Palo Alto Networks
+We have to.
+## Speaker 2 | 
+All right, back to you.
+Thank you so much.
+Data Source: Quartr Last updated: Jun 3, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (5) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

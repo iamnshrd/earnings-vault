@@ -1,0 +1,7 @@
+Company: Abercrombie
+ROIC Symbol: ANF
+ROIC Name: Abercrombie & Fitch Co.
+Year: 2007
+Quarter: 1
+Date: 2007-05-23 16:30:00
+Executives

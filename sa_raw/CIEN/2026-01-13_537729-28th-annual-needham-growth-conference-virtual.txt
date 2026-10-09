@@ -1,0 +1,219 @@
+TITLE: 28th Annual Needham Growth Conference Virtual
+DATE: 2026-01-13
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Welcome to Needham's 20th Annual Growth Conference. I'm Ryan Koontz. I cover the communications and networking sector here at Needham. Really happy to be joined by Ciena today. We've got David Rothenstein, SVP and Chief Strategy Officer. Welcome, David.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Welcome, Ryan. Thank you.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, David's had a really, really busy day. We're going to push him across the finish line here.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+He coveted 3:45 P.M. in the afternoon slot.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yes.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Let's start kind of high level. Where you guys started last year when you came in and then finished up. I mean, what a year. You came in, guided 8%-11% growth, ended up delivering 19%. Just incredible. I mean, can you walk us through maybe what changed during the year in your business that drove that kind of outperformance?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yeah, thanks, Ryan. It was a great year, and you're right. We did have the high-class problem of having to continue to take up our revenue guidance throughout the year. I wish I had that problem every year. It really, in a word, it was driven by AI, which is not going to be a surprise to anyone. Really, across our customer segments and across our portfolio, service providers rebounded quite nicely after a few years of digesting accumulated inventory, working through having invested in other areas of the network, but really, this past year was driven heavily by the cloud providers, both the hyperscalers and now this kind of new group of neo clouds or NeoScalers coming online, and what happened was they found themselves needing to build out more AI training clusters and the connectivity infrastructure to support them.
+They found that they had underinvested in data centers and networks as a result. There's a hyper-competitive intensity amongst them to build out. They've got strong, real, sustainable business models, and they're spitting out collectively hundreds of billions of dollars of free cash flow. And then ultimately, they need to figure out a way to monetize their investments. So you put all of that together, and it's resulted in demand that was and continues to be almost unprecedented.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, and within the segment categories, your optical systems business was the real star there, I think, well over 20% growth. Within that, I assume that's transponders, line systems, and now the new pluggables are a big part of the mix of big growth, huh?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yes, everything, so yeah, it was a strong year of growth in terms of our optical systems business, which encompasses everything that you talked about across the portfolio, which is, of course, our traditional core business in the WAN. Really strong, really strong year, and our objective in that space is to continue to lead, and in terms of technology, innovation, revenue growth, and, of course, in market share, and in terms of market share, we had a very strong year last year. If you look at the global optical market and you exclude China for a moment, we're over 30% market share now, kind of a record high for us, and we expect that share to actually grow this year.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Amazing. And a lot of that driven by cloud, of course. The cloud customer base was up over 50% year- over- year. These hyperscale CapEx numbers this year are sorry, in 2025, are leaning towards 70% growth. I mean, much of that spending, that 70% growth in spend is inside the data center. And so here you are, you guys are primarily playing connecting data centers. It sounds like, as you mentioned, kind of some catch-up going on here in maybe underinvesting in the necessary optical infrastructure to meet the performance needs and then deliver the services that they need to do.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yeah, I think that's changing very quickly. I mean, there's been no shortage of ink spilled about what the hyperscalers are doing in terms of distributing AI training workloads and building out data center and GPU compute clusters. That is for sure. But I don't think one can ignore the fact that ultimately, in order to monetize these investments, that traffic is going to have to leave the data center and flow out into the WAN, where it's going to be monetized. And that's where you're starting to see the shift in focus and spend purely from training the large language models with the massive computational demands to actually deploying them for real-world applications or inferencing. So you put all that together, plus you've got, frankly, an existing network architecture and optical physical infrastructure that's not going to be adequate to capture the projected network traffic growth and bandwidth demand.
+And it's all a recipe for, yes, data centers, yes, data center connectivity, but also the WAN. And we saw it in 2025. We're going to be seeing it this year, and we'll be seeing it, we think, for the next several years.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. Can you walk us through a little bit of the history of the Metro DCI opportunity where you guys were a modest participant, I think, in compact modular, and it shifted to pluggables, and you guys weren't there, and you showed up late, but really started hammering some nails in, and boy, I mean, really took off. Maybe walk us through a little history there for folks who probably don't fully appreciate what you guys have accomplished in two short years.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yeah, no, thanks. So for many years, there was, I suppose, this existential question about plugs and pluggable transceivers and how that was going to.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Cannibalize everything.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Cannibalize our existing optical systems business. And that really, and quite obviously, has not taken place. We've been providing Metro data center interconnect solutions for over a decade to the hyperscalers. But really, for us, the first foray into it was with the 400ZR plug. We were admittedly a little bit late to the market relative to some of the competition. And there were those who kind of wrote our epitaph on the pluggable transceiver market. And then a funny thing happened, which is that we came close to running the table. We won 400ZR business with three of the four hyperscalers. It wasn't because we're nice guys. It was because we provided a very effective value proposition of what we believe are outstanding performance specifications relative to the competition and, of course, total cost of ownership relative to that.
+So regardless of when we enter the market, we are doing very well there. You're right. In two years, we've grown the market very well. We believe we've got somewhere in the range of 15% market share there coming out of this past year. We doubled the business last year to just under $170 million, and we expect it to continue to grow quite well going forward. And now we've got in the market our 800ZR pluggable transceiver, which is much earlier to market than the previous generation. We have more experience in terms of designing cost reductions, managing a supply chain. And then we've got it obviously instantiating in other applications that I'm sure we'll talk about, like Scale-Across. So you're right. In a few short years, we've taken what was a nascent business into something that's very, very additive to our overall top line.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, and from a profitability perspective, I mean, you're obviously delivering volume. Where are you on profitability of kind of getting ZR to approach corporate norm margins?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yeah, so 400ZR, because of the time to market issue and the competitive dynamics, is still dilutive to corporate average margins. With 800ZR, for all the reasons that I mentioned, we look at 2026, this current year, as a really important inflection point for us to drive a ramp of production volume for this product, of a scale of which we've never done any product before, just given the size of what we're talking about, which will be a really important proxy for, of course, quality, yield, and cost, and as we do so, we believe we'll be able to bend the cost curve ahead of price erosion and get the margin profile at or above corporate average.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. And you're performance-wise, you feel really strong about where you are relative to the two main other competitors there, Cisco and Marvell?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+We feel very good about the performance characteristics of ZR, which, given the application, really focuses, yes, on capacity, of course, but also things like power, space, latency, and of course, cost.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Right. And power, back in history, power wasn't what you were known for with your DSPs.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Correct.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+But look what you did.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+So when we talk about extrapolating and taking our expertise in high-speed interconnects, it's a great example of how we do that.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, outstanding. So now, in general, with the cloud business, now you're supplying short-reach pluggables, Metro long-haul subsea transponders, line systems. I mean, wow. Any idea what kind of share you have across the cloud in optical? Got to be 50% +.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+I do. So what we've said is, as I said, on market share, kind of global optical writ large across segments, it's over 30%. For cloud providers, the best we can tell, and there's very quickly blurring of the lines across applications here, and there's obviously the MOFN business that they outsource effectively the connectivity to the service providers, but we report through them. There's subsea where they are driving, but again, purchased through the service providers and other consortia. I would say certainly on a direct DCI business, which is the clearest picture I can give you, yeah, 50%, I think, is a good demarc there for us.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, impressive. Let's unpack MOFN a little bit, a little bit of history. What is it? Why is it? And is it really a material part of your business today? And will it be going forward?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+So it's absolutely a growing part of our business. I think it's a really interesting dynamic. So we talk about MOFN just to level set. We love our acronyms. It's Managed Optical Fiber Networks. And the cloud providers, the hyperscalers, and now also the NeoScalers would much prefer to build out and own and operate their own network infrastructure. But in many cases, either they can't regulatorily, like in India, they're prohibited from owning and operating networks. And in many cases, including in the U.S., from a monetary and an opportunity cost standpoint, they're doing other things. So effectively, MOFN is a managed wholesale service where the cloud providers effectively outsource WAN connectivity to service providers. Lumen being a great example of a North American service provider who has done a fantastic job at driving MOFN business.
+One of the large hyperscalers is running a lot of capacity over their fiber infrastructure. So that business has also grown well right now. We have over 30 MOFN WANs around the world.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Wow.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+In terms of the material part of our business, it was sub 10% this past year, but growing. It grew about 150% year over year in 2025, and we expect it will continue to grow, and it's also a really nice indicator for international business. You've got the wholesalers out there who are doing an incredible job, whether it's Colt or euNetworks, Arelion, Zayo, who are doing a fantastic job at selling capacity in this dynamic, but also some of the international service providers who are getting the benefit in locations and geographies that really we haven't thought about too much, so North Asia and Japan and Korea in the ASEAN market, in the Middle East, we're seeing an increasing number of MOFN WANs, and so you see really the hyperscalers are trying to drive their footprint globally for fairly obvious reasons.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+And that fulfillment model looks like the hyperscaler specifies it, and the telco buys it at that spec, or generally it's a flip side.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+So we sell it to a service provider. And so we report it, and we talk about it in the context of that. But we do think about it as being indirectly driven by cloud providers, and we think about subsea in largely the same way. So if you think about it this way, the direct data center interconnect business is around 35% or so of revenue going to 40%. And then what they drive, the hyperscalers indirectly through both Mofin and subsea, that together approaches 50% of our revenues.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, yeah, exactly. Another area really exciting that happened this year that I really didn't see coming was your PON WAN inside the data center for out-of-band.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Didn't see it coming? Why not?
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+I did not, and I'm a PON guy going back 30 years. Walk us through kind of what that is, how it came to be, and how you think about it going forward.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yeah. One of your peers accused that of being a lottery win for me, which sounds a little bit dramatic, but maybe I think it's a good example in this journey. Sometimes industry, sometimes it's okay to be a combination of lucky and good. So here what you have is we acquired XGS or 10 gig PON technology from the acquisition of Tibit. And that was really intended to be, in my business case, application designed for enterprise and residential PON.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Pluggable PON.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Pluggable PON, and just to be clear, PON, passive optical network, there's no active componentry, powered componentry in the field, so significantly lower, obviously, power cost with the same reliability and scalability when you're splitting into 36 or 64 homes, and so what we've done here, and we co-designed this application with Meta that was announced, was repurposing this PON technology in the data center context, so what it does is out-of-band data center management has existed for a long time.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Decades.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+It's effectively a way to provide outside of the main data center networking, network, rather. It provides secure remote access on a separate network to do remote access and troubleshooting of the data center systems. Today, that is an Ethernet-based solution. So in every rack in a data center, you've got one rack unit Ethernet switch and a console server, depending upon what you're actually doing. Which, again, given the size of the racks and the volume of them, even small amounts of power and space draw can have a massive force multiplier effect. So what DCOM is, you take our PON technology, wrap it in our router with our overall multi-layer domain control, and you've got a replacement for that Ethernet-based solution, which is significantly lower in power, space, cost, while the same other performance benefits, and so we've rolled that out.
+We're deploying that with Meta right now for their greenfield data centers. So far, the value proposition has proven out in the market, and they are looking at expanding the usage of DCOM in their data centers. A big open question is at some point, do they think about using it to retrofit brownfield or existing data centers? They've not yet made that decision, and we are in advanced technical discussions with two other hyperscalers for the DCOM application, which is not proprietary, to be clear, and just like with everything, we're not going to win 100% of any of that business, but we think we're in a very strong position to win well more than our fair share of that application, which we weren't even talking about a year ago, so we've come a long way on that very quickly.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Your software system, I think, did some deep integration with all their back office, so to speak, of how to operate a data center.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Absolutely. Having Navigator, which is the multi-layer domain control, kind of the systems and software wrapper around the hardware solution is a competitive differentiator.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, absolutely. Let's shift a little bit here in terms of looking forward, AI, the inflection in AI demand, traditional cloud versus AI. Do you have visibility in your customers where your products are going in terms of cloud versus AI infrastructure? Do you allocate projects on that basis?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+We don't really. We don't get orders that say, "Hey, this is demarked for an AI training cluster versus a traditional cloud infrastructure running over a Clos fabric." We don't get like that. And so I couldn't give you, I think we were going to go, is can I give you a percentage split of traditional versus AI? No, I can't. What I can tell you more qualitatively is that a significant percentage of demand is AI-driven.
+And I say that not just because of the discussions that we're having with our customers who are kind of giving us demand signals driven almost directly from their AI and ML teams, but also from applications like Scale-Across, which is a repurposing of our Reconfigurable Line System, our ZR plug, or our high-performance optics in a modem, again with Navigator around it as they're distributing the training workloads across clusters further and further apart because of the computational demand and, of course, the power constraints. And so we are getting a greater line of sight as we're seeing more of that instantiated in Scale-Across applications. And we think that percentage increase will only continue to grow.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. So you've got it to fiscal 2026 to 23.5% there at the midpoint. Clearly, a lot of this is coming from your cloud customers. This is really just AI pressing the gas pedal here that's driving a lot of the acceleration. I'm sure the balance of your business is healthy and growing, but is the big chunk of hypergrowth coming from AI?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+I think that's a very fair statement. I mean, at 24% at the midpoint, over 19% last year, anytime you get double-digit growth, anytime you're at 20% or above, it's something to really keep an eye out for. The demand, not just signals, but what we're getting in terms of design wins, order flow, which continues to be strong, backlog. So we just finished a year where we did $7.8 billion of orders, over $4.8 billion in revenue, ending the year with over a $5 billion backlog. And these are kind of astronomical numbers. And we see the demand continuing to accelerate for all the reasons that we've talked about.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Can supply keep up?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Not yet. But the industry is very well aware. This is really, as I spent the day talking with folks, this is not an issue of demand for Ciena right now. The issue for Ciena and really a large part of our sector of telecom is supply capacity. So what you're seeing is an optical industry and a supply chain that is being outstripped by demand and is, frankly, struggling to catch up. But we're not unaware of these dynamics. And we injected incremental capital into the supply chain last year that enabled us to achieve the growth last year. And we've said we're going to effectively double our CapEx intensity specifically this year to increase supply capacity on our high-running products.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Scale-Across being?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Being one of them, but not the only one. So you're talking about RLS, WaveLogic 6E, the high-performance next-gen modems, and the ZR plugs. So Scale Across is one application. But in the WAN with our traditional Metro DCI backbone as well, we see that playing out. So overall, we feel really good about where things are and where they're going.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+So the non-Scale-Across business also is performing well?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Absolutely. Yes.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Great. It's broad.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+It is broad.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Great. And talking about the NeoScalers. So these guys are late on the scene. I don't think of them as the most sophisticated, buying best of breed. Maybe they're starting to get there soon. But where are they in their evolution, obviously they have a lot of money. And where are they in terms of investing the way they need to invest to compete with hyperscalers?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yeah. I mean, so we've got this group of whether you call them NeoClouds or NeoScalers that have come onto the scene, really because the hyperscalers simply can't deliver enough. I mean, just to call it what it is. This is another one of those cases where I think we tend to love our nomenclature. It is not a homogeneous set of businesses when we talk about NeoClouds. It encompasses everything from cloud and enterprise service providers to AI and cloud infrastructure specialists, data center providers, colo operators, enterprises. So it's cutting across all of those guys. And they're coming on quickly. So we have 12 NeoScaler customers right now, one of whom was actually a top 10 customer last year.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Wow.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+One NeoScaler was a top 10 last year, which is kind of incredible when you think about it.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, for real.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+I think it's going to be interesting to see how that segment plays out. I think there will be some degree of consolidation. Not all will be successful over the course of time. There can't be; there's too many of them. But like everything, we're placing our bets on those who we think are going to be successful. And I'm not going to give you names unless you want to have me nod. But overall, we feel really good about that segment. And if you think about the NeoScalers plus the four major hyperscalers, we see a CapEx growth rate of like 20% over the next five years through the end of the decade. You can do your own math. If the CapEx this past year was $600 billion, now you're pushing $1 trillion of CapEx exiting this decade, which is staggering.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, totally. Let's shift to some green shoots in terms of new products and categories you guys are active in, which is also super impressive. Let's start with my favorite, which is MultiRail. These are the amplification huts over long-haul routes. Walk us through kind of what that is, when it comes, why you win that business.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+So the way to think about MultiRail is that with the changes that AI is driving, as I said, it's not just affecting data centers and training workloads in the data centers. It's affecting the WAN as well. And really how it affects the WAN is that the existing network architecture and even the physical infrastructure of the optical systems that has served the industry and the world well for the past several decades will not be sufficient by definition, will not have sufficient capacity to capture the projected growth in network traffic and bandwidth demand. That's just a fact. That's just not me saying it.
+And so MultiRail or HyperRail is an application that we are developing with the cloud providers right now that effectively says, is there a way to densify the existing optical amplifier architecture, allowing for multiple fiber pairs and therefore more capacity, but over a shared or a common photonic layer? So you're adding more capacity in the same or lower power and space envelope, which is kind of the holy grail of performance specification.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Densification.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yeah. So we see HyperRail as being this would be RLS again, the line system with coherent optics running above it. We see this as being a real interesting opportunity. One analyst has sized kind of the overall Scale-Across MultiRail opportunity at like a $10 billion multi-year opportunity. It's a first stab at it. I don't know what the actual number is. But if you believe in Scale-Across, MultiRail is only going to serve to accelerate those dynamics.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+MultiRail is a refresh of these huts that are every 80 to 100 km on these long-haul routes?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+That's right. So you've got inline amplifier huts, the ILAs, every 80 km-100 km in a long-haul network in the U.S., for example. And that's to regen the signal along the way. There's only so far it can go along to amplify the signal. And each hut costs around $1.5 million-$2 million to go build. And so densifying the existing roughly 16 fiber pairs in a hut to 64 or 256 fiber pairs enables them to address that capacity growth without having to rebuild an entire new fiber infrastructure.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. Yeah, incredible. How about taking coherent inside the data center into the campus and the Coherent Light opportunity inside the data center? You're taking your existing DSPs, respinning those for the specialized opportunity inside the data center.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+That's right. So our belief system is much like what happened in the WAN at 100 gig, where coherent overtook IMDD as the predominant technology mode. We believe the same thing is going to happen inside and around the data center as data rates increase.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+With PAM4.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Right. IMDD PAM4, the PAM4 single modulation scheme on-off. Our belief is the first battleground for coherent against IMDD will be in the metro campus data center, kind of the 2 km- 20-km application. That's where Coherent Lite comes in, where we take our WaveLogic 6 Nano, the 800ZR pluggable, and we tune it down. We drop some of the heavier functionality like forward error correction, hence why it's called Coherent Lite. It competes in that case against PAM4 in that application. What I would say is there's still strong customer engagement there. What I would say is we're now thinking that market opportunity is pushed out somewhat, less because of the perceived efficacy and more because, frankly, the hyperscalers are spending more of their time, money, and effort on higher performance optics for Scale-Across.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. It's a bigger problem.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+It's a bigger problem for them to have right now. So they're diverting their efforts there. We still think coherent will play there in Metro campus. And then more importantly, over time, particularly likely at 3.2T, coherent will play a meaningful role relative to PAM4 inside the four walls of the data center. So that's kind of one big prong of our inside the data center strategy is having coherent take it. But it's not the only one.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah, and Nubis is the other big play.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+That is another one. So kind of beyond coherent optics on our own, which includes certainly some of our constituent components of the ASIC, DSP, our high-speed SerDes, the multi-DAC converters. We also acquired Nubis, and the thinking behind that acquisition was we believe that multiple technologies will coexist, peacefully or not, in the data center for many years to come, and we want to have a role to play across all of those. I already mentioned coherent, but what Nubis has is two sets of products that are ultra-compact, low-power electrical and optical interconnect solutions for scale-up and scale-out applications inside the data center, and so with the linear redriver, which is the optics copper cable solution that extends the reach by four times to four meters with the same low power and low latency.
+Then the Vesta linear optical engine, which when paired with the SerDes, a third party's or ours, we believe will be a competitively differentiated, co-packaged, or near-packaged optic solution inside the data center for scale-out applications. With that, we will have now, we believe, a complete set of solutions across electrical, optical, IMDD, co-packaged, and then coherent.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+What's the timing there of the new Nubis products?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Both products are scheduled to be generally available this year.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Wow. So trials next year, maybe.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+I would expect customer trials at least for Linear Redriver by the end of this year, and kind of moving to material revenue in 2027 for both.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Great. Impressive. A couple of quick hitters on the finance side before we get some questions from the audience, maybe. Gross margins, supply constraints, pricing power, lots of puts and takes. You've guided flat. Walk us through some of those puts and takes? Some would say, why can't you get better margins in this environment? I know you've got costs going up, trying to be a good supplier to your customers. Walk us through your thoughts?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yep. So on gross margin, we've guided this year to 43% Â± 100 basis points. And you're right, Ryan. There are, as always, puts and takes or headwinds and tailwinds, however you want to describe them. So the headwinds in terms of what we see as kind of being the limiter a bit are really twofold. The first of which is the ramp to production volume of our 800ZR plug. As I said, that is the biggest ramp of any product we've ever done. And it's going to take some time for us to get there. It's going to pressure margins, for example, in Q2 as we start moving to real production volume there. And the second headwind really is higher input pricing from elements of our component supply chain.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Across the whole portfolio, really?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yes. Yes. It's impacting certain products more than others. But it's a function of demand continuing to outstrip supply.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Industry supply.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yes. Industry supply. So resetting of some of the pricing, including some of the backlog that we have with some of those suppliers. So those are two headwinds and why you wouldn't see a higher margin this year. Tailwinds are once we get on the backside of ramping 800ZR and RLS to production volume, there are benefits of scale. We are getting better at the design cost reductions and supply rebalancing. And there's also what I would call constructive engagements with our customers on a more fair value exchange, which could take a number of different forms given industry dynamics. And so we've given the guide for this year. But our overall view of margins really hasn't changed, which is we see a path in the next few years toward a mid-40s gross margin as a waypoint for us.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. Great. You mentioned supply chain concerns. Any areas you'd point out that are painful, some of the most painful pain points on supply?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+You know, I think this is very different from 2022 when the real long pull was power management integrated circuits.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+The analogs.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+The analogs. This is very different. This is really more the specialized optical components, some of the external laser sources, and I want to be clear that it is not related to the indium phosphide wafer issue that AXT talked about recently. We're not being limited by that, but there is an industry shortage of supply of external laser sources, including ITLAs in the industry right now. Some of the other optical components like the coherent driver modulators, some of the gold boxes you may have heard about, those are kind of the longer poles for the industry, not just Ciena right now, but again, we're not ignoring those issues and are actively looking to address them.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Are you taking action to insource any of these supplies?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+In some cases, yes. As always for us, like we do with M&A, it's a build partner-buy analysis. We've done vertical integration organically, historically. We've done it through partnerships, and we've done it through acquisition.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. On the OpEx line, you guys guided to keep that flat year over year despite this tremendous growth. I mean, that's probably the most mind-blowing stat I think of all. Can you share a little bit about how you guys are doing that? I mean, nobody does that.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+That was the reaction we got from a lot of people. Guiding 24% up on revenue and flat OpEx isn't really done. I want to be really clear on this point as well. We are not doing that at the expense of R&D investment. In fact, year-over-year R&D investment for us is going to increase. The way we've been able to do that is, well, it's a function of a few things. One, when we say flat year-over-year, 2025 last year had a higher than typical variable incentive compensation because of the performance that we did. As importantly, we are taking real steps from a transformation standpoint to drive operational efficiencies in our business. We're at the early stages of doing so. We've also taken some portfolio decisions to rebalance and reallocate investment, including away from applications like broadband access.
+That's enabled us to not only reinvest more into R&D, but also hold OpEx flat, and that includes the acquisition of Nubis.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. Super impressive.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+We'll split flat next year.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Will not. Got just a couple of minutes in. Do we have a question they want to lob in before we finish up here? Great. That's okay. Let's talk competition. You have Nokia, Infinera, combination. They're probably going to go through some issues. But the Infinera guys are kind of ending up on top there. So in terms of running organizations and leadership spots, so what do you expect to come of that? And you obviously have Cisco, who's always there.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Yeah. So the way we think about the competitive landscape is I would say in the optical systems business in the WAN, the field has thinned considerably for those of us who've been doing this a long time. And you're right. Outside of Huawei, who still exists and still does very well, we're really looking at us and Nokia with a combination of Infinera. And what I would say about that combination is we competed very effectively against both when they were standalone companies. And we continue to compete effectively with them now as a combined company. They have some work to do, I think, in terms of integration and portfolio rationalization. But they're a big, well-resourced competitor who we don't take lightly. In terms of Cisco, clearly they have been doing quite well with Acacia, really defocusing and deprioritizing optical systems writ large for quite some time.
+So we see them more in terms of the pluggable and merchant modem market than anything else. And then you've got, as we talked about, kind of to shorter distance applications, a different set of competitive dynamics. You've got some of the larger players like Broadcom and Marvell, and in some cases who we compete with, in some cases a bit complementary. And that competitive landscape will continue to evolve over time.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. Fascinating. Any quick thoughts on M&A? I mean, the Nubis was very intriguing and seems like a great fit. But any thoughts on a philosophy around M&A forward?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+I do have a philosophy on M&A.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Good.
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+Look, we are a serial acquirer. We're not going to be doing 20 deals a year, but we have done a lot and will continue to do more deals. The way I think about M&A, it's really one leg of the stool of capital allocation with organic R&D, return of capital, and M&A being the three. We, I think, have been very thoughtful deployers of capital on an inorganic basis. But why we do M&A? To bolster our position in a core business, to accelerate our position in an adjacent business, fill in gaps from a technology or go-to-market standpoint, drive cost and revenue synergies, or ideally some combination of all of the above. That was behind the Nubis acquisition and behind a lot of the ones we've done in the past.
+## Ryan Koontz | Managing Director and Research Analyst, Needham & Company
+Yeah. That's exciting. Any last thoughts in terms of questions you heard today? What do you think investors are not getting exactly right and are asking a lot of questions about it?
+## David Rothenstein | SVP and Chief Strategy Officer, Ciena
+I think it's hard not to be accused of exaggeration when we talk about industry.
+Data Source: Quartr Last updated: Jan 13, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Slides Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

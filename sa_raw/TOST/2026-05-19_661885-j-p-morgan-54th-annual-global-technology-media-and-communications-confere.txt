@@ -1,0 +1,322 @@
+TITLE: J.P. Morgan 54th Annual Global Technology, Media and Communications Conference
+DATE: 2026-05-19
+## Speaker 3 | 
+Thanks everybody for joining. Here to have Toast, a fireside chat with the Toast team. Aman Narang, the CEO, and Co-Founder, and of course, Elena Gomez, the CFO, and the head of the IR team. Thank you all for being here. Always look forward to having this conversation.
+## Elena Gomez | CFO, Toast
+Thanks for having us.
+## Aman Narang | CEO and Co-Founder, Toast
+Thank you for having us. Yeah.
+## Elena Gomez | CFO, Toast
+Yeah.
+## Speaker 3 | 
+Yeah. A lot to cover. We'll try and be inefficient, but I thought just to kick it off with a big picture question for you.
+Aman. Thinking about the quarter and what stood out to me, you spoke with such conviction and confidence about, you know, winning the AI race and pivoting the company on the AI front. You talked about revising your priorities and evolving Toast to grow. I wrote down here, "To grow from a software platform to an agentic platform." I was thinking about that.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+You always do a good job with this. Can you explain to me how you would explain that?
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+A restaurant client, especially one that loves Toast as it is today?
+## Aman Narang | CEO and Co-Founder, Toast
+Sure. Y'all can hear me? First off, I think we've been working on our AI evolution, both internally and for customers, over the past couple years. I'd say as you look at, like, where we're going versus where we came from, it's really an evolution, right? At the end of the day, if you look at what Toast has been working on in the past decade-plus, is we've been growing locations, both in our core business, as well as the new TAMs that we're working on. We continue to see really strong growth in our core. Our new TAMs are accelerating growth. That's why we've had net add growth every year that's been higher than previous years. We have a ton of conviction that we're gonna do the exact same thing this year, right?
+As we look at the surface area of the products that we offer, you know, we've seen steady ARPU growth in our platform, and that's because when you talk to our customers, the thing you hear consistently is they wanna use Toast for more. They like the idea of an all-in-one platform, especially these SMBs, be able to use all of it, in one place, manage all aspects of their front of house, their back of house, their operations. We continue to see really good growth, both in terms of the number of customers using Toast and what they're doing with it. One of the evolutions that we've been working on the past couple years, if you talk to our customers, what they'll tell you is, think about the average restaurateur, right?
+What they'll tell you is, "We'd love to use more of your platform, but I'm just trying to keep my doors open, like, make sure the service is good, the food is good." Often they will either, like, not have the bandwidth to leverage everything Toast offers, or they will outsource it, right? I'll give you an example. Marketing is a great example where, you know, most restaurants have some website. You know, they may have some loyalty program. They may have an online ordering site. Often, like, the execution of actually generating demand is subpar.
+## Speaker 3 | 
+Right.
+## Aman Narang | CEO and Co-Founder, Toast
+The opportunity that we saw there was, okay, can we actually own the work by building an agentic capability, which by the way, this is backstopped by a human, right, to help restaurants incrementally drive demand? What we have seen with Toast IQ Grow, which is the first agent we launched, with our early beta customers, this is hundreds of customers, when they leverage the Toast way of doing this, they've seen sales go up 8% in our pilot. The reason that has happened is, think about a website. Well, step one, you gotta make sure the SEO is optimized so people actually click through to your website. You wanna make sure the images and the copy on the, on the online ordering page actually has, is well done to maximize conversion.
+You wanna make sure your loyalty program that you offer is A, done incredibly well, and two, it is as friction-free as possible, right, in terms of getting more and more guests to leverage it. Lastly, we're looking at data about when the restaurant's busy, when it's not, right? Something most restaurants don't leverage. A marketer doesn't leverage to think about shoulder periods to optimize yield, to generate the right types of offers, and to generate offers that'll convert each user. Like, one of the unique things that Toast has, including for everybody in this room, we know what your purchase history is, what your preferences are, so the campaigns and the emails can be specific to you.
+All that work that we're doing, we just have seen this as an opportunity where we can actually create better marketing for our customers than what they can do through a fractional outsource marketer. This agentic push, whether it's in front of house or it's back of house or it's payroll and tax, it's all about, like, can we do it cheaper and better? That's really what the push has been the past couple years. We're seeing really good early signal, but it's early. I think we'll launch more and more agents over time on top of our platform. Lastly, internally, like, you know, third priority is really about leveraging AI. This is not unique to Toast, to really leverage AI to rethink the work, right?
+We've got, you know, lots of Toasters have access to the modern tools that, whether it's Claude Code or, you know, in engineering, Claude Code, we're seeing engineering velocity up. We're seeing 40% of support tickets now handled through AI and increasing. I think, really across the business over the next few years, we will see an evolution where by leveraging what AI makes possible, we can reinvest more into some of these growth initiatives in the business. At back to, like, zooming out, like, it's really not fundamentally the strategy of growing locations or growing the surface area of the products that we serve customers with hasn't changed. It's just leveraging AI both internally and externally has become a bigger focus.
+## Speaker 3 | 
+Having empathy towards the restaurant and understanding how you can free up time and resources to get them to do something they haven't done yet.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah, absolutely. I mean, I think this is where, you know, with most restaurateurs, even in our retail business, you see the same pattern. The, the biggest thing they struggle with is time, right? They would love to use more technology, but think about a restaurant owner. You know, they're not a marketer. They're not a payroll and tax expert. They're not a back office accounting expert. Their expertise and their passion is, like, great food and great service. The more we can help them leverage the Toast way to run a better restaurant, the better off we are.
+## Speaker 3 | 
+Good. I'm sure we'll talk about AI a little bit more, but just coming back to the quarter, I know the topic of the day, right? With the quarter coming through, I was really surprised by the reaction. It seemed pretty extreme, and it seemed like, tell me if I'm wrong here, it seemed like it was two issues. One was some concern around memory cost and supply and what that might do for the outlook, secondly, some concerns around maybe competition picking up. I thought maybe we could drill into both of those if that's okay.
+## Elena Gomez | CFO, Toast
+Yep, let's do it. Let's do it.
+## Speaker 3 | 
+Thinking about the first one with memory, just maybe, I don't know, if Elena Gomez or Aman just go through the puts and takes there to help us think about, you know, memory impact to the P&L, not only this year, but also next year. I think you talked about it.
+## Elena Gomez | CFO, Toast
+Yeah, happy to talk about it.
+## Speaker 3 | 
+Being a bigger impact next year. Can you just walk us through that?
+## Elena Gomez | CFO, Toast
+Yeah, great. I'm happy to talk about that. I'll get to your hardware question. I wanna because hardware is just one element of our P&L, so I wanna zoom out and talk a little bit about how we manage the P&L.
+## Speaker 3 | 
+Please.
+## Elena Gomez | CFO, Toast
+Philosophically. Then I'll hit on your, on your hardware question. Philosophically, our priorities haven't changed. It's really to deliver durable growth and continue to expand margins and deliver healthy margins. That's how we talk about it. Let me just unpack what that means. In 2025, we had a strong year. 2026, we're on track to have another strong year. In that, we're gonna deliver strong growth and expand margins. You'll see the same exact playbook in 2027, deliver strong growth and expand margins. That's just philosophically how we plan the business.
+The discipline that you've seen us employ over the course of the last couple of years has not changed. We're looking at every headcount. We're looking at all the ways that we can drive efficiency. Now take what Aman just said about AI, and that presents even a greater opportunity to drive leverage in our business. When we think about that, we really think about our long-term margin opportunity, and we often have talked about the 40% long-term margin. We think that'll be even higher.
+## Speaker 3 | 
+Okay.
+## Elena Gomez | CFO, Toast
+Just think about this AI opportunity. We're already seeing leverage in the business. Aman touched on that. We'll touch on that a little bit later. Our confidence in our long-term margin continues, and we feel really strong and convicted about the opportunity to drive that even higher. Now let's get back to hardware. Hardware, like I said, is one element of our workflows. Near term, there's this memory constraint, where many companies are navigating that. Our team is doing a great job of navigating that.
+One of the principles that we started with when the hardware memory shortage became obvious to us that there was a constraint, was let's make sure that we do not disrupt customer growth, right? We've added more net adds to our platform in 2025. We're gonna do the same in 2026. Really important that we set ourselves up to support that growth. What that means is, as we've secured supply for both20 26 and 2027, there's gonna be near-term pressure in our P&L, and that's what we talked about at the earnings call, both in 2026 and 2027. That said, we have a lot of confidence. We have many levers in the P&L to really manage that.
+We also are very confident that this will be near-term pressure, not something that structurally is going to change our ability to drive long-term operating margins. We feel good about that. Finally, I would just say the hardware operations team is executing quite well. It's a very tenured team, a very seasoned team. They've been through supply chain constraints before, and they've just done a really excellent job of not only keeping us informed and working with the partners, but just navigating the complexity of the supply chain.
+## Speaker 3 | 
+The phasing of it, Elena, just thinking about 2026 into 2027, I know there's trade-offs that you're making all the time.
+## Elena Gomez | CFO, Toast
+Absolutely.
+## Speaker 3 | 
+How about the phasing? Mm-hmm.
+## Elena Gomez | CFO, Toast
+Yeah. 2026, what you'll start to see is as the year progresses, there'll be greater hardware pressure. That said, we're still gonna expand margins. We're still gonna have a really strong year. Similar with 2027, we have a bunch of levers, and we're always working to mitigate any constraints we have, any pressure we have, so we'll continue to do that. Part of that is a full-year impact of it, the other piece is just the way our inventory gets into our customers' hands has to do with when we ship finished goods, and that's what you're seeing in the dynamic between 2026 and 2027.
+## Speaker 3 | 
+The bottom line is, don't want to impact customer growth and customer impact.
+## Elena Gomez | CFO, Toast
+Absolutely.
+## Speaker 3 | 
+That's number-one priority.
+## Elena Gomez | CFO, Toast
+That's the number-one priority.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Elena Gomez | CFO, Toast
+The other point is, we have many levers to manage the near-term pressure as well.
+## Speaker 3 | 
+Okay.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah. I think just to build on what Elena just said, we're investing to drive durable growth in the 20s for a long time. This is why, like, if you see the net add growth year-over-year and these new TAMs accelerating, what's exciting is that, you know, those businesses crossed $100 million ARR last year. They're growing, you know, with hockey stick, really strong growth. We're investing to open up those TAMs in a material way while expanding margins despite the near-term impact of hardware. I think Elena and team are doing a great job just pushing the team to make sure in our core business where we have scale to drive efficiency each and every year. AI accelerates that. We're reinvesting some of that for longer-term growth.
+## Speaker 3 | 
+Yeah. I don't want to spend too much time on it. I know it's a transient issue, but, you know, had to go through it.
+## Aman Narang | CEO and Co-Founder, Toast
+Yes. Yeah.
+## Speaker 3 | 
+Hope you appreciate that. On the other subject, just thinking about the core, I think last year I asked you both, or I guess, Aman, you were here last year.
+## Aman Narang | CEO and Co-Founder, Toast
+Yep.
+## Speaker 3 | 
+You know, the growth algorithm for the core. Does it feel different to you now as we think about the next 6- 12 months? The growth algorithm? Are you seeing any changes in the competitive landscape? A lot of your peers are talking quite a bit about some product philosophy changes and making improvements. What are you seeing?
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah. You know, the first thing I'll say is, this comes from a place of humility, like there's no shortage of POS systems in the restaurant space.
+## Speaker 3 | 
+Yeah.
+## Aman Narang | CEO and Co-Founder, Toast
+Right? If you look at our ability to grow and to establish ourselves as a key leader in the space, that's really the strength of our product, our service team, our support, our go-to-market, which we have built over the past decade. As we look at the competitive landscape, as we look at our win rates, as we look at our share that we're taking, even in our most dense markets where we have the most share, the flywheel effect we've talked about in the past, whether we look at our churn, fundamentally, what we see in our business, right, is we're seeing more location growth each and every year. We saw that last year, we expect to see that same thing this year.
+Competitively, like, of course, our team is tracking it very closely, and we're investing in a big way in our platform to continue to differentiate and add value for our customers, but we've seen nothing that has changed. Now, as you think about the growth algorithm and what are ways in which we continue to grow, I think I hit on some of this earlier. Fundamentally, it's about location growth. As we think about the longer-term opportunity for Toast, whether it's in terms of the AI opportunities we have and the data that or the network opportunities we have, both of those are predicated on on location growth being a key driver because market leadership is so valuable for the second and third act. We continue to invest in a big way to drive location growth.
+We're seeing, as I just mentioned, really good signal there. The second piece of the algorithm is ARPU growth. We've seen steady ARPU growth where customers use more and more of our platform. I think if there's one thing that'll change over the next six, 12, 18 months, the potential of AI-driven revenue, right, has upside for Toast. Just like a couple of years back when we launched Retail International Enterprise to expand the TAM. If you look at our net add growth, there were a lot of questions about net add growth for Toast, has accelerated the past couple of years. Why that's happened is because we've been able to accelerate these new TAMs. That has tremendous upside potential. Similarly, you look at Toast IQ Grow as an example.
+Customers pay for all of our platform, you know, round numbers about $500 a month. I'm using round numbers here, maybe $550, okay? For Toast IQ Grow, which is our marketing that's priced at $499 a month.
+## Speaker 3 | 
+Right.
+## Aman Narang | CEO and Co-Founder, Toast
+Right? Of course, there's some, there's an element, human element to that, too. We expect that to become more and more agentic over time. One of the areas of tailwind, I know it's early, is as we build out these agentic capabilities, there is potential to accelerate AI revenue. The reason that is if you talk to our customers, they'll tell you they spend more on services than they do on software, right? If you go ask the average restaurateur how much they spend on a bookkeeper, an accountant, on someone to help them with payroll and tax or marketing, it's way more than what they're spending on the Toast software.
+## Speaker 3 | 
+Yeah. I'm glad you went through the, you know, through the example and the pricing. Can you spend a minute? It is just since you mentioned it, I have to ask.
+Just coming up with the pricing and the philosophy around the pricing around the AI-
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+...work. Aman, you're always very thoughtful about the pricing in my experience in talking to you.
+## Aman Narang | CEO and Co-Founder, Toast
+Right.
+## Speaker 3 | 
+Can you walk us through that a little bit?
+## Aman Narang | CEO and Co-Founder, Toast
+You know, philosophically, like, the way I think about it is we want to be known in the industry as the best product with great value. Like, you know, we could be optimizing near term on pricing levers. I think certainly that's a part of the growth algorithm, but the big focus is really on growth by adding more value to customers, by adding more locations, and then adding more value to customers. Specifically on Toast IQ Grow, if I'm honest with you, right now, the focus is on driving a tremendous amount of value for our customers. How the pricing model evolves, right, we have, we're still learning, transparently.
+You know, we could add a token-based, usage-based component to it because some of this in the back end, our COGS will depend on how much usage, how much the customer is using our back end to generate campaigns or copy or whatever it may be. What I'm confident about is that if these platforms can drive the types of outcomes, like I shared the 8%...
+## Speaker 3 | 
+Yeah.
+## Aman Narang | CEO and Co-Founder, Toast
+...lift in sales, then, the pricing is the least of our problems, right? The ability to monetize that over time, I'm a lot of conviction in. What we're focused on first and foremost is, as we grow out this platform, staying really close to customers to make sure that we are actually landing products that can help them drive more successful business or take, help them save time.
+## Speaker 3 | 
+What did we learn? I know you were at NRA, I think, with in Chicago, and Toast IQ is what? 23% penetrated if we do the simple math there.
+## Aman Narang | CEO and Co-Founder, Toast
+Yep.
+## Speaker 3 | 
+What's the engagement trend looking like? How do you see that changing? What have you learned from Toast IQ so far before we get into Grow?
+## Aman Narang | CEO and Co-Founder, Toast
+I think that first of all, if you go back and look at what customers use Toast for, on the one hand, it's they use it for the software platform, and they love our software platform, but they also really value the human touch in the service. In fact, you talk to the average restaurateur, they almost look at Toast as their outsourced CIO. They'll call our support line if the internet is down, which has nothing to do with Toast, because they're "We need help." We help them, by the way, with anything and everything, including making changes to the back end of Toast. We're happy to help them because, you know, often when they're on the restaurant floor, they want to move on to their next thing.
+Now, what Toast IQ does is it's an always on, always on capability that has a natural language interface, right? You can talk to it and say things like, "I need support on any aspect of the platform." That's why we're seeing 40% of ticket volume now handled through AI.
+## Speaker 3 | 
+Right.
+## Aman Narang | CEO and Co-Founder, Toast
+You can go in and create custom data views. If you're someone analyzing the data in a five-location restaurant group, like in the past, you would go in and try to find some specific report, and then if you wanted to understand some very specific nuanced perspective, you would go in and say, "Okay, like, I need to export the data into Excel maybe, and create a custom view."
+Now they can just go into Toast IQ and ask questions like In fact, I talked to a restaurateur a while back, and they said, "Well, one of the use cases that was really valuable was I just wanted to look at year-over-year sales and what was going on, but I wanted to exclude certain categories that were net new because I'd opened up this catering business, and I didn't want to track that in my year-over-year comp." They were able to generate that view right in Toast IQ versus having to do that by exporting data out.
+## Speaker 3 | 
+Right.
+## Aman Narang | CEO and Co-Founder, Toast
+We have customers telling us that they've been able to talk to Toast IQ and optimize their labor schedule, where they may be overstaffed in certain periods based upon demand. It's really moving from support to getting insight from Toast. We've seen customers now leverage it. We've launched some basic workflows and automations. Things like, think about, like, alerting, every getting access to, like, there's voids or discounts or fraud, something that ticks up, they want alerts. That's something you can set up now in Toast IQ, as well as workflows. A simple workflow might be at the end of the night if someone forgets to clock out, make sure the manager is notified so that they adjust those hours correctly.
+## Speaker 3 | 
+Right.
+## Aman Narang | CEO and Co-Founder, Toast
+The next phase of this is really this agentic capability we've been talking about, where it's moving from the simplest way to think about it is getting support, to getting data views and access to insights, to alerts and automations, and then step phase three is this agentic layer on top of all of our software.
+## Speaker 3 | 
+Now, do you think, you know, from the engagement, are you encouraged about the adoption and the usage and the discovery and the, and the awareness of Toast IQ, and then ultimately Grow? I mean, how do you see that evolving? Is it very short, quick? I mean, the engagement part is always so interesting to me.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah. I mean, one good data point that I think is telling is I always look for, you know, our versus our sales team, I always look for our customers telling other customers about the value of a new product 'cause it tells you a lot, and I've seen some of that signal.
+## Speaker 3 | 
+Yeah.
+## Aman Narang | CEO and Co-Founder, Toast
+When customers are engaging in buying Toast, we are seeing, Toast IQ, we track all the support, sales calls, as being a key reason why people are choosing Toast.
+## Speaker 3 | 
+Okay, good.
+## Aman Narang | CEO and Co-Founder, Toast
+Also in our upsell motion, right, our team is leading with Toast IQ as the foundational capability to bring all of this product together. Seeing some really good early signal. I will say, if you look at our TAM expansion work that we've done the past couple years, that is a little bit further along, right? You know, those businesses are, while they're still early in terms of the TAM penetration and the potential, have very meaningful revenue that they've scaled up to. We're on the, we're working on delivering the same with our AI products, but the early signal so far with our customers has been really positive.
+## Speaker 3 | 
+Okay, good. I know it's early with Toast IQ and then Grow.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+You talked about on the call how there's, you know, some future features that you're looking to roll out.
+## Aman Narang | CEO and Co-Founder, Toast
+Right.
+## Speaker 3 | 
+When could we expect that? What else can you share around the, sort of the roadmap here?
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah
+## Speaker 3 | 
+Around that view?
+## Aman Narang | CEO and Co-Founder, Toast
+I've asked the team now these tools as fast as possible.
+## Speaker 3 | 
+Yes.
+## Aman Narang | CEO and Co-Founder, Toast
+I think we see, you know, it's interesting with a lot of the engineering velocity work on PRs, one of the things we're really pushing the team on, and the team's doing a great job, is actually start to say, "Okay, are we delivering the roadmap faster?" I think we, you will see us increase the rate at which we launch new products and get input from customers and signal from customers to improve those products. Specifically in Toast IQ Grow, the opportunity areas of step one, maybe I'm missing, I shared some of this, but I'll try to break it down even further.
+Step one is if you leverage all of our tools, let's make sure that they're optimized the best they can be. It turns out that AI actually does a phenomenal job of, just looking at your restaurant's website and your copy and your online ordering images or your marketing copy and emails and text campaigns to increase conversion. We have seen that AI-generated campaigns are more effective at getting guests to come back in than human-generated campaigns because, again, they're leveraging data at scale, and it's, it can see which campaigns are more effective versus not. What we haven't done, and frankly, what really no one has done so far, is it's one thing to have campaigns and messages or offers that are largely, like, driven by, you know, intuition. An example would be I've got a happy hour offer, right?
+Come in earlier, come in later, we have some offers. It's another thing to actually use data to be a lot smarter about looking at yield. One of the pieces we're working on in Toast IQ is to go look at all of the kitchen capacity, the capacity in the dining room, and figure out what are ways in which we can leverage all the channels that are accessible to our marketing, whether it's email, text, Google, we have a partnership with them, social media, Local app, to generate the right messages and offers that are personalized to the guest that also factor in restaurant's availability and when they're busy and when they're not.
+One of the things that we're trying to work on is the biggest opportunity really is how do you find ways to leverage times that are available to get more people in the door? That's a problem that historically has been very, you know, has been done just through intuition and gut versus through data, and that's where we see the potential of the Toast marketing agent, just be a lot smarter. Think about, like, your airline or your hotel or any other industry, right? They're not, like, saying, "Oh," like, you know, "maybe the week of Christmas we can charge more." There's data that is being used to actually optimize the pricing and the schedule, and I think there is opportunity to leverage offers and campaigns to do the same in restaurants.
+## Speaker 3 | 
+Okay. Good. No, look, you speak with a lot of purpose and excitement. You know, I can feel it.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+We're definitely going to keep on asking you about this.
+## Aman Narang | CEO and Co-Founder, Toast
+For sure.
+## Speaker 3 | 
+Aman, over time, I appreciate you going through all that. Let's bring it back in. We've been spending a lot of time on AI, but I have to ask you this. Thinking about AI and deploying it internally, you know, we've been looking across our coverage of software, fintech, looking at gross profit per employee and trying to measure productivity and Toast is a little below average across the spectrum.
+I know it's not perfect in terms of benchmarking 'cause the world is a lot bigger than what I cover. Fair or foul, how do you look at productivity and measure, you know, where you can or could go with respect to AI efficiency?
+## Elena Gomez | CFO, Toast
+Yeah. I'll take that. First of all, AI certainly presents a massive opportunity for us, both on the revenue, across our P&L, both on revenue, on efficiency, and actually, as we deploy it further, the opportunity just increases. Aman talked a lot about the product and our opportunity. As long as we continue to deliver value for our customers, the monetization will follow. We feel very confident about that. Then in terms of efficiency, we're already starting to see some of that efficiency internally. We talked about 40% of our tickets are handled with AI. Our product velocity, we're seeing already early signal that we can get products and features out to market to our customers faster.
+That's the principle behind how we operate, is how can we do more for our customers, and can we get them value faster? Very confident in our ability to drive that efficiency, and in fact, earlier, I talked about our 40% margin.
+## Speaker 3 | 
+Yeah.
+## Elena Gomez | CFO, Toast
+I actually think it's gonna be higher given this opportunity across the P&L in terms of both our opportunity to monetize, but also to drive efficiency. In terms of the relative comparison, every business model's different.
+## Speaker 3 | 
+For sure.
+## Elena Gomez | CFO, Toast
+We're definitely paying attention to gross profit per FTE, as we deploy more AI, as we change how we work. Definitely we'll see that increase over time. Just zooming out, when you think about the strength of our P&L, of our financials today, we've delivered a ton of leverage over the last several years, both on an adjusted EBITDA basis, but also on a GAAP basis, and we're incredibly proud about that, and we're gonna continue to deploy that same level of discipline. AI complemented with the discipline that we've already been employing. We feel just gives us this opportunity to continue to drive leverage.
+That 40%+ margin is gonna be higher as a result.
+## Speaker 3 | 
+Okay.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+And-
+## Aman Narang | CEO and Co-Founder, Toast
+I'll just say, like, I'll just reinforce a really important point that Elena Gomez brought up.
+## Speaker 3 | 
+Please.
+## Aman Narang | CEO and Co-Founder, Toast
+Sorry to interrupt.
+## Speaker 3 | 
+Please.
+## Aman Narang | CEO and Co-Founder, Toast
+If you look at, like, the business the past couple of years, and you look at what we have done and actually delivered in terms of growth, both in top line growth as well as in expansion of margin, right? That's Elena and team really focused on scaling this business in a thoughtful, disciplined way. As you think about the future, there's one thing to take away, it's like we do not need the same level of headcount growth to grow revenue in this new world, and that is why we have more conviction the long-term margin's being even stronger.
+## Speaker 3 | 
+Now, we'll focus on the absolute margin. Look, you haven't sacrificed customer centricity either, right? I think that's.
+## Elena Gomez | CFO, Toast
+Continue to-
+## Speaker 3 | 
+I know. I don't want to take it all for granted.
+## Elena Gomez | CFO, Toast
+Yeah.
+## Speaker 3 | 
+That we're all just looking at an Excel spreadsheet here.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+Thanks for going through that. Let's do just for the sake of time, another big priority, of course, is expanding who Toast serves. You talked about it earlier, right? Every new TAM is growing ARR faster, and it's a higher SaaS ARPU than the core did at the same, in the same timeframe. Maybe I'll just ask, which specific piece in stacking the TAMs, what surprised you, Aman or Elena? Anything to call out here and magnify it and give us a little bit more on what you've learned?
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah. We, I mean, we are very encouraged by the progress we have seen in these new TAMs, as you mentioned. Sometimes people ask me about which business is not working.
+## Speaker 3 | 
+Yeah.
+## Aman Narang | CEO and Co-Founder, Toast
+The reality is, across retail, international, and enterprise, two, three years into these businesses, both the ARR growth and the absolute ARR and the ARPUs are stronger than when the core restaurant business was two or three years in. We're very early in terms of the market share that we have, and so that's what encourages me and the team to go after it. We're getting meaningful scale in terms of the revenue that we have achieved so far and the rate at which it's growing. In enterprise, we just opened up drive-thru. That's a big part of the TAM. We see tremendous opportunity there to leverage AI, especially voice AI there, to make that product even more differentiated.
+In international, we're very focused on really going after all the tier one cities in the countries we're in, and eventually we'll open up more countries. We're seeing our value prop resonate. Then in retail, I'd say, like, if there's one area that really surprised me the most to your question.
+## Speaker 3 | 
+Yeah.
+## Aman Narang | CEO and Co-Founder, Toast
+You know, I think there was a lot of skepticism internally, even, at the company about, like, what are we doing? We're a restaurant company. We've been doing this for 10+ years in retail. The signal's been incredible. Like, I think the reason the signal's been incredible is because if you go talk to a lot of these food in the categories we're in, we started with restaurant retail and then food and beverage retail. This is like grocery stores, convenience stores, liquor stores, early even with gas stations and even beyond now, in general merchandise and B2B retail. Most of them are using on-prem systems that were built literally before cloud. That's what surprised me the most.
+When they see Toast with our modern platform and our full ecosystem, it's like the same feedback we got when we launched Toast in restaurants.
+## Speaker 3 | 
+Yeah.
+## Aman Narang | CEO and Co-Founder, Toast
+That's, I guess, the main thing that surprised me about just the product market fit in retail. It kind of further reinforced that, like, if we wanna build, you know, these businesses that serve just brick-and-mortar retail more broadly, the answer is vertical. It's not horizontal. You've got to go deep in each vertical, and that's what customers are looking for.
+## Speaker 3 | 
+Okay. We're running out of time. I have to ask you about the consumer opportunity, 'cause I know, Aman, I've asked you about this so much, 'cause I feel like, right, the merchant platform is clear.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+You have the opportunity around the consumer side I think is so interesting. What's the latest on Toast Local? How has that app evolved? Are consumers using it as you expected? I know there's been some changes that you've made, but what's the vision? Has that changed?
+## Aman Narang | CEO and Co-Founder, Toast
+We know we're building consumer DNA in the company. Like, historically, the company grew up as B2B.
+## Speaker 3 | 
+Yeah.
+## Aman Narang | CEO and Co-Founder, Toast
+It's a new muscle for us. The positive thing is, like, over the past, just even quarter-over-quarter, we have seen app downloads more than double. We have seen rankings in the App Store, ranking food and beverage, and increase materially. I think the key reason there is we've got a clear focus in terms of really about two things, great value and a great experience when dining out. That's the primary focus of the app. What do I mean by that? Signing up for loyalty programs across the tens of thousands of loyalty programs that are available across restaurants is a lot of work, right? Like, getting a punch card or dealing with, like, something extra for each restaurant.
+One of the things that Toast Local does is you can track your loyalty without any friction across all those restaurants, earn points almost in the background. Think about it like you swipe a card, you've got the same card on Local, it just knows. You can link it on phone number, for example. The ability to get loyalty across all these restaurants, a lot of people really value. Similarly, great offers that only we can create because we have the data on the restaurant's throughput and when they're busy and when they're not. We're building out offer, an offers platform to help restaurants automate that entire workflow of generating offers, which this is through actually part of Toast IQ Grow to drive incremental demand.
+Lastly, we just did a partnership with Resy, and so now between Resy and Toast Tables, we've got a lot of density of restaurants you can book tables at.
+## Speaker 3 | 
+Right.
+## Aman Narang | CEO and Co-Founder, Toast
+You can put a card on file when you book a table. One of the things that, this is very early, but one of the things I'm really bullish on is, at the end of your meal, instead of having to pay for your check, you can just, the server just shows up and says, "I see your card on file." You just leave. The focus of the app is great value, great experience. We're seeing really good early signal. Now, look, restaurants are very local, so we don't need to go do, like, a national campaign. We're trying to prove in a few cities the product market fit and, you know, the retention of users and the, and all the metrics that matter to being able to have conviction to invest even more. That's what we're working through now.
+## Speaker 3 | 
+Okay. No, it's exciting. I think it's a fun topic to keep.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah
+## Speaker 3 | 
+tracking on this.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+Off the beat of the B2B piece, I think it's important.
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+Just staying with the consumer, anything to share? We just heard from Visa, but anything to share on what you're seeing on consumer health spending?
+## Elena Gomez | CFO, Toast
+Oh, yeah.
+## Speaker 3 | 
+et cetera? Yeah.
+## Elena Gomez | CFO, Toast
+Yeah, look, it's Q1 consumer spending was in line with our expectations, Q2 is stable, that's sort of what we expect. You know, we've studied restaurant cycles over time, they've proven to be incredibly resilient, not surprising to us that they're relatively stable. What we've always said is our GPV per location, a metric that we look at, is always within a narrow band, that's really what we're seeing in Q1 and Q2. Overall, resilience is what I would say, and stability.
+## Speaker 3 | 
+Okay. Maybe just sneak one more and then the closing question. Thinking about capital priorities, had to ask that. That's in every conversation. There was a, feels like a bias more towards share repurchase. I know the authorization is there. Anything changed on the M&A front that's worth sharing here on stage?
+## Elena Gomez | CFO, Toast
+I think with M&A, like, our capital allocation discipline is always, you know, very much sort of a playbook that we execute against. In terms of M&A, the bar is high, right? We're always canvassing the market just as a normal course of business, what we're really looking for is products or assets that would accelerate our roadmap, maybe get us to market faster. They have to be accretive, obviously financially, culturally. There's a lot of factors that we look at, the bar is really high because we have so much opportunity in our core, so much to invest in our new TAMs as well. In terms of repurchases, that's just, you know, us giving back to shareholder, delivering long-term shareholder value.
+We'll continue to be opportunistic if the market dislocates, but we feel really good about our overall discipline here.
+## Speaker 3 | 
+Okay, good. Let's close it out. We talked about a lot. I can definitely sense the enthusiasm around AI. Aman, we spin forward a year from now, and hopefully we get you back here on stage. What's the one-
+## Aman Narang | CEO and Co-Founder, Toast
+Yeah.
+## Speaker 3 | 
+...outcome or deliverable that you're most excited to lead the conversation with next year?
+## Aman Narang | CEO and Co-Founder, Toast
+Some of it might be boring. It'll be more of the same.
+## Speaker 3 | 
+That's okay.
+## Aman Narang | CEO and Co-Founder, Toast
+Like, delivering more location adds and more ARPU and all the basics. That doesn't change. I think there's real potential on some of the AI revenue.
+## Speaker 3 | 
+Okay
+## Aman Narang | CEO and Co-Founder, Toast
+that helping us accelerate the surface area of the products. Toast IQ Grow being the first of many agents to come.
+## Speaker 3 | 
+All right. We'll be watching out for that. Thank you, folks.
+## Elena Gomez | CFO, Toast
+Thanks, guys.
+## Speaker 3 | 
+Thank you, everybody.
+## Elena Gomez | CFO, Toast
+Appreciate it.
+## Speaker 3 | 
+Thank you.
+Data Source: Quartr Last updated: May 19, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

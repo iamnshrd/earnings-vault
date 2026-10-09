@@ -1,0 +1,235 @@
+TITLE: Goldman Sachs Communacopia + Technology Conference 2026
+DATE: 2026-09-10
+## Eric Sheridan | Analyst, Goldman Sachs
+Well, it's my pleasure to start our next fireside chat with the team from Lyft. David, thanks so much for being part of the conference this year.
+## David Risher | CEO, Lyft
+Of course.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. To start us off, I think where we want to do is the mobility offering continues to evolve.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+You've been on a big journey.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+What you offer consumers today is very different than what you were offering two or three years ago as the product and the platform continue to change. Talk a little bit about that before we get into all the current state and the future state of the company.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+Talk a little bit about some of the imprint of change you've put on the company through platform and product changes.
+## David Risher | CEO, Lyft
+Yeah, for sure. So, it's true. I guess I've been in the chair just about three and a half years now.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## David Risher | CEO, Lyft
+Best thing in the world, most fun I've ever had in any job. Let's look back for a couple of years just to sort of maybe set the context. Three years ago when I started, gosh, I think we were doing about 700 million rides a year. We were not GAAP profitable at the time. I think we were generating a couple of hundred million dollars in EBITDA, and we were consuming cash. I think we were burning about $300 million of cash, $250 million three years ago in 2023. Now where are we? Now this year we're going to do over 1 billion rides, which is absolutely wonderful, and we'll come back to that a whole bunch of different times. Of course, we're generating cash to the tune of about $1 billion a year.
+We're EBITDA profitable, of course, to the tune of maybe $700 million. By the way, this math comes from just look at Q2 and annualize. Just multiply it by four and do that kind of comparison. We'll generate maybe $300 million or $700 million in EBITDA, and of course, when we hit GAAP profitable. That is a huge difference, and I have to pause right now for one second. This is not your question, but I cannot move beyond looking at Erin Brewer here. I have done this, of course, as CEO, but I've had an incredible partner in crime the whole time, Erin Brewer. Erin just announced yesterday she is going to retire towards the end of this year, and I just want to spend a second to give her a huge round of applause.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## David Risher | CEO, Lyft
+Every single person here. If there's any good news, and there's only one piece of good news, is that sitting right next to her is Michael Brous. Michael Brous is the guy who took our Lyft business from not so good to fantastic. He's a finance guy. He's a strategic guy. He's an operator. He's exactly the right guy to take us forward. Let's talk a little bit about the future. Where are we going now?
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah.
+## David Risher | CEO, Lyft
+Right? I think there are three dimensions to sort of look at. I think you can look at, here's how we talk about it. Lyft is going to grow up, we're going to grow out, and we're going to grow forward. What does that mean? Think about each one of those. Up means up more towards luxury. If you look at the last couple of years, one of the real sort of macro trends I think you can see is an enormous interest in higher value items. And you see this sometimes on the economy side, it's called the K-shaped economy. If you talk to people in the airlines, you say they're making all their money at the front of the plane. We will do some of the same. We have a whole set of luxury offerings.
+Of course, we acquired a company called TBR that really sets the standard up at the top on the chauffeur side, so we should talk about that. And we've already made great progress there over the last couple of years. So that's up. Now, out, what does that mean? That means overseas. About a year ago, we acquired Freenow. That acquisition has been an incredible, frankly, game changer for us because it's allowed us to think as a truly global company. I'm sure we'll come back to that, but there's a lot more to come there. That doubles our TAM, right? I mean, roughly the size of Europe is the size of the United States. A huge amount of opportunity there. And then forward, of course, is into the AV future. And this will be a locomotive.
+This will be an absolute massive tailwind for us, and the question is, how do we make the most of that?
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. We are going to talk about all of those.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+I will hope that Erin will miss me asking her about capital allocation which I think happened every 90 days for the last couple of years. Let us start with the consumer.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+You have a read into the consumer that has been a debate point here at the conference over the last couple of days. What are you seeing about the health of the consumer? You referenced in your first answer a little bit about the K-shaped economy.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+Talk a little bit about just what you are seeing from the consumer backdrop.
+## David Risher | CEO, Lyft
+I will tell you something interesting here, and I think this might be a little bit of a shift in sort of at least my narrative. I am not sure that rideshare any longer is going to be the best read on the consumer, and here is why. We are all reading about the stress that consumers are under, right? And it is real. That is not something to take lightly. But if I look at our business, what do I see? I look at last week, for example. Last week was an all-time high for rides in the company's history. All-time high for rides. It was also an all-time high for driver hours in the company's history, right? We have been around for 14 years, and two weeks we are reaching all-time highs now. Okay.
+What this suggests to me is that we are embedded in people's lives in a very deep way.
+This is no longer discretionary spending. I think when you look at, if you ask about consumer health, you often want to look at discretionary spending, right? Because you're looking for trade-offs that people are making where they feel like they have a choice. For many people, Lyft is the way they get to work every morning. Our commute highs are at all-time highs as well. It's the way they get to the grocery store. Grocery store visits have gone up by 15%. It's the way they live their daily lives. It's no longer a question. Now, interestingly enough, we're also seeing all-time high in party hours. You can also read the media about this, the sort of, let's say, attraction, I think almost magnetic attraction of in real life experiences, NFL games or concerts, whatever it is.
+I actually think, as much as I'd like to be able to tell you all about the consumer through our lens, if I only look through our lens, I would say the consumer is very happy up and down the spectrum.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. When you turn the focus to your core business in North America,â
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+âyou've seen strong growth trends in North America year- to- date.
+## David Risher | CEO, Lyft
+That's right.
+## Eric Sheridan | Analyst, Goldman Sachs
+Talk a little bit about the building blocks that have produced that type of growth and how you think about trying to maintain and build on that momentum as we get deeper into the year.
+## David Risher | CEO, Lyft
+Yeah. Okay. I'm going to zoom out for a second. You asked about growth. I'm going to start with a total co-perspective just to sort of level set a second, and then zoom back into North America. Okay. On a total co-perspective, if you look at growth rates of H1 and H2, and this I would expect a lot of ears to perk up at this point because you tend to look very careful at these things, you're going to see pretty similar numbers in terms of growth rate on a total co-perspective. Okay, why would that be? Well, let's break it down. Let's go global, then let's go to your question in North America. Globally, we acquired Freenow about a year ago. That means in the first half, every ride was incremental. Every ride was incremental.
+Whereas the second half will lap Freenow acquisition, that means that not every ride will be incremental. Okay, so if total growth is roughly similar H1 to H2, and now you just heard what I said about what's happening overseas, let's look at the U.S. In the U.S., quarter, after quarter, after quarter, after quarter, we've seen accelerating growth. Accelerating growth. And we expect that that will be the case through the back half of the year as well. Okay, so now to your question, what are the drivers? This is one of those very interesting businesses. We call it a business of inches. It's not one thing. It starts with our very stubborn focus on our strategy, which is customer obsession drives profitable growth. That's where you see the innovation come. First, let's talk about the basics. We're picking you up faster than ever.
+In fact, if I can brag for a second about the team, 78% of the time right now, we pick you up faster than or as fast as our bigger competitor. That's a big deal. Our pricing is competitive. Our ETAs are fast. Our cancellation rates are low. Basics, right? You have to do that 24/7. Then on top of that, you've got a whole set of customer-focused innovations. You might think of them as demographic innovations. Things like Lyft Teen, which has grown some crazy percentage over the last couple of months, or Lyft Silver for older people. Then you might look at it geographically. Where are we sort of overachieving geographically? Well, there are areas which we call low-scale markets. That's where a lot of the TAM is in North America, and we've got very strong double-digit growth in these lower-scale markets.
+You look at Canada, another geographic cut, where we're doubling roughly year-on-year. Just huge growth in Canada. That's amazing as well. The last piece of this kind of growth engine, which has all these different kind of pistons all kind of plugging along, is around our partnerships. Our partnerships now, and here I'm talking about the DoorDash, the United, the Bilt, the Hilton, the Alaska, the Chase. Each one of those in their own way, and we can talk about them individually if you're interested, but collectively, they account for about 30% of our ride volume. That's up from 20% a couple of years ago. In every one of those cases, those are strong drivers, either of acquisition or retention. It's really kind of an all-of-the-above strategy, but I think we're doing a really nice job executing on all these dimensions.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. That's the global picture, and it's the North America picture. Let's just double-click down on international because you've acquired.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+Now you're talking about going into a further array of markets over time as well and extending your own brand deeper into European markets.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+Talk about the international opportunity set and what you've done from a capital allocation standpoint to date that sets you up to execute on that strategy.
+## David Risher | CEO, Lyft
+Sure. As I said, the big change, and it really was sort of a step change within the company, is the acquisition of Freenow about a year ago. It cost us $200 million or so. It was about $1 billion of booking. So significant, but not mind-blowingly big from a financial perspective. But very significantly operationally, because what it allowed us to do is say, let's take our U.S. systems and start to globalize them. Let's really start to make sure that these systems that were built for North America can work around the world. What's the evidence that we're on track, and then where are we going to be? The evidence that we're on track is we are actually ahead of schedule at unifying the app experience.
+Even today, right now, if you're friends and family of Lyft, if you're in Europe, in fact, my brother, it's literally friends and family, my brother just sent me some feedback on this this morning. If you're in Paris or in London or in Barcelona, all across Europe, you can open up the Lyft app if you're friends and family and get a ride. What does that mean? That means that certainly by this time next year, the 300 million-plus people who live in Western Europe will have a new first-tier customer-obsessed rideshare option. Again, it doubles our TAM, and there's just huge upside because we've got great technology we've been working on for 14 years, and we can really bring that into Europe. So that's one thing it means.
+Another thing it means, and by the way, we're actually ahead of schedule on that, which is a whole separate, interesting AI story. The second thing it means is that today, 390 airplanes will take off from American soil and will land in European soil. 390. That's a typical number for this time of year. Every one of those will have 300 people on them, and every one of those people need a ride when they get to the airport. That today has basically been unavailable to us as a market. That's a large number. Do the math. It's 30 million, 40 million arrivals every single year over the course of the year. That is an enormous thing.
+This time next year and before, Europe will have a first-class rideshare system that they don't have today that brings new capabilities and customer obsession and will be much more open to the travel market. Which is, by the way, a double win for us because it turns out that sometimes when people go to Europe, they switch over to the other guy, and when they come back to the U.S., they forget to switch back to the better option, which is us. There's some leakage there that we can kind of plug. That's kind of the big picture there. Very significant opportunity for us.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. Understood. You talked earlier about the push into premium and repositioning yourself there.
+Talk about what you need to get right on both the supply side and the demand side to scale the premium offering over time, because there's obviously a higher bar for what those types of customers expect for the price points that typically sit in that part of the market.
+## David Risher | CEO, Lyft
+100%. I will tell you a funny story. I was talking to one of our drivers last year about exactly this topic, and I said, "What do people who are taking Lyft Black cars expect?" He said, "They expect everything. They expect the cars in front of me to part so that I can actually kind of speed up and get to the airport." You are absolutely right. Okay, let us talk about luxury. Luxury, as you know, just talk about account Amex for a second. It is very attractive. Why? The price point is high. That drives bookings. The margins are high, not just because the price is higher, but because remember, professional drivers, and these are professional drivers, carry their own insurance. That is very important to us.
+It has all sorts of interesting access to a whole customer set that is very difficult to get to if you do not have a great high-end offering. We have been working on this for quarter after quarter. I forget the exact numbers, but I think we grew maybe 60%, 70%. Very significant. It is actually Lyft Black SUV and other premium offerings in our rideshare portfolio are our fastest-growing, we call them internal modes. Anyway, really good start there. It is not just by accident. You asked about supply and demand. On the supply side, 18 months ago, maybe one in three drivers was a professional driver. Now we are up to about one in two, and soon it will be the vast majority will be a professional driver with the better economics and the better service and so forth and so on.
+That is rideshare luxury, and that is the space where, frankly, we are under-penetrated for historical reasons. We have got a lot of headroom, particularly if you compare us to the other guys. On top of that, last year, we bought a company called TBR. TBR is a chauffeur. Now we are talking about the luxury space has some striations there, right? It has got the stratification. You have got rideshare luxury, and then you have got the ultra-premium chauffeur luxury. TBR is a company that many people in this room, I would expect, would know. You may not know them by name, but you have almost certainly been in one of their cars. For example, their client list includes 16 of the top 20 investment banks for non-deal roadshows.
+I do not know who the other four are. I feel bad for you guys. You guys got to get with the program. It is used to exactly that. Honestly, if you are 10 minutes late to the appointment, you are never hired again type thing.
+## Eric Sheridan | Analyst, Goldman Sachs
+Right.
+## David Risher | CEO, Lyft
+That sets a level of luxury that is, frankly, above typically anything that Lyft is able to offer today. It is putting those two together and really trying to figure out how to create some kind of cross-pollination between the two, that I think really opens up that opportunity for us.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. At the other end of the spectrum, you have been very consistent talking about the need to make products more affordableâ
+## David Risher | CEO, Lyft
+Yeah
+## Eric Sheridan | Analyst, Goldman Sachs
+âto drive rider growth into the platform over time.
+## David Risher | CEO, Lyft
+That is right.
+## Eric Sheridan | Analyst, Goldman Sachs
+Maybe update us a little bit on where those efforts sit in terms of driving more affordability. I would love to also talk about how affordability can also be tied back to some of the insurance dynamics in the business that we are seeing play out as well in 2026.
+## David Risher | CEO, Lyft
+Sure. Yeah, love the set of questions. The first thing I have to say about affordability is your best. Actually, let me zoom way out. I will take 30 seconds of context. The first thing to remember is we will do 1 billion rides. In North America or worldwide, the other guys, maybe a couple billion to 3 billion in North America, something like that. So maybe between the two of us, we have 3 billion- 4 billion, something like that. Okay, that is a big number, but guess what? People take, just in North America, 160 billion rides in their own car every year. Why do I start with that? Because guess what? Rideshare is inherently affordable for many people. Average cost of a new car right now, $50,000. That is $800 a month. $800 a month, plus gas, $900, plus insurance, $1,100, maintenance, $1,200, whatever else.
+Okay, compare that to a $20 Lyft drive. So let us just start right there. Rideshare is affordable, and I think that is one of the reasons why we are still seeing so much great industry growth independent of the company, because it is a good product, and you can text, and you can drink if you want to, all the things. Okay. Now, let us move forward. In the affordability side of things, we want to have a ride for every single price point. Frankly, it starts with bikes. I do not know if you have been out in San Francisco, you guys. We now have Lyft Bike on the street. I hope you take them. If you do not take them, have not taken one yet, take one to dinner. It is an awesome experience.
+Very affordable option. I was on stage with Daniel Lurie a couple of weeks ago.
+Mayor Mamdani feels the same way in New York City, that the bike system is going to be basic infrastructure for a city that is very affordable. Then you have Wait & Save. We were the innovators there. It is still a great product for us. For people who want to wait a little longer, they can pay a little bit less. Then you have our standard offering. Best way to save money on standard is to check both apps. We say it over and over again. Save money, check Lyft. Here is an interesting thing. On average, if you check both apps over the course of a year in New York City, you save $180. If everybody checked both apps whenever they wanted a rideshare, we would do pretty well. We would do pretty well. That would be very good for us. Just think about that.
+That is another affordability option. Then we have Extra Comfort, then we have the Lyft Black and sort of less affordable options. Our goal is to allow anyone who wants a ride to open up our app and shop within our. If they want to cross back and forth, that is totally fine. At the end of the day, obviously, I want them to end up where we are. The last thing I will say is, then we have very specific affordability options that we have innovated around. Price Lock would be a good example. If you do not like surge pricing, fine, pay us $399, $499 a month for our route, and you will never have to pay more than the average price there. It is a multifaceted approach.
+It starts with the fact that we are an affordable option compared to your next best alternative, or even compared to the other guys in many cases, and then we try to build in from there. Oh, and then you mentioned insurance.
+## Eric Sheridan | Analyst, Goldman Sachs
+I was curious, obviously there have been changes in the business from an insurance standpoint.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+What does that do to your P&L?
+How can the reforms around insurance also feed back into maybe funding some of these initiatives from an affordability standpoint?
+## David Risher | CEO, Lyft
+It's very interesting. Okay, again, we'll step back for every one of these questions just to give a little context. Okay, insurance is a very large cost for rideshare, as you know, in the billions of dollars. You have to start, before you even get to the policy reform, with do you have a well-managed insurance program? We have, I believe, best-in-class managed insurance program. We've got amazing people on it. We have amazing technology behind it. We have a whole set of tools. It's everything from the safety tools that we have to the claims management tools and everything in between. The way we interact with our partners, I'm talking about our insurance partnerships, very, very deep. Very, very deep. We exchange a lot of data because we, in some sense, have a common outcome, which is we'd like to reduce accident frequency and severity.
+Okay. You can only go so far given the policy framework, particularly in certain states, California sort of being Exhibit A, where insurance minimums are so high they encourage all sorts of crazy, perverse behavior. As you know, and you're kind of alluding to, we had a very, very significant insurance, I would call it a policy win this last year. We had a smaller one in New York. We had a very big one in California. To give you a sense of the order of magnitude, it could be $6 in a single ride that you're paying just to cover the million-dollar minimum insurance prior. Now it's more down to $300,000. The question is, well, where does that extra money go, quote unquote? The basic answer, if you go back to our strategy, is we want to give it back to our customers.
+We want to give it back to our customers, right? We want to give it back to riders in the form of lower prices. We want to give it back to drivers in higher pay and in greater volume. The case study of California is very interesting. I am going to be sort of illustrative here rather than quantitative, but looking from your perspective, you might say California growth was kind of looking like this for a period of time. Then we went into reform mode, and you might say it looked kind of like this, because these things take a while for people to change their behavior. Now you would say it is going like this. Every state we can bring this kind of level of policy reform to, we will do it.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. Understood. You alluded earlier to partnership strategy. You have a lot more of these partnerships in place now than you have done in prior periods. Talk a little bit about what you have learned about the customers who come to you via these partnership strategies and how you think about the opportunity set to grow the entryway into your platform into a broader example of LTV of customer cohort over time.
+## David Risher | CEO, Lyft
+Love that. I think some analysts kind of stay at high level, some analysts like to go down deep. This is an area, actually, I think the depth pays off because each partnership plays its own role, both for us and for our partner. Let us give a couple of examples. Well, first, again, a reminder, about 30% of our rides are tagged to partners, up from 20% a couple of years ago. We would expect that will continue to climb because it is a very important part of our customer acquisition and retention strategy. Okay, now let us break it down a little bit. Let us look, for example, at DoorDash. Okay, so DoorDash is a relatively new partner in our portfolio, but we are thrilled with the partnership. Thrilled. It is not just early indicators anymore. It has now been in place for some time.
+The most recent indicator is our recent entry into Canada with DoorDash, has wildly exceeded our expectations. It's a crazy number, 40% up of something. I forget exactly what. What I can tell you is, and here's the thing I absolutely do remember, we had certain annual goals for that partnership in terms of new customers that are linked, and we've exceeded those annual goals already. The Canadian expansion just happened a couple of months ago. What does that tell you? What that tells you, it's working for us and it's working for them. How's it working for us? It drives frequency, right? People eat three times a day, and so that's a frequency driver for us. For them, what it allows them to do, quite obviously, is allows them to have a competitive offering with a competitor, and that's very helpful for them.
+It absolutely helps both companies. You would expect that partnership to continue to deepen over time based on how successful it's been for both of us. Let's look at United Airlines. United is a newer partner. Here's a very interesting fact. You can now earn United MileagePlus miles by taking Lyft. You can burn them as well. People have earned roughly in the six months or so that it's been out, maybe a little bit more, I think it's about 600 million miles so far, and they have burned roughly 300 million miles so far. In other words, spent those miles on Lyft. Why is that good? It's good because United customers tend to be travelers, obviously, so they tend to take airport trips obviously, which tends to be longer and higher margin, higher priced trips, probably obviously. People tend to level up.
+They take Extra Comfort and Lyft Black to airports more often than others. So that's good for us. Why is it good for United? It's good for United because most people, not the people in this audience, but most people travel maybe once or twice a year on airlines. So you don't have that many ways to spend your points, which means your points only have a certain value. But if you can spend your point every single day on Lyft, it increases the value of the point pool, which is good for United because all of a sudden it makes their MileagePlus program more interesting to people. So it's a great partnership. By the way, we now show up in the Arrival tab, the Departure tab, and you can see us growing deeper and deeper there. But it's really around high value, less frequent. Let's take maybe one more.
+Bilt. Bilt's a much smaller company. Some of you know it because they're a very significant presence in New York. Bilt, as you may know, it's a platform that allows you to pay your rent on their app, and then you get points back to do different things in your community. How many times do you pay rent a year? 12 times a year, right? So they have a product that has a certain frequency, but they'd love to interact with their customers every single day. So through the Bilt point thing, which you can again burn and earn, I think people have burned over 1.5 billion points since the beginning of that program. So I know that was a lot of color, but it tries to give you a sense that each one of them has a use for us and has a use for our partner.
+To wrap it up, I would expect, don't think of us as having 70 partners in five years.
+## Eric Sheridan | Analyst, Goldman Sachs
+Sure.
+## David Risher | CEO, Lyft
+Think of us as having, say, five to 10 maybe, but really deep and mutually beneficial.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. You front ran my follow-up. I was going to ask about how to think about the potential for density in this, but it sounds like you'd rather be deeper with a handful of partners that address maybe certain verticals in general that open up opportunity sets on both sides.
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+That was very clear. All right, we got this far, and we haven't talked about AVs, so we're going to talk about AVs.
+## David Risher | CEO, Lyft
+What?
+## Eric Sheridan | Analyst, Goldman Sachs
+I want to give you the opportunity to just lay out your worldview of what's happening right now with mobilityâ
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+âand the decisions you're making as a company and a team to align yourselves with the secular themes around autonomous longer term, then maybe I'll have one or two follow-ups.
+## David Risher | CEO, Lyft
+Awesome. Okay. AVs. The first thing I want to say, and this is again, if you remember nothing else from today remember this. There are people who believe that AVs are a threat for our industry. That is dead wrong. It is the biggest gift we could possibly have gotten. The biggest gift we possibly could have gotten. Why? Because it is technology that customers like, right? So if you've taken a Waymo, you know this, right? It feels reliable, it feels private, if that's what you want. It feels safe, magical. And the economics are awesome. Think of the two biggest costs we have in the rideshare industry. We pay drivers a lot of money. We pay insurance companies a lot of money. I would expect over time that will go down, not up.
+You don't often get to be in an industry, there's going to be a massive transformation where the product itself is actually getting significantly, step change better and cheaper to operate. Okay. So that's amazing. The question becomes, how does Lyft respond? And I would argue very strongly, not just from my position, but I think looking at it somewhat objectively, that we are the best-positioned company in the world to take advantage of this transition. Why? Because first, you've got to have demand, right? If you don't have demand, it doesn't matter. Right? And it's very expensive, by the way, to create demand. Very expensive to create demand. So we have a lot of demand. 1 billion rides a year, 50 million customers over the course of a year. Got a lot. Then, what else do we have?
+We have all the systems that are required to take that demand and turn that into a ride. That is how is it priced? Where is the pickup location? Where is the drop-off location? What is the gate code for this community? What happens when you leave something in the car? People leave, 8,000 times a week today, people leave a phone in a Lyft. 8,000 times every week. That is a system that we have built. We have got a crazy system that does all sorts of amazing things.
+As soon as you get out of the car, it allows you to contact the car, all this sort of stuff. It was quite a bit of work, but now we have taken our average phone, right now something like 60% of people get their phone back in less than three hours, which is a huge deal compared to 0% a couple of years ago.
+The point is you have all these systems that take millions of ride requests every single year and translate them to rides. That is one thing that we have. As well as we have millions of customers. What is the next big piece? You have got to manage these things. These are physical assets. They take up space in three dimensions. They do not charge themselves. They do not reboot themselves. They do not clean their own sensors. They do not do any of these things themselves. All that takes human labor and it takes expertise. We have been doing this now for over a decade. We have a subsidiary called Flexdrive. Flexdrive owns anywhere from 10,000-1 5,000 cars.
+It was originally designed for drivers who did not want to use their own car, but now we have extended that to AV capabilities. This is truly best in class.
+This is all about making sure that that asset, that multi-hundred-thousand-dollar asset today, which maybe someday is $50,000, but for some period of time it is going to be hundreds of thousands of dollars per car, has to be utilized, has to be available. It is all about making sure that that is available. If I compare our availability rates to another. Think of 100 cars. How many of them are available to drive at any one time? Think of us, then think of Hertz. I am not picking on Hertz, I am just using them as an industry example. Hertz, they might be very excited if 80 of those 100 cars was available to drive at any one time. Be very excited. They would think they had done a very good job.
+We would be disappointed if it were less than 90. That is our record. I mean, that is our SLA.
+Okay, this physical infrastructure, we can come back to what that kind of feels like and looks like. We have opened up in Nashville recently. It is kind of an interesting case study. There is a whole set of policy issues that have to be worked out, and there is a whole set of other issues that have to be worked out. Our job here, and now I will stop, is we want to be the company that is the best positioned to take this very expensive R&D, billions of dollars worth of R&D, and take the products that are coming out of those R&D labs and commercialize them. We want to be the absolute best way, the best demand generator, the best fleet operator, obviously, and then the best partner.
+## Eric Sheridan | Analyst, Goldman Sachs
+There was a lot in there, but let's maybe justâ
+## David Risher | CEO, Lyft
+I got more.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yeah, I know. Maybe distill it down toâ
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+âone question I'll ask as a follow-upâ
+## David Risher | CEO, Lyft
+Yeah.
+## Eric Sheridan | Analyst, Goldman Sachs
+âwhich is what I find investors struggle with is what milestones or roadmap am I supposed to be following for how this ecosystem evolves? You've made a number of partnership announcements.
+## David Risher | CEO, Lyft
+Yep.
+## Eric Sheridan | Analyst, Goldman Sachs
+There's more vehicles that are going to come on the roadâ
+## David Risher | CEO, Lyft
+Yep.
+## Eric Sheridan | Analyst, Goldman Sachs
+âwith each passing quarter and year.
+## David Risher | CEO, Lyft
+Yes.
+## Eric Sheridan | Analyst, Goldman Sachs
+How would you anchor investors around thinking about what should they be mindful of to gain more confidence in your strategy with respect to AVs?
+## David Risher | CEO, Lyft
+Okay. It's a very good question. It has a multidimensional answer, but I will really try to simplify. The first level setting I think we have to do is this will take time. The reason is because it's physical world, it's city by city, it's policymaker by policymaker, it's OEM by OEM. Many things have to line up, right? That becomes, well, okay, to your point, what are the big milestones you should look at? If I were in your shoes, I might take a number of cities as an example, top-tier and second-tier cities. I might start to look across them and say, okay, where is there enough demand? Where is there a good chunk of demand where rideshare companies can really work, anyway, because you have to have demand, otherwise assets can't be utilized.
+Where is there a technology partner, an ADAS provider, a self-driving car provider, who is capable of operating at some scale with, very importantly, driver out, right? That's going to be another thing. Where are policy things lining up, and then where is there physical infrastructure being built out in the cities? I think when you start to see not just one city or three cities or five cities, but 10, 20, 30 cities, where you can check all those boxes, where you can see some sort of driver out at scale thing going on, where you can start to see the policy kind of lining up to open up. A lot of people can say, "Okay, we're good up to 200 cars. We're not going to do 2,000 cars."
+When you start to see physical infrastructure of the type we've put in Nashville, again, I'll come back to that. I think you sort of have to be able to check all of those boxes over the next couple of years, and that's what's going to start to kind of open your eyes. If I'm going to say one last thing, I would say by 2030, I think it's quite possible we will be doing at least 10% of our business through AVs. By the way, still 90% driver-driven. Let's be clear. A hybrid network, you got to have it. Otherwise, it's very difficult to create a great service. But 10% might be AVs.
+I would then, if I kind of stepped into it, here we are in 2026, I would expect in 2027 you just see some significantly larger scale driver out across multiple cities, and then it'll be in 2028, 2029, and 2030 where things really start to scale.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay, that is very clear. Micromobility, you referenced it earlier. How should investors think about where you operate with micromobility today, what some of the building blocks or growth are going forward and how to think about even geographic expansion in areas like micromobility, if that's an area of focus.
+## David Risher | CEO, Lyft
+Yeah, love that. You know what, Eric, if you don't mind, this could be a first. I'm actually going to turn it back to AVs for one more second.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay, sure.
+## David Risher | CEO, Lyft
+Nuts, right? Because I do want to say one thing. We just started to take yesterday. It was our first day of accepting riders onto Waymos in Nashville.
+## Eric Sheridan | Analyst, Goldman Sachs
+Yes.
+## David Risher | CEO, Lyft
+I think if you're looking back to your earlier question, if you want to see sort of a microcosm of how this is going to get built out, there's a back-end piece to it where we're currently managing a temporary depot. That goes to a full-time depot starting in the middle of October, 80,000 sq ft, 4.5 MW of power to this thing to keep these things charged. Availability is going to go. Then you look on the demand side, the integrated marketplace we've created with Waymo, where you can literally get Waymo on the Waymo app or the Lyft app. I think you can almost start to use, because they're sort of tip of the spear. So I might encourage you to look at that city and see the progress there and then see how many other cities are following that same path.
+## Eric Sheridan | Analyst, Goldman Sachs
+Okay. Sure.
+## David Risher | CEO, Lyft
+Back to your micromobility question. Micromobility is amazing. We are primarily talking about ebikes, of course. If you look at the trajectory of mobility around the world, not just in the U.S., it is really the introduction of ebikes that have all of a sudden taken cities and flattened them, right? Even a city like San Francisco. It makes the whole city available to you on an ebike, and we feel that every day. Just so that everybody knows, we run the bicycle system here in San Francisco and New York and Chicago and, where else? Portland and what am I forgetting, Brose? He is my man. In D.C., Boston. We are a significant player in that space all across the United States. Then we supply the software and the hardware in around 50 other markets around the world.
+It is everything from Barcelona to Madrid to London to Guadalajara, pick cities all around the world. This is an investment we started to make years and years ago because we could see the future. We could see, as London was remaking itself as a bike-friendly city, as New York was remaking itself as a bike-friendly city. This would be physical level infrastructure that fits into a city and tends to be long-lived, 10- 15 years, and therefore provides a really, really good kind of platform for us as a company to frankly, get our fingers into cities in a deep way. It is something that riders absolutely love. Now to your question, a couple of things. We just acquired or are in the process of acquiring a company called Serveo.
+Serveo is a bike operator, the world's best bike operator, I would argue, out of Spain. You can imagine that some of the work we do today, the end-to-end operations that we do today in places like New York and San Francisco, you can start to see in different cities in Europe, where today we are kind of a, let us say, a behind-the-scenes vendor. Then I would not be surprised to find us further expanding this as a branding and customer acquisition and retention tool, as well as just a strong economic. It is now a good business economically. So that actually gives us some space to play around with it. So a little bit of a stay tuned message on that one, but do not ignore it. It is economically good for us, and riders love it.
+## Eric Sheridan | Analyst, Goldman Sachs
+We have got about a minute left.
+## David Risher | CEO, Lyft
+Yep.
+## Eric Sheridan | Analyst, Goldman Sachs
+I'm going to turn it over to you. When you talk to investors, what do you think is the most misunderstood about the business, and frame it against what you're most excited about the business?
+## David Risher | CEO, Lyft
+Most misunderstood, I think, is there are people who believe that rideshare's best days are behind it. Dead wrong. Dead wrong. Look at the penetration. Look at the value proposition. Again, $20 and you don't have to, and you can text, and it's safe. It's only going to get safer and better as AVs come along, and maybe over time, even less expensive because of the costing of that. If you look at that transition, and then you look at Lyft and look at Lyft, how we're frankly under-penetrated in the U.S. in places like. Think again about up, out, forward. Up, we're under-penetrated in luxury. We've got a lot of room to grow there, but we've got great assets to bring to bear. Think of out, overseas.
+We just doubled our TAM when we acquired a new company, but we're still quite small in Europe compared to the competition, but we're going to be new and interesting and kind of give people a new reason to kind of look at rideshare. Then forward is AVs. Look at the economics of AVs long term, as well as the basic value proposition of a rider that now gets everything they like about drivers, because we're still going to have a lot of drivers on the platform, someone to help you with your luggage or talk to you after a tough day, or sort of your own cocoon. It maybe allows you to take an hour to commute instead of 15 minutes. You can buy a nicer house farther away because all of a sudden you're in your own screen world and watching Netflix on the way home.
+This is mind-blowing stuff, and we're right at the beginning of it, and we're so well-positioned for that.
+## Eric Sheridan | Analyst, Goldman Sachs
+I really appreciate the opportunity to have the conversation.
+## David Risher | CEO, Lyft
+Thanks, Eric.
+## Eric Sheridan | Analyst, Goldman Sachs
+Thanks for coming to the conference.
+## David Risher | CEO, Lyft
+For sure.
+## Eric Sheridan | Analyst, Goldman Sachs
+Please join me in thanking Lyft for being part of this year's event.
+Data Source: Quartr Last updated: Sep 10, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

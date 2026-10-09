@@ -1,0 +1,249 @@
+TITLE: Robinhood Presents: To Catch A Token
+DATE: 2025-06-30
+## Vlad Tenev | CEO, Robinhood Markets
+Right. Welcome to the French Riviera and the historic ChÃ¢teau de la Croix des Gardes. It's hot out here, isn't it? You guys staying cool? All right, don't worry, you can unbutton a little bit. This is probably the most I can do. Thank you for coming to our first-ever crypto keynote and our first big event in Europe. You'll find out how these pieces fit together in just a moment. It's been an exciting year for this community. How many of you are feeling more optimistic than ever about the future of crypto?
+## Speaker 5 | 
+Yay!
+## Vlad Tenev | CEO, Robinhood Markets
+Great. Me too. We have survived some dark times, have we not? Finally, clear regulations are coming into effect in the European Union. This means we now have the clarity to unleash many of the financial innovations that crypto makes possible. Meanwhile, the U.S., after years of attempting to obliterate the crypto industry, is finally ready to catch up to the rest of the world. We, as an industry, find ourselves now at an important precipice. We have a chance to prove to the world what we have believed all along: that crypto is much more than a speculative asset. It has the potential to become the backbone of the global financial system. What we are hoping to do today: two things to turn this from a possibility to an inevitability. One, cross that divide by rolling out new products for our U.S. and E.U.
+products that go beyond Bitcoin and meme coins and show fundamental utility. Two, give the crypto community outside the E.U. a glimpse of the better future that's possible when crypto and traditional financial services fully merge. Here to join me in doing this is Tanya Denisova, the Chief Operating Officer of Robinhood Crypto. Welcome her up. Thank you for being here, Tanya.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Thanks for having me.
+## Vlad Tenev | CEO, Robinhood Markets
+You've been in crypto now for how many years?
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+I got into crypto nine years ago when I stumbled upon a job offer for a crypto company I'd never heard of before. I Googled it and fell down a rabbit hole learning about Bitcoin. I thought it was just the coolest thing I'd ever heard of.
+## Vlad Tenev | CEO, Robinhood Markets
+A true believer. Did you buy Bitcoin at that time?
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Of course I did, Vlad.
+## Vlad Tenev | CEO, Robinhood Markets
+Did you sell it?
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Unfortunately, I did sell some of it.
+## Vlad Tenev | CEO, Robinhood Markets
+That's too bad. We also have Johan Kerbrat, our Head of Robinhood Crypto.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Hey, Tanya. Hey, Vlad.
+## Vlad Tenev | CEO, Robinhood Markets
+Hey, Johan.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Thanks for having me here.
+Since I know you're going to ask, I got into crypto 15 years ago.
+## Vlad Tenev | CEO, Robinhood Markets
+Actually, I wasn't going to ask, but thanks for telling me.
+15 years, really? That's a long time, Johan. Why are you working for me?
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+I kind of did it, Tanya. When Bitcoin hit $1, I thought there is no way this goes any higher, so I sold it all. You know, really, I'm basically an engineer. The reason I'm here is I believe in this technology, and I want to make it less complex and more accessible to more people. What do I mean by that?
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+We're ready to hear it, Johan.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Sorry, I got carried away. It can really be viewed in two ways. One is as a tradable asset, you know, like Ethereum, Solana, Bitcoin. I think you all know that here. The other piece is as a fundamental piece of technology that could reshape financial services. I think this second idea is really under-explored.
+## Vlad Tenev | CEO, Robinhood Markets
+Surprisingly, I actually agree with everything you just said. That reveals a big question that I've been wrestling with for much of the past two years. That question is: what would Robinhood look like if it was rebuilt from the ground up entirely on crypto technology? That's exactly what we'll be showing you today.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Before we get to that, one thing we noticed while preparing this keynote is that while we're all Americans, all of us were also born here in Europe. I moved from Saint Petersburg to the U.S. when I was two years old.
+## Vlad Tenev | CEO, Robinhood Markets
+I've talked about growing up in Bulgaria so much that they make memes about it. Like this one.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+I'm actually from right here, from Cannes. I lived there for 10 years and used to skate on the Croisette, bothering all the tourists like most of you guys. Unfortunately, there is no meme about it.
+Not yet, anyway.
+## Vlad Tenev | CEO, Robinhood Markets
+The reason we're telling you all this is because we're excited to be in Europe. You may be used to Robinhood talking about things in the U.S., but our long-term goal has always been to democratize finance all around the world. What we're going to show you today is a significant step towards that. We wanted to do it in a place where Johan felt most comfortable and where people would understand his accent.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+That's very nice of you, Vlad. By the way, can you repeat the name of this place again?
+## Vlad Tenev | CEO, Robinhood Markets
+I was looking at the French people, and they nodded affirmatively. TouchÃ©. The point of today: hundreds of millions of people all over Europe are about to get access to a whole new Robinhood for the very first time.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Until an hour ago, Robinhood was only fully rolled out in six countries worldwide. There is the Robinhood Crypto app in Italy, Spain, Poland, and Lithuania. Of course, in the U.S. and U.K., there is our brokerage app. That is it.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+However, starting today, I'm excited to announce that Robinhood Crypto will now be available in these countries as well. France, of course. Let's see if you can guess the next one. Someone? Germany. And what about this one? Anyone know what country this is from? Vlad, maybe?
+## Vlad Tenev | CEO, Robinhood Markets
+Sounds very much like the anthem I heard every day in school when I was a young boy in Bulgaria.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Okay, guys. No one came here to hear every country's national anthem one by one. To cut to the chase, we are now live across the entire E.U. and EEA. Altogether, with the U.K., Robinhood is accessible in a total of 31 countries on this continent alone.
+## Vlad Tenev | CEO, Robinhood Markets
+Thirty-one amazing countries. And some of the regulators and policymakers who made this possible are actually in the audience tonight. So let's give them a round of applause for their support. Thanks for making this possible. I should also add that we aren't just expanding Robinhood Crypto to more countries. No, we're significantly changing what Robinhood does and offers. And I'm not going to ruin it for you all tonight, and hopefully Tanya won't. We'll be getting into all of these new features in great detail.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+For everyone watching in the E.U. right now, Robinhood is now fully rolled out and available in the App Store and Google Play. You can download it now or update your app if you're already a user. You might notice a slight change in the name of the app, and the reason for that is going to become clear over the course of the evening.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+You may want to take a moment to download it now because there might be a surprise coming at the end for those who are on the app.
+## Vlad Tenev | CEO, Robinhood Markets
+In America, we call that foreshadowing. I'll just jump in and add a third reason to download it: because there's a whole new asset class coming to the E.U. app, introducing perpetual futures. It's exciting, isn't it? We call this, it's like a little appetizer to the main course.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Or the amuse-bouche, I guess.
+## Vlad Tenev | CEO, Robinhood Markets
+Yes, or apÃ©ritif.
+Traditionally, perpetual futures have had clunky, overly complicated interfaces, particularly on mobile. We have spent a lot of time refining and chiseling, and I believe we have crafted perhaps the finest perps experience, the finest perps UX on mobile, reducing the complexity but without sacrificing the power or speed. Now advanced traders will be able to trade perps on the go, not just stuck at their desk. I will step to the side here, and I will let Tanya and Johan walk you through what the new experience will look like.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Thanks, Vlad. I've traded perps on different platforms, and one thing I've always found frustrating is how complicated it is to set your orders correctly and modify them.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Yeah, speaking personally, after having seen some of the interfaces, I would have no idea where to even begin figuring out how to place an order.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+I get it, Tanya. You know, I actually counted how many tabs and inputs it takes to place an order, and it is more than 20. When we talked to our most active traders, we really got the feeling that they hated what they currently use, but had no other choice. When we designed perpetual futures on Robinhood, we worked to make it as seamless as possible, much more intuitive, and less frustrating.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Now, before we get started, by a show of hands, how many people here have actually traded perps? Okay, looks like a lot of you have never traded them before. For those who do not know, you can just sort of break down the name. First of all, it is basically a future where you say the price is going to be X, Y, or Z, and it is perpetual, meaning that they do not have an expiration date, so you do not need to constantly monitor the dates of your different contracts. Now, like CryptoSpot, you can go long, but what is different here is you can also short the asset.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Obviously, something that is very popular with perps is to use leverage, enabling advanced traders to increase their exposure with less capital. On one hand, it is a powerful institutional-grade financial instrument, but unfortunately, most of the time when you want to trade perps, you are being attacked with a screen that looks like my old TI-83 calculator in high school.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+This is why I don't trade perps. That ends today, not just for me, but hopefully for a lot of you as well. Let's show you how it works. As you can see on the screen, this is the ETH page in the Robinhood E.U. app.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Okay, Ethereum is pretty stable at $2,000. So what do you all think? Is ETH going to go up or down in the next few days? All right, we have a lot of experts in the room. Mom, what do you think? All right, I think we can go bullish.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+All right, all right, let's do it. Let's be long. You can probably figure out what you need to do here to trade perpetuals instead of spot. You just tap on the card, and you're now on the perpetuals page for ETH. Let's place a long ETH order. As we're queuing this, we can clearly see how much margin is available and move the slider left to right to choose the order size. Currently, customers can select up to 3x leverage, but in the future, we plan to expand the options for more advanced customers.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+What's really great is you can easily choose to share your margin across all your positions or just isolate it with a single type. You get to decide the details of your strategy.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Actually, my favorite feature is how you can set profit and loss on the order. This is really cool and changed the whole experience for me. So we took the innovative ladder that our team designed for futures in the U.S., and we made our own profit and loss ladder. You can track the price of ETH moving in real time and decide when to take profit by moving the slider here, let's say about 10%, and easily set up a stop loss to help protect your capital, let's say below 5%. It is ETH, so maybe 8%.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+We heard from a customer that they didn't like having to constantly type and update their take profit and stop loss, and it was difficult to do it on a mobile phone. We made it possible for you to easily change your stop loss with just the swipe of a finger.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+It's incredibly intuitive and easy. Once your orders are placed, you can access them easily through your position hubs and see them all in one place to act on them.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+As we announced a few weeks ago, we closed our acquisition of Bitstamp, the longest continually running crypto exchange in the world. Now Bitstamp is the engine powering perpetual futures. Bitstamp is making possible a lot of other things to help execute the larger crypto vision that Vlad mentioned earlier, like what you see on the screen. We are looking forward to Bitstamp becoming a foundation of a brand new global crypto age for Robinhood.
+## Vlad Tenev | CEO, Robinhood Markets
+Is my face melting yet?
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+You surprised me.
+## Vlad Tenev | CEO, Robinhood Markets
+Okay, thank you, Johan and Tanya. This has already been a huge unlock for us. In the E.U., perpetual futures trading will start rolling out later this summer. If you're an advanced trader, it's a great time to get familiar with the incredible interface Tanya and Johan just showed you. By the way, when are perps coming to the U.S.?
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Obviously, the technology is here, and you just saw it. It's all on the Robinhood platform. If and when the CFTC approves the launch of crypto perps, we'll be ready. By the way, we also introduced micro futures on Bitcoin, Solana, and XRP, and long-dated futures are coming soon. In the meantime, we have a lot of new products to talk about for the U.S.
+## Vlad Tenev | CEO, Robinhood Markets
+Good transition. I like the optimism. I'd like to see more of that around the office, by the way.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Thanks, Vlad. I will work on it for you.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+All right, guys. Let's get into some of the features we've been working on specifically for our U.S. customers. There are a lot of them to cover. It's been a busy year, and we've been taking action on some of your biggest requests.
+## Vlad Tenev | CEO, Robinhood Markets
+True. We have some major upgrades to announce for our active traders. First of all, as some of you may have seen already, crypto is now available on Robinhood Legend, which is our new state-of-the-art desktop platform. Some of the things people really love about it are the customized indicators and the ability to trade directly from the chart.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Because it has given our traders such an advantage, some of them started asking, when is Legend coming to mobile? We were a bit unclear about what they meant initially until we started talking to customers, and it turns out what they really wanted were the powerful charts and indicators on the mobile interface that they know and love. VoilÃ , here they are. Advanced charts are now here for equities and will be coming later this summer for crypto at no additional cost. We think this will be by far the best charting you can get on your phone.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Our next update is something that will reward our most active users. Smart exchange routing finds the best available price across multiple partner exchanges. That makes it possible for us to provide crypto fee tiers so that your rate goes down as the amount you trade with us goes up. This is something our most active crypto traders have been very excited about. The numbers you see on the screen are based on your rolling 30-day volume. Most importantly, it is rolling out now and will soon be available on our trading API as well.
+## Vlad Tenev | CEO, Robinhood Markets
+You pay only 10 basis points with $5 million+ in volume, all blended, no maker-taker. These rates are fantastic.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+You know, I checked. Unfortunately, you don't qualify for this rate. You actually could use another feature. Starting now, Robinhood is the only major platform in the U.S. where you can choose exactly which specific crypto holding you're selling when you're trading, allowing you greater management of your capital gains and losses. Profit is really only profit after you pay your taxes, so having this ability is really going to be useful.
+## Vlad Tenev | CEO, Robinhood Markets
+For those of you with paper hands like Johan here, this is going to be especially helpful.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+He's just harvesting his losses.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Sure he is. Sure he is.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Another exciting addition to our U.S. app is our AI investing assistant, Cortex, which will soon be available for crypto for our Gold customers. Cortex brings together the highest quality market data, trends, news, and company earnings with the goal of giving you all the market insights you need right at your fingertips. From now on, if you're wondering why your favorite crypto is going up or down or sideways, Cortex will give you the context of all the events that happened recently on the crypto detail page of the token you're interested in.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+I'm not sure if you have tried a Robinhood Gold Credit Card yet. It very quickly became my number one card in my wallet. To recap one of its main benefits, you get cashback for every category, no matter what your net worth is. The very annoying thing, though, is that I don't want cashback. I want more crypto. Later this year, we'll be launching Crypto Redemption, where customers can actually automatically purchase their favorite token using their regular Gold Card or one of our brand new crypto card designs right here.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+I like the Ethereum card for me.
+## Vlad Tenev | CEO, Robinhood Markets
+You're just sucking up to the ETH maxis in the audience, aren't you?
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+I will not confirm or deny that. Now, as Vlad mentioned, all of this is landing in the U.S. first. However, we're looking to bring all these features to the E.U. app in the future as well.
+## Vlad Tenev | CEO, Robinhood Markets
+Finally, one of our most popular features in the E.U. app has actually been missing in the U.S., and this has been one of the main recurring requests from our customers. You'll be happy to hear that starting today, staking, yes, staking, is now available in the U.S. Now, before we get into the details, I want to talk a little bit about staking and why it matters. Wax poetic, if you will.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Wax sound, Vlad?
+## Vlad Tenev | CEO, Robinhood Markets
+One of the things that makes crypto so robust is that there's no central authority, and the transactions are maintained by a distributed network that's open and available to all. Part of what makes this so compelling is that anyone is able to participate in maintaining the network. You are the network. Staking is not just about earning rewards, although that's very nice. It's also about doing our part individually and collectively to secure this amazing infrastructure that we're all helping to build. Now it's easier than ever to do so on Robinhood. We're starting with Ethereum and Solana staking, and we have some of the best APYs in the market. VoilÃ , here they are.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+Also, to help you get more to stake, we currently have a deposit boost running for crypto season. The current offer has a deposit goal that the community needs to reach in order to receive a 2% boost. To end crypto week on an even more positive note, we're removing that minimum.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+For both our E.U. and U.S. customers, if you deposit crypto before July 7, we'll boost that amount by 2% with no deposit goal to it and no limit to how much you can earn. Don't worry, if you already deposited as part of this promotion, you will get the 2%. Anyway, that wraps up our U.S. update. Let's zoom out a bit now and get into one of the most exciting applications of crypto today, one that will fundamentally redefine what's tradable and where it's traded.
+## Vlad Tenev | CEO, Robinhood Markets
+You may have already guessed our next update. Yes, now is the time when we get into tokenization. I believe that tokenization is going to open the door to a massive trading revolution, making it possible to own or even fractionally own all kinds of real-world assets and financial instruments that were never accessible or tradable by most people before. There has been a lot of talk about this for years, including from me and more recently from some of our competitors. Not a lot of action, not a lot of action. That ends today, literally right now, because over the past year, Johan, Tanya, and the rest of the crypto team have been working very hard to make this a reality. The big question we faced was, what should we tokenize first? We asked ourselves, what about bonds? Should we tokenize some bonds?
+What do you all think? Okay, not a lot of excitement about that, I see. How about mutual funds? Mutual funds would be a great thing to tokenize. Very, very cool. Maybe private credit?
+## Speaker 5 | 
+Private credit! Let's go!
+## Vlad Tenev | CEO, Robinhood Markets
+Carbon credits.
+## Speaker 5 | 
+Private credit.
+## Vlad Tenev | CEO, Robinhood Markets
+Okay, how about tokenize Bitcoin? Okay, yes, that was a trick question. Just wanted to make sure everyone was still paying attention. As we got to thinking about what to tokenize, we saw an opportunity not to just do this with an asset class that we understood very well because we pioneered commission-free trading in it, but also to solve a pain point that we saw from our European customers, which is while they love crypto, they really want exposure to U.S. stocks as well. We are really excited to announce that it is now possible for our European customers to get exposure to hundreds of major U.S. stocks like Apple, NVIDIA, and Amazon, in addition to ETFs in tokenized form, all on-chain, with thousands more coming by the end of the year. Introducing stock tokens on Robinhood.
+Now, stock tokens are a bit of a technically complex trading product, but we've worked hard to make the experience as intuitive as possible for our eligible traders. In large part, the crypto technology powering all this lies under the hood, and we'll be lifting that hood up for you a little bit later. In the meantime, I want to introduce Song Li, who's our Head of Product for crypto, to show you what trading stock tokens is going to look like. Song?
+## Song Li | Head of Product for Crypto, Robinhood Markets
+Thanks, Vlad. I've been in crypto for about seven years, almost as long as Tanya. At every crypto conference I go to, the main topic is always about mass adoption. I feel like I've heard that mass adoption is one year away every year. Actually, there's an Ethereum conference just next door, and one of the topics is about, you guessed it, mass adoption. What we've realized while driving usage with millions of customers to Robinhood Crypto is that real adoption isn't going to happen from forcing people to understand how the blockchain works, and especially not from having them farm rewards on every new crypto app. It's going to happen not just by making the technology better, but by making the interface so easy and intuitive to use that the technical part is almost invisible.
+The same reason why hundreds of millions of people started using ChatGPT so quickly. That is what we have done with stock tokens. We have made it easy, intuitive, and fast while keeping the complicated technology under the hood. To show you how this works, I am going to walk you through what buying a stock looks like on the traditional brokerage compared to buying stock tokens. Here, on the left side of the screen, you will see the U.S. app, where you can buy equities the traditional way. On the right, the E.U. app with stock tokens. Starting from this page, let us say we are interested in Apple. We are going to enter in the amount I want to buy, about EUR 100 of Apple. Hit Review. Swipe up. Your trade is complete. That is it.
+What's amazing is that you're having a consistent experience across both apps, but the technology making this possible is completely different. In fact, if we weren't telling you that this was a token that you were buying with this token badge right here, you'd have no idea this was a blockchain transaction. Actually, if you do tap on this badge, that's where you'll learn all about trading stock tokens in the Robinhood app. I'm going to quickly cover the highlights. First, as some of you may have been wondering, you won't be missing out on dividends by holding stock tokens. You'll get those payments, along with any stock splits that might happen, directly into the account where you're holding your tokens. You'll also have access to ETFs. Through stock tokens, you can gain exposure to the most popular U.S. ETFs like VOO, SPY, and more.
+Finally, we're bringing the same zero-commission trading that our users in the U.S. love to the E.U. There will be no commissions, no hidden fees, and no added spreads on stock tokens from Robinhood. One thing I should note is that there is a 0.10% FX conversion fee when your EUR are automatically converted to dollars during the trade. That's one of the lowest rates available anywhere. Let's show you how our European app has evolved with the introduction of stock tokens. Now our app transitions from being a crypto-only app to an all-in-one investment app powered by crypto, all at one of the lowest costs available. Like Johan hinted at earlier, we've changed the name of the app to reflect this. Robinhood Crypto is now just Robinhood. Here, you'll get perpetual futures, zero-fee Bitcoin trading, and zero-commission U.S.
+stock and ETF tokens, all in one place. This is just the beginning of a major expansion of what's possible for Robinhood's customers in the E.U. and in the future around the world, all powered through blockchain technology. I'm incredibly excited about this, and I hope you are too. I'm going to turn it over to Vlad to explain a little bit more about how this works.
+## Vlad Tenev | CEO, Robinhood Markets
+All right. Thanks, Song. Very cool. Give him a round of applause. He's been working very hard. All right. As of today, this is available now on the Robinhood app for all eligible European customers. We are hard at work making it available everywhere else in the world as well, of course, subject to local rules and regulations. Now, stock tokens may not be the easiest product to understand at first blush. I am wondering if you're curious about how all this works behind the scenes. I can show you if you'll bear with me. I find the whole process behind what Song showed you fascinating. I'll also share a little bit about how it will evolve in the near future and potentially scale to pretty much any asset. This is a chalkboard.
+I've been told that Cary Grant wrote on this on the set of To Catch a Thief, which was filmed here, by the way. I don't know if I believe it, but I have been told this. Okay, here you are, our European customer. There's your mobile phone. Let's say you wanted to buy some Apple stock. What happens is that order is transmitted to our backend, and then it's transmitted to a U.S. broker. This is a registered TradFi broker-dealer that will buy a traditional share from what I'll call a TradFi market. This could be a market maker or an exchange like the NYSE or the NASDAQ. That share is transmitted back to the U.S. broker. It's custodied in traditional form, and it gets sent to what we call our tokenization engine. This is where the magic really happens.
+For every share that's being purchased from the TradFi market, one token is being minted, and this represents the exposure to the share. That token gets transmitted back to you. What this means is right now, every time you place a trade, an actual traditional share is being purchased from the market, held in custody, and a fresh token is minted. Similarly, when you want to sell these shares, the process goes in reverse. Robinhood instructs the introducing broker to sell the share, the underlying share in the open market. We burn the token, give you the proceeds. This is all available 24 hours a day, five days a week. I'll call this phase I. Okay. Let's talk about what happens in phase III, which hopefully we'll be rolling out to customers in the next few months.
+In phase II, we see the introduction of Bitstamp by Robinhood. Now, what happens with Bitstamp is it's put alongside the TradFi market, and the tokenized instruments would be listed there, just like normal cryptos like Bitcoin and ETH. We now have the choice. Let's say the TradFi market is closed, like it is on weekends and holidays. We can send your orders to Bitstamp. If it's open, then we can send it to the TradFi market and benefit from the centuries of liquidity that's been building on these traditional markets. You really would get the best of both worlds. This unlocks 24/7 trading, which is very cool. That's not all. Phase III is when things really start to cook, also a few months away. This is when the possibilities really start to multiply. Okay.
+Now, if you bear with me with my schematic, we should probably do that. In phase III, you're integrating directly with the blockchain. We're working on unlocking the ability for you to take these kinds of tokens outside of our walled garden and into your wallet, into the world of DeFi. How would you feel about self-custodying your stock tokens? It's cool, right? It just might be available soon in your Robinhood wallet. What this means is you could take your stock tokens off of Robinhood, control your keys, integrate directly with the blockchain, and take advantage of all the amazing utilities that developers, including many of you here, are building. This could mean collateralized lending and borrowing, swapping, really self-custody in its very pure form. The beauty of this process is that it transfers pretty easily to any type of asset.
+You can kind of circumscribe this part here. You could replace this U.S. stock broker with, say, an art broker or a real estate broker, swap out the appropriate market or exchange. Outside of the token stuff, everything is pretty fungible and interchangeable. We look forward to expanding your trading options with the assets that you care about most. Pretty cool, huh?
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+I was looking backstage. I'm sure a lot of people are wondering what is this piece of critical technology, Vlad?
+## Vlad Tenev | CEO, Robinhood Markets
+Oh, this thing. Yes, that is a hat, or as the French would call it, a bÃ©ret.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Vlad, you know what I meant.
+## Vlad Tenev | CEO, Robinhood Markets
+This thing. This thing here. That would be the blockchain in case you could not tell from my amazing sketch or blueprint, really. Right now, it is Arbitrum, but we have been working on something really special. It is still a little bit early, but I think there is no better time to share it with you all than right now. Introducing the Robinhood Chain.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+This is the first blockchain optimized for real-world assets, from real estate to art to stocks, with the right technology and regulatory infrastructure needed to carry the entire traditional financial system on its back into the future.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Our goal with stock token on the Robinhood Chain is that in the near future, you will be able to seamlessly transfer your assets in seconds. Your ability to trade will not be reliant on any individual broker or counterparty. So long as the blockchain is up and processing transactions, you will maintain access to your hard-earned ass ets. Very, very important.
+## Vlad Tenev | CEO, Robinhood Markets
+I feel that as the benefits of this technology become increasingly clear in the coming years, the pressure and incentive for more and more firms to adopt it will continue to grow. We will continue to work with regulators and bring the entire Robinhood ecosystem on-chain, starting with tokenized assets like stocks, perpetual futures, DeFi, of course, spot crypto trading. From there, we are planning to open the doors much wider.
+We've been talking to a lot of the developers in the room about this already. If you're interested in being one of our first developers, we would like to open the doors much wider. So please reach out to us.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+When Vlad says about opening the door much wider on our chain, there is one new asset that comes up a lot. I want to pre-announce it now because I think it really fits the Robinhood mission. That is private company stock. These are a massive wealth generator for a very small group of rich, well-connected insiders who get access to these deals early. Like Vlad.
+## Vlad Tenev | CEO, Robinhood Markets
+Even I actually have difficulty getting into some of these deals.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Crypto has the power to solve this inequality.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+That's going to be a big one. A lot of the technologies changing the world are startups. And I'm sure many of you would love to invest in the companies that you're using or hearing about every day. But with more and more of these companies staying private, even at huge valuations, it's just not accessible to most people. As an example of what's possible, imagine how your investing portfolio would change if it were possible to get early exposure to private companies like SpaceX and OpenAI, which are now worth billions of dollars.
+## Vlad Tenev | CEO, Robinhood Markets
+That would be exciting to do, wouldn't it? Why talk about doing it later when we can do it right now? You may have been wondering what this awesome briefcase that I walked in with was for. I'm holding in my hands right now the keys to the first-ever stock tokens for OpenAI. Not just OpenAI, but also SpaceX. SpaceX is in here too. If you download the Robinhood E.U. app, which we gave you ample warning to do, you're about to figure out why we gave you that warning. I'd like to transfer these tokens to you and give you exposure to two of the most valuable private companies in the world right now. We'll give you a week to onboard. Then we're going to release all the tokens.
+As long as you're a Robinhood E.U. customer, you'll be able to claim what we believe are the world's first OpenAI and SpaceX private stock tokens on a decentralized blockchain.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Just remember, the deadline is end of day on Monday, July 7, or July 7th. This is really exciting, and I can't wait to see it.
+## Vlad Tenev | CEO, Robinhood Markets
+Coming from Johan, that means a lot. The last time this guy was excited was when Bitcoin hit a dollar. Okay. What I'm going to do is send the OpenAI and SpaceX stock tokens to Johan, and he's going to distribute them from the Robinhood entity to everyone that signs up. I should caveat, do not do what I'm doing, which is import your wallet across a live stream. I'm a very sophisticated individual, but generally, yeah, that's good advice. I'm going to import. I caught the last word from my crypto steal here. I'm going to enter my PIN, very secure, and wait for it to be imported. It's working. Hopefully, the 5G spins a little bit.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+You know, it's hot. Even the internet is sweating.
+## Vlad Tenev | CEO, Robinhood Markets
+That is very true. Okay. What do you think, Johan?
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+You know, we could also use the other phone. We could use multiple phones.
+## Vlad Tenev | CEO, Robinhood Markets
+Let's see. This one looks like it might be connected. Oh, never mind.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+We didn't even have time.
+## Vlad Tenev | CEO, Robinhood Markets
+VoilÃ . Okay. So let's see. There it is. There's the wallet. And you can see in there that we've got our OpenAI and SpaceX shares. Let's see. Let's go to OpenAI right here. I'm going to send them all to Robinhood Europe for your later disbursement, shall I?
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Yeah, why not? Send a million.
+## Vlad Tenev | CEO, Robinhood Markets
+Okay. Let's see. There we go. A million, you said.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Yeah.
+## Vlad Tenev | CEO, Robinhood Markets
+Okay. Why not? All right. Oh, and you can even look on the blockchain at the transaction ID on Arbitrum. So you know it's the internet because this would be loading very, very quickly.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+It's really the 5G with all these people here now.
+## Vlad Tenev | CEO, Robinhood Markets
+Yeah. While it loads, see, actually, the wallet was loading faster than Arbiscan, wasn't it?
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+You know, there is maybe some congestion on the network. It should go through shortly, and we'll see the confirmation on the blockchain soon. While Vlad sends out the OpenAI tokens, I'm going to show you what that will look like when these tokens land in your Robinhood account. If you've already downloaded the app, you will receive the notification you're seeing on the screen right now. Just open the app and hit Get Started. If you successfully onboard to trade stock token within the next five days, you will see the screen right here. Click ahead to see the tokens on your account.
+## Vlad Tenev | CEO, Robinhood Markets
+Right now, consider the SpaceX and OpenAI tokens a gift from us. You're going to have to hold onto them for a little bit. We are working to unlock trading for these on all of our platforms, real-time, 24/7. If you see what's happening here, we have the technology built to tokenize exposure to private markets, make them accessible on-chain and off-chain to everyone. When we are able to roll this out on a global level, I believe this can solve one of the greatest long-standing iniquities in our capital markets today.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+I really hope this helps more people realize why crypto is here to stay and make our entire financial system better. To summarize our announcements for today, you can now trade crypto and stock tokens on Robinhood anywhere in the E.U., with perpetual futures coming soon. In the U.S., we've launched Staking and a host of other features for advanced crypto traders, with more coming soon. For the world, the Robinhood Chain is on its way.
+## Johan Kerbrat | Head of Robinhood Crypto, Robinhood Markets
+Also, I should add some late-breaking news. Just last week, the stablecoin we helped launch, USDG, was approved under the new MiCA regulation in the E.U., where popular alternatives like Tether are banned. You can look forward to USDG becoming a first-class stablecoin across the entire Robinhood ecosystem.
+## Vlad Tenev | CEO, Robinhood Markets
+First-class stablecoin. This is just the beginning of what we're working to make possible. Thanks for coming today. I hope to see you all at HUD Summit in September because this isn't it. There's actually a lot more coming to Robinhood that you should know about.
+## Tanya Denisova | COO of Robinhood Crypto, Robinhood Markets
+See you all there.
+## Vlad Tenev | CEO, Robinhood Markets
+Thanks for watching.
+Data Source: Quartr Last updated: Jun 30, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (5) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

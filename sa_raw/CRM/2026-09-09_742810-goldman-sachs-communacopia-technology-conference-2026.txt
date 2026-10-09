@@ -1,0 +1,219 @@
+TITLE: Goldman Sachs Communacopia + Technology Conference 2026
+DATE: 2026-09-09
+## Gabriela Borges | Analyst, Goldman Sachs
+Hey, good afternoon, and welcome to the Salesforce session at Goldman Sachs Communacopia. I'm Gabriela Borges. Delighted to have on stage with me Bill Patterson, President and Chief Commercial Officer, Rob Seaman, EVP and GM of Slack. Gentlemen, thank you for your time.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Thank you for having us today.
+## Gabriela Borges | Analyst, Goldman Sachs
+Bill, I want to start out with a little bit of the mic drop moment from two weeks ago now with Dario and Marc on CNBC talking about the launch of Claudeforce. It reminds me a little bit of when we were chatting with the management team earlier this year. They were telling us about the Anthropic SaaStr video, where Anthropic talks about the cornerstone of their front-office stack being Salesforce and all of the different pieces that they built on top of it. Tell us a little bit about how that relationship came together, and it sounds like you've essentially commercialized what would've taken a fair number of engineering resources to get off the ground. We'd love to hear a little bit more.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah. Thank you for recognizing that it was two weeks ago, which seems like a decade ago.
+## Gabriela Borges | Analyst, Goldman Sachs
+Yeah.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+But I think what's beautiful about the world of Claude and the world of Salesforce is our customers were naturally sort of pulling us together to work together more effectively. Salesforce is a huge Anthropic customer, and Anthropic is a huge Salesforce customer, so there's just natural synergies about these two technologies working together in unison to drive ultimately better quality agents, better productivity for every employee, and just better synergy on the product side. It's always beautiful because we always say it like the number one AI platform and the number one CRM platform can come together because we can actually really validate a lot of the core use cases that we serve in the common roles with one another in that sense. I think it was more than just an announcement.
+It was a product that was already being built, already being utilized, already being activated, already being deployed in almost every customer that we see today, and it was just a natural fit for these two product organizations to now work together and deliver a product, which we now call Claudeforce. I think this is just a classic example of two magical things coming together and delivering great impact for our users, and we're very excited about the early days there.
+## Gabriela Borges | Analyst, Goldman Sachs
+Was there anything that you've learned in the last two weeks since making the announcement that was unexpected or that you hadn't predicted?
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Not unexpected, but I think that the market and the customer community probably breaks down into three tranches. One, there's a lot of just heavy early adopters that were really doing a lot of innovation and building a lot of these connections and integrations already themselves that validated the pattern for why we wanted to create a product in this area. I think as part of that early adopter community, you got a lot of great feedback, a lot of validation, a lot of conviction about the magic of these two products becoming a strong partnership with one another. I think as you fast-forward to the second tranche or second community of users, there's still those users today that are trying to figure out how to make this work and how to make it scale and how to make it economically viable for organizations of their size.
+Not every small business has an endless token budget, if you will. Really making sure that the economics work to drive the productivity and the performance of this offering is probably that second community of customers that now needs a little bit more knowledge and know-how to make it work and make it work right. I think there's a third community that has a lot of skepticism around what does AI mean for them. As you travel around the world in different communities, different geographies, not here in San Francisco per se, but as you go to other countries around the world, there is a little bit more AI hesitancy. That is a final community that does need to be convinced that this is not a destructive force. It's actually a force to fundamentally transform work.
+I think as you take a long view around what the Claudeforce opportunity means, the early adopters are going to deploy it fast. Those that are trying to figure out the economics and the true math of how this works at scale, I think are still needing some convincing. That last tranche is an area that we have more responsibility as leaders to show them that this is a strong solution for their future and not, like I said, that cannibalistic force for eroding work as we know it.
+## Gabriela Borges | Analyst, Goldman Sachs
+I want to ask you about two of the bear cases that we've heard in the last two weeks. The first is the fox and the henhouse bear case, which is, look, tech partnerships come and go. They break down all the time. Essentially through Claudeforce, Anthropic is now getting a foothold in the front office stacks of all of Salesforce's install base. How do you think about the risk that however many years from now, Anthropic turns around and says, "Thank you, Salesforce. We're happy to take it from here?
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah. Look, I think that the fundamental mission of both organizations here is different from one another. The mission of Anthropic is really to prove that AI can have a really ubiquitous moment in our lives and our businesses. The role of Salesforce is fundamentally to make businesses better businesses. We have some relationship in that sense that we all want to help the customers that we serve. But in terms of the mission of what they innovate on and what we innovate on, they're very different technologies, very different pace of innovation, and also just different responsibilities of what we need customers to know, learn how to do, and manage to be successful with these offerings. There's been all kinds of new innovation that has always been the death of a CRM system at some point in time. The first one was a website.
+Oh my God, that's going to eliminate how we do marketing and marketing outreach. No, it didn't do away with CRM. It just transformed CRM to be a world of outside in engagement just as much as it's been about inside out operational responsibility. I think there's a long list of companies and a long list of technologies that were trying to kill the CRM business. We're still here. We're doing well.
+## Gabriela Borges | Analyst, Goldman Sachs
+The second bear case, and we can bring Rob into the conversation naturally with this one, is the idea that Salesforce is essentially giving up the user interface. The end customer now interacts with Claude is their first port of call, and Salesforce essentially becomes this Satya Nadella CRUD database argument from 18 months ago now. How would you respond to that particular UI bear case?
+## Rob Seaman | EVP and GM of Slack, Salesforce
+I'd go about it from the perspective of, one, I don't agree with it. I'd start with that. I think minimizing Salesforce or CRM in general to a database, I think is somewhat glib and a bit of an oversight into what's actually happened in CRM systems. So much of what people have done is express how their company operates in the form of metadata in Salesforce, in their CRM, and that candidly just isn't very replicable, and that's what people are excited about accessing through other services like Claudeforce or Slack or whatever it might be. Now, on the argument about giving up the user interface, while you may be giving up a bit on the amount of time people spend in the interface, you're actually increasing the amount of work that's happening through the services that support the interfaces.
+To me, that's the bigger bet, is that ultimately more work gets done through a CRM system. If you look at our own internal data on our usage of Salesforce, our usage of Salesforce has skyrocketed within Salesforce. But the overwhelming majority of it's happening through Slack and through Claude. The amount of work that's actually happening and the quality of work that's happening has dramatically skyrocketed, and our productivity's improved, as you've seen through our financial metrics. But it's all because we've moved to this headless manner in a way, I think, that tilts the umbrella and makes it a lot more convenient for users to get the work done.
+## Gabriela Borges | Analyst, Goldman Sachs
+Tell us a little bit more. You have talked about Slack as the operating system for work.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Yep.
+## Gabriela Borges | Analyst, Goldman Sachs
+What does that look like? What does it mean for your R&D roadmap to now be investing in Slack, not just as a communications tool, but as this essential gateway to all of the underlying system of record?
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Yeah. The biggest asset we have at Slack is the aggregated attention of knowledge workers. The average Slack user actually has the Slack app open 10 hours a day and actively uses it two hours a day. If it were a consumer app, it would be a great place to put ads, but we will never put ads in Slack, so do not expect that to come from us. It becomes an amazing place to distribute your software. B2B software is increasingly being distributed through Slack as agents are. Now when you increase the amount of stuff that are coming at humans can become distracted, and that defeats the purpose of that attention aggregation.
+What we think the role that we can play, if you go back to original operating systems and what they did, they basically abstracted or hid the complexity of the hardware from the end user, and typically had a user interface paradigm about it. That is effectively what Slack does for a litany of apps and agents that are now coming at people, in addition to the humans that are reaching out to them. From an operating system perspective, we think we can basically provide that overall design guideline and system that apps and agents can adhere to. We can abstract the complexity of the fact that there are thousands of them now competing for people's attention, and make it a single place that people can orchestrate their day and be a cockpit of. I think we ultimately become where the AI stack starts and stops.
+## Gabriela Borges | Analyst, Goldman Sachs
+You gave an example there of where it's been successful within the own Salesforce organization.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Yep.
+## Gabriela Borges | Analyst, Goldman Sachs
+I imagine you have customers that you would classify as top quartile in terms of early adopters of Slack functionality.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Yep.
+## Gabriela Borges | Analyst, Goldman Sachs
+My question for you is, what are the alternatives for the customers that maybe we separate out the cohort that's still hesitant. For the customers that are leaning into AI, that are not using Slack as one of their primary user interfaces, what does that look like? What's the alternative?
+## Rob Seaman | EVP and GM of Slack, Salesforce
+The alternative is alternatives from competing products that I think are functionally deficient. I think the key thing about Slack, and I think you see this play out in all the major AI companies that use Slack, and I apologize in advance if I'm saying something that I whoever, if I'm saying something that I'm not supposed to. But if you look at Anthropic, you look at OpenAI, you look at Vercel, all of these frontier labs and AI-first companies operate their Slack in a very unique way, which is they operate totally in public. I was talking to Boris from Anthropic yesterday, and it was so fascinating. Every single Anthropic employee has a notebook channel. That's basically a channel with them, themselves, where they just think out loud through the course of the day.
+They do this, OpenAI does this, Vercel does this, we do it at Slack. What that does is that radically flattens an organization and immediately disseminates all information from that person to every other person in the company, but importantly, to all the other agents. That model in Slack, and the way that the software actually encourages people to participate in a very social way and a very public way, is not something you see happen in the alternatives that are out there today. Full stop. I would challenge anybody to go talk to a customer that's using an alternative product and ask them how they do that, and they'll just stare at you like you have 10 heads or you'reâ
+## Gabriela Borges | Analyst, Goldman Sachs
+Rob, you got to stay on this. This is a really interesting rabbit hole. What is Anthropic doing with Slack that allows them to power this army of agents behind the interface? Tell us a little bit more about the interface.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+They do as much as humanly possible in public. Every single product channel, feature channel is public for the entire company to access and all the agents to access. Every single person then has what we call a notebook or a brain channel. Vercel does a similar thing. If you talk to G. from Vercelâ
+## Gabriela Borges | Analyst, Goldman Sachs
+Yeah.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+âthey have a brain channel, and they just think out loud in these brain channels, and so everybody in the company can see what G. is thinking, and every agent that's in your Slack can see what G. is thinking because it's public. I think increasingly, if you look at what Tobi LÃ¼tke, I don't know if I'm pronouncing that right, theâ
+## Gabriela Borges | Analyst, Goldman Sachs
+Shopify.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+âCEO of Shopify, he wrote a piece on Twitter called "Learning on the Shop Floor." It was about using their River agent in Slack, but only doing so in public. What is interesting is they have deployed their coding agent, River, which is built on top of another harness, but they have deployed it in Slack and only allow it to be used in public channels in Slack. What you are doing there is you are effectively immediately disseminating to the entire company every single thing that is being built. Everybody can just search and be like, "Is somebody else working on this yet?" You radically reduce duplication of effort, but then you also learn from each other.
+The bear case to me on these individual contributor AI tools is that the and Tobi says this as well, is that the AI learns and the person using it learns, but their peer does not learn, and then the company does not learn from it, right? You move that into public, like in a channel in Slack, and then everybody else can learn from it. It immediately becomes a knowledge artifact for your employees, but also for other agents in your Slack.
+## Gabriela Borges | Analyst, Goldman Sachs
+Okay, so you have already given us one of the answers to this question on why Slack is the natural place for that activity to happen, which is it is already open 10 hours a day, it is active for two hours a day. What else is in the IP of Slack that you think allows that use case to flourish?
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Some of it comes down to how we work. One of the things we've traditionally said about Slack behind the scenes is our enduring competitive advantage is going to be the quality of our user experience and the customer love that we generate from that user experience. The fact of the matter is we have a really high NPS. Customers love to use our stuff. They tell their friends about it. It's viral. It takes off within a market. When people are asking their company for access to software, they're like, "Hey, can you put this thing in Slack?" We've been able to develop this kind of groundswell and grassroots support and pull from our users. I think that is really helping us right now. You saw it play out at a large social networking company last week, right?
+## Gabriela Borges | Analyst, Goldman Sachs
+This opens up an interesting thread here on monetization, and I'll ask it in a couple of different ways. First with Slack. Historically, it's been a seat count model.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Per user per month. Yep.
+## Gabriela Borges | Analyst, Goldman Sachs
+Per user per month. Now you have any given user getting boatloads more value.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Yep.
+## Gabriela Borges | Analyst, Goldman Sachs
+Especially for the AI-piloted examples that you gave there. How does the pricing model change for the Shopify users of the world?
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Yeah. So it's interesting. We have, and Bill, obviously feel free to chime in here, we have a series of plans. We've, I think, have been one of the more successful freemium products that we still have the overwhelming majority of what we call our invoice business, which is our sales business, our enterprise sales business, initiates as what we call self-serve. So you start as a free team. You grow up through our plan, through nudges in the product to use more features of the product, start paying for it, and then eventually convert over into what we call an invoiced enterprise plan that our salespeople help you with. From a monetization perspective, I think there's a couple things that we can do here. So one, the total TAM for knowledge workers is around 1 billion at this point.
+I think we still have a ton of upside as it relates to user acquisition. But increasingly, I think you're going to see more agents in Slack than you see humans. That creates a fascinating monetization opportunity that we haven't totally cracked the nut yet on. But I think it creates incredible upside for Salesforce. You can think of agents potentially as users. You can think of consumption-based mechanisms for monetization as agents are actually the access patterns for information in Slack by agents is very different than that from humans. We're in the early stages of that, but I could not be more excited about the upside for Slack.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah, and I'll build on that, Rob. I think as Rob mentioned, what started as largely per user per month is now expanding into the agents that are exploding in the workforce. The usage is exploding like never before. Even into the future, you're going to start to see more things like outcomes that organizations are ruminating on or delivering with Slack at the cortex of that work that really become opportunities for participating in more value exchange between us and the customers that we serve.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Yep.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+So as you think about the monetization opportunities, they are highly elastic, and they are highly variable based on what companies do with the software. What is really fascinating about Slack is how much people do with the software.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Yep.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+How we all embrace it in our core work and workflow, and it just becomes almost like the place where I prefer to do my work as opposed to all these other systems that I might have had to interface to do my job with prior. I think the monetization opportunity, what started very small around the user base world now expands into lots of different upside potential for many of our businesses, Slack included.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+That, I think, goes back to something you asked earlier that I did not perfectly answer when you were talking about our differentiation or how we might maintain this. I think that is our moat, honestly, is the distribution that we have had, the compounding context flywheel that sits in Slack, and just the more and more you use it, the more and more valuable it becomes. I think that is ultimately the moat.
+## Gabriela Borges | Analyst, Goldman Sachs
+Bill, I want to ask you a couple of broader monetization questions. The data point we got from Miguel on the earnings call was 5%, roughly, of the Salesforce installed base is on premium SKUs.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yep.
+## Gabriela Borges | Analyst, Goldman Sachs
+And premium SKU can sometimes be a 60%-80% uplift. Could you just break this down for us a little bit? If we are a Salesforce customer, and we are not one of the ones that have already invested engineering resources into making Claudeforce happen without Claudeforceâ
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yep.
+## Gabriela Borges | Analyst, Goldman Sachs
+âand we say, "Claudeforce sounds amazing. How soon can we onboard?" Explain the 60%-80% a little bit more.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+What is that uplift?
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah, let me give you, it is sort of in the case of our traditional two core cloud, Sales Cloud and Service Cloud. But when you think about all the software that is required to make a salesperson productive, not only is oftentimes your CRM system for managing your sales pipeline, your contacts, your accounts, et cetera, but that often sort of expands into your sales performance management system, where my quota, where my commission, where my compensation management systems are aligned. Maybe my sales enablement software, which has sort of helped me become enabled or effective as a seller. Maybe that is where all my content exists, so I can come out and deliver pitches or proposals to my customers. Then there is also sort of all these extremities, like sometimes it is call recording software or coaching software that helps me in moments of working with customers.
+Well, the average spend on a customer with all of those other technologies in the U.S. is about $1,300 for an average sales professional. What we have been able to do is put a lot of this value into one price edition called our Agentforce 1 Edition, or we may have a new name for that next week, but I will call it Agentforce 1 Edition today. That Agentforce 1 Edition retails for $550. The goal here is to really take money out of the extremities, for we know every sales organization has to recruit, hire, activate, and make salespeople productive and performant, and now put it into one offering that is there. It is early days for us. We only started really thinking about premium levels of monetization, really the last couple of years.
+As Miguel was rightfully pointing out, it is just early days for us to put these premium editions into our install base. As they go through the life cycle of a contract with our company, what we are seeing is more and more of our customers are trading up to these editions as they come up for renewal. It is not something that will be a big bang immediately overnight, is everyone on a premium edition. It is something that as companies have other contracts that they are rolling off from other vendors and now consolidating onto Salesforce, that is the motion that we are kind of running with the premium editions that are there. I think it really allows our customers to save money in the process while driving higher performance and higher productivity for every salesperson that they do.
+By the way, the same is true on the Service Cloud side. You have to have a case management solution, a telephony solution, sometimes a chat or channel solution that is out there. The same sort of play is what we are engineering on that side, which is more consolidation of extraneous spend into more of a consolidated Salesforce platform.
+## Gabriela Borges | Analyst, Goldman Sachs
+There theoretically will be an upgrade cycle that we could guess at for each of the Salesforce clouds over time.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+That is essentially the strategy you talked about.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+The thing that I want to better understand, this can get pretty confusing pretty quickly because you've got the Agentforce SKU, you've got what will be the Claudeforce SKU, you've got Headless, which is sort of a pick and mix independent of Anthropic.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+Maybe just help, you had a beautiful cohort description earlier. Help us put this into cohorts so we can understand whatâ
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+âthe different customers are getting.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+You're doing a pretty good job with all the names. So like I said, the naming is something that we're definitely working through as a team. Let me kind of make it really simple.
+## Gabriela Borges | Analyst, Goldman Sachs
+Please.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+With our Agentforce 1 Edition, you get Claudeforce, you get Agentforce, you get Data Cloud, and you get the best of all the Sales Cloud that's there. So we want to have one edition that they all come into, and you get
+## Gabriela Borges | Analyst, Goldman Sachs
+Just super tier.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yes, exactly. A premium tier of all of those offerings. Now, can you buy all of those items discreetly? Yes, you can buy all those items discreetly, but we want to make it an economically viable and attractive offering for companies to get the best of Salesforce in this one edition. Because what we know is that for those organizations that run that Agentforce 1 Edition, their salespeople are more productive. They're using the software more because they have Slack also into that edition. They have our Tableau offering, so they have all the analytics that they need to be productive in their role. So this is really not just a strategy of sort of loading someone up with all the Salesforce that they could have.
+It's really, we've engineered this from the start to make it the best edition for workers to have the best performance of their lives.
+## Gabriela Borges | Analyst, Goldman Sachs
+And that is the 60%- 80%?
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+I'll map it back.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+That's right.
+## Gabriela Borges | Analyst, Goldman Sachs
+Yeah, okay.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+That would be what that number would correlate to.
+## Gabriela Borges | Analyst, Goldman Sachs
+Okay. Now let's introduce Fin and Qualified into the equation.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+One of the nuances that we struggle with a little bit is Fin, in practice, sounds a little bit like Agentforce in practice.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+But it's not. Explain the difference.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah. I think as the world of agents and agentic platforms are starting to clarify for all of us, it's become very clear that there are many customers that want to have purpose-built, specialized agents to perform discrete tasks on behalf of their business. Fin is a great example. Fin is a solution that was engineered for the customer service domain, really to help streamline and automate a lot of those routine and interactions that a company has with its customers. Fin is a purposeful agent that is hyper-specialized and focused on that area. Piper, which is an agent from Qualified, is actually a hyper-focused, purpose-built agent for the marketing domain, where Piper's job is to sit as part of your website, enroll someone through your sales and lead qualification process, and ultimately try and book meetings with sales professionals.
+These are two agents in two very different tasks on top of kind of commonly what might be a website experience from a company. Agentforce does is it orchestrates all of them in the back end. It understands and knows what Fin is doing. It knows and understands what Piper is doing. It knows and understands what agents that are built by developers are doing on this platform, so that we know that one agent can start an experience and then pick it up as a conversation traverses from the marketing world to the selling world to the servicing world. This is where again, as the world between platforms that orchestrate the journey and agents that power the front end of those experiences, that's how they differentiate from one another.
+It's overly probably reductive to say is it Qualified versus Agentforce or Piper versus Fin. We don't see customers say, "I deploy one or the other." Oftentimes, what we see are companies deploy all of them. They start with the top of the funnel with a Piper, the bottom of the funnel with a Fin, and Agentforce that orchestrates in between.
+## Gabriela Borges | Analyst, Goldman Sachs
+I also have to budget for Anthropic token spend if I come for Agentforce?
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Not on those offerings.
+## Gabriela Borges | Analyst, Goldman Sachs
+When I am on Agentforce 1. Sorry.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+No, not on those offerings. If you are buying Claude or Anthropic as a kind of customer, you do that with them, with Anthropic. As part of Agentforce and a part of Piper and as part of Fin, you are not paying for Anthropic tokens to make those interactions power.
+## Gabriela Borges | Analyst, Goldman Sachs
+Okay. That makes sense. Let me ask the broader question, which is, there's an evolution in software here that goes from being seat count based to selling outcome, selling a unit of work, which we think is quite expansionary for the software TAM. Where does the budget come from when you're having these conversations?
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah. Well, maybe I'll start, and Rob, you can add in from your productivity lens. But, I think as terms of budget goes, it depends on where the outcomes are. Sometimes outcomes are actually aligned towards savings. So the actual savings become a self-filling proposition for every dollar we save, we can reinvest those dollars in the software that powers those savings. In other cases, some of the outcomes that we're working on now, like, in the case of our sales and sales agent domain, kind of paying for Qualified leads or paying for orders that are actually booked. So that's where organizations are happy to invest in those outcome-based agents, because the more that those agents perform, the higher revenue that they're actually performing for their organization.
+I would say that the outcome-based agents actually allow us to align value realized with budgetary sort of planning altogether. I've not yet met a CFO that says, "I'm not willing to give you a dollar if you're actually going to help me make three." This is an opportunity for us to, like you said, get into more of that expansionary opportunity, especially as our benefits are more jointly aligned with customers on those domains specifically.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+I would layer in, we continue to see more and more of the premium for Slack because of the additional work that we're taking on and the economics we're helping our customers with. We're a little bit different. So, when you were talking about, in general, the move to headless and Claudeforce as an example earlier within Slack, we have something called Slackbot, which is an out-of-the-box agent for knowledge workers that is built on top of Anthropic. At the broader Salesforce level, we think it's important that you be able to accomplish the work through whatever your tool of choice might be. So we want to be able to tie into any harness that you use, but we are going to have an opinionated harness out of the box, and that is Slackbot.
+When we look at Slackbot, one of the bets that we make is we actually take on the burden of token economics ourself. As part of the per user per month seat for our highest grade plan, our knowledge workers that are customers are able to go to Slackbot and get done much of what they might have done in an open-ended cost tool in another way. Does it mean those other things can go away? No, it doesn't. It means it's an easier way to budget, and some of the more specific, higher order, deep knowledge work that needs to happen in those other tools will happen over there.
+This is just a very easy, reliable way for you to give a knowledge work agent to the majority of your employees at a reliable cost and then really target, like, yeah, they need Claude Code or they need Coworker or they need an unlimited token spend, et cetera. We see often the premium that we're getting coming at the expense of utilization of other tools, frankly. It's not necessarily elimination of heads. When you look at Slack, we'll have a business leader bring Slack into an organization, like a sales organization, and be like, "Okay, I want to connect Slack to Salesforce, and I have a goal of getting my new sales reps to productive in 90 days or less." It used to take six months.
+You connect Salesforce and Slack together, and they can do that, and they're effectively accelerating revenue and taking some cost out because they aren't using third parties to come in and train those people. They're actually having the software do it for them. Or it's like, okay, we're doing a percentage of our internal meetings through Huddles now as opposed to these other things that we're doing. So we're taking 30% of the workload off of some of those other tools. Similar things with Documents, similar things with agents for knowledge workers, right? So we shave off by being more convenient economics in other places.
+## Gabriela Borges | Analyst, Goldman Sachs
+I have two big picture software questions I want to pick your brain on.
+The first is, Bill, you've talked in the past about back office versus front office convergence and how agents can perhaps blur the lines.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah.
+## Gabriela Borges | Analyst, Goldman Sachs
+What do you think is the future of what has historically been silos between back and front office?
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah. I started my career as a production scheduler for Motorola as an intern, and so I was a back office dude. Then I learned about this magical thing called CRM, which was about actually working with customers. I've always had this inner rift in my own brain between back office and front office. What was sort of fascinating is the limits of the technology systems have always been really about the roles that were kind of specialized to perform discrete tasks and functions. When you learn about a lot of the systems in use for many businesses, those systems themselves were operationalized or built for the constraint of what human labor could do. I think it's so fascinating right now, and Rob, you talked about it and alluded to it with the Slack world.
+We'll see more agents in our workplace than employees and human employees sometimes in our workplace to perform work and tasks. We have to go back to the ability to reinvent a lot of these fundamental systems and processes and activities that people do because now the technology is going to be always on, always running in our lives really to help us become more productive and to drive higher quality output in the work that we sort of perform. If anyone here is a back office and front office maven, I'm sorry to say, I think they'll blend. I think that they will blend in ways that really break down a lot of categories and a lot of opportunities.
+But at the end of the day, if we use software to make companies perform better, that's where value systems like Salesforce are really being engineered for from day one, which has helped make our companies be better companies, help them engage their customers in better ways, and help them transform their business, not to recreate yesterday's legacy, but really to define what tomorrow looks like. I'm very bullish about just workplace and workforce transformation in that regard. I never want to have to do MRP scheduling again in my life. I'm very excited about this ability to fundamentally hand some of that work to agents and to spend energy where I like to spend energy, which is with people, and relating in new and exciting ways.
+## Gabriela Borges | Analyst, Goldman Sachs
+Okay, the second one is horizontal versus vertical. You all had some pretty spicy comments from David Friedberg at the beginning of the earnings call on horizontal leading vertical. You've announced some really interesting life sciences wins. For either of you, what do you think is the future of vertical software?
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Maybe I can start.
+## Gabriela Borges | Analyst, Goldman Sachs
+Yeah, perfect. Please.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Because I think Slack's inherently more horizontal, I think, than the rest of the Salesforce products. But I think there are opportunities for us to get more vertical, and I think maybe that'll be a good segue to Bill. But again, coming back to the total available market for knowledge workers, it's in excess of 1 billion people, I think, globally. So we very much look at the horizontal opportunity for Slack, because what's been very interesting is if you look at, from the inception of Slack, the challenge that was set forth for the team was, is there a way that we can build software that will make coordination easier? So to make the hardest part of people's working lives, coordination, more simple, pleasant, and productive.
+And that's a problem space that fortunately has endured pretty tectonic shifts in underlying technologies, whether that be the cloud substrates to now the new models. Coordination is still a pain in the ass, right? I don't know if anybody's ever read Komoroske's slime molds article. Go read that. And I think there remains tremendous horizontal opportunity for coordination and orchestration of work for knowledge workers, despite everything that's happening with agents that are out there today. I think there are domains that we can verticalize in, that we're interested in. You're starting to see us do with Slack Code, that span industry verticals. So I think you'll see us go in the stovepipes of LOBs rather than necessarily industry verticals. But I think you can expect to see us go long on tech and dev, and coding in particular, from a verticalization perspective.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Yeah. In the spicy commentary, I think really the message was about finding out where really your true differentiation, your ability to create unique value, represents. And if you keep going down that spectrum, there's horizontal, and then there's vertical, and then there's regional, and then there's local, and then there's personal sort of opportunities to create value along that spectrum. And I don't think that value stops on any one of those stops along the journey. I do think there's immense opportunity for us to utilize the technology, and I think I take a lot of inspiration for what Slack does for me in my life, where I get out of my own way, and I work with my team, and I work with my group, and I work with my organization in ways that I never could do before.
+But that just sort of goes on that same spectrum, where I'm now working less in a local way, but more in a communal way. And I think that as we see this vertical opportunity maybe more clearly, there is great value that we can create making hyper-relevant computing for companies in certain industries that maybe have regulatory requirements and uniqueness that allows us to maybe deliver higher value services to them or not. So I'm not a big believer in the verses. I think there's a big spectrum of opportunity there, and we're excited to play in that spectrum, broadly speaking.
+## Gabriela Borges | Analyst, Goldman Sachs
+Hey, it's really good stuff. Please join me in thanking Bill and Rob for their time. Thank you, guys.
+## Rob Seaman | EVP and GM of Slack, Salesforce
+Thank you, everyone.
+## Bill Patterson | President and Chief Commercial Officer, Salesforce
+Thank you.
+Data Source: Quartr Last updated: Sep 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

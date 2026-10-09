@@ -1,0 +1,341 @@
+TITLE: 2026 Wells Fargo  Payments FinTech Symposium
+DATE: 2026-03-18
+## Speaker 2 | 
+Thank you everyone for being here at the next session. We're very excited to have Klarna's CFO, Niclas NeglÃ©n here. Thank you very much. We appreciate your time. A lot of topics to kinda hit on, but I did wanna start by congratulating you guys on a milestone yesterday, 1 million merchants. It's a lot.
+## Niclas NeglÃ©n | CFO, Klarna
+Yes. We're very pleased with that.
+## Speaker 2 | 
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+Thanks for having me.
+## Speaker 2 | 
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+Thanks everybody for coming.
+## Speaker 2 | 
+Yeah. Yeah. Well, that's a big accomplishment. I guess maybe to just kinda dive in on market opportunity for Klarna. If we think about Buy Now, Pay Later adoption in some of your key markets, right? We think about Germany, Sweden, the U.S. Tell us how you're thinking about penetration in terms of, you know, percent of e-commerce that, you know, Buy Now, Pay Later now represents. You know, what's kinda the upper limit? You know, where can this go over time? 'Cause it feels like there's still a lot of runway, but maybe the answer in terms of how much runway varies a bit by region.
+## Niclas NeglÃ©n | CFO, Klarna
+I think this is a great question. The way that we think about ourselves in Klarna is really about being spend-centric, right? That means that we have a payments product that is relevant for every type of vertical, right? That's a key, I think, differentiator and a strategy of ours. Last year we had, you know, 118 million consumers purchasing goods and services for $128 billion across now almost 1 million merchants at the time. Really the focus is less that Buy Now, Pay Later. That's just a component of what we do.
+## Speaker 2 | 
+Right.
+## Niclas NeglÃ©n | CFO, Klarna
+It's about having a payments product that is relevant for every vertical, right? What that really means for us is that from our perspective, we are looking at expanding our ability to serve customers wherever they are, whether that be online, offline, whether it be with the card or whether it be through the merchant, Apple Pay, Google Pay, et cetera. I think that's really our focus. While obviously Buy Now, Pay Later is a part of that, and I think it will grow as part of e-commerce. If you take Sweden as example, we have 80% population penetration in Sweden around about 40% of e-commerce there.
+We're still growing at double-digit teens last year in the fourth quarter, driven by the fact that we're continuously expanding because we have relevant payment products for every type of vertical.
+## Speaker 2 | 
+Okay. Okay. Yeah, no, it is important to remember you've obviously diversified the business model pretty materially over time. Just as you've scaled both sides of the network, right? The consumers and the merchants, have you seen any noticeable shift in the demographics of the consumers that are coming onto the platform?
+## Niclas NeglÃ©n | CFO, Klarna
+I think that's a great question. From our perspective, because we have a broad-based adoption, like I said, 80% population penetration in Sweden. We have 30% plus in Germany, 20% plus in the U.K., and even here in the U.S. we've got, you know, 10% of the population, right? So it is a very broad-based thing. Really what drives that is the continuous expansion of our network, right? You mentioned the 1 million, which we're obviously very proud of, the 1 million merchants that we now have. It's all about ensuring that we have that relevant payment product to be able to allow us to do that. In 2025 we had key wins, Walmart, DoorDash, eBay, Apple Pay, but also those default PSPs.
+## Speaker 2 | 
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+That really allows us. You know, default PSP basically means that we are just being part of the standard offering for a merchant that comes and connects with one of these PSPs. We're live with Stripe, and I'm sure we'll talk more about it later. Ultimately what that means is that we have an evolution of the channels, the verticals, distribution, as well as product expansion. All of those things together is really what's driving the expansion of usage.
+## Speaker 2 | 
+Okay. I wanted to hit on competition. I mean, we get this question all the time because as Buy Now, Pay Later has obviously become a lot more mainstream, including in the U.S. It's natural for more competitors to kinda come into the market. With that said, Klarna clearly remains the largest player globally. I wanted to get your take on, have you seen any notable shift in the competitive landscape? Whether that's just from other kind of Buy Now, Pay Later providers or even for, you know, traditional financial institutions or credit card companies that are, you know, offering some form of installment payment options. How do you see the landscape?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. I don't think there has necessarily been a shift in the landscape of the competitive landscape. I do think that the reality is you should think about this more as how are consumers wanting to spend. How do they want to spend? They want to save time, they want to save money, they want to be in control of their finances, right?
+## Speaker 2 | 
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+They're looking for that versatility, and I think Klarna brings that to the table in a way that others don't, right? What I really mean by that is having that kind of broad-based offering, being spend-centric. Finally, I think it's really key point is that I think kind of a pure Buy Now, Pay Later doesn't have is that focus on consumer preference, right?
+## Speaker 2 | 
+Mm.
+## Niclas NeglÃ©n | CFO, Klarna
+Ensuring that one really builds the right type of product, right type of experience and allowing consumers to choose between how they want to manage their money.
+## Speaker 2 | 
+It sounds like things are pretty much status quo in that regard. I mean, look, it feels like from our perspective, like there's still a rising tide that's gonna lift multiple boats, right? Again, coming back to our point around penetration so far. We touched on some of the differentiation you see for Klarna. Turn to guidance for 2026, which you guys obviously provided in February. There's a couple of different dynamics in play here. We know that the Fair Financing product continues to ramp. The guide in terms of your transaction margin dollars I think is somewhat back half loaded. If you can comment just on the visibility on that second half acceleration, 'cause I think the compares actually get a little tougher.
+As part of that, maybe just remind the audience. I know you've done this a lot before, but just remind the audience around the accounting mechanics of Fair Financing, because, you know, since you're still relatively new to the public markets, it's important for people to understand the impact on the P&L over the short term.
+## Niclas NeglÃ©n | CFO, Klarna
+Okay, that's key. Yeah, great.
+## Speaker 2 | 
+There's a lot there.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. I'll take those two parts actually.
+## Speaker 2 | 
+Yeah. Thank you.
+## Niclas NeglÃ©n | CFO, Klarna
+I'll start with kind of the guide and then let's spend some time.
+## Speaker 2 | 
+Okay
+## Niclas NeglÃ©n | CFO, Klarna
+On the Fair Financing, accounting dynamics, if you wanna call them that.
+## Speaker 2 | 
+Okay.
+## Niclas NeglÃ©n | CFO, Klarna
+Basically, you know, we added about $20 billion worth of volume in 2025 versus 2024. In 2026, we're guiding to greater than $27 billion, right? I think that's a meaningful increase on the base, right? It's really driven by what we talked about before, the merchant expansion and
+## Speaker 2 | 
+Yep.
+## Niclas NeglÃ©n | CFO, Klarna
+Right? Ensuring that we're ubiquitous in more places. The card expansion, which allows us then to be in more places, as well as the Fair Financing piece, right? I think we have a kind of solid line of sight towards where our growth is on those dynamics, right? What we saw in the fourth quarter particularly was an accelerated shift towards Fair Financing, particularly in the U.S. Which that coupled with the fact that we've seen an accelerated increase in our direct-to-consumer volumes, so primarily our card, but also Apple Pay and Google Pay, etc., means that we've factored that kind of trend into 2026, taking a view of what that means for us, right? That has a couple of fundamental dynamics, right?
+Which you saw play out in the fourth quarter, and which we then have baked into 2026 guide. Firstly, on the Fair Financing, right? Just as a nature of how this is, that you provision for your expected credit losses upfront while you earn prudently your revenues over the life of the loan, right? You know, that's simply what we're doing, right? You take the total cost upfront in simple terms, and then you earn the revenue over life, right? As you're ramping a portfolio, this is very natural, and it's happened, you know, with any fintech or any financial company that expands, right? If you're expanding at our pace, what it means that you're actually provisioning a lot more than you're earning from a revenue perspective.
+## Speaker 2 | 
+Right
+## Niclas NeglÃ©n | CFO, Klarna
+until you bake that in.
+## Speaker 2 | 
+Right
+## Niclas NeglÃ©n | CFO, Klarna
+Over time, it's the compounding nature of things, right? Obviously, given the fact that we have, you know, on an absolute basis, a very strong growth, still the comp year-over-year becomes a bit tougher, right? From a percentage perspective. As you normalize this book, what you will see is that revenue compounds above and then basically overtakes that provision, right? That's basically what we factored into 2026 and how we're thinking about it. Hopefully that answers the question. Happy to dig in.
+## Speaker 2 | 
+Maybe just to kind of to follow up on guidance as sort of a general topic. I mean, you've now had two quarters as a public company, right? Maybe give us a sense of how your, you know, approach to providing guidance to the investment community is evolving, because there's always gonna be parts of the business, right? Where your visibility is inherently more limited, especially at the start of a given year. We'd just love to hear a little bit about how you're, you know, thinking about evolving that. 'Cause I think every company, like post their IPO, they go through that process, right?
+They're kind of figuring out adjustments they may wanna make and, ultimately, you know, finding the right balance between how much guidance to give versus, you know, not giving too little and not giving too much.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. No, I think a good question. If you think about our focus has really been on giving as much clarity and transparency in the guidance as possible, right? Appreciating and recognizing, I think, that we have this evolving business that's growing right, in the right ways towards that spend-centricity, and we're expanding the amount of payment products that we have so that we're relevant in every type of vertical, right? Fair Financing and card adoption, like I just said, are really the big dynamics of that. Again, Fair Financing really driven by that upfront provisioning, earning over time, and the book then normalizes sequentially over a number of quarters.
+On the card, right, we've seen this strong adoption rate and, you know, we're assuming into the guide, expecting that to continue, that adoption rate to continue. That comes with a certain level of upfront cost, which again, your efficiencies, etc., right? Also what we see with things like the card is a higher frequency of use, right? On average in the cohorts that we see today, about three times higher frequency.
+## Speaker 2 | 
+Yeah
+## Niclas NeglÃ©n | CFO, Klarna
+than if you are not a card user, right? Which has a great opportunity for expanding Klarna's network and being that everyday spending partner, right? Building that habit of using us for multiple different types of spending is an important element of our strategy.
+## Speaker 2 | 
+It kinda sounds like as you guys thought about issuing the initial 2026 guidance, you said, "Hey, you know, Fair Financing and card have really ramped even better than we thought in like the back half of 2025. Let's just assume that those trends continue so that we're less likely over the very short term to see any kind of negative surprise on transaction margin.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. The way we think about it, yeah, we think about the trends and obviously what we think we're going to achieve.
+## Speaker 2 | 
+Yeah, yeah
+## Niclas NeglÃ©n | CFO, Klarna
+We have, you know, plans and other on that. I think the key thing here to me is that the consumer momentum is there.
+## Speaker 2 | 
+Yes.
+## Niclas NeglÃ©n | CFO, Klarna
+The merchant expansion momentum is there.
+## Speaker 2 | 
+Mm-hmm.
+## Niclas NeglÃ©n | CFO, Klarna
+The engagement levels are there with the application of more opportunities for consumers to spend with us in more places. I think that's a very important structure 'cause it sets the right foundations for continuing to build on what we've been building for the last 20 years.
+## Speaker 2 | 
+All right, now we're gonna hit agentic commerce.
+## Niclas NeglÃ©n | CFO, Klarna
+Mm.
+## Speaker 2 | 
+Right? Big topic. I mean, we've written a lot about it. We think it's probably the biggest theme in this sector over the next 3-5 years. We're actually gonna have a panel on it right after your session. Talk to us about how Klarna is laying the groundwork to participate in agentic commerce. We've been trying to think through a lot of different scenarios for, like, branded button presentment and prominence, you know, in a world where consumers are transacting more in an agentic context. Would love to just hear how you're approaching that and really how Klarna can arguably continue to differentiate in an agentic world.
+## Niclas NeglÃ©n | CFO, Klarna
+I think to some extent, and we think obviously a fair bit about this ourselves, we just launched with Stripe, a partnership, in this area as well. At its core, fundamentally, whether it's an agent or a consumer directly, the fundamental principles still hold, right? Are you relevant and available in all the different places where the agent goes, i.e., where the consumer goes, right? Are you available at all these checkouts? Are you available using the card? Are you available on Apple Pay, Google Pay, et cetera, right? The second piece of this, I think is the fact that you want the preference.
+'Cause ultimately, if you're a high frequent user of Klarna, then, you know, the agent will most likely look at that and compare that to, okay, well, if I have a set of products that are all equal-
+## Speaker 2 | 
+Right
+## Niclas NeglÃ©n | CFO, Klarna
+from an economics perspective, then I will follow the preference of the consumer. I think that's why it's so important to build the network that we're building today, with or without agentic commerce, right? I think we're well-positioned for that going forward.
+## Speaker 2 | 
+Okay. Yeah, I mean, we agree. I mean, I think ultimately it's still gonna be the consumer that's kinda making the ultimate decision, right? Perhaps providing some instructions to the agent, right? But then ultimately making the call. We saw the announcement you guys had with Stripe last week too, which I think was important. I mean, do you guys have a view just in terms of like, are we gonna hit like a specific tipping point where agentic commerce is gonna really inflect, or does it feel like a very gradual blocking and tackling process 'cause you gotta get merchants on board and issuers on board and figuring out how they're gonna interact with the LLMs?
+## Niclas NeglÃ©n | CFO, Klarna
+I think there's always gonna be questions about how to kind of develop. It's a little bit like driverless cars. We don't know when the tipping point is.
+## Speaker 2 | 
+Mm
+## Niclas NeglÃ©n | CFO, Klarna
+It will come, right? The question is more being relevant in that conversation up front, by being in as many checkouts as possible and building relationships, consumer preference, as well as with the merchants.
+## Speaker 2 | 
+Yeah. I mean, I thought it was interesting too, I guess it was last week or the week before that OpenAI announced that they're not doing embedded native checkout within ChatGPT anymore, and they're gonna actually have the merchants integrate their apps into the LLMs. I thought that was kind of telling 'cause they hadn't really gone down that path very long, and now all of a sudden they seem to be backing away from that a bit, which I think is kind of favorable for merchants, and then by extension, those that the merchants partner with.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah
+## Speaker 2 | 
+You know, branded solutions such as Klarna, as opposed to the LLMs kind of intermediating the status quo.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, that makes sense.
+## Speaker 2 | 
+The other angle with AI I wanted to hit on is just how Klarna is using it internally, coding, customer support. You know, I guess it was obviously prior to your IPO, there had been some widespread media reports about, you know, how much cost you had taken out, I think.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah
+## Speaker 2 | 
+The customer support function and maybe some tech functions too. Maybe just update us on where we are there because I mean, your growth in revenue per employee has been pretty impressive.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, no, I think to some extent the numbers speak for themselves there. You know, SEK 1.24 million of revenue per employee, you know, seems to increase over the last few years. You know, the last five years, since 2022, we've increased our revenues by 104%, and our adjusted operating expenses have gone down by 8%, right?
+## Speaker 2 | 
+Mm-hmm
+## Niclas NeglÃ©n | CFO, Klarna
+P artially AI, partially efficiency, et cetera, right? I think, though, that it's a little bit like where do we use electricity, right? I mean, AI is now so spread out within the organization. What it's really helping is to, you know, this talent base we have allow them to be even more effective, right, in what they're doing. I think that is super exciting, whether it be within my area of finance or whether it be in customer services or helping to write code. It doesn't really matter where it is. I think it permeates the organization, and we're trying to lean in. There's really not an area where it isn't being touched right now, I think.
+## Speaker 2 | 
+Are there certain areas where you've seen, you know, the most productivity gains or the most cost saves from AI that then makes you lean in a little bit more in those specific areas or?
+## Niclas NeglÃ©n | CFO, Klarna
+No, to be honest, I just think, like, there's very few places, excuse me, where there isn't a use case for it.
+## Speaker 2 | 
+Right. Right.
+## Niclas NeglÃ©n | CFO, Klarna
+I think it's more up to helping our talent learn how to use it effectively.
+## Speaker 2 | 
+Mm-hmm
+## Niclas NeglÃ©n | CFO, Klarna
+Irrespective of where they are.
+## Speaker 2 | 
+Okay. Presumably you've trained most everybody at this point in some way, shape, or form.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, it's learning by doing, right?
+## Speaker 2 | 
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+What's nice with AI, in my opinion, is that you have the ability to actually talk to AI about teaching yourself how to use it better. When people ask me a question, I can say, "Well, why have you asked AI?" If they ask me how to do this.
+## Speaker 2 | 
+Right.
+## Niclas NeglÃ©n | CFO, Klarna
+Ask AI how to do it.
+## Speaker 2 | 
+Yeah. That's what I tell my kids, so. You touched on this a little bit, but I wanted to ask you kind of the open-ended question of how this broader push into banking services is really driving ARPU growth and engagement, and you can kinda take that in whatever direction you want. I think there's probably a lot to say there.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. I think at its core, right, spend-centricity is our focus, right?
+## Speaker 2 | 
+Yep.
+## Niclas NeglÃ©n | CFO, Klarna
+If you think of it from that perspective, all the kind of banking services that we're trying to put in place is really supporting that everyday spending plan, right? That means, you know, we want to be sure that we have an effective card that you can use debit sometimes, you know, credit when it's appropriate, we underwrite every single transaction, but you get the flexibility, and you have the control, right? At the same time, we've launched the Klarna Balance, where you can then get your refunds back onto your card, right? We have a very effective savings product in Europe, about $13 billion worth of deposits, and we've been building that since 2013.
+This is all about finding ways and routes for our consumers to help them save time, money, and have more control over their finances while they're doing their everyday spending, right? That's really the focus that we've had. What I think is interesting is that what you're seeing is that what you wanna see, which is an average revenue per user expansion over time. If I take two examples, right? One is that in the 2022 cohort, their average revenue per user that year was $12. Today, it's $52.
+## Speaker 2 | 
+Hmm.
+## Niclas NeglÃ©n | CFO, Klarna
+Right? You see that expansion as consumers use us more. The second piece is that because we're launching these services and we're getting that higher adoption, that we have more vertical expansion, so we're more ubiquitous, and we also have more product expansion or more products, right? What we're also seeing is that the average revenue per user for the first year has also accelerated. When it was $12 in 2022, today it is around about $21, right?
+## Speaker 2 | 
+Mm-hmm.
+## Niclas NeglÃ©n | CFO, Klarna
+It just shows that people are adopting more of our services and seeing the benefits of us trying to take a holistic view to being their spending partner.
+## Speaker 2 | 
+You're getting more of that upfront attach with some of the banking products. Okay, good. Let's talk a little bit about the card specifically. Two hundred and nine percent GMV growth in Q4. Still scaling quite incredibly. Four point two million active users. Talk to us about the mix of transactions you're seeing there in terms of, you know, pay in full versus pay later. Then I would also be curious to hear about Klarna card usage in-store versus online. How's that evolving?
+## Niclas NeglÃ©n | CFO, Klarna
+Look, we're very excited about the card. I think it just shows, you know, an amazing growth over the last six months, 4.2 million cards. What you see here to me is really a question of increased frequency and engagement. That obviously is important for that spend-centric model that we have, right? You know, we have about, on average, like I said, three times higher frequency on the card. If you look at it, generally, a consumer will start their journey, you know, with a merchant, a buy now, pay later product, and then as they expand their preference, they then choose the card, right?
+## Speaker 2 | 
+Mm-hmm.
+## Niclas NeglÃ©n | CFO, Klarna
+That then starts giving us a different shape or form of spending, right? I mentioned Sweden already, but I'll do so again just because I think it is an important kind of benchmark, right? 80% population penetration with continued growth because people are using the card. What's interesting here is that you have this card that has the flexibility of debit and Buy Now, Pay Later, pay later in 30 days or, you know, for a larger purchase, a Fair Financing product, right? What we're seeing even in Sweden is that people, you know, that were maybe very frequent users of our Buy Now, Pay Later are now starting to use us also for pay in full, as well as when they're making larger purchases, right? That's habit-forming.
+That's a really critical part of a network like ours that we're building. We feel very good about that. I mean, the card in the U.S., just to comment very, 25% of all of the purchases are now offline, which shows-
+## Speaker 2 | 
+25%. Okay.
+## Niclas NeglÃ©n | CFO, Klarna
+The ability for us to continue to expand through those things. I feel very good about where the card is as a product set, and I think it's gonna be very accretive over time.
+## Speaker 2 | 
+I also wanted to ask you before I forget, 'cause we're asking all the companies here today, just, you know, it wasn't that long since you reported, but just any quick comments on how Q1 is tracking versus plan. Obviously, we've got a war that's popped up in the Middle East, so any exposures worth calling out there that we should be aware of?
+## Niclas NeglÃ©n | CFO, Klarna
+No. We continue to see a healthy consumer, right? I would make a point that irrespective of macroeconomic environment, we have controls and processes in place that we've been managing and improving over the last 20 years, right? We've underwritten about half a trillion dollars worth of volume since inception, right? What I think is important that with our short tenor, right, so our average duration is 39 days. Our average outstanding balance is $124, right? That means that I have the ability to manage and control the exposures and risks with regards to that, right? We do so on an ongoing basis. We underwrite every single transaction. Our focus is really to do that on an ongoing basis. That is kind of our focus.
+We've always been doing it in that way, irrespective of macro. As of today, you know, we see a healthy consumer.
+## Speaker 2 | 
+Okay. I don't think offhand you have any direct exposure or operations to the Middle East. Is that right?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, that's correct.
+## Speaker 2 | 
+Okay.
+## Niclas NeglÃ©n | CFO, Klarna
+Don't have any activities in the Middle East.
+## Speaker 2 | 
+Okay. All right. Thanks for clarifying that. I wanted to hit on take rate as well, you know, just when we think about, you know, transaction margin dollars as a percentage of GMV. How should that evolve over time? I mean, obviously, Fair Financing growing faster than kinda traditional core pay later, right? I think, you know, sometimes the investment community, in my view, gets a little too hung up just on absolute level of take rate and just looking at it black and white. Oh, it's going up, it's going down. That's good, that's bad, right? There's all kinds of factors, including mix, right, that can impact it.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Speaker 2 | 
+Maybe talk us through how you're thinking about the evolution of take rate at Klarna, whether it's because of some of these mix factors or other dynamics?
+## Niclas NeglÃ©n | CFO, Klarna
+I think it's important here when you think about it from a long-term perspective. We're looking at a target of 50% transaction margin as a percentage of revenue, right? When you look at it, there's obviously, to your point, different dynamics. In the fourth quarter, we had about 12% of our total volume being Fair Financing. We obviously will see that expand. In 2026, we expect roughly mid-teens %, right? Ultimately, what you're seeing is we upfront provision and then basically take our revenues over time, and that is starting to compound through 2026, right? You see transaction margin dollars growing at about 30% year-over-year in the guide, which is a meaningful step up, right?
+What you're also seeing is that it's growing faster than what our general revenue is because you're starting to get that compounding nature through the year, right? You know, that's kind of really the driver as we normalize the portfolio, and the shape of the portfolio over time.
+## Speaker 2 | 
+I think you're looking at, what is it? At least 104 basis points, I think is effectively the guide.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. Greater than 104 is the guide.
+## Speaker 2 | 
+Yeah. Just as we think about that, I mean, is there headroom there over time for that to go higher? I mean, maybe there's some ins and outs in that thought process, right? You know, what
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Speaker 2 | 
+How would you encourage people to kinda model that?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. I would think about this is really we're gonna continue to expand as we get more and more of our average revenue per user-
+## Speaker 2 | 
+Mm-hmm.
+## Niclas NeglÃ©n | CFO, Klarna
+driven by things like membership fees, et cetera, right? You won't always have a direct correlation to the transactions at the same level, right?
+## Speaker 2 | 
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+I think it's important to think about this from a transaction margin dollars and percentage as a percentage of revenue, where, you know, long term, we're guiding towards that 50%.
+## Speaker 2 | 
+How is it going with the memberships? You just mentioned it briefly. I mean, I know that was an initiative. When did that start? Last year, was it?
+## Niclas NeglÃ©n | CFO, Klarna
+It started with the card, really.
+## Speaker 2 | 
+Okay.
+## Niclas NeglÃ©n | CFO, Klarna
+Um, and so-
+## Speaker 2 | 
+Yeah. There's many different levels of membership, right?
+## Niclas NeglÃ©n | CFO, Klarna
+Correct. You've got a 4-tier product process or product set here. You know, think of it as, you know, you got your core, your plus, then you got your 2 more high-end tiers. The point here is really to allow the consumers to benefit from using our network more frequently, right? What we've seen is out of the 4.2 million users at the end of the year, we had about 3.5 million members, right? We'll continue to see how we expand that kind of offering 'cause it is an important element of the network that we're building around the card.
+## Speaker 2 | 
+For sure. Let's come back to the PSP partnerships. I know you mentioned it earlier on, but you do have a number of them that are still in flight. They're ramping. Let's focus in on which ones those are, because I think Stripe is pretty fully ramped at this point. Is that?
+## Niclas NeglÃ©n | CFO, Klarna
+Yes.
+## Speaker 2 | 
+Or...
+## Niclas NeglÃ©n | CFO, Klarna
+No, it's not.
+## Speaker 2 | 
+Okay.
+## Niclas NeglÃ©n | CFO, Klarna
+I think it's just the beginnings even of that. Maybe if I take a step back.
+## Speaker 2 | 
+Please.
+## Niclas NeglÃ©n | CFO, Klarna
+into the broader base of things, right?
+## Speaker 2 | 
+Yeah. Please.
+## Niclas NeglÃ©n | CFO, Klarna
+I think first and foremost, for people that just to kind of set the stage a little bit, one of our key strategies to becoming ubiquitous is to have the ability to have every type of product and every payment product for every type of vertical. That is important because that means that we can do these default partnerships, right, with Stripe and Worldpay and others, right? Because it means that when you come in as a merchant, you can then as standard can get, you know, the standard payment products including Klarna there, which means that we become more ubiquitous. What we've done now over the last few years is to sign up, you know, Worldpay, JP Morgan, Stripe, Nexi, and Adyen, right?
+Which constitutes around about 9 trillion worth of spending opportunity, right? We started ramping with Stripe. Obviously, you know, you start with one of their systems, and then you continuously continue to integrate with them. I think there's lots of opportunities with Stripe as well. They're the primary driver for us adding about 285,000 merchants in 2025, which was up 42% year-over-year. I think there's lots more opportunity here as we start ramping each and every one of these, right? To me, I see this as probably the most exciting element of Klarna's strategy 'cause I think it's truly a multi-year growth story here of being able to continue to compound with these great partners, right?
+I think that's how we think about it, and I think Stripe has opportunities beyond this as well.
+## Speaker 2 | 
+The others that you mentioned, those have not yet started to ramp, is that correct?
+## Niclas NeglÃ©n | CFO, Klarna
+No, they haven't. They haven't started to ramp yet. They will start ramping. I mean, Clover, et cetera, a few of these will start ramping and they will start ramping through the year.
+## Speaker 2 | 
+Okay. Got it. I guess, ex Stripe, is there anything material in the guidance this year for the others, or is it just gonna be too soon?
+## Niclas NeglÃ©n | CFO, Klarna
+We'll see how these build up too, right?
+## Speaker 2 | 
+Yeah. Right.
+## Niclas NeglÃ©n | CFO, Klarna
+As such.
+## Speaker 2 | 
+Okay. We'll continue to monitor that. Let's talk about credit. I mean, I know you mentioned high level.
+## Niclas NeglÃ©n | CFO, Klarna
+Mm.
+## Speaker 2 | 
+Consumer is still pretty healthy and resilient. Certainly the data that you guys reported in Q4 showed healthy credit trends. As you look across your major geographies, I mean, are there any signals in the data saying, "Hey, you know, maybe we need to tweak the credit box a little bit"?
+## Niclas NeglÃ©n | CFO, Klarna
+Look, we see a healthy consumer. Losses are in line with our expectations. You know, we generally, like I said earlier, short-term credit, basically 39 days average tender on $24-
+## Speaker 2 | 
+Yeah
+## Niclas NeglÃ©n | CFO, Klarna
+of that average outstanding balance. I think we will continue to work through those things, right? We're very comfortable with what we're seeing today, and we will use the processes we've had in place for many years to manage through that.
+## Speaker 2 | 
+If we look at the 2026 guidance, does that basically assume status quo, or is there some cushion in there in case loss rates creep up a bit?
+## Niclas NeglÃ©n | CFO, Klarna
+The guidance is a realistic view of what we think is where kind of things are trending.
+## Speaker 2 | 
+Okay. Just, you know, when we think about moves in interest rates, you know, how could that impact your P&L? I mean, in the U.S. until recently, everyone thought we were gonna see more rate cuts. Now it seems like at a minimum, those are kinda delayed. Just as a general statement, how should people think about impact of interest rates?
+## Niclas NeglÃ©n | CFO, Klarna
+I think a couple of points I would make. Number one is because we're spend-centric, the vast majority of our transactions are not interest-bearing, right?
+## Speaker 2 | 
+Right.
+## Niclas NeglÃ©n | CFO, Klarna
+We generate primarily merchant fees and other types of advertising fees and you know, membership fees and such, right? You know, we turn a book 10.4 times a year, so practically almost turn the whole book within one year, right, given the short tenure. Then the other thing is that you know, with our bank license, we effectively raise deposits in Europe, and those deposits are used globally to fund our business. You know, that I think is a very strong cost advantage versus a kind of pure wholesale funding model, in my opinion. Then finally, because the short-term nature of our lending, particularly with the Fair Financing interest-bearing loans we do, we have the ability to adjust price as necessary.
+## Speaker 2 | 
+Right. Yeah, no, I think definitely that you know, those deposits are a differentiator for you on the funding side. I wanted to then ask about profitability a bit. I mean, if we think about you know, adjusted operating margins or even GAAP operating profit for that matter. I mean, I know those aren't metrics that today Klarna provides formal guidance to the street on. Is that kind of on the longer term roadmap as the business matures a bit more?
+## Niclas NeglÃ©n | CFO, Klarna
+Sure.
+## Speaker 2 | 
+I mean, inherently, you're always making some trade-off decisions, right, between growth and margin. Just would love to hear how you're thinking about that, 'cause we do get asked that quite a bit.
+## Niclas NeglÃ©n | CFO, Klarna
+Sure. One of our primary targets is to get to profitability, right? There's that I think is.
+## Speaker 2 | 
+GAAP profitability?
+## Niclas NeglÃ©n | CFO, Klarna
+GAAP profitability.
+## Speaker 2 | 
+Yeah. Yeah
+## Niclas NeglÃ©n | CFO, Klarna
+Over time, right?
+## Speaker 2 | 
+No, no timeframe yet, right?
+## Niclas NeglÃ©n | CFO, Klarna
+We haven't set the timeframe yet.
+## Speaker 2 | 
+Right. Right.
+## Niclas NeglÃ©n | CFO, Klarna
+Ultimately, what we've said is long term, we're looking for transaction margin dollars around about 50%, with an adjusted operating income of roughly 25%, right? That's really driven by that compounding growth, right, in our network. You know, an operating leverage that continues to expand. I mean, the guide for 2026 calls for an operating leverage improvement of about 500 basis points, right? We'll continue to kind of drive towards profitability in that manner.
+## Speaker 2 | 
+Well, we'll look forward to watching that journey. We're out of time, unfortunately. Thank you very much, Niclas. Really appreciate all your thoughts.
+## Niclas NeglÃ©n | CFO, Klarna
+No, thank you very much for the call. Thank you.
+Data Source: Quartr Last updated: Mar 18, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

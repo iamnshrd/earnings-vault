@@ -1,0 +1,269 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference
+DATE: 2025-03-04
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+You good to go?
+## Tony Skiadas | EVP and CFO, Verizon
+Yes.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+All right. Good morning. We'll continue with the disclosure statements first. For important disclosures, please see the Morgan Stanley Research Disclosure website at morganstanley.com. If you have any questions, please reach out to your Morgan Stanley sales representative. Really excited to welcome back to the conference from Verizon Tony Skiadas, the CFO. Tony, thanks so much for being here.
+## Tony Skiadas | EVP and CFO, Verizon
+Thanks for hosting us, Ben. Great to be here.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Absolutely. And I believe you have your own safe harbor to read.
+## Tony Skiadas | EVP and CFO, Verizon
+Yes. So, I'd like to draw your attention to our safe harbor disclosures and our SEC filings that are contained on Verizon's Investor Relations website. And we may make comments that are forward-looking in nature and subject to risks and uncertainties. So with that, I think we can get going.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+All right. We're good. So, got a lot to cover and talk about sort of your guidance for the year and the broader wireless industry. Maybe just to start out, what would be, sort of the major priorities for Verizon as you look at 2025?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. So the team is at a macro level very aligned on growing wireless service revenue, Adjusted EBITDA, and free cash flow. And then we break that down for you. You heard us talk about two engines in growth between mobility and broadband. And if I start with mobility and look at the consumer business, a lot of progress has been made by Sampath and the team to continue to improve consumer volumes year-over-year. And on the business side, Kyle and the team continue to have consistent growth, and that's quarter-after-quarter of mobility growth. And then from a broadband perspective, we're very pleased with the progress we're making on broadband, and we see great momentum in both Fios and Fixed Wireless Access. We have over 12.3 million broadband subscribers in our base, so very good momentum there.
+and then when you break it down from an operational perspective, it's all about growing revenue and the constructs we have around myPlan and myHome and the value proposition we have with perks. And then from a cost perspective, continue to make the business more efficient with a number of cost transformation programs. And then on the network side, Joe and the team continue to deploy C-Band, and that's a priority for us to get to 80%-90% of planned sites on C-Band. And then we're also excited about our broadband expansion plans. We talked about that back in October in terms of going further with Fios and our plans with FWA as well. And then we have Frontier coming into the fold soon. So we're excited about those plans.
+And then from my perspective, in terms of my focus areas, number one, it continues to be supporting the leaders in the business and making sure we have strong operational performance and execution. It's so critically important in our business day in and day out. Our second priority is delivering on our financial guidance, and we're on track with our guidance and making sure that we position the company for growth opportunities ahead. The third is really generating strong cash flow and delivering on our capital allocation framework. And those capital allocation priorities remain unchanged. So we've delivered on what we said in 2024. We delivered on all our commitments, and we're positioning ourselves for good success in 2025.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+You know, last year was a, I think, stronger-than-expected year for wireless growth for Verizon and, I think, the broader industry. We were just talking with John before about, kind of the industry's ability to continue to grow lines. How do you guys think about industry growth, and what gives you confidence it can continue to grow fast enough that you can deliver on your expectations?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. We said the wireless business is both robust and resilient, and we see that once again. Wireless is very critical in people's lives. Now that everyone's reported for 2024, we saw a very healthy market. We talked about roughly 9 million postpaid net adds in the market in 2024, and that's both across consumer and business. If we look at you know the value proposition we have and looking ahead, Sampath on the earnings call talked about a market for 2025 that was roughly you know 8 million-8.5 million. Again, both consumer and business, and the vast majority of that being on the consumer side. The contribution or the vast majority of the contribution is coming from pre- to postpaid migration. We also see things like population growth. We see business line growth.
+If you think about small and medium business, we're seeing success there, and also younger demographics, and we get a lot of questions around, you know, when does this get back to, quote-unquote, "normal levels"? And what we've said is, you know, we see that happening over time, but that timing is dependent on how the prepaid to postpaid migration abates, but we do see a very, like I said, robust and resilient wireless market.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Obviously, you know, underneath all this, we have, we have the handset environment. There's been a lot of focus on the new iPhones that have come out, and the fact that we really haven't seen, you know, a cycle. What are you guys seeing in the business from an upgrade perspective? I think you guided to some growth in 2025. We've had a cheaper version of the iPhone 16 come out. So what's driving the upgrade or lack thereof behavior in the base?
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah. That's. We're coming off a couple of years now of the year-over-year declines and upgrades, and we saw a slight uptick in the fourth quarter. And the guidance we gave this year was mid-single-digit growth, year-over-year in the volume of upgrades. And, you know, as always, we might. Our planning assumption is that we might see seasonality in that. So, for example, the fourth quarter may not look like the first quarter. But underlying that, the customer behavior has not changed. Customers continue, by choice, to hang on to their phones for longer periods of time. You know, the average upgrade cycle for us is up over 40 months. It's like 42 months right now. So.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Wow.
+## Tony Skiadas | EVP and CFO, Verizon
+The phones are made better, and you know, from our standpoint, we'll continue to be disciplined in our approach to retention. You know, in terms of, you know, things like super cycles, I think we didn't see that last year. You know, should it happen, they usually come either with technology changes. If you think about 4G to 5G, that's one, or form factor changes. If that happens, you know, we've seen those before, and we're well prepared, but we're gonna be disciplined in our approach to it, but not a lot of change in the consumer behavior.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Not seeing a super cycle right now?
+## Tony Skiadas | EVP and CFO, Verizon
+No.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+No. Okay. One of the things that got a lot of attention around the Super Bowl was the direct-to-device, you know, sort of opportunity in the marketplace. What's Verizon's perspective on direct-to-device and satellite connectivity? Is itâis it a big revenue opportunity? How do you guys think about it?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. So maybe just a few points to put this in context. So our network covers more than 99% of where people work, live and play. So we start there. Others may have different coverage, profiles. And then we view satellite as complementary to our network. So think about rural areas for the less than 1% that, you know, where they work, live, and play.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+And it's complementary to the network that we have in rural areas, white spaces, etc. We have equivalent satellite solutions. When you think of the partnerships we have today, whether it's Apple and Globalstar, whether it's Skylo for Android, or whether it's with AST and the partnership we have with AST. And I think you saw last week we had a successful video call with AST. So that's promising. When you think about emergency situations, we offer emergency text for free under basic connectivity plans. And as the satellite technology evolves and we put solutions into the hands of our customers, you know, to your question, there are monetization opportunities, whether it's, you know, voice, video, data, etc. And we look forward to doing that. And look, we're happy with the partnerships we have, and we'll see how this evolves.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+So it sounds like it's maybe more incremental than, you know, transfer pricing.
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah. It'll come, it'll come over time.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah. Okay. Wireless service revenue growth. So guidance for 2%-2.8% in 2025. Can you talk a little bit about kind of the tailwinds and headwinds that sort of build to that growth rate for this year?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. You know, 2024 was a good year. We had strong wireless service revenue growth, up over 3%. And I think you heard us on the earnings call talk about the customer economics being very healthy. And absent of promo amortization, the growth rate, you know, being almost double. So you know, we gave a guide this year of 2%-2.8%. A lot of the factors are very similar to things we've talked about previously. It starts with some of the pricing changes that we made both in 2024, which carry into 2025. And then pricing changes we also made in January and February of 2025 that also bring a tailwind to service revenue. All that's over $1 billion of service revenue for 2025. So that's the first aspect. The second aspect is around volumes.
+We talked about the consumer business having improved volumes for the full year year-over-year, and then continued steady growth in our business segment. Kyle and the team, as I said, have had steady growth in volumes, you know, quarter-after-quarter, year after year. Fixed wireless access continues to grow. We have a $2 billion+ base of business, and we're very happy with the pace on Fixed Wireless Access. As we think about myPlan and connectivity and perks, we have good premium mix. I think you've heard Sampath talk about the perk portfolio and doubling the perk portfolio this year. So there's a lot of work being done there. Prepaid. Prepaid's been a headwind for the last few years. As we see an improving volume profile in prepaid, that will also contribute to service revenue growth.
+Lastly, we talked about promo amortization, and we said 2025 would be the year that permit amortization peaks.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+Then it will start to ease up at the end of 2025 and into 2026. When you put that all together, you know, we like the shape of service revenue and the work that we've done to generate sustainable revenue growth for 2025.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+So in that expectation, if I look at consensus, Tony, I think the street's got consensus postpaid phone net adds up almost 300,000 in 2025. I know you guys have guided to improvement. What are the things that Sampath and the team are doing that's working that gives you confidence you guys can improve net adds on a year-on-year basis?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. As you said, you know, we guided to improvements for the consumer business for the full year. And, you know, Sampath, you know, has made a lot of progress in the business the last couple of years. The team's been executing extremely well. If I break it down between gross adds.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+In churn, we've had good gross add momentum. We've had several quarters of gross add growth. You know, our offers are resonating in the market. You know, where we see good performances in C-Band markets. In C-Band markets, the gross add performance is even better. The performance is better. So that's great. And then we have our value proposition with myPlan. And the construct with myPlan and perks are very attractive for customers. And then, you know, Sampath also talked about churn improvements. And, you know, we did, as I mentioned in the revenue guide, we put some pricing changes in the market in January and February, and we're working our way through that. But overall, we're confident in the trajectory, the volume trajectory for the full year. So and as we think about churn and retention, you know, it's about personalization.
+If you think about my plan and the personalization, in C-Band markets, we see better churn performance, and with convergence, converged bundles, we see much lower churn performance on mobility.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+So the combination of all that, along with the strong operational execution that Sampath and the team have put into place, if you think about the market structure, the, you know, the operating model, and the, you know, the sales, performance and productivity measures that we've had, and the rigor that we put in the business, you know, we're confident in the volume trajectory for the full year. And as I've said many times, you know, volumes are important to the business. We're gonna, you know, invest where we see opportunities, but we are gonna do it within the financial parameters of the guidance that we have.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah. And obviously, you operate in a competitive environment, right? So there are things out of your control.
+## Tony Skiadas | EVP and CFO, Verizon
+Yep.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+One of the big topics, over the last couple of months has been whether the cable operators are gonna get more aggressive with their converged offers, particularly Comcast. Can you still deliver on your sort of guidance if you sort of think about what, where that might go from a competitive pressure perspective?
+## Tony Skiadas | EVP and CFO, Verizon
+What I would say is, look, we've been competing on mobility and broadband for a long, long time.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Right.
+## Tony Skiadas | EVP and CFO, Verizon
+So we know what that looks like. We know what competition looks like. We haven't seen, you know, a lot of surprises out there. But, you know, we have great offerings. We give customers great options, and we're gonna compete on the strength of our offerings and our value proposition. When you look at, you know, some of what you're describing, you know, look, we've taken share in broadband. Both Fios and FWA are growing, and it's putting pressure on cable. So if cable wants to get aggressive and if they wanna give away a free line, that's certainly their prerogative. But whether they charge for it or not, they still have to pay for, pay us, Verizon, for the free line. So, look, we're gonna compete on the strength of our offerings.
+We're very confident in the strategy, and we're also very confident in our ability to execute and our ability to compete in the marketplace, and that's what you'll see us doing.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+You were mentioning earlier that part of the strength in the industry has been prepaid to postpaid migration. But I did wanna ask you about your prepaid business. You guys grew last year, exclude SafeLink for the first time.
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Excuse me, since you bought TracFone. What are you guys doing to make that business, you know, perform better? Maybe take a little bit of a deeper dive into sort of the broader value segment at Verizon.
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. So, very pleased with the prepaid business. As I mentioned, the operational rigor that Sampath and the team put into the postpaid business, that was also applied to the prepaid business. So, again, strong operational execution. If you think about the progress we're making, you know, we, as you said, you know, positive for the full year, positive in the fourth quarter, excluding SafeLink. So we're really happy with the momentum there. Really driven by three brands. Straight Talk, our brand in Walmart, doing very well. Visible, which is our digital-only brand, also performing well. And then Total Wireless, where we continue to open up distribution points are well over 1,000 right now. All three are contributing positive volume growth for us. And as I said earlier, prepaid, and you mentioned this too, prepaid's been a drag on service revenue.
+But as the volume profile continues to improve, we expect the headwinds that we've seen in service revenue to turn to a tailwind in the back half of 2025. And I really look forward to that happening in the back half of 2025. But we're very pleased with the progress of the team.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Got it. Let's keep moving down the P&Ls. We talked about revenue growth and sort of the drivers and factors there. On the EBITDA front, so you've guided to 2%-3.5% year-on-year growth. Let me start in with consumer. What are the factors that allow you guys to sort of drive that growth? What are the things we should be thinking about as we move through the year?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. And let me start big picture. 2024, we had a good mix of volume growth and financial growth, and we grew EBITDA about $1 billion year-over-year. And a lot of that accrued to the consumer business, and we also saw margin expansion there as well. As you mentioned, our guidance for 2025 is 2%-3.5%. And that's about $1.3 billion of growth at the midpoint of the range. And it's an acceleration of the growth rate and also good operating leverage. And it starts with, as I said earlier, wireless service revenue and revenue growth. And we have strong revenue growth. And then around cost transformation, we have a lot of programs underway.
+You know, the team's done a lot of work around customer care and improving the efficiency of customer care, including using AI to serve our customers in a more efficient way. So that's, that's one aspect of it. You know, Kyle and the team have done a lot of work on the business side with managed services and transforming that work. And we signed a deal with HCL, and we expect to see benefits later this year. And then on the network side, Joe and the team continue to remove legacy elements out of the network and continue to reduce the cost of the network. And a lot of work around decommissioning, and that work is ongoing. And then lastly, we did a voluntary separation program in the latter part of 2024, and we expect to see almost a full-year benefit from that as well.
+A lot of these programs will benefit the consumer P&L. And really, the focus here is continuing to generate volumes, but do it in a very responsible way. And as I said, volumes are important, but we gotta make sure we deliver strong EBITDA growth. And the work we're doing there will give us sustained EBITDA performance, both on the top line and bottom line.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Can we see business EBITDA declines improve in 2025 relative to last year, you think?
+## Tony Skiadas | EVP and CFO, Verizon
+Look, we saw a good inflection point in the fourth quarter. For the first time in a long time, we saw business margins grow year-over-year.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+So the goal's been, obviously, for many years to reduce the drag on EBITDA from the business segment. So the fourth quarter of last year was a good, good starting point. And a lot of work's been done to improve the margin profile, by Kyle and the team. And it starts with revenue growth. And, you know, the revenue mix has shifted in our business space, and skewed more towards wireless. If you think about the growth that Kyle and the team have had both on mobility and FWA, that's been really strong growth quarter-after-quarter. So the mix has shifted to more wireless, obviously carrying higher margins. So that's one aspect of it. And then there was a lot of early wins with private network deployments, and we're seeing good growth there.
+Then in the fourth quarter earnings call, we talked about early contributions from AI Connect as well.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+So on the revenue side, you know, the mix is shifting, which is really good, and then a lot of work being done on the cost side. I mentioned the managed services work with HCL. That's one aspect of it. You know, we continue to move customers off of legacy products and solutions. That's another aspect, so a lot of work being done. And then also being disciplined on writing low-margin deals and just walking away from business that's not profitable. So we've been having a lot of discipline there and de-emphasizing those low-margin deals. And also, Kyle's business will benefit from the voluntary separation program as we'll run at lower headcount levels. So when you put that all together, we see a path to, and the goal here is to have, margin improvements in 2025 and positive improvements.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Great. Let's, let's move to free cash flow then. So you, gave us a target of $17.5 billion-$18.5 billion for 2025. We've talked about the revenue growth algorithm. We talked about some of the cost pieces. What are the things we should be thinking about around free cash flow, you know, sort of puts and takes for this year to deliver the guide?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. So we like the cash generation of the business. In 2024, we delivered strong cash flows despite, you know, eating through about $3.5 billion or $3.2 billion in cash taxes. So that was, you know, we had a good year in terms of, you know, cash generation. 2025, we gave a range of $17.5 billion-$18.5 billion for free cash flow, and that's an all-in number. We're gonna manage through that. The puts and takes are very similar to what we shared at the end of the year and what we've been sharing. And it starts with EBITDA growth, as I mentioned. You know, at the midpoint, $1.3 billion of growth at the midpoint of our EBITDA range. CapEx, we gave a range of $17.5 billion-$18.5 billion. And as always, our engineers will be very efficient in deploying capital in the network.
+It's what they do best. In terms of interest expense, you know, we've seen a lot of progress on reducing and deleveraging, so taking the debt stack down. So we'll see an improving trend on interest. And then we'll continue to, you know, strive for improvements and squeeze out what we can on working capital. And then on cash taxes, not a lot's changed. We're still operating under the current framework where bonus depreciation continues to unwind. So that's gonna put pressure on cash taxes. And then we've also said, look, we see a profile for upgrades, mid-single digits year-over-year. And we also said Frontier's not included in these numbers, and we'll come back on that as we get closer.
+But when you put that all together, the cash generation of the business is strong and gives us the flexibility to execute on all of our capital allocation priorities.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+If we get bonus depreciation, you know, reinstated or whatever the right framing language is.
+## Tony Skiadas | EVP and CFO, Verizon
+Probably.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+R&D credits, any way to help us think about the benefits to Verizon's free cash flow from that?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. It's a little bit early to say exactly what might happen. We were in this position about a year ago at this time at this conference, so I remember it well. And we've.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Different person asking the question.
+## Tony Skiadas | EVP and CFO, Verizon
+Different person asking the question, but we're in the same place, so look, we urge the administration and the Congress to make meaningful progress on tax reform and what we mean by that is restoring the 2017 Tax Cuts and Jobs Act provisions, like you said, bonus depreciation and R&D expensing back to 100%. We think it's important, given the investments we're making in critical infrastructure, to keep the U.S. competitive, and that also creates jobs and helps the economy, so we think it's extremely important that those provisions are returned. Look, if the provisions come back the way they were in 2017, it could be meaningful for us, but it's still very early days, so obviously, we're staying very close to it, but we encourage the administration to get it done.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Got it. Okay. So I'm not gonna get a number out of you, it sounds like.
+## Tony Skiadas | EVP and CFO, Verizon
+I don't have a number yet.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Okay.
+## Tony Skiadas | EVP and CFO, Verizon
+We need to see the proposed legislation first, and we can comment. And we'll update, you know, folks as we, as that comes along.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Fair enough. Fair enough. Let's, let's shift to broadband.
+## Tony Skiadas | EVP and CFO, Verizon
+Sure.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+So back at your investor event last fall, you talked about getting to over 100 million homes in the U.S. between fiber and fixed wireless. Why don't we start with fiber? So it's kinda hard to believe Fios is 20 years old.
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+plus.
+## Tony Skiadas | EVP and CFO, Verizon
+Still growing, by the way.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah. Still growing. So what do you see? I mean, you're still building. I mean, you're doing, you know.
+## Tony Skiadas | EVP and CFO, Verizon
+We're still building. We set up to 650,000 new OFS.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+So we're expanding the pace of our Fios build. Fios has been very successful. The reliability of the product still stands true. It's the gold standard. We're very happy with the progress. We increased the pace this year. Look, we have Frontier coming in as well. In the not-too-distant future, that'll also increase the addressable market for fiber and broadband. We're very excited about it.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+I guess I was wondering, Tony, what, when you think about, I'm sure Fios today, what they're building is not what they built 20 years ago. But what are you seeing from a, you know, penetration curve and returns perspective to your Fios expansion now versus, you know, the past?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. Look, Fios has great penetration rates, well over 40%. And, you know, what we see every year is, you know, this year's cohorts have better penetration rates than last year's cohorts. And it's because we get better. We get better at building. We get better at installing. We get better in the sales process. So the penetration is better. And, of course, the reliability is fantastic. So you couple that, those two things together, and, we see a great opportunity for us. And then, as I said, you know, Frontier comes into the fold, and we think we have further opportunity there as well.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+How do you think about going beyond the 30 million fiber locations target in 2028, which obviously includes Frontier? You know, what, what are the sort of analyses you guys do to size that?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. So, look, we're bringing Frontier into the fold, and we're in the process right now, the regulatory process. So, we'll get into that. But, you know, when the deal closes, we hope to have somewhere 27-28 million homes passed. And, you know, their pace is roughly 1.3 million. They're pacing to what they said, and our pace is about 650. So, you know, we'll see, you know, what we said is, going forward. Once we close the deal and we look at the combined footprint, we'll look at where the best returns are. We'll build where we see the best returns in the combined footprint. We said, you know, 1 million+ , you know, post-deal closing. We'll come back on exactly what that looks like. But we're gonna, you know, build where we see the best returns.
+And that's, that's the way we look at it. But we're gonna look at it as a combined footprint when we do that.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Any concerns about fiber overbuilding in this country and the markets you guys are in? 'Cause we got, we've seen some data suggesting maybe, I don't know, 10% of the U.S. now has maybe two fiber players plus a cable, which seems like a recipe for nobody to do, you know, make a good return.
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah. Look, in our Fios footprint, we don't see a lot of overbuilding. The product is fantastic, and the penetration rates.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Here's a cool way.
+## Tony Skiadas | EVP and CFO, Verizon
+Are really good. And look, we're very proud of what we've built. We've had 20 years of history with Fios, as you mentioned. And we're very proud of our Fios product and the reliability that it has for our customers day in and day out.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Any update on the regulatory process for Frontier?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. We're on track. That's the first thing I'll say. We're in the process. We've gotten. We have to get approvals from 13 states, the DOJ, the FCC. We've gotten approval from the DOJ. We've gotten approval from three states. So we're working through the process, and it's a process. But we look forward to getting through the process with the states and look forward to closing the deal. So we'll continue to provide updates as we move along. But we're confident we can get it done.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Got it. Let's talk fixed wireless.
+## Tony Skiadas | EVP and CFO, Verizon
+Sure.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+So you guys, again, back in, I think it was October, laid out a plan to, essentially double the subscriber base to 8 million-9 million subscribers, get to 90 million locations, you know, sort of homes open for sale, so to speak, compared to 60 today. How do you guys scale up the fixed wireless footprint in terms of where you're selling the product?
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah. Look, our view is that fixed wireless is here to stay. We're building a long-term sustainable business. You know, we have 4.5 million subs in the base. And you know, we gave a target of 8 million-9 million. And we're on track, and we're off to a good start. So I'll start there. In terms of expanding the footprint, look at it three ways. First, in terms of C-Band deployment right now, you know, at the end of 2024, we were about 70% covered with C-Band. And we said in 2025, we would go to 80%-90%. And our view of the build is mobility first and optionality for Fixed Wireless Access. So as we continue to deploy C-Band, that opens up more opportunity for Fixed Wireless Access.
+We still have a couple of years to go with C-Band. That continues to open up the aperture for FWA. The second area is around our broadband MDU solution. That's a solution that we can deliver over millimeter wave and in a very efficient way to millions of units. Again, opening up a different avenue to deploy broadband in a very efficient way. The third way is around our network engineering. You know, our network engineers are the best in the business, and they know how to engineer networks. They're way out in front of the demand for Fixed Wireless Access. You can assume that they're engineering the network well beyond the 8 million-9 million subscriber target that we have out there.
+And as we do that, that'll continue to open up opportunity as well for us to sell Fixed Wireless Access. So, look, we're very pleased with the momentum we have in FWA. And as I said, we're building a long-term sustainable business with a lot of runway for growth. And we're very excited about it.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+You know, I live in New York City, and you guys cover a lot of urban areas.
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+So this MDU thing is interesting.
+## Tony Skiadas | EVP and CFO, Verizon
+Yes.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+How do you guys think about, you know, wiring a building with Fios versus this new FWA product that you're bringing to market?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. I think the first thing I would say is we're an AND company. We can do both, so we can deploy fiber, and we can deploy FWA, and we do it, you know, based on where we see the best returns, so if we think about the MDU solution, it's a way to deploy millimeter wave spectrum, and it's in a very efficient way to deploy and a good use case for millimeter wave, so I'd start there, and you beam it to the building. You have an antenna on the building, and then you use the in-building infrastructure to deliver broadband and high-quality broadband, and you know, we're in customer trials right now. We see good throughput, you know, downlinks of one gig, so it's very high-quality broadband, and we can deliver that in a very efficient way.
+It's not like Fios where you have to open up walls and things. So this is a lot different. And we feel that's a good use case for millimeter wave. And also, we'll free up spectrum on C-Band as well. And we can do more with that.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Okay.
+## Tony Skiadas | EVP and CFO, Verizon
+So we're very excited about it. And it's, you know, we're looking forward to launching it really, really soon.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+You guys made a little bit of news last week with a new converged offer, which got some attention in the market. I'm just curious if you could talk a little bit about your convergence strategy and sort of what we should take in terms of whether you're getting more, less, or no change to your.
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Promotional posture with those, with the new plans you laid out.
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. Look, our view of convergence, and we've been pretty clear about this, is that demand-led, and it's an opportunity for us. I mean, we give customers a lot of options. When you think about the constructs we have between mobility and broadband, and no one gives better options than we do to our customers. You know, we have owner's economics, you know, both on wireless and broadband at scale. So we can serve across the portfolio, and look, we'll be ready when convergence comes. But only 16% of our mobility base has the converged bundle right now, so it hasn't moved that much in the last year. So that gives you the impetus that it's, you know, it's very much customer-led. So we'll see where it goes, but we're well prepared when it does happen.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Any sort of color you'd wanna share on the new offer from Friday or?
+## Tony Skiadas | EVP and CFO, Verizon
+Look, the new offer is just a lot simpler.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+It's a lot simpler for customers. I think we were, you know, it was a little bit confusing for customers. So that's the first thing, and the second thing is a lot easier to sell too.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Tony Skiadas | EVP and CFO, Verizon
+For our team. We're trying to simplify the offering. But as I said, you know, this is around the value proposition and, you know, being able to deliver both mobility and broadband in a very high-quality way.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Okay. You know, you mentioned earlier some of the stuff that Kyle talked about on the earnings call with AI. I've certainly got some questions since the earnings about AI Connect and the opportunity you guys see. Can you just, you know, share with us how you guys are leveraging AI at Verizon in general and, you know, what the revenue opportunity is with customers?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. We see AI from three dimensions. First, from you know, operational efficiency perspective, if you think about customer care and the work we're doing with AI to serve our customers in a more efficient and effective way. Also, you know, how we optimize the network. So that's one end of it. The other end of it is second end of it is really product enhancement. If you think about the personalization with my plan, that's another aspect of AI. And the third is around revenue generation. And the AI Connect that we talked about on the earnings call falls in the third bucket in terms of revenue generation. And a really great opportunity for us.
+You heard Kyle talk about reimagining the assets that we have, you know, the wireline COs that we have and the network assets that we have, along with the fiber that we have to deliver AI at the edge of the network. We look at it as a great opportunity. You know, we have a lot of assets, and even more so when Frontier comes in as well.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Tony Skiadas | EVP and CFO, Verizon
+We'll continue to have a larger portfolio to serve our customers. So, you know, we talked about an opportunity of, you know, a $1 billion funnel, you know, plus. And Kyle's working that. And obviously, we have work to do. But the revenue can come in three ways. It can come, you know, from fiber, whether that's dark fiber or lit fiber. That's one way. And it also can come from power space and cooling. We have a lot of that as well if you think about all the COs that we have. Or it can come from what we call programmable networks. And that's being able to move workloads. You know, hyperscalers can move workloads around the footprint. So, you know, there's a lot of aspects to this. And, you know, we're seeing a lot of interest right now. It's still developing.
+We had some early wins in the fourth quarter, which obviously helped Kyle's margins. That was very good to see. You know, a lot of, a lot of work to do. We're very excited about the opportunity. If, you know, if we continue to see demand for AI, that's good for Verizon. We have the assets and the networks that can deliver, you know, AI at scale, you know, when it comes.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+That's helpful. So with all of that, Tony, how would you help us think about your capital allocation priorities, particularly within the context of your kind of leverage framework?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. So we have four capital allocation priorities, and they haven't changed. The first one is to invest in the business. And you see us doing that with our C-Band deployments. You've seen us acquire spectrum over the years. So, you know, that's the first priority. And we're gonna continue to do that. We gave capital guidance for this year. And the team's executing against that. Our second priority is our commitment to the dividend. And the dividend's important to us. It's important to our shareholders. And we have a long track record of increasing the dividend 18 straight years. And it's a record we're very proud of. And our goal is to put the board in a position to continue to increase the dividend. And then our third capital allocation priority is to delever the balance sheet.
+We said down to leverage target of 2x-2.25x on the unsecured debt metric. We've made a lot of progress in reducing the unsecured debt. We're down to 2.3x . So we're making good progress there. And then our fourth capital allocation priority is around share buybacks. And we said we would consider share buybacks when the leverage metric reaches 2 and a quarter times. So a lot of work's been done. My focus is really to generate strong cash flow. And as we said on the earnings call, to pay down debt between now and the closing of the Frontier deal. And that's what we'll do.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+When you look at including the Frontier acquisition, is there a way to help us think about either the timing or the sizing of buybacks as we look out over the next couple of years?
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah. Look, we're at 2.3x right now on the unsecured metric. So we're not there yet. So we still have some work to do. And as you mentioned, Frontier adds, when it comes in, it'll add 0.25x- 0.3x on the unsecured metric. So we obviously have to work our way through that. And what we said is, you know, once we get to 2.25x, Hans and I said we'll consider it. And that's what we'll do. But we still have a bit of work to do this year.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Okay. Fair enough. Fair enough. How would you think about, or how would you tell us to think about kind of other inorganic opportunities, joint ventures, particularly as you grow your fiber footprint?
+## Tony Skiadas | EVP and CFO, Verizon
+Sure. Look, we like the assets we have. We have the assets we need to execute on our strategy. You know, with fiber, I know we've looked at it from, you know, at least our history has been owner's economics with fiber.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Tony Skiadas | EVP and CFO, Verizon
+That doesn't mean we won't look at other structures. But those other structures have to make sense from a return profile and what they provide and the flexibility to provide us. So we're always open to other structures. But, you know, we like the assets we have right now.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Got it. Anything you'd wanna say on BEAD? This is another one of those frequent topics from investors.
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah. Look, BEAD is fine. I mean, it continues to move along. We continue to see some wins. And we said we would bid where it makes sense inside the footprint. So we're seeing some wins there. But, you know, as we deploy broadband, this is not a big part of our overall broadband strategy, but the process is moving slow. But, you know, we're happy with what we're seeing thus far in terms of the bidding and the areas that we've won.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+That's great. Well, Tony, any final comments as we wrap up and you wanna summarize everything for the audience?
+## Tony Skiadas | EVP and CFO, Verizon
+Yeah. Sure. Thank you. And thank you for hosting us again. And, you know, look, we've made a lot of progress in the business. You know, we'll continue to focus on service revenue, EBITDA, free cash flow, and making sure we deliver growth in both mobility and broadband, and execute in a strong way. And, you know, we're very optimistic about the future. So thank you very much for hosting us today.
+## Ben Swinburne | Head of U.S. Media Research, Morgan Stanley
+Thank you very much. Thanks, everybody.
+## Tony Skiadas | EVP and CFO, Verizon
+Thank you.
+Data Source: Quartr Last updated: Mar 4, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

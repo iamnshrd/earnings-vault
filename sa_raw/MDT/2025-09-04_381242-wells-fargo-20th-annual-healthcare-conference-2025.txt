@@ -1,0 +1,334 @@
+TITLE: Wells Fargo 20th Annual Healthcare Conference 2025
+DATE: 2025-09-04
+## Operator | 
+Okay, good morning. Welcome to day two of the Wells Fargo 2025 Healthcare Conference. I'm Larry Biegelsen, the medical device analyst, and I am thrilled to host this fireside chat with the management team from Medtronic. With us, we have Geoff Martha, Chairman and CEO, Thierry PiÃ©ton, the Executive Vice President and CFO, Laura Mauri, Senior Vice President and Chief Scientific and Medical Officer, and Ryan Weispfenning, Vice President and Head of Investor Relations. The format is fireside chat. If anyone has a question, raise your hand. We'll call on you. So before we jump in, Geoff and Thierry, I just want to say thank you. You've been big supporters of our conference for many years, and I really appreciate it. So thank you again for being here.
+## Geoff Martha | Chairman and CEO, Medtronic
+Thanks for having us.
+## Operator | 
+Yeah, so looking forward to the discussion. Obviously, a lot, lot to talk about. So, Geoff, you know, before we jump into the business, I'm gonna start with a couple high-level questions, starting with the Elliott announcement.
+## Geoff Martha | Chairman and CEO, Medtronic
+Uh-huh.
+## Operator | 
+You know, on the one hand, you know, Elliott believes your growth is inflecting, and there's an opportunity to create shareholder value, but on the other hand, they're activists, and they believe there are things that you could be doing better, so my question is, you know, where do they wanna see improvement, and are you aligned?
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm. Yeah, there's... Well, first of all, they came. They've got a real strong reputation for creating shareholder value, and they came well-researched on med tech and on Medtronic. It was a research that went back a long time. And you know, it was pretty quick in our discussions that there is a lot of alignment. And I asked them, like, why now? And like I said, on the earnings call, they said, "Look, you guys are, you know, the best spot we've seen in twenty years with transformational innovation." And so the focus then... "And we think, you know, you're gonna inflect." And the focus was on, I think, two words.
+This is their words, not mine, "Capitalize and accelerate." So capitalize on the moment that you're in, so execute on the growth drivers, which I'm sure we'll get into today, you know, CAS, Ardian, Hugo, et cetera, you know, along with the margin improvement work that we're, that I'm sure, you know, Thierry is spearheading. Capitalize on that moment, and then accelerate the WAMGR improvement with the portfolio. And whether it be more tuck-in M&A or continuing to look at the portfolio. And, you know, diabetes is, you know, the moves we made before diabetes, getting out of vents, dialysis, LVADs, these things weren't big from outside, but from inside, with the exception of vents, they did take up a lot of investment. And then diabetes and, you know, keep looking at that portfolio aggressively.
+And so there's a lot of alignment. Step up the pace on the portfolio, including M&A, was the, I think, the area for improvement. And we'll get into... We can get into that, like, but why we haven't done as much and why we think we could do more going forward, M&A.
+## Operator | 
+I definitely want it. Can you guys hear me okay?
+## Geoff Martha | Chairman and CEO, Medtronic
+Is my mic working?
+## Operator | 
+Yep.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yep.
+## Operator | 
+Okay. So I definitely want to ask about that, but first, I wanted to ask about kind of the breadth of the portfolio. You and I have discussed that, you know, many times in the past. Historically, we haven't seen the breadth of the portfolio translated to above-average growth.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+And people have speculated there could be a couple of reasons for that. One is it's just, you know, the breadth is just too, it's just too broad a portfolio. It's difficult to manage, but your, your, you know, management, you know, probably could be spread thin, that kind of thing. The other is that the R&D investments-
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm
+## Operator | 
+... are just not comparable to your pure-play competitors, like the Dexcoms of the world, the CGM, for example. What's your view on this, and is there any consideration of going further than the diabetes spin?
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, you said you mentioned a couple of things. First, on R&D, agree, we've been trying to get that R&D as a percentage of sales up. Last quarter, we grew it, you know, 8%, and, you know, I think, you know, we want to get that number up to 9%-10%, and not, you know, at the expense of EPS, because we... I'm sure we'll get into it. Between our increment, our, you know, new growth, accelerating growth and margin expansion, we have room to invest more in R&D and still hit the EPS numbers that we've signaled in the past. So that's one. We agree there and do more tuck-in M&A, which is basically another form of R&D. So we agree on that one.
+In terms of the rest of the portfolio, I think the other thing is on growth, right? You're saying that the breadth translated of growth. We also need the innovation, and so we have a bunch of innovation coming, so I think that's gonna help the growth a lot and make it durable. In terms of the portfolio, you know, we do need to show more on how the portfolio, you know, the breadth of the company, the scale of the company is driving a differentiated top line and bottom line, the areas we've talked about is technology platforms, go-to-market, so our distribution and our global operations and supply chain. Some help the top line, some help the bottom line, and so we've got to demonstrate that more.
+But we believe, we believe that they do drive differential, you know, top line and bottom line, but they need to be paired with the growth drivers.
+## Operator | 
+Okay, so I'm hearing near term that, you know, breaking up, a wholesale breakup of the company is not, like, something being considered, that you're right now-
+## Geoff Martha | Chairman and CEO, Medtronic
+I didn't say that. What I... You know, I said, we believe we can manage this portfolio and get the growth.
+## Operator | 
+Okay.
+## Geoff Martha | Chairman and CEO, Medtronic
+So that's gonna happen, right? In parallel, we're looking at the portfolio in total, and so I'm not taking anything off the table.
+## Operator | 
+Okay, that's helpful. Sorry, I didn't mean to put words in your mouth.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Operator | 
+Thank you for clarifying that. So, one other follow-up on kind of the portfolio. Yeah, you know, we've heard this argument that it would be difficult to split some of the businesses outside of diabetes because they're so well integrated. Certain, you know, the battery technology-
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+is used in the cardio group, and it's also used in the neuroscience group. Is that a reason why it would be difficult to split other businesses?
+## Geoff Martha | Chairman and CEO, Medtronic
+I'd say no. You know, it does create an additional hurdle, but, you know, because we said diabetes is easier. The diabetes spin, there's a number of reasons for it. Like I said before, we think we'll grow faster without it than with it. We can focus more. It's a different business. It's consumer. It had less synergy. So it definitely. There's less barriers like that in executing the diabetes spin. But we've got a, you know, we've developed a good muscle over the last couple of years on a standing divestiture team operationally, on how to do that. And, you know, if we believe there's more shareholder value on trimming down the portfolio and more focus, et cetera, we won't let those things get in the way that you mentioned.
+Yeah, you know, the synergies that are there, right? So, it is an additional challenge in if we were to carve off those businesses. How do you not have negative shareholder value?
+## Operator | 
+Right.
+## Geoff Martha | Chairman and CEO, Medtronic
+'Cause there are real synergies there. You listed some, but there's more. But we won't let that get in the way.
+## Operator | 
+That's helpful. So, Geoff, you obviously mentioned tuck-in M&A a couple times already. Why haven't we seen you-- The impression is you've done less-
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+than your peers, certainly than Boston Scientific.
+## Geoff Martha | Chairman and CEO, Medtronic
+For sure than Boston, yeah.
+## Operator | 
+Why have you done less? And you, it sounds like you expect to do more going forward. So remind us just, you know, size, area of interest.
+## Geoff Martha | Chairman and CEO, Medtronic
+I'd say why we've done less is, starting in the middle of COVID and, on the tail end of COVID there, between the supply chain issues that we had to deal with, some product quality issues, we really wanted to get the and then the operational foundation of the company strong. And we had in the past, we've had IT things. We've had this host of what I'd call operational issues that we don't like, shareholders like. We wanted to get that nailed down and fixed. We still did deals like Affera, and we did Intersect.
+Deals like that we felt were really strategic, we didn't want to pass on, but we did raise the bar 'cause we wanted to focus on getting this operational foundation right, which I think we've those issues are behind us, and we're moving forward, and so now we think we're in a better position to do more M&A, and the areas that we're focused on are the high-growth areas, right? The high-growth areas where we believe we have a right to win, you know, so you know, areas like in cardiac, like in AFib, right? We did the Affera deal. We did a needle crossing deal. There's more you could do there surrounding that procedure and that ecosystem. We believe we have a technical lead and a clinical lead in ablation right now.
+I'm pretty sure you're gonna ask me about that. We wanna keep that. Some of that will be backed by organic investment, maybe some more inorganic investment there. Structural Heart, all the different segments there. There's opportunities, you know, even though it's new, but we're thinking not just short term, but medium term and long term on hypertension. So, those type of areas are where we're focused. Not exclusively, but that's where we're really prioritizing. Doesn't mean we wouldn't do a deal that can help one of our other businesses that aren't in those high-growth areas, but that's where the focus is.
+## Operator | 
+Geoff, two potential reasons we hear about, you know, you guys doing less M&A. One is the dividend payout ratio is about 50%.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+that you don't, you know
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Operator | 
+You don't have the free cash flow. And then second, the dilution, because obviously the earnings growth has been hard to come by in recent years.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm. Yeah, yeah, yep.
+## Operator | 
+And so, you know, a lot of these deals, Affera was... Look, it's gonna turn out to be a good deal for you, but it was-
+## Geoff Martha | Chairman and CEO, Medtronic
+It is, it has turned out.
+## Operator | 
+But it was a little bit dilutive at first.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yep, yep. It's the dividend isn't the issue, right? And I'll let Thierry answer this one. The dividend isn't the issue. It was more the focus like I just walked you through. The other thing is, you mentioned the... And I'll let Thierry walk through that, but you know, the dilution and things like that, with our-- We're in a better position to take on those things. But I don't know, Thierry, if you want to answer it.
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+No, I think you said it, Geoff. I think, I'm not sure if the mic is working, but-
+## Operator | 
+Yeah, we can hear you.
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+I think the dividend is not getting in the way of anything at this stage. We've got significant firepower to do a second M&A of material size. So that's not getting in the way. In addition to that, I'm sure we'll talk about it, but margin is going to improve, which will help with cash generation. We're coming out of a phase where we still had some old items relative to Covidien acquisition, costing some cash on the tax line, which is now behind us, so we're gonna see the cash conversion improve starting in 2027. With all of that, we've got significant firepower to do the M&A without having to reconsider the dividend policy.
+## Operator | 
+How about dilution? You know, you want to grow earnings.
+## Geoff Martha | Chairman and CEO, Medtronic
+Right.
+## Operator | 
+I think you said high single digits in 2027. How do you think about dilution?
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+Well, look, I mean, I think there's got to be a clear picture for the deal to be accretive, right? So sometimes you have to accept the short-term dilution. But we've got significant opportunity to continue to drive margin improvement. So look, we'll look at the opportunities, and if we get comfortable that we've got a right to win, that it fits, then we're gonna generate synergies. I think in some cases, short-term dilution might be acceptable if it's gonna be a significant impact to our growth drive.
+## Operator | 
+Thierry, you've talked about margin expansion a couple of times.
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+Mm-hmm.
+## Operator | 
+I think there's a new board committee looking at, you know, there's two, one on growth, one on operations. Anybody could look at a Medtronic P&L and see the issue has been the gross margin compression.
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+Mm-hmm.
+## Operator | 
+And so my question is really how and you know, I know Medtronic has tried to address this. Geoff, you've talked a lot about this. What can you do differently, new, especially in light of the fact one of your major new products, Hugo, is coming, and I don't think that's going to be gross margin accretive initially. So what can you do differently to improve the gross margin?
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+First, to address some of the headwinds that you mentioned. Short term, we have tariffs, and that's going to stabilize.
+## Operator | 
+Short term, we have-
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+We have the impact of the tariffs, right?
+## Operator | 
+Right.
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+And so that's going to stabilize, hopefully. No one knows what's really going to happen, but hopefully, after 2027, that becomes a normalized situation. And then we've got some mixed pressure coming from the growth of cardiac ablation and diabetes in particular, that are putting some pressure on the margin rate. Diabetes is going to take care of itself. I should say, based on the transaction that we're going to do there. So hopefully, second half of next year, the dilution that comes from diabetes will be behind us. Cath is a great business from a profitability perspective, but it does put some pressure on the GM rate.
+Some of it is due to mix between the CapEx sales early on in the deployment of the product versus the catheters, so that's going to turn around and get better. You're right, Hugo is going to be a bit below our average, but Ardian, on the other hand, is going to come with very healthy margins. So we see that mix pressure getting better over time. So we still have a handful of quarters in front of us where that's going to be an offset to a lot of the margin improvements, but over time, this is going to get better. If you put those things aside, the underlying operational margin improvement is there. So we've made durable changes and improvements in pricing. We're now getting positive pricing in a consistent fashion. You saw it in the first quarter results.
+You saw it in last year's results as well. And that's been a factor of three things, really. Better management of foreign exchange. So in countries where we have foreign exchange pressure, we know how to price it better now. The second one has been better controls about discounting and contractualization. And the third one has been innovation, right? So when we deploy products like, you know, Affera, we get significantly better pricing. We've had that in neuromodulation as well. And if you look forward, what we call our Vitality Index, which is the proportion of our sales that consists in products that we've launched in the last two years, that proportion is going up. We used to be in the teens, five, six years ago.
+We're kind of in the low to mid-twenties now, and that's going to continue to grow with some of the growth drivers that that Geoff mentioned. So that's an opportunity for further pricing. So pricing is going to be a consistent positive. And then on the cost out side, with the rigor that has been put in place by Greg Smith and the team, we now have consistent performance from the plants, from purchasing. So the net cost out after inflation is now a positive driver as well. And if. Again, if you take the example of the first quarter, that was 30-40 basis points consistent, right? So look, we're today on a sort of a run rate between pricing and cost out to do 70-80 basis points of margin improvement.
+So as some of the headwinds, you know, go away, we should be able to deliver consistent gross margin improvement, and then look below gross margin, you know, as Geoff said, we'll reinvest a portion of that improvement in R&D, so you know, you saw us do that in the first quarter, and we'll keep doing it until we get closer to 10% of revenue, but we still have significant opportunity to drive leverage at SG&A level, and it's mostly G&A, so we protect the selling side to be able to capitalize on the innovation, but look, at first quarter, we had a hundred and seventy basis points of leverage between top line and SG&A, and we'll keep doing that.
+So, combination of this GM improvement and driving more leverage with the growth at Accelerate should put us in a position to deliver, you know, high single-digit EPS improvement starting in 2027.
+## Operator | 
+That's helpful. So Geoff, one more big-picture question before we transition to the business, and that's- I wanted to ask about Hugo specifically, because high profile, pipeline product, the impression is it's an expensive, you know, investment, and it's obviously super competitive.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+So, you know, I guess the question is: How are you thinking about, you know, the return from Hugo? And basically, you know, you talked about the margins, but just the commitment to Hugo and how you manage that balance between the expense, the cost of investment.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, look, the Hugo is a big investment. Like you said, all the things are hypercompetitive. We believe in the system. We believe in the future of it, and we believe in the impact on the surgery business. And you mentioned robots are lower margin, but maybe we have an example, a comparator in our spine business, right? Our robot there was a lower margin, but we've surrounded that robot also with other enabling technologies, imaging, navigation, surgical planning, digital, and it's helped us pull through more profitable implants. And despite the quote, unquote, "dilution" from the robot in spine, the growth of the business has gone up materially, the market share has gone up, and the profitability has gone up materially in that business, from that business model.
+So it's very strong profit and cash flow. We believe the same will happen in our surgical business. It's a $6 billion business. Yes, the robot itself, when you look at it bare naked, it is a lower margin product, but it will be surrounded by a digital platform, other enabling technologies, visualization, et cetera, and the overall business model will help the profitability of that business, inclusive of the robot. So that is the model. We have confidence in that. We have confidence in the system, you know, but to your point, it is highly competitive. We don't have our head in the sand. We're not dogmatic. We're looking at this thing every quarter, making sure that we're hitting the milestones 'cause it's taken longer than we thought.
+I don't think we're alone on that, but we feel good where we are and what we have, but we look at it every quarter. Are we hitting the milestones? Is this still the right strategy for Medtronic, and you know, we look at it as a management team, and we talk about it with the board every quarter as well.
+## Operator | 
+That's helpful. So, Geoff, let's transition to the business. Your Q1 results came in line with your guidance on the top line, despite you know, four areas that came in below at least you know, street expectations: U.S. Diabetes, U.S. TAVR, Pelvic Health, and Neurovascular. If those all improve going forward, I think your organic growth was 4.8%.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+If those all improve going forward, and CAS, which was strong, almost 50%, continues to accelerate, which is what you've guided to, it looks like you're gonna exceed your 5% guidance for the year, so what's wrong with that line of thinking?
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, I mean, and I mean, nothing's wrong with that, that line of thinking. We do see a back half... And we constructed the plan. The first half of the year, there are some puts and takes, and then you have a back-half ramp, and we don't intend to look back after that, right? There's the growth drivers that everyone's talking about in the big areas, but also some of our slower-growing businesses over the last year, couple quarters, all have growth drivers themselves, not to the extent of Affera or Ardian. But, you know, our pelvic, our peripheral vascular business has a thrombectomy device coming, [uncertain]. It also has carotid stenting coming. Neurovascular has also carotid stenting and some hemorrhagic products coming.
+And then Pelvic Health has a pretty big product coming, that we expect approval on here soon with its tibial stimulator, which we think is a big deal. So you think about the head of the business and the tail, like the slower growth businesses coming up, not you know, not double digits, but maybe Pelvic Health, but the others incrementally up, and then you get the big growth drivers, and the back half of the year could be pretty exciting. Now, we gave you the guidance in Q4. After Q1, I'd say we have more confidence in that guidance, but it's still early in the year, so we're not you know, we hadn't changed our guidance. So we wanna make sure we're set up for success and...
+But the back half of the year could very well be pretty exciting.
+## Operator | 
+U.S., and diabetes also should improve.
+## Geoff Martha | Chairman and CEO, Medtronic
+Oh, diabetes. I mean, diabetes is a yes, because we have not one but two sensors coming, right? And recently we just got the Abbott sensor approved, and we call that Instinct. Remember, we're not just. It's fully integrated into our system, branded Medtronic, but you know, everyone knows it's the Abbott sensor, and then we have Simplera, our own sensor. So that in the US, in particular, patients are waiting for those, you know, those two sensors, and they're both approved. And as you know, on diabetes, there's a little bit of a gap between approval and launch, but you know, a couple of weeks. But those will launch, and we're excited about it.
+## Operator | 
+Type 2.
+## Geoff Martha | Chairman and CEO, Medtronic
+Type 2 indication. Thank you for reminding me. The diabetes business has the best. You got the Type 2. You got the two sensors. You've got, now we take those two sensors and pair it with our pen. Our pen, we've been waiting. We didn't want to launch it aggressively without a more competitive sensor. We'll be submitting our new durable pump pretty soon. That's de-risked and ready to go. And then we have the patch a little bit further out, and all this will be laid out as we start to market the IPO in more detail. Diabetes business is exciting.
+## Operator | 
+Good. Good. You can hear me okay? I don't know. For some reason, it feels like the mic's not working, but okay.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Operator | 
+Okay. So, one on fiscal twenty-seven before we turn to CAS. So for Thierry, I think. The recent earnings slides talk about accelerating revenue growth and high single-digit EPS growth in fiscal twenty-seven. Starting with organic growth, could we see 6% plus in fiscal twenty-seven? And second, what are the drivers of the high single-digit EPS growth, and how much of a tailwind is FX as of today? Because it does talk about FX as a component of that.
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+Yeah. So it's a little early to give guidance for 2027, so I won't confirm any numbers on the growth rate yet. But it's clear that a lot of the growth drivers that Geoff mentioned will have the full year effect in 2027, right? So we'll continue to have the growth in PSA. It'll be the first year for Ardian. We will have some of the growth drivers in the specialty therapy businesses that Geoff mentioned. We'll have tibial and Pelvic Health, for example. So clearly, you know, we should see a step-up in the growth rate in 2027.
+I mentioned the growth margin, so I think the picture there will be similar to what we have in 2026. So still pressure coming from mix, but continued operational improvement offsetting some of that pressure. And look, we'll keep driving the leverage on the overhead, and so we should see a drop-down at the operating margin level that would be, that will be much better in 2027. This year, we have some headwinds below the line, right, that we had announced in Q4. And they're really two things this year. One is the tax line, which is driven mostly by sort of the Pillar 2 elements, and that kind of gets to a stabilization in 2027.
+So we'll see a little bit of headwinds, but not to the same magnitude as what we saw this year, and we'll see a little bit of pressure coming from interest, but much, but significantly smaller. So the combination of the growth and leverage at the overhead level and less pressure coming from below the line is what is really going to drive it.
+## Operator | 
+Any way to quantify FX as of now?
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+I think if everything stays the way it is, it will be a small tailwind going into next year. We have a bit of a tailwind this year, which is one of the elements that we incorporated in the revised guidance in Q1, and through our hedging program, we'll see some of that benefit continue in 2027. So it'll continue to be a small tailwind.
+## Operator | 
+Okay, great. So Geoff, CAS. Growth accelerated from about 30% to almost 50% from Q4 to Q1.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+You expect to add an incremental $1 billion in revenue-
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm
+## Operator | 
+by early 2027.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+I think fiscal 2027 was your comments on the call.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yep.
+## Operator | 
+How are you thinking about the ramp from here, and what's driving the acceleration?
+## Geoff Martha | Chairman and CEO, Medtronic
+I feel good about the ramp. Everything feel my confidence in. And, what's driving the acceleration is, one, the underlying all this year, PulseSelect, our organic. And that's- that had grown pretty well, but it was completely masked by the cryo going down. And just as the cryo kind of started to get pretty low and stabilized, then you have Affera on top of it. What's really driving that growth right now is, one, cryo becoming a smaller part of the business, more stabilized. But by far, the biggest driver, orders of magnitude bigger, is Affera and getting those capital systems out there. You know, they're now pumping out those systems, getting out there, and they're overutilized. I mean, they're utilized to their fullest extent with catheters, with the Sphere-9 catheter, and that is what's driving the growth.
+We have a nice pipeline coming with Affera as well, Sphere-9, and we got more after that. We have a nice... On the mapping side of Affera, as you know, it's a closed system mapping. We've got a number of software upgrades to improve the mapping, but the first-gen mappings, Affera is already getting, you know, very good reviews and see the pathway forward.
+## Operator | 
+Geoff, are you sure that by the way, the mics are all working, Mike?
+## Geoff Martha | Chairman and CEO, Medtronic
+All right.
+## Operator | 
+All right. For those on the webcast, we're going to have a microphone change here for Geoff.
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+Okay. Geoff, do you want to just test that one?
+## Geoff Martha | Chairman and CEO, Medtronic
+How's that? Is that better?
+## Operator | 
+Testing. Testing.
+## Geoff Martha | Chairman and CEO, Medtronic
+Is that better? Can you hear me?
+## Operator | 
+Yes.
+## Geoff Martha | Chairman and CEO, Medtronic
+Okay.
+## Operator | 
+Good. Geoff, sorry about that on the webcast. So where are you on the supply of both the Affera system, the mapping system, and catheters, and when do you expect to be able to meet demand?
+## Geoff Martha | Chairman and CEO, Medtronic
+So on the catheters, there's no supply constraints there. And on the Affera capital systems, you know, look, the demand is really high. We don't have a problem manufacturing them. We're continuing to add lines. We have factories all over the world here, and a stable supply base there. So we continue to, you know, add capacity, and it's... If we had more systems last quarter, we could have sold more. Demand is that high, but it's not a problem.
+## Operator | 
+That's helpful. And you talked about Affera catapulting you to category leadership on the Q1 call, I believe.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yep.
+## Operator | 
+Your share today is ballpark 10%. You know, we've heard, you know, great things about Affera. You know, do you believe you have a chance to become market leader? And if so, what timeframe?
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, we haven't put a timeframe on that, but we believe that we have. Right now, we're sitting on not just Affera, but PulseSelect, and I'll come back to PulseSelect. But on Affera, that's the premium, that's the highest demand. Why we have the confidence? The pipeline, like I said before, new catheters, Sphere-9, that gets us into the single shot segment where our biggest competitor is. So that will have a big impact. And the mapping pipeline that's coming to increase the complexity of cases that we can map. And so you've got that, and the supply chain is good, and that will accelerate and support all of this.
+And then you've also got, you know, PulseSelect, which is, you know, a very good system, very safe. We'll come back to safety. And that gives us some flexibility too in other markets, where if another competitor comes in and wants to play the price card, we've got an answer to that and can still protect our premium pricing with Affera. So, you know, we feel good about this, and when you look at Affera in particular, the feedback we're getting, it's faster and easier, it gets better lesions. Right now, with the systems we have out there, a lot of people are using them for redos because of the complexity and how good it handles it.
+But as we get more systems out there, they're going to use it for frontline cases. That's the strong feedback we get. And then the safety profile, like we talked about in the earnings call, you were leading in Japan against the leading competitor, against the Farapulse , with PulseSelect. We haven't even sold any Affera there yet, and that's because they prioritize safety more than anybody else, and both PulseSelect and Affera have the best safety numbers. And there's a bit of a gap between us and then the next two guys. And I think as over time, that'll become a bigger deal. So there's a number of things here. So you're going to start to see, look, you mentioned the $2 billion, that still holds.
+You're going to start to see our growth, you know, go past the competitors, albeit on a smaller base. But these are leading indicators of what's to come, and we're going to invest behind this. I've mentioned a bunch of pipeline items, but we're going to continue to invest behind it in addition to those.
+## Operator | 
+That's helpful. So Arneet? So you, another product, you know, you've mentioned a couple of times today. The proposed RDN, NCD, I think is broader-
+## Geoff Martha | Chairman and CEO, Medtronic
+Yep.
+## Operator | 
+Than many expected. I think it was kind of inconsistent with your public comments beforehand, but more broader than it is.
+## Geoff Martha | Chairman and CEO, Medtronic
+It was consistent with my public-
+## Operator | 
+I think so.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Operator | 
+I think, I mean, you... Yeah.
+## Geoff Martha | Chairman and CEO, Medtronic
+It was consistent. No one believed it-
+## Operator | 
+Right
+## Geoff Martha | Chairman and CEO, Medtronic
+-but me.
+## Operator | 
+I did.
+## Geoff Martha | Chairman and CEO, Medtronic
+the team.
+## Operator | 
+For the record, I did.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Operator | 
+But, I think it was broader than many investors expected.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Operator | 
+So, we saw your comments to CMS. What are the most important changes to the proposed NCD that you're requesting?
+## Geoff Martha | Chairman and CEO, Medtronic
+I don't think there's any major changes. I mean, they're nibbling around the edges, but it's a good outcome. And the comment period that followed, that's closed. And the comments were overwhelmingly positive. So we're looking forward to October eighth or whatever that date is. I think it's October eighth. And we're really focused now on, 'cause, look, you got a nice FDA label. You've got a CMS National Coverage Determination, assuming that holds, that doesn't have burdensome, you know, requirements there. So the playing field is open. And so now we're really focused on. And here we have, we don't have any supply chain. We know how to make these catheters.
+We launched them years ago in Europe, and so we're good there. The training burden on physicians is low, and interventional cardiologists, the cath lab, you know, there's cath lab space out there to support the next couple of years of growth. So we're really focused on the market development. That's where we are right now with our market development specialists. Now, hospitals are taking this way more seriously after the CMS announcement and building up those referral pathways. You'll see us turn on some direct to consumer around this as well. That's where the focus is, and that will determine... You know, we're not concerned about, you know, if and how big.
+We know it's gonna be a big therapy out there for us, and we have high confidence in its success. It's really how quickly is the curve, you know, how the adoption, and that's gonna come down to this market development. It's on us and the healthcare systems that we're partnered with.
+## Operator | 
+Geoff, you know, you touched on the ramp. And you know, we have heard you talk about, like, Watchman as a good analog, and I can understand why. ASP is not too different. Some similarities. First, I guess, first in class.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm.
+## Operator | 
+But when we look at US sales of Watchman in year five, it was about $400 million, and so based on your bullish comments and the market opportunity, I think investors are hoping for more than that.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Operator | 
+What's your view?
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, I think definitely more than that. When we talked about the Watchman curve, I think we had a different starting point than maybe October eighth, so we'd be pretty disappointed if we're in year five or four, and you're talking those type of numbers, even year three. I mean, we think it will be significantly a faster ramp than that, but it's hard to pin it down, honestly, but you know, we definitely think it'd be bigger than what you just said.
+## Operator | 
+At the investor day next year, I assume you'll-
+## Geoff Martha | Chairman and CEO, Medtronic
+We'll have a lot more information by then, right? And, so, yes.
+## Operator | 
+Okay. TAVR, you know, you had strong US TAVR. Was one of the areas that appeared a little bit weak to investors in Q1. We, we don't-
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah
+## Operator | 
+... we didn't have the split US, OUS, but OUS was stronger-
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm
+## Operator | 
+... than US. And, you know, how are you thinking about that US TAVR business? If I look at, like, Q4, fiscal Q4 looked pretty good, US.
+## Geoff Martha | Chairman and CEO, Medtronic
+Right.
+## Operator | 
+So is this just a question of kind of, kind of averaging out the quarters, if you will?
+## Geoff Martha | Chairman and CEO, Medtronic
+Oh, Thierry, you want to answer that one? I think-
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+Yeah. No, I think that's right. We were up about 10% in Q4. We were up slightly above six in the first quarter. So I do think-
+## Operator | 
+Those are global, those are global numbers?
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+Global numbers, yeah. And so yeah, you kind of do have to average out the two quarters, I think. The growth was stronger outside of the U.S.-
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah
+## Thierry PiÃ©ton | EVP and CFO, Medtronic
+... in the first quarter, but overall, the business is performing well.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, we feel good about the TAVR franchise. All these things coming together. The changes that we've made to the product over the last couple of years to get to Evolut FX+. The data, the SMART trial data, is having a meaningful difference. It didn't happen overnight, but as that data sinks in, it gives us a share entitlement that physicians say, "Hey, look, if I'm not at that, at least that 40% in the US, I'm maybe not be doing the right thing for patients." That's clear now. That data is unassailable, and the commercial execution is good. So the TAVR business is in a solid spot.
+## Operator | 
+Geoff, we're almost out of time. Feel free to go over. By the way, we have a little bit of a break.
+## Geoff Martha | Chairman and CEO, Medtronic
+Sure.
+## Operator | 
+So we're hearing technical glitch, but I wanted to give you the, the last word. Anything? There's so much going on at Medtronic. What, what didn't we cover? What else do you want to-
+## Geoff Martha | Chairman and CEO, Medtronic
+I think you covered it.
+## Operator | 
+Cover?
+## Geoff Martha | Chairman and CEO, Medtronic
+But just to... You know, you covered most of it. We didn't cover the tibial launch. I think that's gonna be a big one, right? That's coming in the not-too-distant future. We're getting near the end of that FDA clock, and the dialogue with the FDA has been good, so we'll see how that comes out. But that's another driver for us that's gonna be, we think, meaningful. You know, because you're going from an implant to a kind of not quite a wearable, but not too far off a wearable, like on the ankle. So that's one we didn't touch upon. That's gonna be a driver. But I think overall, when you think about the company, we've got that operational base in a much better spot.
+You know, the operations IT and management, supply chain and quality, and we're building off that, and we've got these growth drivers that have taken longer than we wanted. Diabetes took longer, CAS and RDN, but they're here, and they're going, and Hugo's still to come. We want to go on the offensive on the tuck-in M&A and to continue to look at the portfolio. So that's where we are. The team we have in place is really strong, and the alignment with the board is strong. So we feel good about where we are and really excited about the near term.
+## Operator | 
+Perfect. Thank you very much for being here.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, thank you.
+Data Source: Quartr Last updated: Sep 4, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

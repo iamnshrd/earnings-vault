@@ -1,0 +1,404 @@
+TITLE: Wolfe FinTech Forum
+DATE: 2026-03-11
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Guys, why don't we jump in? Thank you again, everyone, for joining us day two of the Wolfe FinTech Forum. Really happy to have Visa with us. Jack Forestell, I think I've had you on stage a couple of times before, but it's really great to have you back. Jack Forestell is the Chief Product and Strategy Officer of Visa. Also happy to have Jennifer Como from Investor Relations here. Look, now is about as great of a time to have you with us as any, just given the magnitude of change happening in our space. There always is, but it seems like there's been more now than usual. First of all, thanks again for joining.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Thanks for having me. It's great to be back.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+We're gonna get into the, you know, the different changes in the industry and how it affects Visa or it doesn't. Before we do, maybe a quick update. You know, you obviously see what the business is seeing in terms of trends, and so U.S. payment volume was up 8% in January, credit up 9%, debit up 6%. Overall, I think it was about a point better than calendar fourth quarter results, and stable cross-border, generally speaking. Just tell me what this means about the current health of the consumer and do you believe the K-shaped economy, and we're hearing from others. Just what are you seeing out there?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah, sure. Again, thanks for having me. It's great to be back. Look, we're obviously living through some tumultuous times, right now. I have to say the watch words for the consumer driving out of the data that I'm seeing are stability and resilience. I mean, you just rattled off some of the numbers. We're just seeing consistent growth performance quarter in, quarter out, month in, month out.
+You know, I lead our product team and our strategy team, so I sometimes focus on some different metrics.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... than some of my colleagues. One of my favorites is processed transaction volume growth, 'cause to me that's the most pure indication that we've got about how users are engaging on the platform, and that number has been incredibly resilient and consistent on a broad global basis for quite some time. Look, there's a lot going on in the world. You might expect that to be changing the way consumers are behaving with respect to their spending patterns. Overall, we're really not seeing that. You asked about K-shaped. Look, I don't really see K-shaped. It's probably a little bit more letter E shaped if I've got growth rates on the vertical axis, right? We're just seeing consistent levels.
+There's definitely a differentiation in the level of growth rate that we see across the spectrum.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+It's a positive growth rate at the bottom end, and it's a positive growth rate at the top end, and the gap between the two has been relatively consistent as far as we can see.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah. We've actually heard that. I remember even Chris on the last earnings call was talking about how, you know, some of the more affluent are spending a little faster growth rate-wise-
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yep
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+consistent, right, across all the areas, and they're all growing.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yep.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+All right. That's great color. Thanks. Maybe just a quick follow-up would be, with all the political turmoil going on and geopolitical in the Gulf region, et c, I mean, any impacts on cross-border gas prices, how do you as a company think about that or FX volatility?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Few things I'll say on that. First of all, it's, you know, early days. Hopefully, this goes by quickly. Who knows what's gonna happen with a conflict.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Sure
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Like this one. We monitor this stuff very closely. We're always looking at the granular detail of the data with respect to how different corridors are doing with cross-border, how different categories are performing. You mentioned cross-border, you mentioned energy prices. We'll monitor those things. What I would say though is, it's worth remembering, we're incredibly diversified.
+Like, you know, we have countless cross-border corridors across the world that we are constantly looking at, so, you know, we'll see what happens. I'm kinda looking at it on an aggregate basis and thinking, you know, things are pretty diversified.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right. Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Same with gas, by the way. Energy prices, we're seeing the volatility there.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Overall, you know, gas prices in the U.S. are a fairly small proportion of our overall purchase volume.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay. All right. Let's go into the more interesting topics, which I think is really on what's everybody's minds. For what it's worth, I mean, as an analyst, you know, we probably don't even field questions over too much concern over the fundamental growth of Visa.
+It's. That's been consistent and been strong. It's mostly top-down questions, what is the regulatory environment gonna look like, and how does that affect? More recently it's been agentic, right?
+AI in general, and so just let's start there. I mean, you know, you've said that agentic is the next wave of commerce, and you've said it's an opportunity. Just outline what this wave of commerce actually entails. I think a lot of folks are still trying to figure it out.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. Look, Darrin, I'd say I've been doing this payment technology thing for a really long time, 20+ years, and I will honestly tell you, I have not stared into a bigger growth opportunity than what we have ahead of us in the development of the agentic web. See, agentic web writ broadly that then will turn into agentic commerce, turn into agentic payments.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Sure.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+I haven't seen anything like this since the dawn of e-commerce itself in the late 1990s, early 2000s.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We see it as a generative growth opportunity. I wanna make sure we try to get out of the zero-sum mindset, right? There's just too much of the, "Hey, is agentic a way that the existing pie is going to get sliced up differently?" I don't think so. This is about new business models, new transaction flows, an increase in the velocity of money, and we're seeing it in very practical ways. I'll give you four, right? Think about how agents can take friction out of payments. There's still friction in digital payments, right? We see falloff rates on transactions. We see decline rates on transactions. Agents are going to be able to take the friction out of payments, and transaction success rates are going to climb.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+When we see transaction success rates climb, we see payment volumes increase. We're gonna see what I call increased payment density. What do I mean by that? Think about a fixed amount of purchase volume or purchasing power.
+split into a number of transactions. We've actually been seeing increasing payment density for a long time. Our average transaction size from 2015 to now has dropped 20% from around $55 to around $45. You might say, "Oh my gosh, that's great," because at the same time, our number of transactions has tripled.
+to $300 billion. You're seeing the increased payment density, and it's coming from subscription purchases, streaming payments, gaming payments, creator, all these new use cases that have lower tickets and higher velocity .
+We think agentic commerce is going to completely unshackle that, right? You think about an agent.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+An agent, you know. We can be kinda lazy, right? I'm buying a bundle of goods. I'm kind of at the same merchant. I'm buying all the stuff at the same time 'cause I'm there. Your agent doesn't need to do that. Your agent's going to split that purchase into as many little purchases as it needs to. You know, streaming payments completely unshackle.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Find the best price, find the best product in three different locations versus.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You wanna buy an hour worth of something, you wanna buy a day worth of something instead of a month or a year. I really think we're gonna see a significant increase in transaction volumes.
+Coming from that. We're gonna see faster digitization of payments. There's still a lot of undigitized payment flows out there. My favorite here is B2B payments. There's an enormous amount of B2B payments volume left to be digitized and a lot of friction left in it. You think about onboarding suppliers, raising purchase reqs, invoicing, paying, reconciling, all that stuff. It's still painful.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Agents will rip that friction out, and we'll see a massive digitization of B2B payments. We're doing some really cool work with Ramp, by the way. There's some stuff up on YouTube if you wanted to take a look at it. Those guys are integrating AI agents for their business buyers with virtual Visa cards in hand, and it's basically an invoice to pay instantly with full-on reconciliation from the get-go. It's a really cool if you're into B2B payments.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Ramp was just here this morning actually talking about that to some degree.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+I'll give you one more.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah, please.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We're not takers on the agentic dystopia argument, right? Like every other wave of technology that has hit the payments ecosystem has generated growth. We've seen it with eCom, we've seen it with mobile, we've seen it with mobile cloud. We see this the same way. You know, the economic forecast that we're looking at consensus is, you know, anywhere from 80 basis points to 150 basis points of GDP growth coming out of the efficiencies at a macro level that we can gain from agentic. We know that when we see GDP growth, that flows to PCE growth, and that just flows straight into our ecosystem.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+All right. That's very encouraging. Look, on that note, I mean, we still, despite everything you just said, and you answered some of it, but we still get questions about whether this means this is a good thing or a bad thing. Is Visa a winner or loser in agentic? Maybe just articulate if there's anything else you can add on to specifically why Visa could win in this versus others, that might also try to offer-
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+These offerings.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+I think there's some lessons in history there. I'm not gonna go dwell on it. Again, you think about the complexity of the transaction that came into existence at the advent of e-commerce, right? It was riskier, right? It was less identifiable. There was no means of having a physical identifier in place. We adapted our technology.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We created new authentication mechanisms. We changed. It was a moment that was made for us. Same thing with mobile technology. We created tokenization. This is the same. These transactions are going to be riskier. They're way more complicated.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You've got an agent in the middle. The agent needs an identity. You need to secure that identity. You need to validate it. You need to collect more data in order to be able to ensure the security of the transaction. All that stuff, and we're working on that. In a way, this is made for us. Maybe just for fun, I could bring it to life with an example.
+Let's say you were so compelled by my growth argument, Darrin, that when we're done here, you go hit Claude Code or Cursor or Codex, whatever your favorite coding platform is, and start spinning up commerce agents because you wanna realize the opportunity. At some point, like very quickly in your development process, you're gonna have to equip your agent with the ability to buy things.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You're gonna have to decide what you want it to use to buy things, right? I would argue that you will want your agent to be able to easily connect to the sources of funds that your human has.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Like, say, the 14,500 financial institutions that we are already connected to with Visa credentials.
+That store most of the money that is used to buy things in a person-to-merchant context. You're gonna wanna be able to use the credential everywhere where things are sold, maybe like at 175 million merchants that already accept Visa cards, right? By the way, you also wanna keep your human happy, and they trust their cards. They trust that brand. They trust that security. They like their rewards.
+I think you're probably going to default to card credentials as opposed to something experimental that has no acceptance footprint, that doesn't have a lot of other stuff. You're also gonna worry about security, right? Agency is great to automate things on behalf of a buyer and a seller. It's also a tool that fraudsters are increasingly using, and things are getting more dangerous out there. We process 300 billion transactions a year, almost 1 billion transactions a day. We use the data from those transactions to evaluate every single transaction in sub-second time with hundreds of parameters to make sure they're safe and they're secure. You're gonna want that.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Right? You're gonna want our token technology that is able to bind the credential to your agent and identify your agent and carry the extra data payload you need. None of that exists in these alternate payment mechanisms. Then lastly, you're gonna want everybody to understand that this is a trustable payment method. We spent decades building trust in our brand, and when we present the Visa brand in a payment transaction, the merchant trusts it, the buyer trusts it, and the agents are gonna trust it too.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Look, we're excited about this. Like, this is opportunity, like I said, of the order of e-commerce itself 25 years ago.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah, no, it sounds like it. I've seen data points that Visa, and if you look at Mastercard, there's a combined 450,000 attempts to hack data centers.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+By fraudsters per day, believe it or not, on the networks that you guys have to, you know, hold back, which you do a good job doing, obviously. I can't imagine how much that can increase with models, with agents helping fraudsters, right? I mean, security is gonna be paramount here. Can I ask you, I mean, how do the announcements from Stripe and OpenAI? It seems like they were trying to almost acknowledge that they have to work with the ecosystem. Stripe talked about using Visa's tokens.
+OpenAI, I think, acknowledged they're not doing as much as they thought in-house, right?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+How does that really change or impact your thinking on this at all?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah, I mean, there's.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+You probably knew this already. How should we think about it?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. Look, it's, I mean, it's early days in agentic commerce, right? We've kind of started to turn the corner on consumers to changing behavior from old search to agentic search, and that terminating in a payment transaction or a purchase transaction at the merchant website. We still have a ways to go before you've got a more fully automated agentic purchase transaction. That's gonna require standards. That's gonna require a new form of interaction on the web. You're seeing this alphabet soup of standards.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+start to propagate, right? In my mind, it's because we're moving from a web construct that had browsers driven by humans interacting with servers that were coded to be human readable, to a place where what we really need is browsers driven by machines on behalf of humans with policy constraints on them. Server side, that is machine readable. These standards need to exist to make the two machine readable sides work. We're seeing it at the web level with standards like Model Context Protocol.
+We use that for our Visa Intelligent Commerce to enable agents to connect to it. You're seeing it at the shopping level, right? Google's UCP and OpenAI's ACP.
+Like, those were standards to say, "Here's how you should share inventory data. Here's how a shopping mission should unfold.
+There's the payment standards, and that's where we come in. This is where some of the stuff you were talking about a moment ago is really relevant. Like, these things take time to bed in, but we published our Visa Intelligent Commerce specs almost a year ago.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Our Trusted Agent Protocol that's about agent identity over the course of this summer. It takes time for these things to get adopted. You, you know, you saw Stripe announce that they are embedding Visa Intelligent Commerce-
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yep
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+into their processes, and that's our play. Like, you know, you go back to what we were just talking about, the compelling features of our platform as a payment scaler for agentic commerce are there. If you want to use it, you're gonna have to adhere to the standards, and those standards are going to embed and be interoperable with the web standards and with the broader shopping standards.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right. That makes sense.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+That's how you should think about it.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+That's helpful, Jack. You mentioned micro-transactions. You brought it up before in terms of more transactions also. This is an opportunity, but there have been other players saying they think they can capture this. Just help us again with what is Visa's role here, and how do you think about pricing on this?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. This is a fun one. I would say, by the way, there's probably no platform in the world that has processed more low-ticket, high-velocity payment transactions than Visa.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yep.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We have adopted and adapted over time. Like, have you ever tapped your Visa card to get on transit here in New York?
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Sure, sure.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+It works pretty well.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+That didn't use to work. We had to modify our technology with different transaction payloads in there. We had to modify our pricing and commercial framework to make sure that worked.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We've done that in transit. We've done that in vending. We've done that in parking. We've done that over and over and over again, and we just see this as the next one. It's not a question of if we will do this. It's just a question of how we will do this. You know, we've got a lot of experience in batching transactions. We could probably settle them straight through. We need to figure out, like, does a merchant recipient really wanna receive $0.00001 every couple of nanoseconds, or would they actually rather have that batched up and receive a few dollars every few minutes? So those are the kinds of things that we're working through from a technical standpoint. We've had a lot of experience doing this over a long, long time.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+You definitely do. Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+The pricing thing, yeah, I keep reading things that talk about our pricing as it relates to these transactions, but it, you know, it kind of misses the point that we can actually configure our pricing, and we can create commercial frameworks that really work to make these transactions.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Even for small micro-transactions. You can make it work?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay. There's also a lot of talk about different protocols, and really nobody better to ask than you. I mean, just what does each protocol do, and maybe help us understand your role in it. Just to explain it, there's a lot of jargon out there that a lot of folks aren't familiar with, so.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. No, I was talking a little bit about this a minute ago. It's the alphabet soup.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We need these standards. We really need to bed them in if the agentic web is gonna work, if agentic shopping is going to work. If agentic payments are going to work. To be honest with you, I don't know what standards are gonna win at the agentic web level. I don't even know what standards are gonna win at the agentic shopping level. There definitely needs to be a common set of standards. Think about how the internet today works, right? We have HTTP as a set of standards.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yep.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You know, we've got DNS. We've got all these standards. They're open, and they're interoperable, and it makes the web work and grow the way it works today. This is just another evolution, so we need a set of standards that govern how agents interact and machines interact.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+...with each other. Our paramount concern is making sure that this functions from a payments perspective. We're very focused on that. We've been building and publishing standards for a very, very long time. This is kind of what we do. We like the standards that we created almost a year ago and the specs we created with these Intelligent Commerce and with our Trusted Agent Protocol. Things are m oving fast, and we're continuing to evolve and adapt those standards over time.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay. You know, one of the areas that I know we and others are excited about is the value-added services that you should be able to provide around this opportunity, given all the data you have.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yep
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+... tokenization capabilities. You know, maybe just help frame that opportunity that you see, at least for Visa to really play a big part in the VAS around agentic.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. You know, you've probably noticed our value-added services growth rates are.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Strong
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Good.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+They're strong. I'll tell you, part of the driver behind that is the attach rate of our value-added services to digital transactions is high, right? It's because digital transactions are more complex, they are more risky, and they need more full-featured capability in order to work well.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Back to agentic transactions, we're gonna see a move toward an even bigger opportunity with respect to value-added services that we can bring to transactions. I mean, we bring fraud scoring, we bring authentication, we bring stand-in processing, we bring new data payloads, we bring controls and policy that agentic platforms are going to need to be able to govern these credentials when they're tokenized. We bring the tokenization service itself. We bring the decryption, like all of this stuff is all sort of under that rubric. We see it as a big opportunity and in a couple of ways. One, just the sheer volume of opportunity that I was just rattling off. We're going to be able to build more and more of these value-added services and build them into these transactions.
+We're also excited about the use of AI itself. I mean, we're early adopters in AI, and we have, you know, the ability to actually screen hundreds of variables in sub-second time.
+for fraud in our authorization stream, something we've been doing for a long time, but that's because of AI.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+The precursor generations of AI to the ones we're seeing right now. We're excited about not only the opportunity presented by agentic commerce, but the use of AI in our products.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Through your products and VAS
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+...themselves-
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+that will cause us to be able to ship at higher velocity with more sophisticated products.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+The fraud defense dynamic and the cybersecurity dynamic associated with e-com, which is really even a higher level on agentic, is clearly an opportunity for you guys, right?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Absolutely.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+When it comes back to the AI use in your own other just broad VAS, again, you'd started touching on it in terms of the data itself being utilized, right? Or the AI being utilized for better use of your. Can you just expand on that again? I mean, where are you using it throughout VAS to expedite the opportunities?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+In fact, just one last thing, I'll come to that. I just want to mention back on the AI VAS thing because I keep getting-
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Asked this question. You know, it's the old is AI eating software? A lot of our VAS services are software. I would posit that software businesses that are rooted in network effects, proprietary data, and data scale actually benefit from AI as opposed to have exposure to AI.
+Again, you know, two-thirds of our value-added services are attached to transactions in our core processing system, which mean they're attached to that network effect, which mean they're attached to that proprietary scaled network data that we have. We're super confident in the resilience of those software-based value-added services that we have. Now, you're asking, you know, what are some use cases and examples of where we are applying AI. I'm almost struggling to think of use cases where we're not applying AI.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Throughout.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. I mean, in the protect side of the business, we've been doing it for a really long time. We're doing a lot more of it. We're also expanding it into new use cases. Rather than give you a list, I'll give you an example. We have a service we call stand-in. Issuers make their own authorization decisions in our network.
+They often go down, or they have outages. There are reasons why they cannot make a decision. For a long time we've had rules in place that issuers can configure. We allow them to configure those rules to say, "Oh, you know, if I'm down, authorize this, don't authorize that.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We've used AI to create an intelligent, adaptive version of that system that can effectively replicate what an issuer could do even if they were up. That just, you know, continues to learn. That's a cool example of the kind of thing that our-
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+That is a cool example.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Our data scientists and engineers are working on.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+One of the things that we get asked about is whether or not agents are gonna play a role determining what payment method is actually used.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+It's actually perceived as an opportunity, but also a risk. I mean, how, what are your thoughts on that?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Here's what I'd say. I don't think agents are gonna change the laws of supply and demand, right? If you think about digital commerce, it's on the supply side, on the seller side, it's an incredibly competitive business. The switching costs are super low. It's a very efficient market. Because the supply side has a lot of alternatives and switching costs are very low, the buying side of digital commerce has a lot of latitude in negotiating power. As it sits today, the buying side makes the determination about payment vehicle.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Right? That's just how it works. Now, enter agentic. Agentic will come first on the buying side, to create all those efficiencies and take out the work on behalf of the consumer and the buyer. It will also come on the supplier side. Imagine your agent goes out, and it's trying to buy something for you, and the agent comes back and says, "Darrin, I got the thing, but now I need to go, like, buy some gold bullion or something." "And, by the way, you're not getting your rewards." I think you're gonna get a new agent really quickly.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Sure
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+When that happens. I think your agent is going to learn, you know, what within the parameters and policy that you set for it, what you want it to do. You're probably going to instruct it to use your card. Maybe you'll do a little bit of optimization around that. I actually think agency will be a multiplier effect on
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+the existing model, which is, you know, buyer decides, buyer has leverage.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right. The consumer should be the one that's choosing what's done. Okay. Another hot topic, obviously, that sort of connects to this is just what you're seeing in terms of demand for stablecoin.
+Just what are the greatest revenue opportunities for Visa around it? It does dovetail with questions we get about agentic sometimes.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+'Cause it goes back to the last question, whether folks are gonna route into stablecoins.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Just generally, what are your thoughts there for a minute in terms of demand and opportunities for Visa?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. We're very optimistic about stablecoins too, but it's very different from agentic. Like, agentic. If you think about the way agents are evolving and the way they're gonna integrate into shopping, they're working at the application layer. Like, the change is very obvious as you, as a user, start interacting with an agent as to what's happening. Stablecoins are infrastructure. This is not a solution in and of itself. This is infrastructure.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Sure.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+It's really powerful infrastructure, by the way. A lot of people don't sort of realize, like, what the underlying bone structure of these is. I mean, we operate a front-end messaging infrastructure that creates promises to pay in real time across our network. The actual movement of the money happens offline from that, and we use the same settlement infrastructure that everyone else in the world uses. I can tell you from firsthand experience, while we have done an amazing job reinventing the front end of money for the digital era to make it all feel so seamless and convenient that you can just forget about it and trust it, the back end of money, the settlement infrastructure, feels like it did 20 years ago. It's brittle, it's not real time, it consumes a lot of liquidity, and it could use a lot of improvement.
+We are huge believers that stablecoins can improve that underlying settlement infrastructure. That's the way we see it. Now, we then see opportunity for ourselves because we see ourselves as a bridge from that new settlement infrastructure that's gonna start to permeate and propagate around the world to connecting it to that front end of money that's already functioning really, really well. I'll give you a couple examples of the things that we're working on.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Sure.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+One, on the settlement side itself, we're starting to settle transactions in stablecoins on our own network. We created that capability about six or seven years ago, by the way.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Really?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Like at that point, no one cared. It was an experiment. As we've gotten regulatory clarity in different markets, we started to open things up. We opened it up first somewhere in Singapore, Hong Kong, you know, and now we've opened it up just in the last six months or so in the United States. You know, not surprisingly, we offer our clients the ability to settle with us 24/7, over weekends, and relieve them of the collateral and liquidity constraints that old model creates. They're doing it.
+I mean, go back a year, you know, I said we did this six or seven years ago. A year ago, we had almost no volume on this. We hit $4.5+ billion in annualized run rate-
+in the last quarter in stablecoin settlement volume. It's the real deal. That's the kind of boring back-end side. I get a little more excited when you start, like, connecting it to the front end. There we are starting to see, especially in emerging markets, a lot of use cases where consumers and businesses are coming into possession of stablecoins. Some of it's about dollarization of savings and deposits for citizens in countries with a lot of volatility.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Volatility, yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Some of it's just, you know, efficient payouts, like cross-border payouts.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+I'm paying my gig economy workers in another country in 17 different places, and I can do it in stablecoins really efficiently per the settlement thing. The reality is, once those businesses and consumers come into possession of stablecoins, they didn't want them because they like stablecoins. They wanted them for other reasons, right? The efficiency and effective. What they want is to be able to use them just like they were fiat money, and that's where we come in. We've been supplying stablecoin linked and stablecoin native card credentials.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+That's what users want. They trust it. They know it. That's how they're used to paying. That's what they do. You know who likes stablecoin linked cards as a mechanism to enable stablecoin payments even more than consumers? Exchanges, wallets, fintechs-
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+We've been hearing.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+financial institutions
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Multiple companies at our conference talk about stablecoin cards.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+All these guys.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+How it's an opportunity.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+If you think about it, put yourself in their shoes. You're custodying these stablecoins on behalf of your users, and your users want to use them.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Yeah. Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You could go tell your user, "Give it a shot, try and spend your stablecoins on a wallet-to-wallet-based transaction where almost nobody accepts stablecoins, and you've got to go through a hassle experience." Or you could say, "Look, I'm gonna take Visa's trust network and place that on top of the stablecoins." You know it, you trust it, you know where you can use it. Merchants have to change absolutely nothing. I don't have to worry about, as the custodian of these stablecoins, building acceptance network, managing risk, managing repudiation, post-transaction. All that stuff just gets taken care of by the Visa staff.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+By the way, they like the commercial model too.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+That makes sense. You know, last one, and then I'll take a couple of questions from the audience. You know, if you looked at all the different deals you've done and investments you've made over the last one or two years, what are you most constructive on? What are you most excited about in terms of investments and/or even M&A that you've done that's turning into some real fruit? What do you need or what do you wanna do in the next year or two that that's the added-
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We've been talking about a lot of it. I mean, we are investing heavily in AI across the board. We talked about it in the context of the market-facing product set, but we've invested heavily in equipping our entire workforce from an AI standpoint.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You know, on the product development and engineering front, we're just continuing to see the benefits from that. I mean, in the early stages of AI coding tools, it was sort of a productivity enhancer. You know, you get a little bit of juice out of that. You can add a few more agile squads. The most recent versions of AI coding tools are starting to create more discontinuous benefits.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Just a couple of weeks ago, one of our teams said, "Hey, you know, I want-- I've got a concept, and I wanna take this concept from idea to working prototype with documentation and code that I could expose publicly." One team came in the office over the weekend. I think they had this idea, like, Wednesday, and they had code ready on Monday. Like, this would have taken weeks or months.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Months, yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+In the past.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+That's right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+It's now sort of distilling down to a single team in days. Man, I'm just, like, wildly excited about the output to that.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Product velocity.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah, because back to, like you were talking about the opportunity on the VAS side of adding new features into our VAS portfolio.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We're now starting to see the ability to invest all this, all that productivity and throughput into new product development.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay. That's right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Kind of creating a flywheel out of AI.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+That makes sense, Jack. Guys, any questions from the audience? We have about two minutes, and that's. I think there's one in the back if we can get a mic.
+## Speaker 3 | 
+Thanks, Jack. I have a question about your the BNPL and the Flexible Credential, right? I mean, that seems like a pretty major shift from how you think about issuing. How are you seeing uplift and take-up both in the U.S. and outside of the U.S.?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. We're seeing a lot of enthusiasm for Flex Credential. You know, we've been out there with it for a while now. The sales pipeline is incredibly full, but what I'm more excited about is we're really starting to see the implementations grow. We've got, you know, our anchor client, SMCC in Japan, continuing to see spectacular growth. We've got Affirm, we've got Klarna, we've got Emirates NBD in the UAE. The clients are really starting to grow, but the more fun thing is, like, when you start to look inside of those portfolios that have launched, you're really seeing a lot of growth and engagement on the part of consumers. Excited about the commercial momentum that we have on it.
+I'm also just excited about it as a long-term, you know, new way to think about card credentials. You can almost think about the Flex Credential as an identity credential, right? It identifies you and then has subcomponents of it that can do different things. You can fund in different ways. It's gonna really relate, I think, back to agentic and back to stablecoin in meaningful ways too, 'cause you can imagine having subcomponents of your Flex Credential that are bound to agentic identity so that you can create controls from within your Flex dashboard for all of your different agents that you've created tokenized credentials for. You can have a subaccount.
+## Speaker 3 | 
+With the consumer directly then, do you see them sometimes push from the-
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah, no, I wouldn't say that. I mean, what we're really offering tools to enable the issuer to expand the breadth and depth of the relationship that they have. By the way, this goes back to the value-added services piece. Flexible Credential, we offer it in two different ways. There is a sort of completely self-service way where we're just exposing API endpoints, and an issuer can actually do everything I just said by consuming our API endpoints. But we also have a more full-service version where we're offering issuer processing, but the branding and the design of the experience is all the issuer.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Okay. I think we're gonna stop there in time. Jack, thank you so much for joining us.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Thank you.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Great presentation.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. I really appreciate it.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Thanks for joining.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Thank you.
+## Darrin Peller | Equity Research Analyst, Wolfe Research
+Guys, we have the CFO of Affirm up next in about four minutes or five minutes on stage. Stay in your seats if you can, and thanks again.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Thank you.
+Data Source: Quartr Last updated: Mar 11, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

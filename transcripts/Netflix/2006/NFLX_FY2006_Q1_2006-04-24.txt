@@ -1,0 +1,7 @@
+Company: Netflix
+ROIC Symbol: NFLX
+ROIC Name: Netflix, Inc.
+Year: 2006
+Quarter: 1
+Date: 2006-04-24 18:00:00
+Executives

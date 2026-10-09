@@ -1,0 +1,208 @@
+TITLE: Citi Annual Global Healthcare Conference 2025
+DATE: 2025-12-03
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Dineer, and I'm really ready to do that, but I am Joanne Wuensch. I am the medical technology analyst here at Citigroup, and thrilled to have with us Michael Bodner from Johnson & Johnson.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Thank you.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Michael, thank you for joining us.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+It's a pleasure. Thank you for having me.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+We do not get a lot of exposure to electrophysiology from J&J, and so I would love to just sort of start off big picture. How do you think about the health of the medical technology market, and particularly as you think about it in terms of procedures and CapEx?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Look, it's an honor to be here, and thank you for inviting me. Maybe to start, because this is the first time I'm addressing this group, I can do a quick introduction. I've been at Johnson & Johnson roughly nine years, and just before this role leading our Electrophysiology and Neurovascular businesses, I was leading the acquisitions of Abiomed and Shockwave. Then prior to that, I was our worldwide president for Biosense Webster. I've got an extensive experience both in the U.S. and internationally across cardiovascular devices. To address your question, when we look at the health of the medtech industry, it's strong and resilient, and it's driven by the aging population, but also continued access to care around the world.
+When we look at those capital cycles, those are in balance at the hospital level on being mindful of near-term cash and capital constraints, but also being competitive among other hospitals and bringing technology in that improves patient outcomes and drives more efficiency. And in our medtech business, we're focused on three core areas. Number one is cardiovascular. Number two is surgery. And number three is vision. Within the cardiovascular space, that's where we've been making some of our boldest moves, particularly with Abiomed and Shockwave of late. And EP is the cornerstone of our investments and activity within the cardiovascular space. And it's really high-tech medtech at its best, right? Lots of innovation, lots of unmet need, and lots of procedure volume, particularly driven by atrial fibrillation.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Excellent, and when you think about J&J's electrophysiology franchises, what are its strengths and weaknesses, both in the U.S. and outside the United States?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Yeah. In the U.S. and outside the U.S., we're the clear leader in electrophysiology, and that's anchored to our benchmarking CARTO system. That's our world-leading imaging system. Now, when we're involved with these cardiac procedures, it's a soft tissue procedure, and the physicians really need to know where they are in 3D electroanatomical space, and our strength there is around a full ecosystem of mapping technologies, software, ablation catheters, and the imaging, and it all works together. We have the most extensive network of CARTO systems worldwide and really strong clinical mappers that really partner hand in hand with their physicians on how to diagnose and best guide on where to ablate to best treat those patients. When you look at some of the unique features of CARTO, it's the integration with cardiac imaging, and that gives physicians additional safety parameters. We also have a zero-fluoro workflow.
+That means that physicians don't need to expose patients to unnecessary radiation, and they also don't need to wear heavy-leaded aprons or expose their staff to radiation or wearing those heavy-leaded aprons. We also have the ability to provide physicians with intraoperative cues. Now, with the shift from RF to PF, the intraoperative cues that they used to have, like signal attenuation and impedance drops that guided them that they were doing a good ablation, those no longer exist with pulsed field ablation, so they're relying on the mapping system even more to understand, are they truly touching the tissue, and have they delivered the right dose of therapy to the right areas of the heart, and they need to know where they've been and where they still need to go.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+How many CARTO systems do you have worldwide?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We have over 5,000 systems worldwide.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Are the majority of those in the United States, or how do we think about that geographically?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+They're very well distributed worldwide.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+I think I want to spend just a minute talking about international EP, because in that market, PF arrived several years before it arrived here in the United States. What was your experience having that stronghold of CARTO?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+So, the value of having a mapping system and the shift from those cues, like I stated before, from seeing signal attenuation, seeing impedance drops, that enabled us to be even more in the cases and partner even stronger with the physicians. The physicians really wanted to understand how the PFA was working, right? It's a very early modality, right? We have over 20 years of experience with RF, and PFA is new, and PFA is very varied and differentiated among the different companies. It's based on the type of voltage. Is it bipolar? Is it unipolar? Is it biphasic? Is it monophasic? There's so many variabilities that can be addressed, but the number one is, are they touching cardiac tissue? How much are they applying the energy, and where else do they need to be?
+They are anchoring to the need for the mapping system even more with PFA than what we saw before with RF.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Still sticking outside the United States, because I'm going to switch shortly. Other imaging modalities exist and are being introduced. What have you found in terms of the stickiness of CARTO?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+CARTO is a platform that's been around 30 years. This month is actually its 30th birthday, and it's a system that physicians have been trained on. It's what they learned on in fellowship, and we have been constantly updating CARTO. We're on a cadence of major updates with CARTO at least twice a year, and we will continue that cadence into the future. And so it's what they learned on. It's what they trained on. And CARTO is very comprehensive. It can treat all arrhythmia types. So we're talking about AFib, but AFib is roughly 60% of the market. There's also supraventricular tachycardias. There's atrial tachycardias. There's flutters, and there's ventricular tachycardias. And those are very sophisticated arrhythmias to treat, and you need a sophisticated system to do so.
+CARTO has the ability to treat from the simplest to the most complex arrhythmia types, and it gives those physicians the workflow that they're most accustomed to and data that helps them get the best outcomes for their patients.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+So when the other systems came on the market, you found it highly sticky, is what I'm hearing you say.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Very sticky.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Are hospitals taking space for a second navigation or a third navigation system, or are they just using other PFA catheters on the CARTO system?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Historically, it's been a duopoly. It's been basically Johnson & Johnson MedTech Electrophysiology, previously known as Biosense Webster, and Abbott. Medtronic was also playing in the space with cryo, but not with mapping. Boston, it then came in with a mapping system as the third, and now Medtronic is coming in with the fourth. It's starting to get crowded from a mapping system perspective. Now, we partner closely with our physician community, and they wanted to be able to map competitive PFA with CARTO, and we enabled that with software updates. And now, as we're launching our own PFA with Varipulse, we're seeing the shift from competitive PFA to Varipulse because of the fully integrated applications of Varipulse with CARTO. They get those real-time indicators. They get really strong procedural indicators that they've delivered the right lesions, and they know where they've been and where they need to go.
+They can also do this with a complete zero-fluoro workflow.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Are you finding we spoke first about O.U.S.? Are you finding the same dynamic here in the United States?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Yes, even more so. In the United States, mapping is a cornerstone of the procedure. I would say it's 100%, but let's say it's greater than 99% of electrophysiologists in the United States are mapping.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Are you finding people are doing more mapping with PF than they did with RF or Cryo?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+They're mapping. It's just depending on the clinical situation. If it's a simple procedure, which is becoming less and less, by the way, patients are becoming more complex. If their workflow is to treat just the veins, they can do a simple map to treat just the veins. But if it's beyond the veins, also known as like PVI plus, then they need sophisticated mapping catheters that are high density, like an Octaray, that then gives them guidance on where to ablate beyond the veins. And that can be quite complex.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+I want to spend some time on J&J's PFA catheter, Varipulse. The product was launched earlier in the year, paused, relaunched. What have you seen in the uptake, and how is the momentum continuing?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+So we have done over 30,000 cases since the pause, and the momentum is building rapidly, week over week. We had a really nice data readout back in September at ESC. We saw our VARIPURE data. So this is a real-world data set of 791 patients. And this is a registry, but it was also core lab adjudicated. And a lot of times what you'll see is that in the real world, you may not always match what you see in an IDE study. And a lot of times in an IDE study, those are simpler patients. In the real world, they're more complex. Well, in the VARIPURE study with 791 patients, we saw 99.7% acute success rates. Now, this was across 20 different centers and 62 different operators. So you got variability in technique, clinical practice, and site of care.
+We also saw zero strokes and an extremely low event rate, so it's emboldening us with the safety that we have. We're doubling down on building additional evidence, and we're starting to see that momentum coming through in the United States. We're also using the opportunity to turn Varipulse into a complete platform, so the first step was updating the irrigation rate to open up the therapeutic window. The next step is optimizing the pulse sequence. Right now, we have a very efficient workflow. It's only four ablations per vein, and that makes it a procedure that's easily completed in less than an hour, safely and efficiently. It also has a waveform that enables zero general anesthesia.
+It can be done with conscious sedation, which enables us to recover the patient quickly and also enables the same-day discharge opportunity, which we just presented at APHRS as a sub-study in our U.S. IDE trial, and so we're developing a new pulse sequence that will make it even more efficient. Today, each pulse is 21 seconds, and again, we do four per vein. The new pulse sequence is 3.8 seconds, so it's already very efficient. It's going to get even more efficient.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+So what do you think it will do to the procedure time?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+It will significantly reduce it.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Less than an hour?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+It's already less than an hour.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+So less than half an hour?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Most physicians.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+I keep guessing.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Okay. Most physicians are less than 45 minutes. We should see times approaching 30 minutes.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Okay. And what percentage of the market, and again, this is a U.S./O.U.S. question, do you think has already transitioned to PFA?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+In the United States, we estimate about 70% within atrial fibrillation, and again, atrial fibrillation is one segment of the market.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+We'll get to the others, but let's stick with that. I like that. And then outside the United States?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+It's less than that.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Okay.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Hard to say because the data is a little bit muddier, but it's less than that.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Do you think at some stage the O.U.S. market catches up to the U.S. market in terms of share?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+It might. It'll take longer. A lot of that is based on country approvals, reimbursement, and cost considerations.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+What do you think J&J's share is within that market?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We're not disclosing that.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+We're not disclosing that. I would like to ask. Okay, fair enough. But procedures are increasing month over month. Feeling good about Varipulse?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We're feeling good about Varipulse. Building nice momentum.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Okay, I'm there. So you were specific in talking about this as just being an AF platform right now. How do you think about bringing PFA into the other areas of EP?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Into the other arrhythmia types, like atrial fibrillation, like flutter and VT, etc. Well, I think it's important to talk about and take a step back on where RF plays and where PF plays today and what may be needed in the future.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Yep.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We have over 20 years of experience as an industry with RF, and it's evolved from 25 watts to 50 watts to 90 watts in high-power short-duration workflows with really sophisticated catheters that improve safety and efficacy. We're still in the early innings with PFA. Now, PFA today has great benefits in terms of safety and efficiency. It's extremely fast. It also helped democratize the procedure. Many physicians who were high-volume and point-by-point operators with focal catheters, they were able to do the procedure in less than an hour. But many, it took them more than two hours. But with PFA, particularly using regional ablation catheters, and we'll talk about form factors in a minute, they were also then able to be able to do the procedure in less than an hour. So it democratized the technique, particularly in atrial fibrillation.
+Right now, PFA struggles to go deeper than five to seven millimeters, so in certain anatomies, we need to go deeper. Now, in certain parts of the heart, if you go deeper with PFA, you can run into the risk of creating a coronary spasm because that's where the coronary arteries are laying. There's also some challenge with the precision of the lesions that are created with PFA, so with Varipulse, we move the pulse sequence between the electrodes, so it's extremely precise, but it's a large footprint device. If you need precision, that's where a focal catheter can fit, so generally, what we're looking for is where we need precision and depth, that's still mostly RF, and where we want speed and efficiency and safety, that's more PF.
+At some point, PF probably will get deeper and be able to achieve that, but it has to be in a way that's safe for the coronary arteries and not create coronary spasm.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+I think one of the things when you and I were speaking that really struck me is that we're all sort of focused on the transition to PFA in the AF market and that there's an opportunity that's just beginning, and we're hearing other companies talk about it too, and SVT and VT, maybe atrial flutter.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Maybe. The unmet need was in atrial fibrillation because the downside risk of an esophageal fistula was massive. The two negatives of RF is that there can be esophageal fistula and there can be phrenic nerve injury. Very rare and very low incidence, but devastating when it happens. When you're treating flutter or right-sided procedures, ATs, etc., these are very discrete burns. It's not a very long procedure generally. The hard part of that procedure is generally trying to assess where to ablate. That's where the strength of the mapping system comes in to help physicians understand this is the spot that you need to ablate in the soft tissue. VT, there may be a play because a lot of times with ventricular tachycardias, there could be large areas that they need to ablate, and there could be an efficiency play for ventricular tachycardias. But it needs to be deeper.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+And one of the products which we spoke about on the earnings call or a couple of different calls is the Dual Energy SMARTTOUCH SF Catheter. Just got CMRC approval. I don't know the timing here in the United States, but could you just talk a little bit about what makes that special?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Yeah, and maybe I'll step back. I talked about form factors, but I didn't explain that. Historically, the form factor that physicians have been using is a small focal catheter, a 3.5-millimeter tip catheter like SMARTTOUCH SF. There was balloon usage, cryo balloon usage, and that was more of a single-shot approach. We estimate that the market will stabilize with four types of form factors: regional ablation, which is Varipulse; small focal, which is like Dual Energy SMARTTOUCH SF; large focal, which is like Omnipulse, which is a 12-millimeter basket; and then a single shot. And we are also developing a single shot that we can talk about in the coming years. Dual Energy SMARTTOUCH SF is the same form factor that they've been trained on. It's the market-leading RF catheter from the last decade.
+It has the muscle memory and the workflow that they're accustomed to and that they really appreciate. It obviously is seamlessly integrated into CARTO. Now, the Dual Energy toggles seamlessly between RF and PF. Depending on the complexity of the patient, there are times where a physician wants PF, particularly when they're near the phrenic nerve or the esophagus, and there are times where they want RF, particularly when the tissue is thicker or they're near discrete conduction zones that need to be preserved because if they take out the conduction zone by accident, the patient may need a pacemaker.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Okay. And timing in the U.S.?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We are just getting geared up to submit next year for our approval.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Excellent. And then you sort of, I'm going to use the word teased about Omnipulse. Can you describe that product? Because as we talk with physicians, that comes up a lot.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+So different physicians like different workflows. The traditional workflow was point by point, which was Dual Energy SMARTTOUCH SF. And I do think it warrants taking a minute and talking about contact force if you'll just bear with me on this.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Go for it.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+When you think about the evolution of electrophysiology and how things really took a big step forward, 20 years ago, the success rates were 50%-50%. Now they're 70%-80%. Maybe we can get them beyond that as we implement artificial intelligence and new energy modalities and more sophisticated ways of doing ablations. But that big step change from 50% to 80% was contact force. Prior to contact force, physicians didn't know if they were truly touching cardiac tissue. Many times they would be ablating just in the blood because they didn't know if they were touching the tissue or how many grams of force they were actually pushing. And many times they could actually inadvertently burn through the heart because they didn't have that contact force information intraoperatively. We brought that to the market with ST, which was SMARTTOUCH . That's what SMARTTOUCH means, contact force.
+SmartTouch SF gave a very nice cooling technique to that catheter. So the contact force that the physicians are used to, particularly in a point-by-point workflow, comes with Dual Energy STSF. We've taken that same technology and we've applied it to Omnipulse. Omnipulse is an all-in-one catheter. So STSF is 3.5 millimeters in diameter. Omnipulse is a large format. It's 12 millimeters in diameter. Many physicians prefer the point-by-point workflow, and we're able to give them a point-by-point workflow that's extremely efficient with that larger format. Now, Omnipulse is also a high-density mapping catheter. So they're able to map with high density that helps them understand where to ablate beyond the veins for non-PVI triggers.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+The timing of Omnipulse in the U.S. and outside the U.S.?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We're just enrolling our IDE at the moment. We've completed our European IDE and we're preparing for CE Mark.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+And so when you go to market, what kind of portfolio will you be having in terms of your catheter base?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+At the end state or in the next year?
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+You can answer either one or both.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We anticipate that we will have a full portfolio. Right now, we have the most comprehensive portfolio within electrophysiology from mapping catheters to ultrasound catheters, everything being integrated to the most sophisticated diagnostic software to help physicians know where to ablate, but we have been in a cadence of launching two major software releases every year, and we will continue that cadence over the long term, so two major releases a year. We also are working on our next generation CARTO, which will implement more artificial intelligence and really see us through to the next decade. On the therapeutic side, we are going to get into a cadence where we're launching a new therapeutic catheter every year, and we're going to be marching to that drumbeat, and so we will have Varipulse, and Varipulse will evolve with the new pulse sequences, the FAST sequence at 3.8 seconds.
+We will also have Dual Energy SmartTouch SF. Then we will move to Omnipulse, which has the large format, and then we'll be moving to an easy-to-use single-shot basket.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+How do you think about physician reception to all of these different choices? I mean, today, is the physician just not able to do all of the ablations that they want to do because they don't have these choices? Or how do you? I'm trying to understand because there's a moment where people want a portfolio or they want a toolbox, whatever the word is that we use. And then there's a moment where doctors are like, "I don't have time to learn all of that. I like this one.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Yeah, so we see that today. There are physicians that prefer that point-by-point workflow, and they don't like the regional ablation, so the initial PFA catheters that have come on the market are regional ablation. Some very much like the small focal, the 3.5 millimeter, because that gives them complete versatility. When it's 3.5 millimeters, it can get into every aspect of the chambers of the heart. When it's a large format, like a 9 millimeter or a 12 millimeter, it's not able to get in every aspect of the heart. So it really is a case-by-case basis. What are they trying to achieve with that patient, and what are that patient's characteristics? If it's an early paroxysmal patient, which means they may only do the veins, they may be able to line up cases that are veins only that day, and then a single-shot approach may be suitable.
+But sometimes the arrhythmia is beyond the vein. Even though they thought it may just be the vein, they'll see that there are other arrhythmias emerging beyond. And so having that flexibility is quite useful. That's where a Varipulse could fit in the future. But if it's a long-standing persistent patient with lots of complexity, they may want to have that versatility of a Dual Energy ST SF because they may need to go to the right side of the heart and do a CTI line, which is where they want to use RF.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+One of the things that comes up when I speak with physicians is this concept of, "I've been using J&J's CARTO for a long time. I trust J&J. I'm going to try their catheters." I'm going to assume you find that in the field also.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Yeah. We've got a very large network of CARTOs that we talked about before, but we also have an extensive, highly trained group of clinical mappers. We have the largest group. We spend a lot of time and effort investing in them to make sure that they're the category experts, and they are by far the trusted advisors with the electrophysiologists. They are working hand in hand with the electrophysiologists during those procedures, helping to guide them on what's happening from an arrhythmia perspective, and that relationship is really important with our path forward.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+We spend a lot of time talking about the changing EP landscape in the United States and somewhat Europe. There's a big old world out there. How do you think about bringing the new technology into other regions?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+So we have an extensive network of J&J employees in Europe and in Asia, and we bring those technologies as rapidly as we can into those markets. We're currently launching Varipulse in China, in Japan, across Europe, in Australia. We're launching Dual Energy ST SF in Europe and in Hong Kong. And so given the strength of our team and the depth of our team, we rapidly launch in these markets.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Excellent. I do want to switch. We're wearing a different hat also in neurovascular. And another area that doesn't get a lot of attention inside of the J&J family, what can you tell us about the products that you're developing or you're most excited about in that franchise?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Look, there's a lot of unmet need in neurovascular. Still a lot of unmet need in stroke, but still a shift from traditional surgical to percutaneous approaches. We're in the process of launching a new family of aspiration catheters called Cereglide. And we've been just doing our early experiences in the United States, and the feedback has been excellent. So this is a complete portfolio that's being launched at this time. And that's for acute ischemic stroke. We're also looking at indication expansions for our TRUFILL liquid embolic. Now, TRUFILL has been on the market for about 25 years, and there is a new use case for that product. Many patients, particularly the elderly that are on anticoagulation, can fall. They bump their head and they get a chronic subdural hematoma. So that's where they've got a bleed, but it becomes chronic.
+The way to treat that historically has been through surgery. We can now treat that percutaneously by embolizing the middle meningeal artery using the TRUFILL glue. Now, that's going to be a very large patient population, but it's still early and it's a nascent way of treating this, but it's going to be an exciting space.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+How much energy and effort goes into J&J's development and participation in the stroke market?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We have a pretty extensive R&D team that's working on multiple different platforms right now beyond CEREGLIDE, looking at hemorrhagic stroke, ischemic stroke, and looking at innovations on aspiration, aspiration mechanisms, but also on stent retrievers and novel ways of enlarging the tip of the catheter in order to ingest even more clot.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+And in sharing your bio, you shared that you were part of the Abiomed and the Shockwave acquisitions and integrations.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+I was.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+You were. Can you share some of the learnings from bringing those high-profile products into the portfolio?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Yeah. These are high-growth businesses with a tremendous amount of talent. They're first-in-class, new-to-the-world companies, and we want to incubate them within J&J, give them the resources they need to thrive. What I'm really proud of is the integration process went extremely well. The turnover was extremely low and the key talent all stayed, and the inventors and the innovators stayed with us, and they're continuing to develop the next-generation products within that pipeline. Sometimes when you acquire a company, if all the knowledge and know-how and capability disappears, you're just left with a product. You want to make sure you keep the secret sauce, which is the people, the people that really understand how the technology works. At Abiomed, that's Thorsten Siess. He's the inventor of the Impella. This was his PhD thesis, and he continues to work diligently at developing the next-generation Impella devices.
+At Shockwave, the original R&D team, they are still with us developing the next-generation devices.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Excellent. What do you think investors are not understanding about the franchises that you are aware of? Or the franchises that you have knowledge of? Let me word it that way.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+I think there's sometimes confusion about our position in the market. So let me be clear.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Please clarify.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We are the clear market leader in electrophysiology today, and we will be in the future, given the strength of our current portfolio and the cadence of launches that we have coming. We are in a super cycle of innovation. We are committed, as I stated earlier, to two major mapping releases per year. We're developing a new CARTO that is going to be the next-generation mapping system that will be the new benchmark, and then we have a cadence of therapeutic catheters and PFA that excites our physicians.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+When we are talking a year from now, given all of this product development, what do you think we're going to be talking about?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+We'll talk about the next phase of innovation that we haven't discussed yet. We are developing new materials.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Can you share with us what that is?
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+I'll say it this way. We are developing new material science that is unique to us that changes the physics by which we do ablation.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Say those words again. Changes the physics of the way we do ablation.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Correct. You can't talk about it more yet, but I will. I promise you.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Okay. You promise.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+But we are developing new materials science, which we've developed in-house. It took us many years to figure out the physics, but it completely changes how we will do ablations in the future.
+## Joanne Wuensch | Managing Director and Head of US Healthcare Research, Citigroup
+Michael, thank you so much for joining us today. This has been very enjoyable and enlightening.
+## Michael Bodner | Company Group Chair, Electrophysiology and Neurovascular, Johnson & Johnson
+Thank you. Thank you for having me.
+Data Source: Quartr Last updated: Dec 3, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

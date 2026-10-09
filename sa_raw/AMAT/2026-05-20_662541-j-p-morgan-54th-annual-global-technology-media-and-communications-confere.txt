@@ -1,0 +1,441 @@
+TITLE: J.P. Morgan 54th Annual Global Technology, Media and Communications Conference
+DATE: 2026-05-20
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+All right. Good morning, everyone, and welcome to the third day of JP Morgan's 54th annual Technology, Media, and Communications Conference. My name is Harlan Sur. I'm the Sem iconductor and Semiconductor Capital Equipment Analyst for the firm. Very pleased to have Tim Deane, Senior Vice President at Applied Materials. Tim heads up Applied's global services business, what we call AGS. Represents about 20% of Applied's overall revenues, drives a stable but very high-growth services franchise, which is a key part of the systems-level solutions they develop and deploy to the world's leading semiconductor manufacturers. Tim has been with Applied for over 30 years, in charge of AGS for the past three years, and previously worked in the semiconductor systems group for more than 25 years, leading the field operations team, business management, strategy, and customer business and planning team.
+Tim, thank you very much for joining us this morning.
+## Tim Deane | Senior VP, Applied Materials
+Yeah. Nice to be here, Harlan. Thanks.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+We're gonna start off at a high level. Team just reported very strong results in growth outlook last week. I'm gonna start off there. We are gonna touch upon Tim's AGS franchise because it's a great ratable, highly profitable cash flow generative franchise. Starting off at the high level, Team reported strong results outlook last week. On the better revenue growth outlook for this calendar year, think you guys are now calling for 30% growth in your systems business versus your prior growth outlook of 20%. On the incremental upside this year, is it being driven by new brick-and-mortar greenfield programs being pulled forward, or are customers just accelerating technology migrations on existing capacity, or just solidifying plans and now locking in tool slots, right?
+Trying to figure out, like, what drove that sort of incremental upside over the last 90 days. Can you just talk about which end markets, advanced foundry logic, DRAM, advanced packaging, contributed most to the sort of incremental improvement in the outlook?
+## Tim Deane | Senior VP, Applied Materials
+Sure, Harlan. Happy to talk about that. There's, I would say there's not fundamentally a pull-in from 2027 into 2026. There's a lot of brick-and-mortar being built out there, greenfield facilities.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+You know, there's a pipeline of projects that are coming online. To the extent that customers can accelerate them, they obviously wanna do it as quickly as possible given the environment. There's a lot of creativity going on in the existing spaces, out in the factories, globally today. There's at least one case where, you know, a customer procured a completed shell, from another customer.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+You know, obviously they're gonna put product into that as quickly as they can, which helps us with, you know, with our, with our business. The other areas that we see are primarily in-fab changes. If, you know, customers are looking at their full production lines, if they see pinch points in their production, maybe an older generation tool that's a lower throughput that's limiting the output of the factory, we're seeing lots of cases where customers are coming to us and saying, "Okay, we're gonna remove this platform. We're gonna replace that with a higher productivity platform," which is good for wafer fab equipment.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+Additionally, we see cases where there's at least a case where, you know, a 200 millimeter factory was being shut down and repurposed into a packaging factory. You were asking kinda which areas do we see the growth.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+Packaging has got intense growth, across, you know, pressure in demand in end markets. We're seeing customers being, you know, as creative again as possible to get capacity in as quickly as possible. Then we see another example where there's an older generation, 2D NAND factory that's being converted to a DRAM factory. DRAM, advanced packaging are kinda themes that you will hear, over and over again.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+where customers are trying to get more, you know, more good die out. That creativity is leading to these incremental upsides, you know, that we see. Just from a services perspective, you know, interject, you know, as we work with customers across, you know, all their facilities, I think in, in every place that touches AI, those customers are coming to us saying, "How can we optimize output for the factory?" Which is kinda driving the service business as well.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yeah. I think that's a little bit under the radar screen for most investors is that we all tend to think about greenfield capacity. We all tend to think about technology migration. As you pointed out, there's a ton of installed capacity out there where throughput may not be as optimized, yield may not be as optimized, right? Any little improvements in current factory throughput or defect density improvements can have pretty significant impact in terms of output and good die per wafer, which ends up being millions and millions of dollars for their customers, right?
+## Tim Deane | Senior VP, Applied Materials
+No, that's a good point. I, if a fab is, you know, fully installed-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+Up or operating, every % of utilization improvement.
+that you can make in a factory is a huge lever.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+for productivity for customers. As we partner with them, particularly in the factories, whether it's with upgrades to existing tools.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+replacements of key tools, or just service optimization, you know, these are all kind of win-win, you know, scenarios, that we see with customers. It's a great environment out there, to be working together really closely.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+At earnings, you know, the team called out having historically high visibility, eight-plus quarters.
+## Tim Deane | Senior VP, Applied Materials
+Yep.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+type of visibility to your backlog, customer forecasts. This gave the team the confidence last week, to qualitatively talk about continued strong growth profile in WFE spend 2027 and 2028, right?
+## Tim Deane | Senior VP, Applied Materials
+Right.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+In line with that, Brice talked about the Applied team having 100 plus projects, programs. You know, that are on your radar screen. You know, these projects sit at different stages, some near term ramps, some longer term commitments. Some of these programs are technology migration focused, greenfield build-outs. What's the rough mix of this 100 plus project pipeline, right? Is it technology migration more biased? Is it greenfield capacity biased? How does this pipeline sort of convert over the next, call it, two to three years?
+## Tim Deane | Senior VP, Applied Materials
+Yeah. Just to the first part of your question about the eight quarters visibility, I think, you know, those of us that were around post-COVID during that ramp, you know, there was an awful lot of learning, you know, that happened during that period. My prior role, I was kind of at the nexus of that.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+With Applied working with customers as they, you know, were trying to kind of plan capacity on what was kind of an unexpected ramp. You know, this time it's a little more of an expected ramp because we know, you know, with with AI and the agentic components of AI now that are coming online, there's just huge demand across, you know, in particular leading logic, DRAM, HBM.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+Advanced packaging. Those are the ones that we see as kind of the primary drivers. It's in our best interests, as a supplier and a customer to, you know, to collaborate as closely as possible, 'cause, you know, we wanna make these transitions smooth.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+Bringing up these factories is extremely complicated. You know, I'm hiring people across the globe in order to do installs, meeting, you know, customer schedules. The collaboration is coming naturally, I would say, at the moment, particularly with our largest customers, because it's in our mutual best interest to do that. Now onto the pipeline. When we look at the pipeline, yeah, 100 projects is a lot, and I think Brice also mentioned, you know, 10 or more-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+You know, that have come, you know, fairly recently. The biggest part of the greenfield capacity that's coming online is actually in the advanced logic and DRAM spaces, because there's just, you know, there's just not enough physical capacity today.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+You know, there's so much silicon that's needed for these advanced, you know, technologies that it's really being driven by the greenfield space. I would say advanced packaging is in the same, in the same boat, so to speak.
+Just because we're moving from something that's been, you know, relatively straightforward for decades.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+We're moving kind of the front-end type processes into the back-end, which is, you know, again requiring, you know, more physical space in the factories. NAND's a little bit different. You know, you get so much leverage on a NAND wafer whenever you upgrade. You know, as we, you know, we're present in all the NAND factories around the world, you know, we see the wafer starts have kind of dropped a little bit over the last couple of years in NAND as customers have converted from, you know, one technology to the next. It's a little more complicated, the technology. The wafer starts drop a little bit, the bits go up-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+Significantly. There's a lot more leverage that you get with upgrades to NAND as compared to the other spaces. We've done some analysis. You know, a typical, you know, say, HBM wafer versus a NAND wafer, you're getting somewhere between 40 and 50x the bits-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yeah.
+## Tim Deane | Senior VP, Applied Materials
+On, you know, on a kind of apples to apples comparison-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+For an SLC, NAND. If you go to quad level, you know you're quadrupling that.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+We think there's just a huge amount of capacity, and it's very efficient for customers to do that as conversion. I think there will be some greenfield NAND over time, which is great for us. You know, we're very, you know, we're actually kind of excited about that as well. But we just see the laverage in-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That makes sense.
+## Tim Deane | Senior VP, Applied Materials
+the other three spots for Greenfield.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Got it. The semiconductor industry is on track to drive over $1 trillion.
+## Tim Deane | Senior VP, Applied Materials
+Yep.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+In revenues this year, right? I mean, it was just a couple of years ago that we were all talking about a $1 trillion market.
+## Tim Deane | Senior VP, Applied Materials
+2030.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+By 2030.
+## Tim Deane | Senior VP, Applied Materials
+Yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+On your recent, these are very valuable sessions, but in your recent master class you brought up an important insight, which that the mix of leading edge, the mix of spending was longer term thought to be on 1/3 leading edge foundry logic, 1/3 memory, evenly split between DRAM and NAND, and one-third sort of mature and specialty.
+## Tim Deane | Senior VP, Applied Materials
+That's right.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Analog power products, which you guys call your ICAPS-
+## Tim Deane | Senior VP, Applied Materials
+Yep.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Business. Given the rapid growth of AI and data center compute, networking, and memory, which biases strongly towards leading edge logic and memory architectures, there's now a strong divergence, it feels like, in growth between these various segments. Help us understand, like, how do you see, Is there a new way to kind of think about the mix of spending by markets, not only this year, but, you know, over the next kind of few years?
+## Tim Deane | Senior VP, Applied Materials
+Yeah. For, you know, for this year, you know, we think about 80% of the incremental wafer fab equipment spending is really in those three areas that you talked about.
+the advanced foundry logic, DRAM, and advanced packaging, and that really is driven by the, you know, the AI demand. You look at the various waves that have come up over time, you know, with.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+With compute and then, and to mobile and now into AI, there are different focuses for each of those areas. ICAPS is still a very important market for us.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+I would say we're, I think Brice made the comment that we're incrementally positive on it compared to where we were, say, three to six months ago. We think it's kind of flat up both China and non-China. The bulk of the spend is really going to be in those, in those three focused areas where Applied's number one in advanced foundry logic. We're number one in, you know, in kind of DRAM in a lot of areas and then also for the advanced packaging.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Again, going back to the, you guys held a great master class on transistor-.
+## Tim Deane | Senior VP, Applied Materials
+Yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Interconnect architectures, right? On current and next generation platforms. One of the big differentiators in my view, at the transistor level is Applied's what you guys call integrated material systems, right?
+## Tim Deane | Senior VP, Applied Materials
+That's right, IMS.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Where for various aspects of the gate formation or the interconnect formation. You've got a tool that integrates up to, like, seven different processes into a single platform, right? Surface treatment, etch, deposition, clean, anneal, integrated metrology, and so on, right? These integrated solutions now represent about 30% of Applied's overall system sales. Obviously, the benefits of IMS is not only technology enablement, but as you could appreciate, better defectivity.
+## Tim Deane | Senior VP, Applied Materials
+Yep.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Better height, higher throughput, lower overall system footprint. Like, seems like a big differentiator for Applied. Why is it that the mix of IMS-based platforms hasn't increased that much over the past several years? How does IMS create opportunities for your AGS franchise?
+## Tim Deane | Senior VP, Applied Materials
+Sure. I do think IMS is one of the things that's really unique for Applied Materials, right? We have a very broad, connected portfolio of products, and the ability to bring them together into a single mainframe.
+Where you don't break vacuum, you don't.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+The wafer to ambient is, you know, in some cases is very, you know, critical. I think in that master class, if I counted correctly, there were four IMS platforms.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+Talked about, right?
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+There's the Trillium that you mentioned for gate formation. There was a EPI and etch combination for forming the contact that was talked about, and then two versions of copper barrier seed.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+barrier seed, that's right.
+## Tim Deane | Senior VP, Applied Materials
+Integrated tools for the super tight-packed lower layers.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+Is one configuration, kind of the mid layers is another configuration. From Applied's perspective, we will work with customers as closely as possible to integrate steps that make sense to integrate.
+It does drive complexity on a single platform.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+As you can imagine.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+You know, what used to be a single PVD platform Endura now is a seven different applications. You know, managing that platform in production and, you know, just kind of redundancy on a platform, you want to optimize for where that's really needed. It's really these absolutely critical-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Critical.
+## Tim Deane | Senior VP, Applied Materials
+Steps that- t hat we do that. The other thing we do at Applied, again, because of the portfolio, is we co-optimize applications, and that's another big piece of the business. They can be sequential steps or non-sequential steps that still need to be co-optimized because they interact across, you know, multiple layers. I think a good example of this is, you know, we're seeing great synergy, between our PDC group, you know, our metrology-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+Inspection group, and our development teams, in particular with PROVision, where you can do, you know, thousands of measurements across the wafer. We can optimize, you know, we can optimize processes faster than we have in the past. We tend to look at it pretty holistically, where it makes sense to do a integrated platform with a customer. If that's the demand, then we will do it. And we are constantly co-optimizing applications, you know, into the flow where it makes sense.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+It gives the customer a little more, you know, a little more flexibility. It's not really about increasing that number. It's really finding the optimal, you know, the optimal space.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+In the flow. Again, I think this is one of the areas where Applied is truly unique in the industry because of all these capabilities that we have across different product lines.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Complexity, system complexity.
+## Tim Deane | Senior VP, Applied Materials
+Yeah
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+In my mind means good things for the services organization that supports that. Is the service intensity a bit higher on these IMS platforms?
+## Tim Deane | Senior VP, Applied Materials
+The service intensity is higher on the IMS platforms.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yeah.
+## Tim Deane | Senior VP, Applied Materials
+You know, for the reasons that you stated. If you think about, just think about parts. You know, if you had a seven or eight-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+Nine-chamber Endura that was all PVD.
+There's a lot of commonality, you know, in the parts. If now you have an ALD and an anneal and you got, you know, CVD.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+And PVD-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+Those are all kind of unique capabilities, so it causes us to prepare differently with customers to support those tools and make sure they're getting maximum output in the factory.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Your DRAM revenues were $1.7 billion in the most recent quarter, up 18% year-over-year. The team has roughly gained 10 percentage points of WFE-related DRAM share over the last decade. The next two- to -three-year DRAM roadmap is meaningful for Applied, right?
+## Tim Deane | Senior VP, Applied Materials
+Yep.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+6F squared continues with its high volume ramp on the next generation 4F squared, and then eventual move to 3D DRAM architecture. Applied has been pretty consistent that materials intensity increases meaningfully at 4F squared and especially at 3D DRAM. Can you just frame for us the share opportunity for Applied in 4F squared specifically-
+## Tim Deane | Senior VP, Applied Materials
+Yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Versus where you sit today at 6F? Is the right way to think about it, given the historical share gain track record, that maybe Applied gains another, call it, 3%-5% percentage points of WFE DRAM share at these upcoming inflection points?
+## Tim Deane | Senior VP, Applied Materials
+Yeah, let me start by putting a little plug in for master class.
+'cause on June 25th, we're gonna do a DRAM advanced packaging master class, kind of the level of detail-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+That you saw-
+Yeah, you know, advanced foundry logic. With 6FÂ² in particular, we see there's a lot of runway. You know, customers are pushing those technologies. Again, the demand, Manish is coming up next. I'm sure he's gonna talk to you.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+About the, you know, the demand in the end markets is pretty incredible. When you have a technology, you want to extend it as long as you can. The place where we see the roadmap going for 6F squared is really right into the sweet spot for Applied's portfolio. There's gonna be more advanced wiring. We also see that, you know, the transistor formation is moving more to the advanced style that kind of moved into advanced foundry logic a few years ago. We're able to take that knowledge, the experience on the tools, the productivity and cost down benefits that we've seen by optimizing those tools and move those into.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+You know, into the DRAM into the next couple years. We start talking about 4F squared and 3D DRAM, again, we see that the materials engineering intensity on those applications going forward is also moving into the Applied space. You know, this is one of the fundamental reasons why we created this EPIC Platform.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yeah.
+## Tim Deane | Senior VP, Applied Materials
+You know, we've announced a number of customers, Samsung, Micron, Hynix, TSMC, last week. Advantest is joining, you know, a partner. We have universities coming in, RPI, ASU, and Stanford. Just this morning, we announced that Broadcom is joining the EPIC Platform as well. They're specifically-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+For advanced packaging?
+## Tim Deane | Senior VP, Applied Materials
+They're specifically-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Interesting.
+## Tim Deane | Senior VP, Applied Materials
+Interested in advanced packaging, these processes today are so complicated, it takes an ecosystem to essentially bring these to market.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+I think there's recognition that partnering in this vehicle, which is, you know, EPIC for Applied, is gonna be a way to accelerate that. You know, our goal is to take what was, you know, a 10-year development pipeline and ultimately cut it in half by bringing everybody into the same facility and co-optimizing, in, you know, in an environment where the innovators are there, the customers are there, the customer's customers are there, industry partners are there, to fundamentally change the way-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yeah.
+## Tim Deane | Senior VP, Applied Materials
+That development is done. You know, from a service perspective, I view this as, you know, the best thing ever.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+Historically when we've done development with customers, we've done a demo, you know, in our facilities, couple wafers or chiplets. Now we're gonna be developing a process with a customer, you know, in a facility where we can put our AIx capability around it, our eco solutions around it. We'll have our service folks there working on developing a foot or a fingerprint, you know, on these brand-new tools, so that when a customer puts it into their R&D facility, we can fingerprint it immediately, bring it up faster, increase speed to market for customers. you know, it's a whole ecosystem from the upfront R&D process, pure research, all the way through how do we optimize it and get it up into production faster for customers in their R&D and ultimately in their HVM facilities.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yeah, you know, I think now is actually a great time to let's focus on your AGS, your services franchise. You know, as the head of Applied Services business, you know, you're in contact with all of your major customers.
+## Tim Deane | Senior VP, Applied Materials
+Yep.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+I mean, what are their priorities right now, and how is the Applied team helping them out?
+## Tim Deane | Senior VP, Applied Materials
+The priority, in a word, priorities are output. You know.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+It's good die out. It's not just optimizing, throughput on an individual tool, it's literally optimizing good die out on every single wafer. We are, you know, we're leveraging some of the capabilities we've been developing over the last 10 years in AGS, specifically the AIx platform, which is Actionable Insight Accelerator.
+You know, this is the way that we bring AI, predictive models, digital twins, recipe optimizers. This is the way that we bring these to customers, in the factory on their, you know, on their tools. We're working very closely with them on, you know, project basis and a contract basis to optimize output and, again, primarily to optimize good die out in this environment. It's great for us given, you know, 2/3 of the AGS revenue today is driven by long-term contracts.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+We've got really tight relationships, with customers and, you know, they're leveraging the footprint that we have in the fab to help them, drive, you know, drive output.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Two-thirds of the business, long-term contracts, and close to high 90s type renewal rates?
+## Tim Deane | Senior VP, Applied Materials
+We publish at a greater than 90%.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yeah.
+## Tim Deane | Senior VP, Applied Materials
+You know, renewal rate when our portfolio in services is pretty broad.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yeah.
+## Tim Deane | Senior VP, Applied Materials
+We have, you know, kind of basic level services, warranty-like services, and then we have managed and performance services. Wh ich we really co-optimize with customers, how they, you know, manage individual tools, and we try to, you know, drive output. When we look at the management performance, the renewal rates are actually quite a bit higher, you know, even on those, on those levels. The stickiness of this because of the value that it provides customers is, you know, is quite high. This is a change that we pivoted to about, I'd say 10- 12 years ago, shifting to more of an outcome-based services, type solution, and, yeah, it's, you know, it's growing quite rapidly.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Your services franchise 20%- 22% of the company's-
+## Tim Deane | Senior VP, Applied Materials
+That's right.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Total revenue, base, very strong recurring revenues as you just articulated. Within striking distance of 30% operating margins. Through the first half of your fiscal year, AGS is driving 17% year-over-year growth. You did raise your long-term growth outlook from low double digits, so the percentage CAGR, to sustainable annual growth in the mid-teens range, right?
+## Tim Deane | Senior VP, Applied Materials
+That's right.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Higher-
+## Tim Deane | Senior VP, Applied Materials
+Yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+At least this first year. What's driving the higher growth outlook?
+## Tim Deane | Senior VP, Applied Materials
+You know, if we look at the business in the sort of the component parts, the contract business continues to grow, and it's growing faster, you know, in the managed and performance space, which is great. That's exactly what we want, you know, with customers because we think that's where we can provide the most value. Those contracts, we are I think our average contract length at the moment's about 2.9 years.
+The sweet spot for us is somewhere in the 2.5-3 year range. We're kind of right where we want to be from a visibility standpoint. It helps us plan better for parts and people and, you know, performance with customers when we're in that range. That piece of the business we're very, you know, happy with. The next component I would say is sort of our on-demand business, and that's on-demand spare parts or if people need, you know, contracted labor to come in and, you know, do some work. That's a little more tied to factory utilization.
+If factory utilization is high, we see the, you know, the on-demand parts going up. That's driven it up a little bit more, you know, in the near term in combination with this continued strength that we see in the, you know, in the services business. The third component of the business in AGS, which we don't talk about too much, is we have a software franchise.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+In AGS. The manufacturing execution system.
+SmartF actory, the CIM system, Applied actually the largest supplier of factory-level software for, you know, for customers. That's a space that we see, you know, a lot of opportunity going forward, particularly as we think about what's happening in the larger market with AI.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+Agentic AI.
+That platform is an opportunity for us to engage with customers in different ways than we have in the past. We actually see strength in all three of those, and that's why we, you know, we think there's an opportunity, I think Gary mentioned in the near term, to be, you know, above that mid-double digit for the, you know, for the year.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Your installed base of tools last 5- 10 years has been growing at about a 6%-7% CAGR. Your services business has been growing up until recently, 11%-13% CAGR.
+## Tim Deane | Senior VP, Applied Materials
+Yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+You're forecasting mid-teens, as we just talked about, going forward. Install base is accelerating. The team is also seeing good traction driving attached to more higher value-added solutions. You talked about things-
+## Tim Deane | Senior VP, Applied Materials
+That's right.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Like AIx.
+I'm wondering how much of this is also contributing to the AGS sort of growth outlook, right? Well, last we got an update from the AGS team, recurring revenue per tool, which is sort of reflective of capturing more value-added capabilities. Recurring revenue per tool was growing at about a 5% CAGR. Has this value capture rate actually gone up due to capabilities like AIx, remote diagnostics, digital twins, and things like that?
+## Tim Deane | Senior VP, Applied Materials
+Yeah. I think the way we look at it is, you know, we have a innovation pipeline that we think of in AGS.
+This consists of these AIx capabilities supporting these IMS tools, which are, you know, different for customers-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+Than an individual tool. Then there, you know, there are other capabilities, you know, cobots and other things that we kinda have in the, you know, in the portfolio that we can deploy to support customers. As we aggregate these capabilities, what we see is, you know, customers are moving, you know, up the value chain with respect to the types of services they're buying from Applied.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+You know, more into managed, more into, you know, into performance-type service because they're getting more value out of it. The other thing I would say that's really important to consider is the process windows today that our customers are dealing with on these really advanced nodes, whether it's memory or, you know, advanced logic, they're really small. I mean, they're very tight. Part of our focus the last couple of years has been to find ways that whenever there's an event that happens in the factory, first of all, we wanna take corrective maintenance events, extend them out. We wanna move corrective to preventive, and we do that with these predictive models.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+That have been created. Because the ability to take a corrective maintenance activity, move it into a predictive means that now we can work with a customer to schedule that so that their WIP moving through the factory, we can look at where there's an optimal time to take the tool down and bring it back up. It's not just basic maintenance anymore, because the process windows are so tight. We created a capability that we call Cross Match, you know, a number of years ago, and we've automated it in partnership with our business units, and it allows us to do a quick fingerprint of the tool before it goes down for maintenance. When it's a predictive model, we know exactly what we need to do. We've got the folks trained to come in.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+you know, do that change. We bring it back up, we refingerprint it, and recenter the process so that you get the maximum amount of time from maintenance event to a maintenance event. This is incredibly important for customers because it allows them to run the tools a little bit longer. In this environment, as I mentioned, output is king and good die out are king. If you're not centered in the process window, maybe your edge die go out a little sooner than they would have in the past.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+Customers are very focused on working with us to kinda optimize that space, and that's where we're seeing a lot of the pull currently, particularly in the contract business.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Got it. We did touch upon advanced packaging. It is a relatively new-
+## Tim Deane | Senior VP, Applied Materials
+It is, yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Dynamic for the industry, right? An incremental growth driver for Applied. We talked a little bit about this, but you know, you mentioned the EPIC partnerships around next generation advanced packaging development. You have a number of memory customers. Obviously, I think they're focused on-
+## Tim Deane | Senior VP, Applied Materials
+Sure.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Things like HBM. You announced, you know, TSMC, which is more the 2.5D, 3.5D advanced packaging. Today, the Applied team announced a partnership with Broadcom, who is also has a plan to bring in some in-house capability on next generation, advanced 2.5D, 3.5D advanced packaging architectures. You've got this plethora of different sort of topologies for packaging, which, in which case you have a big portfolio of tools that supports all of these. Like, how does all of this drive service intensity for the package part of the business from an AGS perspective? You know, and is this a new sort of facet of growth for the AGS team as well?
+## Tim Deane | Senior VP, Applied Materials
+I think it is a new opportunity for us. I mean, we're number one in packaging in HBM.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+We've got a great position in, you know, in 3D.
+SOIC in particular. Those are the two fastest-growing portions of the packaging market as we see it. You know, as those tools go into factories, it creates a new opportunity for us on service. You know, historically, you know, there were sort of front-end tools and back-end tools. There wasn't a lot of overlap-
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+Between the two of them. With, heterogeneous integration, advanced packaging, we're seeing the front-end requirements and that complexity, the sensitivity is moving to the back end. Those customers are looking for support from Applied.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+You know, on the service side because we've got the understanding of how those tools need to be maintained in an HVM environment. I think we're in the very early stages of this as we see, you know, going forward.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+I do think it creates an incremental opportunity for us in the service business in addition to the great opportunity that we have in on the equipment side of the business.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+In addition to the strong revenue growth, that your franchise delivered in the April quarter, gross margins improved 30 basis points sequentially, 120 basis points year-over-year. Operating margins grew 100 basis points to 29%. That's the highest level in over two years.
+## Tim Deane | Senior VP, Applied Materials
+Right.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right? On the gross margin improvements, how much of this is more attached of some of the higher value-added services offerings like AIx, Software Suite, Remote Monitoring, which I assume is gross margin accretive? On the strong operating margins, you're within striking distance of 30%. I know the team has historically thought they could drive AGS operating margins longer term into that sort of low 30% range. Is that still kind of the way we should think about the long-term operating margin construct?
+## Tim Deane | Senior VP, Applied Materials
+Y eah, we think about it two ways.
+You kind of commented on them in your, you know, in your question. I mean, the top line growth is really all about value creation for customers.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+You know, the more value we can create, the more could dial, the, you know, the higher, you know, output from the factories. Customers are willing to do, you know, more service work with us, which, you know, which we appreciate. You know, this really requires deep, deep integration, you know, with the customers, you know, into their factories, really good communication, complete alignment on, you know, what needs to be done in the facilities. As we continue to put things into the service innovation pipeline, those are things that add value. That's primarily driving the top line. The bottom line growth is really all about efficiency. I mean, we have a, you know, a pretty big operation.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Right.
+## Tim Deane | Senior VP, Applied Materials
+You know, $6.5 billion or so, you know, operation on a run rate basis. It's that infrastructure is there, and the more that you put through the infrastructure, the more efficient it is. That's very important. We have continental distribution centers on each of the major geographies. We have three of them around the world. They've all been fully automated now with robotics.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Yes.
+## Tim Deane | Senior VP, Applied Materials
+Stocking, de-stocking, packing, you know, now like 60% of that is done, you know, automatically. It's kind of touch free until it goes into the box. That allows us to increase velocity of material through those. It's more efficient from a stocking standpoint for us, and it's better for customers because we can turn things around with higher accuracy and faster. We, you know, we're pretty relentless about looking about how we drive efficiency into the business, and that's really what's gonna drive, you know, the operating, you know, margins for us. Again, we think about it two ways. Top line is all about value. Bottom line is all about efficiency.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+That's right.
+## Tim Deane | Senior VP, Applied Materials
+It's in this infrastructure. As utilization has gone up in our customers' facilities, we're essentially, and it's not the exact same infrastructure because clearly we're adding, but we're driving a lot more material through that infrastructure, so it's more efficient.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+I see. For the final question, I am gonna tap into your many years of running the, being a part of the semiconductor systems business.
+## Tim Deane | Senior VP, Applied Materials
+Sure.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Now that the team breaks out your semi systems gross margins, it's been a positive surprise for us and for the market, right?
+## Tim Deane | Senior VP, Applied Materials
+Yeah.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Almost 55% gross margins, 35% operating margins for the systems business. Significant improvement over the past two years has been driven, I think, by higher value as you bring new capabilities like IMS to the market. As you look at your pipeline of new solutions, does the incremental system gross margin for your next generation tools carry higher product gross margins? What is the team doing to drive better cost efficiencies of your systems, which could also help gross margins for the systems business going forward?
+## Tim Deane | Senior VP, Applied Materials
+Sure. I think as you pointed out, this is really all about value creation, you know, value creation for customers. When you look at these complex tools like an IMS tool, it's a unique capability for Applied to be able to do this. They're very high value for customers. The other thing to, you know, if you just look at the data today, you know, in the last, I think, three months, we've released five, you know, five really advanced new products. Not just minor changes, but quite, you know, advanced, Trillium being one of them. There's a selective nitride deposition on the precision tool. There's treatment tool for Veeva that was part of the master class. These are all unique capabilities that are helping customers solve really difficult problems, so they've got high value.
+You know, we think, you know, as I think Brice and Gary both talked about, you know, long range, you know, as we continue to see more and more of these products moving out, as the technology continues to evolve, it's gonna be beneficial for Applied overall from a gross margin standpoint.
+## Harlan Sur | Semiconductor and Semiconductor Capital Equipment Analyst, JPMorgan
+Perfect. Well, we're just about out of time. Tim, thank you for the update on the high level, overall business of Applied and, the great insights on your AGS franchise. Thank you very much.
+## Tim Deane | Senior VP, Applied Materials
+Yeah, thanks for having me, Harlan. Appreciate it.
+Data Source: Quartr Last updated: May 20, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

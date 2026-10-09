@@ -1,0 +1,427 @@
+TITLE: 2026 Evercore Global TMT Conference
+DATE: 2026-06-02
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Oh, here. There we go.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Great.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+All right.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+All right. Mic's good.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Welcome, everybody. I'm Kirk Materne, Head of Enterprise Software Research at Evercore ISI. We're really excited to have Mat McBride with us, who's the EVP and CFO of Commercial Products and Infrastructure at Microsoft. Mat and I are going to talk for a while. We'll open up to questions at the end, so just raise your hand. We'll have a mic running around. Mat, thanks for being with us.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah, I'm excited to be here. Thank you for the invite.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+A lot going on across the universe in software and AI. I think I'll start just at a higher level. How are you seeing enterprise IT spending evolve right now? Where are customers leaning in, I guess, versus pulling back? Maybe we'll start there.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah, sure. Look, I think we all read CIO surveys that are published by various entities. I certainly consume these on a regular basis. There are pretty common themes when you look left to right on all this survey data that comes out, and that's that CIOs are really focused on investing in three main areas. Number one is pretty obvious, it's AI.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Number two is security, and number three is digital transformation.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+The other thing that's noteworthy in these surveys is that they plan to increase their spend year-over-year.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Those are pretty clear signals that, again, are shared across most of these surveys when you look left to right.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Okay.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+What we see in practice that's occurring is that customers and CIOs are really setting aside budgets for AI.
+It's not zero sum. They're making hard trade-offs in other areas of their business to invest. I think that they see the promise of it in their businesses, and they're willing to make that investment and make the trade-offs. The one that I think is a little surprising for people is digital transformation.
+I think people want to declare AI the new thing and not really focus on the basics that exist within digital transformation. If you look at where some customers are at, even today, the cost of staying on premise is just going up.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Both in hard costs, things like data centers are more expensive, power is more expensive, servers are certainly more expensive. You look at the cost of memory going up dramatically. Very real hard costs if you're still on premise, if you still have servers that you're purchasing, is a big problem for customers that we see. When you think about modernization, there's where you bring in a whole bunch of soft costs, where if you don't have a modern data estate right now.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+It's very hard for you to get the value out of that data as you adopt AI. Being behind in both of those ways is certainly an expensive proposition, both in hard and soft costs, and we see that really being the phenomenon that is occurring in the market.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah. I guess you sort of led into my next question, was when we think about Azure, for example, obviously everybody's focused on the AI workload portion of that, and we see the explosive growth.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+How should we think about that, though, relative to the digital transformation and what you'd consider maybe the traditional cloud part of Azure, CPU demand and things like that?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I think people think of them sometimes as mutually exclusive versus complementary. It seems like you all see them as much more complementary when you're talking to clients.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+deal with both of those opportunities at the same time versus just have to take them on piecemeal.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+We definitely see it being complementary, not only in just talking to customers, but certainly in the data that we've shared. If we go back to the most recent earnings, we talked about our AI ARR being $37 billion, up 123% year-on-year. That's obviously the AI part of it. If you look at the Azure KPI, which is a mix.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+that's also strong. That's 39% in constant currency terms. If you look at the M365 commercial cloud metric, again, that's some traditional productivity along with AI being bundled in that. That's at 15% constant currency. You look at our database business, we said that our databases are accelerating quarter-over-quarter, and Cosmos DB, for instance, is up 50% year-on-year, and OneLake data is up 4x.
+Again, I'm not trying to just throw tons of data in there, but what we're trying to do to give you all a sense of what we're seeing in the market is this broad-based nature of it where it's very complementary when we look at, say, our RPO balance is another great metric. $627 billion, up 99% year-over-year. We look at what customers are planning to do with that spend because we're working very deeply with them on how they're going to utilize it and those commitments, and we see it's AI, it's all of the traditional services that we've accomplished in the past, along with copilots from security to M365 to GitHub. It really is broad-based, and it's not like it's really long term. If I break that down, 25% of that's going to be spent in the next 12 months.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Right.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+The digital transformation, the AI adoption is happening now. People are committing to us for the long term because we have that breadth of services.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+I think we're feeling good about where we're positioned right now.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+When you think about that breadth of services, I think one of the topics that's come up a lot over the last three months has been.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+CPUs
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+CPUs. The rejuvenation of CPUs to go along with how we've been
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Absolutely
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+talking about GPUs for the last couple of years.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Can you just talk about how you guys think about that from, I guess, not only sort of a demand and revenue perspective, but also in terms of just a planning perspective for you all?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I think these agents have to be managed and controlled on the back end, and telling them what to do might be more of a CPU process, not just a GPU process.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah, sure.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Let's talk about how.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+They kind of complement each other.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Absolutely. It's a great question. Maybe just to break it down, if you think about an agentic scenario, you've got a harness, which is like an orchestration and control set that historically was governing a model. More and more, we're seeing it governing multiple models that do various things within an agentic workflow. Those models, those agents need to perform actions and tasks, and to do that, they need VMs or containers to go perform those functions in an application-specific kind of way. That whole process is stateful. It's stateful in a number of ways.
+Number one is the context that comes in, that's at the time that the prompt is initiated, when the action is taken, as well as the information that's created during the session, and as well as any other contextual information that might exist from a company perspective or from an installed base of code, as another example. That stateful information needs to be stored. It needs to be stored in at least a couple of ways. Number one is it's got to be proximal to the GPU and the CPU because that stuff has to be read and written in a very fast way, both model weights and then the terms that we talked about. Then it needs to be stored as stateful information in databases outside of that. Additionally, there's what we call exhaust coming off of that.
+That's the what did we learn about user intent. It's compliance. It's observability data that tells us what the agent was up to, and did it perform according to task. You have to have a network that is really well integrated to connect all those dots from storage and databases, either blobs or databases, and containers and VMs all the way through to the GPUs and the model weights that are stored on them during the runtime. What I've tried to articulate here is this kind of full stack AI structure, and what I've also described in articulating that is a whole bunch of the Microsoft services that we have-
+that come to bear to accomplish this task. The completeness of the Microsoft offer, when you think about things like Copilots, Fabric, Agent 365, and all of our security apparatus that helps keep all that safe, is the reason why you see so much pull-through. You see a lot of CPU and storage for the stateful and VM runtime I talked about, and you see a holistic approach to AI adoption that brings along even additional PaaS services as well.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah. As we get to a world where people are thinking about more multidimensional agents running across their network, do you think that sort of highlights the differentiation that you guys have? Does that help accentuate your positioning? I'd imagine as people start thinking about agents doing more multiple tasks at once.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+That orchestration layer has to become much more sophisticated, and what you guys bring to bear, again, it'll accentuate your differentiation.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah, agreed. This is a key part of our pitch. When you think about managing an agent, it's very simple when you think about a human. You think about, I give them an identity, and they have role-based access to various things within my organization. I train them on safe and secure things to do, and I have security posture to make sure that they don't make mistakes and accidentally click on some phishing scheme and all these kind of things. You have to apply those at a massive scale to an agent.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Even our DNA that we have from having software and capability to help manage humans in the workplace and applications gets applied to agents and is something that we get to bring to bear in a new way, but is really based off of the DNA that we've had for many years.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah. Take a step back, just in terms of where we are with most enterprises in terms of the agentic roadmap, meaning I think we've all seen that certain use cases in developers, customer service, obviously, there's been some pretty straightforward and good wins, for AI in those areas. Where's your average customer right now? Are they trying to figure out identity management for agents? Are they doing it in sort of a departmental level approach? Just kind of level set, because I think we all have a view of where agentic can go, but I think where it is today is perhaps a little bit different than that for the average buyer.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah. Look, I think baseball doesn't seem like the right comparison because it's a rather slow game, but I'll say the word early innings because the pace of it is moving much faster.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Than the comparison implies. It certainly started with chat and frontier model companies. You saw a really big uptick with consumer companies, and now what we see is more broad adoption of more sophisticated tactics.
+Things like customized models, intelligent data access, workflow modernization as well, and whether that's fully autonomous agentic and kind of asynchronous agentic or whether it's human in the loop agentic, doing instruction sets. It certainly has evolved far beyond just frontier model companies and one model to rule them all into this much richer canvas and Microsoft has great assets to bear as people are moving along on that journey, and we've been spending lots of time with our sales force to help customers figure out how to do each of those things to solve their unique use cases, in deeper and deeper ways.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+What, I guess as a follow-up, if there's a hesitation to move forward with AI, what are the things that customers are saying, like, Eh, I know where I want to go, but I'm sort of hesitant because of security or ROI? I think we did a survey that came out this morning that said security and ROI are the two top things that people are concerned about.
+Which makes sense.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I guess, are there any other things that you're seeing push back or why a customer would hesitate to move forward? I'd just be curious on the things that might be holding people back from more investment, I guess.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah, I think we see those concerns.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+I think we have really good solutions that are available for end customers to meet them where they're at and help them take the next step. Whether that's an out-of-the-box Copilot solution or whether we're going to put a forward-deployed engineer in to go customize a model for your unique data set with your unique culture and information in your company that provides rich context, either for employee experiences or for end customer engagement, or whether it's innovation or efficiency is the goal of the customer. We can come in and tailor and customize the solution to them. We don't see those concerns as being anything insurmountable.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+At all, we've made good progress on each of those.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Okay. One of the questions that obviously comes up a lot is sort of your relationship with the broader model ecosystem, I think Satya's been very open about your views on this, but maybe just you could sort of reiterate where you guys are, how you are trying to position yourself with the other frontier models, what you guys are doing internally in terms of first-party models as well?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah. Sure. First of all, we're really grateful for our partnerships with the frontier model companies. They've been well written about.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+and sometimes not well written about in the press. We are definitely grateful for the partnerships we have there, and certainly, our especially deep partnership with OpenAI. We've got access to the IP, we do all the things. Our strategy is very clearly to be multi-model. We see a world where, in the past, we were talking about which model is the leading model.
+It was ChatGPT, then Gemini, then Anthropic. People are leapfrogging back and forth, and we think that's going to continue. More than that, what's going to happen is that more and more custom models are going to be built for specific use cases. We're going to have best-in-breed industry models and, more and more, when I was talking about the agentic workflow, you're going to have a harness orchestration that is managing multiple models doing similar things at once. We use this today in our Copilot product, where we have a council of models. We have an auto model selector that selects which model is the best model to use for a given action, a given prompt.
+We do that with measuring quality, of course, of the output, but also, really importantly, measuring the cost of the output, so we get the same value at a lower cost. We're doing that with other people's models, and we're doing that with our own models. We've got at least a couple of models I'll talk about, and there's a bunch that we can't talk about. We have a transcription model that's got the basis for transcription in all of our Copilot functions and, that is world-class transcription at a fraction of the cost of other leading models in the space. We have the same thing going on with an image model that we released. We're going to continue to innovate on top of OpenAI IP and customize those models.
+Those are models that we have deployed today underpinning our existing Copilot workloads, and we're going to develop clean lineage models with our current team that we've got under Mustafa Suleyman.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Again, our ethos is very much multi-model. We expect that to be where it goes long term, and we're doing that in Copilots with selection and auto capabilities. We're also doing it in Foundry. We have the broadest selection of models available than any hyperscaler. The data show that that's resonating with customers. Over 10,000 customers are using more than one model. 5,000 customers are using open source models. The number of customers that are using both Anthropic and ChatGPT at the same time is more than doubled in just one quarter.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+We see it. It's the phenomenon that we believe in and that we're betting our strategy on.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+When does a customer come to you and say, You guys handle the model complexity for us on the back end? To some degree, that's the idea, which is not every action in an enterprise necessarily needs a frontier model performance.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Exactly
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+to complete that action.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yep.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Is that discussion happening even before they dive in? Is it sort of like, Look, we've tried one model out, and now we want you guys to come in, and as we scale it, to have a little bit more flexibility about the model. Can you just talk about it? Because I think the concept makes sense, but as you see some of these
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+companies growing amazingly fast.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I think people are like, Well, aren't they getting cut out of the conversation? I'd be kind of curious when they come to you guys about like, Now look.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+to have a little bit more of a multi-model-
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+purview as I push forward.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah. I don't know if this showed up in your survey that you were just talking about earlier, but the other thing that people are very concerned about is the cost.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yep.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+I think most customers who've let teams run amok with premium models at premium cost have found themselves in a concerned spot from a budget standpoint.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+This is something that we hear from customers. Most of them have an experience with this.
+We certainly have it internally at Microsoft as well, when you kind of blink and the bill comes in, you're like, oh my gosh, you just burned so many tokens.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+You used them on very remedial things, and they were premium tokens at a premium cost. We see a lot of that from customers that are coming to us and saying, Help us manage this. When we go and, within our application space and within the various studios we have and platforms, we make that transparent to the customer. You can manage your costs. You can make selections. You can set policy about what your users can use.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+within that so that you can manage cost. Again, if the quality's there, it's just more value. We think that that's going to be increasingly important, especially as more and more customers have had these experience with runaway costs.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+people try and token max-
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+within their organization.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+No token maxing at Evercore thus far, that I'm aware of.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Oh, yeah.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+It's good. Let's toggle to Copilot a little bit. Really nice sort of, I think, trend lines last quarter that you guys talked about. Can you just talk about where you're seeing success in Copilot in terms of the clearest ROI for some of your customers right now? You have some pretty big examples, whether it's Accenture last quarter.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I think there's a perception that Copilot's not delivering what people want, and I think that might be not only how the customer's using it, but maybe in the way in which they're using it in terms of a certain, say, use case or ROI profile.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah. The way I would simply think about ROI is ROI is tied to the higher value that gets delivered as we progress beyond basic chat to more complex task actions and agentic scenarios. We have what we call the Work Trend Index survey that we publish on a regular basis. What we see in that Work Trend Index from surveyed customers is that we see a real uptick in the number of customers that are seeing high-value work done from Copilot.
+This is with the launching of Copilot Cowork and other things that we've delivered. They're seeing that value expand as we've improved the product rapidly over the last year. Really this high-value concept is just allowing end users to do something that they weren't able to do before or that took them a lot of time to accomplish. Maybe just to articulate the point, I'll share an example from my own team. It's no secret that we've had capacity challenges over the last year. We've predicted kind of emerging from those capacity challenges over, only to later say, actually, we were wrong. The demand continues to go up, and that's a great problem to have. I'm spending a lot of time on capacity with my team.
+Over a weekend, one member of my team using Copilot Cowork really asked herself the question about where she could find opportunities to better match supply and demand of underutilized resources. She, using Copilot Cowork, she wrote code to bring together demand information from a disparate system, server information from another system, utilization from another system, and married them together, massaged the data, and identified with that agentic workflow patterns that we could take advantage of. She didn't stop there. She made a live dashboard by linking up all those data sources so that when we came into work Monday morning, and this is just amazing work, we had something we could pitch to engineers that they could validate within a couple of days, and we had something that we could pitch to sellers.
+That they could go utilize to generate revenue. By the end of that week, we were already talking to end customers.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+That's amazing.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+about new capacity that they could have that they've been saying that they needed to be able to grow their business. This is, again, somebody who has a finance background, MBA degree, doesn't code, and suddenly became a developer driving real value. It wasn't just about efficiency. It wasn't about replacing humans. It drove real ROI in the form of additional revenue growth that was measurable. That's an example from my team.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+We've got more examples within Microsoft. This power has been unleashed because we've been innovating on Copilot for some time.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+than it was 90 days ago. We've launched over 625 new features, major features that are up 50% year-over-year. More and more customers are adopting more and more agentic workflows. It's just been tremendous to see. We see the same thing happening in GitHub Copilot. We see the same thing happening in Security Copilot. We've just launched a new capability called MDASH that is like people have heard about Mythos. It's a way to identify vulnerabilities in code end-to-end, do that in an automated way, and that's delivering new value and new ROI, in the form of bug checks and code checks and security vulnerability remediation that just didn't exist before. I just think that the ROI story is just getting so much stronger with these real, tangible examples and real tangible scenarios, and more and more customers are experiencing them every day.
+I could go on and on from other customer examples we have, but I figured the one that's near and dear to my heart that was just literally the last three weeks of my life has been very transformational for our team and for Microsoft.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I'd love to pull on that string a little bit in terms of, I'd imagine part of the reason this person was successful was she was authenticated to be able to go out and get the data.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+The data was in a place that she could go get it.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yep.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+You all obviously have solutions that help along both those lines.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yep.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+How far along are most customers on that? I think to some degree, the ROI that she was probably able to bring to bear was due to the fact that.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+your security posture allowed her to go do this, your data posture allowed her to have access to the data that created that. It seems like Copilot's ready to be very ROI intensive if you have a couple of these other sort of factors figured out.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I guess when you think about customers, is almost like security, a prerequisite for getting people to get really strong ROI on Copilot? If you're not authenticated to go get the right data, then it sort of shrinks your purview of what you can do. I was just kind of curious.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+We think about it internally, I can't go run around and figure out anything. Evercore's data has to be segmented by where.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+we are in the organization. Where are a lot of your customers on that?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah, absolutely.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+argument for your security offerings and purview and things like that as well.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+I think the data modernization story has been really core to, and I mentioned that at the beginning, to unlocking the value of AI. The example, as you point out, really articulates that super well. There are a number of things that you have to stitch together, and this is why the pitch for Microsoft is so good because customers deal today with fragmented point solution data silos, systems that don't speak, don't have a common security profile as well. They really see that, like in this example I gave, that there's just tremendous value that can be unlocked when you do that. This is why we see a lot of good traction with Fabric.
+Fabric is this kind of unifying layer that brings together. We talked about our OneLake data being up 4x year-on-year. It really kind of underpins the capability because it sits under this agentic workflow. We used Fabric to do all the dashboarding to create the analytics in the example I gave. You have a security posture that says, What are all these role-based access controls for all the data? That comes together in this seamless example. This is why customers are choosing Fabric. We've seen great uptick on Fabric. The data is very strong. Yeah, we're feeling really good about that joint story together along with the security.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Okay. I have a few more for Mat, but if anybody has a question, raise your hand and I'll bring it in. I don't see anybody right now. I'll keep going. One of the questions we get a lot is how do you think about the margin profile of sort of the AI.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+part of Azure versus traditional CPU? I realize, as you mentioned, we're so early on in this, the numbers today aren't going to be necessarily where we are in a few years from now. How should people think about sort of the long-term?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+margin profile of an AI workload with a GPU relative to kind of where we are on the CPU side, right?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah, it's a super important question and one that I'll start. I've been with the company 20 years, and I've had this job working on margins for nine years now, after being kind of CFO of various divisions and products within the company. It's been a really fulfilling journey. When we first started going to the cloud, it was very interesting. We talked about CapEx at that time was like this crazy large number, and it's kind of we laugh at that number now in retrospect. We launched these new cloud services, and they were wildly inefficient. They were very negative GM. I won't quote any numbers here.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+for the sake of it. What we did is we built basically a frame that said, Let's break down the problem into its constituent parts. We understood fixed cost leverage. We understood data center. We understood the silicon stack, the network part of it, the fabric layer that connects all of it together, and then the app stack that sat on top of it. We built what were best-in-class goals for each of those functions. Then very methodically, we committed every team, and we went to the board and told them we were going to go develop that trajectory over a multi-year period. Then we gold teams and just relentlessly chipped away at these gaps, semester after semester, fiscal year after fiscal year.
+We developed that over time, where we had multiple franchises on a common cloud that, prior to AI, was kind of in that kind of 70%-ish range gross margin. Now that was the prior transformation, and now we come to the current transformation. The same thing is playing out in the near term, where you have AI infrastructure that is operating and we're learning more and more every day. It is having a kind of downward trend impact to what is the underlying strong health of a cloud that is at high margin. That's being partially offset by more efficiencies where we've been generating in the near term to even if we didn't have AI, it would've been even growing continuously still.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Right.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+We just have built this muscle to relentlessly hill climb and to go semester after semester after semester. As we look in the mid to long-term, what we'll be doing is continuing to make progress on model efficiencies. We've shared some of those in earnings in the past. We've talked about more efficient token use of 50% in the last quarter. We'll continue to develop our first-party models that will do unique things at lower cost for us, and also compete on the frontier. When we look at our stack within the data center, we're going to continue to innovate there. We're going to continue to improve our supply chain. We've improved our dock-to-live times by 20% year- to- date.
+We deliver our Fairwater AI data center early this last quarter, which generated additional revenue, and so we're going to keep relentlessly pushing on that. On the silicon side, this is something where we're really excited. Our Maia 200 silicon is now live in two data centers. We're seeing really great signs. It's 30% more cost effective at similar performance with leading silicon in the market. We're going to aggressively ramp that over time. That will take years to infuse into the data center, but great early results there. Our Cobalt silicon, which is Arm-based chip, is doing very well. It's deployed in the majority of our data centers. It is ramping super fast. We have frontier model companies building their AI tools on that chip. We have other companies, names you know, like Databricks and Snowflake and Siemens, that have adopted the silicon at scale.
+We're going to continue to leverage that and use it throughout both our first-party products as well as with end customers. We'll continue to ramp that silicon. Lastly, we have a custom network chip that we have now deployed on millions of servers that is helping us be more efficient with optics. We'll continue to innovate there as well. I could go on and on and on.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+I'll stop there. We're going to just keep plugging away at these core elements like we've done in the past. We're going to keep doing that over the long term, and we feel good about what we've built, the muscle we've built, and what we've demonstrated to investors and to ourselves over many, many years that we can go hill climb, and we can make this happen, and we're committed to going and doing that as we scale AI infrastructure so that we can go compete as the world shifts so dramatically and at a fast pace.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Is the muscle from a silicon perspective a little new for you guys?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah. Of course.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Are you seeing the right progress on all those initiatives to feel good that that muscle will grow? I guess.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+concert with the one you built on the software side that obviously also has a lot.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah. As a grinding finance guy, my only answer to that is it's later than we wanted.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Okay
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+all those kind of things.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+It's hard work. Silicon design is challenging. We've got great developers and engineers who are doing amazing work. So we're happy with the progress. We're excited about it. I just wish I had way more of it in the data center. So we're going to continue to work with the supply chain to ensure that we can ramp that as fast as possible, but in a thoughtful and responsible way.
+I think Cobalt is just go, go, go on that. It's a tremendous chip, and the early read on its use cases, I mentioned earlier with AI, are very good. Because of the way it's architected, it handles memory super well with agentic workloads, and so we're very excited about that.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah. You mentioned it earlier, obviously capacity is always a challenge it seems.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+like for everybody right now. Obviously Fairwater went live earlier than you expected. I guess, can you talk about capacity both at a higher level? I don't know if you can get into it also because I think people think about it almost only in the U.S., whereas I think capacity international is another whole dimension you guys have to deal with being a-
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+a global company. I guess how you feel like you're doing against it.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Sure.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Where would you like to be if you can talk about that a little bit by, say, the end of the year?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah. Sure.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+on a specific basis, but just generalized.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah, great. We're building our cloud and bringing it up at a faster pace than we ever have before. We added a gig in each of the last two quarters. That's a lot.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+for people who aren't used to this. A few years ago, we were mid-single digit gigawatts of our entire cloud. We added two gigawatts in the last two quarters. We're on pace to double our capacity within two years. This is tremendous pace. I spend a lot of my time just working deals on acquiring land, on acquiring leases, and even in some cases, we've had to pinch our nose and borrow GPUs from some of our competitors and some neo- clouds. We've done that because we have a very, very strong demand signal, which governs how we think about the CapEx spend that we talk about, and we've got to be as efficient as we can.
+It is very clear that capacity is the currency that we're going to be able to both deliver value as well as create the new innovation that will determine how we are able to monetize that infrastructure over the next five, 10, and 15 years. When we talk about the demand signal, this is the point we keep making about when we give you the split between long lead assets and short-lived assets. Two-thirds of it was short, I think is what we talked about in the last quarter. That's not just GPUs. It's GPUs and CPUs and storage. We're having to work super hard in the entirety of the supply chain to ensure that we have all the right components, because something as simple as a power cord could be the difference about whether you could monetize something or not. It's very complex.
+It's thousands and thousands and thousands and thousands of parts that you have to predict from a demand standpoint, what you need, where you need it across many regions. We have the most regions globally than any other company, and we have to be able to manage and predict that at a very precise level. We have armies of PhDs using amazing AI techniques to do that. Even then, all I've ever been on this prediction, as you all know, is wrong. I'm not going to say I'm very good at it. We're being thoughtful. We're taking the signal. We have a strong demand signal, we're learning every day about how to take the new constraint, the next constraint, and solve it and manage it and deliver the capacity to customers.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Okay. We have a few minutes left. Does anybody have a question for Mat? Happy to bring in some of the audience. If not, I got one more. All right. I will keep going.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Great.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I guess, to follow up on your last point, the demand signal.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Sure.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I think there's some question on everybody's building out all this new AI infrastructure. When you look at the demand signal, how do you get confidence that it's durable? Obviously, you have your RPO.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+You know that's coming. In terms of talking to customers and knowing, we've talked about them being in the early innings, so that's helpful.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Sure.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+What are you seeing, I guess, in the sales pipeline, the sales conversations, that when you're building out all this AI infrastructure, that you feel good that not only are you going to fill up what you're buying today, but when you're thinking about building a new data center, five years from now, that demand continues?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Right
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+to grow into the capacity you're building?
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+There's a lot of ways we think about it. First of all, you mentioned the RPO balance. That is the prime signal. We're certainly leveraging that to say this is a durable commitment to the Microsoft cloud, and that's going to generate returns, and we can build against that signal for sure. The second thing is when we talk about the app patterns, I mentioned the example of how an agentic app pattern works. We learn from those because we are on the front edge of how that's being delivered and how users are using it, and we're seeing how the returns are being generated for end customers as more high-value work gets done, which then reinforces what we need to go do, what we need to go build, what does it look like.
+We wouldn't have predicted just six, well, maybe a little more than six months ago, the sheer explosion we've seen in compute and storage. It makes sense when you look back at the app pattern. Maybe we should have predicted it. That is certainly something that we are leveraging to learn and secure our perspective on the demand signal and give us confidence that we can go achieve it. The last thing I'll say is if you looked at our earnings scripts over the last couple of quarters, you'd see one word pop more frequently than it did previously, and that's the word fungible.
+When we go put capital down on a piece of land and secure power for that land after 2030, I'm thinking in the world of options, right?
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+I can turn that into lots of different things. If I improve the property, it's an asset, it has value, and as the app pattern changes, as the demand signal changes, I have lots of ability to flex and adapt that capital I've already deployed, and then delay capital if I had to, and in some cases, accelerate. We think about starting from a fungible set of data centers and patterns to build out the Microsoft Cloud. Even when you have liquid and air, and you have slightly different form factors, you can build fungibility in the design where you're late binding as much as you can, and then you late bind a server signal, and you late bind a kit signal, and a GPU is your most expensive thing that you put in there, and you can always delay that if the signal's not there.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+I know.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+We build that flexibility in the way we approach the decision-making and the way we deploy the capital, and that gives us confidence that if we're wrong, we can make adjustments. Unfortunately, when you're wrong and you plan to build and you don't have enough, you have to go lease, and then if you don't have enough leases, then you have to go rent.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Right.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Because no one would've predicted the type of curve that we've been seeing.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+we've had to do those things as well. We'll be pushing more and more over time to things where we control the design, where we control the unit cost, and where we have the ability to adjust and manage based upon the nature of the CapEx spend and the fungibility of what we're building.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+When you talk about fungibility, just follow up on that. I think the fact that you have a fairly diverse set of businesses also plays into that.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Absolutely.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Meaning-
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Xbox has to be global. To the extent that you build out something in a region that might not have as much agentic demand, there's an opportunity to use that more often. I think fungibility, I think about it as the type of data centers, what you're putting in the data center, but also fungibility from a business line perspective.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Absolutely
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+helps for you all.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Yeah. You think about when you're building a demand signal, you have to think about peaks and valleys, and what do you do to fill in the valleys, and how do you build peaks, and how do you shave off the peak by having more efficiency?
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Yeah.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+We're constantly trying to plan that and fit in the complicated Tetris of how do you think about an agentic workload that's batched running, that's a long-running agent sitting in the trough of something where you have a peak synchronous u ser in the loop agent scenario. You're using the same capacity, and you're being really intelligent about how you fit it and how you work it together. You might charge differently if you want something that's happening immediately versus something that you can batch over a long time.
+T his is going to continue to evolve. We're going to be at the forefront of being able to look at the diverse app patterns as well as the unique patterns that are emerging from the workloads that we're seeing from, again, being with customers and seeing what they're doing. I think that all bodes well for our ability to compete and do it intelligently in the future.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Awesome. Well, we're at time. Mat, thanks very much for being here. Really appreciate it.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Thank you so much.
+## Kirk Materne | Head of Enterprise Software Research, Evercore ISI
+Thanks, everybody.
+## Mat McBride | EVP and CFO of Commercial Products and Infrastructure, Microsoft
+Appreciate it.
+Data Source: Quartr Last updated: Jun 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,668 @@
+TITLE: Whatâs next with AWS
+DATE: 2026-04-28
+## Operator | 
+Please welcome the Chief Marketing Officer and Vice President of worldwide marketing for AWS, Julia White.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Hello, welcome to What's Next with AWS. Thank you so much for joining us here in the room and, of course, across the world on the live stream as well. It is very clear that we are in the agentic era of AI, and while it's certainly still early, evolving quickly, it's becoming abundantly clear that agents will have a profound effect on how we all work. Today, we've got a compelling set of conversations to have on this topic, and of course, several exciting announcements. Without further ado, we're gonna go ahead and jump right into it. To share off the top with his very unique perspective, please join me in welcoming the CEO of AWS, Matt Garman. Welcome, Matt.
+## Matt Garman | CEO, AWS
+Thank you.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Thanks for joining us here today.
+## Matt Garman | CEO, AWS
+Yeah. Hey, everyone. Good morning.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Awesome. All right. Now, back in December, all the way back in December, if you remember then, I was looking up, and you talked about heading into a world of having a billion agents.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Curious, it's been almost six months since then, like how do you feel? Do you feel like that's still true? Things changed?
+## Matt Garman | CEO, AWS
+Yeah. I think we are well on the way to there. In fact, if anything, I think things are moving even faster than we even expected. I think across almost every single industry and every customer I talk to, agents are absolutely exploding and changing the way people do business, so super exciting.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Still on track, $1 billion or more.
+## Matt Garman | CEO, AWS
+We are. We'll get there.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Awesome.
+## Matt Garman | CEO, AWS
+Exactly.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+All right. Now, one of the things is we've been working with agents more and more, obviously. I think the thing we've seen is that it really fundamentally changes the constraints, right?
+So much of business has been about managing constraints, but when agents can, you know, run 24/7, they can work on behalf, they can work in the background, it changes those constraints. I was interested if, you know, how do you think about now, like with that, what becomes possible that wasn't possible before? Just thinking about how to run the business with different kinds of constraints.
+## Matt Garman | CEO, AWS
+Yeah. I think it's a super interesting question to think about what didn't used to be possible, but now is. I think if we look across, even if we just look across kind of AWS, what we provide for customers, take something like customer support, where when something goes wrong with a customer environment, the thing that they care the absolute most about is how do we help them fix it as fast as possible.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right.
+## Matt Garman | CEO, AWS
+Previously, and even today, we have large swaths of people, and our technical account managers would jump in and help troubleshoot with customers. We've launched things like AWS DevOps Agent, and what it allows us to do is much more rapidly get to the problem that customers are experiencing. We can troubleshoot autonomously. We can actually identify when there's problems ahead of when customers even recognize it and pinpoint when there's and where the root cause of that problem is and help them solve problems faster.
+Now, as opposed to customers thinking about how do I solve problems when they happen inside of 15 minutes or 30 minutes, it's literally minutes to seconds or even sometimes proactively identifying when there's gonna be a problem.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right
+## Matt Garman | CEO, AWS
+... to self-resolve those issues. Now our teams can actually free up their time as opposed to helping customers troubleshoot problems, to thinking proactively about how can they better architect their systems.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah
+## Matt Garman | CEO, AWS
+how can they lean into new technologies, how can they build new capabilities because they're not spending so much time on kind of troubleshooting issues and things like that.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah. You know, as in my area, right, I was looking at the Amazon Advertising area.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Usually like an ad buy would be $100,000-$200,000, take six months to get to creative.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+With their new agent, I was looking at actually now it comes down to like the point where small businesses have like a 300% growth in small business adoption.
+## Matt Garman | CEO, AWS
+Yeah
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+it's just so much more capable.
+## Matt Garman | CEO, AWS
+Yeah
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Constraints of what used to be hard and expensive are no longer the case anymore.
+## Matt Garman | CEO, AWS
+Yeah. Yeah. We're actually seeing that not just inside of Amazon.
+We're seeing that across our customers. Take somebody like WellSpan Health. It's one of the largest hospital systems here in the United States, and they are really pushing the envelope of what's possible with AI and agents. They have agents doing all of the administration that you might expect happens inside of a hospital, things like documentation or monitoring or helping schedule patients or doing kind of that routine patient communication. This is freeing up tons more time so that their staff can actually focus on the thing that hospitals are supposed to do.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Matt Garman | CEO, AWS
+Like take care of patients, have bedside manner, make sure that care is happening in the way that it should.
+Actually thinking of more ways that they can take care of customers, which is super interesting, and, I think it's a, it's a great opportunity. You can also take somebody, like in the insurance industry.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah
+## Matt Garman | CEO, AWS
+right? Where insurance companies are thinking about the entire end-to-end workflows of how they can process claims in a much faster way. Allianz, as an example, one of the largest insurance companies in the entire world, is using agents to automate that entire process. They think about claims processing, things that used to take, as some of us know, insurance claims often will take 80, 100 days to go through that process. They've actually reduced that process by 80% by using AI and agents all built on AWS to make sure that auto verification, they can say what you're eligible for, they can get rid of fraud, and they've actually been able to lower costs and speed things up for customers.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Good. I love the theme on, like, what's possible when the growth.
+## Matt Garman | CEO, AWS
+Yeah
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+right? Which is great. You know, we both read the headlines.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+There's certainly a lot of focus on AI agents and how they're gonna replace jobs and what it means for people and their jobs. I know that can sound in moments hyperbolic, right?
+## Matt Garman | CEO, AWS
+Yeah
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+... energy on this topic. I wanted just you to hit it head on. Like, what's your perspective?
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+What do you see?
+## Matt Garman | CEO, AWS
+Yeah. I will say, I get that question and, you know, at least for us. We have, take software development as an example.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Matt Garman | CEO, AWS
+People say, like, "Okay, it's great that AI and AI agents are improving what we can do inside of the software development world, are software developer jobs going away?" Can tell you we are hiring just as many software developers as we ever had inside of Amazon. In fact, I see the demand for that really accelerating. I think as we think about where AI really takes off and where agents can help free us from kind of the monotony of the repeatable parts of our task, it's really about leaning into those new things that we can do.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Matt Garman | CEO, AWS
+Thinking about what's possible. I see many more opportunities for job growth in new areas, and for new capabilities, frankly, than we have before. I think, you know, look, the jobs will be a little bit different, right? As an individual, people have to be thinking about, you know, how do you really own the key outcomes, right? It may be that it's true that potentially being an expert at, like, being able to author a Java code.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Matt Garman | CEO, AWS
+snippet is gonna be less valuable in the future than it was maybe a couple of years ago. Understanding how to author applications, understanding how to solve customer problems, thinking about technology and how all the pieces fit together is more valuable than it's ever been. If you're a salesperson, what we're thinking about is how do we use AI and agents to automate a bunch of the pieces where it's like, how do you make sure you load your opportunities into Salesforce effectively as opposed to freeing up our sales people's time to have more time to spend with customers, more time helping customers, more time explaining how customers can get value out of the cloud.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right.
+## Matt Garman | CEO, AWS
+I think so that the nature of every job is gonna change, but it's not that jobs are going away. It's just that the high-value things we're gonna be able to do more of.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah. When I was looking at the U.S. Bureau of Labor Statistics.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+right about tech jobs, as you said.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Looked like they're over adding over 300,000 tech jobs and growing at 2x the rate of other fields.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+To your point, like. Also I did do a fact check.
+Across Amazon, we're on track to hire over 11,000.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+SDE interns in early career. I know you get that question.
+## Matt Garman | CEO, AWS
+Yeah. Yeah, it's pretty awesome. Exactly. Amazon is hiring 11,000 new SDE interns and full-time employees this year. Like, that is not jobs going away.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right. It's an important area that we're gonna continue to invest in. Now you get the chance at your, at your seat to look across all things happening.
+at Amazon.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+I'm curious, what are you seeing across the company? We're obviously an operating company and a tech company.
+How are we using agents and how it's helping and changing Amazon?
+## Matt Garman | CEO, AWS
+Yeah. Well, look, the first one is in software development, and I will say that AI and agentic development has completely transformed what is possible in the software development world.
+It really is just incredible, both in creating software, in operating software, in kind of doing the entire software and in thinking about security. That entire software development life cycle has been completely changed. We see teams who are, you know. Previously, you would have, you'd have a product out there, and you'd get feature requests, or you'd get bugs filed, and the teams would go, you know, if they were really on top of it, maybe within a couple of weeks, they would get a bug filed out. I was talking to the team the other day. They had a bug report came in, via one of their social channels. They looked at it, fixed it, and got it out inside of 20 minutes. Just, like, the latency at which the things are changing is just incredible.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Matt Garman | CEO, AWS
+You know, I think that is unbelievable how fast you're able to invent and how fast you're able to go build things. It's interesting we say about, you know, is AI taking away jobs. I actually see the exact inverse. When I talk to companies here in the Bay Area, when I talk to the teams at Amazon, they actually find that they're able to attract SDEs, and when the developers are coming to interview for jobs, they wanna know, am I gonna have access to the absolute latest development tools? Am I gonna be able to use Kiro and Claude Code?
+In some places they're saying, like, "What is my token budget as a developer, and am I gonna be able to move at the speed that I need?" In fact, at Amazon, we try to make sure that those token budgets are largely unlimited so that our developers are unblocked by technology. I think that desire to be able to build fast is really pretty awesome.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah. When I think across, you know, whether it's Prime or even one of things I saw was we overnight took the entire intranet. We have.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+almost 1 million, over 1 million employees, right?
+## Matt Garman | CEO, AWS
+Yep.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+We just turned it into an agentic first experience.
+## Matt Garman | CEO, AWS
+Yep.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+It took off, and people are like so happy and so delighted, and it's like a simple thing, but it changes the employee experience and, you know.
+## Matt Garman | CEO, AWS
+That's right.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+massive scale
+## Matt Garman | CEO, AWS
+That's right. Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Very quickly on that front. All right. Now, in terms of, what we've been building.
+Obviously we've been working with agentic technology for over a year now.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+You get to also see what, like, lots of customers are doing.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+I feel like we kind of have a little of a front row seat. I wanna share with others, like, what learnings, maybe what mistakes, what's just evolved that's just different now as the years gone on?
+## Matt Garman | CEO, AWS
+Yeah. Look, that's a good question. I've been at now at AWS for almost 20 years. I think there's some super interesting parallels to the world of AI and agents today from actually when we started in AWS. If you think back to when the cloud first came around and when AWS first launched, one of the interesting patterns that we would see from customers is they would take the exact same thing they were doing in their on-prem data center and try to do the exact same thing in the cloud.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right.
+## Matt Garman | CEO, AWS
+You know, we'd get questions like, "Hey, are your EC2 instances, do they have five nines of availability?" We're like, "No, you don't need to worry about that. If your instance fails, you just launch another one. You scale horizontally, you think about serverless, you think. There's a whole bunch of different things, and people kind of had to change their mentality about how they. People would think about, "All right. I gotta really think about the infrastructure I need for this project." We would tell them, "Look, just launch it and run it and see if it works, and if not, you shut it down." Then that mentality had to change about how you think about things. In some ways, you see that today with how people are thinking about AI and agents. They're taking, like, "Okay.
+I have this business process. I'm gonna have agents do the exact same thing that the humans do.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right.
+## Matt Garman | CEO, AWS
+Like, I'm just gonna go redo the workflow and have an agent do it instead. It's fine. It kind of works in the same way that moving an on-prem thing into the cloud worked, it doesn't give you that transformational change. What I really see is that when teams are thinking differently, when businesses are thinking about how do these workflows completely change? How does the whole application that I've built change if agents are doing it? Does the data change? Do the access patterns change? Does the UI and the interface change? All of those things.
+I think that is one of the key things that, the learnings is that when those customers are really completely changing what is possible, and then they start to really iterate quickly, and then they start to learn, and they start to invent new processes. I think that's where that real opportunity for new business is for customers, where they're reinventing every application, every workflow out there. It's really having to reinvent that.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right. I see that as well. Like it's common to. Maybe it's a good first step to.
+infuse agents into what you're doing.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Ultimately, that's not where you get that 5, 10x.
+## Matt Garman | CEO, AWS
+That's right.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+... experience.
+## Matt Garman | CEO, AWS
+We've seen it inside of Amazon, where we see some development teams that are, you know, inching along and making changes, but we see some that are totally transformational. Take somebody like the Prime Video team-
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah
+## Matt Garman | CEO, AWS
+... as an example. They had a financial system that allowed them to pay their various partners when assets and creative was used, and they had to rewrite that to modernize it, and it was in a program that was going to take two years. If they just kind of redid it. They rethought what was possible. They said, "How do I remake this system so that it's better for customers, it's better for us, it actually is better for our partners. They get paid faster. Using agents, how do I not think about just sitting there and rewriting the code, but having agents go rewrite the code?" Instead of this taking 2 years, it took closer to twotwo quarters, and they did it with just a handful of people.
+They made something that was meaningfully impactful to their business and changed how that whole ecosystem worked. You can both do things faster, but you can also kind of change those business processes for the better.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah. All right, I wanna stay on that point.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+There's a lot of headlines, there's analyst reports right around what agents mean for kind of SaaS, B2B SaaS applications particularly.
+actually, we've seen market valuations change.
+## Matt Garman | CEO, AWS
+Yeah
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+based on some of those proclamations. You always have a very unique perspective, knowing that so many of the world's SaaS applications run on AWS.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+You also deliver your own solutions too.
+What do you think? Like, were the headlines right? Were they not right?
+## Matt Garman | CEO, AWS
+Yeah. Well, first of all, SaaSpocalypse is a fun word. I get that people like that word. I think it probably is a little bit overblown, honestly. What I mean is, I do think that almost every single one of those SaaS applications is gonna be rewritten-
+... for the AI and agentic world. That's absolutely true. The incumbent providers today have such a huge advantage. They really do. They have deep domain expertise. If you talk to the folks at Workday, they didn't just like toss out an HR application and then hope it got traction, right? They deeply understand what are those workflows, what are the things that talent agents or talent groups inside of companies are trying to accomplish. They've built a bunch of that knowledge over time.
+If you think about what goes into really understanding inventory management in a, in a manufacturing setting, and how all the supply chains hook together and what the various codes mean and how you think about demand plan. A lot of that is deeply ingrained knowledge inside of these companies, so they have an incumbent advantage. They have a large customer set with all of their data. Now, if all of those companies stick their head in the sand and don't go innovate, I 100% agree they're gonna be passed by, and someone else is gonna build something new. The good news is, if that happens, yes, that is, their valuations should go down. They have a really big competitive advantage to actually expand where they are.
+I think if you look at some of the leading companies, take somebody like a Salesforce, where you saw a couple of weeks ago they announced a headless version of their offering. It's pretty awesome. They realized that in an agentic world, it's not the UI that's differentiating, it's the workflows, it's the data behind it, and they built a product that's purpose-made for the agentic world, where they can actually do more in that and actually make themselves more valuable to customers in that world. That's a great example of how the incumbents don't have to be legacy. They can actually lean forward and be the innovators in that space.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Matt Garman | CEO, AWS
+I think it's, and it's a huge opportunity.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Agreed, good to see them moving fast and adapting.
+## Matt Garman | CEO, AWS
+Yeah
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+in that way. All right. Let's get into some of the announcements we're gonna talk about today.
+## Matt Garman | CEO, AWS
+Great.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+The first one, is something that honestly, I've literally never seen this much, like, excitement and energy from the early adopters.
+That's our new Amazon Q desktop experience that will be available in preview today. Very excited about that.
+I know you've been using it too.
+## Matt Garman | CEO, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+You've been one of our early adopters.
+## Matt Garman | CEO, AWS
+I have.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+You have firsthand experience. Like, what makes Amazon Q, this new experience, such a game changer in your view?
+## Matt Garman | CEO, AWS
+Yeah. It's, you know, like when I talk to a lot of, I get to speak to a lot of CEOs and leaders of companies.
+What they often tell me is they love how AI is really transforming what they do on the software development side.
+They wanna get AI in the hands of every single one of their employees, and they wanna figure out how their employees can unblock themselves to go build small agents to help them with everything that they're doing in their daily lives. Q is exactly this. Frankly, I've been using, like you said, the desktop application for the last couple of weeks, and I will tell you, it is a complete game changer. It is by far the most effective tool. I've used a lot of AI productivity tools and tested them. This one is by far the biggest game changer for me personally. It's kind of a, if you think about, like what we've done with Q is combine all of your sources of data inside of the enterprise.
+We also saw, and this is a couple of months ago, you saw when OpenClaw came out, the power of having access to a local desktop and being able to operate with your local files and your local email and your local Slack. But people are worried about security, appropriately so. I think what we're doing here is combining a bunch of those things together with Q to give you the best of all of those worlds and a really enterprise battle-tested, secure solution that I think is gonna be a game changer for many of our customers. Don't really wanna like spoil some of the news that's coming up, so I'll leave some of that for them.
+But it's something that I am really excited about, and I get a ton of value out of.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yes, absolutely authentic enthusiasm across every role that's worked on it. On that note, we're gonna shift to talk more about Amazon.
+## Matt Garman | CEO, AWS
+Great.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Q and show it. Thank you, Matt, for your insights, and we'll see you again in a little bit.
+## Matt Garman | CEO, AWS
+Awesome. Thanks. Thanks, everyone.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+All right. Now our next guest has been helping us find ways to reinvent day-to-day productivity through agents. To come tell us more, please welcome Jigar Thakkar, the Vice President of Amazon Q.
+## Jigar Thakkar | VP of Amazon Q, AWS
+Thank you, Julia. It's great to be here. The way we work is not working. Every day you lose hours to work that actually does not need you. The searching, the summarizing, the context switching. Amazon Q is built to give you all that time back. Today, we are launching new technology that will change how work gets done. Your local files, calendar, email, other apps, all coming together with Q. The ability to create intelligent documents that connect with live data, update automatically, and serve as interactive dashboards for any business function. Whether it's a sales leader's pipeline review pulling real-time Salesforce data or finance team's monthly close page aggregating ERP, Excel, and other internal systems. Set it up in minutes, and by end of the day, you'll wonder how you ever worked without it.
+Say you want to set up a meeting with your colleague on a new product launch. Normally, that's a few messages back and forth on Slack to check their schedule, then over to Outlook to send them the invite. Q handles all of that with a single prompt. Q knew the project, figured out the time zone, cross-checked their calendars, sent the invite, and pinged him on Slack. No tab switching, no back and forth. How did Q know all of that? This is the Knowledge Graph in action. Q connects to your systems you already use, your email, Slack, your CRM, calendar, local documents, and files. It pulls knowledge from all of them and builds a living map of your work. Q connects the dots between people, projects, decisions, and actions. Q knows you wherever your work happens. Q knows what's relevant.
+It brings the most important items from across my channels to my attention. It has highlighted that one of my priority items today is preparing for a customer meeting I have this afternoon. Quick helps me with the prep as well. Quick performs deep research on the company and the industry. It pulls customer examples from our internal systems, grabs our current roadmap, product roadmap from a file on my machine, and layers in the briefing from the account team, the emails, and the Slack threads. Using this knowledge, it creates a presentation I can use in my customer meeting. Hours of work done in minutes with Quick. We often need different assets for different tasks, and Quick can help with all of it. Say we need this as a document or an email that summarizes the brief to the account team or a spreadsheet, Quick can build it.
+Everything you've seen so far is about my day, but I don't work alone. Teams I work with have critical processes spread across siloed systems, and usually there's one or two people who really know how the process works. Amazon Q can help you here too, with a new capability that enables teams to create dedicated collaboration spaces. For example, my finance team was tracking contract reviews across email threads, a shared drive, an approval system, nothing connected. They can now use Amazon Q to build a single workspace where the contract, the supporting documents from OneDrive, and the approval status all live side by side. What used to require hopping between many systems now happens in one persistent view that stays current, and they're able to share a read-only view with the stakeholders to self-serve. They can submit new contracts and check on status of submissions.
+No more chasing people down for updates. This took minutes to build in Q. Let's take a step back. You've seen Q schedule a meeting from a single prompt, prepare a customer briefing across six different systems, and generate artifacts in minutes. That's personal productivity. You have seen Q bring together siloed systems into a single workspace that keeps an entire team on the same page. That's team productivity. When everyone across an organization is working this way, that's enterprise productivity. That's Q. My team and I are very excited to see what will you do with it. Thank you.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Thank you, Jigar. Thanks for the demo. Appreciate it. Hopefully we got a sense of how it works. Obviously you've been working in the productivity space for a while, and with AI been really helpful in a more reactive way, but we're turning a corner to something different. Tell me about like what's driving that shift?
+## Jigar Thakkar | VP of Amazon Q, AWS
+Julia, there's been an inflection point over the last few years. There have been these siloed bots where they're operating on fragmented, old ways of doing things and old apps, and that doesn't work. What we did was build Q from the ground up. It knows you, it knows the full context of the people you work with, so you don't have to go to every application. All that context come to you.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Got it. Now you talked about that very like personalized experience that knows you. What is the context? Tell me a little bit more about how that works.
+## Jigar Thakkar | VP of Amazon Q, AWS
+Every time you use Q, it learns from you.
+It is collecting the documents you deal with, the project deadlines you have, the people you most interact with, the escalations from a customer that just showed up, what's happening urgently in an email and Slack. It has all this information, that provides the context it needs to give you very relevant answers.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Got it. All right. What I have to, you know, for all the CIOs or other folks listening, what about the controls, access controls, identity management, privacy, all of that, right? If it has its ability to connect with all those, how do they trust that to work well?
+## Jigar Thakkar | VP of Amazon Q, AWS
+Yeah. We have 20 years of heritage of AWS with the standards of quality, performance.
+compliance, security and privacy of all the users. All of that entire stack that Amazon AWS is built on is what Amazon Q stands for.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Got it. It's bringing all of that kind of the robustness of the AWS platform and security controls.
+## Jigar Thakkar | VP of Amazon Q, AWS
+Exactly
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+into how Q is implemented, which is very important. Now curious obviously I know inside the company's very excited about internal, but what are you hearing from our customers who are using Amazon Q?
+## Jigar Thakkar | VP of Amazon Q, AWS
+We have so many customers who have given us feedback, and it's been really amazing.
+From BMW or 3M or MondelÄz and Allianz and so many others. Over the last few months, what we are hearing is how they are cutting down production time for so many of these processes by almost 80%. In some examples, we are hearing how they cut down the time it takes to process customer issues more than 50%. There are so many of these anecdotes and examples we hear, and one of my favorite one is when one of our customers tried our desktop app. They said, "You know, I've been waiting for something like this, and this just feels magical.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Nice. That's always the best word, right? Like when technology is great, you know, it has that magical feel. Well, hey, thank you Jigar for showing us what Q looks like and giving a sense of kind of how it works in the backdrop as well. I think again, the best thing to do is try it. I have to say, trying to describe it is hard, but using it is, has that magical feel. Thank you so much for joining us.
+## Jigar Thakkar | VP of Amazon Q, AWS
+Thank you, Julia.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Showing us about Q. Thank you.
+Awesome. Take care.
+All right. Now as we have worked with agents, we've become more convinced that it has the capability to transform obviously individual productivity, but actually entire business functions. Our next guest is a leader who has been at the very forefront of inventing and operating across several businesses at Amazon for over 20 years. To share how we're applying agents to new business areas, please welcome Colleen Aubrey.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Good morning. Good morning.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Thanks for joining.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah, of course.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+All right. We're warming up here. All right. Now, just wanna start with, you know, you've been worked across for 20 years retail business for a long time. You're one of the founders of Amazon Advertising and now joining AWS leading our Applied AI Solutions area. I first wanna start with, what do you and your team do? What is this area about?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. I've had the great privilege of working with many of our consumer businesses, and really in that process learned a lot about how we run businesses at scale at Amazon, and how we go through those different phases of development from an early idea to finding fit, to actually operating at this, at the scale of hundreds of millions of customers and billions of dollars. That experience really led me to AWS. Two years ago, joined the team after working on the ads business for a long time. For me, there was this opportunity to take what we've learned in our business, and in many cases, we sort of outgrow off-the-shelf applications, and we end up building our own applications to run our business usually around scale or complexity, pace of innovation.
+It's really for me, like we've learned a lot doing that and surely there's an opportunity for us to take that learning, take those capabilities, and put them in the hands of AWS customers. We have this incredible sort of collision of opportunities with AI. This new sort of tool in the toolbox to think about, like how would we work now that we have these new capabilities? That led to Applied AI Solutions.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Now, I know not just you, but many of your leaders actually came from the operating side of Amazon as well, kind of bringing in that domain expertise of across how Amazon works, right?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. It was important for me, like, you know, I'm sure many of you have seen this as well. It's often the mix of capabilities you have in the organization that brings fresh ideas. One of the important factors for me was like building a leadership team that have been in the business, have been hands-on, running at scale, delivering for customers every day, managing the complexity of doing that and the emerging sort of adaptability that you need to make that happen. As part of that, you know, and my experience and many of these leaders' experience at Amazon, we've had to build our own applications to run.
+For me, this mix of people in the organization is about, it's not about SaaS for SaaS's sake. It's about you know, inventing applications that work in the business and bringing that experience to life.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Which I think is an important thing. We'll dig in more deeply. Your team is also responsible for Amazon Connect, right? Which is our solution for customers' experience and contact center. Those of you who are not familiar with Amazon Connect, it's a leading enterprise customer experience application, and it's reached over $1 billion in revenue last year. I meant for maybe more so important for today's conversation is, you are actively taking that, what is maybe had been a traditional SaaS application.
+You are making it an agent first, an agentic experience. You know, as Matt and I talked about, this is what all SaaS needs to do. How are you doing it? What does it look like from the inside?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Lucky for me, when I joined AWS, actually, you know, Andy and Pasquale had already started down this path of taking what we had built for our own stores customer service team and bringing that to life in Amazon Connect. Last year, we did 20 million interactions a day. We did 12 billion of AI minutes in conversations last year alone. That product's in its ninth year. In March of last year, we introduced what we think of as the next generation of Connect. The reason why we think of it as next generation is we have introduced AI across the entire customer journey.
+Voice or digital channels into the human experience, like assisting agents as they're working with customers into transcription, sentiment analysis, into the analytics, and into outbound communication. For me, the key here is that if you, if you, like, put AI in a box and if you, like, constrain it in that way, you're really not likely to realize the potential.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Okay.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+It's really when you can carry context across the journey and you start thinking about now about the horizontal journey of a customer through, as they work with your organization, that the power becomes, in my opinion, more real and more transformative. Here we sort of launched Connect with unlimited AI. You know, I think, it's a journey.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+I'm really pleased about the way we're really sitting, putting agentic and AI context across the whole experience into the product.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Really the team stepping back and rethinking it. I love that you take the whole journey, right? Not just parts of it, and rethink of what's possible now with agents in that experience. Now we're taking that agent first approach and marrying it with Amazon's operating and domain experience to build more agentic solutions. I'd love for you to talk about what we're announcing today.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. It's sort of a big day for my team and for me. Like, we've been toiling away for a couple of years ago, really challenging ourselves to rethink. Today we have a few new products to share with you. Where we're going is actually we are going to expand the Amazon Connect name to be a family of products. It's super exciting, the birth of a new family. We are unveiling three new agentic solutions: Amazon Connect Decisions, Amazon Connect Talent, and Amazon Connect Health. The product that we've come to know and love is Amazon Connect will be Amazon Connect Customer. This is how, you know, I guess for me, Amazon Connect starts to stand for agentic business solutions.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Kind of bringing all that domain expertise together with the agent first. Now, let's just start for a second, before we jump into each one of those, but what makes these an agentic solution versus just kind of AI powered?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. You know, I think Matt talked a little bit about this. When we thought about developing these products, the question is, like, now that we can see the future of what agentic capabilities can do, how do you think about how companies will work? At the heart of it, we got to this idea of we need to build agentic teammates. No one needs a difficult teammate. That's not great.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Plenty of those. That's right.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. We don't need to do that. Where we need to go is really I need a teammate which is easy to work with, intuitive, is trustworthy, an agentic teammate that is always learning. I need to be able to take this agentic capability and get the transformation in my business, the reinvention of how we work, but without the change management. No one needs to go on a 2 or 3-year change management sort of process. We really are challenging ourselves to put agentic capabilities to work in a way that delivers our organization's new ways of working, but also in a very intuitive and easy way that I don't have to really learn something different. We, you know, have developed a new design philosophy that came with that.
+What we realized as we dug into this is that great AI with a underwhelming user experience is probably not going to be transformative.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Sure.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+That we really needed to address both. We came up with this sort of philosophy, which we call humorphism. I think in the past in design, you really went with skeuomorphism, like with, you know, Apple were the leaders here, where you actually looked at the physics of objects and translating that to the digital environment, from a desk to a desktop, files to folders, those sorts of things. What we're focused on with humorphism is what is the dynamics of human interaction? If we're building products that at the heart of which is an agentic teammate, then how should those teammates interact with you? It's a journey. You know, we're getting started, but this has really been a key part of how we thought about these products.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+I hear a kind of a mental model. This is what makes it agentic for us. It's like a teammate, right? That's a different way to think about it. You literally have come up with another design approach for doing these as well.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah, I would say it's work in progress. We're making good progress.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Okay.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+You'll see some of it today, but this is like a journey, and we've got a lot to unpack. Like every week, you know, Hector and his team are like exploring new interactions, and we're sort of pushing ourselves to think of like, Is that how it happens? Is that awkward? Is that weird? Do I trust that?
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+How do I think about how natural that is? It's something that we're working through.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Well, interesting, excited to watch it happen. Let's get into a specific example, and we're going to start with an area that Amazon is quite well known for, which is rapid decision-making, but also particularly in the area of supply chain and logistics. Obviously from a retail store and your experience in the retail side, you've seen quite a bit of that evolution from the inside. I want to start with what is it around Amazon's expertise that we're bringing into this domain?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Let me start with you. Something we talked about, we've talked about a lot at Amazon for a long time, it's that speed matters in business. Specifically, high quality, but timely and fast decision-making is key to continually to innovate, reinvent, and to deliver for customers. This is sort of at the heart of, you know, heart of the product here. Where we know there's one area that we do this daily, and it's complicated, and it's something we spend a lot of time on, is around managing demand and supply planning. We have decided to start there. We've built a product which we have two teammates here. One is a demand side planner and one is a supply side planner. They sit side by side.
+I mean, this is not about data processing. It's not about delivering you another pretty dashboard. It's really about getting that high quality decisions at the speed of today's business, moving planners from reactive to strategic decision-making, getting to the point where they're actually managing the business versus reacting to the escalations and the external conditions.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah. All right, I'm gonna invite Olivia to come out here in a second to show us what Amazon Connect Decisions looks like. Before that, Like, what about Amazon's domain expertise in like this area specifically that's brought into this experience?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. Decisions at speed is fundamental to our store's business. You know, we've been working on this for 30 years.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+... building the capabilities to, you know, source, receive, manage, and deliver sort of 400 million SKUs around the world. We started down that path of like 2-day delivery, then 1-day delivery, then same-day delivery, now, you know, we're working on 15 minutes. This sort of constant building of the expertise and this sort of weaving through, as Andy talks about in his shareholder letter, of like not the straight line of like learning through this, has really, I think helped inform this product. There's a few things that, you know, really sort of stood out to me. In 2013, we come to holiday season, we can't meet delivery promises to customers.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+You know, this is like catastrophic for us. The root cause, last mile capability.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+... and the capacity that we have there. This leads us to building our last mile network. Today you see that, you know, into rural areas as well. In 2016, we hit another constraint. It's the middle mile distribution. We can't get products into our distribution centers fast enough in order to get them out the other side into last mile network to get them to a customer's doorstep. We build that capability. All along the way, we have been building our own foundational models to actually drive this decision-making to extend from sourcing to a customer's doorstep. This foundational model is actually at the heart of Connect Decisions.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Amazing. That's a lot of expertise and experience to be starting in there. Olivia, why don't you show us what it looks like?
+## Olivia Igbokwe-Curry | Director of Federal Affairs, AWS
+Yes. Thank you. Hi. I'm a supply chain planner, and I was just handed one of our hardest challenges. I need to prepare for a new product launch with no sales history. The question is: how many units, where, and when? Let me show you how I can tackle this with Amazon Connect Decisions. Traditionally, I would have to bounce between multiple systems, multiple spreadsheets, holding all the connections in my head. This is what most planners live in today. Let's see how Amazon Connect Decisions can help. I ask it to build a demand plan for the new products, a line of fitness trackers. Decisions finds comparable products in our catalog and does something traditional planning systems can't. It pulls in the sales team's own forecast for the new product line.
+It combines that bottoms-up sales intelligence with Amazon's forecasting models, built by the team that manages demand across 400 million SKUs. In the time it takes to get a coffee, I have a demand plan that previously would have taken me weeks. I can now make adjustments based on my experience from launching similar products. One of the things I've seen with other products is that demand can be different in the first weeks immediately following the launch, especially when there are customer incentives. Let me make that update. At this point, Decisions detects that there's been a manual edit and asks me for an explanation to better understand the reason behind the change.
+With a proper understanding of the change, it asks if I'd like to see the changes applied to the other SKUs in the plan. With a single click, I can update the plan and publish it. With that, the demand plan is already flowing into supply decisions downstream. Let's jump forward a few weeks. The trackers have launched and the demand plan is in motion. In traditional supply chains, this can mean database systems generating thousands of exceptions and alerts every day. Planners spend more time triaging noise than solving real problems. Figuring out which alerts actually matter is a full-time job. With Amazon Connect Decisions, it's different. Its agents have been monitoring inventory, supplier performance, and actual demand against forecast. Instead of thousands of alerts, I see three prioritized exceptions.
+The most critical, a key supplier is trending four days behind, which will cause a stock out at two distribution centers within 10 days. Decisions has already traced the root cause and flagged two other suppliers showing early signs of the same pattern. It has surfaced insight that would take analysts days to find before it becomes a crisis. Amazon Connect Decisions presents two options with clear trade-offs: one optimized for speed, one for cost. I pick the cost option, even though the system flags a safety stock warning. Just like with the demand plan, Decisions asks why. I share that Atlanta's going down for maintenance so that inventory would be settling idle anyway. The system successfully creates the transfer order and recommends I create a new rule to resolve similar issues automatically in the future.
+Decisions captures what your best people know, applies Amazon's thirty years of agile decisioning experience, and helps the entire team make better decisions every day. Plan, decide, act, learn. That's Amazon Connect Decisions.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Thanks, Olivia. Colleen, watching that, I have to say, you saw how the agent kind of showed up in different ways. It felt very seamless and fluid. Like, that goes back to the new design experience. I'm interested now that I saw it, kind of the thoughts on that.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. You know, you can see us here trying to unpack this humorphic experience in action, the learning, the iteration, the interaction between the teammate and the person. We're really trying to push the boundaries of, like, this is not another tool. This is an agentic teammate. It becomes part of the organization. It collaborates with people day to day, and it's been exciting for us. Wells Vehicle Electronics and TVS Motors have been beta partners and really bringing the product actually into meetings and into discussions, and it's sort of been an interesting feedback loop for us and one we'll keep going after.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah, I bet. All right. We're going to go from decision-making. I want to go to our next solution, which is Amazon Connect Talent. This solution is focused on the area of high volume hiring, which we'll spend more time on. Start with, what experience does Amazon have to bring to this domain?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Again, you know, inspired by our stores business, we hire about 250,000 people in the U.S. for part-time or full-time roles every peak. This is we know what we mean when we say high volume hiring, where organizations, companies need to scale up rapidly. You know, every unfilled role is a challenge. It costs the business, it costs, you know, demand and momentum, revenue, and customer experience. These are, you know, expensive negative consequences of this. You know, you can see this play out in the retail industry, hospitality, entertainment, customer support, logistics, these types of areas.
+For us internally, you know, Amazon, we outgrew our off-the-shelf solutions, and it sort of led to a multi-year effort to build the products and also the science that we needed to do a better job of matching the peaks of our business with actually hiring good quality people. Part of that was sort of improving the candidate experience that can be challenging, so we really spent a lot of time there, decreasing the hiring cycle times and increasing sort of recruiter capacity.
+you know, one of the things that we did in this is we developed the AI to really help with the translation of, like, from a job description to the skills required for the role, from the skills to an interview, and we're sort of using that at the heart of Connect Talent.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+250,000 people hired. That's a lot. I want to start with the hiring manager experience. How did you think about that?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. I think we really were looking at, well, how do you get, the recruiter particularly, into spending their time thinking about what is the demands of the business? How do I think about the skills that I need to acquire here? Then focusing on like, where can I get those skills, and who are the right candidates that actually fit that profile? We've got the AI doing that work of the translation, job description to skills to interview format. Of course, the recruiter stays in control. They're able to, like, edit, adjust, interject, reframe at any time. But here, you know, you have the AI doing a lot of that legwork and then, again, moving in actually to the interviewing.
+A constraint for in high volume hiring is often like having interviewers scheduling time. It's like that sort of takes a lot of lead time, a lot of logistics, and we can put AI to work that then the agentic teammate here is taking care of the interviewing.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+All right. We'll have Olivia come back and show it in a moment. I want to go then to from the hiring experience to the candidate experience and kind of what was your mental model around creating that?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. Where we really focused is how do we give candidates more flexibility and make that easier for them to go after new opportunities where they don't have to take time off from their current role. You don't have to, like, take time off from your current work to get your new work. You don't have to, like, trade off with your other responsibilities in life. Life is busy. You don't have to cram it into lunch. You can, you can do it at a time that works for you.
+The other part is actually creating a consistent interview experience focused on skills, and an ability for a candidate to share their experience and their capabilities in that interview in an effective way, and really not other factors, and really getting to the core of the skills that someone brings to the table.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Got it. All right. Well, Olivia, why don't you show us what it looks like?
+## Olivia Igbokwe-Curry | Director of Federal Affairs, AWS
+Thank you. I'm a recruiter for a large retailer, and I'm hiring for seasonal retail sales associates at multiple locations. The job description is what you would expect. Responsibilities, qualifications, what we offer. It's pretty standard. I've loaded the job into Talent, so let's see how we get started. The science behind the application is impressive. We've directed agents to review the job description, identify competencies, create interview questions, and build an assessment rubric for this role. Talent has completed a review and generated a full plan. I can inspect every part, making changes and tweaks to ensure it fits my needs. Now that we've got this set up, I can get it posted and start interviewing. Talent lets candidates interview on their own timeline in their own environment. No scheduling bottlenecks, no pressure to perform in a narrow window.
+Candidates get a consistent experience regardless of when or where they interview. Because there's no scheduling friction, we're not losing great candidates who can't make a Tuesday at 2:00 P.M. Let's see what the candidate experience looks like. Hi there. Thanks for joining me today. I'll be conducting a phone screen interview for the seasonal retail sales associate position. Let me start with my first question. Tell me about a time when you helped a customer who had difficulty explaining what they were looking for. How did you figure out what they needed?
+## Speaker 12 | 
+Sure. Yeah, there was a time when a customer came in looking for a gift. They really had no idea what they wanted to get. They seemed pretty overwhelmed. I actually helped them find the right gift.
+## Olivia Igbokwe-Curry | Director of Federal Affairs, AWS
+That's helpful. Sounds like you took the time to work through it with them. Can you walk me through what you actually did to figure out what gift would work for them?
+## Speaker 12 | 
+Yeah, I started by asking a few simple questions like.
+## Olivia Igbokwe-Curry | Director of Federal Affairs, AWS
+What used to take weeks of phone screens can now be done in days. Every single interview was structured, consistent, and aligned to the evaluation plan. I'm not spending my time on logistics anymore. I'm spending it on the decision that actually matters: who to hire. It's been a couple of days, and interviews are done. We've completed 80 interviews in days versus what would have taken me weeks previously. Let's assess the candidates. Amazon Connect Talent has assessed each candidate against the evaluation plan we created earlier. It gives me standardized data that I can use to make a decision. It's prepped the data for me, but it's not deciding who to hire. That's up to me. Talent anonymizes candidates, helping to reduce human preconceptions that come with seeing candidate demographics and personally identifiable information.
+For this first candidate, I can see how they performed against the competencies we defined, their top strengths and growth areas. I'm evaluating them based on job-related performance and not gut feel or personal affinity. I can also get a detailed view by going right into the interview transcripts to see how Talent arrived at its scoring and where the gaps were. In the end, the decision is mine. One I can now make with standardized data. Talent takes Amazon's decades of hiring expertise and puts it to work for every company. It removes the toil and gives back to recruiters and candidates what matters most: time, consistency, and the confidence that a qualified candidate got the job.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Thanks, Olivia.
+just to come back to what you said, I feel like you see that, like the change in the candidate experience, right? The flexibility they have, but also just getting like clean, fair shot, right? It's really a game changer in how that works. Excited to see how that's gonna affect hiring. All right, now we're gonna move on to our final area, which is Amazon Connect Health. I'm gonna just start with off the top, Colleen, like why is Amazon qualified to be in this area?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. I need... Sorry, I actually can't see what the screen says in front of me here now, but anyway, we're going for it. You know, actually, Amazon's building technology for the healthcare sector for years. We have Amazon Pharmacy and our primary care service, One Medical. This, our own experience in delivering healthcare is what we've tried to bring to life in Amazon Connect Health. The other great benefit we have is we actually work with a good number of AWS customers in the healthcare segment, and they've really, you know, helped us learn and become informed about the requirements they have for working in that sector, regulatory and privacy, and really educated us on what does it look like to have standardized healthcare formats for imaging, clinical notes, omics data and scribing.
+Sort of, you know, our own internal teams have been great educators for us, but also our AWS customers.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Makes sense. All right. With Amazon Connect Health, you're looking across both the patient but also the provider experience, which is a little bit of a different take on it. Interested to hear about that.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. Probably, you know, inspired a little bit by our Connect customer experience, you know, we looked at the journey end to end from a patient wanting to schedule an appointment at a location that convenes them with a provider that meets their needs at a time that works for them with verification, understanding their insurance, and then into the provider experience, the appointment experience.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+... where, you know, there's a lot of challenges here. You know, my own observation is that in healthcare, professionals end up spending a lot of their time like managing health versus delivering health. We really thought there was an opportunity to put agentic capabilities to work to really get them out of that management piece and really into spending time with patients and actually delivering healthcare. For patients, you know, you really have to struggle with managing that, like navigating that healthcare system, and it's often at a time when you really don't have the energy for it, and the quality of the care and the quality of the experience deteriorates. We really thought-
+agents could be impactful here, and we took it, a view from the journey.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Got it. To your point, like I think the industry stat rate is for every 1 hour doctors are with patients, they're doing 2 hours of management.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Managing the healthcare. Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right. Right. It's staggering when you think about what we could unlock if we had a better approach. Let's go actually run a video of providers talking about what this experience could mean for them. Why don't we take a look at the video?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Sure.
+## Speaker 13 | 
+The following people you are about to hear from are real working medical professionals compensated for the time spent in this discussion. We didn't script a word. We just wanted their honest opinions. We asked them about challenges in patient care today.
+## Speaker 11 | 
+Instead of having a face-to-face conversation, I'm sitting there typing the entire time.
+Especially at a devastating time, it's extremely hard for patients to absorb the information that they're given.
+I didn't sign up to be an administrator. I didn't sign up to be a secretary, and sometimes you feel like that's what you're doing.
+Having this is very exciting. I like how it's streamlined versus just who's checked in. To have a brief summary would make me much more confident walking into the room.
+I love the fact that you have the updates since the last visits with the lab results.
+You know, I'm making direct eye contact and just talking naturally, you know, conversationally with the patients instead of, you know, looking up and down from my computer.
+Reminders of what to do is very helpful for primary care specialties.
+The suggested codes is. That's amazing. That kind of interconnection, that's huge.
+Post-visit summary, really useful. It allowed me to put together a more complete and accurate representation of the patient visit and notes.
+A lot of times you get these after visit summaries, and they're still as if they're talking to me. This, I think a patient can read and see and understand.
+The asynchronous text to remind to schedule follow-up, I can come back and do this when it works for me, is really helpful.
+More time directly interacting with the patient rather than trying to record data.
+You're able to interact with your patients and build up that personal relationship.
+## Matthew Arnheiter | SVP of Innovations, Netsmart
+I'm Matthew Arnheiter. I lead up innovations at Netsmart. Netsmart is a health tech company that provides solutions to the behavioral health and post-acute communities. The relationship we have with the Amazon Connect Health team really allowed us to innovate quickly. The ultimate measure of whether these technologies are successful is whether it allows healthcare to be more human.
+## Speaker 11 | 
+If we had a way to alleviate the documentation burden, I think every single person that is a physician will cheer.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Awesome. Now, on the topic of healthcare, obviously sensitive, kind of privacy, how as a provider can they trust an AI system to help them like this?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. You know, in all of the products, you know, building agentic teammates that develop that trust with a user every day is critical, and in healthcare even more so. You can see in the experience here that every insight, every part of the scribing that the AI is doing, the billing code identification, all of that is traceable back to the source data, back to the underlying lab result, the prior visit note of the medication record. Connect Health does that work of like showing how it got to this point and showing the work that it's done in the background. It's built to understand clinical standards and structured in a way that physicians actually think about their patient care.
+That sort of traceability and that showing my work is a key part of that humorphic experience, but also that trust building.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right. You can, at any point you can go down and drill into why exactly was that, entered or that code.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah, super important in health. Certainly calling out an incredible set of new solutions around the Amazon Connect family from Decisions, Talent, Health, of course, joining our customer solution as well. Any final words you'd like to leave folks with?
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Yeah. You know, this is day zero for us. We are on a journey now to deliver customers agentic transformation that is intuitive and that learns with them. You can expect us to continue to, you know, expand the capabilities here. We're really just finding a place to start, and this is something that we're invested in for a long time, and I'm really excited to have customers that are interested in this journey and are willing to come with us and actually look at reinventing the future together. We're just at the beginning.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Amazing. Thank you so much, Colleen. Thanks for your insights and for the new announcements as well.
+## Colleen Aubrey | SVP of AWS Applied AI Solutions, AWS
+Thank you very much.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+All right. Take care. Here you go. Yeah. All right. So far this morning, we've talked a lot about transformative capabilities that agents allow in solutions, and while many of those will come from us, like Amazon Q and Amazon Connect and the new family, we also know that the vast majority will come from all of you and being built by all of you. To enable this, we've teamed up with OpenAI in a big multi-year partnership spanning models, infrastructure, as well as other solutions. To tell us more off the top here, we're gonna hear from OpenAI CEO, Sam Altman.
+## Sam Altman | CEO, OpenAI
+Hi, everyone. I wish I could be there with you in person today. My schedule got taken away from me today. I wanted to send a short message, though, 'cause we're really excited about our partnership with AWS and what it means for our customers. I wanted to say thank you to Matt and the whole AWS team. AWS is one of the companies that changed what builders could do. Cloud made it possible for startups, developers, and enterprises to spend way less time on infrastructure and much more time building products, serving customers, and bringing ambitious ideas to life. This was a huge platform shift, AWS really defined it. I really lived through it during my early career at YC. I believe that AI is going to be an equally important shift. We're still early, the pace of progress is remarkable.
+Models are getting more capable every month, and it's not slowing down. AI will make it way easier to solve problems that used to require very large teams and very specialized systems. We're gonna see AI lower the barrier to creating new products, doing important scientific work, bringing new ideas into the world, and much more. To make that real for companies and particularly large enterprises, great models are only one part of the answer. These systems need to run reliably and robustly. They need to be secure, they need to scale, and they need to fit in the environments where companies already run their businesses. They need infrastructure that customers already trust for their most important workloads. That's what makes this partnership with AWS so important.
+We are co-developing an agent platform from the ground up, deeply integrated with AWS services and powered by OpenAI's most advanced models and tools, so that customers can build and run powerful agents in their own environment without worrying about the underlying plumbing. A developer platform for agents in the cloud built to help enterprises move from experimenting with agents to deploying them at global scale. That's what we're trying to build today or announce today. We're already seeing the major impact agents can make with products like Codex. Codex has changed from helping developers write code to helping teams automate more of the software development life cycle and take on complex multi-step work. That is why we are so excited to bring Codex to customers on AWS, making it easier for developers and enterprises to buy, deploy, and use Codex in the AWS environments they already trust.
+We're also excited about the infrastructure side of this partnership, including AWS Trainium capacity, which will help us scale advanced workloads and make intelligence more broadly available. We are gonna try to do all of those things. AWS made cloud the platform that a generation of builders rely on. This was amazing to watch. AI is now becoming the next great platform for this kind of building. Together, OpenAI and AWS are creating the enterprise platform for the future. The opportunity ahead of us is enormous. The most exciting part is that this is not something in the future, it is starting right now. Thank you to Matt, the AWS team, everyone here today.
+We are grateful for this partnership, and we're excited to build this future together. Thank you.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Awesome. All right. Welcome back, Matt.
+## Matt Garman | CEO, AWS
+Thank you.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Good to see you again. Welcome, Denise Dresser.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Thank you.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+...the Chief Revenue Officer of OpenAI, and Anthony Liguori, who is our distinguished engineer at AWS for infrastructure and AI. Great to have all of you here.
+## Matt Garman | CEO, AWS
+Thank you.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Now, Matt, I wanna start with you. You just heard from Sam about the partnership. I wanna hear from you. Why is this a big milestone both for enterprises and for AI?
+## Matt Garman | CEO, AWS
+Yeah. Look, this is a huge partnership, and it's one of the things that we are quite excited about. When we talk to companies out there, companies always want the best options. They want to be able to run in the absolute best cloud, and when they do that, and they're looking about their AI applications, they want the broadest set of choices, and that means they need the absolute best frontier models. From the very early days of AWS, customers have asked us, "How can we get OpenAI models inside of AWS?" That's really what they want. This partnership is bringing those two together, and really, it's not just bringing the OpenAI models, but it's innovating together and building new capabilities where we get both teams together and innovate on new things that haven't existed before.
+It's something that I'm quite excited about. Both teams are really focused on how we go deliver for customers and invent for customers, and it's a partnership that I'm excited about will deliver for customers for decades to come.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Perfect. Denise, what makes you excited from this partnership perspective?
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah. Well, I've been at OpenAI four months now, and I've met with hundreds of enterprise customers, and what I hear right now is they're no longer in the mindset of experimentation and pilots. They really want to go.
+Full enterprise wide. They understand that to do that, they need to have powerful models, but even more importantly, they want those models in a trusted environment that they know and a trusted infrastructure. For me, that's what's so special about this partnership. I think we have a joint mission around customer success and outcomes, but more importantly, bringing the power of GPT-5.5, our APIs, Codex, all on Amazon Bedrock, allows our customers to focus on what matters. We talked a lot earlier today about building agents. That's a new motion for a lot of companies. Giving them the capability to be able to focus on that and to build and to innovate, especially right now when the technology is moving so fast, it is so hard for enterprises to keep up.
+Making it easier for them to do in a way that's trusted, I think is really an important element for our customers.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Agree. I think it's gonna be a game changer.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+I know, Anthony, now you're leading the technology part of the partnership, so how is it going from your perspective? It's been, what? All of eight weeks.
+## Anthony Liguori | Distinguished Engineer, AWS
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Uh, so.
+## Anthony Liguori | Distinguished Engineer, AWS
+It's been absolutely amazing. It's been wonderful working with the OpenAI team. We've had a lot of fun together. It's really just wild thinking about the fact that we had nothing eight weeks ago. Now we're here up on stage talking about all that we've built together.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Great
+## Anthony Liguori | Distinguished Engineer, AWS
+... with a brand-new partnership. really, I think it's been a couple things. One, today you can develop so quickly with tools like Codex.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Anthony Liguori | Distinguished Engineer, AWS
+It's just really remarkable what you can build and how quickly you can build. 2, both teams have been super well aligned in terms of the mission and what we're trying to achieve. We haven't slept a lot. That's part of it too, unfortunately. That's because we're both so motivated to get these models into AWS and to really unlock this next generation of agentic tooling for customers.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah, incredible speed. Just watching it from the outside, incredible speed and hopefully some sleep at some point.
+## Anthony Liguori | Distinguished Engineer, AWS
+Maybe for the future.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah, exactly. Speaking of moving fast, in just the last 24 hours, things have also changed a lot, and we'll now be bringing OpenAI's leading models to AWS running on Amazon Bedrock. This will be in limited preview today already and GA coming in weeks. Denise, Matt, what is now possible for customers now that we have this preview soon to be GA with this update?
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah, I'll go first. I mean, this is first of all, this is an incredible moment for our customers that these models will be immediately available on Amazon Bedrock. If you think about, again, just meeting the customer where they are and the ability to move at speed and scale so they can focus on the work that they need to do, and this is as easy as a click of a button now to be able to have access to the models, to the API and Codex, and I think this just unlocks speed and scale to really operationalize enterprise AI.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Matt Garman | CEO, AWS
+I think that's exactly right. Starting today, 5.4 will be available inside of Bedrock in limited preview, and then within the next couple of weeks, we'll have 5.5 and all of the frontier models from OpenAI going forward. Like Denise said, this is what our customers have been asking us for a really long time. Their production applications run in AWS, their data is in AWS, they trust the security of AWS, and we've forced them for the last couple of years to have to get the great OpenAI models to go to other places, and they didn't like that.
+I think we don't force people to have to make that choice and kind of building your application where your models and your data and your, and everything kind of lives in the same place inside of your secure environment is an incredibly compelling proposition for customers. I think it's one of the things that I think drives innovation. They don't have to think about how do I cobble these things together.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right.
+## Matt Garman | CEO, AWS
+They just all work together.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah.
+## Matt Garman | CEO, AWS
+It can be integrated into your permissioning system.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah.
+## Matt Garman | CEO, AWS
+It can be integrated into all of your applications. It's something that customers have been looking forward to for a really long time.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+It's one less thing for them to think about and contemplate in a world where innovation is happening so fast.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Companies are trying to keep up.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Keeping it simple and clear.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah.
+## Matt Garman | CEO, AWS
+That's right.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Pulling it together. Starting with models on Amazon Bedrock. We know that customers are building agents today. In addition to having model choice on Amazon Bedrock, we also have Amazon Bedrock AgentCore that helps customers take those models and then create agents that they can deploy and scale. We're, of course, not stopping there. Today, we're also announcing the preview of Amazon Bedrock Managed Agents powered by OpenAI, formerly announced as the Stateful Runtime environment in the original state. If you remember that. Anthony, you have been not sleeping and working on this for the past eight weeks, so I want you to share, like, what is exactly Amazon Bedrock Managed Agents, and how does it work?
+## Anthony Liguori | Distinguished Engineer, AWS
+Sure. Bedrock Managed Agents allows customers to take OpenAI's frontier harness and models and combine them together in an agent that lives natively within AWS.
+It really consists of three parts. The runtime, which is how you configure things like skills, memory policies, and the tools that the agent can access. The environment, which is where the agent lives, and so it's an EC2 instance, a Fargate task, or any other compute that's available within AWS. This is really how the agent integrates deeply within AWS, being able to access resources that are only available behind VPC, using IAM policies so that you get CloudTrail and IAM-based organizational governance. Finally, the inference API, which is the way that the you actually interact with the agent, how you talk to it. You can use existing software, existing web applications, or you can use the OpenAI SDKs to integrate the agent deeply within your application.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Got it. I wanna go back where you started around the harness 'cause that's such an important part. Talk to me a little bit about, like, the innovation happening with the harness aspect of it.
+## Anthony Liguori | Distinguished Engineer, AWS
+Absolutely. Models can generally figure out how to use tools in lots of different scenarios, but when the harness is trained specifically with the model, you get something that's special. I think the best analogy is if you think about a football team. A football team is gonna constantly practice the same plays over and over again, so when the time comes, you're able to really do well executing those plays. Ultimately, the harness is the playbook for the model.
+By training the model with the harness, you ensure that you're gonna execute in the best way the model can.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Got it. That tight connection is super important and the outcomes that customers get.
+## Anthony Liguori | Distinguished Engineer, AWS
+Absolutely.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+You also, I think I was following, it kind of sounds like effectually three steps for customers, and Denise's point of keeping it simple, is that, like, as a customer using it, what does it look like?
+## Anthony Liguori | Distinguished Engineer, AWS
+Yeah, it's actually remarkably simple. If you have an application that's performing inference today, the only thing that you need to do is call the runtime API to determine how you want your agent to act.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Anthony Liguori | Distinguished Engineer, AWS
+A really simple agent can just have a very straightforward memory policy, or you can add a bunch of skills if you want to really customize that agent. You create the runtime, you decide where you want the agent to live, in an EC2 instance, or you can even use your laptop if that's what you want to do. That's it. Your application will work the same way it's always worked in terms of interacting with the inference APIs, now you have inference that is stateful, that is able to keep memory and history of what's happened before, and most importantly, can access the entirety of AWS and can be embedded deeply within your applications.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Amazing. All right. Another part of our announcement and our partnership is we're also bringing Codex on AWS, which we're also announcing as preview today. Denise, I would love you to talk more about this.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah. Well, first of all, Codex is our agentic software development life cycle. It is absolutely on fire right now. We've grown from 3 million weekly active users to 4 million in 2 weeks, and I'm sure it's gonna keep growing. It's beyond just coding. It is truly agentic work here. What I think is really important is for all knowledge work. The power of being on Amazon Bedrock brings another level of reliability, scale, infrastructure, and trust to this world, which allows when companies are thinking about agentifying coding and innovation and work, they wanna move at speed and scale in a trusted environment. I think that's what this partnership unlocks specifically for Codex, with the reliability which allows companies to move fast.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Amazing. All right. That's a lot of announcements already, but it's still early. I wanna hear from each of you, where are we going next? Like, from this partnership in the first eight weeks to, when you look around the corner, what gets you excited? Maybe Matt, starting with you.
+## Matt Garman | CEO, AWS
+Well, I think that when we think about what's next, we are innovating at every single layer of how customers build. We think about the infrastructure layer. We're innovating at the data center layer. We're innovating at the chip layer, where we're building Graviton and Trainium. We're building at the services layer, where you think about Bedrock, and you build all of the latest with the access to the very best frontier models that are available out there in the world. When you think about customers that are building their own agents, you think about AgentCore and the rich set of services that they can use to build together to build any sort of agentic workflows that they want.
+If they need a more managed environment, then they can use Managed Agents together with OpenAI, which we're really excited about and is actually built on top of AgentCore to help customers really get more and more out of their agents. As we think about how customers can get everything that they want out of applications.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah
+## Matt Garman | CEO, AWS
+I personally am really excited about the Connect things that we announced today, as well as Q that I think is really gonna transform what people are able to do inside of an enterprise. Frankly, just in their everyday life where customers can go and even with a social login, start and get active.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right
+## Matt Garman | CEO, AWS
+... get using Q really fast. I think we're just at the early stages of what we're gonna be inventing together.
+Our partnership, I think, is such a great example of that invention together. You know, we've been eight weeks at it, I think we're thinking about for the next multiple decades how do we go invent together for customers.
+That is really if you take a step back.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah
+## Matt Garman | CEO, AWS
+what is so exciting.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah
+## Matt Garman | CEO, AWS
+... is the, how you see the teams work together, how we both have what's best for customers in mind, and how we're going and inventing, I get excited about that.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah. Denise, how about you?
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Well, for me, I think what has stood out, in meeting with customers is the willingness to think completely different. I mean, CEOs especially are thinking about, "How do I need to reimagine my business? How do I need to transform everything that I do?" That's a big proposition. When you bring the power of what we're doing together.
+We make it so much easier for companies to move fast to actually achieve that. When on Amazon Bedrock, taking care of all this amazing infrastructure, the best models, it frees up time for companies to actually innovate themselves and think about the bigger opportunity for them, and I think that's exciting.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yeah.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+For us to be able to help them do that is a really noble cause, and we're excited about it.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+I think so many enterprise leaders are hungry for that.
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Yeah.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right? Anthony, how about you?
+## Anthony Liguori | Distinguished Engineer, AWS
+Maybe some sleep, but.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Back on feet.
+## Anthony Liguori | Distinguished Engineer, AWS
+Probably not. In the last year, my life as a software engineer has changed dramatically. I am not 10% or 20% more productive. I am 10 or 20 x more productive, and so is my team.
+Seeing what that has done is just incredible. I never would've guessed this is the world that we would live in. What's most exciting to me are new APIs like Bedrock Managed Agents, where we can take that same proven harness and ability and start applying it into enterprise applications in our greater infrastructure. I think we're at really early days there, and I think, like, the next year is gonna completely revolutionize the industry.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Right. You can imagine, like, what last year's looked like, what the next year looks like, right?
+## Anthony Liguori | Distinguished Engineer, AWS
+Yeah. It's unbelievable.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Only believe it. All right. Just a few final takeaways, Matt?
+## Matt Garman | CEO, AWS
+Well, I'm excited to see what people build. I think, like, from the very earliest days of AWS, we always wanted to put tools in the hands of our builders to see what they could go invent. I think giving this rich set of capabilities out to a wide set of customers where they can really go unlock their creativity, stop doing kind of the monotonous tasks, and just go build is something that is, it's kind of what gets me up in the morning. It's what people at AWS get excited about. This partnership, I think, is just further turbocharging what we're able to let customers do.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Perfect. Denise, any final takeaways?
+## Denise Dresser | Chief Revenue Officer, OpenAI
+Listen, I think Matt captured it. I think this is a partnership grounded in customer outcomes. You can see the intensity of the work that we are doing and the speed in which we're doing about it because I think we all believe deeply that this is an incredible opportunity. It is what we're excited about, to see companies being able to bring these technologies together and just build. I think, Matt, you said it best. It's like, imagine what we're going to see when we innovate together, but also when we're enabling our customers to build and what that's gonna look like in the future. That's really exciting.
+## Julia White | CMO and VP of Worldwide Marketing, AWS
+Yes, absolutely. Thank you so much for joining and being part of this event. We are very excited, as you can hear from all of us, to see how you will use agents to transform your business. Thank you so much.
+Data Source: Quartr Last updated: Apr 28, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (13) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

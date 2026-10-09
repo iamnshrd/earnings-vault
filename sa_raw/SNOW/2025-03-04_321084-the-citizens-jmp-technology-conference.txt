@@ -1,0 +1,275 @@
+TITLE: The Citizens JMP Technology Conference
+DATE: 2025-03-04
+## Moderator | 
+So look, we're just delighted to have Snowflake and Michael Scarpelli, the CFO, joining us today. Which, how many years in a row is this for you? When was the IPO?
+## Michael Scarpelli | CFO, Snowflake
+September 2020.
+## Moderator | 
+Yeah, and you did it before the IPO, I remember, because you were like, this is great, I'm private, I can say whatever I want.
+## Michael Scarpelli | CFO, Snowflake
+I did say that.
+## Moderator | 
+You did. And maybe this is the last time. So for anyone who doesn't know.
+## Michael Scarpelli | CFO, Snowflake
+Hopefully. Hopefully.
+## Moderator | 
+Michael announced his pending retirement and transition out, but you got to find someone new first.
+## Michael Scarpelli | CFO, Snowflake
+Yes.
+We'll get to that.
+## Moderator | 
+All right, Snowflake is a $60 billion market cap. They had a fabulous quarter. They grew 28% on the top line, nearly $1 billion in revenue, just underneath it, 43% free cash flow margin in the quarter. We shouldn't expect that to continue. Q4 is really good.
+## Michael Scarpelli | CFO, Snowflake
+Q4 is always going to be the biggest quarter.
+## Moderator | 
+Q4 is really good, and it marked a year of.
+## Michael Scarpelli | CFO, Snowflake
+Sridhar.
+## Moderator | 
+The new CEO. Yeah, and it's been pretty remarkable, actually, I would say, the amount of sort of innovation and change that happened in a year. So let's start with how's business, and then we'll talk about how Sridhar pulled this off.
+## Michael Scarpelli | CFO, Snowflake
+Sure.
+## Moderator | 
+How's business.
+## Michael Scarpelli | CFO, Snowflake
+No, business is good. Listen, we grew 28% quarter year over year quarter. We grew 30% last year, which was very good. We improved our operating margins in Q4. We went through, and Sridhar really drove this, as well as a number of others, with what we called our Project Get Fit, where we really rationalized a number of teams, cut out management layers. We did a lot of performance management while still hiring people, and we're still hiring quite a few people this year. We just guided for the quarter, and I feel good about the guide we have. It has an implied second half acceleration in our business. You have to remember, Q1 is our toughest comp, just given Q1 last year was a good quarter, but it also had the extra day. I would say business is good.
+I would say it's definitely not euphoric, but it's a stable environment. Within our existing customers, which are the ones that drive revenue, they continue to consume, and we've identified a number of new workloads with many of our customers to go live on. There is a lot of uncertainty with new projects, though, in terms of landing, and when I say that, I haven't seen it yet, but as everyone knows, there's a lot of uncertainty with what's happening with tariffs and reciprocal tariffs and whatnot, and you hear it on the news all the time. I haven't heard a single customer mention that yet in the ones that I've talked to, but clearly that's got to be on the minds of many people.
+## Moderator | 
+Yeah, you just can't get away from it.
+## Michael Scarpelli | CFO, Snowflake
+Yes.
+## Moderator | 
+It's actually been nice this last two days not watching CNBC.
+## Michael Scarpelli | CFO, Snowflake
+Yes.
+## Moderator | 
+It's nice to be in here with you guys. Tariffs don't affect you.
+## Michael Scarpelli | CFO, Snowflake
+No.
+## Moderator | 
+Economically in any way, right? And just so because it's kind of interesting. So it doesn't. Why is it not? Why do tariffs not impact software?
+## Michael Scarpelli | CFO, Snowflake
+First of all, it's all, you know, that's a good question. I don't know.
+## Moderator | 
+Yeah, it's going to be great. Yeah.
+## Michael Scarpelli | CFO, Snowflake
+You know, we do what we are seeing more so, and there's a lot of countries that are being really aggressive with transfer pricing right now, which in essence is a form of tax we're paying. Like India is being very aggressive on transfer pricing right now, and that's probably the country where we pay the most cash taxes. And as we do more in India, for instance, they're taking the stance that your transfer pricing should be cost- plus 26%, and then you pay a high tax rate on that 26%. That is a form of taxation that is going against U.S. businesses. So we do pay, our customers do pay VAT on the software that they buy. So that is to be determined what, if they do anything on software.
+## Moderator | 
+What is transfer pricing?
+## Michael Scarpelli | CFO, Snowflake
+When you are incurring costs in a country, you have two models you can do. You can either do a, and if you're a selling entity or a back office or R&D and a selling entity, you have two choices. You can do cost plus reimbursement for those people, and that is transfer pricing, or you can do a distributor model where the distributor makes a profit and that says they buy the software from you and resell it. Most companies do a cost plus reimbursement on the sales side. Some countries, you have to do a distributor model because it's more tax advantage to you.
+On the cost plus where you have an R&D function or a back office G&A, internal IT, you typically, in those countries, you have to do a markup on that and pay. You have to guarantee a profit and pay tax in those countries on that.
+## Moderator | 
+All right, that's something I got to look into. Let's talk a little bit about why you're leaving us.
+## Michael Scarpelli | CFO, Snowflake
+I'm old.
+## Moderator | 
+Why are you leaving us, Mike?
+## Michael Scarpelli | CFO, Snowflake
+I'm old. You know, I've been doing this for a long time. This is my fifth public company. When I was at ServiceNow, I had indicated I wanted to leave and was going to retire. And to be honest, if Frank never approached me back in April of 2019 to join him, and I remember he asked me to come and have a coffee with him, and he said, hey, if you'll do this, I'll come out of retirement and do it with you. And so the more I learned.
+## Moderator | 
+Did you guys have the coffee?
+## Michael Scarpelli | CFO, Snowflake
+We had the coffee at Ruby Hill Golf Club, where he was living at the time, and I just happened to be golfing one Saturday morning there and said, we could meet there.
+## Moderator | 
+That's funny. Okay, and so.
+## Michael Scarpelli | CFO, Snowflake
+And I had always told Frank when I joined Snowflake is, "listen, I will guarantee you when you leave, I will stay minimum one year.
+## Moderator | 
+Yeah.
+## Michael Scarpelli | CFO, Snowflake
+You know, it's been a year now.
+## Moderator | 
+Yeah, yeah, and we appreciate that.
+## Michael Scarpelli | CFO, Snowflake
+But I'm in no rush to leave.
+## Moderator | 
+We appreciate that you're in no rush too, so.
+## Michael Scarpelli | CFO, Snowflake
+I just thought it was going to be better that we do a public search for a new CFO. I think you get a lot better candidates when it's a public search where they know that I am really leaving. You know, I've tried over the years to hire a number two with the hope that it will, like the promise to them that they will become the CFO. But to be honest, there's such a shortage of CFOs it seems out there, and it's really hard to hire someone and make them wait one to two years to be the CFO. So I'm ready to hand the reins over when we find the right person. I've said I'll do. If that person wants me to do a transition for whatever period of time, I'll give them the title.
+I'll stick around, but if they want me to leave because I think I'll be disruptive for them and harder for them to do their job, I'll leave the day they start. But we have to find that person first.
+## Moderator | 
+All right, so you have someone doing it, you have some high-end.
+## Michael Scarpelli | CFO, Snowflake
+We're kicking off a search meeting with a recruitment firm, myself, Sridhar, and our chairman of our audit committee who's getting involved in the search.
+## Moderator | 
+What are the characteristics you're looking for?
+## Michael Scarpelli | CFO, Snowflake
+You know, first and foremost, Sridhar would like someone who is very good with investors and credibility with investors. He'd like someone with a very strong FP&A background that is very operational, someone that can deal with customers. A number of the functions that I have will get moved and report directly into Sridhar when I leave. Like for instance, our CIO reports into me, including all of our security and everything.
+## Moderator | 
+Oh, really?
+## Michael Scarpelli | CFO, Snowflake
+That will move our general counsel and the hundred and something lawyers we have to report into me. That will move into Sridhar. But they have to be someone that is respected by the field. That's a really important piece and is someone that can also work across the company with all the various leaders in the company.
+## Moderator | 
+That's a lot.
+## Michael Scarpelli | CFO, Snowflake
+We're going to take our time and find the right person.
+## Moderator | 
+Yeah, it's a lot. That's a lot.
+## Michael Scarpelli | CFO, Snowflake
+You want the job, Pat?
+## Moderator | 
+That's a lot. No. I don't know how you guys do it.
+## Michael Scarpelli | CFO, Snowflake
+You got to understand taxes.
+## Moderator | 
+Yeah, yeah, no, definitely not. But keep my eyes out for who the right person is. Yeah, it's a lot. All right, cool. So over the last year, so you guys acquired Sridhar's company, right?
+## Michael Scarpelli | CFO, Snowflake
+We did.
+## Moderator | 
+Yeah.
+## Michael Scarpelli | CFO, Snowflake
+Neeva, in May. Neeva, May of 2023.
+## Moderator | 
+Yeah, and then so I guess he was just. I forget what he called. He has a word for the period before he was CEO. I forget what he calls it.
+## Michael Scarpelli | CFO, Snowflake
+So when we were acquiring Neeva, I was negotiating the deal with Sridhar. Frank really wasn't involved in negotiating that deal. And I remember when I talked to Sridhar, I literally, before we even closed on the deal, I'm like, Frank, Sridhar could be your successor. You need to spend some time.
+## Moderator | 
+He did?
+## Michael Scarpelli | CFO, Snowflake
+Yeah, no, it's a true story. You need to spend some time with him, and the more Frank spent time with him and the board got to know him as well too, we thought he was the right person.
+## Moderator | 
+Yeah. And so.
+## Michael Scarpelli | CFO, Snowflake
+I still believe he's the right person.
+## Moderator | 
+It seems like it. So what, just stepping back for people, over the last year, what are the two or three biggest things you'd point to that he has done?
+## Michael Scarpelli | CFO, Snowflake
+You know, I would say the number one thing that the immediate result was much, much better accountability within the engineering organization and product organization for ownership of the features and products that we're building. Really drove a lot more alignment between engineering, product management, and sales. I would say the speed at which we released. I think we released over 400 features last year, which you don't hear about all of them, but Sridhar is a big believer in our old engineering leader and product management would always want to work on all these new features, get them all bundled together, and then take their time to release them, and Sridhar's like, no, I want to release at velocity when we have a new feature done. Let's just roll it out and continue to do that.
+## Moderator | 
+You give it to her real time when it's ready, you let it go.
+## Michael Scarpelli | CFO, Snowflake
+We're rolling, obviously we do a lot of testing and everything too. In many of the cases, my IT organization is customer number one. We're huge users of Snowflake, and we test everything in production ourselves before it gets rolled out to customers many times.
+## Moderator | 
+All right, so big one was product innovation a lot faster, that's not the right word, is velocity of product innovation.
+## Michael Scarpelli | CFO, Snowflake
+Yeah. And then the next big thing that he spent a lot of time, this is where investors were like, oh, you know, he really doesn't have the sales side and stuff. Sridhar is an operator. He is really good at process. He's really good at understanding. And he is a student. He learns very, very, very fast. And he really revamped our sales organization to hold them more accountable, the management side of actually managing reps and getting leading indicators for who's going to be successful and not just looking at how many meetings a week are people taking, how quickly are they following up on things. He's great at being able to pull a lot of data just out of your Google Calendar to understand where the reps who are doing one meeting are going.
+## Moderator | 
+He'll do it himself, right?
+## Michael Scarpelli | CFO, Snowflake
+He does it himself.
+## Moderator | 
+Yeah, he doesn't need someone to come do it for him.
+## Michael Scarpelli | CFO, Snowflake
+I've learned how to use the Google Suite so much better through him on products. But then he also really has upped the level of our SE organization. We have a new leader running our SE organization who really built it out at Azure. He's been with us for a while doing different roles, but he's really reinstituted that every SE needs to pass a test. And if you don't pass a test, you get two chances, you're going to find another job. And really holding the bar higher. He insists on taking 30 of our best SEs and went through an extensive boot camp on AI so they could get in front of customers and really preach about what Snowflake is doing in AI and machine learning.
+## Moderator | 
+These are the sales engineers.
+## Michael Scarpelli | CFO, Snowflake
+These are the sales engineers.
+## Moderator | 
+They support your sales.
+## Michael Scarpelli | CFO, Snowflake
+Yeah, but you really realize that the sales engineers are the real ones that drive a lot of new workload adoption within our customers that leads to revenue.
+## Moderator | 
+Yeah. Are you increasingly looking to hire salespeople who actually have the skill set to be a sales engineer? You know what I mean? Where like they can build the demo and they can do the sales.
+## Michael Scarpelli | CFO, Snowflake
+You know what I would say, I see a day where that is going to be the place where a rep and an SE is interchangeable. We're not there yet. But what I will say is our best reps tend to be people who are SEs at a stage in their career. And you have to understand technology.
+## Moderator | 
+So it's a little bit of a trend. I've heard from people who are interviewing at Salesforce that if you can't build the agents and everything yourself, they're not interested. It makes sense, right? Like the whole point is you're trying to say that these things are easy to adopt, you better be able to do it yourself. Okay, so the other thing that I've heard is people are like, you know, what do we need for a new CFO? And they're like, well, it's got to be somebody who works 20 hours a day, seven days a week. Does he have a really high work ethic?
+## Michael Scarpelli | CFO, Snowflake
+Sridhar has no hobbies. He works all my emails too.
+## Moderator | 
+I heard him say that, yeah.
+## Michael Scarpelli | CFO, Snowflake
+He does go to the gym every day for an hour.
+## Moderator | 
+That supposedly posts his powerlifting stats on Slack.
+## Michael Scarpelli | CFO, Snowflake
+Yeah, that I don't know about. I don't see that. But he does go to the gym with the trainer every day in the office. But you know, my emails with him usually start at 5:00 A.M. We typically do a lot of early morning calls, but he also has no problem doing calls at 8:00 P.M., 9:00 P.M. And I get emails from him, and many times we talk on Saturday, Sunday mornings, and he works a lot. He's super high energy.
+## Moderator | 
+Yeah, I heard, I might have told you this story last year, but I had an executive at another company who was really excited that he got an introduction to Sridhar's for dinner.
+## Michael Scarpelli | CFO, Snowflake
+And then when the details came in, the dinner was in the office. Bring your technical team.
+## Moderator | 
+Well, that's what we.
+## Michael Scarpelli | CFO, Snowflake
+We'll order it. You know, I actually, you know, I get invited for lunches all the time with people. I'm like, I don't have time for lunch. I work. If you want to come meet me, I'm happy to grab a sandwich in our cafeteria.
+## Moderator | 
+Cafeteria is great.
+## Michael Scarpelli | CFO, Snowflake
+And I can bring it up to my office and we can sit in there and talk. And he does that for dinners. We don't do board dinners outside of the. Our board dinners are in the office, in the boardroom.
+## Moderator | 
+Okay, why don't we open it up to our audience for questions? I have a bunch of other stuff, but let's see what people want to ask you, Mike.
+## Michael Scarpelli | CFO, Snowflake
+You're stuck asking me.
+## Moderator | 
+No, I'm counting in the room.
+## Michael Scarpelli | CFO, Snowflake
+Oh.
+## Moderator | 
+No, no, they'll be playing about where it. Yeah, in the back, go ahead, and we have to remember to repeat the question.
+What are the primary competitive pressures that Snowflake can see from others in the market like Databricks and Fabric?
+## Michael Scarpelli | CFO, Snowflake
+You know, Databricks, we coexist in many of our large accounts. They really came at things from a data science persona and a lot of Spark. We really came at it from a data warehousing, and we've converged somewhat. But if you talk to our customers, they view us very differently in how they use us. I would say the biggest competitor to Snowflake, and we've said this since the IPO, are really the hyperscalers. And quite frankly, if the hyperscalers could do what we do, we wouldn't exist today. And I would say Google is probably the most competitive from a technology standpoint in the core data warehousing with BigQuery. Microsoft is probably number two. And if they can get Fabric right, they're still not there, that they will be more of a competitive threat.
+With that said, our partnership with Microsoft is probably the best it's ever been in improving, and AWS is the least competitive. Yes, they have Redshift, but we still replace it left and right, and the one thing that AWS and Microsoft Azure have figured out, and they get it, is if Snowflake is running in AWS or Azure, it gives them an opportunity to sell other software services around Snowflake. Google still hasn't got that yet, but they don't have a lot of other software services to sell. Yes, they have Gemini now, and how can we help them drive revenues associated with Gemini, and that's something we're working on. In terms of Palantir, we really don't, Palantir is really not a, I don't see them in deals at all. I'm not hearing about them.
+Where they tend to exist more, where they're very big, and I'd love to get some of their work, is in the federal space. But so much of that stuff today, what they're doing is different, is still so much customization. There's a lot of people involved in the work they do. So on the private side, it would definitely be Databricks. But listen, this is a massive market and growing, and there's going to be many successful people in the market with this because of how big the market opportunity is, and we're still growing very well.
+## Moderator | 
+Yeah, no.
+## Michael Scarpelli | CFO, Snowflake
+I think there's not many companies that scale growing at the pace we're doing. Why? Because we win more than our fair share of deals. And every deal is competitive. They always have been.
+## Moderator | 
+Yeah. I do feel like the volume of sort of the competitive discussion between the two of you has diminished somewhat over the last year.
+## Michael Scarpelli | CFO, Snowflake
+What I would say on that is that's more just because it's like Databricks has ratcheted down their tone on stuff, and it's not as public as they were. I don't think if you talk to our field, nothing has changed.
+## Moderator | 
+Oh, really? Okay.
+## Michael Scarpelli | CFO, Snowflake
+Yeah.
+## Moderator | 
+This SAP, oh, sorry.
+## Michael Scarpelli | CFO, Snowflake
+Oh, you can ask this.
+## Moderator | 
+No, we'll get to it.
+Speaking of federal, given the change in the last six weeks, what are you guys seeing so far in terms of how might that change your outlook for the federal sector for the year?
+## Michael Scarpelli | CFO, Snowflake
+Yeah, well.
+I just have a question for you.
+Yeah, so the question was, given the change in the federal administration with the government, and how does that impact our outlook for the year? Well, the federal vertical is our smallest vertical. It's like less than 1% of our revenue. And so, as I've always said, it's upside. And if anything, with what's happening with DOGE and efficiency, I think we can add a lot there. With that said, we spent the last two years investing very heavily in our federal segment, getting the certificate IL-5, FedRAMP High. There's some protect or BCAP, and there's some other things, as well as onboarding some new partners. There's some interesting RFPs we're competing on. But from a revenue perspective, it's really not until next year that some of these, if they turn out, will pay off in terms of revenue. But I would say there's zero downside and only upside.
+## Moderator | 
+Yeah, in the back.
+There were some rumors about Redpanda acquisition by Snowflake. Is there any new strategy for real-time business?
+## Michael Scarpelli | CFO, Snowflake
+So I'm not going to comment on rumors in the news, but you know, we partner with Redpanda, we partner with Confluent, and we have a team of engineers that are working on real-time streaming as well too. It's a pretty small team. We will partner, and we do think we'd like to own the whole data lifecycle. And that is something that we are spending time on. So stay tuned.
+## Moderator | 
+Yeah. Can you just explain why the streaming is so important?
+## Michael Scarpelli | CFO, Snowflake
+First of all, I'm not a technical person, but I will.
+## Moderator | 
+Yeah, I mean, high level, just.
+## Michael Scarpelli | CFO, Snowflake
+You know, the reality is, the more you can control the writing of that data and the movement of data, it's owning that data lifecycle, getting it into Snowflake faster for our customers. What we always hear from customers as well too is people don't want to procure from various vendors. They just want to procure from one place. We hear that all the time. And so to the extent we can own it or partner, and if we partner, we're looking at doing things like letting it go through our marketplace so it can all be on our paper. We don't get the revenue. It's just the transaction fee we get, but making it easier for customers. And we do that right now with a number of our partners like RelationalAI, and we're working even with Fivetran and Matillion.
+Can they go through marketplace so our customers don't have to procure separately?
+## Moderator | 
+Yeah. Three contracts instead of one.
+## Michael Scarpelli | CFO, Snowflake
+Yes.
+## Moderator | 
+It's not really specific to Snowflake, but I thought I'd ask you anyways. So all this stuff about data center orders maybe being scaled back because of, you know, any thoughts on that?
+## Michael Scarpelli | CFO, Snowflake
+Yeah. It doesn't really impact us. And why I say that is, you know, we leverage all three clouds in pretty much every region around the world where they are today. And I don't have any issues getting GPUs, and I don't have any issues getting normal CPUs or storage. So I don't see that.
+## Moderator | 
+There are no challenges getting access, is what you mean.
+## Michael Scarpelli | CFO, Snowflake
+It's really gotten better.
+## Moderator | 
+Great.
+## Michael Scarpelli | CFO, Snowflake
+The price still needs to come down.
+## Moderator | 
+I think that's going to happen. All right. 30 seconds. Anyone have one last one?
+## Michael Scarpelli | CFO, Snowflake
+You were going to ask about SAP.
+## Moderator | 
+Oh, yeah. You saw that?
+## Michael Scarpelli | CFO, Snowflake
+Well, you started it.
+## Moderator | 
+So the SAP, Databricks, was that something that you guys were interested in getting?
+## Michael Scarpelli | CFO, Snowflake
+You know, we're working with Databricks and, I mean, and SAP and similar to do bidirectional connectivity with the movement of data. But the reality is, is we do, it's the same thing we have it today with ServiceNow and Salesforce. And the vast majority of customers just use that to move data into Snowflake. Very few customers we see take their Snowflake data and push it back into those other platforms. Why? Because they weren't built to be the data warehouse platform that we are.
+## Moderator | 
+All right, Mike, thanks so much. It's a pleasure.
+Data Source: Quartr Last updated: Mar 4, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

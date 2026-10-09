@@ -1,0 +1,338 @@
+TITLE: MoffettNathanson's Media, Internet & Communications Conference 2026
+DATE: 2026-05-13
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Thank you everybody for joining. Really appreciate it. We're going to keep this morning going. Today we have Leandro Cuccioli from MercadoLibre. Leandro is the Senior VP of Strategy, Corporate Development, and IR. I thought it would be a great way to start this would be some timely questions, maybe talking a little bit about first quarter results that you guys reported last week. Then we could move on to my favorite subject to talk about with you, and that's AI, how it's impacting product discovery, how it can compress the funnel. My favorite part, MELI is very transparent with how things are trending and how AI is impacting your business. I'm excited to get to that.
+Let's start with kind of the timely stuff that I know you guys were talking about last week, I'm sure you've been on the road this week talking about, and that's just a bit of the competitive environment that we're seeing in Brazil from Shopee, Amazon, and TikTok. Everybody's playing in different parts of e-commerce. Could you talk about what you're seeing in the competitive landscape year to date? Then we're going to obviously dig in on this, but just MercadoLibre's approach-
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+to the competition.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Well, thank you, Mike, for having us. It's our first time here, hopefully the first one of many. I think it's interesting on Brazil because it's half of our business. It's always been very competitive, right? Sometimes people, they talk to me as if competition started when Shopee arrived, but it never felt that it was not competitive. The difference that we have is that in the last 20 years, we've seen competition come and go. If you look at the last three years, the shape of the competition has changed. The local retailers that were a force, really, in the market, they have, in a way, retrenched. If you look in the last four years, many us had 20% market share. We have 40%, we doubled.
+Shopee went from zero to 20%, so they are half of our size, and they were nonexistent 3 years ago. Those 20 points of Shopee and our incremental 20 points from our side, they were burnt by probably the local retail. The market has been growing 15%, but in terms of share. Amazon has stayed at the same kind of 10-ish percent, so now they are clear number 3 in the market. I think what it is fair to recognize that in the last 3, 4 years, the Asian players, not only Shopee, I think others, have brought a new sliver of consumers into the market that are probably They are not different consumers. Maybe it is us in some of the shopping missions, that we are willing to sacrifice level of service for price. "Oh, it is a $2 necklace. Well, can I get it in 3 weeks?
+I don't care. Yeah, it is so cheap that I can wait." That was brought by Temu, Shein, Shopee, and I think that has been the innovation that then we had to adapt, and we can talk how we adapted and responded.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah. I mean, the U.S. market, not immune from the Temu and Shein incursion. There was an extended period of time where it was pretty much all I talked about with investors, right? Trying to figure out exactly what they are doing and state ambitions, how they were going to do it. How is MercadoLibre investing behind your strategy to compete with the competition? You talk about it on your earnings calls and in your shareholder letters, a couple of avenues with first-party logistics, marketing, credit. You pulled a couple levers there, so if you could maybe walk through how you are using your strength and your footprint to compete.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. There is a philosophical cornerstone of everything that we are doing is that we are the market leader. The market leader needs to develop the market, right? If not, someone else will do it for you, and you will cease to be the leader. When you look at the size of the pie, because sometimes we think it is a zero-sum game, but we are at only 15% penetration of e-commerce over total commerce in Latin America. Put it another way that it is, for me, easier to probably explain. The average consumer in MercadoLibre buys 10 times a year with us. 10 times a year, so less than once a month. With Amazon in the U.S., it is 50.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Right? We have 5x transactions out there, and then you adjust, well, GDP per capita and all of that. Just think of transactions. Don't think about the value of those transactions. That's not going to be the same GMV. How many transactions a family does in Latin America, and how many of those we're capturing as the online world and us in MercadoLibre is a fraction. We're very early. That's the first thing that we want to make sure that people understand. Even if we're big, even if we are BRL 100 billion market cap, well, a little bit less today, but the growth that we are seeing in front of us is tremendous, right?
+I think that in order to capture that and respond to that level of consumer that was unlocked by the Asian players, you see that the more that you remove friction, the more that you bring those people online, and you go from those to 10 to 50 transactions. What is friction? Friction is logistics and the cost of shipping, friction is credit, and friction is assortment or lack of, right? The three areas is where you've seen our investment in the last few quarters, and if you follow us, it's going to be the next quarter and the quarter after that, and three, four quarters from that, and eight quarters from now.
+We're going to be talking about the same. At the end of the day is if you want more assortment, you need to build your supply chain from China. We opened our first fulfillment center in China. We have more than 400 people from MercadoLibre in China now. In April, and this, we didn't announce it in the earnings because it was after results, we went into a fully entrusted model like Shein. Basically, the difference between Shein and Temu is that Shein dictates the price and then goes and gets manufacturers to just bid for that price. In order to do that, you need to have a very well-developed web of relationships in mainland China with SMEs. These are not big companies. We started to do that now in April.
+We are going all in trying to have that assortment that, again, it's not that it's a different consumer. It may be me, that at certain points, I want the BRL 2 necklace, and I can wait three weeks, and in certain points, I want the iPhone and I wanted to get it same day. That's an area of investment. The other, removing the frictions, has been reducing the free shipping threshold. We're different from Amazon. Amazon is Amazon Prime and non-Amazon Prime. Inside Amazon Prime, everything, outside Amazon Prime. Well, you don't want to be outside Amazon Prime.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Right?
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+We are different. We have established a free shipping threshold, anything that you buy above a certain threshold of price, either if you are Meli+ or Amazon Prime or not, you get free shipping. We lowered that six, seven times. It's the fourth, fifth time in Brazil since 2017 in which we introduced this in Brazil. The last reduction was from BRL 79 to BRL 19. The BRL is 5 to 1 to the dollar, just do the math, it's $3, $4 that we are actually at. Over $3-$4, you get free shipping. That created an acceleration of growth that is insane. We went from 26% growth in packages to 56% in the first quarter of this year. We launched this in June of last year.
+All of these, plus the credit card, that we can talk about it, are our ways to, again, very early in the game, trying to go for those 50 transactions.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+This reminds me of when I started my coverage at Amazon in 2022. It was coming from the outside looking in. They had gone through a big investment period, built out their fulfillment network. It had been an investment phase, in street parlance, to say a negative revision cycle. It's hard. Investors, despite the name, investors don't always love investment cycles. When I do that similar ramp approach, looking at what MercadoLibre is doing, when I see the results, the acceleration of units in Brazil through the year. What you're doing is working. It's not like you're making these investments and it's not moving the needle. You're really accelerating adoption, taking share. The unit growth is really mind-boggling from a U.S.-based analyst. What have you learned from this process? I think you could argue it's really brought out the best in MercadoLibre.
+Maybe it required you to pull forward some of these things that might have taken a little bit longer to get to. Have you discovered certain parts of your business where internally you guys look around like, Wow, this moved the needle more than we thought. This might have had to occur faster than we thought, but the unit acceleration is just fascinating.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+We were surprised, but we shouldn't. At the end of the day, you are surprised that when you remove frictions and you reduce the free shipping threshold, the habits of people, how they buy, it changes. If we all remember in this room how it was before Amazon Prime, remember when Amazon Prime, I think it started at $5. It was GBP 5 in the U.K. when I was living there, and it was free shipping. Remember, until now, I remember it was, I don't know, 2012, 2013, I was assembling carts until then. From Monday to Friday until I could get my free shipping or so, get everything in one order. Then when Amazon Prime came, you started to buy, from thinking to buying like an instant reflex. No wonder that you do that in Latin America.
+Latin Americans are no different from Americans or Europeans when you give them good service.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yep.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+They do that as well. The explosion in frequency has been insane, and you see it in the packages. The explosion, we are getting 29%, 30% new buyers into the platform, and you say, we have 125 million. The population of Latin America is 650. How on earth are you bringing 30% more? I think that it's amazing to think that in 2026, there are still people out there that haven't bought online in some of my markets, right? When you make it easier, they say, "I'm going to go and try it." Then when you get it next day in a beautiful yellow bag, and it arrives perfectly, you buy again. It has surprised us the speed that it has taken, and that then poses a big challenge in terms of catching up with the investments that you need to do.
+Ours is an industrial business. It's not software in a way, right?
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+When we get 56% increase in packages, well, boy, you need to deliver them.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+You need to store them. Basically, the increase in investment that we had to do to accommodate this wall of demand has been putting margins under pressure in the short term. I understand investors. They say, "What the hell are you doing? Two years ago, you were earning 15% of margin, and now you're earning 7%. Can you explain to me how is that a good thing?" Well, I think you need to go back to that philosophical angle of where we see the opportunity from 10 to 50 transactions. If we don't agree on that, then this is not the stock.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Right? This is not the company. Just stay away because it's not changing. That is not changing. I don't see it changing in the next quarters. The way you can monetize that, through ads, through fintech, etcetera, the opportunity is much larger than what we imagined.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+When you look even in the U.S., I look where MELI sits today, looking at frequency today, Amazon is still getting incredible frequency unlocks by continuing to this. Right? If you look at what they've done with their same-day grocery business, they launched more Amazon Now yesterday. I was at a conference and the Amazon grocery executive was talking about their grocery consumers purchasing 14 times a month. The average American used to buy six times a month. Right? Build the big basket that you talked about. Now, when consumers around the world, it doesn't matter where you're from, realize this, I can just press a button and this is going to show up really quickly. Frequency explodes. You take more wallet share. What you just alluded to, great segue to my next question, I'll use a sports reference because this is what's always on investors' mind.
+If this was a soccer game or football for you, are we in the first half, are we in the second half of the investment cycle, in the stoppage time? There's a long investment horizon here.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. I would say it's 20 minutes of the first half.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+45.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Just to make sure that.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+There are two halves.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+We are at 20 minutes in the first half. It's so early that I think investors need to realize that this is not something that goes away next year. They ask me what that means for long-term margins. What I'm still very bullish on that because I can see that we're 2.9% of GMV in advertising versus an Amazon and 67 or what we're doing with fintech. I think that e-commerce is becoming, in an ecosystem like ours, the basis for the data, like a channel for us to have data that allows us to monetize in a way that no one else can in Latin America. I think retail will always be a low margin business, per se, if you take ads, because now it's groceries. Tomorrow it's going to be two hours delivery, and then the drone fleet.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Just you name it. Right? There's always something in front of you because consumers want it faster and more convenient, and they want a great price. That will not change today or in 2050. Now, how you monetize that layer, if you control that layer, is the game. The guy from Meituan that we respect a lot in China, he was saying, "Look, I'm building the infrastructure because tomorrow is going to be robots. I'm going to control the robots. I'm going to control the infrastructure. I'm going to move the atoms." That always going to be a competitive advantage. I think that we're all looking at that game.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+It's amazing how quick this all happened, where five years ago, three years ago, we weren't even talking about. Now it's autonomous robots flying around, delivering packages, AI helping you discover your products. Building the infrastructure is going to be the remaining moat-
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+as the world changes. Transitioning a little bit, the way your business is integrated from the fulfillment, product discovery, to then credit is fascinating, and again, extends, I think, what your competitive advantage is. Something that has repeatedly come up recently is your expansion of the credit portfolio. I'd love to know how MercadoLibre thinks about the risk-reward in expanding the credit portfolio, where you get your comfort from, and maybe what you're seeing within the loan book and the outlook there.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. I think it's need is the mother of all inventions or something like that, right?
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+It wasn't the plan. If you go back to 1999 and the plan that was written at Stanford Business School about MercadoLibre, it had Mercado Pago, which is our fintech arm, into it as a payments mean to make sure that sellers could communicate with buyers and trust in each other and exchange goods. Remember that MercadoLibre started as the eBay of Latin America, right? It was an auction site. People didn't trust each other on that, would you deliver the goods, I would get paid, and all of that. Mercado Pago was created out of that need. It was the PayPal to eBay, right? Over time, thinking of how you increase the business in Latin America, we started to discover a region that was widely under-penetrated on financial services.
+The banks in Latin America have been very comfortable lending to a portion of the population. Dirty little secret of the Spanish banks, if you like to look at balance sheets and those things, look at BBVA, Santander, and all those guys, where they make their money, half of that comes from Mexico. Its ROIs are insane. Well, that tells you something of they haven't been doing. They never included part of the population. Today, in 2026, you have 40% of Mexicans, 40, that don't have a bank account. I say it again because.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+40% of Mexicans don't have a bank account. 85% don't have a credit card in 2026. You say that's insane. That's south of the border. If you look at Latin America, more or less, you have a shade of gray of going from Brazil, where in the last 10 years, the financial inclusion has taken off, to Mexico and Argentina in the middle. Right? When we started to grow, we saw that if we didn't have a means of payment and credit, we were having a big friction that would not allow us to grow. We went into credit first because of a necessity for our merchants. What gives us comfort? Well, it's the same thesis that was in 2017 when we went into the merchant lending business for our merchants. We have better data than the rest, right?
+I think that today you could argue that MELI has better data than the National Institute of Statistics of any of these countries, right? We have real-time data on the economy, real-time data on our merchants. We started lending to these guys working capital loans on the back of what we were seeing in the platform. When we got comfortable with that, we went into consumer.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yep.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+We started with very short term, buy now, pay later stuff. We went into personal loans, and then we said, "Hey, why don't we go into a credit card?" Why the credit card? Because in a market in which a lot of people don't have financial inclusion, in a market in which 50% of the economy is in the gray economy, you cannot show up in the bank and say, "Where is your payment stub?" "Oh, here it is. This is my payroll." "Right, okay, we'll give you a credit card." "No." "What do you have?" "I have nothing." Basically, the bank says, "Thank you very much.
+Get out." We went into a segment of the population that we knew better than the rest, and that's what has given us comfort to issue credit cards to people that never had a credit card in their lives. If you look at our NPLs, if we look at the whole of our portfolio, it's been amazing. Why? Because we know better than the rest. There's no credit bureau in Mexico, I mean, good luck in lending. I mean, you can lend.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+You will not get paid. Lending is easy. Getting paid is a difficult thing, right? I think that has created a big moat around it. When we link it to the marketplace in which you have 24 installments to buy in Apple official store in Mexico with the Mercado Pago credit card, you create a cycle that is very hard to replicate. That's been the core. People ask me, "When are you going to partition the two companies? Would you IPO?" No. I mean, they stay together. I think that was the worst mistake of eBay and PayPal back in the day. I mean, you need to keep this ecosystem together.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+When you're taking your approach of reducing friction, banking people and providing credit that don't have it, that's got to be top of the list, right? Because you can't purchase without it. Following on that, you guys have been a market leader in Argentina for a long time, and now you're making the credit push into Argentina. Why now is the right time to make the push into Argentina for your credit book?
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Well, I'm Argentine, so the next things I'm going to say, I'm authorized.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+I've been in the government.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Of Macri for four years.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+I mean, I think it was crazy, right?
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Just when you have 150% inflation, or you stop counting, it's very hard to lend. You can lend in a very short term, but any structured product, it's very hard to price an interest rate, real interest rate in which you can make money. Someone is going to be very, very hurt after that, right? Either the consumer, or yourself as a lender. As Javier Milei has done a very good job in bringing that down, still is at 30% inflation.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+It's not that it's 2% a year. That unlocks the ability to start pricing some products and being able to, for example, offer a credit card, to a population that, in Argentina. We went to China in 2017 to see innovations, and we were amazed by the QR code, right? We brought back the QR code to Latin America. The only place where it stuck is in Argentina. In Argentina, if you go, you better have Mercado Pago because you will not be able to pay anything without a QR code, right? You go into a shop, it has a QR code, and then pops up, you pay, right? We have 60% of the adults in Argentina using that day to day. I think the other company that I've seen like that is Kaspi.kz in Kazakhstan.
+There are not MELI examples of such a control in terms of the daily transactions. The credit card, it's like an obvious thing to do there. It had to be ready from a macro point of view. That's why now it's been the moment in which we expanded. We started credit cards in August in Argentina. We're already issuing the same amount of credit cards like in Mexico. Why? Because again, there are 50% of the Argentines that don't have a credit card, but they're with us. It's a very fertile ground.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+You, I mean, in Latin America, you don't need to get either too excited or too pessimistic, right?
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Just down the middle.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah, down the middle. Very careful.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+I like QR codes for shopping. I'd be okay banning them for restaurant menus.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+I hate restaurant menus. I think that was one of the worst things of the pandemic.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+That stuck. Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+That, and that stuck.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah, it is. Like at some restaurants, I just want to leave when I see that.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. Absolutely.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Transitioning now back to what's my bread and butter, right, is e-commerce fulfillment. Your unit costs, and cost of service, we call it in Brazil, I think declined 17%.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+in the first quarter. It was down 11% in the fourth quarter from as you're making all these investments, I guess as a U.S.-based analyst, thinking about that much levered on a fulfillment network is mind-boggling. Can you just walk us through how you're finding that leverage? Is it more volumes amortized over cost base, greater efficiencies you're kind of finding through the network? Anything there, I think, would be great.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. We, I'll try not to be too technical so people don't snooze. It's the moment that we lower the free shipping threshold, to BRL 19. We were at BRL 79, we went to BRL 19. From BRL 19-BRL 79, what we're telling the consumer is, "You get it for free, but not fast. It's slow. You don't get it tomorrow, right? You can get it in three, four days." People, again, going back to the $2 necklace, they say, "Well, what the hell." Right.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+I mean, "Sure.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Send it to me." Interesting, you get a lot of people to the checkout through that, and then some people in the checkout, they look at the price of it being delivered tomorrow, say, "Well, you know what? Actually, I want it tomorrow and I'll pay for it." You already drive them in a way to the checkout with a promise, with the option of being free. That large proportion of the people elected to be free. That what means is that our network that has been head-to-head with Amazon for 10 years, building the fastest network in Latin America, is fast and expensive. Fast is expensive, but slow is cheap.
+You could imagine that you have a fast network, and then you could layer on top of that a slow network in which now if I had a line haul, which is the big trucks that go between big distribution centers for us, it was 70% full because it had to be tomorrow. Just those items need to get there tomorrow. Now you have another 30% of that truck that you can fill with the stuff that goes in three, four days. The same thing for your warehouse, thing for your last mile, thing for everything, because you can group deliveries and do a lot of that. That, in a way, that scale depresses your cost because you're utilizing your network in a more efficient way. The Asian players are cheap and slow. Amazon and MELI on the other extreme, fast and expensive.
+I think these guys are trying to become-- they want to go through the ASP range, so they need to be fastest because you don't want to wait for an iPhone for 10 days, because you don't know if it's going to arrive. You're going to get very nervous. At the same time, we are all going into saying, "Look, there is a consumer out there that it's willing to wait, and that allows me to capture economies of scale that I couldn't capture before." That's what's happening.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah. That's segmenting the purchasing intent-
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+over speed is a great approach.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+That allows you to fill-
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+your network in a more efficient way.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah. U.S. just obsession over speed. I'm not known for being patient myself. You've talked about keeping headcount flat for your product development team-
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+I believe. As we're also in this world where you see all the companies now, measuring people's token consumption and things like. It's become a debate that's quickly gained a lot of momentum. We went from, I would say, even three months ago, AI is going to disrupt marketplaces. If you earn a digital dollar, everything's going to change, and that was dinging the companies. After last quarter, it's everybody's using a lot of tokens. This could weigh on OpEx. I'm like, wait, we went from AI as a problem to now people are using so much AI to improve their business that now that's the problem. A little head-scratching at times, but how do you marry the balance of headcount, but then also product delivery speed and product velocity?
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. You're right that some of these questions are insane, right? You go from one quarter of saying it's going to be the end of the world, to the other quarter of saying, "Oh, you guys are doing great, but you're spending too much to be too great.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+That's fine. I think on the third quarter of last year, we told ourselves we will not increase our headcount, period. Mercado Libre, right? With the exception of logistics, because we still don't have-- While we're doing a big ramp-up in robots, there is not enough capacity in the world of robots to be able to supply everything that we need if we wanted not to have more humans at growing at 56%-
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+the packages.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Makes sense.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+That is something that we cannot do. In the rest, my teams, I have 60 people in MELI in all my teams. You're going to be at 60. The business is growing 30, 40%, just figure it out.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Right? How are you going to figure it out? We're going to give you all the tools in the world to figure it out. We are one of the largest rollouts of cloud co-work in the world. We have 31,000 people today using cloud co-work and MELI, which is everyone that is not in a warehouse, call it. Last year, the fourth quarter was all you can eat. Get out, do stuff. [inaudible], you pick it. Do it. This year, we put in your mind everyone's goals for the year. You need to automate some flows with AI as part of your goals for the year. What do you do with that? People just jump into AI like there was no tomorrow. Well, guess what? That puts the cost of tokens through the roof.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+We said, "It's fine." We are in a moment of transformation. Just don't worry about the cost at the beginning. What we started to do this year, once that we saw that we had 98% adoption of AI or some ridiculous number, we said, "Well, now you need to start showing what you do with those tokens." One of my teams has been tasked on getting that to part of your P&L for each manager, having the tokens per person that you have consumed and part of your objectives. You need to tie that to your object, as if you were using any resource, as if you were using the credit card for travel or whatever. We are in that process now.
+I think in the short term, when you look at our Q1, those results, you see the line in G&A that has, in a way, accounted for this increase in cost. Over time, I think the cost dilution is amazing. Those investors are right.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+What's happening now is that you brought all that cost up front. There is some things that are happening with the AI front that are very hard to say how much of the 73% increase in advertising revenue that we had comes from AI. Well, there is AI there in a lot of things. How much is that helping the search? We can discuss that, then ends in 49% growth in revenue. It's very hard to dissect. I know the data, but we don't show it, that shows how the conversion changes when we roll out the LLM tools in the search because we're showing better things. It's harder for investors from the outside to put a number to the AI net effect, and I get it. Over time, I think it's a no-brainer.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah. We get to get to my favorite subject. Right? I could have done 45 minutes with you just on AI.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+ads and product discovery, but then I probably would've walked off stage with a bunch of emails about not asking about the investment phase. All right. Let's We have eight minutes to
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+talk about MercadoLibre's approach to the consumer-facing aspect of AI
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+which you and I have talked about a bunch, and I think it's fascinating what you're doing, and I love the transparency. Amazon and MercadoLibre and other market-dominant e-commerce players, everybody sat out the ChatGPT checkout, right?
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+If you're number one, you weren't doing it. Recently, some of them joined Google's UCP. I would love to hear the strategic rationale for why MercadoLibre wants to, for now, do it themselves, bring it to the consumer on the MercadoLibre platform, and then we're going to start to dig in on that.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah, I think they are different. The UCP, it's different from the checkout of
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yep. Totally
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+OpenAI, by the way they discontinued the instant checkout.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+I'm glad that we didn't join because it would be over by now. I think it goes back to the principality with the consumer. I think we have achieved a situation, probably Amazon here in the U.S. as well, or in Europe, that the consumer starts their journey at MercadoLibre, right? We fought very hard to get that. It's not very sexy, but fraud protection
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yep
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+buyer protection program, getting the stuff in your door next day. "Oh, I don't want it. I want to return it." When it's very easy. All of that, right? Marketplaces work very hard to build that infrastructure, and I think that if you're in the leading position like we are, why on earth would you hand that to someone that can disrupt you in having the relationship with the consumer, right? That's been the discussion with-
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+OpenAI, very frankly, is saying, "Guys, I can get why Etsy and Walmart does it." They are our second or third in the market. If you are the leader, why would give you my catalog? Right?
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+You basically make their business complete.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. I would make
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yes.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+here you have the keys to e-commerce in Latin America.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yep.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Thank you very much. Call us engineers.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Right? We said, "Look, it doesn't make any sense for us." It makes sense for us that we show in your search, et cetera, but the access to our catalog, so a consumer can ideally complete a transaction from A to Z in ChatGPT is not a good idea for us. You cannot live only a life of blocking someone else from doing something. You need to do it yourself. I think that Amazon, ourselves, Coupang, just you name it, we are all Flipkart. We're all in the same journey of trying to retain that customer inside our platform by offering the discovery tools inside MercadoLibre that allow you to have that kind of AI-assisted discovery of product. I don't believe in a world in which we are going to be in white tunics and someone will buy something for us and say.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Oh, buy me some shoes." Then.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+That's bullshit, right? I think we love shopping. I believe in you doing a search and the search box of MercadoLibre or Amazon knowing you better than anyone and saying, "The shoes that you're wanting to buy are this." You say, "How on earth do you know?" It's like Meta when you say, "Oh, Instagram is hearing my phone.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+They're so good-
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+in that, of really understanding and connecting the dots to really bring you the products that you really want. That, I really believe on. Right? You can have a conversation around that, Ã la Rufus, but sometimes it's not a conversation. You don't want to have a conversation. You want to search for something and bring the right result. That's where we're focusing most of our efforts, and we see the big gap in conversion.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+This is my single favorite subject in e-commerce right now. I agree with you. I don't believe in autonomous agentic. You say, "I need a 12-inch frying pan," and it just shows up tomorrow.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. Maybe with toilet paper.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah. MercadoLibre is the first company to speak transparently about what they're seeing in consumer behavior. You talked in the Q1 call that you rolled out LLM in search.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+I've been annoying all of my companies on their earnings call asking what they're seeing in behavior with this, and they're, "It's still too small." You were very transparent about it. Higher conversion rates, great return on ads. That's the debate, right? Especially some of the Western-based marketplaces, they literally make all of their earnings off of their on-site ads business. If the funnel compressed, there's this concern like, oh, what's it going to mean for the on-site ads? What does it means for the CPCs? If I listen to the language from your call, it sounds really encouraging. You're seeing higher conversion, but I think that you used the words better ad, how the on-site ads business is insulated, how it can behave in this type of new product discovery world, and what it means.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. You said it's early, right? What we're seeing We never had a big branding business, a very big top of the funnel advertising business. 85% of our business is search. In a way, if I bring a customer from an LLM that kept 20 minutes discovering the best pair of shoes, then they come and they buy the HOKA shoe inside MercadoLibre, my bread and butter has always been and continues to be having advertisers bidding for a position-
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yep
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+there in the search. Actually, I'm bringing a better customer with a higher conversion intent. If I have good, on the other side, better LLMs for doing the advertising, I can show the right advertisement to that person. We are seeing that weird effect that the more that we, in a way, makes things easier, so fewer clicks in a way, just to get to where you want. On the other side, that it's worth more for whoever is bidding money to show your product in front of that face. That you see it in what's happening with advertising right now. Again, we don't have a big brand in business that we may be losing to the discovery phase, in which probably the banner and the things that you're trying to show an impression, not a conversion.
+Ours has always been a conversion business, I think we're more insulated in a way. It's early days, right? I think the question still is a very good one.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah. Just, I don't want to put words in your mouth. If the funnel compresses fewer clicks, some marketplaces have talked about double-digit amount of clicks per purchase.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+You're like, okay, well.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+I think it was 14
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+it was 14, Amazon said at the unBoxed event 2021.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+If that goes to seven, and we're just arbitrarily picking a number, it sounds like what you're saying is the CPCs, the value of those clicks can go up proportionally enough-
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Correct
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+to offset the declining clicks.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Yeah. That, and one aspect that we generally I don't see in the analysis on the other side, if you take our two, three million sellers in Latin America, only a fraction, a very tiny fraction, less than 10%, are advertisers in MercadoLibre. What AI does is that it lowers the barriers to entry to these guys, because you bring a very rough video, we can make an advertising for you. You lower the barriers on the one side, and then you make it a better return on the other side. Well, I think you already have a very booming advertising business. You can have one. I mean, it's not a doom scenario by itself.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+I love this. The fact that you are the first really to talk more transparently about it. A lot of people are avoiding the subject. It has been an absolute pleasure, Leandro. Thank you so much for-
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Thank you
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+joining us today. I love observing MercadoLibre. Truly fascinating business.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+You should initiate on MercadoLibre.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+I'm always working.
+## Leandro Cuccioli | SVP of Corporate Development, Strategy, Sustainability, and Investor Relations, MercadoLibre
+Thank you.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Thank you so much. Appreciate it.
+Data Source: Quartr Last updated: May 13, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

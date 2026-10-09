@@ -1,0 +1,323 @@
+TITLE: JPMorgan Industrials Conference 2026
+DATE: 2026-03-18
+## Wahid Nawabi | CEO, AeroVironment
+Japan, Philippines, Indonesia, Australia.
+## Seth Seifman | Executive Director, JPMorgan
+Cool. Here we go. Good afternoon, everyone. Welcome back to the Aerospace Defense track at the JP Morgan Industrials Conference. I'm Seth Seifman, the Aerospace and Defense Equity Analyst here at J.P. Morgan. We are very grateful to have AeroVironment with us, AV, and we have both CEO Wahid Nawabi and CFO Kevin McDonnell here with us. Guys, thank you very much. We appreciate you being here, and there's a lot of stuff that's kind of very topical for us to talk about. Thanks for coming. Maybe we'll just do some Q&A here, and then I'll also open it up to the audience if anyone in the room has any questions.
+I guess we've got a lot to cover, but maybe you know, starting off, it seemed recently that there was a little bit of slowness maybe in some of the funding that was coming out, particularly from the reconciliation bill. You know, I'm wondering now that you know, now that the government's been back open for a few months, now that we're a little further into the calendar year, have you started to see more of those resources flowing? When you think about what was in the reconciliation bill, where are the main opportunities for AV?
+## Wahid Nawabi | CEO, AeroVironment
+Yeah. Thank you for having us, Seth. Yes, there were some delays primarily due to the government shutdown and the reconciliation bill and the CR that happened throughout the whole year. The budget just got approved a little while ago, not, you know, like a month ago or so. The dollars are still coming through from the approval process from the Congress to the OMB, and from there it's gonna flow into the specific accounts of the services, Army, Navy, Air Force. We're starting to see some trickle of that. I think it's the beginning. In the next three to six months, I think we'll see a significant more uptick on the potential of orders coming in and contracts flowing down to us as well.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+A.B., in terms of the, is there a lot or is there anything for AV in the reconciliation bill and in the budget? Absolutely.
+## Seth Seifman | Executive Director, JPMorgan
+Mm-hmm.
+## Wahid Nawabi | CEO, AeroVironment
+We're on some of the highest priority categories. We're on the strategic categories in terms of both demand and importance. Those are things such as drones, Group 1, 2, and 3, loitering munitions, one-way attack, RF detect and defeat jamming systems such as our Titan series, as well as ISR is obviously requirements now because of the conflict that's going on in Iran for directed energy LOCUST systems.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah
+## Wahid Nawabi | CEO, AeroVironment
+That could be a very significant player in the long run. I also mentioned that, you know, persistent long range long endurance ISR, such as our Group 3 JUMP 20, JUMP 20-X is ideal for those types of needs that are out there in the market. There's a half a dozen of our products that are in production today. We're making them in quite, you know, probably largest volume in the industry, and we have the capacity to produce, and we have the ability to actually deliver a military grade, operationally relevant systems to the market as soon as the funding makes its way.
+## Seth Seifman | Executive Director, JPMorgan
+Okay. Excellent. Yeah, you mentioned loitering munitions among the products that are in demand. Loitering munitions products where AV was really a pioneer in the market. Could you talk a little bit about how you see that market evolving? I know people, you know, people hear about loitering munitions being manufactured by several different companies. How do you think this market evolves in terms of, you know, how many companies can grow and kind of have a decent share in this market? What distinguishes AV from the competitors?
+## Wahid Nawabi | CEO, AeroVironment
+Our history is exactly what you described. I mean, these categories that we're the leader in is essentially categories in many cases that we've invented the category. The term loitering munition did not exist before Switchblade Switchblade's become synonymous to the term loitering munition in the market, number one. Number two, we've got the most proven technology in the market. We're producing in high volumes today at program and record level rigor and certification and safety confirmation levels for this loitering munition, and we're way ahead of everyone else in this category. The market, however, is large, and as a result of the success of Switchblade and loitering munition, the lowest end of the market, probably the smallest part of the market, is this FPV drones that are, you know, have some sort of a explosives strapped to it. That is a 1 km to 5 km conflict problem and solution. It's most likely not relevant for a majority of the conflicts that are around the world that the U.S. is gonna face.
+The kind of conflict that we're fighting in Ukraine is very different than what's going on in the Gulf. It's going to be in the Pacific. It's going to be in other parts of the world potentially, hopefully not. That's one. Two, in that space that we're in, we're the leader, and we're on second or third generation products. We're not only producing in volume, we've iterated and improved this technology multiple times, and we just, as you know, announced Switchblade 600 Block 2. That's the next generation, more capable. We are on Switchblade 300 Block 20, and we've also introduced our Switchblade 400, which is a whole new category for launched effects for it going into other platforms, tanks, armored vehicles, helicopters, airplanes.
+As you get larger, there's also room for larger loitering munitions on platforms such as a Predator, Reaper, manned airplanes, et cetera, et cetera. You see a huge portfolio. We have a phenomenal, you know, category solution provider portfolio. We're even expanding that with our one-way attack solutions such as Red Dragon. That's another piece of the market related to loitering munitions that is complementary. They're not actually competing with each other. Very different missions for those two. You're gonna see more players. The market's growing. It's gonna be a multi-billion-dollar market, if it's not already today.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah.
+## Wahid Nawabi | CEO, AeroVironment
+It's on its way. You know, we've doubled our business last year. We've doubled our production. We're building another plant for $2 billion a year worth of production capacity for Switchblade or other products. That's gonna come online later this calendar year, beginning of next fiscal year, next calendar year, and that gives us an additional capacity. The reason why we're doing that is because we see tremendous growth opportunities here in the next 12-36 months.
+## Seth Seifman | Executive Director, JPMorgan
+Right. Okay. Excellent. If we dig into the products a little bit and we think about from the Switchblade 300 going to 400 and 600, you know, what are the improvements that have been made? You know, how do some of these improvements address the issue of jamming, for example, to give the product more capability?
+## Wahid Nawabi | CEO, AeroVironment
+Yeah. I think this is a very underestimated aspect of the competitive differentiators that we have in the market. Most of the new entrants in this market are, like, on their prototyping early phase production level product. If they've done that, they've never done it at the rigor of the U.S. DoD's safety, certification, operational requirements, and logistical footprint and training and all that. We are way beyond that in that regard. There's a lot to be done for anybody who wants to compete in this market to make tens of thousands of it that goes into stockpiles with the U.S. military for a decade or so.
+That's a whole different ballgame than making a quadcopter FPV in a garage and using it next week, and 90% of it doesn't hit a target. That's not what the U.S. military is gonna have in a stockpile. It's gonna go in a stockpile, it's gonna stay there for years, and anytime it's pulled out, it's gotta work the same exact way it was working when you tested it before this thing. A, B improvements. Switchblade 300 Block 20, for example, has a user field swappable warhead. You literally put your thumb inside the nose of the airplane, you pull it out, the warhead comes out, and you put another warhead. The other warhead that we've actually certified in that airplane, in that loitering munition, is called an EFP. It's an explosive that three of them weighs about 25 lbs and one person can carry. It can penetrate 90% of armored assets on the Ukrainian battlefield. Essentially, everything that the Russians make, except a main battle tank, can be defeated with a little weapon system that goes this long, and it's three of them you can carry in your rucksack.
+That's a paradigm shift on what type of missions you can do with a Switchblade 300, and that's just one of 20+ other improvements and enhancements in that product line. Same thing with Switchblade 600, and same thing with Switchblade 400. We don't have time to go into all the details, but I just gave you one little example on one iteration of the Switchblade 300 that is we're working on those levels of improvements and enhancements while others are trying to make the first one hit a tank effectively, let alone do all these other missions.
+## Seth Seifman | Executive Director, JPMorgan
+Right. Okay. When [crosstalk].
+## Kevin McDonnell | CFO, AeroVironment
+The 600 is a maritime capable.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+That's right.
+## Seth Seifman | Executive Director, JPMorgan
+You put it on ships.
+## Kevin McDonnell | CFO, AeroVironment
+That's a big improvement.
+## Wahid Nawabi | CEO, AeroVironment
+You could go on a small boat, you know, a boat that is actually moving with a lot of, you know, problems in the water.
+## Seth Seifman | Executive Director, JPMorgan
+Mm-hmm.
+## Wahid Nawabi | CEO, AeroVironment
+It could take out other assets that are moving on the water, and it's got a whole plethora of things. The gimbal improvements are significant. The anti-jamming software and algorithm is significant. The type of radios you can put on it is modular. It could be done. There's a whole list of stuff. It's essentially a next generation product. It's like, you know, a next generation car. It's a significant improvement to the old model.
+## Seth Seifman | Executive Director, JPMorgan
+To what extent do you find among customers that you know cost can be a decisive factor in how they buy? Is there kind of a distinction you think in the U.S. maybe there's a little bit more of a capability focus, we want it to do X, Y, and Z, whereas when you know, when you take products abroad to sell, it you know, the competitive environment is tougher because cost becomes more of a factor?
+## Wahid Nawabi | CEO, AeroVironment
+Yeah. This is very different than a consumer product, like a laptop or an iPhone or iPad. There's a lot of talk about low cost, right? First of all, an FPV that I just described that costs $3,000-$5,000 that's used for the mission that I described is a very small portion of the target TAM or market.
+## Seth Seifman | Executive Director, JPMorgan
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+We intentionally decided not to play there because we knew that, A, it won't be a bigger mission set, and two, it's not as relevant and it's hard to make a lot of money in. The rest of it, we're the cost leader, actually. We're the high volume producer with the lowest cost, and we compete with all sorts of players in every market. Whether it's Puma's or Raven's or Switchblade or any of our products, we have not only domestic competitors, but in every international opportunity, we have half a dozen of the domestic local competitors. So we can compete on cost very effectively, number one. Number two, I would say, is that there's a different bar when you talk about the U.S. military and our closest allies.
+Those drones that are made in Ukraine that have all sorts of Chinese parts will never make it into our stockpiles. There's way too many problems with that just on the supply chain alone. The level of the safety that you have to have to get these things certified to the U.S. rigor is significant, high bar. The ability for the performance of the product, size, weight, and power is enormous. Like, one of the most difficult things about Switchblade 300, for example, was to make three of them fit in a rucksack with all the gear that could be launched, and it weighs less than 25 lbs, and it carries all that mission, all the, you know, warhead, et cetera, et cetera. That's not an easy requirement when you include all the other things.
+The book of requirements becomes this thick. The bar, people think it's like, "Oh, I'm gonna make a lower cost, you know, book, and I'm gonna be able to compete with this handbook." That's not this market. This market is years of expertise in the areas, building a moat, a technology stack, and we've been successfully doing it for 20+ years. We've had competitors from all corners of the world, and we don't usually lose because of cost. We haven't, really. If you look at our win rate, it's really high in that regard, too.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+Yeah.
+## Seth Seifman | Executive Director, JPMorgan
+Okay. Good. The opposite side of loitering munitions, you've got counter-UAS.
+## Wahid Nawabi | CEO, AeroVironment
+Mm-hmm.
+## Seth Seifman | Executive Director, JPMorgan
+Could you talk a little bit about the path to growth? You've got several products here. Titan, you know, Freedom Eagle, which is an effector, LOCUST, which is a directed energy weapon, which I saw you discussing on Sunday evening on 60 Minutes. Where do you have scale already in your counter-UAS business? Where could you scale quickly if the demand emerged? Kind of, you know, there's clearly high demand for this. How do you see the growth emerging?
+## Wahid Nawabi | CEO, AeroVironment
+Sure. I'm glad you brought this up because, you know, we've lived through it, and it's a very crisp and clear takeaway in my view. The Ukraine War was an inflection point for drones and warfare with drones and one-way attack and kamikaze drones, such as Switchblade and Red Dragon. Actually, mostly Switchblade. The Iran conflict is, in my view, and the demand has gone up, and the brand, and the awareness, and the need, and the programs, and the requirements, and all that. The conflict in Iran is an inflection point for counter-drones and counter one-way attack drones. We have always believed that this market is going to come in, and it's going to lag the market that I just described initially.
+I just read a report last week that Iran has launched 1,400 one-way attack drones on UAE alone in one week. One week, I think two weeks, three weeks ago, the head of the oil business within UAE said this is gonna be a catastrophic event for you know, the oil economy of the world. You've seen that in the news every day, et cetera, et cetera. My point is that we're at an inflection point. We've always had a multilayered approach to defending against drones and counter-drones and kamikaze missiles. First, the easiest, fastest way to protect is RF jammers. The detect and defeat. We have the world's best deployed, successful program record one, full rate production Titan series of counter-UAS systems. You're gonna see a lot more of that in all sorts of applications. The second thing is that just recently, U.S. government approved the use of those kind of systems for civilian applications of protecting stadiums, music festivals, hospitals, critical infrastructure. That is a massive market. Nobody's even scratched the surface. That is going to start opening up in the next one to five years. We've got the world's best solution. We're already producing them. We've doubled, tripled capacity. We're increasing the capacity of that product up to $500,000,000 next fiscal year.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+Yeah. It's going to be a significant growth driver.
+## Seth Seifman | Executive Director, JPMorgan
+Right. That's just Titan.
+## Wahid Nawabi | CEO, AeroVironment
+Just Titan series of products for RF jammers for all these applications. The second category, the second layer of defense is directed energy. That is our LOCUST systems. That was in the 60 Minutes news this past Sunday. Why is that important? I believe personally, that the Holy Grail for counter-drones and counter-loitering munition and counter one-way attack is going to be a directed energy solution. For military.
+## Seth Seifman | Executive Director, JPMorgan
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+Why? Because military adversaries are more sophisticated, and these drones and counter-drones are not gonna be jammable. They're not gonna have dependency on RF communication. When you don't have that, then you have to be able to detect these things and defeat them without having an RF signature. That's where directed energy LOCUST comes into play. We've got by far the largest moat and competitive differentiators in that category than anybody else that I know of in the whole world. We've got the sweet spot solution. There's a program of record with the U.S. Army. They're competing it, and we're competing on that program, and hopefully they'll have a decision. That's the first ever program of record in this category for the U.S. military ever.
+## Seth Seifman | Executive Director, JPMorgan
+Mm.
+## Wahid Nawabi | CEO, AeroVironment
+To buy production level product. The conflict in Iran is basically a poster child of what are you gonna do when thousands of these come to you? That thing takes the cost of kill per target from millions per missile to $3-$5 per shot. That economic equation is gonna absolutely eventually prevail.
+## Seth Seifman | Executive Director, JPMorgan
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+That's the solution. The third layer is if those two first layers of defense fail, then you use a kinetic kill. That's where the Freedom Eagle 1 comes into play, which is a little bit further behind in adoption. We've been down selected with the U.S. Army for program of record. It could be as large of a franchise as a Javelin missile. It's a very economical system that is focused directly for Group 1 through three, mostly on Group 3, and eventually even to hypersonic missiles in terms of its market. Our approach has always been a layered approach. We've got the best solutions on the first two, and we're developing the best solution on the third.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah.
+## Wahid Nawabi | CEO, AeroVironment
+Which is another year and a half or two away.
+## Seth Seifman | Executive Director, JPMorgan
+Right. Do you think purchases from non-military customers on Titan will be coming soon?
+## Wahid Nawabi | CEO, AeroVironment
+Really hard to predict the exact timing. I do believe it's going to come, whether it's gonna be in the next three quarters or next year and a half, I believe it's gonna continue to pick up because there is a significant amount of awareness in this area, and I believe that, I hope it doesn't take a catastrophic event for this to happen. Events such as the World Cup.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah
+## Wahid Nawabi | CEO, AeroVironment
+The Olympics, large stadiums, there's already expertise within these organizations trying to develop solutions and capabilities to defend against these kinds of threats. You know, NFL doesn't wanna be known for a football game that doesn't have protection against this, or the Major League Baseball or whatever, you know. I'm just using a couple of examples.
+## Kevin McDonnell | CFO, AeroVironment
+Yeah. What he referred to the law change that allows state police to use the Titan systems, and we've already seen some demand picking up there from the state governments.
+## Wahid Nawabi | CEO, AeroVironment
+Yeah.
+## Kevin McDonnell | CFO, AeroVironment
+Yeah. State police.
+## Seth Seifman | Executive Director, JPMorgan
+We've seen, I guess it's been reported in the press, some use of the LOCUST by U.S. Customs and Border Protection or the Army on the southern border. We know that there were some issues there involving the airport in El Paso, but we assume that has to do with you know that was the system working the way it's supposed to.
+## Wahid Nawabi | CEO, AeroVironment
+Correct.
+## Seth Seifman | Executive Director, JPMorgan
+It's just that there wasn't maybe as much knowledge as there should have been about the fact that it was going to be on.
+## Wahid Nawabi | CEO, AeroVironment
+Well, the system worked exactly how it's advertised and how it's supposed to work. A drone was in a airspace that it was not supposed to be there. The commander had the decision authority, had to make the decision. It's their decision, not ours. We're not involved in that. We provided a system that said we're gonna do X if you ask it to do X, and it did exactly X when it was asked to do X. The bigger awareness is about the use of directed energy systems in the national airspace.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah.
+## Wahid Nawabi | CEO, AeroVironment
+That has been a big, big challenge because nobody's been able to crack this code.
+## Seth Seifman | Executive Director, JPMorgan
+Mm-hmm.
+## Wahid Nawabi | CEO, AeroVironment
+We're one of the first players that actually has a system that's now operationally deployable that could be useful for those use cases. FAA actually just recently did a test against a manned airplane, where they took our system and they used it against that to see if it is safe. There's, first of all, hundreds of safety measures built into the system to begin with. Literally over 100. Beyond that, actually it proved in the FAA test that you are not gonna be able to harm a commercial private manned airplane with the system that we have in the use cases that we have.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+I think it's going to open up a significant more. It's new territory, right? You know, FAA and U.S. Border Patrol and U.S. Army, they all have to work together on deconflicting. That's something that is happening as we speak, and that's not the decision that we make, it's our customers.
+## Seth Seifman | Executive Director, JPMorgan
+Okay. I guess maybe two questions about just the stuff that's going on in the world now. I mean, are there opportunities to sell counter-UAS systems quickly to countries in the Gulf?
+## Wahid Nawabi | CEO, AeroVironment
+Absolutely there is. Really right now for counter-UAS RF detect and defeat, the Titan is really not necessarily demand, its capacity.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+We are making them as fast as we can. Like I said, we're gonna probably do, you know, we've published some numbers, as you know. We've more than doubled the capacity this fiscal year. We're taking it up to half a billion dollars worth of capacity production this fiscal year.
+## Seth Seifman | Executive Director, JPMorgan
+Next
+## Wahid Nawabi | CEO, AeroVironment
+Which is a month and a half away.
+## Seth Seifman | Executive Director, JPMorgan
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+I believe that we're gonna. That's gonna be a very probably one of the top growth drivers of our. We have a lot of growth drivers, but that's one of the biggest ones in terms of next fiscal year.
+## Seth Seifman | Executive Director, JPMorgan
+Right. Okay.
+## Wahid Nawabi | CEO, AeroVironment
+It's also very highly, you know, profitable and, you know, EBITDA favorable product line.
+## Seth Seifman | Executive Director, JPMorgan
+Okay. That's a fixed price-
+## Wahid Nawabi | CEO, AeroVironment
+Commercial item.
+## Seth Seifman | Executive Director, JPMorgan
+Commercial item with commercial margin?
+## Wahid Nawabi | CEO, AeroVironment
+That's right. That came from the BlueHalo. It actually is in our segment one business. Mm-hmm in terms of where it exists within our portfolio and reporting.
+## Seth Seifman | Executive Director, JPMorgan
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+It actually came from the BlueHalo portfolio.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah.
+## Wahid Nawabi | CEO, AeroVironment
+It is the one that is most mature that's transitioned into a commercial product. We're selling it as a commercial item. We have a price list. We are already selling it to a bunch of international customers. It's been publicly disclosed that it's very effective in Ukraine conflict, and the market for that is fairly large globally.
+## Seth Seifman | Executive Director, JPMorgan
+Okay. Other conversations about other products you may have been having recently. Have things picked up with the Department of Defense here about, you know, and not just counter UAS, but also whether it's loitering munitions or drones and to the extent that we see a wartime supplemental, is that something where you might expect to see some funding for AV products?
+## Wahid Nawabi | CEO, AeroVironment
+Absolutely. I'm spending a lot of time in D.C., in this, including this week and next few weeks, because A, our categories are high visibility, high profile, high importance, and urgent, and we've got the best solutions in the market. Also our system, we're one of the very few companies that can actually produce these by the thousands today. We're doing them today. We're the volume leader in terms of production capacity now, not two years from now, not you know, 24 months from now. There's a lot, and of course, the conflicts that you see is like poster child of this type of system that you need from AV. T Hat we make, and we've been pioneering these for a while.
+## Seth Seifman | Executive Director, JPMorgan
+I wanted to ask you about SCAR. I started covering the stock relatively recently and seemed like something happened in November, reading about SCAR and the feedback from the customer and then the stop work order in January and then subsequently the cancellation last week. Can you talk a little bit about what happened between now and then, and how is there, you know, how is there a potential path to continuing to work on this?
+## Wahid Nawabi | CEO, AeroVironment
+I'm only able to comment on it based on what I'm allowed to be due to our contract and sensitivity to our customers and respect for them. Ultimately, we are a firm believer in this capability and also in this capability gap. It is of high importance and urgency to the Department of Defense, of our war.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah.
+## Wahid Nawabi | CEO, AeroVironment
+It is a very high priority for the Space Force, and it's a gap that must be addressed. We believe we have a very significant head start than anyone else. This program was competed. You know, we won the program. There's been a lot of scope creep, and we wanna make sure that the overall program is successful to meet our mission of our military customers and our country. What we wanted to have is a structure where we can actually develop and deliver this product as a commercial item. That is now really, really attractive to the U.S. Department of Defense. We sat down to see if we can renegotiate this contract and come to an agreement.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah.
+## Wahid Nawabi | CEO, AeroVironment
+There was only two options. You can come to an agreement on the existing contract, or you can cancel and basically restart the program either way. We believe in this capability so much that we're gonna continue to develop the capability as a commercial item on our own investments.
+## Seth Seifman | Executive Director, JPMorgan
+Okay
+## Wahid Nawabi | CEO, AeroVironment
+Because we do know that the market for this is significant. Every satellite that we have in geosynchronous satellites in space, including even non-defense satellites, is going to need this capability.
+## Seth Seifman | Executive Director, JPMorgan
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+You've got a parabolic dish right now talking to a satellite one at a time, and it's limited in bandwidth, limited in capacity, it's vulnerable, et cetera, et cetera. Our phased array BADGER system allows you to talk to multiple satellites, up to 20 at a time, and you could do it simultaneously with higher bandwidth in multiple bands, and you could do it such that you could point without pointing the dish. You just point it digitally with electronics. It's basically a satellite dish in a chip instead of a dish. The improvements in performance is massive. Eventually, all the satellites in the world that are geosynchronous and even geosynchronous satellites are gonna take some of the systems like this. That's why we believe in the fundamental problem and fundamental solution or architecture. While we do this, the government may recompete, will recompete it. They've said that publicly. We are gonna absolutely, you know, compete for that. We hope that we actually develop this ahead of all that and deliver a solution off the shelf, and the customer could buy it, and the whole thing is solved faster.
+## Seth Seifman | Executive Director, JPMorgan
+Right. Okay.
+## Wahid Nawabi | CEO, AeroVironment
+It was about 5% of our revenue last year.
+## Seth Seifman | Executive Director, JPMorgan
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+We're still gonna have a strong growth this year. We're still expecting to have double-digit growth next year. It's gonna be less than 5% of our revenue going forward. We wanted to get this all cleared, so the story is behind us, and we move forward with all the other exciting growth stories that we have in our business.
+## Seth Seifman | Executive Director, JPMorgan
+Right. When you were saying that the growth next year, you meant for the company as a whole, or you were talking about SCAR?
+## Wahid Nawabi | CEO, AeroVironment
+No, company as a whole.
+## Seth Seifman | Executive Director, JPMorgan
+Okay. Yeah, of course.
+## Wahid Nawabi | CEO, AeroVironment
+Like I said, we have so many shots on goal.
+## Seth Seifman | Executive Director, JPMorgan
+Right
+## Wahid Nawabi | CEO, AeroVironment
+That are very large potential growth opportunities.
+## Seth Seifman | Executive Director, JPMorgan
+Yes.
+## Wahid Nawabi | CEO, AeroVironment
+SCAR is just one of 10 or so.
+## Seth Seifman | Executive Director, JPMorgan
+Mm-hmm.
+## Wahid Nawabi | CEO, AeroVironment
+We wouldn't expect SCAR to grow that fast immediately anyway.
+## Seth Seifman | Executive Director, JPMorgan
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+It wasn't a massive revenue contributor either.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+Yeah.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+So-
+## Seth Seifman | Executive Director, JPMorgan
+When you think about the write-down that you took in the quarter last week, does your future success on whether the program's called SCAR or something else, but on delivering that capability, might there be further write-downs depending on how that goes?
+## Kevin McDonnell | CFO, AeroVironment
+We don't think so. I mean, it really relates to the whole space business not just the SCAR program. We've, you know, had a lot of positive developments on long-haul laser communications. We got a $500 million contract there. That business also includes what we call gunsights business. That's replacing the pointing and tracking capability on existing armored vehicles is included in that business model.
+## Seth Seifman | Executive Director, JPMorgan
+Panther.
+## Kevin McDonnell | CFO, AeroVironment
+Panther, the phased array hypersonic missile tracking system is in that portfolio. There's a lot of things in that portfolio that we feel very good about. It's just, you know, when an event happens, the auditors pull out their spreadsheets and start evaluating the cash flows, and it just so happens there was a little bit of a shortfall. It wasn't really that significant. The total value of the asset was $3 billion, and the writedown was $150 million or so.
+## Wahid Nawabi | CEO, AeroVironment
+Non-cash.
+## Seth Seifman | Executive Director, JPMorgan
+Non-cash. Right?
+## Kevin McDonnell | CFO, AeroVironment
+Right.
+## Wahid Nawabi | CEO, AeroVironment
+Non-cash entry into the balance sheet.
+## Kevin McDonnell | CFO, AeroVironment
+Yep.
+## Seth Seifman | Executive Director, JPMorgan
+Okay. You mentioned optical communications technology. You know, how should we think about the scale of that opportunity and kind of you know what happens next there? That seems to be a pretty critical technology as the Space Force thinks about building out the architecture.
+## Wahid Nawabi | CEO, AeroVironment
+Yeah
+## Seth Seifman | Executive Director, JPMorgan
+That they want.
+## Wahid Nawabi | CEO, AeroVironment
+Again, we have so many exciting things, it's hard to talk about every one of these and give it enough merit of its own doing. Most companies have one or two maybe max, and we've got, like, a dozen of these things. Laser communication, so we talked about BADGER being this RF communication phased array that, you know, revolutionizes RF communication with satellites. But even that needs to be complemented or supplemented with a laser system because RF systems are all jammable. You do not wanna you know rely on one way of communicating to these billion-dollar satellites. The next generation evolution is to actually have optical laser communication from the ground to these satellites. One, it's much, much more non-jammable, and two, it has got a much, much higher throughput of bandwidth. We want a program of record basically with the U.S. military to develop and deliver and progress the program which we have, we call the Laser Communication Terminal.
+## Seth Seifman | Executive Director, JPMorgan
+Mm-hmm.
+## Wahid Nawabi | CEO, AeroVironment
+We've got the technology that allows you to actually hit a satellite halfway to the moon from the ground. That technology is in. That's 250,000 km out. It is the holy grail, again, long-term for satellite communication to the ground. The secret sauce that is in our BADGER system and our LOCUST system is, and our laser communication gunsights is very similar to what Kevin had described here, which is the ability to track and hit the target at long, long distances. Yeah. That's something that's not easy to do. Everybody's focused on more power. It's like giving somebody more bullets, but they don't know how to hit the target. It doesn't help solve the problem if you can't aim.
+## Seth Seifman | Executive Director, JPMorgan
+Mm-hmm.
+## Wahid Nawabi | CEO, AeroVironment
+The most important thing is solve the aiming problem, then I can give you more bullets to kill more targets.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah
+## Wahid Nawabi | CEO, AeroVironment
+Or hit more targets. Our ability to hit a small, you know, give you an analogy how precise and how accurate this is. A laser pointer that we have in here, for example. Imagine pointing this to a strand of human hair about a football field away from you with your human hand.
+## Seth Seifman | Executive Director, JPMorgan
+Wow.
+## Wahid Nawabi | CEO, AeroVironment
+Yeah. You gotta have the precision to be able to put that laser on a strand of human hair at a distance of about one football field. We've gotta hit a satellite dish at 70,000, 80,000, 100 km out into space from the ground while the satellite's moving and the earth is rotating. That's the technology that makes it so unique. I do believe that in the next five years a significant more funding and acquisitions will happen in this area specifically.
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+Yep.
+## Seth Seifman | Executive Director, JPMorgan
+Excellent.
+## Wahid Nawabi | CEO, AeroVironment
+We're the lead in this space, by the way.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah.
+## Wahid Nawabi | CEO, AeroVironment
+Yep.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah. I know it's a place where people have been trying for a while to make progress. The piece, when I think about the BlueHalo merger and the company that came in thought of it as like a kind of stable piece, and a growth piece. We just talked about kind of the growth piece is space and directed energy. The more stable piece was kind of cyber and mission systems. That business seems like it's headed for maybe $350 million-ish of sales this year, ballpark. But we have seen some pressure. Can that cyber and mission business maintain that level of sales going forward? Is that kind of how people can think about it? Is there further pressure on it? Can it return to growth?
+## Wahid Nawabi | CEO, AeroVironment
+Yeah.
+## Seth Seifman | Executive Director, JPMorgan
+What's sort of the profile there?
+## Wahid Nawabi | CEO, AeroVironment
+By far, the biggest value driver as part of the acquisition of BlueHalo was all these pieces that I described that are long-term. The strategy's always been to bring these very complementary set of solution sets to make a portfolio that really solves our customers' missions better. Cyber, we've always said, it's not going to be the fastest growing. It is also the one that got hit with the DoD activities.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah
+## Wahid Nawabi | CEO, AeroVironment
+At the beginning of the fiscal year, the administration. We have a baseline. Yes, $350 is very doable, number one. Number two, we expect that actually to grow going forward. It's just that the growth is not as explosive as the other categories. We've always said that. We maintain that. We're doing, you know, it's absolutely a high mission critical set of cybersecurity operations that we do that's both offensive and defensive that is really unique and desperately needed in our military and our intelligence community. We believe that this is important, but it's not high growth. Yeah
+## Seth Seifman | Executive Director, JPMorgan
+Okay.
+## Wahid Nawabi | CEO, AeroVironment
+It's gonna grow, but very slow, single- digits.
+## Seth Seifman | Executive Director, JPMorgan
+Okay. We're getting close to the end, so maybe if we can sneak in one more. You know, just when we think about the cash flow expectation for the year, we've seen some working capital growth year to date. You know, what gives you confidence being able to liquidate that here in the Q4 ?
+## Kevin McDonnell | CFO, AeroVironment
+Well, this year we had a lot of growth in our Switchblade or loitering munitions business, so a significant growth. At the same time, that's probably the main driver of the working capital growth through the year is that business. We also during this year had some product transitions and new products, specifically as Wahid was mentioning earlier, the Switchblade 600 and 300 went to new generations, and that just caused a little bit of a log jam in our unbilled receivables. That all seems to be behind us now. I think we'll see some good progress in the Q4 , you know, not all the way there, but then in the successive quarters start to see that unbilled coming down for that business.
+## Seth Seifman | Executive Director, JPMorgan
+Right. Okay. Excellent. With that, we're at time.
+## Kevin McDonnell | CFO, AeroVironment
+Thank you.
+## Seth Seifman | Executive Director, JPMorgan
+Yeah. No, this was very informative and we appreciate both of you being here. Thanks very much.
+## Wahid Nawabi | CEO, AeroVironment
+Thank you so much.
+## Seth Seifman | Executive Director, JPMorgan
+Thank you.
+Data Source: Quartr Last updated: Mar 18, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

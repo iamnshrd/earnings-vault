@@ -1,0 +1,588 @@
+TITLE: 21st Annual Needham Technology, Media, & Consumer Conference
+DATE: 2026-05-14
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Hello, welcome to Needham's 21st Annual Technology Media and Consumer Conference. I'm Ryan Koontz. I cover the space sector today. Really excited to be joined by Adam Spice, CFO at Rocket Lab. How you doing, Adam?
+## Adam Spice | CFO, Rocket Lab
+Doing great today. How you doing, Ryan?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Real good. It's been a great conference so far. Really nice to have you. Let's start with talking a little about what the results you guys just delivered. You had a terrific 2025, started out with continuing that mode in 2026. Let's walk through some of the biggest kind of accomplishments in the March quarter as I saw one by one. Let's start with launch. I think you had another record in launch, in the quarter. Can you walk us through how the Electron HASTE missions have been faring for you, and what you were able to pull off in the quarter?
+## Adam Spice | CFO, Rocket Lab
+Yeah, look, I think the launch team continues to deliver. I think Electron's really kind of hitting its stride right now. We said when we came public back in 2021 that the goal was so we could hit our models for margin when we were launching twice a month, so roughly 24 per year. Now of course, this year we're in that range. Last year we launched the vehicle 21 times. This year, we're certainly seeing growth off of that. I think we're well in that range now, and I think the margins are following along accordingly. That's comforting. I think probably the most encouraging thing within that growth within Electron is really HASTE, as you kind of mentioned.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+the variant of Electron that's used for hypersonics R&D testing. We announced a big booking in the quarter, 20 launches.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+under the MACH-TB program. It's.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+becoming more and more of the mix. This year it'll be, call it maybe around 20% of the launches this year will be HASTE launches.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Wow.
+## Adam Spice | CFO, Rocket Lab
+That's come from a very small piece of the launch mix a couple of years ago.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+We're not only getting the MACH-TB launches, but we also announced three launches with Anduril. That's doing their own kind of hypersonics testing with us. It just seems like certainly, HASTE is the vehicle of choice in this market. There are some other options that people consider. There's Stratolaunch, which is a captive carry model.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+I see
+## Adam Spice | CFO, Rocket Lab
+They don't launch as frequently, and it's quite a bit more expensive.
+Historically, you've had the Minotaur option from Northrop Grumman, which again, not as frequent in a cadence, much more expensive. What we bring to the customer in this area is just a really high cadence opportunity, low cost, really getting more shots on net, which is what it's all about at this point, to kind of catch up with what the Chinese and the Russians have been up to.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+we also see MACH-TB's not the only program. We think there are going to be other opportunities both within the U.S. government and also with other sovereigns that need to develop these kind of capabilities. It feels like we're very early in what's going to be a very interesting kind of long-term part of this mix. You know, they come at higher ASPs and it's
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+it's an exciting part of the work.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+rev rec works a little different too, right?
+## Adam Spice | CFO, Rocket Lab
+Yeah.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Doesn't rev rec work a little different on these HASTE? Can you walk us through that, Adam?
+## Adam Spice | CFO, Rocket Lab
+Yeah. The HASTE missions for the most part, since they're bespoke, and every HASTE mission's a little bit different, the booster's a little bit different, the mission prep is different. What we do is we recognize revenue over time. It looks more like how we recognize revenue in our satellite programs business versus our traditional commercial Electron launches, which are point in time, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. Right.
+## Adam Spice | CFO, Rocket Lab
+You have to understand, I know you understand it, but like for others that may not, for a typical Electron mission, we collect a 10% deposit at contract signing, then we collect against mission milestones as we build the mission profile. Then as we start to build together the rocket, we've typically collected about 60% of contract value for that mission at the time we start building the rocket. It's a very positive cash cycle for that. Then by the time we launch the rocket, we've collected 90% of the contract value with only 10% remaining once we actually do the launch. With HASTE, the cash is pretty similar. The rev rec-
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right
+## Adam Spice | CFO, Rocket Lab
+Is just a bit different because you're recognizing revenue and margin as you incur cost against the mission.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+cash is very similar. P&L impact is a bit different. It creates a little bit of more complexity in trying to do revenue forecasting for you guys because it's no longer just quantity of missions launched times ASP gives you revenue in the quarter. It can be quite a bit different. It can be on either side of that where.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right
+## Adam Spice | CFO, Rocket Lab
+you have not much revenue left to recognize on certain missions. Therefore.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+like in Q2, that was the phenomenon in Q2 where we're now in the process of building up into more of these HASTE missions. That'll kind of start to be more beneficial to revenue in later quarters, but it stole a bit of revenue from Q2 guidance because again, we'd already.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+in prior periods recognized some of that HASTE revenue. It's a little more volatile, from a revenue planning perspective, but overall, when you step back and look at it on an annual basis, you can pretty much do price times quantity, and you'll get to the.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+roughly the right number.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Could actually smooth out a little bit, though, with a little less binary outcomes, I would think.
+## Adam Spice | CFO, Rocket Lab
+It is. It has that. I think but more importantly, just really kind of is more reflective of the nature of the agreement between us and our customers because it is much more.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+custom.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. There was. Go ahead.
+## Adam Spice | CFO, Rocket Lab
+You can't repurpose a HASTE vehicle.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+I see
+## Adam Spice | CFO, Rocket Lab
+A HASTE vehicle is largely specific to the mission it's trying to accomplish because you're testing different trajectories, different glide body masses, all that kind of stuff. If a mission was to get canceled for HASTE, well, we couldn't reuse that HASTE vehicle. We just get paid against it, and we'd essentially throw that rocket away.
+The customer would pay.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Got it. Yeah, it makes a lot of sense to make the change. You had a great bookings quarter on launches, too.
+## Adam Spice | CFO, Rocket Lab
+Yeah.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+I think you booked 31, including some Neutrons. Can you walk us through what that demand's looking like right now?
+## Adam Spice | CFO, Rocket Lab
+A big portion of that was this large MACH-TB, 20 launch buy, which we had been expecting to be coming. It finally hit up in the quarter, which is great.
+I also think of those Neutron bookings. You talked about we had five Neutron bookings in the quarter, which is very encouraging.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. I'll say.
+## Adam Spice | CFO, Rocket Lab
+As we get closer to that maiden launch of Neutron in Q4, our schedule still looks positive for being able to get that off in the quarter. We always caveat it that it's a rocket program, and stuff will come up and bite you when you least expect it, but you can't really plan on that type of thing happening. I think right now, our schedules are pointing towards Q4, which will be very important for a few reasons. First and foremost, getting that successful test launch, I think will start to unlock more backlog building capability, because people will have that much more confidence the rocket's going to be there for them when they need it. Particularly under the NSSL launch program. They can't drop task orders down into our lane for us to pick up and bid on until we've had a successful test launch.
+That's a huge gate to get through.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Great.
+## Adam Spice | CFO, Rocket Lab
+I just think from a P&L perspective, we've been passing this massive R&D bubble for the last four years, and now we're about to pass that, and it'll be much more friendly to the P&L as we start to build out the fleet of Neutrons versus getting through that initial R&D push.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure. Makes sense. On the space systems side, you've been executing on SDA Tranche 2, I think. That's the big lift you're working on. Can you walk us through where you are in that program and how investors should think about that progress on that PWSA?
+## Adam Spice | CFO, Rocket Lab
+Yeah. We're deep into the meat of that SDA Tranche 2 transport layer contract. That was our largest contract to date when it was awarded a little over two years ago. It was a $515 million contract.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Yeah, no, we're executing well against that. I think one of the biggest challenges with these type of programs for the others that have invested in this aerospace market before is that.
+There can be some surprises you get, which result in EAC adjustments, which affect revenue and margin. We've been very fortunate. We've been pretty good on as far as nailing what those EACs were going to be, all looks good there. We're now layering into or legging into this SDA Tranche 3 tracking award, which was even larger.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Even larger
+## Adam Spice | CFO, Rocket Lab
+$816 million. Now we're kind of in that sweet spot where we have contributions legging in from, we're in there on SDA Tranche 2. We're starting to really get into the meat on SDA Tranche 3, We've gotten the prior contract largely behind us, which was our Globalstar contract.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+Which again Which again- we've kind of gone from these successively increasing awards. We went from $150 million Globalstar to $500 million SDA Tranche 2 to $816 million Tranche 3, There was a little bit of a headwind when we'd recognized most of that revenue off of the Globalstar contract, but before the SDA Tranche 3 had started to contribute.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+Now we don't have those headwinds of something falling off before the other thing ramps up, Again, we've been fortunate that we've been layering in bigger and bigger programs. You've got that like more of a linear growth curve that's a little bit more predictable and programmatic, which is helpful when other parts of your business, like launch, can be a little more volatile.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. Awesome. I think you also announced an early win in Golden Dome as well.
+## Adam Spice | CFO, Rocket Lab
+Yes. We announced a partnership there with Raytheon into the SBI program. There's a relatively long list of competitors there. I think there's roughly 12 primes that were selected, those primes have their subs.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Okay.
+## Adam Spice | CFO, Rocket Lab
+The expectation would be that winnows down as you go, as some don't get through the gates. All of this leads towards, ultimately, if you can get through all the kind of technical execution gates, ultimately the program is funded by Congress. We can't really talk about the confidential nature of the program in a lot of respects, there are a lot of reports out there trying to size the opportunity, which is pretty large if it actually goes through the way that it's been currently rumored to be.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+Yeah. Amazing. Not to be outdone there on the M&A front, you closed the acquisition of Mynaric, and also announced another acquisition to add to the portfolio. Can you walk us through what each of those bring to Rocket Lab?
+## Adam Spice | CFO, Rocket Lab
+Yeah. As you mentioned, we closed the deal, which was Mynaric. That one took about 6 months longer than we thought it would to get through all the German regulatory reviews.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+We were successful in getting through that. It's kind of interesting. The Mynaric deal. Then we'll actually tie something else together, one of our new product announcements called Gauss, which is our electric propulsion thruster, which I know you want to talk about later. One of the big Achilles' heels, if you will, of the SDA program has been these Optical Terminals.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Getting delivery. Mynaric had its set of struggles, actually went through a bankruptcy process, was taken over by its creditors. There were some real challenges there. The technology, we believe, is the best technology. Best form factor, best performance. Really, it was more of a how did they manage the business or not manage the business that got them into the pickle that they ended up in.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+We're excited about being able to get that in fighting shape, and it solves some of the SDA's problems, because it's not only us that was designed in with using these Mynaric optical terminals, but other SDA primes as well, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right.
+## Adam Spice | CFO, Rocket Lab
+We're solving problems for ourselves, but we're also solving problems for the overall program. The other thing that that deal does for us, along with coming with that backlog into the SDA program, is that now we have a solid foothold in the European market. As you know, the European market is very protective.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+They do buy U.S. products and solutions, but only when they absolutely have to. We've seen instances where ESA programs will buy inferior solutions at higher prices, but they're available, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+I think now we have the opportunity to leverage a 400-person footprint, a very advanced factory infrastructure to build more Rocket Lab products, not just OCTs from Mynaric, but other Rocket Lab solutions into European opportunities. I think there's going to be a multiplier effect from that acquisition. I think of it much more broadly than just optical terminals, which are great, and are going to be needed for all mega constellations going forward, in government and commercial. It just opens up a huge amount of customer opportunity for us. We've seen large programs like from Germany where the Bundeswehr announced a $40 billion constellation opportunity for people to have a chance to participate in. I think now we have a meaningful opportunity to go into programs like that and others in Europe in a more meaningful way.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+For sure. That brings you optical interconnects between satellites. Do you know what kind of bandwidth those things run at these days? It's like 40 gig.
+## Adam Spice | CFO, Rocket Lab
+I don't have.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+100 gig kind of?
+## Adam Spice | CFO, Rocket Lab
+I don't have that in front of me. Again, absent any of the financial kind of situation that Mynaric got themselves into, our technical assessment, it was the best solution out there.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Again, one thing that's unique about us is when we acquire capabilities like this, we don't just insource that. It's great to vertically integrate and have that security that comes with it and predictability. We also have, Pete gives the mandate to every one of these acquisitions, like, "You need to stand on your own selling solutions to the merchant market," that we don't just get forced into eating our own cooking, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+Yeah.
+Yeah
+## Adam Spice | CFO, Rocket Lab
+We make sure that we're eating best of breed because we're having to sell that competitively into the broader market. I think that's very healthy.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+That is great.
+## Adam Spice | CFO, Rocket Lab
+The other deal that we announced comes on Motiv, and that's a small company up in Pasadena, not far from us here in Long Beach, and they're leaders in the robotics segment. When we talk about robotics, people get very excited because they think of the rovers and all kind of stuff. Which is cool, right? That's all kind of sexy, kind of leading experimentation stuff. More tactically for us, what that brought was it allowed us to vertically integrate another key functionality of the satellite, which is SADAs. These are the solar array deployment actuators. These are the motors and the hinges that enable the satellite solar panels to unfurl when they get to orbit.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+There have been pretty high-profile examples of missions that have failed because the solar panels fail to kind of deploy, and then the satellite can't generate power, it dies, right? You lose the mission.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+This is, again, just like we acquired a company called PSC, or Planetary Systems Corp, back in 2021, because what they did is if you look at, they did the separation systems, which is the mechanism to which the satellite kind of docks into, and then when the rocket gets to its proper orbital position, it basically deploys it from the rocket off of the separation system. That controls things like tip-off rates and so forth. If you get that wrong, you end up having a satellite that just tumbles off into space.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Oh, boy.
+## Adam Spice | CFO, Rocket Lab
+It's useless.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Things that are really important to mission delivery, we want to own that, right? We don't want to have that exposure or vulnerability to third parties where possible. This is very consistent with that. Again, we'll continue to sell those into the merchant market, and the robotics provides really interesting exposure to some of those advanced missions that are going to happen, both in LEO and also kind of interplanetary. There's a lot more buzz around the lunar economy developing and a moon base and so forth. There's going to be a lot of need for robotics, and I think that this positions us really well to participate in those kind of opportunities.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+It's around orienting other gear on the satellite is kind of the main purpose of it initially in your satellite design?
+## Adam Spice | CFO, Rocket Lab
+Well, the initial design is really, again, those solar actuators.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Solar. Got it.
+## Adam Spice | CFO, Rocket Lab
+Really it's everything else. It's like an arm. They've put the technology into, essentially, if people are familiar with the Canadarm, right, that MDA makes.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Oh, yeah. Yep.
+## Adam Spice | CFO, Rocket Lab
+This is a very small version of that that goes on rovers and so forth.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Okay
+## Adam Spice | CFO, Rocket Lab
+Obviously, if there's opportunities where we can scale that up or wherever there's an attractive ROI, we're going to go look to deploy that technology.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Cool. Then you talked about Gauss, too. That's a new electric propulsion. How does that all fit in with the portfolio here?
+## Adam Spice | CFO, Rocket Lab
+Gauss is very similar. As I mentioned that optical terminals have been an Achilles heel for the SDA deployments, so has EP. EP to date has really been available from smaller private providers that don't have the scale that you really ideally would want to see in your supply chain. We just decided that we were going to take that in-house.
+We had the choice. We could've gone out there and bought a small private company for a couple hundred million dollars and gone through all that integration challenge and kind of still had to ramp a new product, a new technology into the market. Rather, Pete said, "You know what? We're an engineering company at our core. Give me $15 million and 18 months, and I'll deliver you the world's best EP solution, and we don't have to worry about integrating a company and paying VCs hundreds of millions of dollars. Let's just do it ourselves.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Right. That's one of the things that really separates Rocket Lab from a lot of other companies, where in order to add new capabilities, they really rely on inorganic ways to do that. We don't have to do that. Every time when we look at an acquisition, we're doing a very detailed bottoms-up make versus buy. It's really tough to get a buy solution past Pete, right? Because he's like, "I can build that, can build that, and build that." It forces a very healthy dynamic where we just don't look to the kind of, some people might think the easy way out is just to go buy somebody, I've done 80-odd acquisitions in my career, and acquisitions are never the easy way, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. True.
+## Adam Spice | CFO, Rocket Lab
+It may seem easy, the marketing guys might think it's easy, it's not that easy ever. There's a lot to it.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Over what timeframe will those sort of products come to market and start to go into use?
+## Adam Spice | CFO, Rocket Lab
+Well, Gauss is going to get put into use almost immediately.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+All right.
+## Adam Spice | CFO, Rocket Lab
+It is ready to go. We've set up a production facility in New Zealand that can produce up to 200 thrusters per year, starting now.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Great.
+## Adam Spice | CFO, Rocket Lab
+There's a big opportunity. Of course, if you look at our platforms, we are going to be baselining those into all of our constellation builds for our government customers and commercial customers. We think there's going to be a very strong pipeline of demand for people that have not had this kind of option before. It's the first time they can go to a real scaled-up space company and buy quality hardware for their platforms.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. Well, that was just a little bit you guys accomplished in a quarter there, all those things. Wow.
+## Adam Spice | CFO, Rocket Lab
+There's a lot going on. Yeah.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+It's just so awesome.
+## Adam Spice | CFO, Rocket Lab
+Yeah.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Well, let's talk about one of the other big main events here with Neutron. How is that tracking? What have you guys said about? You guys did have the setback on the tank a while back. How is it tracking now this year? What are your thoughts about your possibilities of getting that test launch done?
+## Adam Spice | CFO, Rocket Lab
+Yeah. We're in good shape. I think rocket programs are unpredictable, and we always have to caveat that you can't do these fault trees where you figure out, "Well, if this was to go wrong, then it would set us back six months, so let's peg a schedule out here." We run what are called green light schedules, which basically means if things go the way that we plan them, and we like to think we plan conservatively and appropriately, that it leads to a launch date of X. We certainly weren't anticipating a tank failure. I think that one stung even worse because it wasn't a design issue, it was a third-party manufacturing issue. I think now that we're pivoting over from a manual process, which was really a time-to-market kind of strategy.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+I see
+## Adam Spice | CFO, Rocket Lab
+Because it would've taken too long to commission the automated fiber placement machine for the first flight article.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Okay.
+## Adam Spice | CFO, Rocket Lab
+We had to go with hand layup, or we chose to go with hand layup. With that came the manufacturing defect that was really a quality issue on the third party's side. Now that we've got the AFP robot up and running, the design can be implemented without the human error element of it, and very quickly. Right now we're looking to be back on the test stand with that rebuilt tank article here in the, I'd call it late June, early July timeframe.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Great.
+## Adam Spice | CFO, Rocket Lab
+If we're successful in putting that piece of hardware through its test campaign, that really kind of allows us to get to meaningful integration on the pad in Q3 and prepping us for the launch in Q4. I think everything right now still shows good. The engines are progressing really well. I don't know if folks have had a chance to see the most recent engine video, the Archimedes engine that we put online that was like a 300-second fully gimbaled engine test.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. I saw that.
+## Adam Spice | CFO, Rocket Lab
+It's pretty amazing. The engine's incredible.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Incredible.
+## Adam Spice | CFO, Rocket Lab
+Normally engines are your long pole in a launch program. In this case, it was an unexpected issue on the tank. If you look at the four primary lanes of development to bring a rocket to market, you've got propulsion, which we've talked about. You've got tanks and structures, which we've talked about now, and the fairings have gone through their qualification. Really it's just now down to the fuel tanks getting through. You've got infrastructure. All of your launchpad, factory, all that stuff h as gone incredibly well and is well positioned to go.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+The last piece is really regulatory.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Getting your launch license from the FAA and from NASA.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+That one, if people ask me what are the things that keep me up at night, I'm told by the team that everything is progressing there, and we don't expect there to be any issues. Again, that's a third-party exposure. Now you're relying upon two branches of the government to basically execute to their deliverables to get us. Everything we've seen so far is we're working really well with our government partners.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Fortunately, we've brought a rocket to market at Wallops before, so we've dealt with.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+Kind of the NASA teams and the FAA teams domestically there. I think everything looks good. Yeah, we're excited. I think that's going to be a pretty exciting day when we get to see that monster come off the pad.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Oh, man.
+## Adam Spice | CFO, Rocket Lab
+Every time I go and see hardware, I'm just amazed. It's staggering how much bigger this thing is than what we're used to seeing with Electron. This thing is a beast, and it's going to be fun to watch fly.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure is. That's incredible. Can you remind us what the cadence of Neutron's kind of test and demo here, and what you aim to accomplish over the next couple of test runs over the next 18 months or whatever?
+## Adam Spice | CFO, Rocket Lab
+Yeah. Assuming a successful test flight in Q4, the goal of that test flight is really just to prove that we can deliver mass to orbit.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+That's what the customer cares about. That will unlock this whole NSSL lane kind of dropping phenomenon we talked about earlier. Really, we have other objectives as well, which is not only get to orbit and prove that to the customer, but also prove to ourselves that the rocket survives reentry, that we can do a successful propulsive soft landing, and kind of position the rocket to land safely in the water. If we can do all of those things, those three key things, then I think we'll call it a complete 100% mission success.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+That would then move us to the next one, which is probably approximately six months after that successful test flight is when you'd see tail number 2 fly. The goal there would be to do the same thing, actually land it on the barge. Prove barge landing. That rocket is not intended to re-fly. That rocket's going to be brought back because that'll be the first one we really get our hands on. You get a lot of data from the first one, but then you'll have physical articles kind of postmortem on the second one.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+On the third tail, which again, if you think about it, one launch this year, three launch next year, which is one would be six months after the first, then on a quarterly basis after that to get to your three. It's really the third tail that we think has the greatest possibility for partial or full reuse, a reflight. Because at that point, we'll say, "Well, it worked great, but we might want to replace a few of the engines or some of the avionics components to make sure that we've got comfort in the reusability." Over time, as we do more and more of those, you go from either partial reusability, full reusability over the course of the next say handful of rockets.
+By, as you exit 2028, in the year that we anticipate having five flights, you're now able to do more of that copy and paste kind of approach where you put this thing into rapid reuse, and you can really scale the launch rate.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. After the test demo, these are all revenue generating.
+## Adam Spice | CFO, Rocket Lab
+Correct.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+That's your plan.
+## Adam Spice | CFO, Rocket Lab
+Correct.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Great.
+## Adam Spice | CFO, Rocket Lab
+Yep. Absolutely.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+What's happening to the income statement with investors relative to Neutron once you start to ramp that revenue? I think some of the R&D moves over-
+## Adam Spice | CFO, Rocket Lab
+Yeah
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+to operations essentially?
+## Adam Spice | CFO, Rocket Lab
+Yeah. We're already seeing some of those R&D cost centers resources move over to production cost centers.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+As soon as we have that successful test flight, really the quarter following that is when we would see the inflection go to positive EBITDA.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Wow.
+## Adam Spice | CFO, Rocket Lab
+If you look at the rest of the business, the rest of the business is great. Neutron is this huge enabler of the future, but it's also a huge kind of disabler or kind of punitive impact to the P&L today.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure.
+## Adam Spice | CFO, Rocket Lab
+You'll go to almost immediate adjusted EBITDA positivity. Now, positive cash flow will trail that by probably 18 to 24 months because you go into the mode of building a fleet, right? The goal is to refly these Neutron rockets up to 20 times a piece. In the fleet model, each one of these boosters, let's just say for easy math, costs about $50 million, while if you build a fleet of, call it four to six of these reusable boosters in the next three years, that's going to consume anywhere between 2 to $300 million of capital. That then becomes a fixed asset that we then continually use and amortize over future missions.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. To amortize that over your COGS of future-
+## Adam Spice | CFO, Rocket Lab
+Yeah
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+launches as well.
+## Adam Spice | CFO, Rocket Lab
+Yeah.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. Excellent. I think the initial impact, there's some gross margin impact on those initial Neutrons, right, that investors should model in?
+## Adam Spice | CFO, Rocket Lab
+Yeah. Look, I think it's almost certainly the first launch or two that our paid launches will have low or negative gross margin associated with them. A lot of it is we have experience on Electron. With Electron, it's all about cadence because you got to absorb that fixed overhead.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+The overall cost of the rocket itself, from a bill of materials and labor perspective, we've gotten some efficiencies certainly, but not things that are that dramatic, right? You're building dozens, not thousands or millions of these things, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+You get a benefit, but not tremendous. The P&L or margin expansion really comes from cadence on Electron. With Neutron, it comes from a combination of cadence and reusability, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right.
+## Adam Spice | CFO, Rocket Lab
+You'll go from relatively low to negative gross margins initially, just like Electron, to what we think will be our target margins that are going to be very consistent with Electron, call it in the 50% range. I think we'll get there quicker with Neutron than we did with Electron.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+It'll take that same path. Our intention right now is to make sure that the investment community has visibility. We plan on breaking out Electron and Neutron within the launch segment, so you can see.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Perfect
+## Adam Spice | CFO, Rocket Lab
+that we're not taking a dive on Electron gross margin. It's really all about Neutron, and you can do your own modeling, and hopefully can help you with that on the progression of Neutron margins into its target over time.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Perfect. Yeah. What gives you the confidence there relative to Neutron? Can you walk us through what you'll be able to accomplish with Electron on the cost and margin front? Maybe just unpack that a little bit more for us there that gives you the insights on how Neutron's going to fare based on your experience on Electron.
+## Adam Spice | CFO, Rocket Lab
+Yeah. Look, I think that the benefit of having flown Electron 87 times, we understand what it takes to stand up and run a launch business now. The standing costs were actually the surprise to me. When I came into this business about eight years ago, I think we didn't assume that there'd be as much overhead as there is. As it turns out, there's a lot of overhead in managing launch sites, launch teams.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+Regulatory safety, all of those things, production overheads. If you look at the overheads today to run the Electron business, whether we launch once or whether we launch 40 times, it's about $40 million a year.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Got it.
+## Adam Spice | CFO, Rocket Lab
+Last year, we launched 21 times. You got to absorb that $40 million of fixed overhead over 21 launches, roughly $2 million per launch.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+As we continue to increase that cadence, that's the big margin expander as well as some increase in ASP. The actual production you get, we get about, I'd say call it about 6% a year BOM cost savings just through managing our supply chain and so forth. On the labor side, we've gotten quite a bit of efficiencies there, but we're probably realizing a little bit of an asymptote in there on the labor side.
+Between direct labor and bill of materials for Electron, it's about $2 million. About $500,000 for direct labor, about one and a half million for BOM, and the rest is overhead absorption that we just talked about. Cadence is.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+Super important for that. For Neutron, it's a much bigger vehicle. It's got a much bigger dedicated pad. You're talking about maybe double that, call it $80 million worth of standing costs that need to be absorbed.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right.
+## Adam Spice | CFO, Rocket Lab
+If you look at our cadence of 3 launches next year, 5 launches the year after that, it's really 2029 when you get to be that point where you've got maybe the chance to have say 10-ish or more launches.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+It gets you down to about $8 million per launch of overhead absorption. The benefit is you have not a lot of booster cost if at that point we're successful in proving that the boosters can fly 20-ish times. I think that the path to margin on Neutron is pretty clear. It's going to be very similar to Electron, except for in this case, it's not just pure cadence, it's cadence plus reusability. I also think that similar to ASP expansion that we saw on Electron, I think we're going to see the same phenomenon on Neutron because launch continues to be very constrained.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right.
+## Adam Spice | CFO, Rocket Lab
+If you look at a Neutron pricing of $50 million-$55 million versus a Falcon 9 pricing of $77 million-$78 million, there's a pretty big gap there that will be helpful.
+Because the only part of the market that we really can't address that Falcon 9 can is that small group of launches that are more than 13 ton.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Heavy
+## Adam Spice | CFO, Rocket Lab
+less than 16.5 ton, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+It's a pretty narrow wedge. Most launches that we see other than Starlink launches are largely volume limited within the fairing, not mass limited to what the rocket can throw.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right.
+## Adam Spice | CFO, Rocket Lab
+We think we've got the rocket the right size. I think there's opportunity for us to be really competitive price-wise and provide some really good alternatives to the government and the commercial market.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. I think SpaceX has talked about shifting a lot of their focus over to Starship and eventually even sunsetting Falcon 9. I think you've got a great opportunity to step right in there.
+## Adam Spice | CFO, Rocket Lab
+Well, yeah, we don't factor those kind of outcomes into our models. I think if that was to happen, that's certainly upside to what we've ever considered.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Who else is out there besides SpaceX on the competitive landscape that you have your eyes on, relative to competition with Electron and Neutron in launch?
+## Adam Spice | CFO, Rocket Lab
+Look, we're in a very comfortable position on Electron. We are the leader in small dedicated launch. I think the closest would probably be Firefly, right
+On the smaller side. They have that one ton vehicle.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+that hasn't proven to be really kind of reliable or really available to the market in a meaningful way.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+You have Stoke Space that was onboarded to NSSL Lane 1 when we were very different vehicle architecture, very different capabilities. They're talking about a fully reusable, including a reusable upper stage, which has a lot of trade-offs as far as the amount of mass that you can deliver, right, when you have to-
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+deal with the return of that upper stage.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right.
+## Adam Spice | CFO, Rocket Lab
+Look, I think competition's healthy. I think that in the medium-lift category, I really do think it's going to be SpaceX and Rocket Lab, Falcon 9 and Neutron.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+There's the Northrop Firefly partnership on Eclipse, which at this point, doesn't seem to have that same reusable kind of opportunity, which is going to put it at a pretty significant cost disadvantage versus reusable platforms.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+I think the future is reusability, we don't really think too much about that one. Really we think about SpaceX, it's really Falcon 9 that we think about.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+Because ULA addresses a different part of the market. Blue Origin, very impressed with what they've done so far, although they had that mishap on the most recent launch for AS&T.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Great capabilities and we'll see how much of their focus is commercial versus broader ambitions in space.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+It's mixed. Yeah.
+## Adam Spice | CFO, Rocket Lab
+Yeah. Of course in Europe, you've got Ariane 6, which is kind of I'd see as very similar to the Vulcan from ULA, very government-focused, probably not high cadence, low cost. The commercial market seems to us on the launch side is really coming down to SpaceX and Rocket Lab, which we're very comfortable with.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right. How about on the space system side, relative to satellite manufacturers? There's a lot of folks out there. Who do you view as your prime competition in the satellite systems space?
+## Adam Spice | CFO, Rocket Lab
+Well, there's a lot of kind of moving pieces. You look on the commercial side of the market, you've got the traditional providers. You've got Thales Alenia, right?
+satellite manufacturer. You've seen the old SSL, Space Systems Loral, go to Intuitive Machines.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Look, I think, if you look at SDA Tranche 3 tracking, which is our most recent large award, it was Lockheed, Northrop, L3, and Rocket Lab, right? Those are players that are going to be pretty consistent. I think the question is whether any of some of these newer space systems manufacturers, some of which have been announced on SBI awards as subs to some of the primes.
+Yeah, I think they're giving it a shot. I think the question is just going to be, how important is vertical integration? For us, it is super important, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+Controlling all that part of your platform is key. Also being able to tie it together with a launch business, right? A launch platform. I think, in many ways, we just talked about it, I think the drawbridge has been pulled up on the launch business, right?
+I think once there's enough choice for customers, there's really no incentive for them to encourage new entrants to come on behind, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure.
+## Adam Spice | CFO, Rocket Lab
+The cost of capital and the rates of failure are just so high that it's a pretty challenging place to enter. I think on the satellite side, the barriers are lower.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+For us, it's all about offering an end-to-end solution to differentiate ourselves. I also think, look, our long-term goal isn't to be the world's greatest, largest satellite manufacturer of other people's hardware.
+It's to be in a position to build hardware for ourselves, very much like SpaceX did to create their own infrastructure and create this recurring revenue stream from an application or applications.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+That's our goal. The business that we take on the space system side is really all about enabling that. Every program that we do, whether it's commercial or government, is all specific. What new capability or infrastructure is that going to provide for us to do our own stuff with later.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+That's really where we're focused rather than trying to go get the next biggest contract because it'll help fill the factory. That's not what this is about. It's all about creating strategic capabilities that we're going to leverage in a much bigger way.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah. It's a great R&D offset, too, right? You basically get some of your R&D paid for when you get to do some of these programs.
+## Adam Spice | CFO, Rocket Lab
+Oh, absolutely. We're big believers in OPM, right? Use other people's money to develop your business, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+I think SpaceX, all credit to them, they had the resource of Elon behind them so that they could go directly to the prize, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right.
+## Adam Spice | CFO, Rocket Lab
+We don't have that luxury, so we basically use the broader market customers for building platforms and then other satellite manufacturers to participate in the broader market growth. The one thing that's very different, because people have been doing a lot of work, as SpaceX gets ready to come public, we've had a tremendous increase in investor meetings, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+You could tell that the meetings initially like, "Well, we really want to figure out more about SpaceX, prepare ourselves for that, but we'll also talk to you about your business." Typically they'll come away surprisingly interested in our business as well as SpaceX. I think they're going to be a pretty interesting choice for investors. I think SpaceX offers a very, very, very specific opportunity, right? Really attractive one, but a very specific one, which is basically a space-based telecommunications company, right?
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+If you look at what Rocket Lab is, we're a much broader play on the space ecosystem because we sell components and subsystems into the merchant market across a huge range of opportunities, right? It's earth observation, communications, national security, so forth. We really represent a way for investors to have broad exposure to space that's not tied to one company's application.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Right.
+## Adam Spice | CFO, Rocket Lab
+I think that's going to continue to be the case. As far as a rising tide raising all ships, we kind of represent that, plus very targeted opportunities.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Totally
+## Adam Spice | CFO, Rocket Lab
+On launch, and then ultimately when we get our own application and missions in place, we'll have that leg of the stool as well. We're trying to cover a lot of bases, which is, as you mentioned earlier, it's been a very busy quarter. They're going to be a lot of busy quarters, right? There's a lot of stuff going on.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+It's just so impressive what you guys are doing. Maybe just in wrapping up here, we just have a couple of minutes, how are we thinking about M&A going forward? You've been very acquisitive. Are there still holes in the portfolio? Still going to continue to use that balance sheet? How should investors think about kind of strategic moves here for you?
+## Adam Spice | CFO, Rocket Lab
+Yeah. No, we're very busy on the corporate development pipeline. We've got a lot of opportunities. We're working a lot of different things. I think you'll see more of what you've seen as far as technology tuck-ins to further vertically integrate and de-risk our platforms. We're also looking at On that, for example, we have now for example, for missile warning, missile defense, we have the GEO sensor. We acquired that last year.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+We have yet to fully vertically integrate around the comms payload side of things, right? Things like beam steerable antenna arrays, PAs-
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+signal generators, encryption solutions. Those things we really want to have all under our roof as well, so we can have full turnkey solutions there, or capabilities. Then on the application side, we look at a lot of things. Certainly our baseline plan is greenfield, where we'll build our own, right? Because we have all the capabilities, but there are some scenarios where partnering and/or acquiring our way into certain applications makes sense as well. Each one is a little bit bespoke because some applications are better serviced through an Electron type of platform for delivery-
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+Some would only really work with Neutron. For Neutron, we're not going to have any real excess capacity from Neutron until probably, call it 2029.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+For the next three years, I would say our strategy is largely going to be a little bit more focused on kind of partnership and inorganic, and longer-term, you kind of layer in the organic capabilities or maybe larger scale type of opportunities.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Really well-stated. Well, thanks so much for joining me today, and anything you want to say in wrapping up in terms of message to investors about Rocket Lab?
+## Adam Spice | CFO, Rocket Lab
+No, I think we've covered a lot of ground. Look, I think the key focus item for us is Neutron, Neutron. Let's get Neutron off the pad.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah.
+## Adam Spice | CFO, Rocket Lab
+I think the market needs the incremental capacity. I think it's going to be-
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+## Adam Spice | CFO, Rocket Lab
+a huge enabler for our longer-term strategic end-to-end space vision. It's incredibly exciting. I was in New Zealand last week with some of the team, and Pete and I went out to one of our composites facilities, and just to see the scale of this thing. Then we're watching-
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Wow
+## Adam Spice | CFO, Rocket Lab
+the stage 2 separation test, Ryan, it's just like the infrastructure around this stuff is just man, it's been so fun to watch and participate in just growing this thing and see all these incremental capabilities come along, and to see what human ingenuity can do when it's pointed in the right direction, and you've got the right capital and everything else.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Yeah
+## Adam Spice | CFO, Rocket Lab
+staggering amount of progress. It's very exciting.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+I'll say. I've seen so much in a short time, congratulations on success to date. Thanks for joining me today.
+## Adam Spice | CFO, Rocket Lab
+Oh, thanks, Ryan. Really appreciate it.
+## Ryan Koontz | Senior Research Analyst, Needham & Company
+Sure
+Data Source: Quartr Last updated: May 14, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

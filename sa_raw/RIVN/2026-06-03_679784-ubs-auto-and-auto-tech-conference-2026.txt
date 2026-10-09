@@ -1,0 +1,232 @@
+TITLE: UBS Auto and Auto Tech Conference 2026
+DATE: 2026-06-03
+## Joe Spak | Analyst, UBS
+All right. Thanks everyone for joining us for the next session. Very pleased to have with us from Rivian, Claire McDonough , CFO. Just to get started, Claire, a couple things we want to really touch on here, but I think first and foremost is the upcoming R2, which I think everyone's pretty excited about. Maybe you can just tell us about how the preparations for that vehicle are going. I think you're officially maybe opening things up to configuration in the coming weeks. Where we are in the process and how investors should think about the cadence of R2 over the balance of the year.
+## Claire McDonough | CFO, Rivian
+Sure. Well, first off, Joe, thanks so much for having us. For those of you in the audience that haven't seen it already, we do have an R2â
+## Joe Spak | Analyst, UBS
+Sorry, I should've mentioned that, yes.
+## Claire McDonough | CFO, Rivian
+On 24th Street.
+## Joe Spak | Analyst, UBS
+Please go.
+## Claire McDonough | CFO, Rivian
+Definitely better than listening to me is to go and experience the vehicle directly yourself, and you'll understand what we're going to talk about a little bit more today in terms of the intentionality in the design, the technology, and the utility and performance that gets unlocked with the smaller and more affordable package that we've brought to market with R2. On June 9th, we'll kick off the first deliveries externally. We've been making deliveries to employees and spent a lot of time working through the overall validation process before we start external deliveries on June 9th. Also on that date, we'll also kick off having test drives across our 100 different service and sales locations across the country as well. Really excited to get more customers behind the wheel of the R2 and have them have the opportunity to experience it for themselves.
+## Joe Spak | Analyst, UBS
+Okay. I think, just in terms of sort of your guidance, you mentioned about 9,000 to 11,000 deliveries total Rivian, I guess, for the second quarter. Obviously, when you look at what you did in the first quarter, what you expect to do for the second quarter, there's a big ramp up sort of here in the back of the year, which is to be expected, obviously, with R2. The sense I get is you feel pretty comfortable about demand, although any sort of commentary there would be appreciated. I guess, what's the gating factor for where you really think you can fit in? Is it just the pace of the ramp and how the supply chain comes along, or maybe just sort of help us understand the cadence of the year and what could go better or worse?
+## Claire McDonough | CFO, Rivian
+Sure. As you mentioned, our overall guidance, we delivered just over 10,000 units in the first quarter. 10,000 units is roughly the midpoint of our range for the second quarter. That implies an average of about just over 22,000 units a quarter in Q3 and Q4. With the cadence of the ramp, you'll certainly see more of those shifting towards the fourth quarter, relative to the third quarter.
+As we think about the overall execution of the ramp, it's heavily going to be supply chain driven. Our teams have spent a lot of time with each and every one of our suppliers. While I wish there was more flexibility in the automotive industry, you can only ramp as quickly as your weakest supplier.
+Our teams are on the ground to validate, assess the quality, the manufacturing environment that each of our supplier partners are executing against today to ensure all of them can work as part of a broader orchestra as we approach our overall ramp for the back half.
+## Joe Spak | Analyst, UBS
+One of the things I noticed about what appears to be the launch plans, and maybe this was sort of a lesson learned from the R1 experience, is a little bit of simplification of an offering, I'd say, to start. I think that also probably also helps with keeping future demand unlocks going forward as you unveil new trims and variants and offerings. Maybe you could just talk a little bit about some of the thinking there. Is it really just a risk and execution mitigation strategy to start very almost homogenous and then sort of offer more and more variants over time?
+## Claire McDonough | CFO, Rivian
+It's part of an overall strategy of how do you go slow to go fast.
+## Joe Spak | Analyst, UBS
+Yeah.
+## Claire McDonough | CFO, Rivian
+In doing so, we've cultivated a smaller assortment of our launch variant product, which is our performance variant, which has a number of additional bundled features included as part of it that we'll launch with. Over time, in the back half of this year, we'll introduce our premium variant. As we think about the order backlog of R2s that we have, we're just inviting customers that are interested in configuring their Launch Edition version of the vehicle to configure that, order that, so we can also shrink down the timeline between order and delivery and better manage expectations within the order bank of customers as well. On the 9th, we'll unlock that for a select handful of customers, will be invited to configure their very first Launch Edition.
+## Joe Spak | Analyst, UBS
+You invite people who have orders to configure, basically.
+## Claire McDonough | CFO, Rivian
+Correct.
+## Joe Spak | Analyst, UBS
+Someone from the general public won't be able to go on the site and sort of configure a vehicle.
+## Claire McDonough | CFO, Rivian
+Right. We'll go wave by wave through the orders that we have on hand. The other element of it is we're going to have a data sample from customers that may have ordered more recently. They will help us assess the conversion rates across the overall cohort as we are doing our modeling and work associated with the ramp and deployment of the overall delivery execution as well.
+## Joe Spak | Analyst, UBS
+What can you say about, I guess, the Launch Edition? Is it sold out? Will it remain as sort of a certain high-performance variant over time, just called something different, or how should we think about that?
+## Claire McDonough | CFO, Rivian
+You can think about the Launch Edition as being our performance variant, but withâ
+## Joe Spak | Analyst, UBS
+Special
+## Claire McDonough | CFO, Rivian
+It'll have lifetime autonomy in it. It has a tow package included as part of it. There's certainly different elements of what in the future will become added options that are included as part of that Launch Edition bundle.
+## Joe Spak | Analyst, UBS
+Okay. On the R1, which I know the focus is on there, too, I guess the EV market, particularly in the U.S., which is most relevant for you guys, obviously, it's been through a lot. It's sort of at a little bit of crossroads. I guess I'm curious if you could sort of reflect a little bit on how you think performance of that vehicle has held up in what's obviously been a sort of changing and dynamic backdrop for electric vehicles broadly. Maybe also a little bit color on how you're seeing the demand and the order intake for that vehicle currently and what you sort of expect as R2 begins to ramp and also obviously broaden out into additional trim levels.
+## Claire McDonough | CFO, Rivian
+For the R1, it still to this day is the best-selling premium electric SUV over $70,000.
+## Joe Spak | Analyst, UBS
+Yeah.
+## Claire McDonough | CFO, Rivian
+In the state of California as well, it's the best-selling premium SUV over $70,000.
+## Joe Spak | Analyst, UBS
+Right.
+## Claire McDonough | CFO, Rivian
+ICE or EV included as part of the underlying denominator of vehicles. It's also a vehicle that established the Rivian brand to the market. It has tremendous amount of fans following. Consumer Reports does a study on intent to repurchase. The Rivian vehicles are 14 points above the next best player in market. Re ally being a class leading program for us. it is a much smaller addressable market.
+## Joe Spak | Analyst, UBS
+Sure
+## Claire McDonough | CFO, Rivian
+As we think about vehicles in the 70 to north of $100,000 arena, which is where the game changes as we look to R2 and the opportunity to unlock a much broader addressable market of customers that can afford a $45,000-$57,000 vehicle. We're really excited to tap into that demand and the interest that we've seen in market for R2.
+## Joe Spak | Analyst, UBS
+I guess to round out the current portfolio as well, let's talk about the van and the relationship with Amazon. You do disclose every quarter in the queue the sales to Amazon, and it looks like it's been pretty strong, implying pretty decent EDV deliveries. Maybe just mark us to market on sort of the status of that relationship and what Amazon is telling you in terms of how they continue to want to try to electrify their fleet.
+## Claire McDonough | CFO, Rivian
+Amazon has a really strong relationship with Rivian and part of the beauty of the overall offering of electric delivery vans for them is the total cost of ownership advantages that they provide. Amazon has taken years to build out the charging infrastructure to support the electrification of their fleet. It's been really interesting to be sort of their partner on this journey as they've been able to work through adding power to some of their DSP sites to prepare for the electrification of their fleet over time. We're now in a position where we're seeing them increase their volumes on a year-over-year basis. We saw that certainly in the first quarter, and we anticipate there to be strong demand from Amazon throughout the course of this year.
+## Joe Spak | Analyst, UBS
+Are there lessons learned there for sort of broader electric van opportunities? I know you sort of had some pilot programs with some other customers. It seems like, again, maybe the pain point and why Amazon went a little bit slower earlier on was what you just mentioned too, alluded to, the infrastructure sort of build-out. What are you seeing from other customers here in those pilot programs in terms of building out a support structure to support the vans?
+## Claire McDonough | CFO, Rivian
+I'd characterize there being interest and curiosity to understand what does it take to make the transition. As you look at Amazon, which is the largest fleet operator, they see all of the benefits that the transition makes. It certainly is challenging as you think about the investments in infrastructure, the lead times to prepare a fleet to electrify. That's the piece that I think both Amazon and Rivian appreciate and understand and why we wanted to be balanced as we think about the size of external customers beyond Amazon in the near term.
+## Joe Spak | Analyst, UBS
+Sorry to interrupt you, to take Amazon and lessons learned there and almost as a case study as you sort of go and talk to other customers about what it takes, what's needed. Has that helped with that process at all?
+## Claire McDonough | CFO, Rivian
+It definitely helps with the overall process. I think the other piece is it takes some time to educate on the total cost of ownership. It's not just the, if I'm working in procurement and I look at the upfront cost or even as I look at the underlying cost of fuel or power cost or energy costs that are going into the product on a comparable set. The piece that is critical is the uptime that the vans are able to deploy, the fact that we're using mobile service the vast majority of the time to help support them. Their vehicles never leave the DSP. We're going to the Amazon DSPs to fix the vehicles in real time. That helps, again, really reinforce the total cost of ownership and operational advantages of what we're able to bring to market.
+## Joe Spak | Analyst, UBS
+I guess moving down the income statement a little bit, just on your outlook for the year. You did reiterate your EBITDA guidance for the year, I think somewhat encouragingly, right? There's definitely been some inflation on some of metals and other inputs. I think, I know there's some R&D sort of accelerated. I think you sort of talked more about 2027. I imagine some of that probably creeps into this year as well. Maybe you could just sort of talk a little about some of the puts and takes. I know there's a range.
+## Claire McDonough | CFO, Rivian
+Sure
+## Joe Spak | Analyst, UBS
+To sort of be able to reiterate that range?
+## Claire McDonough | CFO, Rivian
+The overall comfort in the reiteration of our EBITDA guidance is driven by both some of the net positives that we've seen, whether those be IRA tariff refunds, whether it's increasing our sales of regulatory credits beyond what we had originally planned for or modeled. The continued visibility that we have into the R2 launch and execution, as that stands today. Wh ile also ingesting some of the rising raw material cost that we're seeing across the industry.
+## Joe Spak | Analyst, UBS
+I don't think you quantified potential IRA recovery. I think you did say there was none in the first quarter, but there might be some in the balance of the year that is embedded in that number. Is that fair?
+## Claire McDonough | CFO, Rivian
+That's fair.
+## Joe Spak | Analyst, UBS
+Credits, is there an update there? I think your guidance there was to basically assume nothing.
+## Claire McDonough | CFO, Rivian
+Right. It was more that we were able to execute more credit sales in the first quarter.
+## Joe Spak | Analyst, UBS
+I see. Okay. Nothing for theâ
+## Claire McDonough | CFO, Rivian
+Nothing. We're still in theâ
+## Joe Spak | Analyst, UBS
+Okay
+## Claire McDonough | CFO, Rivian
+Don't plan for anything in the back half.
+## Joe Spak | Analyst, UBS
+Okay. Order of magnitude on a potential IRA benefit recovery? Any color there?
+## Claire McDonough | CFO, Rivian
+In the tens of millions of dollars.
+## Joe Spak | Analyst, UBS
+Okay
+## Claire McDonough | CFO, Rivian
+Is generally how we've sized it.
+## Joe Spak | Analyst, UBS
+Okay. Let's move on to Georgia and DOE. I think would really sort of just love to revisit some of your thinking and calculus in terms of the renegotiation that took place. Obviously, you upsize that initial sort of capacity. You get the money earlier. The other, I guess if I were to sort of say somewhat balance on that, right? Like you are maybe giving up a larger amount of money over a longer period of time to sort of help fund a larger build-out. Not to say you can't expand beyond $300,000 there over time, but it seems like at least now, maybe that's going to require you to fund that more or sort of other sources. Internally, how did you sort of think about striking that balance between those two things?
+## Claire McDonough | CFO, Rivian
+As we thought about the impact to the increase in the Georgia site, we looked at it through the lens of the cost efficiency on a unit of capacity that we're building into the ground in Georgia, where you see a lot of efficiency as you go from 200,000 units to the incremental 300,000 units. As we were dialing in our planning and preparation for it, that was a highly attractive investment in the future that we could make, and we were able to also get the Department of Energy to increase the initial phase of the loan as part of our renegotiation efforts with them. We actually increased the principal proceeds by $600 million. It created this really hyper-efficient, initial phase of Georgia that takes Rivian to meaningful scale with total capacity of 515,000 units. A path with that scale to free cash flow positive in the future.
+## Joe Spak | Analyst, UBS
+Right.
+## Claire McDonough | CFO, Rivian
+For us, that first phase is really critical as we think about rapidly accelerating our growth in capacity in the near term. Which this work is pulling that forward.
+## Joe Spak | Analyst, UBS
+Yeah
+## Claire McDonough | CFO, Rivian
+For Rivian.
+## Joe Spak | Analyst, UBS
+Yeah. I'm glad you sort of tied those two concepts together, because one of the other things you obviously mentioned that got some attention from the investor community is the free cash flow positive at sort of that, call it plus or - 500,000 units . In some respects, this maybe allows you to get there a little bit earlier, right? Because you are pretty more upfront. I guess just how would youâ Volume is obviously important in terms of being able to generate cash. What are some other factors, or are there other things that Rivian can do in order to sort of try to get to cash flow positive, maybe even a little bit earlier or at a lower level than 500,000 units?
+## Claire McDonough | CFO, Rivian
+There's certainly levels, and I can't sit here today and predict the exact GPUs that we will need three years, four years down the line or the cost of that end market. There's certainly areas of accelerated investment that we're making, w here there's opportunity for greater levels of efficiency that we see in sort of the current state of affairs within the business today, that could help, I would say flatten the curve or flatten the volumes required for Rivian to be free cash flow positive in the future. The other dynamic is that it's heavily dependent on how aggressive are we building the next phase of capacity expansion as well, which again, is a key barometer, but ideally, we're in a position where there's tremendous amount of demand available to Rivian, and we're accelerating towards capacity expansion to fulfill that demand overall.
+## Joe Spak | Analyst, UBS
+Let's switch over to ADAS and on autonomy, the other sort of exciting vector here for Rivian. Let's start with the universal hands-free product, which I know is evolving more to point-to-point, I think, still by later this year. What can you tell us about that technology path and the progress that the products make? I know we were in some early versions earlier this year, presumably, you've sort of seen some progress there, because it's more data and better product out.
+## Claire McDonough | CFO, Rivian
+Right. No, lots of progress being made.
+## Joe Spak | Analyst, UBS
+Yeah
+## Claire McDonough | CFO, Rivian
+Behind the scenes, not yet released to customers. We have released our universal hands-free offering w hich allows hands-free driving on 3.5 million miles of roadways across North America. The key offering for consumers is truly adding in the overall point-to-point offering for them so that they can have peace of mind as they're navigating, both in town, on highway, for each and every one of their trips. Our teams have been making significant progress. I was in a development vehicle a couple of weeks back in San Francisco. In an environment like that, or I'm sure if you were to do the same here in New York City, you see just so many different edge cases that are happening left and right.
+It was great to see how our large driving model was handling quite a dynamic set of circumstances and environment as well as we continue to progress our efforts there. The other piece that's critically important to our autonomous roadmap for the future is the ramp and scaling of R2.
+## Joe Spak | Analyst, UBS
+Right.
+## Claire McDonough | CFO, Rivian
+The R2 fleet provides so many more edge cases of data that we can take back. Fe ed into our large driving model, feed into the data flywheel that we have at Rivian to make our models that much better and the quality of the experience and safety associated with it better.
+## Joe Spak | Analyst, UBS
+Yeah. I want to put a pin on that because I think that's also where maybe some of the Uber relationship can sort of tie in in terms of getting scale and data. Just before we go there, pricing for the product, I think you're starting it at, right now, $50 a month, maybe 2.5K to buy it. I think you've indicated in the past that clearly as more functionality comes into the system, you might have to reevaluate the pricing. I'm curious though how you Is that a little bit of experimentation, almost A/B test? How do you figure out what the right level is and what the customer ability to pay for that functionality is?
+## Claire McDonough | CFO, Rivian
+I would say autonomy pricing has been one of the most heavily debated topics within Rivian.
+## Joe Spak | Analyst, UBS
+Yeah.
+## Claire McDonough | CFO, Rivian
+Over the years. The philosophy and approach that we took is we want there to be widespread adoption of our capabilities. That also helps feed our flywheel, our models. More drivers utilizing these features is better and will continue to help us accelerate our progress as well. We wanted to start with a very approachable level that lots of consumers could say yes to. That was really the genesis and approach that we took as we thought about the pricing dynamics.
+## Joe Spak | Analyst, UBS
+You mentioned some of the development vehicles upfront. Are those the next generation ones with the Gen 3? Okay. That's still on track for later this year as well? There were some reports that you might look to bring some of the lidar capabilities in-house. Is there anything you could comment on that?
+## Claire McDonough | CFO, Rivian
+I think that was more of an erroneous headline.
+## Joe Spak | Analyst, UBS
+Okay.
+## Claire McDonough | CFO, Rivian
+No plans today to bring anything in-house.
+## Joe Spak | Analyst, UBS
+Okay. Glad you could clear the air there. All right. Let's talk about Uber, which is obviously also interesting and you definitely get your vehicles out there. I think it also, again, as you mentioned earlier, get the data, get the flywheel. I am a little bit curious how you think about that, right? Because presumably, at least the earlier ones, and maybe I'm wrong, but will they still have almost a safety attendant in there? I know it might need to be dependent on the geography you're going in. If so, is that on you? Is that on Uber? You're not going to really open it up to the public until you can actually take the safety driver out, or the safety monitor out?
+## Claire McDonough | CFO, Rivian
+We've already started data capture collection in the launch markets that we're working towards in 2028, as we're sitting here today. What you'll see is just the continuation of the progression with safety drivers effectively executing point to point in ultimately bridging that to an L4 capability in the future overall. It will certainly go with our own progress, but always trying to create value-added solutions along the way.
+## Joe Spak | Analyst, UBS
+Okay. By the time you're at that sort of scaled number that you sort of have put out with Uber, it's sort of driver out type of operations.
+## Claire McDonough | CFO, Rivian
+Right. The expectation is the 2028 milestone timing that we talked about being in Miami and San Francisco, those are our driver-out milestones that we're executing towards.
+## Joe Spak | Analyst, UBS
+How do you think aboutâ Right. There's obviously benefits from using a network like Uber in terms of leveraging their network, and you get the benefit of the miles. I do think, though, one of the things you maybe lose out a little bit on is some element of the customer experience. Obviously, not the being in the car, but Uber as is widely seen, they plan to have multiple AVs on their network. What were some of the strategic considerations in putting your vehicles on that network? It almost seems like by trying to fragment the market, they're trying to get rid of differentiation of product and transportation on that front.
+## Claire McDonough | CFO, Rivian
+For us, the core consideration in partnering with Uber was to focus our investment and team on what we see as the highest impact area of robotaxi, which is focusing on the development of the driver.
+## Joe Spak | Analyst, UBS
+Yeah.
+## Claire McDonough | CFO, Rivian
+Instead of trying to do everything all at once, being able to focus on that, which we think is great for robotaxi applications will also unlock consumer L4 opportunities, which we think is an enormous market in the futures as well. That was our priority and focus. The other dimension which is helpful as we're continuing to ramp up our capabilities and performance is the opportunity within the Uber application to occupy and grow your ODDs over time as well. If you're starting up a service and you're just offering in-town rides in certain areas or locations to kick things off, that's a harder hurdle to get through versus within the Uber app, essentially Uber can direct rides that meet Rivian's ODD.
+## Joe Spak | Analyst, UBS
+Yeah
+## Claire McDonough | CFO, Rivian
+Then we can develop and grow as we continue to expand into all environments over time.
+## Joe Spak | Analyst, UBS
+As the technology evolves and the, let's just say, personally owned autonomy path and the robotaxi autonomy path converge, and RJ has always talked about or he first started talking more about personally owned autonomy versus this robotaxi, right? How do you think about as those converge down the road, someone owns an R2, and maybe they do want to be able to monetize their vehicle while they're not using it. Is the plan that they would also be able to put it on an Uber or Uber-like network, or down the road are some elements of that transportation network company type infrastructure something you would look to expand beyond Uber or even handle internally?
+## Claire McDonough | CFO, Rivian
+The great element that Rivian has is because we're a direct-to-consumer business, we have a service network across the country. We have charging infrastructure across the country, so we have a lot of the core tenets and attributes that could make Rivian successful in terms of the operation of large-scale deterministic fleets. If you look back, RJ's original thesis in creating the partnership with Amazon was this very training and learning of how do you run and manage a very large fleet of vehicles for the evolution of a shared mobility type of futures as well. We're certainly today looking at lots of different options and see lots of potential given the assets that Rivian has and the capabilities that we have in-house.
+## Joe Spak | Analyst, UBS
+Okay. One of the things I think that's become a lot more in focus is, and that we've been focused on as well, and I think investors have also is looking at what the core competency of the business is and whether that provides additional opportunities beyond that. Rivian, I think, has probably been more on the, let's say, the leading edge of this, right? You've designed your own chip, right? You obviously designed your own electrical architecture. I think you've designed some of your own power electronics. You have also, which I had mentioned to you earlier, I keep getting in my social media feed, and I'm tempted to try to buy one of those electric bikes. They look pretty cool. Then obviously, robotics as well, where I think you own 38% of Right? Yeah. 35%? Okay.
+Look, I guess what I'm getting at is, I think one of the ways you could look at Rivian is that you have a very sort of specialized set of employees and know-how that know the convergence of software with hardware. That you've got a big task in front of you, especially with sort of this R2. There are also other potential applications of the resources and capabilities you have. I know it's a big question, but how do you think about that internally? How do you go through the process of weighing whether this is something you should pursue? Because even with bikes and robotics, you did at some point make that decision to commit some resources to that, even if they sort of eventually have been.
+## Claire McDonough | CFO, Rivian
+Spin off.
+## Joe Spak | Analyst, UBS
+Yeah, further capitalized by others, yeah.
+## Claire McDonough | CFO, Rivian
+I think to your point, Joe, at Rivian's core, we're a technology company. We're a technology company that's operating in the mobility space. We are a technology company at our core. One of our core advantages is our ability to attract and recruit top talent across electrical hardware, across the semiconductor space, across software development space, that I think uniquely positions us within the broader automotive and mobility sector as a whole. These are becoming, I would say, more and more attractive resources to the industry as we think about the advent and introduction of more physical AI. The other core attribute that Rivian has is our data.
+Whether that's the data in our manufacturing environments, which is rich for the likes of micro robotic to learn, develop, and grow from. Whether it's the data of our fleet of vehicles that is capturing and helping to inform our large driving model for autonomous driving. Those are really central to the evolution and acceleration that we're seeing in the broader universe of physical AI applications. We're really excited about the rate and speed of growth and advancement that we're seeing in each and every one of those areas.
+## Joe Spak | Analyst, UBS
+Maybe we could just sort of zero in on the chip, for instance, right? When you put that out, it showed some pretty impressive performance. I know that was specifically built for your use case, which I would sort of say is large driving model, right? To your point on physical AI, that clearly has maybe other sort of applications. Is there any inorganic effort to sort of try to widen the [inaudible] for what that chip could do or applicable. Sort of more you've got to focus on your task at hand. If someone comes to you're willing to engage in a conversation if the economics and opportunity are right.
+## Claire McDonough | CFO, Rivian
+As we think about the chip's capabilities, we see it not just in automotive types of applications, but we see it lending itself quite well also to the universe of robotics. I'm really excited about the potential, not just for Rivian, but for technology licensing as a whole across many different dimensions of what we're building in-house as well.
+## Joe Spak | Analyst, UBS
+Okay. Within automotive or outside of automotive, or both?
+## Claire McDonough | CFO, Rivian
+Can be both.
+## Joe Spak | Analyst, UBS
+Okay. Maybe just let's sort of close here or approach the close on the Volkswagen joint venture. I know you got the winter testing done. It came with meeting some thresholds that got you some capital in the door. Can you just remind us, one, what's left to do in that venture? I think the ID.1, which I believe is the first vehicle, is scheduled to launch at some point next year. How does the sort of P&L change once the output of that JV starts to get into vehicles? Will you start getting payments right away, or is there some sort of bank that was built up from prepayments, if you will, that just sort of got to be eaten through first?
+## Claire McDonough | CFO, Rivian
+As you think about the $5.8 billion joint venture, there's a sort of still to come payment of just about and $1.5 billions .
+## Joe Spak | Analyst, UBS
+Nice.
+## Claire McDonough | CFO, Rivian
+$1 billion of that is a non-recourse loan that Rivian expects to receive in October that has no milestones associated with it. The final payment will be the earlier of the first vehicle, so the ID.1 in this case, being commercialized or January 2028. There are, from a payment standpoint, actually no physical milestones left because of the time-related feature of that final payment for Rivian. Regardless, we're really excited about the evolution of our in-house electrical architecture software stack and the opportunity to scale that with multiple different Volkswagen Group programs. We completed winter testing for three different brands and three vehicle programs at Volkswagen Group this past winter and are excited to help them commercialize those vehicles over the course of the next year or two.
+## Joe Spak | Analyst, UBS
+Okay. Then again, as those vehicles get into production, how does that change your P&L?
+## Claire McDonough | CFO, Rivian
+As you think about the P&L change, the piece that's important to recognize is about $2 billion of the overall consideration is associated with consideration for background IP. We've been recognizing that $2 billion from the close of the JV, and that'll be recognized through the middle of 2028. Beyond 2028, we'll flip to-
+## Joe Spak | Analyst, UBS
+Licensing
+## Claire McDonough | CFO, Rivian
+VW paying Rivian $100 million a year of just ongoing fees.
+## Joe Spak | Analyst, UBS
+Okay. It's not like a license fee.
+## Claire McDonough | CFO, Rivian
+It's not a per vehicle-
+## Joe Spak | Analyst, UBS
+Okay
+## Claire McDonough | CFO, Rivian
+License fee because we're sharing in the development costs jointly. VW pays for 75% of all of the shared development work that occurs within the joint venture, and then Rivian pays for 25% of it. Because of those splits and dynamics, there's not an ongoing per unit fee that occurs.
+## Joe Spak | Analyst, UBS
+Just since we're somewhat on the capital front also, just going back to the DOE loan, that's expected to start coming in next year as you start. The way it just functionally works is you build out part of the facility and they loan the money as you go in terms of what you spend. Is there any timing mismatch on that, or how does that work?
+## Claire McDonough | CFO, Rivian
+Yeah. You can think about the DOE loan as really almost like a project finance instrument. Rivian will contribute the equity of the project into the New Horizon entity. As we continue to build out the site, there'll be draws from both the equity pool from Rivian, and then we have an up to 80% loan-to-value from the DOE. They'll be reimbursing us along the way for the CapEx that's deployed.
+## Joe Spak | Analyst, UBS
+Okay. That loan, I should say, that basically we should think about it from timing from when it starts in earnest, I guess, at some point next year until sort of SOP at Georgia starts.
+## Claire McDonough | CFO, Rivian
+That's right.
+## Joe Spak | Analyst, UBS
+Okay. Perfect. Claire, thanks very much for joining us this year. Really appreciate it, thanks for the great conversation.
+## Claire McDonough | CFO, Rivian
+Thank you. I appreciate it.
+## Joe Spak | Analyst, UBS
+Take care.
+Data Source: Quartr Last updated: Jun 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

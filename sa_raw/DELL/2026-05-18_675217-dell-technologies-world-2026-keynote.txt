@@ -1,0 +1,341 @@
+TITLE: Dell Technologies World 2026 Keynote
+DATE: 2026-05-18
+## Michael Dell | Chairman and CEO, Dell Technologies
+Good morning, everyone, and welcome to Dell Technologies World. Thank you for joining this extraordinary community of innovators, dreamers, builders, and leaders. Together, we are driving one of the most important transformations in history. Abundant intelligence is here. It's not coming. It's here right now. Intelligence is becoming infrastructure, and just as electricity transformed the world when it left the power plant, AI will transform the world when it leaves the screen. We are making intelligence real, local, secure, and useful on the oil rig, in the ambulance, and on the factory floor. Dell Technologies is building the distributed infrastructure that turns isolated insights into intelligence in action, and we are opening the door to a new era of progress across every field of human endeavor. The models are smarter than all of us, and they're improving exponentially.
+Since ChatGPT was launched in 2022, we've gone from a chatbot that could write a decent essay to self-improving AI agents that write code. They run workflows, they operate around the clock. Coding is now AI native. You describe it, verify it, and ship it. The barrier between imagination and execution is collapsing, and this is unlocking human creativity on a scale we have never seen before. For organizations, AI is no longer a feature. It's becoming the operating model for the modern enterprise, and that is where we are going to spend our time together this morning, on a journey through the modern enterprise. All right, here we are in Austin, Texas, in our boardroom, where modern enterprises begin with a conversation and a commitment and a vision for what comes next.
+It's where we learn about each of you, about your journey, your opportunities, from healthcare to manufacturing to finance to agriculture, from small businesses to large enterprises and governments around the world. This is my all-time favorite visual. I use it every year, and I'm just wondering, can we make it just a little bit bigger? There we go. That's, you know, this is what I am most proud of. It's the trust that you place in all of us, that we take so seriously, and the relationships that we've been able to build and the work that we're able to do together. It's incredibly meaningful.
+This is where trust begins and where partnerships start to reinvent industries. AI becomes real when it shortens the distance between discovery and impact, and when you're at the frontier of modern pharma, the stakes could not be higher. Now let's look at Eli Lilly, where science becomes life-saving medicine. Please welcome Diogo Rau. Diogo, great to have you here. Thanks for being here, I mean, Lilly has an incredible history and story of remarkable scale and impact in the world in medicine over many generations, and you've been at the center of sort of bringing this super important company into the modern age of the with the latest technology. Tell us a little bit about how technology is shaping Eli Lilly today and what that looks like.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Well, fantastic, what a journey it has been because Lilly actually just celebrated a birthday party on Thursday last week. We turned 150.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Happy birthday.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Thank you. Really don't feel like a day over 140 years old. Lilly is not a tech company at our core. We were started by a colonel from the Civil War in the United States who saw people needlessly dying on the battlefield, not getting medicines that they need, and worse, actually getting sham medicines. He had this crazy idea that, why don't we actually go use the scientific method, figure out what medicines actually work, and then figure out how to make them at large volumes? From the beginning, Lilly was always a company about scale. In 1923, when insulin was discovered, we had a breakthrough medicine that could save so many lives, but nobody could figure out how to make it at volume.
+That's where Lilly came in, or actually, penicillin. 1928 is when it was discovered. We needed it for World War II when people were dying on the battlefield. U.S. had ramped up supply. By 1942, 14 years after penicillin was discovered, guess how many patients the United States could treat with its supply?
+## Michael Dell | Chairman and CEO, Dell Technologies
+I don't know.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Anything. 10.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Oh, no.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Not 10,000.
+## Michael Dell | Chairman and CEO, Dell Technologies
+That doesn't sound good.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+A million. No, it doesn't. No, it's definitely not good. The U.S. government called Eli Lilly and said, "Hey, can you do that thing you did with insulin?
+Can you do that again with penicillin?" That same thing happened again with the Salk polio vaccine. It happened again with the first COVID antibody. It's happening again today with GLP-1s because medicine isn't just about discovering something new. It only works if you get it out in mass numbers to help the people that they need. The only way you ever get scale in medicine is to actually have technology underneath it all, that's why we have always been huge technology adopters at Lilly, early and big. We were one of the first to adopt the IBM mainframe back when it took up a space probably like this size to run.
+We were one of the first adopters, actually, we were the first commercial adopter of the Cray-2 supercomputer. This year in February, we introduced, went online with a pharmaceutical industry's largest supercomputer. We've always gone early, and we've always gone big because technology is how you get that scale for medicines.
+## Michael Dell | Chairman and CEO, Dell Technologies
+You know, give us a sense for what the impact is, you know, how AI is making a difference today in Lilly.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Sure. Well, it makes a difference across the board, of course, 'cause I think if we took it away from people, they would quit right now, right? Nobody wants to go back to the pre-AI days. One of the exciting places, I think, is in manufacturing. We probably don't talk enough about what happens in the world of manufacturing.
+## Michael Dell | Chairman and CEO, Dell Technologies
+To be able to scale up all these.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Yeah
+## Michael Dell | Chairman and CEO, Dell Technologies
+Medicines.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Exactly, to get that scale of medicines again. One of the things that's really cool that is, I like, is, you know, when the medicines come down the filling line, they're like a social media influencer getting, you know, getting glamour shots the whole way from all kinds of different angles. It's about, like, 70 different photographs with budgets of milliseconds to detect defects. It's something that's super cool.
+## Michael Dell | Chairman and CEO, Dell Technologies
+The optical inspection -
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Yeah, exactly.
+## Michael Dell | Chairman and CEO, Dell Technologies
+To ensure quality. Sure.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+'Cause we used to have humans do that.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Right, right.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Guess what? Humans mess up. Like, these machines, they don't. It's amazing what you can do. Digital twins. I mean, how long have we been talking about digital twins? That's been, like, forever. Now we are actually really doing it, and we've taken processes that humans have said are completely fully optimized, and what we've done is we've replicated the machines that are in there as digital twins, moved them around, and guess what? The AI beat the humans. It's not completely optimized. Manufacturing is just a fascinating world, but the thing about it is we're so dependent on technology now that it just can't go down. That's the difference about this technology revolution from anything that we've ever seen before.
+That's why we've been very happy about our partnership with Dell, because when we open a new site, we don't have to go out and figure out what we need to do. We've already got a plan together. We already have the architecture, we already have the stack. Everything's been validated; it just works.
+## Michael Dell | Chairman and CEO, Dell Technologies
+It's copy exact.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Exactly.
+## Michael Dell | Chairman and CEO, Dell Technologies
+That's the operations side. What about drug discovery and research and accelerating, you know, really the plot of Eli Lilly at its core?
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+I love the challenges in research and discovery because that's another kind of scale challenge, just like we have never seen before. I mean, I think when we think of labs, and if you're not in this world, you know, you picture people running around in white, you know, in white lab coats with notebooks, taking notes, and, you know, maybe looking through a microscope. No, today, a modern lab, it's all technology in there, and every single one of those things is connected. Scientists aren't looking at some fuzzy image, you know, and trying to make something out. No, they've got 4K resolution, 120 Frames Per Second of whatever they're taking.
+Everything in that lab is just showering us with data, petabytes of data as it goes, and it's fascinating, it's overwhelming, but at the same time, that's the data that we need to use to power AI. That's the whole reason we have such high-performance compute needs.
+## Michael Dell | Chairman and CEO, Dell Technologies
+What happens in a couple of years when you get orders of magnitude more computing power to the research and drug discovery at Eli Lilly? I mean, how do you think about the effect of that on cancer and other-
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Oh.
+## Michael Dell | Chairman and CEO, Dell Technologies
+sort of, you know, challenges that exist in the world?
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+I love that because we're, today we're already there. We're solving problems that, like, that we weren't thinking about 10 years ago. The problems of 10 years ago are just frankly boring today. Everybody knows about AlphaFold, right? Super cool. You know, you figure out genes, and you figure out what protein would come out and what shape it that makes. Well, you know what? That's boring. Nobody really cares about that now. It's like, who cares what the protein looks like? What is it gonna do for me? That's what you need to know. Like, okay, you've got a protein now. How is it gonna interact with another protein? They're all moving rapidly in time and space, orbiting each other, bumping into other molecules. That's how we're actually modeling things that are much more advanced.
+By the way, that's actually, back to cancer and things like that's actually how you build something that's so selective it can only attach to one class of cell. If you can do that-
+You can drop off a payload, chemical or nuclear, actually, or other things like that, to kill a very specific cell. That's the kind of stuff we never could do before. It's just an absolute breakthrough with what we have in technology now.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Another example where we live in the most incredible times and, you know, mRNA vaccines, gene editing, all these things are incredible. Tell us a little bit about how Dell is supporting all these efforts, and sort of what it means?
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Yeah
+## Michael Dell | Chairman and CEO, Dell Technologies
+The technology to power this.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Well, it's, all the scale, everything I've been talking about only happens with technology, all that scale is actually what we are getting from Dell. We, you know, we are so proud of our AI supercomputer that we have running.
+## Michael Dell | Chairman and CEO, Dell Technologies
+You said 1,000 GPUs?
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+1,016, GPUs yep.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Okay.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+The newest generation. By the way, if you haven't seen one of these things, it's crazy. They're like it's 105, 110 decibels. I clocked the wind speed coming off the fans at 30 mi an hour. It's like you're in a hurricane.
+## Michael Dell | Chairman and CEO, Dell Technologies
+We're trying to make them quieter.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Okay. Well, they're amazing. No, the Dell infrastructure underneath is actually what's powering all of that. I wanna make it clear, 'cause it's not actually about the hardware.
+What we did first is we tried this out in a couple of smaller versions, and Dell was there with us as we were, as we were learning. We weren't just learning about how to set up the hardware. Dell was actually helping us with the whole management process, and what we really benefited from was not the models that we trained, but actually the training we got from you. I really would love to say thank you to you and to all of the Dell team members, because that's actually what helped us get the skills that we need to be able to build the supercomputer that we have today. That's how we're gonna make the kinds of breakthrough discoveries that we've been talking about. Because you know what?
+In 150 years from now, we're gonna have breakthroughs that we couldn't possibly imagine. I think we're on the verge of maybe being able to end disease as we know it. I mean, something like that was completely unimaginable 20 years ago. Today, we can imagine it. I think it's what you said at the beginning. The challenge is how do we shorten that distance between the discovery, the imagination, and the execution?
+## Michael Dell | Chairman and CEO, Dell Technologies
+Diogo, amazing. Thank you for a life-changing partnership and capabilities that we're, you know, really privileged to be a part of. We're inspired by everything that you and Eli Lilly are doing with technology. Thank you so much for being here.
+## Diogo Rau | EVP, Chief Information, and Digital Officer, Eli Lilly
+Thank you.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Thank you. Wow. More from healthcare soon. Thank you, Diogo Rau. What you just saw is not a chatbot; it is intelligence in the physical world. It is a faster path from science to medicine. Now every organization faces the same challenge. How do you turn intelligence into impact at speed? I hear it from the CIOs, the CTOs, Engineers, Operators, CEOs, and Boards. It is coming from the top down. I can tell you it certainly is at Dell. I see you, Jeff Clarke.
+That is because we understand how AI-native companies work, how they operate, what they look like, and what they are truly capable of. This is an existential moment. The companies that redesign their work around AI are going to compound advantages faster than at any time in history. Every leader in this room feels that pressure right now. It is exciting. It is exhilarating.
+It's sometimes exhausting, but it's also unavoidable. I want you to know that you're not alone. We are by your side with the expertise, the global supply chain, and the execution to deliver when it matters. The supply chain is modernizing, too. Some of our most important partners and suppliers are also our most important customers. For our next modern enterprise, let's look at the intelligence behind something we all rely on pretty much every single day: modern semiconductor manufacturing.
+## Speaker 5 | 
+Samsung, a leading integrated device manufacturer, offers AI solutions that span memory, logic design, foundry, and advanced packaging. As AI adoption accelerates, semiconductors are no longer just components. They are the foundation of global innovation, driving one of the most ambitious transformations in our history, turning our global manufacturing network into AI-driven factories. AI is now deeply embedded across design, engineering, and production, using digital twins, real-time analytics, and AI agents to predict potential risks and to improve operational precision, yield, and quality.
+All these demands call for a powerful and reliable enterprise infrastructure to accelerate Samsung's transition from automation to advanced autonomy. That's where Dell Technologies plays a critical role. Their solutions are applied across our IT and manufacturing infrastructure, from R&D chip design to production-critical systems. They are increasingly deployed in AI-driven fab environments and automation, enabling fast and reliable access to vast quantities of data.
+Our partnership with Dell has grown over many years. That continuity matters. When you are building AI factories, infrastructure decisions matter. Dell can support both today's manufacturing demands and tomorrow's innovation. Together, Samsung and Dell are leading the way in AI-powered global manufacturing innovation. We are building the future today.
+## Michael Dell | Chairman and CEO, Dell Technologies
+You know, in companies like Samsung and across every industry, AI is accelerating from proof of concept into production, it's flipping the traditional buy versus build equation. For years, the trend was off-the-shelf software and public cloud. Now AI is collapsing the cost and time to express your competitive advantage through software, guess what? There's gonna be way more software everywhere. A recent Dell Technologies survey on AI adoption shows that 67% of AI workloads already run outside the cloud, either on-prem, on-device, at the edge, or in a colo, 88% of respondents are running at least one AI workload on-prem. CIOs are aggressively pivoting to hybrid AI. The risk is not the cloud. The risk is losing control of your data, your cost, your security, your intellectual property, and your speed. In the agent era, lock-in does more than slow innovation.
+It actually limits what your company can become. Soon, every company will deploy fleets of agents composing workflows on infrastructure that they control. It's estimated that the worldwide AI infrastructure spending could hit $3 trillion-$4 trillion by 2030. AI is fueling a renaissance in enterprise hardware, a shift from bits back to atoms. The question is: how do you deploy the world's best models where you need them with security and governance built in? We give you a model choice without infrastructure chaos. You get the open models, the frontier models, the specialized models running where your data lives. Available starting today in the Dell Enterprise Hub on Hugging Face, representing major architectural leaps across the AI ecosystem, new models are available, including MiniMax M2.7, DeepSeek V4 Pro, DeepSeek V4, GLM-5.1, and Kimi K2.6.
+These join the Gemma 4 family of models, the NVIDIA Nemotron 3 Super series, the Arcee Trinity Large Thinking, and Mistral Small. In addition, ServiceNow customers will be able to leverage the Dell AI Factory to operationalize their AI-focused business outcomes. We have some very big news. You'll be able to bring the latest frontier models to your enterprise data on the Dell AI Factory. Google and Dell are bringing the Google Distributed Cloud with the Gemini 3 models on-prem with the PowerEdge XE9780 servers. You can run advanced AI workloads in a confidential computing environment using the new Gemini models. OpenAI and Dell Technologies are building a solution based on OpenAI's Codex to bring their latest agentic harness on-prem with the context provided by our Dell AI Data Platform using a set of connectors and skills.
+You can securely connect to the latest GPT-5.5 and GPT-Codex models. xAI and Dell Technologies are delivering Grok's advanced reasoning and multimodal capabilities as secure enterprise-grade AI assistants deployable on-prem or in a hybrid approach. Palantir's Foundry AI platform are also coming on-prem with Ontology deployed on our ObjectScale and PowerFlex platforms. You can connect all your data sources and optimize operations with the full weight of AI connected within the boundaries of your own environment. Reflection AI's open source frontier AI models are now coming to the Dell AI Factory. Regulated industries, including governments and sovereign entities, can deploy AI in a fully controlled environment. Look, every nation is waking up to a new reality. AI capacity is a strategic asset like energy, communications, and secure supply chains.
+We're delivering the secure air-gapped nation-scale AI infrastructure without lock-in and without forcing your data into somebody else's black box. AI can become the most concentrating technology in history, or it could become the most democratizing technology in history. We are choosing democratizing. Powerful AI wherever it's needed, open, secure, and yours. This is a hybrid AI. It's not a compromise. It's a competitive advantage running on your Dell AI Factory. How big is the demand for intelligence? It may very well be the largest market that's ever created. By 2030, estimates are that token consumption will explode, increasing by 3,400%. As organizations scale their AI workloads, there's a new economic reality. Cost curves, compute demands, and data movement patterns are all being rewritten. AI is not just changing technology; it's changing the economics of technology in favor of enterprise infrastructure.
+Now is the time to decide how you can most cost-effectively generate the tokens that you're gonna need for the long term. We now have 5,000 customers running their workloads, AI workloads on Dell AI Factory, turning their AI ambition into scale production from data to tokens to outcomes. Customers turn to Dell Technologies for the design and innovation, the engineering, the supply chain, the services, the support, and the financing, all working together. Time to first token is incredibly important with investments of this scale. We can deliver 100s of AI racks a week to a given customer, up and running in hours, generating outcomes immediately. Now, manufacturing, particularly advanced manufacturing, is where AI stops being theoretical, and it has to work with super complex and precise machines, sensors, supply chains, safety systems, and make real-time decisions.
+Join me in a visit to modern industrial innovation. Please join me in welcoming, sorry about that, Suresh Venkatarayalu of Honeywell. Suresh.
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+Hi, Michael.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Suresh, great to have you here. You know, when some people think of Honeywell, they may think of the Honeywell from the past. We know Honeywell is a different company today.
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+Right
+## Michael Dell | Chairman and CEO, Dell Technologies
+modernizing and, you know, far beyond the roots, in industrial controls. Tell us a bit about what the modern Honeywell is today.
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+Sure, Michael. Before that, thrilled to be here. This is my first ever, being with you right on stage, fantastic to be here. Honeywell, another 140-year-old company, one of the most important transformations we are going through at this point in time. We are positioning three independent companies, advanced materials. We've already spun them off, which is called Solstice. We have coming up with aerospace new Honeywell company, which is going to be a pure-play automation company. What do we do? It's a control system company which runs industrial, oil and refineries, commercial buildings, utilities, and data centers. We do the best, connecting to the install base, assets, controls, platform. That's what we do, optimizing and building applications all along 140 years of automation.
+Few things that are happening right now on why I'm so excited about the future of Honeywell is: the customers are looking for improving their throughput much bigger and better. Not only that, their systems are fragmented, siloed systems all over the place. What, the current technology, you know, exploration and innovation is gonna, you know, there's an opportunity. We have come back and built this whole Forge as a platform to integrate their entire backbone to optimize their operation. The future about automation to autonomy is going to be so real, and I see the possibilities for us to really serve them better.
+## Michael Dell | Chairman and CEO, Dell Technologies
+We've been working together for decades and, you know, we've been honored to be a part of your systems. Now, you know, tell us about Forge and what capabilities that's gonna bring to customers. What is it gonna enable? How are they actually gonna see it in their environment, be meaningful, and impact them?
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+Michael, I'm gonna be breaking down into two chapters. Chapter one, 2016 to 2024, I would say. We built Forge like any IoT platform, connecting to our install base, improving the visibility of our operation assets, and we built enterprise SaaS-based software application. I think we brought in a lot of improvisation in terms of service upgrades, software upgrades, and we brought in what they call visibility and transforming their operation. Chapter two, for the last 18 months, we said it's time that we actually not only have a connectivity tissue to the operation, but you have to contextualize and understand assets, processes, systems much better.
+I think with the advent of all the foundational models and AI at scale at this point in time, we are venturing into what we call a chapter two, which is all about you connect to your operation, you have to contextualize process data and system, and then if you are able to simulate and emulate, you have a better prospect in optimizing the operation. We believe that the time has come to drive something at scale. Let me give one example that will give you a context. We work with a number of customers across the board. Let me take an oil and gas customer in the Middle East.
+We have done for the last 10 years, having our Forge platform connecting to their assets, we would predict their uptime, downtime, you know, any downtime for an oil and gas refinery means impact to their throughput and yield. We've done a lot more work right there. We believe that there's a 2nd phase, which is all about contextualizing all types of assets. There are close to 100+ asset types. Your ability to contextualize asset characteristics in terms of ontology and then taking their process units and contextualizing them, can you predict the yield? Can you predict the throughput? Assume that if you have a feedstock variability, can you predict what those outputs would be? That's pretty much what we are venturing at this point in time, Michael.
+## Michael Dell | Chairman and CEO, Dell Technologies
+You know, it's in a way analogous to the entire sort of AI, you know, macro, theme that's going on in the sense that in the past, all these things were individual silos.
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+That's right.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Now you're bringing them all together with data and intelligence and helping drive yield and safety and better outcomes. You know, how is Dell engaged in this, and, you know, give us a sense for, you know, how we can help in making all this real.
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+There are two things. I think we partnered with you and NVIDIA in the last year or so. We said there are two things that are required. One, you've got to extend your intelligence beyond cloud and smart edge. You've got to extend it across your enterprise network. We actually believe that introducing this concept, called a physical AI server at each site level, you have the ability to really balance out your intelligence workload across the board. Because the decision-making for any autonomous future, latency matters, and data transactions matter. We started creating this concept called Forge Cognition with Dell and NVIDIA, and I think we are happy to say we are piloting at this juncture, getting great results at this point in time.
+For me, partnering with Dell and NVIDIA is not just about getting an infrastructure, high compute services, but this whole AI stack, which is a combination for me, is right from an ontology simulation, getting these entire models. As you talked about, there is a proliferation of models, and then getting an agentic AI platform that you could run at scale, secured, and ability where our customers can trust. I actually believe that we are going to bring in this whole industrial AI at scale that is so essential to transform whatever we're talking about, which is automation to autonomy.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Awesome. Customers are gonna feel something very different. Sort of give us a vision of, you know, 5- 10 years from now. What is this likely to look like for one of your customers?
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+You know, the first thing that I would actually say is, autonomy for us means it's not about taking human beings off. We still believe there are untapped potential in every operation we touch. I'm sure there's pressure from our customer side. Improve throughput, help us to expand the margin. We believe that the new age of AI, industrial AI, is gonna help the workers perform their tasks much better. The assets to extend their life cycle, to their peak performances, the operation processes, we expect that to actually be expanded. I think we have, you know, brought in a category at this juncture where we believe it's no more connected intelligent systems or operation.
+It's going to be a self-learning and evolving operation of the future, which we believe that we have an opportunity to co-create along with Dell and the rest of the partners moving forward in the world of industrial side, utility side, and commercial building side, and we are extremely happy and thankful for everything that you all have done. I'm sure I said this in the past, that Dell had helped us to really deploy our control systems for the last 20- 25 years, Experion, EBI, Niagara, which we call a Wintel strategy, and then now you bring in a GPU accelerator and extend this across the value chain. I think we're gonna create something interesting for the world.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Fantastic. Thank you so much, Suresh.
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+Michael, thank you so much.
+## Michael Dell | Chairman and CEO, Dell Technologies
+It's a great, you know, it's really a great honor and privilege for us to be part of the solution that you're delivering to so many important customers and activities around the world. Thank you.
+## Suresh Venkatarayalu | SVP, CTO, and President, Honeywell
+Happy to partner. Thank you.
+## Michael Dell | Chairman and CEO, Dell Technologies
+You know, not long ago, AI meant assistants that could write faster, and summarize better, and answer questions. You know, that was sort of the age of 20% and 30% productivity gains. It was valuable and kind of amazing, but really only the beginning. Now we're deploying agentic AI, autonomous agents that plan and reason and execute and adapt and close the loop. Agents are not something you just simply bolt on to your legacy systems. That's not going to get the optimum results. They are digital workers. They have memory, and credentials, and access, and the ability to take action. This requires a new architecture for work itself, trusted data, and governed action and infrastructure close enough to be able to make real-time decisions.
+The old systems and processes and the pace of decision-making from the past are no longer enough, and it is time to completely rethink and reimagine your company's workflows for agentic automation and for recursive self-improvement. That is going to lead us to gains of 20x and 30x in terms of productivity improvement. Who gets there first will rapidly distance themselves from all the rest. The companies that do not become agentic AI-driven businesses, I think they will struggle to survive. There is a massive AI investment boom that's already underway, and a productivity boom is beginning. In some companies, including ours, I see you, David, it already has. The rate of change has gone parabolic, and it's not slowing down. This creates monumental opportunities, and it also creates new responsibilities. The agents have credentials. They have access and autonomy.
+Security must expand beyond the human users to also govern the non-human workers operating at machine speed. If a bad actor can influence an agent or if an agent is trained on bad data, the blast radius is no longer contained to just a single system. It can propagate across all of your workflows and your infrastructure and, in fact, the business itself. This is already changing the boardroom conversation. It's not just are you secure, but do you understand what your systems are doing on your behalf? You can't protect what you can't see, and you can't manage. We give you visibility and control, no matter how fast these threats are evolving.
+Zero trust principles keep you adaptive and resilient and are built in from the endpoint to the core. Speaking of the endpoint, you can see this into the deepest layers of the PC with our Dell Trusted Device. You can store the key credentials, the keys to the kingdom, if you will, in Dell ControlVault so that only authorized identities, whether they are human or machine, have access to your systems. agentic AI is only as good as the data that it can trust, access, and act on. If your data is siloed, your agents are blind. They can't deliver the value that you expect. Everyone has access to the same models. The differentiator is your data, the unique proprietary hard-won knowledge inside your business. The agents are hungry for your data.
+Now imagine tens of thousands of them, going to millions of them, running 24/7 thousands of times faster than any person. The Dell AI Data Platform with NVIDIA has been engineered to address the data bottleneck. Within the platform, the data orchestration engine is the intelligent control center that turns that raw, fragmented data into production-ready AI. You can transform and query your data with NVIDIA's close to now 1,000 models, and Q2X libraries integrated natively. You get 12x faster vector indexing, 6x faster data querying, and 19x faster time to first token. We keep pushing the limits of what's possible. Today, we're super excited to announce that we're working with Starburst to enhance the analytics engine with NVIDIA, with their various CPUs for 3x faster SQL and with Blackwell GPUs for 6x faster SQL.
+Leading institutions like Bank of America, who already have a partnership with Starburst, NVIDIA, and Dell Technologies, are gonna be able to use these new capabilities to support AI-driven analytics while meeting their important governance, regulatory, and resiliency requirements. For extreme-scale AI and high-performance computing environments, we're introducing Dell Exascale Storage, a unified rack architecture supporting PowerScale, ObjectScale, PowerFlex, and the Lightning File System. Exascale is a four-in-one storage platform built to deliver up to 6 TB of throughput per second per rack.
+We all know that AI devours data, and our family of unstructured data solutions, including PowerScale, ObjectScale, and the Lightning File System, the fastest in the world, are being deployed extensively by thousands of customers around the world, including some of the AI-native companies like CoreWeave, Nscale, IREN, FluidStack, Boost Run, and many others, and many other leading firms that demand incredible performance like McLaren Racing, Hudson River Trading, Quadrature, Two Sigma, Optiver, and many, many more. Of course, all that data needs to travel at blinding speeds, and so AI factories need AI-grade networks. The new PowerSwitch Spectrum-X gives you the massive scale, speed, and efficiency, and reliability required for AI. We've added the NVIDIA Quantum-X800 liquid-cooled with co-packaged optics also to our networking solution. All that storage and networking feeds the beast of accelerated computing.
+The PowerEdge XE9812, built on NVIDIA's Vera Rubin NVL72, delivers 10x lower cost per token than Blackwell for massive scale agentic AI inferencing. The new lineup of PowerEdge XE servers built with NVIDIA HGX Rubin NVL8 are an industry leader, supporting up to 144 GPUs per rack with 100% direct liquid-cooled compute nodes, 5.5x more powerful than the previous B200 GPUs. To bring it all together, we're excited to announce Dell PowerRack, a turnkey rack solution where the AI compute, the networking, and the storage are all engineered together, designed, tested, validated, and delivered as one system. With PowerRack, you can deploy a fully integrated system where the thermal design, the power management, and all the software have been engineered and tested to work perfectly as one. Now, one reality we're all facing is that AI is energy-intensive.
+Even though the amount of energy used per token is decreasing quite rapidly, a single rack of NVIDIA Rubin GPUs can draw over 130 kW. As the industry builds hundreds of thousands of these racks, the pressure on the power grid is real. We are committed to being a part of the ongoing solution. Our PowerCool heat exchanger delivers up to 60% reduction in cooling energy consumption and cuts the annual energy cost by 1/3. Our PowerCool CDU is capable of cooling Vera Rubin NVL72. It delivers more than 220 kW of cooling capacity. We design for performance per watt so you can deploy more AI within your existing footprint. Now, of course, the most efficient token is the one that is generated closest to where your data is.
+We're expanding the Dell AI Factory with NVIDIA to accelerate agentic AI in the enterprise. We're announcing Dell Deskside Agentic AI, which brings together the highest performance Dell Pro Precision workstations, NVIDIA NemoClaw, and Dell services. You can test, build, and fine-tune agents locally while running the latest open-weight models in the 70 billion-250 billion parameter range up to 1 trillion parameters. You can do it without unpredictable cloud costs, bandwidth costs, or risks of IP leak. This is unmetered intelligence, and you can break even versus public cloud APIs in as little as three months. NVIDIA OpenShell is also now supported across the entire Dell AI Factory, giving developers a sandbox to secure and fine-tune their AI agents from workstations to servers.
+Dell Technologies' support for NVIDIA AI-Q 2.0 blueprints gives you a tested foundation to deploy multi-agent workflows. We're providing a consistent path to accelerate the move from deployment to pilot to production at scale. From the PC to a full rack of 144 GPUs to the biggest data center you could imagine in the world, full of those racks, we are engineering the accelerated architectures to work together as one system, agentic and autonomous. The Dell AI Factory with NVIDIA, the backbone and the brain of the modern enterprise. All right, that's what I'm talking about. Now the whole family's here.
+Now, no company does this alone, the next era of infrastructure is gonna be built by deep partnerships between companies that are advancing accelerated computing and the companies that know how to deploy it across the real world. Please join me in welcoming a great partner and friend, a true leader and visionary of the AI age, NVIDIA's Jensen Huang.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Nice to see you.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Jensen.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Michael Dell.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Thank you, Jensen. Jensen, it's great to have you back here at Dell Tech World. You know, we've been talking about agents and.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+I'm here every year selling Dell.
+## Michael Dell | Chairman and CEO, Dell Technologies
+We appreciate it, man. We appreciate it. Give us your perspective on where we are in this agentic recursive self-improvement world. It looks like every time, you know, we wake up, there's been some leap in the model and the capabilities, and sort of it doesn't seem to be plateauing. Give us your perspective, you know, from the front lines.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Well, two years ago, when I was here, we had just started with the generative AI journey.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Right.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Generative AI can, of course, generate content; remember, it can also generate content to think with, generate thoughts, which led us to reasoning, which led us to planning, which led us to agentic systems. Now we have, for the very first time, useful AI, which is the reason why your demand, my demand, is going parabolic. Utterly parabolic.
+## Michael Dell | Chairman and CEO, Dell Technologies
+It's true.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Right? It is going parabolic because agentic AI, the AI has to understand, has to reason, has to think, it has to plan, use tools, look at the results of the tools, think about it some more, come up with maybe an improved plan. It iterates until it can get the job done using a whole bunch of different tools. Well, the amount of computation necessary because it is running autonomously for so long, instead of just responding to a query, the amount of computation has grown 100x, 1,000x, and depending on the work that you are doing, sometimes we will kick off a software programming job, it doesn't finish for a week. Of course, it did a week what would've taken a whole team a month to do. Big deal in productivity, but a gigantic leap in computation requirements.
+Let's just say that computing went up by 100x or 1,000x . Meanwhile, because it's so useful, the number of people using agents is now all over the place. Every enterprise, our company, your company, everybody's using agents all over the place to do software development, DevOps, SRE, all of our CI/CD work, QA testing. The amount of software work that we do in the company, now supported by agents, is incredible. One engineer, a really good engineer today, is working with an agent. A really great engineer in the future is gonna be orchestrating a whole bunch of agents who are gonna be orchestrating a whole bunch of sub-agents to do work. Between the amount of computation and the amount of demand use going up, the product of that's our demand.
+We've now arrived at the era of useful AI, which is really just really exciting for all of us because until now it's been novel, interesting, incredibly exciting. Really, at the enterprise level, many of you have said before, the last couple of years, the impact of AI is the potential is incredible, but the actual use was minimal. Now it's taken off.
+## Michael Dell | Chairman and CEO, Dell Technologies
+We're starting to see now, you know, a couple of years ago, when we started this, we didn't have 5,000 enterprise customers. Now we have, you know, the biggest companies in the world, like you saw with, you know, Lilly, and Samsung, and Honeywell. You know, they're piling into this in a big way. Really, that's just starting, right?
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Just starting.
+## Michael Dell | Chairman and CEO, Dell Technologies
+And, and-
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Yeah
+## Michael Dell | Chairman and CEO, Dell Technologies
+You know, to reimagine their workflows to be able to understand, you know, the trajectory of how this is improving and how it can affect ultimately what they, their companies can become, that really is just an idea.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Yeah
+## Michael Dell | Chairman and CEO, Dell Technologies
+We haven't seen that in any scale. I mean, there are some companies that are doing it.
+it's a very small number today.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+No doubt. Well, you're experiencing, and I'm experiencing, our company has always gone fast. Yeah. It's really going fast now. Just the amount of content that's being created internally, the progress that's being made. You know, people said that AI's gonna make us more productive. There's no question about that. What took months now takes weeks. What took weeks now takes days, and what takes days now takes hours. Things that would take an hour, you know, you and I pretty much expect it instantly now. What has really changed is that our ambition has changed. There's no question my ambition has changed. You know, I wanted to be somebody, to do something, make a contribution, but that was the old Jensen. You know, the new Jensen, I've got big ambitions now.
+## Michael Dell | Chairman and CEO, Dell Technologies
+You gotta, you gotta-
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Yeah.
+## Michael Dell | Chairman and CEO, Dell Technologies
+We all have to ask ourselves the question, how high is up? Well, it's pretty high, right?
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Yeah, yeah.
+## Michael Dell | Chairman and CEO, Dell Technologies
+We've got all these great products. You know, we're embedding AI in everything and enabling, you know, this distributed inference and intelligence.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+This is the best room I've ever been in.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Which is your favorite?
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Well, you know, it's hard to, I love all my kids.
+## Michael Dell | Chairman and CEO, Dell Technologies
+How about the one on the end?
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+You gotta love that one most though. Yeah. Well, this is incredible. We, Michael and I have been working on a whole new line of computers to run agents. The way to think about agents is this. There's a large language model. It's gigantic. It's the most computationally intensive piece of software the world has ever known. That would run in that system towards the end. That NVLink 72, the world's largest scale-up single domain computer, okay? It's just one giant system operating as one computer, and that system has a large language model in it. It could, you know, 1 TB, 10 TB of parameters, no problem. That's one giant system. That's the brain. However, an agent starts with the harness. That harness has to sit in a secure and governed container. We call it a sandbox.
+The NVIDIA Open Shell, open-sourced sandbox, is the security system that just about everybody in the industry is using. Inside, we have a reference harness we call NVIDIA NeMo.
+NVIDIA NeMo runs on a CPU, and that CPU could be a CPU in there, a CPU in here, a CPU in there.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Yep.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+It can also run Nemotron or any of the models, open-source models that you would create your own specialized agents for your own companies, trained for your own special domain of data or skills, and that would run locally if you like. The large language models could run in the cloud. You have this Hybrid AI. The thing that's really cool is that NVIDIA's architecture is the only architecture in the world that runs every frontier AI model, and lately, recently, in the last year or so, Anthropic has been really leaning into the NVIDIA architecture. Now we support every single frontier model, we support every open-source model, we support them in the cloud or locally.
+As you can see, our computer is the first one in the world that runs in every cloud, but it also runs locally. If you have your models that you're quite sensitive about, our systems are built with confidential computing.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Yep.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+This way, you don't have to trust the operator that's operating the data center with your secure data. All of these architectures now run in every cloud, run every model, run hybrid AI, and run agentic systems. You have your harness that runs on a CPU. The CPU also uses tools. The CPU we created, I think you mentioned it earlier, called Vera.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Yes.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+The CPUs of the past were built for hyperscale clouds. You're renting the CPU cores; you're optimizing for as many CPU cores as possible. Well, agents in this new world, you're generating tokens. You're not renting CPU cores anymore. You're generating tokens and marketing that. That's the economics of this AI era. The AI wants to generate, run its work, and generate as many tokens as possible as quickly as possible because that's the output of the intelligence. Vera CPU has the highest single- threaded performance of any CPU in the world. It has three times the memory bandwidth of the fastest CPU in the world. As a result, Starburst, DuckDB, all these databases run incredibly fast because the agents are pounding on the databases, so the CPUs better be super fast.
+The agents want to get through its work, so the CPU's got to be super fast; otherwise, the big machine down there is waiting for the agent to get its work done. Now you have the harness running on the systems here, local AI models running on the systems here.
+Giant models running the cloud or in your own data center on that big machine down there.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Well, let's go check it out. As we do that, you know, what's exciting is to think about, you know, in the past, as humans, we would do work, right? We would pass it on to the next human. Now we have, you know, all these agents that we're managing, right? You know, an individual can manage, I don't know, you know, 1,000, 100 agents. The possibilities that that unlocks in terms of human creativity and what humans are gonna be able to do, and I love this idea of the unmetered intelligence, right? Where you've got the power in your own PC, in your own data center, and you can use it with your own data. You know, that's sort of super cool.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+You don't have to struggle with token anxiety.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Yep, yeah.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+You know, you tell your employees.
+## Michael Dell | Chairman and CEO, Dell Technologies
+You don't wanna run out of tokens.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Yeah, right.
+## Michael Dell | Chairman and CEO, Dell Technologies
+You know, get that dreaded bill. Jensen, since you're here, would you do us the honor of autographing this -
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+All right.
+## Michael Dell | Chairman and CEO, Dell Technologies
+This latest -
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+All right. Well.
+## Michael Dell | Chairman and CEO, Dell Technologies
+rack?
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+We gotta climb up here. I'm not as tall as you are. All right. All right.
+## Michael Dell | Chairman and CEO, Dell Technologies
+This is what's the date today?
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+18th. May 18th.
+## Michael Dell | Chairman and CEO, Dell Technologies
+We're not gonna sell this one. This one is.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+You gotta sign it too.
+## Michael Dell | Chairman and CEO, Dell Technologies
+I already signed it.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+You did?
+## Michael Dell | Chairman and CEO, Dell Technologies
+Yeah.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Well, you got it right here.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Dell, Dell. Dell, Dell.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+There we go. There we go. Michael's already signed it right here. This is, Michael, this is 100x .
+## Michael Dell | Chairman and CEO, Dell Technologies
+Yeah
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Larger than this one, the station.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Right.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Exactly the same architecture.
+## Michael Dell | Chairman and CEO, Dell Technologies
+The GB200.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+GB200 in here. That's 100x larger than this one. This is the only computer, desk- side computer in the world that can run a terabyte, a 1 trillion parameter AI model. Okay, this is incredible.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Would've been unimaginable even a year or two ago.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+I know it. 1 trillion, I mean, this would basically be a cloud just two days ago. You know? So, this is a station, and this is 100x bigger.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Yep.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+This one. That's 5x, 6x larger than this one. This is one of my favorites. This is the smallest-
+## Michael Dell | Chairman and CEO, Dell Technologies
+GB10
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+GB10. Same architecture as that one. It's incredible, right? One architecture.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Incredible.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+The agent of the future.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Well, Jensen, we really appreciate you being here. We treasure the incredible partnership with NVIDIA and all we've been able to do for customers around the world, and look forward to.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+We grew up together, practically.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Yes, we did.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Yeah.
+## Michael Dell | Chairman and CEO, Dell Technologies
+It's been 31 years that we've been doing this.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Yeah.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Thank you.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Guys, keep up the great work. Thank you, everybody.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Thank you, Jensen.
+## Jensen Huang | Co-Founder, President, and CEO, NVIDIA
+Buy Dell.
+## Michael Dell | Chairman and CEO, Dell Technologies
+Well, thank you.
+Data Source: Quartr Last updated: May 18, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (5) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

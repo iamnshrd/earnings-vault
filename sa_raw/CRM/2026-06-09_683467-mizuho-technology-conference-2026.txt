@@ -1,0 +1,202 @@
+TITLE: Mizuho Technology Conference 2026
+DATE: 2026-06-09
+## Moderator | 
+All right. We're going to get started with our next session. Very pleased to have Patrick Stokes with us for our next fireside chat. Patrick, of course, is President and CMO of Salesforce, has nearly 20 years of experience in product leadership roles. That includes the last 15 or so at Salesforce. Patrick, thanks so much for being here.
+## Patrick Stokes | President and CMO, Salesforce
+Thanks for having me. Really appreciate it.
+## Moderator | 
+Yep, my pleasure. Just by way of getting everything started, it'd be helpful if you could outline for us your primary responsibilities and focus areas at Salesforce.
+## Patrick Stokes | President and CMO, Salesforce
+Sure, happy to. Well, I'm exactly who you all want to talk to. I'm the Chief Marketing Officer at Salesforce. I've had a bit of an interesting journey. I've been at the company for about 15 years, longer than most, not quite as long as some. Most of my career has been on the engineering and product side. I started as an engineer, moved into product. Kind of 10 years in product at Salesforce, I ran our platform. Moved over to marketing about two years ago, two and a half years ago, right when all the AI stuff really kicked off. I didn't quite know it at the time, the whole world changed, which was difficult. About four months ago, moved into the CMO position.
+## Moderator | 
+Fantastic. You're coming off of a solid Q1 in which Salesforce impressed with Einstein disclosures, of which there were several.
+You reiterated confidence in second half-
+Revenue acceleration as well. Maybe just briefly recap for us what you personally viewed as most important or instrumental out of the last quarter.
+## Patrick Stokes | President and CMO, Salesforce
+Yeah. Well, certainly, we're very excited about the continued growth in Einstein. I think, $1.2 billion now on the Agentforce side, up from, I believe, $800. We're very excited about that. We're starting to see customers reach real scale on that, with some pretty sophisticated use cases. I'm also equally excited about the AWU growth. We're certainly seeing our own token consumption from our customers.
+## Moderator | 
+That's Agentic Work Units.
+## Patrick Stokes | President and CMO, Salesforce
+Agentic Work Units, yep. This is this idea of tokens in and out. That's effectively a measure of reasoning or a measure of intelligence, but it's not a measure of actual work getting done. We thought it was important for the market, and the technology sector as a whole, to have a way to measure actual work getting done by these pieces of intelligence.
+We introduced that in Q4, and I was very excited to see that continuing to grow alongside token growth, of course. Interesting watching the two of them kind of grow at, each of them kind of picks up pace at certain moments in time. It's also really interesting looking at the AWUs, kind of across different industries and different segments. You can start to see where different usage patterns are emerging.
+Lastly, I would say, I was very excited about our Headless launch, which we did not that long ago in March, I think it was, at TDX, our developer conference. I'm very excited about what that means for Salesforce and the reaction to it we're seeing from our customers. Really opened up kind of a new way of thinking about our role in this agentic era.
+## Moderator | 
+All right. That's great. I definitely want to dive more into Headless in a few moments. Let's stick with Agentforce, because I think it's important to understand what's underpinning the growth that you were just talking about. There were a lot of announcements around Agentforce, I would say, dating back to Dreamforce last October.
+## Patrick Stokes | President and CMO, Salesforce
+Yep.
+## Moderator | 
+Many other improvements have since been unveiled.
+How would you characterize the agentic capabilities of Agentforce today, and what are the most important enhancements to both the tech and the ecosystem?
+over the last six to nine months that are really enabling your customers to unlock more value?
+## Patrick Stokes | President and CMO, Salesforce
+Yeah, I think, the two biggest advancements in the last, let's call it six months or so on the Agentforce side are one, something that we call Agent Script. Which is, if you start building an agent, you get very excited early on because you're like, "All I have to do is write human instructions, and like I've coded my agent." If I'm being very reductive, they're effectively just prompts under the covers.
+Anybody can write those. What you realize when you're starting to try to get agents to do multi-step and complex workflows is you have a lot of like, do this, but unless this happens, then do this. You start writing it like that, and the agent gets very confused very quickly. The irony of programming languages is that's effectively what they are, if this then that, types of flows.
+We pioneered this way to kind of put little micro moments of scripting into the prompt so that you could eliminate some of the probabilistic problems of working with an LLM. You've all seen this. You ask it a question, then you ask it the same question, and you get two different answers. It's a probabilistic, non-deterministic system. When you're trying to execute workflows, you don't want that.
+You want deterministic. You want, do it the way I've asked you to do it every single time. Agentforce helps you with that, and that's been a big unlock for our customers that are trying to either do this at scale or do it in regulated environments, do it where there's certain policies that they need to make sure the agent is following. Then the second I would say is voice, for sure.
+Voice is very exciting for our customers. Was a pretty significant computer science project for us to get that working well. Voice is a tricky thing because there's humans. People have different ways of talking, and there's interruptions and latency and all of these things that you kind of don't think of until you actually start trying to build it, and you're like, "Oh, this is actually pretty damn hard.
+## Moderator | 
+Yep. There are, Patrick, several CCaaS incumbents that have had existing solutions for a while. How do you think about where Einstein Voice stacks up at this stage?
+## Patrick Stokes | President and CMO, Salesforce
+Yeah. I think we're in pretty good shape. If you had asked me three months ago, I would say we probably have work to do, but I think at the moment, we're now running Salesforce, our 1-800 number on Agentforce Voice. You can call it now and you'll talk to Agentforce. We have other customers doing the same. I think we'll probably be sitting here with our Q2 earnings after talking about the big kind of scaled voice customers, just like we are the kind of chat customers with Agentforce.
+## Moderator | 
+Okay. Super interesting.
+## Patrick Stokes | President and CMO, Salesforce
+Yep.
+## Moderator | 
+One other comment on Einstein, we've started to hear of some forward-thinking customers that I would say are deploying multi-cloud Agentforce use cases.
+They might extend from Service Cloud to Sales Cloud.
+## Patrick Stokes | President and CMO, Salesforce
+Yeah.
+## Moderator | 
+You're doing case resolution in Service Cloud, and that triggers a campaign in Marketing Cloud.
+## Patrick Stokes | President and CMO, Salesforce
+Yep.
+## Moderator | 
+Is this something that you're really kind of seeing as well? Is your go-to-market aligned enough, frankly, to be able to sell more holistically in this way?
+## Patrick Stokes | President and CMO, Salesforce
+Yeah, good question. It's funny, the first part of your question is like, we saw that from the very beginning. There really isn't a usage of Salesforce that doesn't cut across. The platform is actually quite a bit more munched together than you think that it is from a pure usage perspective. From a buying perspective, it's maybe a little bit more discreet. You have sales, service, et cetera.
+As soon as you start using Agentforce, you immediately get into scenarios where you're like, "Okay, I'm going to use it to try to qualify a lead, but then I want to put those leads into a marketing campaign." Service, I'm going to use it for case resolution, but I need to know if there's an open opportunity because I'm going to handle my case resolution in a different way. There's tons of those types of use cases.
+What we've tried to do is make it easier to buy that. This is what our kind of top-end editions like, we call it internally A for X, so Agentforce for Sales and Commerce, Service, et cetera. They kind of come with the entirety of the platform. It's like, here it all is, go implement your agent, so you're not kind of buying individual piece parts.
+## Moderator | 
+Okay. Great. Maybe just to sort of zoom out a bit, I think what a lot of investors in this room and elsewhere are wondering is like, when will the rubber hit the road, when it comes to enterprises meaningfully deploying Agentforce in production and at scale? Certainly, we know that some have gotten to that level, but it just comes down to more broad adoption in that capacity.
+## Patrick Stokes | President and CMO, Salesforce
+I think your second part there got it. Certainly, we are seeing many hundreds of customers reach meaningful scale. Either scale from a usage perspective, in some cases, simple use cases, but that are being interacted with by hundreds of thousands or millions of individual consumers on the other side, customers like Southwest, who are now doing 20%-30% of all of their inbound requests from customers with Agentforce. It's the curve of sophistication of the interaction, then volume, they're maybe lower on sophistication, but very high on volume. Then you have other customers that are very high on sophistication and maybe a little bit lower on volume as they experiment. We're seeing all ends of that spectrum.
+The real basis of your question is, okay, Patrick, when is everybody going to be doing that? When is 187 of your 1,000 of your customers, they're all going to be doing that?
+## Moderator | 
+At least a very significant percentage.
+## Patrick Stokes | President and CMO, Salesforce
+At least a very significant percentage. We're definitely nearing that. It's certainly part of how we think about H2, accelerating the business. That's all factored into that. You're going to start to see a rapid acceleration as the product gets easier to use, as the CIOs start to trust what we've built, that also means, in a way, I have to be careful how I say this, in a way, given up on what they've tried to DIY, right?
+## Moderator | 
+Yes.
+## Patrick Stokes | President and CMO, Salesforce
+Well, what they're doing is they're creating intuition of what it takes to do it. That's putting us in a better position because now they come with that intuition and they go, "Oh, okay, you've actually solved the problems that I ran into and maybe didn't want to solve." We're definitely starting to see a lot more kind of openness to the platform from CIOs than maybe we were 6, 12 months ago when everything was so new. They were all just trying to figure it out.
+## Moderator | 
+Okay. Yeah. Super encouraging. Of course, just maybe to sort of stay with this train of thought, I mean, the big fear out there remains that AI and specifically the Frontier labs, that they will drive significant disruption and deceleration in the Salesforce business. Why is that view incorrect?
+## Patrick Stokes | President and CMO, Salesforce
+Well, there's the data side of it. There's the subjective side. The data side shows that it's not correct at the moment. Our seats are still growing. Our core businesses are still growing and we're very happy with the growth. Also when you look into the AI labs, this is what's most fascinating to me. Many of these labs have people in the go-to-market organization that we know.
+They're all using Salesforce extensively. In fact, more than some of our biggest customers. The reason that is because these AI labs, what they're doing is they're not using Salesforce the same way customers have for the last 20 years. They're not using it as a UI. They're not logging into it every day and logging a call and an opportunity. They're using it through their own agentic interface, through Claude Enterprise or through Codex.
+They're hooking it up with MCP, this is how headless comes into play. That's how they're using Salesforce. What we're seeing is there's actually an expansion of usage and expansion of consumption. That's separate from the whole seat conversation is kind of a separate one, which I'm sure you'll hit on. Just if you separate that for a moment, the existing seats, this new way of working with Salesforce, we're seeing usage spike up quite a bit. That's very encouraging for us.
+## Moderator | 
+Okay. Terrific. Yes, that was a perfect segue to headless.
+I do think the Headless 360 announcement, Patrick, just seems like a really clever and interesting way to drive stronger connections, to your point, with the frontier AI models.
+Also opening up the Salesforce platform to external AI agents and coding tools via MCP, as you also highlighted. One other thing I would add is just also reducing friction, just making Salesforce easier.
+## Patrick Stokes | President and CMO, Salesforce
+Yeah
+## Moderator | 
+for developers to use. I guess is there anything, is that a fair characterization? Anything else that you would sort of highlight as part of this?
+## Patrick Stokes | President and CMO, Salesforce
+Yeah, definitely a fair characterization. The inspiration for headless came from just watching people use Salesforce in a different way. We have these partnerships with the AI labs, and we're watching them use, and we can see the API data. We can see that their consumption is through the roof, but they're using it through Slack, for example.
+The AI labs are all big giant Slack users, or they're using it through their own Claude interface. We're also seeing it just. This is a very hot kind of space right now. You go to X or you go to Reddit and it's just like an army, or you go to these random Discord channels where all these developers hang out, and there's just these constant sets of conversations of people trying to figure this out.
+There's something that I think people can sense, where they're like, there's a new way to work. I think that that's what they're sensing. That there's going to be a way to work that all of the friction of going to all of these discrete applications that have been purpose-built for the function that I do, that's going to go away and it's going to be replaced by a new interface that interacts with kind of the underlying capability of those discrete applications.
+The applications aren't going to go away, but the UI is going to be massively disrupted. We started to see that pattern emerging, and that was the inspiration. It's just like, okay, well, if that's what customers want, and many other companies in our space saw it as well, and they were like, "We don't want that. We're terrified.
+We don't want to lose our users. We don't want to lose the UI." We just took the exact opposite approach and said, "No, we endorse it. Let's open this up." We're going to have to figure out how to monetize it, which is something that we're talking a lot about and I'm sure is very relevant for all of you.
+The pattern itself is really a no-brainer, and that's why I think it's so exciting. I think that you saw a very positive sentiment, which we were all very excited about. It's been a couple of months of the SaaS apocalypse, kind of getting back in front with a message of like, "No, no, guys, we see this. We understand what it is you're trying to do, and we want to actually enable that and endorse that.
+We think that that is the future." I think it was a little bit of a reset moment for us.
+## Moderator | 
+Okay. Clearly, it sounds like a mechanism that puts Salesforce more directly in the token path.
+## Patrick Stokes | President and CMO, Salesforce
+Absolutely. Well, when you look at these tokens represent intelligence, as I said earlier. Right now, by far, the single biggest use case for consuming tokens is coding. Right. It's the killer app. One engineer can generate like a $100,000 a month bill without much problem. You can debate whether that's highly efficient or not, these labs are making a lot of money on these tokens.
+There will probably be some sort of normalization or reckoning of that. Right now, everybody is just like, "Everybody code it." You hear these stories of people faking their blah, blah. There's going to be a normalization. What the AI labs are, we think that they're looking for is, well, what's the next killer app? What's the next killer use case?
+That's where we think Salesforce is perfectly positioned because we think it's knowledge work. We think it's people like you every day that are showing up and having meetings and analyzing things and making decisions. You have to access information, you want to be able to access information in a way that's low friction, you want to be able to connect that to the intelligence of the AI, that's effectively what we can provide.
+## Moderator | 
+Okay. Terrific. You alluded to this, Patrick. We know there has not been an official decision on Headless 360 pricing, maybe you could just sort of speak to some of the early considerations, how that monetization might present itself for Salesforce.
+## Patrick Stokes | President and CMO, Salesforce
+There's kind of two arms to the puzzle. One, there's actually quite a few very important technology decisions that we need to make in terms of how do we ask people that are building agents outside of our platform to identify those agents to us in the same way that they identify a user to us? That's important to solve because that provides the layer of kind of governance and licensing and permissioning that we need to put for the agent to exist and consume from Salesforce in the first place. There's a number of technology decisions there, many of which will almost certainly result in some sort of agent user license showing up.
+Just like we have human licenses, we'll likely have agent licenses as well, where you have to self-identify the agents that you run on top of Salesforce. Now, that sounds like if you're in Salesforce at least, where we have this 25-year legacy of seat-based pricing, that sounds like the answer. Okay, great. We're going to charge for the agent licenses. That's possible, but we're trying to be as thoughtful as we can on this and make sure that our own kind of legacy bias on that doesn't-
+## Moderator | 
+Right
+## Patrick Stokes | President and CMO, Salesforce
+come in too much. We're trying to be very kind of forward in the way that we think about it. Really what we're doing is we're talking to our customers and our partners, and we're going to them right now and we're saying, "Look, blank slate. Here's your contract. Imagine that you could just rewrite your contract right now and have whatever unlimited usage of headless that you want for the environment that you're trying to create.
+You tell us what that contract would look like, those are the conversations we're having with our customers right now to make sure that we can do it thoughtfully. What we don't want to do, what you can feel in the room, I feel it in every room, and especially rooms like this, is you all want to know the pricing model so you can model our future growth. We want you to be able to do that as well, we want to make sure that we don't give you something that turns out to be wrong, then we have the wrong model. That's why we're being careful here.
+## Moderator | 
+Yeah, it makes perfect sense. The other thing which, I don't know how much of this you guys have thought through, right? If I think back to the early instantiations of Agentforce pricing, right? Then this was a very different world, right? Because everyone was trying to figure it out. It was brand new.
+## Patrick Stokes | President and CMO, Salesforce
+Like six months ago. It was a different world, yeah.
+## Moderator | 
+Everything's warp speed.
+Initially it was per conversation pricing, and then it was per action, and then we got to the point of having sort of discrete subscriptions, right?
+we had the Agentforce 1 Edition, you have ELAs, right? Where you have
+## Patrick Stokes | President and CMO, Salesforce
+Yep
+## Moderator | 
+Agentforce ELAs for customers that are
+## Patrick Stokes | President and CMO, Salesforce
+That's right
+## Moderator | 
+going to make very, very big commits.
+## Patrick Stokes | President and CMO, Salesforce
+Yep.
+## Moderator | 
+I guess the question here is the bias from your perspective, and I won't hold you to it, I realize it's early stages.
+To sort of give customers some choice, but maybe to not make it overly complicated, which some may argue was maybe an initial impediment to Agentforce adoption, again, in the very early innings before you kind of were able to work through all that.
+## Patrick Stokes | President and CMO, Salesforce
+I think that's a very fair characterization or criticism, whatever you want to call it. Yeah. I think there's a Goldilocks type of scenario that we haven't totally found yet. When we first started with Agentforce, it was something that was brand new and customers didn't know what to expect, they wanted a consumption model.
+We gave them a consumption model, it turns out that it was a very complicated consumption model. It was very difficult to kind of predict. It was hard enough to predict their own usage because they didn't really know how they were going to use it at the time. Even if they could predict their own usage, it was hard to turn that usage to understand the commercials of it because our consumption side was so difficult. We made it easier.
+We're like, "Okay, what if you just bought the ELA, then you don't worry about it. Use it as much as you want and don't worry about it." Customers like that as well because it's simple, but it's also very expensive. It's more expensive than the, you kind of have to pick your evil, but that's not what we want. We don't want the customer to have to pick their evil. We want to get them to something that they can really trust and believe in. I think we're seeing other models emerge outside of Salesforce that are interesting. I think what this comes down to is it's not really about what benefits us, it's we want to find the model that benefits our customer. We're going to experiment with as many models as we can.
+The downside to that is it looks like we're confusing the market, which I get. It's like, how many pricing models do you have and how do we measure this? Our approach is like, yeah, that's a moment in time, and we kind of just need you to trust us on this. We're going to figure it out. We're going to do it with our customers, and we're going to find the right thing to do.
+## Moderator | 
+Okay. Very helpful. Yeah. Thanks, Patrick. While we're on the topic, last week Salesforce announced the acquisition of Contentful.
+## Patrick Stokes | President and CMO, Salesforce
+Yeah.
+## Moderator | 
+Which has a CMS, content management system. Can you expand on kind of what this IP will help Salesforce accomplish?
+## Patrick Stokes | President and CMO, Salesforce
+Yeah. Well, first of all, the interesting thing about Contentful is that it's effectively a headless-first platform.
+They didn't spend a great deal of time worrying about what the UI for content could look like. Because if you think about content, it's really just like a feature of a campaign, which is a feature of marketing. The SaaS era has created just this massive sprawl of these purpose-built applications, and that's especially true in marketing. If you look at the LUMAscape for marketing, it's like there's so much.
+They were like, "We don't think that's where the world is going. We think the world is going into a world where there's some sort of intelligence that's orchestrating campaigns in real time and doing one-to-one personalization." What it would need to do that is it would need a headless CMS. It would need to be able to pull the content out when it needs it.
+The CMS would have to have enough metadata, enough context in it so that that intelligence on the other end can go grab that when it needs it. Part of the attractiveness of the acquisition was certainly that, just bringing a little bit more headless DNA into our product organization. Also, this has been a little bit of a gap in our Marketing Cloud strategy for many years, it certainly had some attractiveness in terms of kind of shoring up our Marketing Cloud.
+## Moderator | 
+All right. Terrific. I'll ask one more question and then we'll pause for any of you folks that may have a question to ask Patrick. I want to just talk about Slack for a moment.
+A lot of investors, quite frankly, believe that Salesforce overpaid for Slack all those years ago. Now, my opinion is that view has some merit, but I will also say that Slack has quietly become a more integral technology in an agentic world.
+Many people don't really seem, from my investor conversations, really seem to be aware of that to the extent that it's actually occurring.
+Going forward, it also seems that because of Slackbot, that this can really become more of a center of gravity for Salesforce. That's the opportunity that we see. It'll be helpful to hear your vision on where you think all this is heading.
+## Patrick Stokes | President and CMO, Salesforce
+Well, it's pretty similar to your characterization there. Slack for us, I think the market in general kind of sees Slack as a collaboration tool, and they kind of put it in the same bar as Teams. I think that's just a really kind of unsophisticated view of what Slack really is. Which is, where Slack started was it was a platform for developers. Developers needed a way to work together to build projects, and so Slack emerged as a solution for that.
+It wasn't just because you could create channels and invite your friends into the channels, it was because of its openness, its connectivity to things like GitHub and Jira. It built this ecosystem of connectivity, so it became very, very sticky for developers in the way that they work. We're seeing that same thing now happen to all sorts of different functions.
+Certainly, this is true in Salesforce. We only work in Slack. It's unbelievable how much we get done in Slack. We're seeing it with our customers as well, and especially the new logos, the small customers, and even the AI labs, which we say small, they're trillion-dollar companies, but they only have 2,000 people in them, right? On the scale of employees, they look like they're small, but they run their whole business on Slack, and it's because of that connectivity. That's kind of one side of it, but the other side of it that's very exciting is that it is already a conversational interface. It's already really well prepared for an agentic future, for when you have teams of humans working side by side with agents.
+It's even more than that because you could say, "Well, Patrick, we kind of already have that with Claude and with ChatGPT. That's a human working with an agent." It is, but it's one human working with one agent. It's a single-player environment. That single-player environment, it's useful. It's nice to be able to work off on the side and just talk to Claude. Most of us work within teams. Slack is inherently a multiplayer environment.
+Once you start putting agents into a multiplayer environment, all sorts of interesting kind of usage patterns start to emerge. One person can ask a question and the agent answers, and then a second person can ask a question, and it becomes this very interactive multiplayer type of experience. Imagine using Claude Code, which is also a single-player environment, in a multiplayer experience.
+These are things that the labs are kind of very interested in doing with us at the moment. It also adds an element of trust. How many of you have ever had your boss or your manager send you something that you can tell was just done in Claude, and they're like, "Look, here's my analysis." You instantly know it was done in Claude just by the way it's written. We all have a Spidey sense for this now, or OpenAI as well. What you also are probably developing a Spidey sense for is that your manager is full of shit, and whatever they prompted to get that answer was full of bias.
+Of course, it's very convenient that the analysis that the AI did matches what the person on the other side is asking for, because that's just human nature and the way we prompt it. Well, when you move that into a multiplayer environment, all of a sudden this kind of new paradigm of trust evolves because now you can see the prompt, right? You understand how it arrived at the answer. In fact, multiple people can kind of prompt it at the same time. You're getting a much richer answer that's much more based in multiple viewpoints, which is a much more trusted answer. That's something that I don't think anybody has really demonstrated yet, but we're on the path to do.
+## Moderator | 
+I have to say, that's a fascinating point. I hadn't thought through that in that degree of depth. That may be something, again, that really enables you to kind of drive some more separation, right, as Slackbot and Slack more broadly continues to get adopted. That's.
+## Patrick Stokes | President and CMO, Salesforce
+Even Slackbot, amazing tool, incredible capability, but even Slackbot right now, at this moment in time, is single player.
+You ask it a question, it answers for you. You can share the answer. Imagine instead of that, you're just in a channel and you have 15 members in the channel, but two of them are agents. You just ask a question in the channel and the agent responds then.
+## Moderator | 
+Yeah
+## Patrick Stokes | President and CMO, Salesforce
+That user interaction model or paradigm hasn't been fully explored yet, but that's where we're going with Slack.
+## Moderator | 
+Yeah.
+## Patrick Stokes | President and CMO, Salesforce
+It's super exciting.
+## Moderator | 
+Okay. Tremendous. Fascinating conversation. That took quite a bit of time, but it was important, I think. Any questions for Patrick? Yes.
+## Speaker 3 | 
+Thanks, Patrick. Thanks for sharing your insights about multiplayer versus single player. It's fascinating. Where does the value really creep? As you think about a multiplayer environment, it essentially sort of like instead of shapes that you lose latency, you go to the core and foundational system. GPUs, all that stuff. How do you think about that?
+## Patrick Stokes | President and CMO, Salesforce
+Well, I think what we have at Salesforce, whenever we're building product and trying to bring product out into the world, what we're trying to do is identify what's the thing that's scarce. Right now, the intelligence is not really scarce. There's limits in how much energy we can provide in the world to kind of deliver the inference through the GPUs.
+The thing that Salesforce delivers that's scarce is context and trust. If you're building anything with AI right now, it's very easy to just start talking to an LLM, and you get excited about how intelligent the answers sound, but then you realize it doesn't know anything about your business. You start trying to figure out ways to dump information into it so it understands your business.
+That runs into all sorts of complexity and limitations in how much you're putting into the context window. You can get about 1 million tokens into a context window right now, but if you put 1 million tokens in your context window, that's going to be an insanely expensive call. That one question is going to generate a ton of tokens, and the more you put in there, the more confused your LLM will get.
+You have to engineer this way to get the exact context that it needs in the moment, pick the right model, and then deliver an answer. That's what Salesforce can kind of do behind the scenes in that moment. What gets really interesting in that multiplayer environment and inside of Slack is the one piece of context that nobody's really, truly thinking about.
+Well, there are some, us and others that we're working with. The really interesting piece of context is the institutional knowledge of the people in your organization, which is encoded as those conversations inside of Slack. We bring that in as well. It's not just your data and your metadata, it's the conversational data as well, which adds all that additional context. We engineer a way to bring that all in at the moment that a question is asked, optimize the token spend, and that's really where we think our value is going to be in the future. Hopefully, that answers your question. You're welcome.
+## Moderator | 
+30 seconds if someone has a quick one for Patrick. If not, I'll just ask one more. I just wanted to bring up a recent podcast with Marc Benioff.
+He mentioned that Salesforce is on track to spend $300 million on tokens from Anthropic this year.
+Pretty massive amount. Tell us just briefly what that will do for Salesforce in terms of productivity and innovation and maybe even inclusive of the cost implications.
+## Patrick Stokes | President and CMO, Salesforce
+Do you want to see our leaderboards? I can pull them up on Slack right now.
+## Moderator | 
+Absolutely.
+## Patrick Stokes | President and CMO, Salesforce
+We can go through team by team and see who's really using. Yeah, it's just been, honestly, it's been insane in our engineering organization. Watching the pace of innovation right now is unbelievable, and there are pockets where it's even more unbelievable. Slack, for example, is just fascinating to watch that team now.
+I show up with ideas and on Monday, the ideas are in production, which is really just astounding to watch. It's going much deeper than that as well, because most of that spend right now is coding, but not all of it. This is what I don't think the market has totally caught up to yet. A very material amount of that spend is just knowledge workers. It's my team in marketing. It's Val's team. It's people in sales. It's people like Miguel that are using it to do their forecasting. They're not coding.
+They are hooking up the MCP servers and consuming tokens from Anthropic to do their knowledge work. We think that that's where the kind of next big wave is going to come from.
+## Moderator | 
+All right. Super insightful conversation. Patrick, thanks so much.
+## Patrick Stokes | President and CMO, Salesforce
+Thank you.
+Data Source: Quartr Last updated: Jun 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,424 @@
+TITLE: 2026 Evercore Global TMT Conference
+DATE: 2026-06-03
+## Speaker 1 | 
+Tell me when we're live. Are we live? We are live. Okay, great. Everybody, good morning. Thanks for joining us for our chat with Johan Gerber from Mastercard. Now in EVP of Network and Real-Time Payments. That's been a month.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+That's right.
+## Speaker 1 | 
+Formerly in Security, which is the largest piece of the VAS business, which we're really excited about to dig into. I think everyone just says security and kind of glosses over it for a second and not really knows what's beyond it. Really looking forward to getting into some detail. First things first, though, bunch of management changes announced yesterday. We wrote a note on it, thinking it just really shows the depth and breadth of the management team. No exits, no new hires either, just kind of shuffling around. That's usually the sign of a great management team. We're very favorable on it. Love it. We'll miss Sachin as the CFO.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Of course.
+## Speaker 1 | 
+because he was terrific, but looking forward to meeting Ling and getting in there. I don't know if you want to comment on that? We were very favorable. We didn't think it was anything.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah
+## Speaker 1 | 
+Negative at all.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+No, well, first of all, thanks for having us here today.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+We're excited to talk about this as well. This is such a big part of our portfolio, and especially of our Value-Added Services. Security now is about 40%. Sorry. Value-Added Service is about 40% of the company's net revenue. Security Solutions is a really big part of that. On the management changes, to your point, it shows the depth in the bench that we have. My role is actually a very good example of that, too. I just moved from running Security Solutions to running our Network Products and Real-Time Payments, and Ann Johnson is joining us from Microsoft as the previous deputy CISO, who will now take over. That rotation, that ability to have people who understand the breadth of our company, to look at problems in different ways, I think that's a real area of strength that we can bring.
+You bring new talent in from time- to- time to just help upskill and help us accelerate more.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+I think we are, from a company point of view, that the staff are very excited. We all know these folks. We know what they bring. They bring a very strong rigor into these disciplines.
+## Speaker 1 | 
+That's good color. Congratulations.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Thank you.
+## Speaker 1 | 
+From one great company to another one.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Bigger.
+## Speaker 1 | 
+Let's talk about VAS a little bit. It's obviously around 40%-ish of total revenue, as you mentioned, growing healthy. Maybe just give a broad overview of where security sits within the portfolio and just maybe just give a couple bullet points on the rest.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah
+## Speaker 1 | 
+level set for everyone, and then we can really dive into security.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+If you look at our VAS portfolio, and maybe I should just take a step back. To your point, it's about 40% of our net revenue of the company, which is a big deal, and we've had a very strong history of growth in that, outperforming the rest of the company, being that additional value accelerator and revenue accelerator. It is a really strategic part of what we want to do. The security solutions portfolio is a big part of that, the largest part of our VAS portfolio. Let me just quickly talk through how do we get to these things. You should think about our VAS portfolio as a highly curated set of solutions, and categories that we've been working on, and they have a couple of really important aspects to them.
+We've talked a lot about the virtuous cycle, about how through VAS we want to increase the value of the Mastercard portfolio. We win more portfolios, we increase the number of transactions, we increase the data, you get that virtuous cycle flowing. That's everything that we do within VAS is strategically positioned to drive that virtuous cycle to start with. Look at them as well from a point where we only create these VAS services where we know there's real customer need, customer need is important. There's a big TAM, it's big enough for us to go in that we can really scale. That we have some structural tailwinds that will help us accelerate the growth. These are some of the fundamental building blocks in terms of how we choose what goes into the portfolio.
+If you look at the portfolio itself, we've got customer acquisition and engagement, which is about how do we get more customers onto our banks' portfolios. How do the acquirers get more merchants? How do the issuers get more cardholders? As you can understand, that's a core part of how we help our customers grow, which is another important part of this. A lot of what we do here is to really help drive our customers' strategy. We are the facilitator of growth and just playing a very key, critical role in that. That's a really important part of why we believe we want to be relevant at all times, is to help accelerate that growth. We've got customer acquisition and engagement. We've got what we call our BMI services, which are business management and analytics area. This is where our advisors group sit.
+This is where we do a lot of data analytics with our customer. A lot of customization work happens here. We will go in there, we will look at our customers' data. We'll analyze it. We'll help them to define their strategies. We'll help them with anything from how do you build an agent to create a new strategy in the business. This is also a very important part of our acceleration and personalization of our services. You've got technology, and then you've got the humans to help make that work. That cycle itself then turns into, how do I generate sales from my people that are in there? You can see how this is also important. It's technology plus people in the BMI team that we have there.
+You've got Security Solutions, and we'll talk about that in a lot more detail, as we go through the rest of the conversation. We also have a range of other services where we have our digital solutions, like tokenization, authentication, our gateway solutions that we have in there. Lastly, we have our real-time payments components as well, and all the services that we do around those areas as well. That's a little bit of the portfolio of VAS services that we have in total.
+## Speaker 1 | 
+A really broad array. You said that security was the biggest piece. Let's talk about that for a little bit. I think most people think of security and payments, especially, when Mastercard involves tokenization and don't really know what else to talk about after that, right?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah.
+## Speaker 1 | 
+I put down my Mastercard card, whether it's online or physical point-of-sale. I assume it's secure. There's a token, I see the chip, everything's good. Most people outside of payments wouldn't understand what else is involved.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Right.
+## Speaker 1 | 
+Maybe we get into that a little bit and maybe just give a broad description of what security is, and then we can really dig in.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+This is where I can camp out for a whole day, you know that.
+## Speaker 1 | 
+Yeah, I know.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Let's talk about-
+## Speaker 1 | 
+Devin's going to get us off the stage.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+He will get us off the stage.
+## Speaker 1 | 
+He's bigger than us.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+That's indeed true.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+If you look at our security solution, maybe let me just start there. In addition to what I said earlier, this virtuous cycle where we see more transactions as we win more portfolios, and that enhances. You've got that organic growth that we drive that's helping us in our security solutions. There are also other two sources of growth for us in security. There's the constant evolution of technology. Agentic is a great example. These things need to be secure. They need new technology. They need new types of data. They need new solutions in there. You've got the frauds that are changing. The criminals are changing their ways in which they attack as well. You've got two sources of growth in addition to the organic growth that we want through that virtuous cycle. This is why this is such a big opportunity for us.
+The TAM is growing. It's very relevant to the success of the service. The ultimate goal of security solutions is how do we help our customers to sustainably grow their portfolios, execute against their strategies in a sustainable way? We're not out there to just say, "Hey, we want to reduce fraud to an absolute zero." We want to be mindful, how do you balance all of these things to create the best set of growth with the right amount of risk? If you think about our portfolios, we have thousands of customers and thousands of portfolios. Every one of those portfolios have different risk appetites. Within these opportunities, there are a lot of customization that needs to happen. That's where our advisors teams comes in. How do we help customers use all of their security solutions?
+Let's go a little bit deeper into under the hood.
+## Speaker 1 | 
+Can I just stop you?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Go ahead. Yeah.
+## Speaker 1 | 
+Right there for a sec? I think it's important people understand what you said on a macro level. Coming from an operating background, take me into the room of you sitting across the table from an issuer.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep.
+## Speaker 1 | 
+They say, "Hey, we want to grow our program, Mastercard, help me." Right? Go put your old hat on.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Okay.
+## Speaker 1 | 
+You're the security guy.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep.
+## Speaker 1 | 
+Your turn comes up in the meeting to speak, what exactly are you speaking to a bank about how you can help them grow?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Great example. We're sitting with a bank who is about to launch a new portfolio.
+## Speaker 1 | 
+Yep.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+We look at what are the strategic objectives of this portfolio. You want to go after the super-affluent, you want to go after the mass market, you want to go after your subprime, whatever the strategy. You want to go after business customers, you want to go after a specific type of segment of the market. We look at, if that's your target market, what is your strategy? Do you want to create the best experience? Do you want to create the lowest cost? All of these business strategies from our customers goes into the box. We will say, "Okay, now let's look at our tools." We've got fraud scoring, we've got things to help you do better authentication, better account opening.
+How do we curate a set of solutions very specific towards that portfolio's vision and strategy that you want to execute against? That's where we play. A great example is we recently sat with a customer who's launching an affluent portfolio, and said, these customers have to have the best experience at places like dining, travel, and so forth.
+Then in our fraud solutions, we will make sure that we curate very specific rules where for another transaction, I might say if the fraud risk is above X, I'm going to decline. For these categories in this portfolio, I'm going to say don't decline. Maybe just send them a text message. These are very practical. They go down into a lot of detail, but that's going to do the level of detail that we can go into with our customers. That's why you're part of their growth strategy. You're not just somebody that comes to supply a piece of tech.
+Walk away. You're in there, and that's where that virtuous cycle is so important. We measure ourselves then, does the portfolio perform in the right way? Not necessarily the product. The product has to perform, otherwise, the portfolio will not perform.
+## Speaker 1 | 
+Right.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+The bigger picture is the Mastercard business that benefits from this.
+## Speaker 1 | 
+We used to call it a sleeve when we were building our software, but it's not really a sleeve, it's more of like an instance.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah
+## Speaker 1 | 
+specific for that issuer. They will have almost like a dashboard, you're adjusting the dials on the back end saying, for these transactions, this is what we're going to do. Here's how we're going to do multi-factor authentication if necessary, and all that. For that specific initiative, for that particular issuer, that will be the program that's running it.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Correct.
+## Speaker 1 | 
+Okay.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+From time to time, we'll go in there, and we'll evaluate.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Is it performing? Is it doing what it's doing?
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Do we need to put tweaks in there? We offer a range. Some of our customers are highly sophisticated. They can do a lot of this themselves. Some of our customers are like, "Please help us.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Do this on behalf. We've got a range of where we do from here, we provide you the solution, and we provide advice to, we'll actually actively help you manage this and continuously evaluate the performance of this. That's why this is so deeply ingrained into the strategy of the broader Mastercard portfolio.
+## Speaker 1 | 
+All that is within the security?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+That's all within the security. You can extend that the same way to our customer acquisition and engagement as well. This is where it's actually a great life cycle. When we launch a new portfolio with a customer, the first question is how do we get consumers to adopt this new brand? Our customer acquisition and engagement team gets in there and say, how do we design loyalty? How do we design the traction? Where do we target? Is it social media? What kind of methods do we use to advertise this? How do we onboard these things? Our identity solution sits there.
+How do we make sure that your account opening and onboarding onto these accounts are as effective and flawless and seamless as possible? Once they start using their cards, how to make sure that their experience is rock solid in terms of don't decline them when they're trying to book an Uber for $20 or try to get to the airport, and they're late. Ultimately, at the end, what happens if something goes wrong? We've got a whole suite of dispute solutions. We should talk about Ethoca a little bit. It's a company that we acquired about 10 years ago. Just growing phenomenal. They are there to say, "How do we handle when something goes wrong?
+First off all how do I make sure that the digital receipt is in my banking app to avoid an unnecessary call into the? How do I manage my subscriptions instead of when I can't get ahold of the company where I want to cancel or change my subscription? These are literally throughout the life cycle of account launches, but also the transaction life cycles as well.
+That's why this is not an abstract that sits outside. It is deeply ingrained into the broader strategy of the company and our portfolios.
+## Speaker 1 | 
+You said there are two growth vectors really driving security, right? One is on new technology like agentic.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep.
+## Speaker 1 | 
+Let's really dive into that a little bit. Today, I make a transaction, I authenticate it, maybe I get a text if it's not really sure it's me or whatever. How do things change with agentic when you have an agent standing in front?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep
+## Speaker 1 | 
+Of the ultimate authenticator?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+No, Rick, we're looking at this as a great opportunity, of course, in terms of the new business models this will create for companies, for startups to create agents.
+This is just the white space in terms of what this will do and how this will transform the way in which we as consumers communicate with each other, consume products, do commerce, is fantastic. If you look at the security around this, there's a whole chain of evidence that we need to pertain. I'm an old cop, so I talk about these things as well. If you think about the parties in an agentic transaction, you've got the human, you've got the human's agent, then you've got perhaps the merchant or the merchant's and/or the merchant's agent that's in there as well, and of course you've got us. We need to make sure when the agent receives a request, the agent needs to know this is a real human. This is not an account that was opened with a synthetic identity.
+I need to verify that the consumer is real. The consumer, when they're interacting with the agent, needs to know, "I'm dealing with a real legitimate agent.
+When the agent wants to buy something from a merchant, they need to know that merchant is real. Think about this, how easy it is for a criminal to start a business, register it, and advertise to any agents out there and say, "I've got the cheapest pair of shoes," or "I've got the cheapest travel." There's a lot of work that we now need to build in to say there's integrity in this flow.
+It's not just the agent, it's not just the consumer, it's everybody in that chain we need to verify. We're looking at how do we digitally reinforce the trust and the integrity of the chain of data flow across these areas. If something goes wrong, how do you clean it up? We've got this, and you might have read about this, we talked about Verifiable Intent.
+Where when the consumer asks the agent to do something, that request, that instruction, gets encrypted and signed with a cryptographic key. We call that Verifiable Intent. If something goes wrong, that thing can get unlocked and be showed to the consumer again and say, "This is what you asked the agent. This is what we see what happened. Can we do this?" Our Ethoca is the solution that actually will deliver that from the place where you talk to the agent to where you're in your banking app and say, "I don't recognize this transaction. This is not what I asked. We'll say, "Well, let's show you what you asked, and let's show you what happened here." This is why this opens up so much opportunity on new technology evolution that we really have to secure that entire chain.
+## Speaker 1 | 
+I got to tell you, if I ever get asked the question from an investor, why is Mastercard not going to be displaced by agentic, I want to take that 90 seconds and just play that because I think you summarized it really well. No one sees the entire end-to-end transaction.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep
+## Speaker 1 | 
+from the consumer to the merchant end more than a network.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Right.
+## Speaker 1 | 
+The fact that you can authenticate it every step along the way.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+You know.
+## Speaker 1 | 
+A lot of sense for your thing.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+I know we're getting into a whole lot of detail here, but I'm glad we are because if you're a merchant who's doing a lot of sales by an agent, and you have to deal with a consumer disputing a higher than normal amount, even 1% or 2% of your sales.
+## Speaker 1 | 
+It's a big number.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+the amount of churn that you have to put in there. These things are designed not just to safeguard and secure, but to make the operations flow with as least cost as possible.
+That's why I will keep coming back on these things are facilitators of growth. If you look at I call this the equation of growth, if you have utility, you can have growth. If you have utility plus trust, you've got a growth acceleration, that trust is the component that we want to put in the middle here, it's trust to say, "I can trust this all the way through, and if something goes wrong, there's a well-defined path to resolve it.
+## Speaker 1 | 
+I jumped the gun and went out of order here.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+No, no, you're fine.
+## Speaker 1 | 
+I want to talk about the major components of security. If someone said, for the security sleeve within VAS.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+What do you mean?
+## Speaker 1 | 
+What are the sub-bullets? You handle what? Which revenue drivers were there?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+We've got a couple of line items there, and let me just take a quick step. I know we talked about the two drivers of growth. The other area that I think is important for us to recognize is our customers around the globe are fighting an enemy that is extremely well-resourced. If you read the data out there, and it's hard for me to verify if the data's actually 100% correct, but even if it's not, cybercrime and fraud is one of the largest industries out there. If you read the documents, they will say it's as big as the third largest economy in the world. That's how well-funded the cyber world is.
+The other piece you have is, as a financial industry, we are being attacked by criminals because that's where the money is. Anybody with a financial gain wants to go after the banks. You're also a place where if any nation-state or anybody with some ideological problem wants to disrupt, they want to disrupt the economy, the flow of funds, the flow of commerce. You're a target on both criminals as well as folks with other intent.
+The issue is real. These folks don't respect borders. It's global. What we bring as a global company is that global view, and that's why you will hear me talk about data, our global connectivity, and how we can then curate that data very specific to come back to the strategies of what you want to do with this portfolio. Let's talk about the components of security. We've got a couple of them. Identity is a big chunk, and the reason I will always go back to curated, fit for purpose. We talked about I want to open up and launch a new portfolio. I need to onboard those customers. Opening up accounts, identity plays a really big role there. We also have a component of authentication where I've opened the account, so I know you're real.
+Now you want to come back, and you want to use your Mastercard credential. How do I make sure you still are who you say you are? You've got account opening identity, you've got authentication identity. There's a whole bunch of other stuff in identity, passkeys and biometrics and so forth as well. The second one is our fraud and financial crimes, which is a very large portfolio. If you think about this, 175 billion transactions across our network last year. Each one of those transactions get assessed for the risk of that being fraudulent. We call that a fraud score, and a product that we use there is called Decision Intelligence. We just launched Decision Intelligence Pro, which uses a bit of really interesting AI, and we can talk about that a little bit later about the performance. We also do financial crime for scams.
+In the card world, we help the requester, which is the consumer or the merchant who wants to get paid, and the issuer of the card. We help merchants, and we help the banks who issue the card. In the real-time payments world, we help the sender and the receiver to score this for scams and the likeliness of this being a money laundering transaction. You've got fraud scores across these transactions multiple times. That's on our fraud side. We do a whole group of solutions in that one. Then we have our cyber world, which is just a massive growing TAM, and with agentic and with the technology evolution, that's becoming more prevalent than ever with the growing TAM that's in there. This is where the agentic piece comes in. This is where our Recorded Future acquisition comes in.
+Those are the big elements of the big areas of security solutions, the big buckets of solutions.
+## Speaker 1 | 
+Devin, I'm not going to ask what you make in each, but something that also comes up with investors is how do you guys make money on this? Is it per transaction for some of these services? I'm assuming also some of it is more like a SaaS for this particular feature on your portfolio, we'll charge you X for this service, but these other services could be per transaction. Is that a fair--? I'm looking at Devin for those of you not in the room.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah.
+## Speaker 1 | 
+Is that a fair question to ask, just what the mix is between those two types of revenue, not the absolute revenue?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+That's correct.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+I can share with you a little bit. Diversification is the name of the game here, just like in the investment world. We have several of our services that are linked to the transaction. Per transaction, there's value that you can measure, and you assess a fee for that. We have some of our solutions which are by account. We monitor the risk or the behavior of an account, and therefore you pay by X number of accounts or active accounts, is another way. Some of them are related to the transaction amount, what we call volume-based pricing. Some of them are more static, single-year fees or quarter fees, subscription fees perhaps is a better way to do that.
+Most of them are event-based because the event-based is where when the organic growth comes in, that you benefit from that organic growth and the rise in that. Those are the categories of how we typically price.
+## Speaker 1 | 
+Would you say historically, if I look back 10 years ago, before VAS was really a thing, maybe 12 years ago, whatever the numbers?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah.
+## Speaker 1 | 
+These weren't necessarily differentiated revenue items. They were just part of what you do.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah.
+## Speaker 1 | 
+Right? Now your technology's gotten better, your data has gotten better, your ability to analyze has gotten much better, and now you can start charging for these things because you are adding value to your end user, whether it's an issuer or a merchant.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Correct.
+## Speaker 1 | 
+Is that the right way to think about it?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+It's 100%.
+## Speaker 1 | 
+All of this is just incremental.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+it's 100% right.
+## Speaker 1 | 
+Okay.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+If you look about how we quantify value, there's the value of the actual solution itself, which is, am I detecting the right number of fraud? Am I within target of what I told the customer that this is what you can expect? There is, how does this play into my bigger Mastercard portfolio? One of the biggest KPIs for us in the effectiveness of our fraud solutions is can this actually help to approve more transactions? Sometimes counterintuitive, which is like you guys are catching the fraud guys you decline, but you're measuring yourself around approval. It is finding the right transactions to decline versus the wrong ones. That, what we call false positives, is a really, really big deal.
+If you think about what we've done with our DI Pro, we just launched a new DI Pro, which is our transaction scoring solution. 20% increase in fraud detection, 80% reduction in false positives. The value of fraud, let's say the total cost of fraud is, I don't know, $30 billion. The total amount of transactions gets approved are billions. If I can increase that billions number with a very small percentage, the financial value to my customer is huge. Our focus is really to help our customers make more money.
+## Speaker 1 | 
+Yeah
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+without letting risk run out of control.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+This is where many folks think we compete with a lot of our fraud providers out there. We're actually working very closely with them because our ultimate goal is better business.
+## Speaker 1 | 
+That's a great segue into my next question around competition. Our channel checks recently said, on the vast portfolio in Europe specifically, not so much in other places, the networks aren't the only game in town anymore. There's other people out there that are kind of doing things. Some issuers are trying to diversify a little bit. There's pros and cons to diversifying versus uniform, obviously with consolidating services with a single vendor. Talk about your right to win out there on the competitive side. No one can compete with your data, right?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Data is very strong.
+## Speaker 1 | 
+The biggest. Who are you competing against, would you say? Are you seeing any kind of competition around the edges?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah, on the payment side, of course, we compete very strongly with the other payment brands out there. When it comes to our frauds and security solutions, we don't truly have a lot of direct competitors.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+The vast majority of the time, they're actually our partners. It's not just on the issuing side of the equation, on the bank side, where they issue the card. Most of those banks will have their own internal fraud systems. Those fraud systems are designed to really have a deep understanding of that bank's portfolio behavior. What Mastercard brings is this broad network experience. We talked about the risks of being global, the criminals don't respect borders. We see fraud patterns happening in Japan that's on its way to the U.S., things that are happening in the U.S. that's on its way to Brazil way before their systems can see them. In that way, we typically augment rather than try to replace.
+You've got one plus one is three in this case, and then our teams will go in and say, "Let's help you with your fraud solution, and we'll combine these scores." In addition to that, if you think about the data, Recorded Future for us, massive in terms of the data differentiation. Nobody else has this data that we have, not even the cyberspace and not in the payment space. We've got the world's largest independent.
+## Speaker 1 | 
+Just remind everyone what Recorded Future is.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Recorded Future is the world's largest independent cyber threat intelligence company. They collect data around everything cyber threat-related. We use a vast number of sources. We basically understand everything the criminals are doing out there. We're monitoring things like the dark web. For instance, if somebody hacks into one of the providers that you used your card and they steal your card and they offer it for sale there, Recorded Future will actually grab that card number, we'll load it onto our network, and when somebody tries to transact, we're going to stop them. These are some of the things that they do. If you've got that data together with our view of all the fraud that happens, all the disputes that we see customers bring in, nobody has the richness of that diversity of data.
+If you think about an agentic world, we've got a lot of agents out there. Data is the one thing that truly differentiates in how you then leverage multiple types of AI models to then create value for your customers. If I think about that place, we have not only the differentiated data, but we have the distribution network in terms of our network, our cards. If you think about we've got 175 billion transactions. Devin, how many cards do we have, 4 billion?
+## Speaker 1 | 
+Something like 3.8.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Just 3.8 billion cards.
+## Speaker 1 | 
+You can say four.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Just under four. We have well over 150 million merchants out there. This is where the differentiation sits. That's a distribution network then with this data, and that's why we are so excited about the longevity of growth opportunity for us in this space.
+## Speaker 1 | 
+As you're talking, I'm just thinking about all of the defensibility you have with your model, right? The data being king, right? That's the new oil, I guess, to say. Would you ever give a third party access to your transaction data, even in a generic form?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+We-
+## Speaker 1 | 
+If I'm a third party, would I ever be able to say to an issuer or to a merchant, we have access to Mastercard's data because we have a partnership with them? Do you give that information out, or is that just contained within your walls?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+I'll tell you, in the security space, we are religious about that stuff. That doesn't happen.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+It is the true differentiator.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+We will often take external data and bring it into our systems.
+## Speaker 1 | 
+Correct
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+To augment first. We will buy, we'll go and partner with other companies. We will take the curated output of our data, and we'll sell that to people. For instance, a big chunk is our partnerships. We talked about a little bit in the competition side. We will send our score to a fraud provider that provides fraud scores to merchants and acquirers. They can use it, but the raw data, that's the key differentiator that we want to keep. The other thing that I think is important from a competition point of view, all of our fraud tools, I say all of them, the vast majority of them are what we call rail-agnostic, so they will work across card rails, RTP rails, other types of rails. If we talk stablecoins, we'll probably get into that point as well.
+More digital rails, as well as brand-agnostic. For instance, Capital One is a good example. They use our Ethoca solution across all of their networks, across all of their solutions. These are areas where we go in there to really help our customers. That's where the competition is, then we can work with the other vendors that are there. If there's value, we'll do this. Sometimes we compete, but those are really the more minor areas of competition.
+## Speaker 1 | 
+We touched on cybersecurity briefly. Did we touch everything you wanted to talk about there? I think, again, we could talk about that for hours.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+We can talk about that for hours.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+It'll probably come back into the fold. I think the role for cybersecurity, of course, for our portfolios, maybe there's one thing I'll add is, there's also now a big role that Mastercard can play in how we help governments. Knowing the threat intelligence that's out there, we're becoming a bigger and bigger partner to governments out there to help them understand what are the cyber threats that they need to look at from an economic point of view.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+The expansion of that cybersecurity brings for us is it looks at the entire digital ecosystem. We are partnering with all the big AI players out there, platforms out there. The insights that we bring on cybersecurity for things like crypto. We've got a product called the Crypto Secure, which is looking at the counterparty risk. It's not just a risk of are you doing your proper compliance, but how secure are you from a cyber point of view? We can assess cyber vulnerabilities. One of the things we are doing right now is on a cyber side is we're combining our RiskRecon. RiskRecon is another company we acquired, which does cyber risk assessment and third-party risk assessment.
+Basically, we will go in from an outside in, we can tell you your cybersecurity posture scores at an E level or an A level, and you've got a certain score. That capability, together with the intelligence that Recorded Future brings, now allows me not only to understand my vulnerabilities, but how do I prioritize them? If you think about the frontier models that have just come out, Mythos being one of them, our CISOs are overwhelmed. All of a sudden, I went from managing X number of vulnerabilities to four, sometimes 10x that. Where do I start? Because my resources are still the same. Where do I start to fix things and patch things up?
+You bring our solutions together, Recorded Future can say, "Well, we're seeing these being exploited in other places of the world, so you need to prioritize them first." This is where we just become a real true partner. Now, this is broader than our card business.
+This is the digital ecosystem within which we operate. That's where I think that expansion of the time and the right we now have to play in that area is helping us with growth as well.
+## Speaker 1 | 
+Awesome.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah.
+## Speaker 1 | 
+That's great. We have to talk about AI.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep.
+## Speaker 1 | 
+Have you heard about AI? It's this new thing that's kind of just out there. Let's talk about AI, not only what you're using for traditional transactions, but how you're using AI to fight AI-driven fraud as well.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep.
+## Speaker 1 | 
+I think those are two different topics there.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+I tell you, it's just fascinating. If you just take a step back, the frontier models have demonstrated to us that in the past, if a cyber criminal wants to break into something, they will do some reconnaissance, they will plan their attack, they'll pick their tools, they'll execute, they'll take the learnings, and there's a whole cycle. AI collapses all of those cycles into one continuous stream of events.
+If you think about that component, then you would argue for a human to be in the loop or on the loop is actually a constraint. It's no longer a help. Getting into the more autonomous way of attacking or defending it's going to become an imperative. In my mind, there's just no two ways about it. One of the things that Recorded Future just launched a couple of months ago is our autonomous threat hunting agents, where we have one of the world's largest malware sandboxes. People from all across the world, if they find malware, they will send it into our sandbox. We unpack the malware, we understand the signatures, and then we put those signatures into our agents, and they go and find if any of these signatures are present in your company.
+Now we've automated that with agents, so that instead of a cybersecurity person has to understand this, write all the specific code to then go and hunt for these things, all of that is automated. This automation will continue to grow, so it's a really big part of this. In one of our products that Ann now runs, it's called SafetyNet. SafetyNet is designed to look for major breaches that maybe one of our customers gets attacked, a bank gets breached, and there's an ATM run. You cannot have a human in the loop to see if there's an attack to say, "Should I start declining?
+This has to be automated. We have AI to identify the risk, and then we've got AI to understand, how do I remediate this? I'll call the human, but somebody needs to start taking action because otherwise there'll be a whole bunch of money. It is a big focus for us and also a big area of growth. This will continue. We've only just started scratching the surface in terms of the problem and the solution set that's coming there.
+## Speaker 1 | 
+I know you mentioned Ann coming in from Microsoft. Obviously tons of experience there to bring to bear.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Deputy CISO, deep knowledge of cyber. You can see there's a big area of growth, just big investment in Recorded Future. We're combining our cyber assets. The fraud of those things, of course, we've got very strong leadership under Ann who's going to continue to drive that. Scams is going to grow, but cyber is a big area for growth for us. The data, again, the data and then the platforms through which the data can be leveraged. Recorded Future will have competitors. When you take Recorded Future plus Mastercard's fraud data, plus our attack data that we get from our own CISO, you create a differentiated data set that honestly nobody can compete with.
+## Speaker 1 | 
+Can you sell this outside of the payments ecosystem?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+We actively do. Recorded Future, in fact, I think the vast majority of their customers are actually non-financial institutions right now. We sell to healthcare, manufacturing, automotive, investments, entertainment, so there's a whole bunch of categories out there.
+## Speaker 1 | 
+Okay. let's switch gears to your new role-
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yes
+## Speaker 1 | 
+Which you're a month into, on network and RTP. What's your initial reaction to what you've seen there in the capabilities and where things are going? We have to talk about U.K. PI.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep.
+## Speaker 1 | 
+That was just announced yesterday at Money20/20 in Europe. That's live now, supposedly, according to the press release, but press releases are always a little cagey. Talk about what your initial reactions are to what you guys have there and where you think the opportunities are for growth.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+A big part of my new remit is thinking through how do we leverage our assets that we have. We've acquired VocaLink.
+We've made some other acquisitions in the Nordics. We've got a number of assets in the real-time payments, bulk payment, disbursements category, and we also have our traditional Mastercard network. We're just modernizing this into what we call our real-time stream, where we will start, I guess, clearing in real time, settle much faster. There's a whole bunch of new things that we're doing there. We can help domestic markets, too. How do we bring these assets together to really solve for what the customers really want? They want choice for their consumers. Central banks wants to have control over what they do. They want to have resiliency. Payment options that works for how they want to drive their economy.
+That's in essence really where I'm spending most of my time right now on the whiteboard, figuring out how do we use these assets, and so we've got these switching platforms that we can put in, and then we've got services. We're already rolling out services on the RTP network for VocaLink, where we do our consumer fraud risk, the scams that I explained earlier. How do we bring tokenization into the world of RTP? There's a whole bunch of things where we can start thinking through. We have our switching networks, and we can build a value proposition, and the notion here will be very similar. How do we create opportunities for these central banks to actually build applications on top of the foundational stuff, which we know to do really, really well? With regards to UK PI, again, it's competition.
+There's a need in the market. The banks are stepping up. The regulator's pushing this. We operate VocaLink in that market. For us, from this point-
+## Speaker 1 | 
+In the U.K.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+In the U.K. VocaLink is the RTP switch network over there. This for us is basically just equal there. We'll see those transactions will run over the switch networks. The competition is there, and we will go in and say, "Look, are there better ways for us to help them do this? Can we augment what they do? Can we do better?" We're not in the position of where we want to fight everything. We really want to see, how do we help these. There's a reason why these regulators are driving this. How do we then come and understand those reasons, bring our assets together, say, "Let's help you grow on this"?
+That'll really be the approach that we want to take.
+## Speaker 1 | 
+Is there anything that the regulators have created which would give excuse me, U.K. PI an advantage? Are they mandating anything for banks to automatically connect or do anything like that, which gives them maybe a competitive advantage?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+I don't know yet, but we've seen this happen in other markets. For instance, Brazil and other places, we've seen the regulators mandate these things. Even there are always opportunities for us to then go and work with those banks because. Those payments today don't have dispute resolutions. They don't have protection for consumers if something goes wrong on the transaction. When those transactions are going into the agentic world, they're going to face exactly the same challenges that we face with card. They're going to need solutions. They're going to need tech. They're going to need data to make that work. That's why we're staying very close to these things, and we are there to actually help. We want to really help economies grow. That's why we don't necessarily see all of this as just bad competition, but actually as opportunities.
+I know maybe we need to think harder about some of these things and how we accelerate even further, but for us, these are opportunities and wide space to help grow.
+## Speaker 1 | 
+I think you just summarized why all the management changes could be so positive, right? Your background as a former cop that you said-
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yep
+## Speaker 1 | 
+In security. Now you're looking at this. You just bring a different perspective to a whole new world that you know about, but now you're going to become an expert in again. I'd be remiss if I didn't ask you, with the BVNK acquisition still pending.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah
+## Speaker 1 | 
+hopefully that closes soon for you guys, you will have traditional rails, you'll have the alternative rails with Mastercard Move and all the stuff that you're looking at.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah
+## Speaker 1 | 
+RTP, then you're going to have a new toy to play with in BVNK.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Very exciting.
+## Speaker 1 | 
+Infrastructure and rails. How do you envision sometime down the line, I'm not going to give years down the line, how do you picture all of these rails kind of seaming together and integrating together to do something? What's the vision?
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+It feels like a bowl of spaghetti, right? If you think about all of this, that's actually where I think Mastercard is so good. If you think about what we do today in running a global interoperable payments ecosystem that spans across real-time payments, card payments, bulk payments, P2P, P2M, that's where we feel comfortable. We can help define the rules of the road. We can help with the technology in place and the pipes, then layer on services on top of it. That's where we're good. We see this as an opportunity for us. If you think about BVNK, we've done a lot already in the P2M space with regards to getting access to crypto. How do I use my crypto to buy something? How do I actually use my card credentials to get access to digital assets? I can buy them.
+The consumer piece, there are a number of solutions already there. What BVNK will bring for us is this expansion beyond P2M. How do we start looking at broader.
+## Speaker 1 | 
+Person to merchant
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Person to merchant, sorry. Yeah.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Person to merchant. How do I, instead of just using these things to pay, what are the other types of opportunities out there? That's where this is going to be really exciting for us to see how this builds. You can see a lot of use cases being developed in those areas. That's where I think we're going to spend. That's why this is so exciting. This brings another rail that has a strong growth, and ultimately the interoperability, how I use what we call a world of multi-money, is really the way we think about this. You can start a transaction on a US dollar, it goes through a stablecoin through a different country, end up in all different other currency.
+This world of managing interoperability between how I pay, how I want to get paid, and then make sure that the messages flow, and then the money actually moves themselves. That's where the exciting part is, and that's the complexity that we want to try and take out of the equation.
+That businesses can build their business models on top of that. That's why this asset for us is going to be so important. Again, if you look at us versus the broader suite of competitors out there, even with local APMs, alternative payment mechanisms, we provide a global interoperability that none of them can. This is where we can partner. We don't always have to fight about these things. If your credential in this country doesn't work and you go cross-border, there's a credential at work. For the consumer, we can make these things seamless. That's ultimately where I think the value will be, and that's where a lot of our focus will be.
+## Speaker 1 | 
+I think the most exciting thing about what you guys are doing as a network is how you can start on one rail. It can seamlessly move to another, back to another to facilitate faster transactions.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah
+## Speaker 1 | 
+easier settlement, lower cost for the merchant, more conversion.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Yeah.
+## Speaker 1 | 
+You're going to have an opportunity to play with all these different things.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Exactly. That is exciting. We talked about agentic commerce in the past, but there's a whole new suite of potential transactions that will generate between agent-to-agent payments.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+How that's going to flow, there's still a world out there that a lot of it is unknown, but we've got the assets.
+## Speaker 1 | 
+Yeah.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+We've got the security layers on top of it. That's why I think we are well-positioned, I feel, and to not just compete, but to win in this space as well.
+## Speaker 1 | 
+I mean, that's a great way to sum it up. We actually finished right on time. Thank you very, very much.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Thank you so much.
+## Speaker 1 | 
+We could talk to you for a long time.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Absolutely. It was great fun.
+## Speaker 1 | 
+Good luck in your new role, and thanks for spending some time with us this morning.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Thank you for this.
+## Speaker 1 | 
+Appreciate it.
+## Johan Gerber | EVP for Network Products and RealTime Payments, Mastercard
+Thank you.
+Data Source: Quartr Last updated: Jun 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

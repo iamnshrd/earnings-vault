@@ -1,0 +1,7 @@
+Company: Salesforce
+ROIC Symbol: CRM
+ROIC Name: Salesforce, Inc.
+Year: 2006
+Quarter: 4
+Date: 2006-02-23 17:00:00
+Executives

@@ -1,0 +1,380 @@
+TITLE: Wolfe FinTech Forum
+DATE: 2026-03-11
+## Speaker 3 | 
+All right, guys, why don't we go ahead and get started. Thank you again for joining us for day two of the Wolfe FinTech Forum. Really happy to have Klarna with us. David Sykes and I met actually during the IPO process, but that was actually out in Sweden when we were just talking about when we met. He's been in the industry for a longer time than that, though, by far, and really great to have you here with us. Sorry. A lot going on stage.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, I can imagine.
+## Speaker 3 | 
+David really does the deals for Klarna, and he strikes a lot of the commitments between partners, PSPs, merchants. Really great to have you here to talk about how the business operates, how you really convince merchants on what they wanna see from Klarna, really. Thank you for joining us.
+## David Sykes | Chief Commercial Officer, Klarna
+No, thank you for having me.
+## Speaker 3 | 
+Just to begin with, maybe you could share what you're seeing as the key highlights for Klarna from over the last year. Looking ahead, what are the main areas of focus for 2026? It's only been really a few quarters since you've been a public company, but you've been operating for many, many years.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+The largest BNPL company in the world, actually.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+Start there.
+## David Sykes | Chief Commercial Officer, Klarna
+Look, you know, last year was a very exciting year for us. A lot of big partnerships launched, eBay, Walmart, DoorDash, a big partnership with Apple. Growth was very strong, 38%. Had our first billion-dollar quarter, you know, very exciting. It was a really exciting year. I think building on that, when we think about 2026, it is a year of execution versus strategy. We were very fortunate to, you know, launch a big partnership with Stripe last year. This year we have JP Morgan, we have Adyen, we have Nexi, we have Worldpay. I think we added 2 million new card customers in Q4 alone.
+There's just a lot of executing to do this year, but I think the platform that we laid for 2025 was fantastic.
+## Speaker 3 | 
+When we think about the remainder of this year, you see a lot on the table in terms of opportunities?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, absolutely. I mean, like I said. Oh, sorry, I'm talking about next year. I should say 2026.
+## Speaker 3 | 
+Yeah.
+## David Sykes | Chief Commercial Officer, Klarna
+I'm still living in December. Yeah, no, all of those partnerships go live. Yeah.
+## Speaker 3 | 
+That's great.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, JP Morgan, Nexi. We first steps launched Paytrail, big PSP in the Nordics. There's a lot of opportunity this year.
+## Speaker 3 | 
+Nice. Look, we're gonna come back to all the deals you're striking and the way you do it. Just talking about Klarna Financing for a minute, given it's been a hot topic for the story, clearly been strong growth. Number of merchants offering Klarna Financing has meaningfully increased. I think you have 194,000 merchants doing it as of fourth quarter.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+It was up 116% year-over-year, and 28% sequentially. Just help us understand what's driving this kind of accelerated adoption first.
+## David Sykes | Chief Commercial Officer, Klarna
+I mean, not only the year-on-year, I think in December it was up 193%. So I think the growth has been unbelievable. The pitch to merchants is pretty easy, if I'm being really honest. When you offer financing, it really leads to a very profound change in consumer purchasing behavior. I think what's most interesting is not the conversation with merchants about bigger basket sizes and better conversion and, you know, more, you know, higher frequency. What's really interesting with merchants is being able to have a conversation with them about taking some of their top-of-funnel investment in marketing, so their digital spend, their out-of-home spend, their brand spend, and bring it closer to the point of sale with a zero percent buydown.
+That I think has been, you know, a really interesting part of the story, that we can now have a conversation with a merchant that says, "Take some of that marketing investment and take a 20% APR and make it a 9.9% APR. Take a 20% APR and make it a 4.9% or a 0% APR" and in doing that, really, have a big impact on conversion. In fact, an outsized impact relative to that marketing spend. Funnily enough, the sales pitch to merchants has been, you know, probably the easier part of the equation. I think our model was always really, really straightforward, which was, launch with Pay in 4, get really significant, you know, surface area with Pay in 4.
+You know, launch Pay in 4 on Nike and Saks and all of these different partners. Then the conversation has just been, "Hey, you have Pay in 4. It's working for you very, very effectively. Why not add financing?" We enjoyed a lot of success with that approach. What I think is interesting going forward is, you know, we do have a lot of merchants offering it. It's only 20% of our coverage. So, you know, even if I never add a net new merchant on financing, I can still 5x this business just by increasing that type of coverage and t hat's where I spend a lot of my time thinking about.
+## Speaker 3 | 
+Okay. That's really helpful. I mean, this might be more of a question that you'd ask a CEO or a CFO. Company-wide, I mean, is there a balance, a right place in terms of mix between Klarna Financing and Pay in 4 that you think is appropriate?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, I mean, the reason we have all these payment solutions is we decided very early on. In fact, I always you know, I jokingly say, "What's my job?" You know, Sebastian says my job is to have Klarna accepted as many places as Visa. Visa's at 150 million, we're at 1 million. We've got a lot of work to do on that.
+## Speaker 3 | 
+Yeah.
+## David Sykes | Chief Commercial Officer, Klarna
+We realized if that was actually the ambition to have, you know, real ubiquity, we needed a set of payment products that covered for every use case. Micro-transactions, we've got you. Subscriptions, we've got you. $5 Uber ride, we've got you. $5,000 Airbnb, we've got you. We really thought it was important to have every use case covered. When we think about, like, what's the right balance, you know, it really depends on the retailer. It really depends on what they sell. It really depends on the average order value. I think having that balance, though, of whether it's Saks, you know, there's a lot of orders where financing makes a heap of sense. DoorDash, probably less, right? The balance is gonna be really retail specific.
+I think going forward in 2026, like we're still gonna deliver really strong dollar growth in financing. I don't think you're gonna see the same percentage-type growth, but in absolute terms, it's still gonna grow really strongly.
+## Speaker 3 | 
+Okay. I wanna go back to the underlying PSP partnerships and everything else, but I actually wanna hit first on the differentiation that's resonating so much with your customers. Again, you're talking to your customers and signing new deals. What are they saying to you that they really want, that they love about adding Klarna, and how are you winning so much in the market?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+'Cause you are winning across both consumers and merchants.
+## David Sykes | Chief Commercial Officer, Klarna
+Look, you know, we've recently had some really big enterprise wins: Walmart, Airbnb, eBay, Stripe. I think particularly it's just interesting listening to investors ask me questions today. I think a lot of the focus is on a perception that those partners must have done those deals focused on price. The reality is, like you take an Airbnb, for example, the only thing they care about is customer experience. The only thing they care about is customer experience. Stripe, customer experience. We win overwhelmingly because we can convince partners we will offer the best consumer experience. These are customer-obsessed businesses. That's what they're focused on. They're focused on payment conversion. They're focused on customer experience. We start there. We start with the customer experience.
+I think that's one of the things we think differently about relative to some of our peers in market. You know, I don't believe I'm competing with other providers to win the merchant. I'm competing to win the customer. I'm competing against credit cards and PayPal and cash, and all of these other fantastic payment options. In every market in the world where we have won, and that's the majority of the markets we've been in, we've won because we've won the consumer. We've won preference, consumer preference. If you win enough consumer preference, you become undeniable for the retailer. Retailers choose us because customers choose us, and so, you know, that's a big, big part of it. You know, my first 10 slides of a pitch deck are about brand and why the brand matters and why it resonates with consumers.
+Cause the last thing I'd say is, we operate in an industry that has lots of consumers, but very few fans. You know, rarely do I meet someone who's a fan of their bank. You know, it is a transactional relationship, it's a utility.
+## Speaker 3 | 
+Right.
+## David Sykes | Chief Commercial Officer, Klarna
+I know a lot of fans of Amex. I know a lot of fans of American Express, and so we're very, very focused on taking those consumers, making them fans. In the act of doing that, you become undeniable for the retailers.
+## Speaker 3 | 
+That's really helpful. Let's go back to the partnerships, 'cause I do think that it's probably an underappreciated opportunity. I mean, you have Stripe now.
+Chase. You have, if I remember, Worldpay, I think, right?
+## David Sykes | Chief Commercial Officer, Klarna
+Worldpay, yeah.
+## Speaker 3 | 
+Nexi. I mean, there's been quite a few. Now Stripe has been live already for what?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+Thee quarters now?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+I mean, just talk about how that's been going for you. It's really meant to provide you with a better platform to get you into-
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+Merchants that otherwise may be a longer tail, right?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah. I mean, I remember even a couple of years ago, I think maybe we had 400,000 customers at that point. I think PayPal had 400 million. I even remember back then going, "400 to 400?" I could probably do that over 7 years, 8 years.
+Sorry. I mean, we had 100 million customers. They had 400 million. We had 400,000 retailers. They had 32 million.
+## Speaker 3 | 
+Right.
+## David Sykes | Chief Commercial Officer, Klarna
+I remember going like, "That is. How do you do that?" Like, that's tough. I think Klarna has always been a tremendously successful enterprise sales engine. Like, we've always been able to win the big deals. We didn't have a really fluid motion for that SME portfolio, and so what we realized was what PayPal had done a phenomenal job of doing was it had put itself in the opt-out bucket instead of the opt-in bucket. It put itself in the opt-out bucket. What I mean by that is you launch a new business, you're not focused on optimizing your payment mix. You're focused on building a great product, finding a new customer, you know.
+## Speaker 3 | 
+Right
+## David Sykes | Chief Commercial Officer, Klarna
+Creating profitability. We spent a lot of time with these big PSPs going, "Take us out of the opt-in bucket and put us into the opt-out bucket." That's been transformational. Like, if you look at our Stripe relationship, we added 285,000 merchants year- on- year. That's almost as many merchants as we had in 2021. We added it in one year. What's incredible, if you look at that growth and then you look at our OpEx, once upon a time, if I doubled my merchant base, I would have doubled my customer support headcount, I would have doubled the amount of people who are doing KYC, I would have doubled the amount of, you know, people doing integrations. I would have actually signed 280,000 contracts.
+Yet we can do that at scale now in a durable fashion without increasing OpEx because we have this incredible distribution mechanism. What's cool is, like, Stripe is a phenomenal partner, but we haven't even got started with JPMorgan, haven't even got started with Worldpay. All of that happens this year. Anyway, that's something we get really excited about.
+## Speaker 3 | 
+I mean, you think about the volume opportunity on these places, these partners.
+## David Sykes | Chief Commercial Officer, Klarna
+Collectively-
+## Speaker 3 | 
+Several trillions of dollars.
+## David Sykes | Chief Commercial Officer, Klarna
+The ones we've signed so far collectively do $9 trillion in volume.
+## Speaker 3 | 
+Yeah.
+## David Sykes | Chief Commercial Officer, Klarna
+That's the amazing thing. Like, Stripe is a super successful business. I think it's, like, number three on this list in terms of total transaction volume, which sort of, you know, gives you a size of the opportunity.
+## Speaker 3 | 
+I mean, what is the timeline about, you know, Chase and Worldpay? Because Stripe I know we signed, and you're in process-
+## David Sykes | Chief Commercial Officer, Klarna
+Yep
+## Speaker 3 | 
+With them. It looks like there's still a lot more.
+## David Sykes | Chief Commercial Officer, Klarna
+Yep
+## Speaker 3 | 
+to go there.
+## David Sykes | Chief Commercial Officer, Klarna
+Yep.
+## Speaker 3 | 
+How about the others?
+## David Sykes | Chief Commercial Officer, Klarna
+Every one of them this year, various stages as we speak, from integrating to testing. Nexi is a good example. We've already launched with the first part of the Nexi portfolio. So this is not a years out, this is a quarters out thing.
+## Speaker 3 | 
+As a reminder, the relationship, is it exclusive? Is it not?
+## David Sykes | Chief Commercial Officer, Klarna
+Interesting.
+## Speaker 3 | 
+You know, how do you think about sharing it?
+## David Sykes | Chief Commercial Officer, Klarna
+It's a mix of both, right? Like, I'm a genuine believer in exclusivity as a, you know, a short term, not super durable competitive advantage. Again, like, if you win consumer preference, if you really dominate consumer preference, exclusivity doesn't matter. With these guys, it's a mix. Some of them are exclusive-
+## Speaker 3 | 
+Okay.
+## David Sykes | Chief Commercial Officer, Klarna
+Some aren't. We think being first is really important, and we're excited to be first. On a long enough time horizon, you know, my expectation is nothing is exclusive, and what's durable is consumer preference.
+## Speaker 3 | 
+You also partner with, and we just saw Fiserv walk offstage. You also partner with Clover, right?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, exactly.
+## Speaker 3 | 
+For in-store.
+## David Sykes | Chief Commercial Officer, Klarna
+Exactly.
+## Speaker 3 | 
+How is that trending, and what is the opportunity there?
+## David Sykes | Chief Commercial Officer, Klarna
+In-store is huge for us, right? Even our, you know, you know, you look at our credit card, 25% of spend is in store. In store's obviously, like, the untapped, really big opportunity. You know, when I think about partnerships like, you know, Walmart, like, we're barely getting started in-store with Walmart, right? 200 million customers every week, walking into a Walmart. Long-term, we think in-store is tremendously valuable. Clover is obviously exciting because it's, you know, Fiserv is obviously a hugely important partnership opportunity for us. We were very excited to sign that.
+## Speaker 3 | 
+Why do you think these partners chose to work with you guys more? I mean, some of them are exclusive, right? We're working with you guys-
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+More, I would say, than, for example, Affirm.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+Why? I mean, is it the consumer size? 'Cause you have a much bigger consumer population.
+## David Sykes | Chief Commercial Officer, Klarna
+Look and look, they have a lot of great partners to choose between. I think when I reflect on why do they choose us, one, we were the first to present this opportunity to them.
+## Speaker 3 | 
+Okay.
+## David Sykes | Chief Commercial Officer, Klarna
+I think being innovative, having an eagerness to invent is really important, core to our business. Two, we're global. Like, default option sounds like a great option, but most partners can't do default option. Most partners are default option, but not subscriptions, but none of your low AOV, but I can't service that market. It's not really default option. It's a very small slice of the pie. It's default option if it's perfect for me. We really positioned ourselves to be truly default option. Every brand you support, we can support. Multiple markets. You know, it's not a contract that you sign. We totally rebuilt our tech stack to be able to facilitate this. It's not an easy thing to do out of the gates.
+We were the first to position it, pitch it, and, you know, we've been the beneficiaries of that.
+## Speaker 3 | 
+Okay. Let's talk about the wallets. I mean, Apple Pay.
+## David Sykes | Chief Commercial Officer, Klarna
+Yep
+## Speaker 3 | 
+Google Pay. I mean, you've been partnering there as well. Just talk a little bit more about how these partnerships are helping to drive-
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+The equity for Klarna.
+## David Sykes | Chief Commercial Officer, Klarna
+Oh, man. Like, they, Apple Pay and Google Pay have been unbelievable for us. You know, just as a form of payment, they're growing explosively. More importantly, like, it was all about, you know, putting Klarna where consumers are shopping. You know, putting ourselves in the trusted channels. That trusted channel might be Stripe Merchant Checkout, it might be Apple Pay. It's not even just Apple Pay and Google Pay. We just launched with Google Autofill. We launched with Vipps. Many of you won't know Vipps. It's the leading payment platform in the Nordics. We just launched last year with Stripe Link, 200 million users. This is gonna be a really important part of our sort of go-to-market going forward.
+It is exciting 'cause it means that, you know, we don't have to be at the checkout of Target. You can use this because we're at Apple Pay.
+## Speaker 3 | 
+Okay.
+## David Sykes | Chief Commercial Officer, Klarna
+You know, just really, really increases surface coverage.
+## Speaker 3 | 
+Okay. Great. Talk about Walmart for a moment. I mean, last year you guys announced a partnership with OnePay. It made Klarna the exclusive provider of installment loans at Walmart in the U.S. How has that partnership been progressing? Any color on traction you're seeing? How are Walmart shoppers actually engaging-
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, I mean.
+## Speaker 3 | 
+With Klarna about it?
+## David Sykes | Chief Commercial Officer, Klarna
+I think of all of the deals I've done in the past, you know, eight years I've been in buy now, pay later, this is the deal I'm most proud of personally.
+## Speaker 3 | 
+Okay.
+## David Sykes | Chief Commercial Officer, Klarna
+You know, I think, you know, I love the OnePay team. I love the Walmart team. You know, these are really high integrity people. Everybody talks about being customer obsessed. Walmart is truly customer obsessed. The adoption has been fantastic. We've rolled out online. But like I said, I feel like we're barely getting started. You know, we've barely scratched the surface of in-store. We just announced the ability to take a debit transaction and turn it into, post-transaction, an installment transaction with OnePay. The thing is, when you have partners of this size and scale, you know, the most iconic retailer in the world, it is impossible to not be successful. Like, they just have so much opportunity in and around them.
+Like, the scale of them is so vast. We are enormously excited. The initial traction is fantastic. But I really think it's tip of the iceberg stuff. You know, we're talking the biggest retailer in the world. I think this will pay dividends for a very long period of time, and hopefully, we can add more and more value to the partnership.
+## Speaker 3 | 
+Okay. Going to the U.S. more broadly now, I mean, the U.S. it continues to grow extremely well. It was up 58% year-over-year last quarter, and I know GMV was up over 40%. You know, I think you're serving almost 30 million consumers, which is incredible given when you really launched in the U.S. time-wise, right?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+Help us understand a little more what you're doing in the U.S. that's resonating so well.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, I mean, look, to be honest, a big part of it is, like, as big as we are, we're still tiny. You know, that's the truth. Buy now, pay later is tiny relative to all payments. When I think about why we're growing, like, part of the reason we're growing is that, you know, these large enterprise retailers, five years ago I was doing 5% of their business. Four years ago, I was doing 7%, then it was 8%.
+This year it's 10. Next year it'll be 12%, right? Now, 12% share of checkout sounds like a lot. In the U.K., I do 30%. In Germany, I do 60%. There's just so much headroom. Like, that's part of the reason, like, my in-store base every year, consumer preference, more customers choosing us. If I think about, you know, last year, even forgetting Walmart, eBay, DoorDash, we added Gap, we added American Eagle, we added Aritzia, we added Starlink. You know, like, every single year, I'm always surprised by how many additional large. Four years ago, adding Gap would've been the biggest news in the world. It's just in context to some of the others that we're partnering with. We have this really good in-store base that's growing year- on- year.
+Every year, new merchants entering the network, and that's before you talk about the card volume. It's before you talk about launching JP Morgan. The U.S., you know, we just have so much room to grow. It's big, but it's just, we've still got a lot of headroom.
+## Speaker 3 | 
+I mean, one of the things that we get asked about with Klarna a lot is really profitability levels.
+## David Sykes | Chief Commercial Officer, Klarna
+Right
+## Speaker 3 | 
+Whether or not the deals you're striking.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+Since you're really, you know, striking the deals, I'm curious to hear your, the way you handle that, right? The way you keep that in consideration. Whether it's Walmart, which is a topic of conversation.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+How profitable that could be.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+If you could just comment on just high level at least, if you see that?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah. No, no, of course.
+## Speaker 3 | 
+Even just more broadly, the new U.S. business is-
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+Y ou know, what kind of measurement do you keep in check around profitability?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+When you sign new arrangements?
+## David Sykes | Chief Commercial Officer, Klarna
+It's a very fair question, and I think the message from investors is really clear.
+## Speaker 3 | 
+Yeah.
+## David Sykes | Chief Commercial Officer, Klarna
+Like, what's the priority for this year, for next year, for mid-term? Like, it's just be profitable. Like, that's a really clear message. We've heard it loud and clear. Every deal we do needs to be economic, just to be very clear. I think when you think about, you know, some of the near-term impacts of some of these deals on businesses. It's all about the growth of their financing. Like, I think the surprise for us this year was, you know, candidly, we didn't expect their financing to grow at 100-
+## Speaker 3 | 
+Yeah
+## David Sykes | Chief Commercial Officer, Klarna
+93% in December. The nature of that model, as you guys all probably know better than me, is we take all of those losses up front. We recognize that revenue over time. I didn't expect consumer adoption would be as high as it was. Like, to put it in relative terms, we also grew paying full adoption by 60% last year. Now, that seemed, that ballpark seems reasonable to me. We just got caught off guard by how quickly it was growing.
+## Speaker 3 | 
+Right.
+## David Sykes | Chief Commercial Officer, Klarna
+The deals we do are like, you know, about to sound like but somebody else, they're great deals. They're, you know, it's important for us that we do economic deals, like, for sure.
+## Speaker 3 | 
+Okay. From a competitive standpoint, I mean, again, we talked about what you're doing that's resonating in the market, but we are seeing.
+## David Sykes | Chief Commercial Officer, Klarna
+Right
+## Speaker 3 | 
+I was talking to you about all the different buy now, pay later companies here at our conference, right? There's quite a few of them.
+PayPal, for instance, is talking more and more, trying to be more promotional in the market.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+to try to buy themselves placement
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+A t merchants, because I think they know they need that, right, for one of their growth pillars. Do you see any changes from a competitive landscape, you know, whether it's from pricing or others trying to buy more, you know, placement of the merchant?
+## David Sykes | Chief Commercial Officer, Klarna
+It's funny, like, having been in the industry for a while now, it is less competitive than it has ever been.
+Like, honestly, like, in 2021, every deal was like a five-sided knife fight, and the subsidies that were being thrown around were insane. I definitely did a deal or two in 2021 at the peak that I probably wouldn't do now. I can't think of a deal I've done in the last two years that I wouldn't happily sign again tomorrow, right?
+## Speaker 3 | 
+Wow.
+## David Sykes | Chief Commercial Officer, Klarna
+It is less competitive than it was. The primary reason for that is back then you had, you know, a bunch of venture-fueled companies, us being one of them, who were only focused on growth. You know, that's all it was. Now what you have is a small number of much more disciplined, publicly listed companies that are very focused on doing deals that make sense. I know there's a lot of players in the mix for sure, but the reality is, if you didn't escape 2022 at, like, escape velocity, if you were subscale coming out of 2022, it's not that you can't be relevant, it's just you're not in the conversation with Walmart or Gap or American Eagle t hat's the reality of it, right? You have a smaller number of companies, much more disciplined.
+Again, when I think about competition, it's not me versus one of my peers to try and win a net new merchant, you know. It's like it's share of wallet. You know, I'm competing for that customer against 100 other payment options. That's where I think the competition is.
+## Speaker 3 | 
+Okay. Look, it sounds like it's from a competitive standpoint, you're still doing well in differentiating. Are there other big new deals we can expect that, you know, we could hope for some announcements around? You don't have to mention names.
+## David Sykes | Chief Commercial Officer, Klarna
+Oh, yeah, I was gonna say, like, I'm
+## Speaker 3 | 
+No
+## David Sykes | Chief Commercial Officer, Klarna
+I'm new to this.
+## Speaker 3 | 
+We'll mention names, but, I mean, anything that
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah
+## Speaker 3 | 
+You know, you're excited about for this year.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, every year. I mean, that's the thing that again surprises me is like, we are guys, we are still so small. The opportunity is so untapped. Like, I go into markets where every single person not only knows Klarna, they use it. If for whatever reason the service is down, it makes national news. Like, we are still so under-penetrated in the U.S., and so I just set up a way of going like, "Yes, there will be some very exciting things that will happen this year," and then that's gonna happen the year after and the year after until we get to something like the type of scale we operate on in some of our mature markets.
+## Speaker 3 | 
+Okay. You're in 26 markets now, mostly across Europe, North America, and Australia, and New Zealand. Just when you think about expanding the presence even further, what markets are you looking at, and where do you see the most opportunity?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah. Well, look, without announcing anything, I think, you know, the reality is what does it take for us to be in a new market, right? That market needs to be large enough for it to make sense to our existing partnership base. So one of our, you know, durable competitive points of advantage is when I launch in a new market, like, I'm not starting from scratch. On day one, I launch some of the biggest brands in the world. If I go live in Italy, day one, I'm live with Shein. Day one, I'm live with Nike, Airbnb. So, like, it's important that the markets that we launch are important enough for the brands that we support. That's one important factor. Two, we've got to be able to underwrite a consumer.
+There's a whole heap of markets in the world where I think our product would resonate, but they don't have a sophisticated enough series of data points that I can draw from to underwrite a consumer or to underwrite a merchant. It has to be an e-commerce-heavy market. It doesn't want to be cash. So there's, you know, you could type those variables into any LLM, and they're gonna come up with seven or eight markets. That's probably a pretty good indicator of, you know, where we wanna go. But for us, you know, I don't need to launch a new market tomorrow to grow. Like, we see in the U.S., like, there's nothing I'm gonna do tomorrow that's gonna compete with 50% growth in the U.S., right?
+I think near term, just doubling down on what's in front of us today, like really executing well is the big focus.
+## Speaker 3 | 
+Yeah, that makes sense. Just growing with your existing customers into new markets, I mean, how much of that has been a trend for you?
+## David Sykes | Chief Commercial Officer, Klarna
+That's all one, probably my number one KPI s like, Airbnb, we're live in, you know, 24 of the 26. Why not the other two? 'Cause it's the easiest upsell to a partner is, you know, take us live in another market. There's no additional contracting, no additional tech work. It's a really simple thing to do, and it adds immediate value. Again, part of the reason we're growing so fast is it's the installed base doing things like that, adding a new product, adding a new market, adding on-site messaging, adding express checkout. You know, I could never add another merchant and still grow for the next 10 years just with my current installed base using all of our products, all of our markets.
+It would be a, you know, it'd be a very, very successful business still.
+## Speaker 3 | 
+Okay. We've talked to Sebastian about AI for a while.
+Just remind us again, how is Klarna actually utilizing AI internally first? Then I wanna talk about agentic commerce as well.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah, I mean, look, it sounds like a clichÃ©, but like, it's almost now like going, "So what are you using electricity for?" Like, you know, I would be harder pressed to find a part of the business that isn't using AI to really transform how we work. You know, we, you know, Sebastian talks a lot about this. You know, we were a 7,000+ company, we're a 3,000+ company. Honestly, even if we hadn't saved a dollar, we still would have made that transition. The reason is, we are a more effective business now. The people who are with us are using these tools. Talent density has increased. Time in chair has increased, so you know your business well.
+Like, we would have done it even if you didn't save a dollar. I just say that by way of going, you know, AI and the tools that you can now use, whether you're in sales, whether you're in the CFO office, whether you're in, you know, an operational frontline role, you know, it is transforming. It's turning people into superhumans, right? You know, it's hard to say a single use case because it is now t here's nothing. There's almost no part of the business where it's not touching. Yeah.
+## Speaker 3 | 
+Okay. Agentic obviously is an area that we get brought up. It's brought up to us as a risk, potentially, for anyone that has a wallet form model, right?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+What do you think about that? I mean, is it, is your data something that's gonna help you? Is the extension of credit really gonna help differentiate and keep as a barrier?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah. Look, at the risk of belaboring the point, like, I actually think consumer preference is what will matter most. What I mean by that is, if you think about my business today, like, it's just a war of the buttons. You go to a checkout, you see us, you see PayPal, you see Affirm, you see Alipay.
+## Speaker 3 | 
+Yeah
+## David Sykes | Chief Commercial Officer, Klarna
+Y ou see Bitcoin Pay. All I think about now is like, why do you, as a human, pick the Pink Klarna button?
+## Speaker 3 | 
+Right.
+## David Sykes | Chief Commercial Officer, Klarna
+It's gonna be brand. There's a variety of reasons, right? That's all I think about. I actually don't think about winning merchants as much as I think about winning the consumer at that, in that point of time. In an agentic commerce world, it's exactly the same. It's just, why does the agent pick that button? Why does the agent pick. I don't think they're gonna care about brand. You know, you know, I don't know if that's gonna be the deciding factor. What will be a deciding factor is if that agent knows that that customer has used Klarna two or three times before, one million percent they click our button before they start an application process with somebody else. Assuming all things being equal, the offer is equal, the fees are equal, and all the rest.
+When I think about, you know, our urgency and our intensity to win consumer preference, to get those, you know, the 30 million in the U.S., the 10 million in Italy, the 7 million in France, 12 million in the U.K., like the 20 million in Germany, the urgency, the intensity there is that consumer preference isn't just winning today. It will be a defining factor in an agentic commerce world. They're gonna pick your preferred brand, for sure. They're gonna pick whoever you used last. They're gonna pick whoever you're a member of. We actually think that that is a, you know, that is part of what you need to have.
+If all you've done is built a utility play, which is just, you know, a financial infrastructure product, but you haven't built a relationship with the consumer, I think you're gonna be in a really tough position, 'cause then you're competing on price. That's it.
+## Speaker 3 | 
+All right.
+## David Sykes | Chief Commercial Officer, Klarna
+I think that's gonna be tough.
+## Speaker 3 | 
+All right. That makes sense. Last one from me and then, guys, I'll take a question or two from the audience. Apparel and accessories has really been the areas in the U.S. that you've succeeded in. If I look in, you know, Europe and other markets where you've done more, you're a little more mature, it's much more diverse. Just thinking about going forward, how do we see that shape up in the U.S. and really mirror what you've done in other markets?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah. I mean, it's already become a focus for us. There's a lot of focus on the big PSPs that we take live. Like, a real area for focus for us is, like, the what I would describe as almost, like, the vertical PSP/software plays that have just won certain industries. You know, we're live with, like, Mindbody, for example. Like, that's been a big focus for us. How do we win-
+Win those platform plays? The truth is, in every market, we just start where we win market share easiest. That's always been fashion. Then we move into cosmetics and apparel and footwear, and pretty soon we're in homewares, and then we're in electronics. It is, you know, a natural progression to now we're doing on-demand, and now we're doing hair clinics, and now we're doing Botox, you know, I don't know what you'd describe them as, Botox bars, whatever. But that's a big part of our business in other, in other. Why not even us. You go into Australia, you walk into a hair salon, and there's an Afterpay sticker there, right? It's just this natural progression that you just cascade into the next, and into the next, and into the next vertical.
+You're definitely gonna see that happen in the U.S.
+## Speaker 3 | 
+Okay.
+## David Sykes | Chief Commercial Officer, Klarna
+It already is. Yeah.
+## Speaker 3 | 
+David, the stock's obviously been a little tough since the IPO, and I think investors are a little hung up on, you know, the growth of lending, right? Fair financing and the provision and the modeling around it was confusing to some folks. But your growth underneath the surface has been extremely strong, really across the business. What do you think is underappreciated by investors that they should really help get the stock going if they really understood it better?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah. I mean, look, a part of it as well, like, as a business, we need to understand investors better. We need investors to understand our business, but let's be candid, we need to understand investors better. You know, I think, you know, we've transitioned from being a private company to being a public company, and the truth is we hear you very loud and clear. Like, profitability needs to be a focus for us, for sure. No question. I think what's, you know, I would almost say we're in, like, good company when I look at other fintechs who've gone from IPO to nadir. There's a lot of them. It's a 90% drop, an 80% drop. I'm not gonna mention their names, but you all know who they are.
+I really do think investors, and I understand why, struggle, one, to put Klarna in a box, and it's 'cause we haven't made it easy to put us in a box. I also think investors struggle with companies that are banks doing what we do at the scale that we do, growing as fast as we do. Now, it would be a lot easier if we were also profitable, and I get that. Like, it is not easy to grow at our rate across 26 different markets, 118 million consumers. I'm not sure any bank's ever done it, in all seriousness, across so many markets, so many consumers at the rate we're doing. I think that's hard to digest. I don't know why public markets do what they do. You guys are all better placed.
+In the last five days, I'm up 18%. I don't understand that. I don't know why I was down as much as I was. You guys will all be better judges of those sorts of things. We are, and it's a very trite thing to say, I have absolute conviction that if we just do our job, like, if we just execute it is gonna be a very different conversation a year from now, 18 months from now, 24.
+## Speaker 3 | 
+Right.
+## David Sykes | Chief Commercial Officer, Klarna
+I have zero doubt about that. What that means in terms of multiples and the share price, I have no doubt about. I have no idea about it. Actually, I can't give.
+## Speaker 3 | 
+Right.
+## David Sykes | Chief Commercial Officer, Klarna
+I genuinely don't know. I know if we just do what we're supposed to doing, this is one thing I would say, we've lent out a half a trillion dollars over our time. A half a trillion dollars. Like, this isn't new to us. We've done it in multiple currencies, multiple locations, multiple products, multiple price points. Like, this is our bread and butter. You know, it's easy for me to say you wanna see the action, and I think that's what we've gotta.
+## Speaker 3 | 
+Okay.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 3 | 
+Excellent, David. Thanks. Guys, maybe we have time for one or two quick questions. Oh, there's one over there.
+## Speaker 2 | 
+Thanks, David. You mentioned the DoorDash partnership earlier. There's obviously been debates around BNPL usage for lower ticket, more everyday purchases.
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah.
+## Speaker 2 | 
+Certainly a number of headlines around that partnership being launched. Can you just touch on the trends you're seeing in verticals like these, how consumers are engaging with Klarna, what types of consumers maybe from a credit perspective, and then what types of payment plans are really being used and stuff like this?
+## David Sykes | Chief Commercial Officer, Klarna
+Yeah. I mean, very fair question. Look, DoorDash is a perfect example. You can't use buy now, pay later on a burrito o n DoorDash, you know, it doesn't work that way. Like, the threshold starts at $35, and what's really important is that $35 threshold is consistent across almost every buy now, pay later company around. What we encourage you to use below $35 is Pay in Full. You know, we're live with Uber here in the U.S. Buy now, pay later is not a part of it, you know. That's not part of our offering. You know, 20% of our business globally is Pay in Full, and I think it's really important.
+Like, you think about the transition of a customer and again, I remember this from being in Australia and just hearing dynamics about Afterpay's business, and I remember someone going, "Hey, wow, frequency in Australia is now 14x." By the time you're using that payment method 14 times, it's not about delayed payments 'cause you've actually now it's coming out of your cycle, a couple you know, I use American Express if I'm buying a $4 coffee or a $4,000 Airbnb. You know, I'm not kicking the $4 into next month. There is a muscle memory that comes with these payment products. Why do people use PayPal? Buyer's protection. One click. I'm on the couch, I don't wanna get off and go across and get my debit card. Instant refunds.
+You know, in the U.S. if you're a debit card user, which I doubt anybody in this audience is, you know, you might wait 10 business days to get a refund. I think about, you know, what we're trying to solve for is that debit cards were designed to be put into an ATM and get money out. They weren't meant for online e-commerce. A lot of the reasons that we built our product the way we built it is we want a true proxy for that debit card. When it comes to DoorDash, a lot of the way people are using it for is, like, you can get Home Depot on DoorDash delivered, and that was part of the reason DoorDash wanted a solution.
+You know, it's higher ticket items. Not a lot of burritos is. That was never part of the value proposition, to be honest. Yeah.
+## Speaker 3 | 
+Okay. Guys, why don't we stop there? David, thank you very much for joining us.
+## David Sykes | Chief Commercial Officer, Klarna
+No, thank you.
+## Speaker 3 | 
+I appreciate it. Guys, next up we have the CEO of Jack Henry in the, in the room, and then the other room we actually have First Advantage, for the second track.
+Data Source: Quartr Last updated: Mar 11, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

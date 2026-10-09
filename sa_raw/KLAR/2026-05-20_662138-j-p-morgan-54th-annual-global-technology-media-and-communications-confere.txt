@@ -1,0 +1,370 @@
+TITLE: J.P. Morgan 54th Annual Global Technology, Media and Communications Conference
+DATE: 2026-05-20
+## Connor Allen | Payments Analyst, JPMorgan
+Hi, everyone. Thanks for joining. My name is Connor Allen. I'm a payments analyst here at JP Morgan, and we're very happy to have Niclas NeglÃ©n here, the CFO of Klarna. Niclas, thanks for coming.
+## Niclas NeglÃ©n | CFO, Klarna
+Thank you. My pleasure. Thanks for the intro.
+## Connor Allen | Payments Analyst, JPMorgan
+It's Klarna's first time at the conference after your IPO last year. I thought because of that, we'd start a bit high level, add some context to the story. Maybe with that in mind, there's a lot going on at Klarna as, you know, we'll talk through. I wanted to start with maybe, you know, thinking through, you've multiple geographies, multiple products, lots going on. From your seat, how do you think about what matters most? What, you know, what do you think of when you're describing the story? What matters most to you? How do you boil it down?
+## Niclas NeglÃ©n | CFO, Klarna
+Cool. Thanks. Thanks for the question, and thanks everybody for joining. I think first and foremost, I think the important thing to, as a construct from a framework perspective, is really that we're spend-centric and not lend-centric, right? That really drives a lot of the strategy. I'd leave you with four things, particularly on that topic, right? Number one is the network. We grew to 1 million merchants, 49% up year-over-year in the first quarter, right? We have 119 million users, up 21%. We've got the PSPs that are helping us to expand that network and make us more and more ubiquitous, right? The second piece is the product breadth, right? We have a payment method that is appropriate for every type of vertical, and that is a key element of our strategy, right?
+If you look at it across the board, our Pay Later, which is our charge card equivalent, is about 29% growth year-over-year. We've got the Fair Financing, which is our installment product, up 138% year-over-year. We're continuously expanding more and more of our product set to more of our merchants, right? The third thing is really the geo reach. Again, you know, we're live in 26 markets. The U.S. is obviously a key part of this, but also global ex-U.S. is growing at about 31%, and we're seeing ourselves expand in the E.U. as well as on the product set there. Finally, the funding. You know, with our, we have the regulated banking license.
+We fund 90% of our activities through deposit funding. That is based on savings deposits that have a longer set duration a bout 270 days. Overall, transaction margin dollars driving up 44% year-over-year. The whole point is that this model is going to drive us towards where our established markets are over time at about 60% transaction margin.
+## Connor Allen | Payments Analyst, JPMorgan
+Wonderful. We'll talk through a lot of that. I did wanna ask because even as you touch on it, right. Like, there's a couple products within there that you, if we go forward 10 years, what Klarna might be. Is it a payment network? Is it a lender? Is it a everyday spend neobank? How do you kind of think of across these different product sets what Klarna might become?
+## Niclas NeglÃ©n | CFO, Klarna
+Look, I think it is about that spend centricity is the key piece here, right? We turn on booked about 10 times a year. We have over 1 million merchants, right? We have the banking license as a foundation for that, right? That means that we have multiple ways to engage with our consumers, and we're continuing to expand that engagement with them, right? Not only through the PSPs are we supporting a growth in the merchant network, but we're also doing this with our Card, right? With the Card, we allow consumers to both be active with us online and offline across multiple merchants, across every type of payment they would like to make. It's all about driving that engagement and expanding that network.
+## Connor Allen | Payments Analyst, JPMorgan
+Spend centricity.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+Okay, great. With the context aside, maybe we can dig in a bit more tactical near term, thinking about the first quarter, maybe a little bit about second quarter, and then the guidance.
+## Niclas NeglÃ©n | CFO, Klarna
+Sure.
+## Connor Allen | Payments Analyst, JPMorgan
+In the first quarter, it was quite good results last week. Feels like it was longer ago. This week's been, it's gone quick. Quite good earnings.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+Ahead of expectations.
+## Niclas NeglÃ©n | CFO, Klarna
+I mean, we were positive on every line from a growth perspective.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+Right? We grew, you know, volumes successfully very strong. Revenues up 44%. We grew our transaction margin dollars, which is our key metric to really grow through as we transition or as we evolve the network, right? Up 44%. OpEx was only up 3%. We're starting to get that real operating leverage. We had, I call it break even, $1 million worth of net income, right? You know, we're starting to really expand the network and the intent that we have, and that's where our focus is, right?
+## Connor Allen | Payments Analyst, JPMorgan
+Maybe in the quarter, could you remind us what you saw from a macro perspective? Anything you'd call out by geography or otherwise?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, look, I mean, the Klarna consumer has remained healthy, right? I think there's a couple of things with our model of spend centricity that's important for everybody to always remember, right? It's short duration, small ticket. $124 on average is the outstanding balance with the consumer and a 39-day tenor, right? That gives a slightly different dynamic. You know, the vast majority of our volume is in our Pay Later, which is kind of the charge card equivalent, which has shown to be very stable through any cycle, right? We're seeing very strong performance with regards to our provisions for credit losses as well. I think we can talk a little bit more about that if you want.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah, sure. Anything else on the credit? I mean, you said it was.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+Credit tenants are pretty stable. We, I think we wrote that it was sequentially stable to improved, but yeah, what are your thoughts on that effect?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, exactly. Well, it depends on when you split it down, right? If you look at it where I know there's a lot of focus right now on our expansion of the point of sale installment financing, right?
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+The Fair Financing book.
+## Connor Allen | Payments Analyst, JPMorgan
+Fair Financing.
+## Niclas NeglÃ©n | CFO, Klarna
+That's down 36 basis points from the peak of Q2 2025 from a delinquency perspective. Then you're seeing stable performance across our Pay Later. You know, if you just take the European Fair Financing book, it's stable at about 1.8% as well.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+You know, very good metrics, and we're very focused on that. Overarchingly, we had provisions for credit loss of about 55 basis points on GMV, and we expect that to be roughly where we are through the year.
+## Connor Allen | Payments Analyst, JPMorgan
+Through the year. Okay, great. Good to know. Maybe since you mentioned it, just thinking about the guidance a little bit. In the second quarter, there's some deceleration implied in the GMV guide.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+We discussed it was more just typical seasonality.
+## Niclas NeglÃ©n | CFO, Klarna
+Exactly.
+## Connor Allen | Payments Analyst, JPMorgan
+Maybe you could just remind us of those.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, there's two things that matter, right? Number one is obviously the devaluation in the dollar, at the back end of the first quarter last year. That kind of tailwind, so to speak, fades a bit through the second quarter. The key thing here is really about seasonality, right? Ultimately, we're a retail business. We do around about 45% or so of our volume in the first half of the year and 55% towards that in the back end of the year, right? This is really a question of seasonality more so than anything else.
+## Connor Allen | Payments Analyst, JPMorgan
+Nothing to read into too much on the deceleration in growth. Pretty stable trends.
+## Niclas NeglÃ©n | CFO, Klarna
+No.
+## Connor Allen | Payments Analyst, JPMorgan
+Maybe last question on the guide, and then we'll get out of Excel a little bit.
+I wanted to ask a little bit about just the full year guidance structure. You didn't raise the full year despite beating the first quarter. We had some nuances in the second quarter. I think the question is, you know, given the strength in the first quarter, why didn't we lift the full year guide? Again, we talked about it. The framework's minimum.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+Anything else you'd kind of.
+## Niclas NeglÃ©n | CFO, Klarna
+Look, I mean, to me, this is a seasonality question. We run a retail business, a retail-focused business. We're 20% of the volume in the first quarter, right? There's a lot of the year left to go. We've set a greater than framework, right? We have great momentum right now in the first quarter. We continue with that. The idea is really for us to ensure that we are in good position to be able to meet the framework we've set out, right?
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+That's really the focus for us.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. The 1Q results, at least in our view, helped de-risk what that could be.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, I think the other key thing I would want to mention, because I said it.
+## Connor Allen | Payments Analyst, JPMorgan
+Please.
+## Niclas NeglÃ©n | CFO, Klarna
+On the call as well. That's really, I mean, if you look to the guide, we are really looking to grow our transaction margin dollars faster than our revenue, right? It is very much a focus on transaction margin dollars for us, 'cause the throughput of that down to the bottom line over time is gonna be substantial given the operating leverage that we drive.
+## Connor Allen | Payments Analyst, JPMorgan
+The TMD faster than revenue, and some of that should probably just occur kind of as you season some of these products and provision is ramped up. We'll talk through some of that.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, no, definitely. Exactly. You know, if, because you have provision up front, a lot of the revenues that are coming through in the first half of this year is really driven by the strong origination we had in the back end of last year, right?
+## Connor Allen | Payments Analyst, JPMorgan
+Yep. Okay, great. We'll come back to some of that. I did wanna talk about Fair Financing and some of those dynamics. Maybe we can shift to talk about geographies as kind of a growth vector for Klarna. The U.S., I was looking to see when, I think it was 2015 you signed your first customer in the United States. So it's been over a decade in the U.S. I wanted to just ask kind of like, what, in the United States, what have you seen over the past decade? Maybe a framework we can kind of examine it through is the economic profile of the U.S.
+It's something we talked about quite a bit during the IPO. Maybe you could just remind us about the economics of the U.S., where that can go. I mean, definitely appreciate the new disclosure you give.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+That we can now track a lot of that.
+## Niclas NeglÃ©n | CFO, Klarna
+Hopefully people will have the opportunity to see some of the additional disclosures we have online. I've also got a video, so I'll put a plug in for that.
+## Connor Allen | Payments Analyst, JPMorgan
+Yep.
+## Niclas NeglÃ©n | CFO, Klarna
+I think it's a very useful thing to, for people to listen to as well. It takes you into some of the details of the dynamics of the various parts of the business. Ultimately, you know, the way I think about this is really in the last five years is when we kind of relaunched the U.S. with our Pay Later, Pay in full product, which is a strong product. I think from that perspective, we've continued to expand over time, right? Transaction margin dollars are 27% in the U.S. now, up from about 6% in the third quarter 2025, right? Which is driven by that fact that we are now doing more, you know, we provision, we have now starting to earn off of that cohort of loans, right?
+Key thing for me, number one, Pay Later scale, right? We are in the majority of the top 100 e-commerce websites, right? We've continued to expand on that baseline, right? Number two is we've now continuously expanded our product set, right? Our installment-based product, interest-bearing one, Fair Financing, is actually now about 225,000 globally merchant, versus they were about 103. You're continuing to expand that. Finally, I'd point to the Card, 'cause the card membership is really something that is important to us. Today, it drives around about 25% of all the card volume is in store in the U.S. We're gonna continue to see that expansion. It's all about being customer-centric from that perspective, right? Look, the U.S., we have 11% population penetration.
+In Sweden, we have 85%. In Germany, we have 35%. There's a lot of opportunity for us to continue to grow, in the U.S., right? And ex-U.S., the transaction margin is now at 46%. When you see, when you actually look under the hood under those 26 markets, most established markets are running around about 60%. The whole point is really to continue to expand. It's not gonna be sequential, right? It won't be like, you know, a perfect linear line. Over time, the intent is to do what, in the U.S., what we've done in every other market that's been growing, and that is moving ourselves towards that 60%, transaction margin point.
+## Connor Allen | Payments Analyst, JPMorgan
+That, and some of the dynamics, again, is the ramp between revenue and TMD.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+We should see a lot of that occur in the same way.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, over time.
+## Connor Allen | Payments Analyst, JPMorgan
+Okay. What, maybe just thinking about geographies too, what other geographies are kind of important to you?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+I mean, we've talked about Southern Europe a little bit. Maybe just check in on that.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. Southern Europe's doing great. I think that if I were to leave you with something that I think people, investors maybe don't think too much about, is the massive European opportunity that's growing healthy. We have 31% volume, right? You have 26 markets, you know, very diversified portfolio, primarily charge card equivalent heavy, you know, lower risk set, et cetera. Ultimately, what we're seeing is strong growth in Southern Europe, even the established markets are seeing really strong growth because of the fact that we're expanding the reach through our card and by being in more and more ubiquitous, we have more verticals, right? I think that's a key part of our spend-centric strategy.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. The new disclosures, again, thank you again for that. We were pretty surprised by the growth in Europe in some of these. Like, it included some of your most mature markets where they were profitable. We didn't expect to see the growth continuing even through the quarter.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah, very much appreciate that.
+## Niclas NeglÃ©n | CFO, Klarna
+I think of it as a billion worth of transaction margin dollars t hat are growing at, you know, at like basis 18%.
+## Connor Allen | Payments Analyst, JPMorgan
+It's very impressive. Okay, maybe shifting from geographies to products. You mentioned Fair Financing. Pretty important part of the story. Couple things to ask about. I mean, I'd written down here that it's driving almost a third of growth last year, so obviously an important part of the story. Maybe we could start with, you know, why are these good for Klarna to be doing? Like, what is the advantage to Klarna? Kind of extend duration.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. I mean, it comes back to the spend-centric nature, right? There's a consumer demand, right, that's out there to have one account, one relationship with a multitude of payment methods, right? That you can do your large ticket, your medium-sized ticket, as well as your small ticket with one, right? I think generally speaking, what happens is you start the relationship with a Pay Later charge card equivalent thing, and then you expand, right? That's number one. Number two is that these are qualified, good, healthy customers in general, right? The reality is that the vast majority of all of the loans that we originate for the point-of-sale installments is from returning consumers.
+We know them, we have a relationship with them, and then we're expanding that relationship with them, right? Finally, obviously, the economics are high quality. Overarchingly, like, you know, weâre seeing an improvement in unit economics as the cohorts mature in the portfolio. And thatâs, you know, I think, is natural as you expand the portfolio and it matures.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. The one thing I'm sure you're sick of talking about is upfront provisioning.
+Teaching tech analysts about CECL. Maybe just talk to us, the way I've been kind of trying to conceptualize it is like when do we see this break point of growth kind of overcoming this upfront provision? Is there a time in your mind kind of when we see that? Did we see that in the first quarter? Because provision.
+## Niclas NeglÃ©n | CFO, Klarna
+I mean, like, I think it's one of those things that transaction margin dollars in the U.S., like I said, was up 27%, up from about 6% in the third quarter last year, where we were provisioning a lot for the origination we do. I would look at this as it's not going to be a sequential linear movement in transaction margin from a percentage perspective, right? What happens is that we are a seasonal business, there will be ebbs and flows, in depending on the numerator's involvement versus the denominator, right? I think the way you should think about this is that we will continue to expand our revenue base based on the cohort growth, right?
+I think you're gonna see over time an expansion of transaction margins as a percentage of revenue. It won't be perfectly linear because, you know, you see more activity in the second half of the year. People spend more. We put out more loans, and when we do that, we may provision a bit more. The ultimate thing is that the stepping stones are quite clear. If you look at the disclosures we made now, between the U.S. and global ex-U.S., you can see those trends quite clearly over time.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah, maybe less of a break point and more of a just sequential improvement. Maybe not quarter to quarter over a period of time.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, exactly.
+## Connor Allen | Payments Analyst, JPMorgan
+Seeing improvement. Okay.
+## Niclas NeglÃ©n | CFO, Klarna
+I mean, the whole point is just for to continue to expand the transaction margin dollars.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+Right? Is the key focus area.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. Appreciate that. Okay, shifting maybe to, I guess we could call it a product, maybe more a service, the Klarna Card. You mentioned it being important. 5 million actives now, I think, on the Card. Maybe talk about what the card brings to Klarna strategically. Why, why is it important to you all?
+## Niclas NeglÃ©n | CFO, Klarna
+Sure. I mean, to me, it's core to the spend-centric strategy.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+That we have, right? Ultimately, I see it, I know people call it a product, but it really is a channel because on it sits all of our three different, you know, payment types, right? The purpose here is really to allow consumers to have an additional avenue for ubiquity, right? To be able to spend and use Klarna in whichever way they want. The Debit Flex card, I think allows you to do that. It's debit for most of your purchases. When you need to, it can be a charge card equivalent, right? If you have a larger ticket item, you should be able to do that there as well. It's about having that optionality, right?
+What I see is interesting is that, you know, not only does it unlock that engagement level, but it also unlocks, you know, you see higher levels of deposits because consumers are using us more and more, right? Overarchingly, it's a key element of the strategy, over the period of time. The payback that we see is, you know, I think when we look at the most recent cohorts, the six months, eight, older cohorts, right.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+4x higher average revenue per user.
+## Connor Allen | Payments Analyst, JPMorgan
+Yep. I think I asked on the main call, and I think Sebastian said that you all were surprised about the amount of debit spend, the, like, everyday spending done on the card.
+## Niclas NeglÃ©n | CFO, Klarna
+Yes.
+## Connor Allen | Payments Analyst, JPMorgan
+Has that shifted kind of what you expect the card to be? Did you go in thinking it would be more a vehicle for the longer duration transactions?
+## Niclas NeglÃ©n | CFO, Klarna
+No, we didn't. I mean, the whole intent was really that it would have t his broader, it's a spend-centric view, right? I just think that you're seeing a level of engagement which is driven by kind of the high preference for our product, but also our brand.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. Yeah. You did mention on the call, or at least talked about how there's somewhat of, like, a near-term headwind as the Card is ramping, similar to Fair Financing structure, right?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+The longer term economics are good for Klarna, and up front there's a certain cost burden associated. Could you maybe talk us through some of that and kind of what we're seeing?
+## Niclas NeglÃ©n | CFO, Klarna
+Sure. Sure.
+## Connor Allen | Payments Analyst, JPMorgan
+In the model today?
+## Niclas NeglÃ©n | CFO, Klarna
+I mean, the investment is really sits in the processing and servicing pieces. There's two dynamics of that processing and servicing. One is obviously the Fair Financing installment loans that have higher multiples of repayment touchpoints, right, and scoring costs. That obviously then plays into a higher return overall for that product, right? In regards to cards, similarly there you have issuance cost, you have some underwriting scoring cost up front, right? That is, you know, what we're seeing is that it's being offset over time by the membership fees that you have, et cetera, right? By the higher propensity of spend that the consumer has, right? Like I said before, you know, a card user is about three times higher frequency.
+What we're seeing in the cohorts that have matured at about six months have 4x higher average revenue per user on average, right? You know, I think the payback is very clear, the investment is very clear why we should be continuing to do that. We have 5.4 million customers with a card. We have 119 million consumers, there's a lot of room for us to continue to grow here.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. Yeah. I mean, I think you mentioned was, I'm going off memory here, I think that it was membership fees up something like 600%. I mean, it was.
+## Niclas NeglÃ©n | CFO, Klarna
+Right.
+## Connor Allen | Payments Analyst, JPMorgan
+It was a substantial growth in the first quarter associated with the card. I mean, that comes lockstep with the card success.
+## Niclas NeglÃ©n | CFO, Klarna
+Exactly.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. Yeah. Okay, great. Maybe shifting gears a little bit, wanted to ask about competition differentiation in the space. I think there's perhaps a perception that you versus your competitors, it's hard to distinguish kind of like what differentiation is. Maybe you could talk to us about how when you're working with merchants, what you do to stand out. How does Klarna differentiate versus others-
+## Niclas NeglÃ©n | CFO, Klarna
+Sure.
+## Connor Allen | Payments Analyst, JPMorgan
+conversations?
+## Niclas NeglÃ©n | CFO, Klarna
+On the merchants, I think there's three things that makes a difference, right? It comes a little back to that spend-centric strategy that we have, right? Number one, we have 119 million users in 26 markets. They know us, they love us, they understand us, we understand them. That gives an avenue for these merchants to continue to expand with us, right? Secondly, we have a payment method for every vertical, which means that whether you're a large merchant or a small merchant, you can take the Klarna offering as one package, and you can just, you know, use that with whatever type of product you're trying to sell to the consumer. Thirdly is that we're native to all PSPs, right? Which means that we're available everywhere.
+You're not looking to have to go somewhere else to integrate with Klarna, you're integrating through the PSPs, right? In many of them now we're moving towards default, right? I think those are key elements of that.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. If we have time, I did want to ask you about PSPs. Maybe anything separate on the consumer side. I mean, you've talked through, it is kind of a two-sided dynamic as you have kind of the merchant presence. You talked about the presence among the top 100 U.S., which we've also seen versus others, you stack up quite well. Maybe that's the answer to how you differentiate on the consumer side.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. I mean, two sides of the same coin to some extent.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+I, we think about it internally as three things, right? One is preference. When we sit side by side at checkout with other merchants or with other competitors, right? We see a preference towards Klarna because of the strong brand we built in the 26 markets that we're in, right? Secondly is ubiquity. We're over 1 million merchants, right? We've grown that about 49% year-over-year, right? We see that very clearly that people like us because we're there, we're available where they want us to be, right? Then finally, range, right? Which comes back to the fact that whether you are doing your Uber ride or you are, you know, considering making a larger ticket purchase, we're available there across the spectrum, right? You know, I think that's a key element for us.
+## Connor Allen | Payments Analyst, JPMorgan
+One thing I found interesting just on our side was as we were doing diligence, we learned that most merchants actually don't see much cannibalization. It seems like there's consumers who prefer a brand and kind of stick with them and track you through. It's been interesting on our side to kind of track that behavior.
+## Niclas NeglÃ©n | CFO, Klarna
+Hmmm.
+## Connor Allen | Payments Analyst, JPMorgan
+Okay, great. Thank you. Maybe another question or two on competition. If we think of it over time, would you say that the competitive dynamics today are more intense than they were in the past? You have some competitors who are doubling down kind of in this space, others who are maybe broadening out what they're doing. There's shifts in the market. How would you describe what it feels like today versus a few years ago?
+## Niclas NeglÃ©n | CFO, Klarna
+I mean, I would say competition is always there, right? I think the question for us is to focus not so much on others, but on what we can do, right? I think the spend-centric model that we have has some unique features, right? Which I've gone through, so I'm not gonna reiterate them maybe too much.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+You know, the fact that we're connected with PSPs, the fact that we have every type of payment product to allow consumers to use us wherever they want to use us, right? The fact we're online and offline, I think all those things are helpful, right? That's probably how I'd answer that.
+## Connor Allen | Payments Analyst, JPMorgan
+Okay, great. Just last to ask it, anything you'd call out on pricing?
+## Niclas NeglÃ©n | CFO, Klarna
+No, no, really.
+## Connor Allen | Payments Analyst, JPMorgan
+Overall there.
+## Niclas NeglÃ©n | CFO, Klarna
+I think the only thing one has to appreciate is that if you're running a network with a multitude of verticals, right? You're not gonna have the same pricing set across all verticals, so you're gonna get a flow and mix of those things as we continue to expand. Ultimately, I don't see it as a competitive pricing issue. It's more a question of how do we position ourselves.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+Ensure that we are set up for success in each of the different verticals that we want to win in.
+## Connor Allen | Payments Analyst, JPMorgan
+I mean, in the face of the model, you see shifts as you're moving between geographies, between products.
+## Niclas NeglÃ©n | CFO, Klarna
+Yes.
+## Connor Allen | Payments Analyst, JPMorgan
+Between even mix within merchants. There's natural mix, but it sounds like on a like for like basis, you're not seeing.
+## Niclas NeglÃ©n | CFO, Klarna
+No.
+## Connor Allen | Payments Analyst, JPMorgan
+Aggressive pricing. Yeah. Great. We have to talk about AI. I think it's a necessity at the conference and with Klarna, of course. You were early to kind of deploy AI internally. Maybe you could just kinda catch us up on how it's being used internally, what the advantages are, how you're using it.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+Remind us if you've talked through cost savings or, you know, anything you'd share about that?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah. No, I mean, look, like I'll be brief on AI.
+## Connor Allen | Payments Analyst, JPMorgan
+Please.
+## Niclas NeglÃ©n | CFO, Klarna
+Because I feel like the point for us is our focus is transaction margin dollars and growing the network that we have. Ultimately, AI supports that. It supports both efficiency, product development. You name it's there. I think it ingrains in what we do across everything. Ultimately, it's been supporting the scaling for the last few years since 2022. You know, Q1's TMD grew at 44%, OpEx grew at 3%. We continue to be able to expand and drive operating leverage and scale despite expanding across so many markets and through a multitude of verticals, et cetera. Examples are things like the customer service handling times, product development, and services where you can launch in multitudes of markets at a more cost-effective way.
+## Connor Allen | Payments Analyst, JPMorgan
+I mean, I had written down for another question we'll hopefully get to. Your headcount's down quite a bit. You've leveraged, and it feels like to me that it has at least some part be driven by some of this, you know, usage internally. Definitely appreciate that. If we think about AI externally, agentic commerce, important topic. Accenture was here a few days ago talking about how important it is in their practice to be discussing it with merchants. It's clearly top of mind among your partners and your customers. Maybe talk to us about kind of where you sit. We had an announcement this morning about it. It's clearly moving fast. What would you talk to us about kinda where Klarna is in the world of agentic commerce?
+## Niclas NeglÃ©n | CFO, Klarna
+Yes. The way we've thought about this, it's, whether it's agentic or non-agentic, there's two things you need in commerce, right. You need trust, you need data, and you need a transaction layer. You know, as you go into the agentic world, you know, where we Stripe Link, we announced Gemini, et cetera, right. There's lots of places where it all comes back to the fundamentals. We have a very strong consumer preference. We've got a very strong brand. We got the trust over 20 years. We have the data, 2.5 billion SKU-level datasets, right. Which is kind of ties to what we talked, what the OpenAI announcement was right?
+Then we've got the transaction layer. We are where people want us to be, whether that be Stripe Link, whether that be the wallets, wherever it is, right? Those are really the things, and I think then the, you know, from an agentic perspective, the agent will transfer the preferences of the consumer that it works with. You know, as long as we're there and we're at the forefront of that then w e have a, I think a significant role to play in that. That's how we think about it.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. I mean, it's obviously early days. A lot is happening. As we've done our early work, we've found that consumers will lean more on trust in an agentic world. It feels like early e-commerce where y ou know, the emergence of standard payment modalities in e-commerce were based on trust.
+## Niclas NeglÃ©n | CFO, Klarna
+Which is kind of what we try to Klarna at its core in 2005 when the founders launched, the point was you had a merchant that wanted to sell something and a consumer that wanted to buy something, but they weren't sure about the transaction. We were the intermediary to build the trust there.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+I think we have been doing that for 20 years, and I think we can do that for many more years to come as well because of what we built, irrespective of what form that commerce takes.
+## Connor Allen | Payments Analyst, JPMorgan
+We would probably argue that that form of commerce, agentic commerce, requires even more trust.
+## Niclas NeglÃ©n | CFO, Klarna
+Yes.
+## Connor Allen | Payments Analyst, JPMorgan
+Perhaps puts you in a, in an advantaged position. Okay. I have kind of like a handful of other questions here. We'll just run through some of them. We talked earlier, 2026 is off to a good start. Beat 1st quarter, maintained a solid guide. Maybe you could just talk about visibility into the business. We've talked through all these different dynamics of what's going on. Lots of products for you to consider from receipt, geographies to consider. We talked about merchant. There's so much to consider. How would you describe the visibility that you have today into the business versus maybe six months ago?
+## Niclas NeglÃ©n | CFO, Klarna
+Look, I think we have really strong momentum.
+## Connor Allen | Payments Analyst, JPMorgan
+Okay.
+## Niclas NeglÃ©n | CFO, Klarna
+If you think about it, like we're past that early adoption and ramp of installment financing, right? Again, you know, we're still continuing to grow it. We grew at 138% in the first quarter.
+## Connor Allen | Payments Analyst, JPMorgan
+220% in the U.S..
+## Niclas NeglÃ©n | CFO, Klarna
+The U.S. grew at 220%. Exactly. There's room to grow there, but we're kind of past the starting ramp, right? Transaction margin dollars is around 27% in the U.S. We have stable, improving credit losses, performance, right, generally stable. Like I said, Fair Financing, 36 basis points lower than in the first quarter than it was at the peak in the second quarter 2025. We see really good traction on the PSP rollouts as well as the card. I think, you know, with the transaction margin growth at now 44% in the first quarter, that's gonna be continuously focusing on expanding that. I think we have, you know, like I said, good line of stuff, good momentum towards our overall guide framework.
+## Connor Allen | Payments Analyst, JPMorgan
+Okay. Great. What would you say across all these vectors that we've discussed you are most excited about? You are I mean, the card, the products, the geographies. Like what is maybe the thing that's, I don't know, underappreciated is the question, or what are you most optimistic about?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, I think it's two, yeah, that's two questions.
+## Connor Allen | Payments Analyst, JPMorgan
+Two questions. Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+I mean, I'm excited about all the things we've talked about, right? The four things I started with. I think the foundations of the business is very strong and the momentum is there, right? I think on the long term, I think things that people should really consider is the transaction margin dollar expansion and conversion towards the established markets over time, right? We've spoken about that, you know, over time in the IPO and in other quarters. I think it's something that people might want to spend a bit more time on now that we have some extra disclosures.
+So they can see kind of the trajectory that one can be on, right? The other piece is that everyday spending foundation. I think it is so core to being able to truly engage with the consumer and to have that, right? Having the ability to be, you know, used in whatever the consumer's doing, whatever part of the commerce, is a key element.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. Okay, appreciate that. We have a couple more minutes, so I'll get through some of the others here if you don't mind.
+## Niclas NeglÃ©n | CFO, Klarna
+Yes.
+## Connor Allen | Payments Analyst, JPMorgan
+You mentioned the PSP channel.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+Obviously an important part of the story. We've had an announcement this week from Worldline. I think, you know, you're live with Stripe and Nexi, I believe, and then JP Morgan and Worldpay are scheduled for this year. Obviously important kind of distribution angles.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+Just catch us up on maybe the progress. I did have a follow-up on it.
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah, sure. I mean, a million merchants, 49% up year-over-year.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+I think speaks for itself to some extent about the progress that we're making. What I find so fascinating is that we're still only skimming the surface of this, right?
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+Because we have a payment method that's for every vertical, right? We can really attack $10 trillion roughly of spend across these different PSPs, right? I think with JP Morgan coming online, et cetera, it will take time, as it's still taking time with Stripe, to really get further and further into their huge networks, right? I think to me, this isn't a multi-quarter growth only, this is a multi-year growth thing that I think is so critical and what underpins the specificity of our network and our ability to continue to grow with these great partners.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah, I we've seen the merchant count accelerate, like you said. It's probably reasonable to assume there's a, you know, you first, you work with the PSP, they distribute to the merchant, and then you'll see a ramp, and then that whole process will expand across multiple PSPs. That's the multi-year ramp that we're talking about.
+## Niclas NeglÃ©n | CFO, Klarna
+Exactly. Exactly.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah. Yeah. How would you frame how this new mode of distribution, particularly if you're default on, has changed the way that you're interacting with the end merchant? Has that relationship changed pretty materially?
+## Niclas NeglÃ©n | CFO, Klarna
+No, not really. Like, ultimately, like, they still see the Klarna product, we're still helping them with servicing, the consumer still sees the same activity, et cetera, right? From our perspective, I think it's, you know, we continue to be able to drive the brand and the performance of that and keep close to both partners.
+## Connor Allen | Payments Analyst, JPMorgan
+Okay, great. I have one more for you, Niclas, if you don't mind.
+## Niclas NeglÃ©n | CFO, Klarna
+Sure.
+## Connor Allen | Payments Analyst, JPMorgan
+Going back to your roots in financials. Klarna's funding model.
+## Niclas NeglÃ©n | CFO, Klarna
+Yep.
+## Connor Allen | Payments Analyst, JPMorgan
+If you could just kind of discuss with that. Obviously, you have the deposits in Europe, which you've talked about. The advantage that you have there. What other options do you have?
+## Niclas NeglÃ©n | CFO, Klarna
+Yeah.
+## Connor Allen | Payments Analyst, JPMorgan
+How its forward flow model been? Catch us up on that.
+## Niclas NeglÃ©n | CFO, Klarna
+Sure. Okay, cool. Look, I mean, I want every tool in my toolkit, the backbone of this is really the deposits.
+## Connor Allen | Payments Analyst, JPMorgan
+Yeah.
+## Niclas NeglÃ©n | CFO, Klarna
+Right? The deposits fund about 90% of our balance sheet, right? The deposits are totally fungible between the U.S. and Europe. In fact, we've grown most of our growth in the U.S. has come over the years through the deposit base, through practically all of it, right? We have then launched the, you know, number of forward flows over the last couple of years. Again, I would put a plug in for my recording online because I think we go through quite in some detail like how the economics work for forward flows, whether they be installment Fair Financing forward flows, or Pay Later forward flows.
+The dynamics are slightly different, right? And how that impacts the P&L, et cetera. Ultimately, we wanna have all tools in our toolkit, right? That's what we're doing. We have the SRT, which is a synthetic securitization as well. We've been doing a multitude of these things. We do senior secured debt issuance, et cetera. We have an investment-grade credit rating from S&P. So we will continue to use all those different tools. At its foundation is that stability of the deposit base, primarily savings deposits. Average tenor is 270 days, and compare that to our lending, which is about 39 days tenor. So it just means that we have a very, very strong and very stable and cost-efficient funding model.
+## Connor Allen | Payments Analyst, JPMorgan
+Amazing. Thank you for coming out, Niclas.
+## Niclas NeglÃ©n | CFO, Klarna
+Great. Thanks for all the questions. Appreciate the chat.
+## Connor Allen | Payments Analyst, JPMorgan
+Kicking off the last day of the conference. Thanks again.
+## Niclas NeglÃ©n | CFO, Klarna
+Thank you.
+## Connor Allen | Payments Analyst, JPMorgan
+Thanks.
+Data Source: Quartr Last updated: May 20, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

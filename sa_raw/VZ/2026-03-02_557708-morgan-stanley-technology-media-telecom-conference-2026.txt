@@ -1,0 +1,182 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-02
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+All right. Okay, good afternoon. Ben Swinburne, Morgan Stanley's telecom and media analyst. For important disclosures, please see the Morgan Stanley Research Disclosure website at www.morganstanley.com/researchdisclosures. If you have any questions, please reach out to your Morgan Stanley sales rep.
+Really excited to welcome to the conference, he's been here before, but not as a member of and leader of Verizon, Dan Schulman, who has been Verizon's CEO since last October. Has been on the board since 2018. Previously CEO of PayPal, other leadership positions at AT&T, Priceline, Virgin Mobile, and American Express. Dan, thank you so much for coming. I believe you have a safe harbor you at least wanna reference.
+## Dan Schulman | CEO, Verizon
+Yeah. Obviously, I'm gonna be talking about things in the future, which always have some degree of risk in it. I would reference the safe harbor statement for all of you.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Okay. With that out of the way, you moved from the board to the CEO role last fall. Can you talk about what excited and motivated you to make that change and how you have defined your sort of first few months leading the company?
+## Dan Schulman | CEO, Verizon
+Well, truthfully, I wasn't excited about it. I was very happily retired. I was on our ranch with my wife in Montana, trying to live up to a cowboy work ethic, which, by the way, puts all of our work ethic to shame. I mean, I love my wife madly, and the more time I spend with her, the better. This was not a job that I aspired for or politicked for, despite what you read in the papers. We had to do something. You know, I was on the board for seven years. I was the lead director for a year or so before we made the change. We were at a critical inflection point for Verizon. You know, we had been losing market share pretty consistently for five years in a row.
+Our stock was down over 30% in that five-year timeframe. You know, we had gone from first to last in market cap in our industry. Our churn rate was up dramatically due to a lot of self-inflicted wounds. Our forward PE was, you know, reflected what everybody thought our growth would be.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+What I saw is the opportunity to make a real difference in an iconic American company. You know, I've been in the telecom industry for two decades+ . I ran AT&T's consumer division. I ran Virgin Mobile, you know, and five years or six years we put on 6 million+ customers. I felt like I could make a difference in it. I convinced my wife of that, I have to say, you know, five months into it, I could not be more excited about being in this position. I feel like all those opportunities are turning into realities right now, you know, we have a long road ahead of us, we're well on our way right now.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+That's great. We're gonna talk a lot about the opportunities ahead for Verizon. I'd love, Dan, if you could just talk a little bit first about the industry. You know, this audience has a lot of investment options across TMT. How would you describe kind of the big picture trends in the U.S. telecom industry and why it's an attractive, potentially attractive investment opportunity for folks?
+## Dan Schulman | CEO, Verizon
+Well, I think connectivity, you know, is one of the most demanded elements in our economy. I would say, you know, this is probably one of your most intimate devices. You take it to bed with you. When you go out to dinner, you put it on the table next to you. Too many of you take it into the bathroom with you. I mean, it's just like this thing is intimate and is always with you. There's more and more connections to it. There are more and more devices connecting into that connectivity. You have a huge demand for it. You have anywhere between 5 million and 6 million new people coming into the industry every single year. You have convergence happening right now, where you've got, you know, both broadband and wireless now coming together. That's a huge opportunity for us.
+I think on the demand side. You've got all the AI infrastructure.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Dan Schulman | CEO, Verizon
+that's happening right now, all the dark fiber that we have in the ground. Like, we don't talk enough about what that might do in the future, but it's a huge opportunity as well. I would just say, as you drop from the demand side down to the bottom line, I'll talk about Verizon, but I would submit this as an industry-wide thing. We're massively inefficient. There's so much more efficiencies to mine out of our operations, and that's not all just due to, you know, more efficiency and better customer satisfaction that you can get by the implementation of AI, and we will be an AI-first company. Just over the years we've grown inefficient.
+You know, we think that, you know, the only tool we have is a hammer, and that nail is basically a free phone that we give away. You know, I'll give you one example of, like, inefficiencies. Like, if somebody calls us, you know, and we're worried they're gonna churn because they call us and say the service is great when they're traveling to their company and at their company, but in their home, they don't have the connectivity that they would like, we give them a free phone because that's all we know how to do. That costs us about $1,000, and when we do that, it's a customer who's upset with a free phone. We could, for one-fifth the cost, give them a femtocell in their home and make them a happy customer.
+Like, just take that one example and multiply it times hundreds and the amount of efficiency to be wrought out of this industry and bottom-line profitability improvement is actually quite immense. I'm excited about it both on the top-line demand side, as well as at the bottom line.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+I know you've been busy and the team's been busy since you stepped into the CEO role. Talk a little bit about the kind of foundational changes you're trying to make in the organization to get Verizon, you know, where you want it to go.
+## Dan Schulman | CEO, Verizon
+Well, there are probably four or five things that I'm focused on. I mean, the first was to be massively blunt and transparent inside the company. I mean, first thing you have to do is admit you have a problem. You know, I wanted to be very upfront with the company that we could not be complacent, that we were losing in the market. Losing is unacceptable, that I was there to win in the market, that Verizon was no longer willing to cede market share, that we were gonna grow through volumes, and we were gonna have a sustainable top line that didn't come from short-term revenue, you know, price increases without corresponding value to it. That was all about, like, going head-on into the culture of Verizon.
+We were too bureaucratic, too hierarchical, too process-focused, not outcomes focused, we didn't move fast enough, we're risk-averse. I will say, you know, the company really reacted to that. I have no tolerance, honestly, for anything but that. You know, we have a saying inside Verizon now that every day matters, and I firmly believe that.
+Every day matters. If we aren't getting better every day, and I wanna measure that, then we are falling behind. 'Cause anytime the pace of change external is greater than the pace of change internal, you're falling behind. Seizing the wheel and just saying, like, we need to recognize where we are, we need to believe in what we are doing and what our future looks like is essential. Second thing was rallying around being a customer-obsessed organization, not a network engineering organization.
+Look, I believe in network excellence. I believe in having the best network, that is not where it's at. This is about what are the pain points that our customers have? What is the value proposition that we can put in front of them that delights them? What are the friction points we can take away? That's how we reclaim our market leadership. Third thing was all around the cost side of it. You know, I told people when I first came in that I was gonna be aggressive on that. I think people maybe semi-believed that I was gonna be aggressive, but we took out $9 billion of cost, $5 billion in OpEx, $4 billion in CapEx.
+That has funded a war chest for us to invest back into our value proposition so that our value proposition is the best in the marketplace. I feel if we do that we will start to lower our churn, and I feel like lowering churn is a massive opportunity for us. It is the most profitable way to grow.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Dan Schulman | CEO, Verizon
+Every basis point that we lower churn is the equivalent of 90,000 incremental net postpaid adds for us. you know, we've done that, and I will tell you that we are at the very beginning of that. For those of you who doubt that, I would just say watch this space. Like, we have multiple billions of dollars to take out of this company year after year after year in terms of cost efficiency. I would say the next thing after that is I'm very focused on convergence. We have 30 million homes passed now with fiber. We're gonna get up to 40 million-50 million in the medium term. A lot of that came from our Frontier acquisition. We have huge opportunity to grow through that. We are very under-penetrated in the Frontier territory with wireless services.
+We're gonna cross-sell into that. Like, you know, we've got 1 gig - 7 gig of speed with fiber that we can offer to consumers right now. We're gonna really step on the broadband gas pedal. Any time we bundle customers together, there's a 40% reduction in churn versus standalone wireless. To me, that is a huge opportunity. Finally, you know, all of you know, saw this at our last earnings call, we are re-looking at our capital structure. You know, I have maximized our cash flow right now. You know, for the last five years, our cash flow average growth rate has been -1%. We guided at least 7% + growth this year, 21 and a half billion USD.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Dan Schulman | CEO, Verizon
+We'll invest in the business with that. We raised our dividend again for the 20th straight year, and I don't wanna be the CEO that doesn't do that every single year going forward. That is an ironclad commitment for us. We are returning capital to shareholders now, $25 billion over the next three years, at least $3 billion this year. We are gonna delever. We are gonna get to our 2.0-2.25 leverage ratio, you know, within the next 12 months -18 months after the acquisition of Frontier. We have a really strong balance sheet. That balance sheet is going to get stronger. Our cash flows are going to get stronger. Those are really the priorities I'm focused on right now.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Great. That's a really helpful overview. You mentioned churn and growing subscribers and taking share and not losing share. You guided to higher net adds, retail postpaid net adds in 2026 versus 2025 across consumer and business. We were chatting earlier about sort of what is the market looking for, you know, from Verizon. I think one of the questions we get a lot is, well, if Verizon has the highest ARPU and therefore maybe the highest prices in the market, how do you grow market share in a competitive wireless sector? Maybe you could talk a little bit what you think are the levers to grow sales, lower churn, and do so in a way that's, you know, CLV, you know, attractive.
+## Dan Schulman | CEO, Verizon
+There's about 25 questions in there. Let me start off at kind of a high level. You know, we got it to 750,000-1 million net postpaid phone adds. Honestly, it's 2x-3 x what we did last year. In that way it's impressive, but in the great scheme of things, I hardly consider it heroic. You know, there's gonna be 5 million-6 million net new-
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah
+## Dan Schulman | CEO, Verizon
+coming into the industry. That's maybe 10%-15%, you know, of the net new in the industry. You know what I am encouraged by is, you know, everyone has accepted that the fact that Verizon is going to grow now and we are gonna put on volumes on top of that. Obviously, we'll put on million+, you know, much more than 1 million+, you know, broadband, and then we've got postpaid. We're gonna put on a good amount of net adds, and that will help, you know, grow our top line in a sustainable fashion going forward in addition to new value-added services we're gonna do. I think it's a very doable, very responsible number to put out there.
+I think the way that we're going to do it, and you know, I'm putting a lot of money behind the customer experience, is, you know, we're gonna take our churn down this year, I hope by at least 5 basis points. You know, if you take our churn down by 5 basis points, we're halfway already to our target. What that means is if we're halfway to our target with churn reduction and, you know, I feel pretty good about that, then we're gonna be very fiscally responsible because, you know, we don't really have to use a lot of promotional dollars to drive the other half of that. I think we can just be much more surgical and targeted in terms of how we acquire customers. My view is I'm focused on net adds.
+I'm not focused on gross adds. Like, gross adds are easy to get. They honestly are easy to get.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+You just spend a lot of promotional money to go do that. I have a word just to go do it, but that's not what I'm doing. I'm gonna be very fiscally responsible. I'm gonna be very conservative about what the top of my funnel looks like because I think I can take the bottom of my funnel and shrink it. That is a smart way of getting at your growth. Look, we're gonna focus on churn in three different ways. The first thing, the number one reason why our customers churn by far and away is price increases without corresponding value. This is one of the reasons why I felt like we had to make a change, you know, leadership here at Verizon, is because for the past three years, we've done something like 30 price increases-
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm.
+## Dan Schulman | CEO, Verizon
+without corresponding value. What does that do? That does something in the short term. It raises your revenues and maybe your EPS, even though our EPS has actually grown at negative 1%, you know, for the last five years. It does nothing in the medium to long term. In fact, it's actually counterproductive.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Sure
+## Dan Schulman | CEO, Verizon
+-to it because you lap those price increases, you have higher churn that's going on, and it is counterproductive to having a sustainable long-term strategy of growth. You know, as I said on our last earnings call, the first rule of getting out of a hole is stop digging. We're not gonna do price increases without corresponding value. I'm not against price increases, by the way, just to be clear, but there has to be value associated with it. I believe by not doing that and, you know, I have some proof points that you'll start to see churn come down as a result of that. Second is friction in our process.
+If you come into our store and two hours later you have not been able to activate your phone, and you walk out of the store without your phone, and we promise to get it to you, like we're starting off the relationship on a bad, you know, initial footing. You know, if you get a bill, your first bill, and it doesn't reflect what you think the promotion offered you or whatever it may be, it's a terrible experience.
+If you call in to us sometime over your lifetime and we transfer you from one place to another, again, a terrible experience. We have taken out of that $5 billion, you know, quite a chunk of money to go after with Tiger Teams, establish 12-month, 24 -month , 36-month targets for each of those to go after every single one of those pain points.
+I am ruthless about it, right now. Just ruthless. You know, every day I want to see how we're improving on those things, and I'm pushing the teams hard on it. Finally, convergence is a great opportunity for us. The more people we put on converged offers.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Dan Schulman | CEO, Verizon
+40% less churn that happens with that, the better off we'll be. There's a real path to it. We have to keep executing, but I really like what I'm seeing so far.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+That's great. Obviously, a lot of stuff that you're focused on internally. In the backdrop, it's been a competitive environment. I think the investor view is it's gotten more competitive over the last year. I don't know if you would agree with that, but any thoughts on how you would describe the competitive backdrop here that you're operating in inside of the first quarter?
+## Dan Schulman | CEO, Verizon
+The first quarter, are you asking about?
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+No, not really. You know, I feel like actually we're doing pretty well in the first quarter and doing it responsibly. In general, I think the industry is acting quite rationally right now. I know we are. You know, we're a big part of it. You know, I know everybody thought I was crazy coming in, you know, because I was like, "This does not work for Verizon the way it's going right now." I think, you know, what I'm seeing right now is industry where all of us can grow, all of us can be more profitable. That's what we are focused on.
+I think we, and you know, we're a big part of the industry, we're gonna be much more rational about how we think about where value should be added.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Dan Schulman | CEO, Verizon
+How much value we give away to other players in the ecosystem versus keeping ourselves. I wanna be very thoughtful about it, very rational about it. I feel like, you know, the goals that we set out for 2026, although they are step function improvements from where we've been, they're just the starting point for where I think we can be over the next couple of years.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+I want to shift over to the broadband side of the business in a minute, but I want to ask you about direct-to-cell connectivity in the context of adding value to your customers. SpaceX presented earlier today. There's a lot of focus in this area. What's your message to investors on satellite connectivity, direct-to-device, you know, sort of, value to the consumer or new competitor? How do you look at it?
+## Dan Schulman | CEO, Verizon
+Well, right now, we cover about 99% of the areas where people work, live, and play. We've got pretty good coverage. I do think that the opportunity to work with some of the satellite companies, and I've spoken to all of them, to be able to give an offer to our customers where we say, "You are never without service.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+I think that's real value added. I mean, you talk about, like, how could you add value? Where could you know, raise prices with incremental value? To me, that's super offer, but there's a lot that needs to get done. Like, the handset folks need to work with us. We need to really figure out, you know, how easily that switches back and forth.
+We need to make sure that the quality of that service is where we want it. Right now, terrestrial, like, just, like, that is the best connectivity and speed and everything by far and away. I think, you know, as I look at industry structure personally, you know, I think we understand it really well.
+I think, you know, we're very thoughtful about it and, you know, we know the ecosystem that we think is best for Verizon, and we'll be very disciplined around it.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Got it. Okay. You recently closed on the Frontier acquisition. Congratulations on that. What does this business and these assets bring to Verizon when you sort of fold it into your long-term growth plans?
+## Dan Schulman | CEO, Verizon
+Yeah. Honestly, I couldn't be more excited about the acquisition, closing. That was not a easy thing to close, and we did it. You know, it's taken our fiber footprint to over 30 million homes past. Right now, we wanna build that out over the medium term to be at least 40 million or 50 million. We're gonna do at least 2 million homes past incremental this year. To me, you know, one of the big growth opportunities for Verizon is in convergence, and that convergence can be either with Fixed Wireless Access or fiber. I mean, fiber gives, you know, speeds up to 7 gig. Nobody here needs speeds up to 7 gig, but it.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+it provides it. Fixed Wireless Access, where we don't have fiber, is a really good alternative, and we're doing quite well on that. In fact, you know, we have more open for sale coming into this year on Fixed Wireless Access than we did going into last year.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Sure.
+## Dan Schulman | CEO, Verizon
+you know, I'm really pleased with the capacity that we've put on into the network around that. I do think anytime you can bundle together, you have higher lifetime values. I mean, much higher LTVs. You have both the broadband part of it, and the ability to upscale that and price that up. Then you've got the wireless side, where you have a lot less churn, 40% less churn. Convergence offers us the opportunity to grow and the opportunity to retain. So it's a big deal for us.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+You guys are going to be building a lot of fiber over the next couple of years. Can you talk a little bit about ramping up that organization? I guess you're bringing on a new organization and maybe just compare the Fios, legacy Fios opportunity relative to what you just bought with Frontier as we think about the next couple of years in fiber builds?
+## Dan Schulman | CEO, Verizon
+Well, we know how to build fiber. I mean, you know, we know the whole regulatory process to do that. You know, I was talking to members of the administration who are really quite excited to help us.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Dan Schulman | CEO, Verizon
+to lay more and more fiber. I mean, it's better for, you know, critical infrastructure for the United States. It's better for customers. It, you know, is massively helpful as we go into the age of AI as well, whether that be with our commercial customers, the hyperscalers or our consumers. This huge opportunity in doing that.
+We'll do that organically. We have partnerships that we're quite happy with that'll help on some of that build-out. You know, we've done some acquisitions, like a smaller one called Starry, that helps us get into MDUs, multiple dwelling units, more effectively. There are all sorts of ways that will accelerate our move into fiber, and we'll continue to add capacity and make sure we have room for more and more fixed wireless as well.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+I was going to ask you that next. When you think about the long term, Dan, and you've got more and more fiber coming on, how does fixed wireless fit in? You know, how do you think about customer segmentation and sort of bringing the right product to the right customer?
+## Dan Schulman | CEO, Verizon
+You know, where there is fiber, you know, that will be our initial choice, for broadband connectivity for our customers, just because the speeds.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm-hmm.
+## Dan Schulman | CEO, Verizon
+are so much better. You know, Fios plays right into what we're doing with Frontier, and I couldn't be happier to get the Frontier workforce into us. They're I gotta give them a ton of credit.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+Like, you know, they went through bankruptcy. They came out of it. They executed in a time of uncertainty in a way that was extraordinary.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+They are scrappy. They are hard charging. I love their network folks, and we're learning a lot from them. They're learning a lot from us. We're going to come together. We've got a ton of opportunity to learn and get better at installing fiber. We obviously have a ton of opportunity in terms of synergies. You know, we said we're going to do, you know, instead of $0.5 billion, $1 billion of synergies off of that. That doesn't even include, like, you know, the fact that our cost of debt is way less than theirs. We're retiring their debt.
+There's all sorts of things we can do together, from go to market to learning from each other, to common systems, to leverage back on access costs that make that acquisition and our whole convergence and broadband strategy, one that gives me a lot of confidence about the future.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah. One area that all this fiber certainly helps is on the commercial or the enterprise side. You touched on it a couple of times, hyperscalers, AI, big theme at this conference. How do you advise us to think about Verizon's opportunity to participate in all the investment that's happening around connectivity and AI?
+## Dan Schulman | CEO, Verizon
+Well, I don't talk enough about it, honestly.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+That's my fault. That is not. Kyle Malady, who runs our business group, is doing a unbelievable job right now. He is killing it. First of all, he's got a lot of the wireline stuff in there, where we lose, you know, $1 billion to a billion and a half of margin.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Mm.
+## Dan Schulman | CEO, Verizon
+Over the next 1 year-3 years, we will either sunset all that, exit it, look at different structures, where we can free up all that $1 billion-$1.5 billion of incremental margin on top of the efficiencies that I talked about. Also the opportunities now in the business segment, in the commercial segment, as more and more companies are looking at how do we use AI. Like, we're going to do that inside Verizon. Every company is going to do it. I have, you know, strong thoughts about it, and I've been very public about those. The opportunity to use our embedded assets, we have a ton of dark fiber.
+You know, more and more of the hyperscalers are looking at, you know, not just building out data centers, but how do you cluster those data centers? How do you tie them together? Really there, you need amazing connectivity to go and do that, and we can offer that. We are working and have in place with several of the hyperscalers that connectivity, and that's only going to grow, but it's also going to grow on the commercial side. I see a ton of top-line opportunity for us on the commercial side, and I look forward to talking about that more.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+That's great. Let's shift over just to a little more on the, on the efficiency front. You mentioned that a couple of times. You guys have taken a lot of cost out. You haven't guided specifically to EBITDA, but you've mentioned you want to grow ahead of the 4%-5% target you set for adjusted EPS. What are the levers? You mentioned $9 billion earlier. That's a big number for any company of any size. How do you find those kind of efficiencies? What are the levers you're pulling that you think will not slow the company down?
+## Dan Schulman | CEO, Verizon
+I think quite the opposite. I think it's actually gonna speed the company up. Look, over time, you build up a bureaucracy, you build up... You know, I'm very strict on, like, performance. To me, I have no time to admire problems. I wanna know what is the timeframe that we're going to fix something and what the results are going to be. Like, process, I think, like, I'm not coming down on process or anything. I wanna be thoughtful, I wanna be rational, I wanna be analytical, but I like results. You know, for me, this is about do we have the right people in the right places focused on the right things? You know, we took out 13,000-14,000 people.
+We took out a whole heck of a lot out of our contracted workforce as well. That was step one. That was relatively easy to go and do. You know, step two is we strip out complexity. That frees up a ton of resources, and step three is we automate what's left. I feel like we want to be the most efficient telecom company in the world. There's so much opportunity out there. Right now it's just, We are at the beginning of that journey. I know it looked like it was, you know, a lot, but like on CapEx, people are like, "Are you sure $60.5 billion is enough?" I'm like, $60.5 billion is a hell of a lot of money.
+Puts us Outside of people who are investing in data centers, puts us as, like, one of the top 10 investors of capital and infrastructure in the country. Honestly, I agreed to it because, you know, it was a cut, but, like, we've got to be way better than that. By the way, I will not sacrifice for a moment anything around network excellence in our broadband and our wireless networks. I will not do that.
+But we can be ever more efficient there, and we can be way more efficient in our operating expenses. I mentioned something like, you know, like, you don't have to give away a phone for everything. Like, that is thousands of dollars. Like, our cost of retention, our cost of acquisition can come down substantially, and you will see that.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Yeah.
+## Dan Schulman | CEO, Verizon
+as we go through the year. You will see it.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Great. All right. Well, maybe in the couple minutes we have left, I want to make sure we hit on capital allocation. It's an important part of the Verizon story. You announced plans to buy back at least $3 billion in stock this year as part of a three-year, I think, $25 billion buyback plan. Talk about your approach to capital allocation as you weigh buybacks and dividend growth against investing in the business and reducing leverage.
+## Dan Schulman | CEO, Verizon
+Yeah. Well, as I said, our number one priority is invest back in the business. Like, the way that I think about our business model is I wanna have top-line sustainable growth, and that's going to come from volumes, not from empty price increases. It's gonna come from volumes, it's gonna come from convergence. It's gonna come from added services that we add on top of that.
+That can keep our top line growing substantially over time in a responsible, sustainable way. I wanna be the most efficient. I want to take out costs continually. That to me is pretty straightforward to go and do. I want to buy back my shares. Like, if you think about that, what I think we can do is, like, grow our bottom line.
+I know you want adjusted EBITDA, but I like adjusted EPS.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+I like adjusted EPS.
+## Dan Schulman | CEO, Verizon
+Yeah. Okay, good, because that's what we're gonna be guiding on. I think we can take that and just start to grow that and grow on top of growth year after year after year for the foreseeable future. You take that with a free cash flow that I intend to increase as well through these efficiencies and top-line growth.
+Our dividend, which, you know, is, you know, a good paying dividend, and we're committed to that. On the dividend, what's really important is this is the highest in terms of the money we'll spend on our dividend. It will peak here and go down from here even though we're gonna increase because we're buying back shares now.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Right. Right.
+## Dan Schulman | CEO, Verizon
+I think that's really healthy for our balance sheet as well. I think, you know, our capital allocation makes sense to me. We have plenty of flexibility, by the way, in our balance sheet to do acquisitions if we wish to do that, to go after spectrum, if that makes sense for us, versus network densification. I feel really good about our capital allocation plan right now, but within the context of our overall business model.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Great. Well, Dan, we're out of time. Anything you want to wrap up with for this audience before we close it out?
+## Dan Schulman | CEO, Verizon
+No. Ben, thank you. I appreciate it. Thank you, everybody.
+## Ben Swinburne | Managing Director and Head of U.S. Media Research, Morgan Stanley
+Thanks, everybody.
+Data Source: Quartr Last updated: Mar 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

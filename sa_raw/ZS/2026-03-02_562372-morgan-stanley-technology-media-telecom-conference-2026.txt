@@ -1,0 +1,359 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-02
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Literally, since I have to read these disclosures, and I think you would all rather hear from Zscaler. For important research disclosures, please see Morgan Stanley research disclosures website at morganstanley.com/researchdisclosures. If you have any questions, please reach out to your Morgan Stanley sales representative. I'm Meta Marshall. I cover cybersecurity here at Morgan Stanley. I am delighted to have Zscaler here today. Jay Chaudhry, CEO, founder, multi-hyphenate, and then Kevin Rubin, CFO. Maybe let's just kind of circle maybe to start with before we go high level on fiscal Q2 earnings. You reported 25% ARR growth, 21% organic. You raised full year ARR targets organically, but maybe organically it was viewed as a step down from fiscal Q1 results.
+Where did you see the strength in the business in fiscal Q2, and what left you kind of encouraged for the rest of the year on both businesses?
+## Kevin Rubin | CFO, Zscaler
+Yeah, I'm happy to start. You know, there was a couple, a few things with respect to the first half that I think is notable. First, we mentioned we had a record number of $1 million deals for Q2, which I think just underpins, you know, the transformation that we've made in our go-to-market. That was, I think that was a really good proof point. We also talked about Z-Flex, which is our flexible buying vehicle for our customers. We did $290 million in TCV bookings in the quarter with Z-Flex.
+Since we launched the program, we have about $650 million in TCV under the Z-Flex program, which again, if you think about what it represents, it's longer term, larger deals that our customers are making with Zscaler. Another area, I think that just underpins some of the strength that we're seeing in the business. To your point, I mean, we did see, you know, strong growth in the first half of the year. You know, my comment would be that, you know, we did raise the Net New ARR expectation for the year, and it was reasonably consistent with the performance thus far. I think we're feeling really good as we go into the back half and what we can do.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Got it. Jay, I know you addressed this on the call, just given how topical it is, you know, what do you think investors are missing right now about kind of this dialogue around whether AI can replace cyber versus kind of the discussions where it had been, which is that you need cyber in order to have AI?
+## Jay Chaudhry | CEO and Founder, Zscaler
+For us, AI is net positive opportunity.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Right.
+## Jay Chaudhry | CEO and Founder, Zscaler
+To deploy AI security, you need to secure AI.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Unlike many other technologies, AI can be a very dangerous tool.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Right.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Hackers are embracing AI faster than enterprises are. When I talk to lots and lots of CIOs, they're all doing some kind of projects out there.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Right.
+## Jay Chaudhry | CEO and Founder, Zscaler
+They're all nervous about rolling them out. They really look at two things. One, tell me what AI use is happening in my company.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Understanding of getting visibility and risk associated with that. As they're building applications, they want to do testing, vulnerability assessment, so Red teaming type of tools are needed. When they deploy them, then they want some guardrails to make sure those applications and models aren't abused. That's 1 product set, maybe call it solution we launched on January 27th. We call it AI Protect, integrated, comprehensive, so they can get moving with it. The next thing they're all excited about is AI agents because they think that AI agents can give them the productivity that's needed. That creates a whole new kind of challenges. Traditionally, a user has been the weakest link from cyber point of view. It's very much expected that AI agents will be the weakest link. Imagine agents getting hacked or hijacked in your enterprise.
+They have access to all kind of applications and services. Users move slowly, agents move on the dime. Users are thousands, and agents will be millions.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Right.
+## Jay Chaudhry | CEO and Founder, Zscaler
+They want to make sure there's a policy engine that can really allow right agent to access right application or talk to right agent.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+That's our core competency. We are very excited about it. We are talking to lots of customers. We have a growing pipeline.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Got it. What we found in our checks, kind of despite some of the negative commentary around AI, is that you're finally seeing kind of broader SASE adoption that's being spurred by AI. Just, you know, beyond kind of this, the visibility and the APT protect, just what are you seeing as the biggest catalyst today for organizations maybe moving from kind of one piece of SASE to kind of a broader SASE adoption?
+## Jay Chaudhry | CEO and Founder, Zscaler
+First of all, SASE is a catch-all phrase.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+It's kind of open buffet. You pick whatever you want to pick. We like to talk more about Zero Trust security.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+That's what's trying to break security. The security is broken because we have been doing it by trying to secure the network by building firewalls and VPNs around. When Zscaler came on the scene and we said, "Forget firewalls, forget network security. You don't need to trust the networks. You don't need to trust the users. Everything is untrusted. Zero Trust.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+You give this much trust, you can access application A or B or C without being on the network. The first part of Zero Trust was users. Users being able to access certain applications. The next part became workloads. Workloads are similar like users. They talk to internet, they talk to each other. Very natural for us to extend our Exchange for workloads. What's being done in the workload area so far? Same thing that has done for 25 years. Virtual east-west firewall, virtual north-south firewall. This is the next phase we brought. The third phase we brought is Zero Trust for branch offices. A typical compromise happens this way. A single infected machine in a branch office gets compromised, the malware moves laterally in this mesh network, brings everything down. In the world of Zscaler, you don't have lateral movement, you don't have mesh network.
+Every device on the branch talks through our Exchange-
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+-to users, to workloads, to branches, and the next phase is agents.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+We think it's a wonderful opportunity.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+You addressed this on the call as well. You know, Zscaler continues to lead in market share gains for SASE. Our checks continue to kind of point to strong positioning, yet we get questions about the number of competitors in the market. Have you observed any changes in win rates or kind of the competitive landscape around SASE?
+## Jay Chaudhry | CEO and Founder, Zscaler
+In the large enterprise space, which is our primary segment, that's about 20,000 employees, if anything, I would say the competition has become less. Why do you say that? These large enterprise customers, the CIO, CSOs, they all know us. They understand what we bring to the table, and they also listen to some of the competitive story where underneath it's virtual firewall sitting around.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+They see the difference, and they're pretty savvy. There's less. When you go downmarket, there are more competitors out there.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+I can tell you that any of these new competitors coming in, having talked to hundreds of large customers in the past few months.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+haven't really seen any increase in competition there. The biggest focus from CIO is, one, I want to remain safe. Give me Zero Trust and help me secure my AI initiatives. Number two, can you do it with greater ROI and remove some of the cost out of it? We are able to do both. A firewall company won't do that even though they try to talk to a platform.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+The biggest spend in security still is firewalls.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Right.
+## Jay Chaudhry | CEO and Founder, Zscaler
+They have to cannibalize it. We'd like to cannibalize it. They don't. We are able to go out, take some of these products out, make the case very compelling. That's what's driving our growth.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Got it. you know, we've had kind of additional discussions over kind of the past months about seat-based models. You know, SASE has traditionally been a seat-based model. You guys talked about 25% plus of new bookings being non-seat based for fiscal Q2. Just how do you think about kind of that overall value proposition to customers and kind of what that method of charging for it should be?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yes. Traditionally, most of our business has been seat-based.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+For ZIA and ZPA, but also some of the business has been non-seat based. When we do guest Wi-Fi, there's no fixed number of seats.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+It's charged based on the traffic flow. When we charge third party contractors, suppliers, and customers, that's not a fixed number of seats, that's linked to traffic. We have had those things.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Then you go to the next level. Take some of Zero Trust workloads. Workloads, it's based on number of workloads and amount of traffic. Take data security. We have 8 modules. A couple of those modules are based on number of users, but many of these modules aren't linked to users. When I do data discovery around terabytes of data or I classify it's not linked to users.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+This piece of the ARR has been growing steadily, and it got to 25%. I thought it's a good milestone. We expect it to keep on growing. The biggest new growth factor in this area will be two pieces. One is AI security products.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+which is about red teaming to guardrail all the stuff. That's all based on tokens, essentially.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+AI Security Suite or agent security.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+They'll be all token-based.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Okay. You know, we've spent some time talking about AI Security. We've spent some time talking about Zero Trust everywhere. You know, kind of that third growth pillars has been the Data Security everywhere. Those three businesses have now kind of crossed the $1 billion in combined ARR growing faster than the overall business. Just how do you see kind of maybe some of these growth pillars over the next couple of years developing?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Zscaler, Zero to the Branch.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Beautiful. It has gone through inflection point. We are seeing very rapid growth. It eliminates traditional networking, SD-WAN, and the like. You know, five, seven years ago, I used to say MPLS is going to disappear. People say, "You're crazy.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Where is MPLS today? It's by and large gone. I think SD-WAN will follow the same fate, too. It's a matter of time. One year ago, when we were just getting ready to launch Branch, I used to wonder what percent of Zscaler customer will embrace it and what percent will say, "I need to keep my SD-WAN. I love it.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Again, I've been surprised that almost every customer I talked to, they're all ready to make Branch like an island. No mesh network, no SD-WAN.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Big opportunity. I think 3-5 years, people are gonna say, "What is this SD-WAN you thing used to be?
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+That's big growth. Zero Trust cloud workloads. The only way it's being secured, the only alternative to Zscaler is old school virtual firewalls. They are hard enough and complex enough in a data center dealing with IP addresses and all. Firewall is a network device based on IP. This source IP address can talk to this destination IP address. It's a nightmare in the cloud.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+With Zscaler, this VPC work can talk to this VPC. It's wonderful. This solution is growing very well.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Data security. Data security we started many years ago. We've done DLP. About 5, 6 years ago, some of the CIOs told me, "We get tired of managing multiple DLP policies. Even one product is hard enough. Dealing with policies for multiple is very hard. Zscaler, you should really offer full data security offering." We went all the way, not just inline DLP, email DLP, endpoint DLP, SaaS, SSPM, and all the cloud data security. It's the most comprehensive solution. We are in line, we are a proxy, so hence we can inspect before the traffic goes out. If you aren't sitting in line as a proxy, you can't do that. That's why you don't hear from firewall vendors that they could do amazing data security because they aren't able to properly inspect it. This is a big area.
+I mean, sitting at close to a half a billion dollar in ARR. We feel if data security was an independent business for Zscaler, it would probably be the largest data security company.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+It's good. There are many growth engines for us.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Right.
+## Jay Chaudhry | CEO and Founder, Zscaler
+that are working.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Maybe turning to another one of those, Red Canary, can you talk about this, the long-term strategy for this business as it kind of becomes, you know, not Red Canary separate, but kind of part of Zscaler altogether?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Maybe I can make broader comments on strategy, Kevin, you can give next color to it. As we said, we want to get into AI agentic SecOps because AI can disrupt SecOps. Our customers are telling us they're paying too much money building these data lakes. They said we have probably the biggest set of logs, and they get put somewhere, they pay for them. That's how we started to move into the SecOps space. Once we had the back end, we needed the front end. We needed agentic technology SecOps agent that could really solve this problem and do it in a faster and better fashion. Red Canary actually had that technology. Even though they're MDR company, they've been doing this for 10 years. They had playbooks, and they took the playbooks, they had converted those playbooks into agents in production.
+We are integrating the agentic technology with our back end, so there's one AI SecOps product-
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+-that we can go and disrupt the market. It's that product is coming along well. Red Canary technology is integrating very well. We think it's a good opportunity for us because if there's one area AI will disrupt more than others.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+it's the SecOps.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Kevin, I mean, just in terms of, you know, it's outperformed maybe kind of the expectations you had coming into the year. Just what are you kind of seeing from the business, you know, now having owned it for a number of quarters?
+## Kevin Rubin | CFO, Zscaler
+Yeah. I would describe, if when we acquired the business, we mentioned that, current year renewals were not picked up as part of our initial recognition.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Kevin Rubin | CFO, Zscaler
+Of the original $83 million in ARR. That was by and large, because, you know, MDR businesses historically have higher churn rates than we have in our business. You have a much larger company purchasing a smaller company. Keep in mind about half of their business is in what we would describe as the commercial segment, which is, you know, companies that are generally smaller than Zscaler supports, or at least intends to support directly with our go-to-market resources. There was a lot of uncertainty from our perspective as to how much of this business would likely renew. Now that we're six months later, we have seen what those renewal rates have looked like. My commentary on the earnings call was they have been elevated.
+you know, I am, I'm glad that we took a more conservative approach to those expectations. The guidance that we have provided and updated in the last earnings call reflects now what we've seen from a renewal perspective, and what we expect at the end of the year. Yes, it was an increase, driven in part by what we've seen from a renewal perspective. I don't know that I would characterize it as exceeding expectations. I think it's.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Kevin Rubin | CFO, Zscaler
+It's, you know, it's part of the mechanics that we came into the year with.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Okay. I mean, Jay, you've done a number of acquisitions kind of over the last 12 months. You know, most recently kind of SquareX, you kind of announced for browser security. Just how do you think about kind of where the white spaces are in the platform and just, you know, how M&A will be a portion of that strategy?
+## Jay Chaudhry | CEO and Founder, Zscaler
+We're quite disciplined about what we want to offer, what we don't want to offer. If we want to offer or be in a given market, we want to be the best, otherwise we won't play into the market. We look for market that are synergistic to us. When we went to Zero Trust Exchange area, as we added CISA, APT, Branch, for example, we bought this company called Airgap Networks. It rounded out our Zero Trust device story. Very synergistic.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Came along extremely well. Take Zero Trust, for information access, secure browser.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+I'll share my position as compared to the market. We have been offering Zero Trust access using a remote browser which runs in the cloud and offering this functionality. We have a pretty sizable business doing this browser business, remote browser. There's some use cases for unmanaged device using my own device, my own browser, people want to access information, and in many cases, it used to be third-party suppliers or customers. You could use Zscaler remote browser to work with that. There's one piece the customers are wanting. They want device posture check from security point of view. You can't do posture check unless you put something on the device. The standalone browser companies would say, "Download my full browser," and you can do the check, and you go direct.
+A couple of years ago, we actually looked at some of them, even looking at see if we could buy this company. We didn't feel right. Customer said, "I don't want one more agent." This wasn't the agent, this is the mega agent.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+I mean, it's a massive thing. That's one problem. The second problem was, as we looked at the stuff, all these browsers are based on Chromium, which is built by Google. Chrome has become big. This is 1 billion lines of code, and so many vulnerabilities are being fixed every week. Reminds me of Windows vulnerabilities that'll happen every week. How are we gonna keep up with that? You can't. We said we will not go into the space. What we acquired is this company has done very innovative approach using browser extensions. We are able to check the device posture.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Okay.
+## Jay Chaudhry | CEO and Founder, Zscaler
+you can actually achieve what the third-party browsers are talking about without having to ask the third parties to download one more browser.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+I think it's elegant approach, and then we are Zero Trust on the back end.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Okay.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Got it. Kevin, maybe turning back to you. You know, Z-Flex, you mentioned kind of upfront, has been a huge area of success. You know, Like, can you just walk through how Z-Flex is changing customer buying behavior and kind of how it's changing your visibility on the business?
+## Kevin Rubin | CFO, Zscaler
+Yeah. Z-Flex, maybe just by way of background, you know, a lot of software companies have offered flexible purchase arrangements. For us, that manifests itself in the opportunity for customers that are willing to make larger commitments over a longer period of time, the flexibility to swap in and out of products.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm.
+## Kevin Rubin | CFO, Zscaler
+We offer the ability to ramp, generally in the first 6 to 12 months of the contract period. Then more recently, it's actually given us some flexibility around billing arrangements as well. If we wanted to provide a customer with the ability to pay a little bit less today and pay a little bit more tomorrow, we can, we have the flexibility to do that through Z Flex. It also facilitates the pre-negotiation of pricing across the suite of products that are available to the customer in Z Flex. There's a lot of advantages. If they wanna be able to extend into our data security products, they don't need to go through another buying and procurement process.
+They already know what those products are, they've got a negotiated price, and then they can go ahead and deploy. For us, as I mentioned, we did about $290 million in bookings of Z-Flex this last quarter. To provide a little context of the Z-Flex business for us, they're generally 7-digit deals, and they average today about 4 years. They are a bit longer. When we do go into a Z-Flex arrangement, it is generally a larger ACV commitment than they were making outside of Z-Flex. It does drive bigger deals, it drives longer-term deals, and then, as I mentioned, it facilitates upsell, right. They know exactly what's available to them at what price.
+We think it's an attractive opportunity for, some of our most strategic customers, and over time, many of our customers.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Are you seeing kind of that module adoption the quicker adoption of kind of the additional modules as they move into that?
+## Kevin Rubin | CFO, Zscaler
+It's still a little early.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Kevin Rubin | CFO, Zscaler
+We've had this in market for about three quarters now. It certainly continues to attract more and more interest, which tells me that customers are finding a lot of value.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Got it. Kind of moving back onto the AI security front. You know, you have GenAI security, you have security posture management, AI guardrails, AI red teaming, agentic AI. Just how do you think about, you know, those separate kind of pieces of an AI portfolio versus kind of a, you know, overarching AI security portfolio?
+## Jay Chaudhry | CEO and Founder, Zscaler
+That's a great question. In fact, generally, investors are wondering what's where, new market. We have two main solutions for AI. One is what we call AI Protect. We launched it on January the 27th after integrating a number of products we built and a couple of products that came through the acquisition of SPLX.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+AI Protect has about four areas of functionality. First is giving visibility. Any external, internal AI application, we can tell you what you have, what's at risk. Two is secure access to those applications. Who can access, what can be accessed, policies by user, by group, and the like. Third is securing application you built. How do you secure them? Doing the red teaming for vulnerability assessments, you know what the risks are. Our guardrail product, which inspects prompts to make sure people can't do bad things like prompt injection and the like. That's the third area, and the fourth area is governance and compliance. All four are integrated as a single solution, and you can buy some of it if you want. That's one bucket. The second is taking our Zero Trust Exchange for agents. This is inline policy enforcement for agents.
+That's a very powerful solution, highly differentiated because we're sitting in line, and that's how our customers look at it. The AI protect is already being bought significantly. Exchange in early stage, working with some of the customers.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Got it. Just how do you think about overall SASE adoption and where we are in that? You know, I think we get questions sometimes about kind of where we are on the core business. How do you differentiate that maybe of kind of this grab bag where SASE means a lot of things to a lot of people?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Right.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+you know, how do you differentiate kind of within those areas?
+## Jay Chaudhry | CEO and Founder, Zscaler
+I think it's a good question because SASE, whatever. This is what you think about. First of all, you need to understand that Zero Trust is fundamental for security, more and more important in the world of AI. That means things A talks to B through a switchboard.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+That's where the world has to go. From Zscaler point of view, we have 45% of Fortune 500 companies doing that today, and 40% of Global 2000 companies. Our large enterprise base that we target is 20,000 companies. 4,400 of them are customers, which is less than 25%. This means we have a sizable new logo base to go after, and we are pursuing that. It means there's a lot of opportunity for upsell, okay? We have seen our number of million-dollar deals going up, number of $5 million customers going up. In fact, last quarter, we had the largest number of $1 million deals in our Q2. That's excellent.
+We also were looking at last quarter, we learned that from the initial buy in 4 years, our enterprise customers will have 3x of the ARR. That's pretty good. This is over the years when our platform was much smaller.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Right.
+## Jay Chaudhry | CEO and Founder, Zscaler
+As the platform has gotten bigger, we expect that this thing should continue or get better. Both opportunities, meaning significant upsell and significant new logo.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah. Okay, perfect. I wanna step ahead to go-to-market for a second. Can you just kind of talk about the evolution of relationship with channel partners and just, you know, how you see kind of relationships with GSI as evolving?
+## Jay Chaudhry | CEO and Founder, Zscaler
+In relation to the?
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+For go-to-market.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Go-to-market.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+We've gone through transformation of go-to-market, and we've gone through it successfully. We walked you through. We did projections. We met our projections. We are seeing that the trajectory-
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Moving in the right direction. If you look at Q2, our sales productivity was up in double digits. Our total number of large deals moving up. Our over-channel contributions getting much better. At a broad brush basis, when you look at lots of channel partners, you talk to them, you're gonna get the mixed feedback because we don't deal with 5,000 of them. Global System Integrators work well with us. We have worked very hard with them. Why do we need them? Here's the difference. A typical VAR will sell the boxes, and they may get some deployment services, may not. They largely do a lot of fulfillment. When we go in, you're not replacing Zscaler with Zscaler, a firewall here, firewall there. You're transforming. You're removing lots of stuff. To remove all these firewalls, routers, switches, load balance, you need somebody who can do services.
+GSIs do a good job there in that area. GSIs are working well for us. Selected channel partners who do these services, they're working well for us. It's good. Our trajectory is moving in the right direction. Now we're working upping the boat.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah. Okay.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Kevin, you want to add anything to this?
+## Kevin Rubin | CFO, Zscaler
+No, the only other proof point that I would just offer is, we had very strong pipeline conversion, in the second quarter as well.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Kevin Rubin | CFO, Zscaler
+Just another indication that, you know, things are building momentum nicely.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+I know we just talked about this with Red Canary, but any how, you know, should we think of it really as getting to that, the 25% penetration you guys just talked about, getting that to be a higher number, or is there anywhere down market where we can... that you find attractive opportunities?
+## Kevin Rubin | CFO, Zscaler
+I mean, to Jay's point, I mean, our focus are the largest companies in the world. Our direct sales organization is targeted at enterprise customers, which, you know, we estimate to be a little more than 20,000 companies in the world.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Kevin Rubin | CFO, Zscaler
+That's where we go after with direct resources. Anything below that would be served through our channel, and that would be indirect for us. Our focus really is the largest companies.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Got it. Kevin, maybe a question for you. You know, you guys Rule of 50 company, obviously leading growth and profitability. How are you thinking about kind of trajectory going forward or just opportunities for operating leverage. I want to bring into that discussion, you know, there's maybe been a little bit more scrutiny of stock-based compensation. Just how you guys are thinking about stock-based compensation versus cash compensation.
+## Kevin Rubin | CFO, Zscaler
+Yeah. I mean, as a tech company, you know, providing alignment to our employees and stock is important, and I think investors appreciate that alignment. We also know that it has been a little bit elevated and, you know, we are, you know, acutely focused on bringing stock-based comp down over time and achieving, you know, GAAP profitability over time. That is certainly something that is in focus. As I think forward in terms of areas of investment and opportunity, we expect to see continued improvement in sales efficiency as we continue to move forward and as I've gotten through the transformation efforts that have been, you know, ongoing over with Mike joining us a couple years ago and going through that process.
+We think there's opportunities there and, not to pull on a topical thread, but, you know, AI over time will also provide areas of leverage.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Okay. You know, another topical point, memory costs. You noted memory, you hadn't seen any impact yet, that you have a good amount of inventory, both of kind of branch appliances and data center equipment. Just how are you thinking about potential impacts to pricing and CapEx just as we work through this memory cycle?
+## Jay Chaudhry | CEO and Founder, Zscaler
+Yeah. It's a real issue out there.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+If you are a real box company, shipping lots of boxes, we'll be feeling the pain.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Right.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Since we aren't, so the impact is less because we have been maintaining good inventory starting during the COVID time.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+We do expect that it'll have some impact.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+We will pass some of the cost to our customers.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Yeah.
+## Jay Chaudhry | CEO and Founder, Zscaler
+We will adjust some of the pricing. But I think from modeling point of view, we are still targeting to really stay at about 80% gross margin. That's a good number for us. It also allows us to really introduce products that are faster pace.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Rather than trying to optimize gross margins, I would rather get in the market faster by 6 months or 9 months than take time to optimize it. Back to your pricing.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Okay.
+## Jay Chaudhry | CEO and Founder, Zscaler
+It will have some impact, but not significant.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Uh-huh.
+## Jay Chaudhry | CEO and Founder, Zscaler
+We'll manage it.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Jay, maybe I wanna end with, you know, you've built an incredible company. Just how do you think about the next three to five years, and what is your vision for Zscaler over that time?
+## Jay Chaudhry | CEO and Founder, Zscaler
+if you look at 2 big areas, Zero Trust, every bit was meant to do 2 things.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+One, make sure you don't get compromised. Number two, to make sure you don't lose data. Sometimes I jokingly tell CISO, "Your job is really two simple things. Nothing compromises you or breaches you, and nothing leaks out." We have built the best Zero Trust Exchange, and we are in the first inning of a journey with a lot more opportunities ahead of us. Now comes AI. AI is fundamentally changing everything at many, many levels out there. We have some very key differentiators in AI security. The exchange is probably the biggest one for us to differentiate us. And also the amount of data, the logs, the proprietary data we are getting is probably better than anybody else. It is an SSL inspection, we can see everything. It expands an opportunity in the SecOps area.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+Mm-hmm.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Overall, I see our business growing in three pillars: Zero Trust everywhere, data security everywhere, and AI Security at all angles. This will give us a plenty opportunity to get to $10 billion ARR and beyond.
+## Meta Marshall | Cybersecurity Analyst, Morgan Stanley
+All right. Perfect. Well, Jay, Kevin, thank you so much for being here today.
+## Kevin Rubin | CFO, Zscaler
+Thanks for having us.
+## Jay Chaudhry | CEO and Founder, Zscaler
+Thank you.
+Data Source: Quartr Last updated: Mar 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

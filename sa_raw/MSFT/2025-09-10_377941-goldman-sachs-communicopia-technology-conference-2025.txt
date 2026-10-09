@@ -1,0 +1,461 @@
+TITLE: Goldman Sachs Communicopia + Technology Conference 2025
+DATE: 2025-09-10
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Energy has been there. When I came to Microsoft, it wasn't at the beginning of my career, so I didn't start there. I worked at smaller firms prior to that. I was in product, essentially product management, and I went to Office, so I worked on the Office set of products. Over the course of the years, I started to migrate more towards the business side of what we do. We put in product marketing as the business management side, and we typically will pair that up with an engineering lead. Now I'm responsible for a portfolio that we just call AI Business Solutions. Over the years, I ran everything from Office commercial to Office consumer to Windows to Office 365 to Microsoft 365. The work during the pandemic on Teams was all work that I did.
+Just when I thought I was getting bored, this whole thing started to happen with AI, OpenAI, and Copilot. That's what I'm up to now.
+## Kash Rangan | Analyst, Goldman Sachs
+Got it. Although you're a technical person by education, your title is Chief Marketing Officer.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah.
+## Kash Rangan | Analyst, Goldman Sachs
+Is the bar so high at Microsoft to be in marketing?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+These days I think it helps a lot to deeply understand the tech, for sure.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+I love Microsoft because it's a place where we expect our business people and, you know, the CMO, if you will, to not only understand the tech, but to help shape it. That's the part of my job I like the most, is trying to chart the future where things are going.
+## Kash Rangan | Analyst, Goldman Sachs
+Great. On that topic, how do you envision AI evolving over time? Microsoft's got a unique vantage point being super, super early. Explain to us how you envision the AI tech stack evolving over your time, your vantage point, and Microsoft's role in this evolution.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Let me talk tech stack, but I'll be brief. I don't want to go too deep, but you certainly can ask more questions. We start at the hardware level, obviously, all the way at the chip level, data center level. There's been a lot of innovation, not just in chips, but in data centers over the last couple of years. On top of that, we actually start next with the data layer. There's some important work that we've done, particularly with a set of investments that have gelled into what we call Fabric now. Then we have something called Foundry, where we think about the model layer. This is where the LLMs sit, and that's been important for us. Next up, we move to the dev layer.
+Here we split things between what we think of as pro code and low code, so those things that are designed for makers versus professional developers. Finally, we round things out a little bit differently than most because Copilot for us is kind of that front end, if you will. We think of it as a platform that we're really trying to draw users into, not with a daily habit, but in fact with an hourly habit in the knowledge worker space. That's how things compose. We've spent a lot of work, if I were to take a step back though, trying to project out three to five years and say, what's the firm of the future look like? We've decided to call that idea the frontier firm, just using that frontier label from models. We're pretty excited about what that looks like.
+We can describe it today as a firm that we would say is human-led but agent-operated. We think that it behaves very differently. We think that humans play an important role, but the patterns of work between humans and agents are going to be very transformative. That's kind of where we are. We see Microsoft's role in there as helping businesses, organizations get from today to that frontier firm. That's how we would frame up how I have conversations with CEOs and their teams, technical teams and business teams.
+## Kash Rangan | Analyst, Goldman Sachs
+Got it. We all watched the launch of GPT-5. I'm sure you did. What is your reaction to GPT-5 launch? What do you make of the technological enhancements? I have a follow-up question as it prints through Microsoft 365.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, this one has been interesting for me because, for me, it's separated out a little bit people who understand what's happening versus those who are kind of superficially just tracking the technology. Let me explain what I mean. GPT-5 was a systems launch. A lot of people focused on, hey, wait a second, you know, we don't see, you know, we were looking for non-incremental model differences. I understand that. I understand the expectation. If you get to the heart of what was going on, the biggest thing that was introduced with GPT-5 was that the orchestration layer, what they call the router, moved from being a deterministic, hard-coded thing to being an LLM model that had been post-trained to orchestrate other models and tool usage. Today, with GPT-5, when you send in a prompt, it's deciding, do I route this to a reasoning model?
+Do I route this to a cheaper model? Going forward, that system, I can't explain how important that system's going to be for actually realizing the value of agents and the value of what's happening. I understand the chatter about, I was looking for more, you know, in terms of the model. This was a really important systems launch, and it exposes, in their case, for ChatGPT, it exposes the broad swath of free users for the very first time to reasoning models at the right time in an economical type of way. I think we may talk a little bit more about that, but that systems-based approach, I think, is really, really important because it's the beginning of a system that is going to prove to be very influential.
+## Kash Rangan | Analyst, Goldman Sachs
+You just got me thinking. A system, the beginning of a system that's going to prove to be very influential. Where do you go forward with this? How do you make this more useful in terms of Microsoft's approach to this technology?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+It's a great question. We think of, here's what the state of the art would tell us right now. There is a question about, can you create essentially a super app that is so smart model-wise that it can do everything you could ever imagine doing, you know, with superhuman capability? It turns out that the answer, we would think at Microsoft, and I think many of the model producers feel, is no. In fact, it's better to go and train agents that are domain or area specific that prove to be superhuman, and then essentially to have a system that pulls on the right agents at the right time to answer the problem.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We look at this in commercial terms and say, man, we were just given a gift as an industry.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+With essentially, you know, an orchestrator, a conductor of the symphony that with time is going to be able to register up the right agents, and those agents will have real domain expertise.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+You can call on those agents in an orchestrated way to get incredibly sophisticated jobs, not just tasks, but jobs done.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That for us is the future of this frontier firm. We expect that companies will produce financial analyst agents, they're going to produce expert scientist agents, they're going to produce actuarial agents, and this router is going to call on them to do the right things in business process.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We look at this moment. That's one of the reasons we SIM chip GPT-5. We worked so hard to SIM chip that in Copilot, it's a real watershed moment for us.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah. The bleed over to M 365 Copilot, how does this manifest going forward, the GPT-5 improvements in M 365 Copilot?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+The same day we replaced the back end of Copilot with GPT-5.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+You currently, if you use Copilot, they have to select a button. That was just us making sure, putting running water through the pipes. In the next couple of weeks, you'll see that turned to the default. What it means for us is it's the realization of a strategy that we simply would call Copilot plus agents.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We think of it this way. Copilot is to agents like the iPhone is to apps. In other words, just like the iPhone has become a platform or a window into the world of apps over the last decade, we believe that in a commercial sense, Copilot will become a window or a conduit into the world of agents. What we envision happening is Copilot will help you at the right time select the right agents to solve the business problem that's in front of you. That's what our customers are asking for. They're saying, "Hey, I love the power I'm seeing, but I need it to be specific to my business. I need it to be specific to my industry." Copilot is architected to do exactly that.
+## Kash Rangan | Analyst, Goldman Sachs
+Got it. Any examples of that? You talked about the financial analyst thing. Any other example besides putting me out of a job?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Sure. I can give you a bunch of different things. Across the industries right now, customers are working with us, either pro code or with something we call Copilot Studio to create purpose-built agents. These agents typically are being trained on like a reasoning model, and then you can take in their own content and train it. I'll take pharmaceuticals as an example.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+You can take something like the clinical trials, or you could take a part of the scientific process. There are a bunch of different jobs that happen along the value chain of clinical trials. What our customers are starting to do is to build agents to do those jobs. Someone, for instance, is as simple as a technical writer. Another person prepares the submission to the FDA. Other people summarize, for instance, the actual trial data. There are a bunch of things that happen. You can stack those agents up, and you can essentially design an end-to-end process.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Where Copilot can do the orchestration for you of, "Hey, I want to run this and pick up where the data is today, and I want to start to run it down to the process of getting to an FDA submission." It's not done by Copilot itself.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+It's done by Copilot orchestrating these specialized agents to do their jobs. That really moves us into this realm of, you know, not just agents.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Digital workers, digital employees.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah. I am going to throw out a bunch of seemingly unrelated terms and ask you to see if you can explain where this concept kind of fits in this RAG, context, broader context windows, reinforcement learning, test time compute. In that realm of seemingly unconnected things that I just blabbered out, where would this, this enhancement to GPT-5 fit in? Is it a broader context window or none of the above? It's like, like that's mad rambling Kash, and it does not make any sense.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+No, it's good rambling. I'll have to put them together though for a second. It was RAG and.
+## Kash Rangan | Analyst, Goldman Sachs
+RAG, a broader context window.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah.
+## Kash Rangan | Analyst, Goldman Sachs
+Reinforcement learning, those are all things that are supposed to enhance the core model.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Correct.
+## Kash Rangan | Analyst, Goldman Sachs
+In some way, add context to it, provide information to it, hold it more in memory. Whereas what you're talking about is getting deeper into domains. Does that happen because of any of these things, or does the model itself come with the deeper domain and you just have to call upon that? Okay, I want to pull upon the financial analyst domain and boom, it goes and pulls it.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Okay. I think I can construct in a way if you're following the conversation out there.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Think of what we're describing as a way to create a system of agents that has an orchestrating agent in Copilot, essentially directing traffic or orchestrating a team of specialized agents who do work.
+## Kash Rangan | Analyst, Goldman Sachs
+Got it. Okay.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Now take, for instance, the things that we just threw out there. All those things that Kash just talked about are ingredients to make typically those specialized agents more effective.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+RAG is a way to, for instance, add very specialized context to an LLM so that it can reason over data.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+The context window creates a bigger kind of space of context for people to be able to do that.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+The thing we're talking about here is a system of orchestration.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+A lot of what we've heard from the industry so far has been almost like incremental improvements on an agent-per-agent basis. This is about how do you get non-incremental improvements.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Because you have a set of agents that are working together in a structured way.
+## Kash Rangan | Analyst, Goldman Sachs
+Not step function, but orders of magnitude better.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, that's exactly right. Yeah.
+## Kash Rangan | Analyst, Goldman Sachs
+That was what was echoed by our previous panelist from Sequoia Capital, and that he said that people misinterpreted the GPT-5 as an incremental advance over GPT-4.5, and he made it look like it's a lot more than that, which seems to be very consistent with how you characterized it. I've watched Build, and I was fascinated. I was not prepared to be riveted to every second of what happened at Build, and I was riveted. In particular, the MCP support for MCP protocol, the agent-to-agent protocol, and what seemed like you were building a middleware layer, and my mind flashed back to BEA Systems. That may not mean anything to you, but maybe some of us here in the audience might actually recollect BEA Systems.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah.
+## Kash Rangan | Analyst, Goldman Sachs
+They produced middleware for SaaS, web-based applications. Of course, the company went nowhere, but they were the beginning. You could see the future if you envisioned, right? It felt like you were building middleware for agentic applications. Talk to us, if you don't mind, about the implications of these frameworks, A2A, MCP, as it pertains to the AI apps ecosystem development. How important is this?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, it's a great question. To answer the question, I'll back up a little bit and just say there is a huge delta, a gap between the capabilities, the raw capabilities we see of the technology, particularly of the models right now, and the value that commercial customers are realizing. I think all of us understand that. Otherwise, there'd be different things happening in the market. The thing that we see that is the gap to be filled, essentially, is how do you practically take these very powerful workhorses, these engines, and put them to work in the very complex plumbing that is today's enterprise.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+As you're talking about MCP and A2A and these protocols that allow agents to talk to one another, that's exactly what we're doing. We see our role at Microsoft as taking the best innovations from all over the industry, from all sorts of different providers of those innovations, and providing a platform for our customers to build solutions that actually just kick out business results, you know? It could be whatever the industry is, you know, if it's consulting or if it's pharmaceuticals or whatever happens to be, really produces results. To do that, you actually have to start to fill the gaps in there. For instance, having agent-to-agent communication, even for what we were just talking about with the orchestration, is key. It's foundational. It's really important. Might be, might not be the most exciting thing, but we're trying to really build that up, build that stack.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+At every layer, so that, you know, there's connections there, and then it's easier and easier to program.
+## Kash Rangan | Analyst, Goldman Sachs
+That's when Satya talks about Foundry, that the Foundry layer has all these protocols being supported. If these protocols are supported, you would need to pull into a data layer that would have all the semantics, the context, et cetera, to make the agents actually do the work, right?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That's right. For us, that's where, as I rattled off, Fabric is that data layer. You don't have to move all your data. Fabric can both do in-place.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+As well as, you know, data that you move over.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Foundry.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Whatever models you want to, with, for instance, communication between them, you've got it exactly right.
+## Kash Rangan | Analyst, Goldman Sachs
+Got it. How dependent is the Microsoft Copilot stack on OpenAI's IP, and are you diversifying your tech stack beyond OpenAI?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+This must be the question of the hour, I would imagine right now. OpenAI is our first.
+## Kash Rangan | Analyst, Goldman Sachs
+Because I read something about this M AI model that Microsoft is doing.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah. OpenAI is our first and best partner. No doubt about it. We have a very unique relationship, but it's a very important relationship for both companies. The Microsoft 365 Copilot runs on the OpenAI models. GPT-5 SIM chip was another vote of confidence. We think that they've got the best technology out there. It's really important to understand that we feel like it's a great partnership. You just talked about the tech stack. You did a great job of hitting at the layer of Foundry. We have been now for some time, for some number of quarters, and particularly earlier this year, very open about the fact that we want to give enterprises access to just the best technology out there. That set of announcements at Build, what most people didn't understand, is using Foundry, you could choose any model.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Make an agent and essentially mount it in M 365 Copilot already.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That means you could choose Llama as your model. You could choose whatever you wanted out there from any other provider as a model and put it in there today.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That's been an important part of the way that we are pursuing the business. OpenAI, first and best partner, we have a very unique and very important relationship.
+## Kash Rangan | Analyst, Goldman Sachs
+The role of M AI is just one of the models. It's a Microsoft first-party model.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah.
+## Kash Rangan | Analyst, Goldman Sachs
+Where is that, I mean, going? What are the plans for M AI in the context of the Foundry layer?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, we would say it this way. We've always said for a long time, Satya was one of the first people to say this, that we believe that models will become commoditized over time.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+There are many ways to hear that statement, but one way to understand the statement is there is some threshold that when you pass, you're already so valuable that what you're putting on top of that becomes essentially diminishing returns for many tasks that you'd need to do. Us developing our own models is, you know, it's very consistent with that idea that we believe that these at some point are going to become commoditized and that you're going to say, "Hey, there's diminishing returns. We don't need something more powerful for the general purpose.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Frontier models will always have their place, pushing science and pushing the boundaries.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, we've said that we're going to develop our own models. We've said that we are not trying to develop frontier models.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Which is interesting.
+## Kash Rangan | Analyst, Goldman Sachs
+Oh, okay.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+You know, we may change that perspective. You shouldn't take that as anything more than kind of how we've talked about what the M AI models are right now.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We've said that it's not meant to compete, for instance, against GPT-5.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+The model space continues to change, and it hasn't reached a place where we feel like it's just slowed down in its overall progress.
+## Kash Rangan | Analyst, Goldman Sachs
+We've heard so much about the AI, the potential threat of AI disrupting seat count or put pressure on seats due to layoffs or maybe intentions to hire at a slower rate because of AI's ability to write code, do design, and who knows what else it's going to do. Where do you stand on this debate?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We're trying to take both positions, I'll say. Let me talk about both positions.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Here's what we'd say. Oftentimes when people come in and say, "Oh my gosh, the world's going to change," they think it's going to change overnight.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+At least that's kind of where the mind jumps to. Some amazing technology, it's going to change overnight. There's no doubt that if our hypothesis is true, that there will be human-led, agent-operated enterprises, that agents will become more important, more and more important in doing work.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That will have an impact on the work that humans do, for sure. How fast that will happen, what the humans will do, et cetera, you know, we can't predict a future with perfect fidelity. We would say this. We have a business model today that has a per-user licensing basis to it with M365. We like that. We continue to grow it. We grow seats. We grow ARPU. At the same time, we increasingly have an agent-based business model where we are charging in two different ways, per agent, and we charge per consumption. Our customers can choose.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We kind of have, you know, our foot in the two camps right now, and we think that's the right place for us to be as a business because we're just going to watch how the dynamic plays out over time.
+## Kash Rangan | Analyst, Goldman Sachs
+What are the productivity benefits that you're seeing with your customers on account of adopting Copilot at this stage? It's been out for a couple of years now.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Correct. Yeah, correct. They fall largely into three categories. Category one, we would call personal productivity, and that's about making someone who already does a job mostly do that job more efficiently.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+For the most part, we feel great about what we can do. We think in many tasks we can improve efficiency by 20%- 30%. If you do kind of like control and treatment type group experiments, you can show that.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+The most difficult thing about that is it's tough to drive ROI on saying Kash is 30% more productive, you know, like unless he's a salesperson and carries a quota, quite frankly, because a lot of knowledge work doesn't translate directly into top line, bottom line.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+It's a team that has to work. We continue to do that work. We feel good about it, but it is hard to make the ROI argument for it.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Most of what's happening in terms of actual OpEx savings is happening in process-based applications.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+By that, I simply mean people are picking a process out there that runs, that they measure, that they have KPIs with, and they're inserting AI in two ways, either incrementally improving that, which is important in some sort of continuous improvement type of way, or in some cases, they're entirely redesigning the process and saying, "Oh, we think we can do this differently." To make that very real for you, a lot of people have started, and we've heard that a lot, in customer support and customer service. Incremental improvements, for instance, are throughput by a customer human, customer service agent.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We've done some work at Microsoft where we've improved throughput of our agents by about 12%. That's real money saved for sure. There have been other places in customer support where we just entirely redesigned the system, and we tried to do what we call deflection upfront. Never have it get to a human agent. Can we answer your question essentially with AI upfront?
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That's a different process, and we've been able to say about half of the savings we've realized have come from that deflection. It's just real nuts and bolts. It may not be the most exciting thing to talk about, but at Microsoft, you know, we're saving a lot of money, and we see our customers doing it as well.
+## Kash Rangan | Analyst, Goldman Sachs
+I use Copilot to draft emails, and I make very little corrections to it. I also ask it to summarize my calendar for the day and what are the priorities. I even ask it to prioritize the emails that I need to respond to.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yes.
+## Kash Rangan | Analyst, Goldman Sachs
+Sometimes it'll look at an email and say, "Oh, this number one important email would be like some client asking me to comment on a wildly speculative thing that's happening." It thinks it's very important because it's worded in such a, "Oh, you have to please get back to me on this," right? Other than that, I think it's been just generally a tool that has been growing. I start to use Word, not that I use PowerPoint, but when I get into it, Copilot starts to show up and, "Can I summarize this for you?" It's turned to show proactivity, just like ChatGPT says, "Would you like me to do more research on this?" It's starting to show up a little bit more and more and more.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, we're excited about what you'll see from us this fall because we finally feel like with GPT-5, we're starting to get a way to be pretty sophisticated about some of the things you're talking about, you know? I'll give another couple of examples quickly, or maybe one. A lot of people don't think about it, but we often work outside of our native tongue. You may have to do something in Italian. People have to do things in English that isn't native. We see lots of people using Copilot, actually, to help them communicate in something that is not their native tongue incredibly, you know, eloquently.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+As an example, it's a small thing, but it really matters. It's a great example of something that's not currently being measured, but makes a big difference at the personal level.
+## Kash Rangan | Analyst, Goldman Sachs
+I think some people would say that Wall Street uses too much jargon in our CRPO, RPO, KPI. I mean, translate all that stuff. I mean, write for me in English, right? We actually have a jargon dictionary in the Goldman Sachs research. You have to hit a link and check a massive one. It's a pretty long one because every industry analyst has their own, like, jargon list. One day that goes away. As of the Q4 earnings, which were phenomenal, Copilots are now more than 100 million MAUs across commercial and consumer. Where are we in this adoption cycle? First inning, second inning, third?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We're very early.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, we would say we're very early. In the commercial side, which I'm responsible for, the motion is land and expand. The last data point that we released was a couple of quarters ago, and we talked about the fact that 70% of the Fortune 500 are using Copilot in a pretty extensive way, and those are our lands, and we're expanding from there.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+This past quarter, when we reported, it was our best quarter ever, both in terms of seat adds for Copilot.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+The number of customers coming back to add seats in a big significant way.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We feel like we're early.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+One of the things I said in an earlier meeting today that I'll just repeat is the biggest difference that I would flag for the group, Kash, is that over the last six months, I've seen a marked change in most enterprises. Six months ago, they were like, "Well, maybe we'll do something where we provide kind of some sort of assistant at work for everyone.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Most companies at this point have decided they're going to do that.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+They're just trying to decide who will I go with or what will my estate look like. That's a big change because once you start to lay down that baseline layer.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+I think it improves the literacy, helps people to find other ways to use the technology.
+## Kash Rangan | Analyst, Goldman Sachs
+Got it. How is Copilot usage tracked relative to your expectations? How are those usage patterns changing?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Let me just say my expectations. We'll talk about this group's expectations for a moment. My expectations would be, you know, when you look at this, it still is our fastest growing M365 portfolio product that we've ever had.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That's saying something because M3 and ME5, like, those are big, important products that continue to really grow. I really need to stress, if you want to get a sense for it, like, it's growing faster than either one of those two. In terms of usage intensity, we are really encouraged. When people start to use it, they do what you just described. They start to use it, and then we see the intensity increase, in fact, user by user as a general trend. We like what we're seeing there. The only workload that we feel like is more intense, like during a ramp-up period, ended up being Teams, and that's because we had the pandemic, and it was, you know, there was this single world event. It's got a lot of intensity.
+That said, if I were to sit down with each one of you, I think mostly what I hear from financial analysts is, "What's taken you guys so long?
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+You have 430 million, you know, seats out there. Like, what's the seat count? What's the penetration? What does this look like? It's just early innings. It takes a while. This is a business where we've been trying to say we feel like we've got a great position, but we've got to land. We've got to expand. We've got to help people change the way they work. There's some transformation required.
+## Kash Rangan | Analyst, Goldman Sachs
+I have to say another Copilot usage, which really was absolutely productive for me, was there was a point in time, you know, March or April, I forget, there was this thing, "Oh, Microsoft's going to cut CapEx, the whole hyperscalers," or blah, blah, blah. I had the benefit of your most amazing IR team on the road, and I had conviction. We wrote up a report, and then I wrote up in my emails my thoughts on CapEx. One client, and there were multiple emails sent to multiple clients on this topic covering multiple aspects. One client called me like two minutes before our company was going to be reporting earnings, and he said, "I want your thoughts on Microsoft CapEx." I said, "I'll call you right back." I just went to Copilot and said, "Summarize everything that I've said about Microsoft CapEx in five bullet points." Boom.
+I sent it to him, and he was ecstatic. He's like, "I really appreciate you getting back to me so quick." Yeah. Thank you, Copilot.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Copilot win.
+## Kash Rangan | Analyst, Goldman Sachs
+I'll not mention the client's name. I don't think he's here.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Well.
+## Kash Rangan | Analyst, Goldman Sachs
+He may be here. I have no idea.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+I will say that's one of the big differentiators for us, is access to your work data.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+I don't think it can be overplayed.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+It is really important to understand.
+## Kash Rangan | Analyst, Goldman Sachs
+I checked the email, though, before I sent it.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Good. That's the right thing to do. AI can make mistakes.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That work data is very valuable.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah. What is, who's Copilot's competition? When you try to sell this, who do you run into? Is it like ChatGPT modified by the customer to post like Copilot?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, there are two classes of competitors that we see. We see other chatbots, you know, typically by the model makers out there. Interestingly enough, we see competition from Roll Your Own. IT is really excited about creating the ACME Corporation chatbot based on GPT-5. Like, so excited about doing this. That's an interesting dynamic that I'm not sure I would have predicted. Now I feel like I understand what's going on there. IT is that they're builders. They like to solve problems and build. We see both those things.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+For the most part, we really believe that those folks who are rolling their own are not going to be able to keep up. They won't keep up with the iterations of the model. They won't keep up with the innovations and user experience, etc. Right now, it is a portion of what we see as also challenging those of us who are making our own kind of assistants at work.
+## Kash Rangan | Analyst, Goldman Sachs
+I mean, there's this tendency at the beginning point of any new tech cycle that when you have the building blocks, you're excited to build your own thing.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That's right.
+## Kash Rangan | Analyst, Goldman Sachs
+You feel like you're a genius developer, and everybody is a genius developer, creative, et cetera. When things kind of settle down, you don't have, that's not the core competence, and you want to rely on a provider like Microsoft that has watched hundreds of customers and has assimilated the problems and makes the product better. If the person that developed this just leaves, you're stuck. Who do you call?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah.
+## Kash Rangan | Analyst, Goldman Sachs
+Right? That's so simple. Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That's right.
+## Kash Rangan | Analyst, Goldman Sachs
+The decision on part of Microsoft to price M365 Copilot at $30 a month, does this, how do you expect this to change over time?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We feel good about the price point. I'll say, without going into great detail, we've been able to hold that price point quite nicely. We have lots of, you can imagine, discounting pressures. We do big deals and things like that. We've held the price point, so that's good. The product is growing into the price point, frankly. That's what happens. You start with technology. It gets better over time. We really feel like, for instance, our researcher and analyst agents that are a part of the price point are examples of us adding additional value and capabilities into it.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Our initial pricing of that was based on some research that we did really early out of the gates.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Looking at what the value would be and trying to not just have it all get squeezed out by customer expectations that would be included into the suite, it was our feel that with 430+ million users as a base.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We were looking for a way to monetize the great gains that we'd give them. That's kind of how we started.
+## Kash Rangan | Analyst, Goldman Sachs
+Got it. Okay. E5 upgrades have been a big driver of ARPU increases. Could you quantify for us or maybe give us a range? What percentage of the base is on E5 today, and how large is the opportunity that's left ahead of you?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah, we occasionally publish numbers here. Our last published number actually is not very new, it's about three years old. Three years ago, we talked about E5 being 12% of the base. That's the official number that we gave out.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+We don't have an updated number that we've shared, but suffice it to say there's still a lot of upside with E5.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+You can compare the 12% and think of our latest number being about a little over 430 million.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Is the base.
+## Kash Rangan | Analyst, Goldman Sachs
+Is the denominator.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+That's right.
+## Kash Rangan | Analyst, Goldman Sachs
+Copilot has to be a catalyst for the E5.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Absolutely.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+I should also say what we're really excited is there's real synergy. First, E5 and Copilot are the two ARPU drivers for the business.
+## Kash Rangan | Analyst, Goldman Sachs
+Mm-hmm.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+There is great synergy. As you start to think seriously about moving to Copilot, one of the big questions you have is how you're managing your data estate. That plugs into Purview, which is a component of E5. Security has always been the driver of E5, but we're increasingly seeing the data labeling, sensitivity, those types of things, compliance really driving with Purview. We've got a nice connection there between those two drivers.
+## Kash Rangan | Analyst, Goldman Sachs
+Got it. We've got about two minutes left. Are we okay to get a question from the client, or should I just go on? Yeah.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Oh.
+## Kash Rangan | Analyst, Goldman Sachs
+Anybody, we generally don't get any questions because it's such a large room, and by the time the mics get to the client, is that the case, or who's going to be the bold one? Yes. All right. Okay. I'm going to make the question that people would like to hear. Your partner, OpenAI, just signed a gigantic multi-year contract with another cloud provider. Why not Azure?
+## Jared Spataro | Chief Marketing Officer, Microsoft
+I'm really not in the best position to answer that one, to be honest with you. I'm not joking. I don't run Azure, and I don't have much to say, to be honest with you.
+## Kash Rangan | Analyst, Goldman Sachs
+Yeah. That's.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Good question.
+## Kash Rangan | Analyst, Goldman Sachs
+You're not the right person for that. It's a good question. Yes, you should contact Microsoft IR for that. Anybody else? Yes, this is a question that has to be addressed to Jared, given the scope of his work.
+## Speaker 3 | 
+Software applications.
+## Kash Rangan | Analyst, Goldman Sachs
+That's. Yeah. In the broader ecosystem of the enterprise. Yeah.
+## Speaker 3 | 
+Thank you.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Yeah. Beautiful. We wouldn't say that we can perfectly predict the future, but what we see happening right now is that the patterns associated with knowledge work are all being redone. They're being rewired at this moment. We definitely have an ambition, just like we did with Office, of being the front end of those patterns. We think Office was very unique in that it brought together some things that people didn't think went together. At the time when we brought together the Office suite, people didn't think everybody needed Excel or everybody needed PowerPoint or everybody needed Word. Those things were kind of portioned out depending on your role. As we look at building that front end, we're trying to find the same analogous set of patterns that we can bring to the knowledge worker of the AI era. I'll just start there. That's the ambition.
+What happens to this question of SaaS providers? Are they all dead? Where do they go? We would simply say, gosh, those businesses are valuable. They have valuable data in them. If I choose any one of the SaaS providers, they typically have really valuable logic, business logic inside them as well. That said, people are going to increasingly, we believe, not want to go to those systems directly to do work, but they're going to want agents to be able to do that work for them. I don't know exactly how it plays out. We don't think that those companies go away automatically, but we think the workflows, the data flows, even the architecture is going to change in very significant ways.
+I would say it this way, we're trying to really be in position to ride that wave, and I think every company needs to think about what position they should be in.
+## Kash Rangan | Analyst, Goldman Sachs
+Let's give a round of applause for Jared. Thank you so much. Great discussion.
+## Jared Spataro | Chief Marketing Officer, Microsoft
+Great to be here.
+Data Source: Quartr Last updated: Sep 10, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

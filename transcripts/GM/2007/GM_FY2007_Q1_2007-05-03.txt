@@ -1,0 +1,7 @@
+Company: GM
+ROIC Symbol: GM
+ROIC Name: General Motors Company
+Year: 2007
+Quarter: 1
+Date: 2007-05-03 09:30:00
+Executives

@@ -1,0 +1,7 @@
+Company: Kroger
+ROIC Symbol: KR
+ROIC Name: The Kroger Co.
+Year: 2007
+Quarter: 1
+Date: 2007-06-26 10:00:00
+Executives

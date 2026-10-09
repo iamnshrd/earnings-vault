@@ -1,0 +1,535 @@
+TITLE: HPE Networking General Session
+DATE: 2026-06-16
+## Operator | 
+Thank you for joining us at HPE Discover's Networking General Session. Please welcome to the stage Executive Vice President, and General Manager, HPE Networking, Rami Rahim.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Thank you. Good afternoon. Hello, everyone. Welcome to HPE Discover Las Vegas, my very first Discover Las Vegas. Could not be more excited about being here. Okay. Thank you. Thank you. I got a story for you. A few years ago in San Francisco, actually, San Francisco became home to one of the most famous engineering cautionary tales in modern construction history, and it was all about the Millennium Tower. This is a stunning 58-story luxury skyscraper in the heart of the city. Beautifully designed, technologically advanced, built to be truly iconic. Over time, something unexpected started to happen. The building began to sink, then it began to tilt. Not because the structure above ground was poorly designed, but because the foundation underneath it wasn't built to handle the long-term realities of the environment around it.
+As the demands on the building increased over time, the weakness underneath became impossible to ignore. Right now, companies everywhere are racing to build intelligent applications, autonomous operations, real-time experiences, and entirely new business models powered by AI. AI places enormous new demands on the infrastructure. Massive data movement, constant inference, real-time responsiveness, explosive scale. If the underlying foundation isn't designed for that new reality, eventually the strain starts to show up. To succeed in networking today, we have to think differently because AI is changing everything. One of the clearest messages from this morning's keynote was simple: AI is reshaping every part of the enterprise, none of that happens without the right foundation underneath it, that foundation starts with the network. The network is no longer infrastructure sitting quietly in the background.
+It's become strategic platform for how organizations operate, innovate, and scale. Why? Because the demands on it are exploding. More users, more devices, more applications, more data, and entirely new expectations for real-time experiences across every industry. From digital payments, connected stadiums, healthcare, research, media, and AI-driven services, the network is what makes those experiences possible. That's why leading organizations are treating the network as core strategic infrastructure, not just to keep up, but to unlock what comes next. Now, the ones that embrace this shift will be better positioned to innovate faster and to compete more effectively. The ones that don't will increasingly find themselves left behind. The good news is this, while AI is placing unprecedented demands on the network, AI is also becoming the answer to how the network adapts, scales, and withstands that pressure.
+The old model of networking, static, manual, reactive, simply cannot keep up with the speed and complexity AI introduces. What's required now is a network that can learn, a network that can predict, a network that can optimize and heal itself in real time. In other words, the future of networking will not just support AI, it will run on AI. We see this in two really powerful ways, AI for networks and networks for AI. AI is changing how networks are operated. As environments become larger, more distributed, and more dynamic, manual operations are just not going to keep up anymore. That's where AI for networks becomes a true game changer. The payoff is significant. Better uptime, better user experiences, fewer tickets, faster remediation, and more time for IT teams to focus on strategic work instead of constantly troubleshooting.
+Second, AI is redefining what the network itself must deliver. The reality is this, AI innovation can only move as fast as the network allows. You can have massive compute power and millions, if not billions, spent on GPUs. If the network introduces latency and bottlenecks and instability, you're limiting performance, slowing down outcomes, and giving up ground to the competition. That is why the network has become essential infrastructure for the AI era. None of this works, none of it works effectively, at least, unless security is built into the foundation itself. The network is now both the connective fabric for the business and unfortunately, increasingly, one of the main pathways that attackers use to target it. That means the network has to be a core part of the security strategy.
+With AI-driven anomaly detection, automated response, role-based access and enforcement, and zero trust approach that helps protect users, applications, and data everywhere. Just as importantly, it has to deliver that protection without adding friction that slows users down or piles more complexity onto IT teams. That is the real shift here. Security and user experience can no longer be trade-offs. All of these point to a new era of IT, one where self-driving networks are no longer optional. They are essential because AI-scale infrastructure cannot practically be operated manually. The networks of the future must be able to sense, to learn, to optimize, to protect and heal themselves in real time. Let me be clear about this, HPE has made more progress than any other company in these areas.
+We are bringing together AI-native hardware, software, silicon, security, and agentic AIOps into a closed-loop system that operates at speed and scale that humans alone simply cannot match. The result is a network that delivers better performance, stronger resilience, simpler operations, and better user experiences. That's what the self-driving network is really all about, moving IT teams from manually operating infrastructure to accelerating the business. Today, I want to explore what this next era of networking actually looks like and how secure AI-native self-driving networks are solving real problems for our customers. Some of these customers are going to be joining me on stage to share how their organizations are navigating real-world problems today. You're going to be seeing demonstrations of how HPE Networking helps organizations overcome these problems and move at the speed of innovation with confidence. You know what?
+The organizations that modernize their networks now, with the right architecture and the right intelligence and the right operational model, are going to be much better positioned for what comes next. With that said, enough from me. Let's hear from the people out there building and operating these environments in the real world. Please join me in welcoming my first guest, CIO of The Ohio State University, Rob Lowden. Rob, welcome.
+## Rob Lowden | CIO, The Ohio State University
+Thank you. Thank you very much.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Rob, thank you so much for joining us at HPE Discover Las Vegas. Maybe just to get started, introduce yourself and tell us a little bit about your role. You're responsible for managing a very large campus, thousands of students, tons of connected devices, and what a great school Ohio State is. Tell us a little bit more.
+## Rob Lowden | CIO, The Ohio State University
+Well, thank you, absolutely.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I think there are some alma mater in the audience.
+## Rob Lowden | CIO, The Ohio State University
+Any grads out there? We got 650,000 living alumni. There got to be a few of them here. No, thank you for the opportunity to share a little bit about The Ohio State University. Not only is it the namesake land grant university, a small city within Columbus, the capital of the state of Ohio. We have 66,000 students and 8,500 faculty. We're the fourth largest university in the country. Networks matter a lot to us, as you've already alluded to. On our Columbus campus alone, we have 22,000 HPE-
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Wow
+## Rob Lowden | CIO, The Ohio State University
+wireless access points, indoor and outdoor across numerous acres on campus. We have 15 colleges. We have a hospital. We have a comprehensive cancer center. Maybe a few of those folks out there know that we also have a football team.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yeah. I have heard, yes. I think there are some rivalries out there that people care a lot about. Higher education institutions are probably some of the most demanding network environments around because of pretty much everything you just stated. What are the biggest challenges and demands that that places on your infrastructure?
+## Rob Lowden | CIO, The Ohio State University
+Absolutely. One that's unique to the Hoot and Holler and that we just heard. We have a stadium, some of you might have heard of it. It is the Horseshoe. Not the Horseshoe Casino, although similar to the Horseshoe Casino. The house always wins at Ohio State. At the Horseshoe, we can host 100,000 participants-
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Oh, smokes
+## Rob Lowden | CIO, The Ohio State University
+viewing us crushing maybe that institution to the north that we don't refer to too often. That creates a unique networking challenge.
+Fan experience, ticket check-ins, everything being electronic. Last fall, we hosted a team from down South, they were ranked number 1 when they came to Columbus, maybe they left a little lower. That was the largest broadcast in NCAA history-
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Wow
+## Rob Lowden | CIO, The Ohio State University
+of any sporting event. There's a lot on the line. During an event, there can be another 100,000-plus people outside the stadium.
+It's not uncommon for a home day game for us to have 200,000-plus people around that. With the partnership with HPE, as we speak, engineers are working together, collaborating on refreshing our Wi-Fi network there.
+That's critically important to us, not just to ensure that that fan experience is there. 200 yards away, we have a $7 billion hospital system, comprehensive cancer center, 2,000 beds in that facility. That's going on next to 200,000 people.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Wow
+## Rob Lowden | CIO, The Ohio State University
+enjoying a game. We're putting in, I believe, the single largest implementation in the country, 2,000-plus wireless access points, HPE, Juniper, Mist.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Well.
+## Rob Lowden | CIO, The Ohio State University
+Super excited about that.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Sorry to interrupt, but let me ask you, with that kind of complexity, I would imagine this is where AIOps and self-driving automation, yes, leading question, can be quite useful. Would it? Well, just comment on that a little bit.
+## Rob Lowden | CIO, The Ohio State University
+Oh, absolutely. AIOps is something that we absolutely are excited to have in place. We have 100,000 managed devices, where expectations for us on bring-your-own-devices is substantial, adds tens of thousands of more. Throw in a game like that, we need AIOps that's provided to crunch all of that data in real time. We've seen this, in effect, move us from scenarios where problem resolution can take hours sometimes.
+We just can't afford that with the various operations going on at the institution. It's literally moving us from absorbing that threat intelligence, applying the AIOps, and giving us answers to resolution, and we're seeing things being resolved in minutes versus hours.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+That's awesome. Look, Rob, we so thoroughly enjoy having you as a customer. We've become a better technology company as a result of having you as a customer. Thank you so much for joining us.
+## Rob Lowden | CIO, The Ohio State University
+Thank you, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay. I am pretty sure that what Rob just shared resonates with many of you because what he described isn't unique to one university or one industry. We hear the same thing from customers everywhere. More users, more devices, more applications, and now AI adding an entirely new layer of demand and complexity. At the same time, IT teams are being asked to move faster, simplify operations, strengthen security, and deliver a flawless experience. That is exactly why the self-driving networks matters. If the self-driving network can handle an environment as dynamic and demanding as Ohio State's, it can handle just about anything. Now, you all know we deliver those AI-native, autonomous capabilities through two industry-leading agentic AIOps platforms, HPE Aruba Central and HPE Mist. Each platform brings unique strengths and serves different customers and is trusted every day by organizations around the world.
+Let me be clear about this, we are committed to innovating and innovating aggressively on both of these platforms, including bringing the best capabilities from each platform onto the other. That means both platforms continue to get stronger and both are here to stay. To show you what these self-driving capabilities look like in practice, please welcome Sunalini from HPE's Campus and Branch Business.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Hi, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Hello.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Hello, everybody. Hello, again. Welcome. As you said-
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yes
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+we are innovating in both platforms to deliver a consistent self-driving experience. This is possible due to two things, microservices and a common agentic AI framework. With microservices, we are able to develop self-driving innovations once and deploy them on both the HPE Aruba Central and HPE Mist platforms, much like a single app experience is delivered on both iPhone and Android. No matter what agentic AIOps platform you are on, you are going to be enjoying the benefits of a self-driving network. With a common agentic AI framework, we are able to accelerate self-driving capabilities at a much faster pace on both platforms with trusted actions that deliver measurable value. Our agentic framework, Rami, is unique in the industry-
+because of these key foundational pillars. First, we use real live experience data. Every user, every minute, which HPE has uniquely validated against real customer support cases and enriched with Digital Experience Twins to maximize the efficacy of our AI-driven insights. Second, we have an API-first approach, which means all the data is available via our APIs. This makes our MCP server and tools extremely powerful, delivering agentic automation at scale. Third, a powerful set of AI agents and skills analyze all the datasets and apply reason from HPE Marvis Minis, which serve as Digital Experience Twins of user experience, to agents analyzing packet captures, logs, knowledge-based articles, security vulnerabilities, and all the support data and signals we get. They all work together to proactively diagnose and autonomously root-cause problems impacting users without inundating operators with data. Fourth, it's not the end yet.
+The fourth aspect of what makes us unique, models take the analysis and curate it to understand and analyze post-connection issues. For example, Marvis has a large experience model, or LEM, as we call it fondly.
+that identifies the cause of bad Zoom and Microsoft Teams calls and predicts future problems to prevent them when possible. We bring all of this together into the agentic framework, resulting in a system that is continuously observing, reasoning, and analyzing with autonomous actions that optimize user experiences.
+This is a self-driving network.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+You know, Sunalini, most vendors talk about AI assistant and agentic AIOps, but still rely on reactive, human-driven troubleshooting. If humans still have to fix the problem, where exactly is the self-driving in that? Can you provide us an example of why real self-driving network operations actually matter?
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Of course. We all know that today's networks need to cater to high density requirements while also meeting the performance expectations of every user and application. Most networks are not designed to meet intermittent surges in peak traffic. Think of an all-hands in an office building, a crowded classroom during a popular university lecture, or even this very room right now where thousands of you are eager to see the best networking solutions ever. Operators try and accommodate these situations with a combination of static boundary parameters and on-demand changes, but often that just isn't enough. Let me show you a self-driving network powered by real agentic AI and how that handles this problem.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Can't wait. Let's do it.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+If we look at Marvis, we see that all the users in this office building are currently happy. Was this the case all of last week? Nope, it wasn't. What happened? How did unhappy users become happy? Let's take a look. Last week, Marvis detected that over 6% of user minutes were bad, which may not sound like a lot, but it impacted hundreds of people. Marvis has a self-driving action for dynamically fixing capacity issues. This action was enabled and was able to autonomously fix the problem by enabling dual-band 5 gigahertz. This reduced the peak utilization from 90% to 54%, enabling a better experience for users that were unhappy. How did Marvis know what to fix and when to fix it?
+The unhappy minutes in the past week triggered various models and agents in the HPE Agentic Framework to reason and analyze and root cause the problem. For example, one model analyzed the service level experiences. Marvis Minis agents were activated to test the network using digital twins, and other skills went into effect. Based on the reasoning and analysis, Marvis determined that the wired and WAN was not the problem. The wireless network was. What in wireless wasn't working? Coverage was fine. Roaming was fine. Wireless capacity was bogged down on a few APs that were functioning at 90% peak utilization. This is when Marvis went into full self-driving mode. It changed the RF parameters and validated the service level expectation of the users to ensure they had 100% satisfaction. Rami, this wasn't manual tuning.
+This wasn't trial and error. This was a network optimizing itself to deliver the best user experience. This is available right now in HPE Mist.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Today, like right now.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Today, right now.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Amazing. Let me just think about what I just saw there. The network identified the issue, right? The network understood the root cause. It determined the right action and resolved the problem automatically before any user even had a chance to complain about their experience. No emergency troubleshooting, no IT teams scrambling to diagnose, no help desk tickets. I mean, that sounds like real value for IT teams and also for end users, Sunalini, right?
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Absolutely.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay, that's just one example. I suspect you've got more.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Well, let's find out.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+We heard from our Mist customers that Marvis Actions, which automatically identifies network issues and proactively resolves them, is mission critical to daily operations. That's why HPE Marvis, our industry-leading AI engine, is coming to HPE Aruba Central.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Woo.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+It has all the simplicity and all the impact that customers have come to expect from Marvis. This is experience-first AI in action, and it is a perfect example of how we are able to develop self-driving innovations once and deploy them on both the platforms, Aruba Central and Mist seamlessly thanks to our microservices foundation and the common agentic framework. That's how we are bringing Marvis to HPE Aruba Central right into the global NOC view. Behind the scenes, Marvis does all the heavy lifting, correlating logs, alerts, signals across the entire stack. Your morning cup of coffee view will now showcase end-user impacting issues across wired, wireless, and SD-WAN with recommended actions. Missing VLAN, MTU mismatches, negotiation failures, they're all coming to Central. In addition, what we call the Marvis trust list is also coming to HPE Aruba Central.
+These are actions that you can choose to be fully autonomous. When enabled, Marvis not only finds the root cause, it fixes it for you. Imagine a security camera connected to a wired port in a bad state. No camera feed. That's a real problem. With Marvis in self-driving mode, that port is recovered automatically and expeditiously, and the camera is now working again. That is the power of bringing Marvis into HPE Aruba Central. Not just more visibility with highly accurate, actionable recommendations, but a better end-user experience thanks to self-driving capabilities.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+That's a pretty awesome example of just how quickly innovation can move when we bring together the best of HPE Aruba Networking and HPE Juniper Networks. Bringing Marvis into HPE Aruba Central is a, not a little, a huge step forward. That being said, Marvis truly is the AI engine behind the self-driving network, and now Marvis will be available across everything, both platforms. Our mission is simple. It's not easy to do, but it's simple to say, bring the best innovations to both platforms so that every customer in every industry gets the same powerful self-driving network, no matter which platform they choose. Now, Sunalini, we did this by promising both software and hardware cross-pollination. You just demoed some compelling examples of common software. What can you tell us about hardware? Have we made any progress on that front?
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Yes, Rami. We have made quite a bit of progress.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+A few months ago, we made a commitment on common hardware by announcing the first dual-platform access point, the AP-723H, which is now generally available.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Woo!
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Within the first year of the Juniper acquisition, not only have we cross-pollinated AI models and agentic frameworks, we have delivered an access point that works with both the Mist and Aruba Central platforms.
+I am super excited to announce that we are doing something very similar with switching. Our world-class HPE Aruba Networking CX portfolio, which previously was supported by Aruba Central, will also very soon be supported by Mist for day zero, day one, and day two operations.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+It's a big deal.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+It's a big deal. Let me give you a sneak peek of what you can expect in just a few weeks. Let's start by showing how easy it is to onboard the HPE Aruba Networking CX switch into the Mist platform. It starts with a simple scan of a QR code of the HPE Aruba Networking CX switch from within the Mist installation app. Once onboarded, the devices show up in the inventory, and they are ready to be configured with templates that enable you to centrally define and apply consistent configurations at scale, like pushing VLANs and port profiles to hundreds of switches. With telemetry coming into the Mist platform every minute for every wired client, combined with high-efficacy AI ML models from Marvis, we can measure pre-connection and post-connection wired SLEs and not just if a port is up.
+For example, the successful connect SLE measures pre-connection experiences, and the bandwidth congestion and throughput SLEs will give us insights into post-connection experiences. With the SLEs, the IT administrators can quickly identify when an experience is bad, including interface anomalies and other issues. We don't stop there. All the goodness we get from Marvis Actions will also be available for HPE Aruba Networking CX switches. This includes proactive recommendations for missing VLANs, MTU mismatches, bad cables, and more. The best of all, a self-driving trust list will also be available, starting with the ability to autonomously fix stuck ports to remediate wired clients in a bad state. This enables real-time closed loop self-healing, reducing mean time to repair, eliminating manual troubleshooting, and delivering great user experiences at scale. This is huge because we all know the network being up is not the same as users having a great experience.
+For our HPE Aruba Networking CX customers, no matter what agentic AIOps platform you choose, you'll get simpler operations, actionable and proactive recommendations, and a real self-driving network.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Let me just pause here and say, what makes this so powerful, Sunalini, is not just what you just saw, what all you just saw, but how fast we made it happen. In just a few short months after the close of the acquisition, our teams came together to deliver real software and hardware cross-pollination. Honestly, I could not be more proud of you and the team, Sunalini, because this is Yes, yes. Clap for Sunalini and the team. Mad respect, because this is exactly what innovation at scale should look like, moving fast, bringing the best ideas together, and delivering value to customers with speed. The result is incredibly powerful. You all have a self-driving network with the flexibility to choose the platform experience that works best for you with the confidence that your investments are fully protected.
+Sunalini, the market, I think, is taking notice of this, right?
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+That's right, Rami. The best evidence is the new Gartner Magic Quadrant for wired and wireless access, published just four weeks ago. Hold the applause, hold the applause. It shows HPE as a leader. Applause.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yeah.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Even more so, we are furthest to the right for vision and highest in the ability to execute. In my humble opinion, it is clear who the overall leader is. What do you think, Rami?
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Look, I could not agree more. Thank you so much. Thank you so much for joining us again.
+## Sunalini Sankhavaram | VP, Hewlett Packard Enterprise
+Thank you, Rami. Thank you, everybody.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I really think that says a lot. Last year, the industry looked at HPE Aruba Networking and Juniper Networks as two separate leaders. This year, the market is recognizing what happens when you bring those strengths together. One team, one vision, one innovation engine, and most importantly, one clear direction towards AI-native self-driving networks. Now, of course, this doesn't just apply to wired and wireless networking. It also extends into security, which happens to be the next topic I'd like to talk to you about today. To help me tee it up, I'd like to welcome from the Royal Bank of Canada, one of my favorite countries, by the way, Marlon Drummond. A lot of people, right?
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+A lot of people. How are you?
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I'm good. Please have a seat.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+Thank you.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Thank you so much for joining us, Marlon. I know you're at RBC, an iconic bank. Just maybe tell me a little bit about your role at the bank.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+Sure. My name is Marlon Drummond. I'm senior director. I run engineering and automation, and by extension, AI. It's fifth largest in North America. Just to sort of lay the context of the difficulty from a threat perspective, about 4,000 endpoints from the SD-WAN and the EdgeConnect. If you took the entire scope of the threat landscape, it's probably double or triple between the cloud, trading, every business line. It is quite extensive, and it's extremely difficult for a legacy bank. I don't mean that in the sense of truly legacy, but it's very, very difficult to do.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I would imagine you're dealing with massive volumes of not just data, but sensitive data. Security, I suspect is a bit of a consideration for you, right?
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+It is job number one, I think, for the most part. I think if you're a bank and you're regulated, like we are in 29 countries, you have all of the, I'm going to say the environmental from a regulatory perspective, you have to deal with for every single country. It is a very difficult process. Security for us is job number one. We actually don't have any other job other than protecting our client data. Not only that, it's a blueprint to actually how we operate. We feel that it's our competitive edge. If you have 13 million clients, you're in lots of different countries. That data in itself forms the basis for decisions and all. Exactly, it's our competitive edge. That we protect with everything in our fiber being.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Test me on this. One thing I think every malware has in common.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+That's fair
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+is that it has to use the network to do its dirty work. I've always said that an effective security strategy must also leverage that same network to better detect and to better enforce policy. What do you think of that?
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+Absolutely. I think we think about this a lot, and this is primarily to sort of keep the services up. I know you talked about self-healing. For the most part, in general, you troubleshoot at the network layer. That's the only place that you can get some immutable evidence to be able to identify what's going on. We've always lived on that mantra. For the most part, how we sort of detect And manage, troubleshoot, protect is all at the network layer. Being able to sort of identifying when somebody is knocking at the door, that's very important. The only way you're going to really see that is whether it be through lateral movement of the network and so on and so forth. You want to make sure that side of it is fully covered.
+Part of the me setting the stage for the 4,000, at least what we can identify and speak about clients, is the EdgeConnect and that platform using DPI engine helps us sort of create, I would say, a persona or a personality for a user. Anything outside of that becomes an anomaly.
+That's something that allows us to now be able to go look and, "Hey, something's going on," and so forth. It's part of the intel that we need to be able to sort of shore up our threat intel.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Makes sense. I know you're working on some big AI transformation projects. Maybe just share with us a little bit about how these AI projects are geared toward network operations in particular.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+as you know, and I know it's public knowledge, we are AI first and AI everything right now. We've pledged to our Investee shareholders that we will generate $1 billion in revenue just using AI.
+We've embarked on this incredible effort. the AI-ification, I guess, if you want to look at it
+of the entire bank. that's a significant effort. The operational side of it, I think, is sort of table stakes. I don't want to say it's the easy piece, but it certainly stretches all the way through every business line, AI being the horizontal in which you build a framework. the operation side is near and dear because that's where we actually can make a difference, at least on our side.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Sure.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+We're extracting telemetry. We're building the harnesses and creating a framework to be able to take that data. If you took the EdgeConnect, for instance, that's one place we also collect data to be able to put into, whether it be through the SIEM or through some sort of MITRE framework, to be able to mitigate the threat response, or create the threat response. the whole idea is that this will be an AI everywhere, collecting data, mining it, normalizing it, vectorizing it, and using that data to be able to help us solve the AIOps problems.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Thanks so much for sharing that with us.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+Absolutely.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Fun fact for you, everybody, I built my career at Juniper, now HPE. Many people think that was the only job I've ever had. Actually, my first job was serving ice cream downtown Toronto, and the very first paycheck I got, I deposited at RBC.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+I have to tell you-
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I am proud to have you as a friend.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+Absolutely. I have to tell you, I hear it a lot from a lot of people, we're sort of that cradle-to-grave kind of bank.
+We want to make sure that you come in early and stay forever.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Thank you so much for joining us. Appreciate it.
+## Marlon Drummond | Senior Director of Engineering and Automation, Royal Bank of Canada
+Thank you, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+What Marlon just described is really the reality for IT teams pretty much everywhere in the era of AI. Increasing scale, more complexity, and a nonstop wave of evolving security threats, which is why networking and security can no longer operate separately. Security has to be built directly into the network, and that's exactly how we designed the HPE Self-Driving Network. To show you what that looks like, please welcome Product Leader for SASE and Security, Madani.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Hey, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+How are you?
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Good.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Good.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Good afternoon, Las Vegas. I'm excited to be here.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yes, we're excited to have you. Okay, listen to me, Madani, attackers are already using the network as their weapon of choice, as you all know. With the AI making threats faster, smarter, more sophisticated, defenders need to use the network as part of their defense. That's why security can no longer sit beside the network. It has to be built into the network. How do we help the good guys do this?
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Well, Rami, it starts with a zero trust approach.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+to network security. This assumes that no user or thing is trusted by default and requires continuous verification of every access request. This would be like a blackjack dealer making you check a background check before ever dealing a single card and then kicking you off the table in the case of cheating. Oh, wait, I think they actually do that. Well, successfully implementing a zero trust approach requires five core elements: visibility into all connected users and things, policy-driven orchestration, ubiquitous policy enforcement, real-time detection, and automated AI-driven responses. Now, you do have to have the right mix of protective layers in the network to deliver autonomous protection for the strongest defense possible. HPE has a full security portfolio, which includes firewalls with industry-leading efficacy and performance, NAC with comprehensive access control.
+with consistent enforcement across every type of device or user on the network.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yep.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Last, and certainly not least, SD-WAN.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Of course
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+with integrated application performance and security, which is optimized for any environment.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay, we clearly have all the core security pieces in place and all of the elements of a winning hand. You might even say we have a full house. I'm sorry. Ultimately, what's important is how these capabilities come together, Madani. Nowhere is that more important than in SASE, right?
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Yep.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Where networking and security operate as a single system to securely connect users, applications, and data everywhere. I think you have a pretty interesting announcement to make on that front.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+That's right, Rami. I am very excited to say that we have now combined our EdgeConnect SD-WAN and our SSE into a unified SASE Orchestrator with one console, consistent zero trust policy, and AI-driven operations for simpler, faster, and more secure connectivity.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Very cool.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Now, what do you all think about that? You know, Rami, I can't just come to stage and talk about it.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Nope.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+I need this audience to actually see it and to demo it live.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Let's do it.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Let's check it out. All right. The new SASE Orchestrator is a powerful solution, combining both networking and security under one umbrella. Here, you see the dashboard page. This is where an administrator would get sort of a quick snapshot of everything that's going on within the environment for the last one hour to up to seven days. This isn't the special sauce. Let's go ahead and check out the business intent overlays. To me, that's really where EdgeConnect shines. This is a great example where EdgeConnect has been self-driving for many, many years already.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yep.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+It autonomously delivers the best quality of experience while also handling the worst kind of links for any type of application. Let's jump out of this for a little bit and talk a little bit about security.
+We'll navigate over here and check out the global firewall policy rules. What's great about this feature is the fact that these firewall rules are written here, but automatically distributed across the entire SD-branch, SD-WAN fabric. Next up, let's take a look at the SSE policy rules. This is the new capabilities that are part of the unified Orchestrator. Now, being in Vegas, Rami, blackjack is on my mind, which is probably okay.
+Visiting a gambling site on my company laptop, probably not so much. All right, let me show you how quick and easy it is to ultimately deploy a web filtering policy for our ZTNA users. I'm going to attempt to type up here in front of a live audience, and hopefully we'll get this right. I'm block gambling. I'm going to come down here to the destination, and I'm going to look for gambling again. We've made sure that it is set to block, and I'm going to go ahead and save it. Now, what's going to happen is it's going to push this out. As you can see, successfully added that policy rule. Fairly easy. Even a product manager can do it. I'm going to go ahead and apply it. All at once, we're now pushing out that policy for all of our users.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Wow.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Again, making these changes is all done directly here from that one place. That's what's really exciting about the fact that what used to be done in two different products is now possible in the single SASE Orchestrator.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Super simple.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Super simple. Before I leave, there's one more thing I want to take a look at, which is the new SASE Copilot, where ultimately a user can ask a variety of different questions. We also have some pre-populated ones, and ultimately what's great about it is it allows them to resolve issues and minimize risk to their environment very quickly.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I think this is a pretty big deal, right?
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Absolutely.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Our SD-WAN and SSE solutions are already excellent on their own. Now we're taking things a major step forward, bringing SD-WAN and SSE together into a deeply integrated solution. What else you got for us?
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Well, I've got a few more demos, but I do want to tell this audience that this is coming out just later this year.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Oh.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Okay?
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Very cool.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+All right.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Let me actually, before you go on, it's clear that SASE Orchestrator is a great step towards agentic AIOps and agentic SecOps with a network that is not just self-driving, but also self-protecting, Madani, right?
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Yep.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Security is also critical to AI itself. Organizations need a way to harness the power of AI without compromising their data. What are we doing to help customers on this front?
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Well, Rami, we are all over it. Our AI-aware firewall lets you safely embrace AI by giving you governance over how AI is used with real-time visibility, number one-rated efficacy and threat detection, and simplified security operations. That means that you can protect sensitive data without slowing innovation.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Let's take a look, huh?
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Do it.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Here we have the Security Director Cloud, which manages our SRX hardware and virtual firewalls. Up at the top, we have a new capability, the Security Director Copilot, which lets our administrator ask different types of questions and can also select pre-populated ones. For this little exercise, I'm going to try my luck again at typing. Let's see here. We're going to show the latest threats to my environment. All right, we'll go ahead and do that. Now the copilot's going to spend a little bit of time thinking. He's doing a little bit of crunching of data. What's happening behind the scenes is that we're pulling information from all the SRXs that are in this particular topology. We're also leveraging threat intelligence from our HPE Threat Labs.
+Ultimately, what we should see here any moment now.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yeah
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+As it finishes up its thinking.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yes
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Is that it's going to give us some very specific insights about the different types of threats that we're seeing, as you can see here. I'm going to go ahead and scroll up just a little bit here. We can see a variety of different pieces of information, usernames, source IPs, destinations, so forth. We really get some real detailed information in terms of things like what the threat is, industries that are being targeted, and what countries.
+At the bottom, we also have a great set of recommendations, right?
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yeah.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+It's not just about showing the information, it's also being able to help supercharge our administrators. All right. Let's go ahead, we'll jump out of that. For this next little segment, I'm just going to put a little bit of background on what we're going to do for my last demo. Taking a look at some of the policies that we have here, I'm looking specifically around some AI governance rules that we've put in place. There are 3 types of rules that we've implemented. One is for sanctioned AI apps, which are AI apps that are allowed by the organization. Unsanctioned AI apps, which that's just a fancy way of saying we're going to block it, and tolerated AI apps, which are AI apps that have some guardrails.
+Sanctioned, unsanctioned, it's pretty straightforward.
+I would say that tolerated is a little more nuanced, it's about having the right types of guardrails in place. Let's just take a quick look at what that is. Here, we have a few different types of things that we're looking for. We're going to be looking at upload protection rules.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Prompt protection rules, last but not least, some keyword protection rules. Let's see this in action. I'm going to jump over. We've switched over to another view. This would be the end user view-
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+if you will. Happen to be here on hpe.com. You know what? I'm going to go ahead and try to go to ChatGPT. Immediately, I get a block message, right? This is one of the apps that we've actually flagged as not being allowed. It's an unsanctioned app. Let's go ahead and try Claude as an example. Same thing. Just to make sure that everyone saw that happen, we'll go to Google, and we'll bounce back, same effect.
+Let's see what happens when we try a tolerated app. I'm going to go over here to Gemini, and remember those guardrails I spoke about, Rami?
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I remember clearly.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Okay. I'm going to attempt to upload a corporate file, a company report. Probably has some information, maybe it's an internal content. I don't necessarily think I should probably upload it into this tool. As we can see, Gemini is struggling a little bit. It's attempting to pull this file, but what's happening behind the scenes is our firewall is going and blocking this. Ultimately, what we'll see here in a mere few seconds is that, lo and behold, the upload fails. All right, now let's try a different example. I'm going to grab some text here that has some unique words like restricted, secret, encrypted. I'm just using this to facilitate my typing. What I'm going to do here is I'm going to say, "Hey, let's summarize this information." I'll go ahead and paste that, and let's go submit.
+Lo and behold, once again, Gemini struggles. Can't figure out what to do. It can't process this information because our-
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+It's working
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Our firewall was doing what it needed to do.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yeah.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+All right. Now, as I mentioned before, this is a tolerated application with some specific guardrails. I want to basically show to the audience that I haven't completely crippled this. Let's see what happens if I say, "Summarize HPE Discover," and I go ahead and submit that. Oh, look. Already, we see a little bit of a change in behavior here. It's searching the web. It's going to figure this out. Yes, it is our flagship annual conference. Very cool. As you can see how you would use this technology in a real-world case.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+That's awesome. That's really cool. I would imagine it's super powerful, right, Madani?
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Absolutely. To me, this is what makes this solution so robust, so powerful, if you will.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yeah.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+It proactively detects threats, simplifies operations with guided insights, and enforces granular real-time controls to safely govern AI application usage.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+You know what I really like about our AI firewall is that it gives customers the ability to see, govern, and protect how AI is being used across their entire organizations without slowing down their businesses. At HPE, AI, networking, and security are no longer separate domains. They are converging into a single, intelligent, self-driving system. Madani, thank you so much, my friend.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Thank you, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Appreciate it.
+## Madani Adjali | Product Leader for SASE and Security, Hewlett Packard Enterprise
+Thank you, everyone.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay, I want to shift gears a bit and talk a little bit about something that sits at the very core of networking. You know what that is? Routing. This is what Juniper was originally built to do. Honestly, routing has never, ever been more important than it is right now because no matter what kind of network you are building, AI fabrics, data centers, campus environments, WAN, cloud connectivity, security architectures, service provider networks, blah, blah, you can keep going, routing is foundational to it all. It is the connective tissue. There are some routing fans here. Okay. It is the connective tissue for the modern infrastructure, and as networks become more distributed, more dynamic, and more AI-driven, the demands on routing are growing dramatically. To help me kick off this important topic, I'd like to welcome the Director of IT at Sentara Health, Tom Johnson.
+Tom, how are you?
+## Tom Johnson | Director of Information Technology, Sentara Health
+Great, Rami. Thank you.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Happy to see you. Thank you for joining us. Tell us a little bit about yourself and also about Sentara Health for those that are not familiar.
+## Tom Johnson | Director of Information Technology, Sentara Health
+Absolutely. I've been with Sentara Health for 29 years, and during that time, I've witnessed and been a part of many major technology transformations. We are one of the largest non-for-profit integrated health systems in the U.S., Mid-Atlantic, and Southeast. Over $14 billion in operating revenue, 35,000 employees, 12 hospitals in Virginia, northeastern North Carolina. We have over 200 connected sites with 400-plus total points of care.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Wow.
+## Tom Johnson | Director of Information Technology, Sentara Health
+Yeah. We have a health plan division that serves almost 1 million insureds in Virginia and Florida. It all keeps us busy.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I would imagine with that many different locations, employees, and patients, and an insurance business as well, you have a lot of sensitive data that you are dealing with on a daily basis. How does that impact your infrastructure and networking decisions?
+## Tom Johnson | Director of Information Technology, Sentara Health
+We move massive amounts of data across our organization, It directly impacts patient care. That's why our network has to be resilient, secure, and always available because when data is delayed, care is delayed. Our clinicians rely on real-time data for decision-making at the bedside, That requires instant, reliable delivery everywhere.
+Areas like radiology, where images from some of our systems are always pulled fresh with no caching. Latency simply is not an option.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay, get it. With many AI applications that require that, I get it. What kind of AI applications are you typically deploying in healthcare, and what does that mean? What else does that mean for your network?
+## Tom Johnson | Director of Information Technology, Sentara Health
+Wow, there are a lot of opportunities for AI. One example where we're seeing real success is using ambient AI to capture patient conversations. It generates the clinical notes and even helps identify potential care gaps. It allows clinicians to spend less time focused on documenting and more time focused on the patient. For those kinds of capabilities to work, our network has to deliver that data in real time, reliably, securely, and without latency, the clinicians, they can trust it at the point of care.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+We were talking backstage and discussing this a little bit. Looking ahead, I know you have ambitious growth plans and digital transformation plans in particular. What can you share with us about how HPE is helping you on this journey?
+## Tom Johnson | Director of Information Technology, Sentara Health
+Well, I could spend a lot of time talking about our initiatives. Healthcare's got tons of them. To enable them, our infrastructure has to be ready to grow with us. We need to be able to expand our operations and embrace new technologies while maintaining performance at scale. HPE is a trusted partner that has given us the solutions we need now and into the future.
+We love the AI capabilities that Mist gives us. You've heard about some of them today already. We would love to see that extended across all the networking domains.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I hope you're paying attention to the keynote that I'm delivering here because that's exactly what we are delivering, my friend.
+## Tom Johnson | Director of Information Technology, Sentara Health
+Excellent. I can't wait.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Listen, thank you so much. You are on an important mission, and we're proud to support you on it. Thank you.
+## Tom Johnson | Director of Information Technology, Sentara Health
+Thank you, Rami. Appreciate it.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Appreciate it.
+## Tom Johnson | Director of Information Technology, Sentara Health
+Thank you.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+As Tom showed, the network sits at the center of everything we do, and routers are the backbone. In fact, our routing solutions power some of the largest cloud providers and service providers and enterprises across the globe. If you access the cloud today, guess what? You used an HPE Juniper router. It is that simple. What enables our routing solutions to deliver exceptional scale, flexibility, and resiliency is the way we engineer them from the ground up. Purpose-built silicon, purpose-built system, and purpose-built software, all designed together as a single architecture. That end-to-end approach allows us to optimize performance across every single layer, and you see that engineering philosophy across the entire routing portfolio. Our ACX routers, built for enterprise and metro access and aggregation, our PTX routers, with industry-leading density and power efficiency, and our MX routers, my personal favorites, purpose-built for limitless flexibility across demanding edge environments.
+Our AI-native software and self-driving capabilities that automate the entire network life cycle. This is far more than just a routing portfolio. It is the infrastructure foundation of the modern digital world and the engine powering the AI era. To show you more, I am excited to welcome the product leader for our routing infrastructure solutions, Katrina. Come on up, Katrina. Welcome.
+## Katrina Pickett | Product Leader, Routing Infrastructure Solutions, Hewlett Packard Enterprise
+Hey, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Hello.
+## Katrina Pickett | Product Leader, Routing Infrastructure Solutions, Hewlett Packard Enterprise
+It is great to be here at HPE Discover, and I am so excited to show how we ensure our customers' networks deliver the experience that we promise at scale without drowning in complexity because you don't need to be a routing expert to manage your routers. With Mist and Marvis AI engine, we make routing operations simpler, easier, and more intuitive. Many of you guys have the horror stories when it comes to launching new applications. The escalations, the sleepless nights, the weekends in the situation room. There's got to be a better way, right?
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Mm-hmm. Right.
+## Katrina Pickett | Product Leader, Routing Infrastructure Solutions, Hewlett Packard Enterprise
+There is. It starts with HPE AI native routing. Let me give you an example. It's Friday afternoon. Our network operations manager is sitting down at his desk. He's ready to go home. He works for a leading healthcare provider. On Monday, they're going to do a big launch. They're going to put virtual AI agents deployed into every hospital, office, and clinic in their whole network. It's going to manage everything from patient care to hospital triage. If the network falls short, patient care will suffer.
+The staff is the one that picks up the slack. How can we help our network operation guide with this? Let's go ahead and take a look.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yeah, I'm excited to see.
+## Katrina Pickett | Product Leader, Routing Infrastructure Solutions, Hewlett Packard Enterprise
+The network is ready, everything's connected to Mist. There's just one problem. Until Monday, there are no users. Let's see what we can do with Digital Experience Twins. Everything looks green, which that's great, but what does all this mean? Effectively, Marvis turned the routers into Digital Experience Twins, generating synthetic application traffic into the network just like a real user would, detecting degradations in real-time without a single truck roll or single user being impacted. That's the power of Marvis. If we revisit our engineer, he's sitting on his couch, he's trying to have a good day, and lo and behold, notification. The experience has deteriorated. The latency has increased from 80 milliseconds to over 200. Let's go to Marvis and see if we can fix this quickly before it ruins our weekend, or worse, the launch. That red does not look good.
+What does it mean? We've got a bunch of failed tests across two separate KPIs. There isn't an obvious root cause. What are we going to do about this? Let's ask Marvis. Why has the latency suddenly increased? Marvis has a clear read on what happened. It analyzes the network in real-time, and it gives us an answer in plain English. The latency has increased because the traffic has shifted to a less optimal path, and it gives us the steps to validate and fix the problem. It looks like some configuration changes have removed the preferred route, forcing the traffic onto a backup path. Marvis even has a recommendation to fix it. Well, it's a relief that the routers kept the network up. Let's see what we can do about these SLEs.
+If we check out the latency view, we can see these failed tests have increased gradually over time. If we want even more details, we can see the granular spikes in latency. Overall, this aligns perfectly with what Marvis told us. Let's go ahead and look at what's going on with these excessive hops right here. Since Friday's baseline, we can see two additional network hops. This new route is definitely the issue. We're going to go back to Marvis Actions and see what we can do to fix this problem. Let me come over here. There we have it, the missing prefix. Marvis knows exactly how to fix the issue and how to restore the prefix. If we click here and look, I approve. This recommended configuration change is a good idea. You guys know what they say.
+Trust but verify. Let's check the actions on those Digital Experience Twins one more time just to be sure. Everything's back to normal. The latency's restored, the network's recovered, the application's performing as intended. If I'm ready, I can even take one step closer to self-driving by letting Marvis do this automatically next time. With that, we're back to enjoying our Saturday and watching the game with no one but us the wiser about the disaster that never happened.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+here I was, I thought that routing was hard.
+## Katrina Pickett | Product Leader, Routing Infrastructure Solutions, Hewlett Packard Enterprise
+Not anymore.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Not anymore. I see the power of AI-native routing. It senses what's happening in real-time, it reasons through the impact, and recommends or even takes action.
+## Katrina Pickett | Product Leader, Routing Infrastructure Solutions, Hewlett Packard Enterprise
+Exactly
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Before users feel the pain, this is a great example of how our Marvis AI engine is delivering impact across every domain. Katrina, thank you so much. It's great to have you up here.
+## Katrina Pickett | Product Leader, Routing Infrastructure Solutions, Hewlett Packard Enterprise
+Thanks, Rami. Thanks, Vegas.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I want to now shift our focus to the data center, because this is where the demands on AI are becoming very real. In many ways, there is no greater test of a modern data center network than in media and entertainment. Few industries push infrastructure harder. Massive amounts of content moving continuously across globally distributed product environments or production environments, real-time collaboration across teams and continents, ultra-high-resolution video workflows, and production timelines where downtime is simply not an option. In that world, performance and resilience are everything. To talk more about that, please welcome Director of Global Networking at The Walt Disney Company, Ben Croy. Ben.
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Hey, Rami. Good to see you.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Nice to have you. Please have a seat.
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Yeah.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Can you introduce yourself maybe, and tell us a little bit about your operating environment?
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Sure. Thanks, Rami. It's great to be here. I'm Ben Croy. I lead global networking for The Walt Disney Company. My team owns network architecture, engineering, and operations with a strong focus on media and production infrastructure. One of our largest production networks supports studios like Marvel, Pixar, and Lucasfilm. At any one time, I have over 200 concurrent productions globally, and a major film could easily generate a petabyte of content. This data has to move quickly, securely between partners, creatives, and departments globally.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Maybe give us an example of a recent movie.
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Okay. Sure. For an animated feature like "Zootopia 2," we may create the content in a single Burbank location then regionalize it around the world to prepare day and date release in 35 or more languages.
+The scale and the global movement of content is constant, and that's what our studio production network has to support.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+It's interesting. How has the technology behind filmmaking evolved over the last, let's say, decade? What has that meant for data centers that support your production environments?
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+For one thing, film is made digitally end to end now, driving a lot of change. A few things stand out. We've gone from terabytes to petabytes. Visual effects workloads have grown significantly, with over 80% of the movies now relying on some type of VFX. Virtual production environments emerged as well on films like Mandalorian and Grogu. This is much more sophisticated than the green screen VFX processes of the past, and there's no physical fallback anymore. It's all data end to end.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+When you're supporting some of the largest and most complex media productions in the world, what do you need from your network infrastructure to ensure that productions are delivered always successfully?
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Well, for us, it comes down to delivery and predictability. For our large feature productions, we release globally at around the same time in every country. If we miss that window, there's real financial impact. The network must be reliable, scalable, and able to move very large data sets without becoming the bottleneck.
+We leverage HPE Mist platform for our campus and Apstra for our data center fabrics. We found that these solutions give us more consistency across environments and a platform that allows us to scale.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay. Mist and Apstra. What role do you think the network should play in the creative process? How visible should it be to the filmmakers, to the artists, to the production teams who depend on it every day?
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Well, it's foundational. The network is a critical part of production, but it's ideally invisible.
+Our goal is simple. We want our filmmakers to focus on story, character, amazing visuals, and sound, not to worry if the network will do what it needs to do.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+As you look to the future of content creation, the technology just keeps getting more and more powerful, but also keeps getting more complex, unfortunately. What's the challenge that you're really trying to solve for, let's say, over the next few years?
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Two things, speed and simplicity.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+That's it. Speed and simplicity.
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+That's it.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay, Ben, I'm proud to make the network invisible for you. It'll be my mission.
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+All right.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Thank you, my friend.
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Please do.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Appreciate you joining us.
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Thank you very much.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Thank you.
+## Ben Croy | Director of Global Networking, The Walt Disney Company
+Thank you.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+The pace of innovation in the data center space is absolutely extraordinary. Architectures are evolving rapidly, workloads are advancing rapidly, customers' expectations are changing rapidly. Guess what? Fortunately, so are we. Our innovation engine is incredibly strong here, and we are moving aggressively to help customers build the AI data centers of the future. Yes, we are bringing self-driving operations to the data center as well. To dive into this in more detail, I would like to bring up Product Lead for Data Center, Kyle. Hey, Kyle.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Hi, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+How are you?
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Excellent.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Okay, great to have you with us. Tell us what's happening in the data center space at HPE.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Yes, thanks, Rami. You said it. What's really exciting is that we're bringing the power of AI native self-driving operations into the data center. Our solutions continuously collect rich, real-time telemetry across the network from our switches, routers, and firewalls. That telemetry flows directly into the Mist platform, where Marvis AI turns it into deep visibility, operational insight, and automated actions. What makes us truly unique is that we bring design, deployment, assurance, and operations together into a single life cycle experience. The result is continuous visibility, automated operations, and self-driving optimizations across the entire data center network. You want to see it in action?
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Let's do it.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Excellent. With HPE Networking, you get the proven self-driving capabilities you already know and trust applied to the data center too. For example, the Marvis dashboard that Sunalini showed for wired and wireless actions also services key anomalies for the data center network, and it clearly explains how to fix them. In addition, service level expectations or SLEs, which are a key part of the Mist platform for optimizing user experiences, are combined with our knowledge graph to continuously measure network health. We take this a step further with application awareness. We map application flows directly onto the data center network, allowing operators to instantly see the real impact of a switch or link failure. This moves application troubleshooting from reactive guesswork to intent-based decision making. To minimize downtime altogether, Marvis AI-powered intelligence enables proactive maintenance with Marvis Minis running network tests that continuously validate network intent and services.
+Further, predictive analytics monitors system and optics behavior, tracking 30-plus metrics such as voltage, current, temperature, CRC errors, and more. Machine learning models analyze these metrics to predict optics failures before they occur. Now, we go even further with agentic AI. The Marvis AI assistant uses reasoning models and intelligent agents to solve problems the way a seasoned network engineer would. It correlates data from multiple sources, contextual data, switch telemetry, application flows, historical tech support cases, then it performs expert-level reasoning, leveraging skills to rapidly identify the root cause and recommend next steps. What once took hours or days can now happen in minutes. By demonstrating the logic, process, and reasoning used, the agents give operators insight into the solutions being recommended, building trust in the network and allowing it to act autonomously.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+I think the pattern is pretty clear by now. We are extending self-driving operations across everything, campus and branch, security, routing, and data center networks as well. HPE does much more than networking, right? Inside the data center, we provide the networking, the compute, the storage, and the virtualization and orchestration layer that brings it all together. The obvious next question becomes, why just stop at the self-driving network? Why not extend self-driving operations through the entire data center?
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Agreed. We have been working hard to deliver a truly integrated data center infrastructure solution across HPE networking, compute, storage, and hybrid cloud to enable faster deployments and streamlined operations. We integrated our management capabilities with OpsRamp, our hybrid cloud observability platform, and Compute Ops Management for our platform for managing and automating server infrastructure. These integrations deliver comprehensive observability, predictive assurance, and proactive issue resolution across server, storage, and now the networking domain. We have now integrated with Morpheus, our management platform for virtualization and containers. We did this because many times when a virtual machine gets provisioned, the virtual network could take hours or days to provision in the physical fabric. Meanwhile, the app team and the business are waiting. By integrating data center operations with Morpheus, the network and server teams no longer work in silos.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+These integrations really make a difference when it comes to streamlining data center operations, and this is the value that HPE uniquely is able to deliver. Kyle, can we see what that looks like in real life?
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Yes. Let me show you. Here we are in Morpheus, a single pane of glass for managing your entire virtual infrastructure. VMs, clouds, clusters, workloads, all here. First, we connect Morpheus to our managed data center fabric. That's the bridge between the virtual world and the physical network. Now, we create two virtual networks, VNet 10 and VNet 11. We provision two VMs, a VM on VNet 10 and another VM on VNet 11. Both are live, hosting critical workloads. The proof? Both VMs communicating perfectly across the HPE managed fabric. Here's where it gets interesting. What happens when a VM moves? Let's start a continuous ping between the two VMs.
+Now we migrate one of the VMs from server nine to server 15. Watch the packet loss counter. Zero. Not a single dropped packet. The network and security policies follow the VM automatically, invisibly, instantly. We've automated networking and removed silos. This means that you get faster deployment and zero-touch networking without manual errors. When you move workloads for resiliency or server utilization reasons, the network and security policies follow automatically.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+What you just showed us is obviously incredibly powerful. You just demonstrated is that infrastructure operating as a coordinated system, Kyle, where networking, virtualization, and cloud operations are part of a single intelligent workflow. No tickets, no manual networking changes, no operational lag between teams, just seamless automation from the VM all the way down to the physical infrastructure. I love how when we integrate with the rest of HPE, customers get all the benefits of GreenLake: flexibility, cost savings, and accelerated time to value, thanks to an industry-leading hybrid cloud platform. Kyle, I know this integration goes beyond just that, right? What more do you have for us?
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+That's right, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Yeah.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Right here at Discover, we announced that HPE is expanding its AI data center solution to include our QFX switches managed by Apstra Data Center Director. This creates a full-stack, pre-integrated solution spanning compute, networking, storage, software, and services, which accelerates AI data center deployments with assured interoperability, scale, and performance.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+That's great news, obviously, but we all know that the automation and intelligence that comes from self-driving operations is kind of useless without a solid hardware foundation, which is why innovation in data center hardware has never been more important. Let's face it, hardware is kind of hot again, right? There has been a lot of new innovations recently to our AI data center products. Tell me about them.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Absolutely. We continue to innovate in our data center. In addition to recent enhancements to the MX and PTX routing lines, we keep adding new QFX platforms for scale-out and scale-up networking. We recently introduced the industry's first Ethernet-based scale-up solution, the QFX 5252, purpose-built for AMD Helios systems.
+## Speaker 11 | 
+Yay.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Yeah. Thank you. You can see this product in the demo area right over there. Trust me, you can't miss it. It's massive. It's like the size of a fridge.
+In addition, we launched the QFX5250, which was the first. The first 100% liquid-cooled switch using the Tomahawk 6 chipset. Just as we were the first OEM vendor to ship 800 Gig, we did it again with 1.6T connectivity. I'm excited to say this product is shipping now.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Let me just get this straight. If anybody wants to build a data center with 1.6 terabit connectivity, they really don't only have one option, right? It's us.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Yes.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+That's pretty damn cool. Congratulations to the team. Yes. All of this innovation across both data center software and hardware is definitely getting the market's attention. Our solutions are positioned as a leader in the Gartner Data Center Networking Magic Quadrant and ranked number 1 for enterprise build-outs and number 2 for AI Ethernet fabrics in the Gartner Critical Capabilities report. Right?
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Yes.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+This recognition is based on decades of innovation. When organizations think about building data center networks for the AI era, I believe they can have tremendous confidence in what HPE Networking is delivering. Kyle, thanks so much for joining me up here.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Yeah.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Appreciate it.
+## Kyle Baxter | Product Lead, Hewlett Packard Enterprise
+Thank you, Rami.
+## Rami Rahim | EVP, President, and General Manager, HPE Networking
+Today you heard a consistent message from every customer, every demo, and every innovation we shared. The old way of operating networks has reached its limits. The scale is too large, the complexity is too high, the pace of change is too fast, AI is accelerating all of it. That is why the future belongs to networks that can think, that can adapt, that can optimize, and that can protect themselves in real time. Self-driving networks, not a futuristic idea, not a lab experiment, but as a practical necessity for operating modern infrastructure at scale. Look, I know I'm not the first tech executive you've heard from talking about how their AI is better than everybody else's AI, and I'm certainly not going to be your last.
+I have deep conviction about what sets HPE Aruba Networking apart from companies that are mostly showing you slideware, it comes down to one key thing, efficacy. Our self-driving network just works. It works at scale, it works under pressure, and it works across our whole portfolio, from the wired and wireless edge all the way to the data center, delivering real outcomes to customer environments every single day. Honestly, the only way to truly believe it is to experience it yourself. I would urge you to try it. By the way, with HPE Financial Services, we can make it really easy for you to do just that, including a new network migration program to clear out old non-self-driving tech and reinvest in what is new.
+Once you see the infrastructure that can continuously monitor itself, optimize itself, protect itself, and get smarter every single day, you simply cannot unsee it. At the beginning of this presentation, we talked about foundations, about what happens when the foundation underneath something is not built for the demands placed on top of it. AI is creating one of the biggest technology shifts any of us will experience in our careers. Every company is being forced to rethink how they operate, innovate, secure their business, and compete. In moments like this, there are really only two choices. You can be disrupted by those who embrace the change faster, or you can become the disruptor.
+If you want to be on the right side of this change, if you want to move faster than your competitors, if you want AI to become an advantage instead of a source of complexity and risk, you have to start with the right foundation. A foundation built to adapt and scale with whatever comes next. That foundation is IT. That foundation is the network. That foundation is the self-driving network. Thank you all so much.
+Data Source: Quartr Last updated: Jun 16, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (11) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

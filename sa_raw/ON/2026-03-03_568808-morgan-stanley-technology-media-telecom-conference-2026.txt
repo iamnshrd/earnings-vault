@@ -1,0 +1,251 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-03
+## Joseph Moore | Managing Director, Morgan Stanley
+All right, welcome back. I'm Joseph Moore, Morgan Stanley Semiconductor Research, very happy to have with us the management team of onsemi, CEO and President, Hassane El-Khoury, and EVP and CFO, Thad Trent. Guys, thank you for coming. I really appreciate it. Maybe at a high level, you know, you've described an environment that's kind of stabilizing but not yet accelerating. That's still the view and kind of what's driving your view of the world these days.
+## Hassane El-Khoury | President and CEO, onsemi
+Look, I think our perspective's still very consistent, where the first step of a recovery is stabilization. We're in that. We have not seen a replenishment cycle that comes next. The positive signs that we can talk about is really a lot of the KPIs are trending in the right direction. Compared relatively speaking from 90 days ago till where we are today, you know, book-to-bill's improved. Our visibility has improved, not just the immediate quarter, you know, in turns, meaning less turns at this time for the next quarter, but also visibility out into, call it, the second half of the year. All of these are new, relatively speaking, from where we were 90 days ago, and at this point I'll take improvement 90 days ago relative any day.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+Things are getting better.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+I ncrementally. Not where, you know, we would call a recovery, but at least it's trending in the right direction.
+## Joseph Moore | Managing Director, Morgan Stanley
+You are showing year-over-year growth this quarter, for the first time in a while.
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah.
+## Joseph Moore | Managing Director, Morgan Stanley
+You know, are you at the point where you're shipping to end demand or you still think you're below that point?
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah. If you think about it, in industrial, it depends on market. In industrial, we've been shipping to end demand even in 2025, 'cause if you recall, industrial inventory drain started ahead of automotive. We also talked about being after, you know, draining the inventory and getting back to natural demand in automotive end of 2025. Right now we do believe we're shipping to end demand. One thing on the growth, you know, that you talked about, I just wanna remind everybody that in Q1 we're exiting about $50 million in business. If you add that to our guide for the first quarter, we're actually performing much better than just seasonality.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah. That's a great point. Thank you. Maybe looking at some of the end markets, in automotive, kind of talk through the growth drivers that you're looking at, EV versus sort of zonal architecture, and just how are you thinking about those dynamics?
+## Hassane El-Khoury | President and CEO, onsemi
+From an automotive view, you know, a lot of it is content. We've always been very consistent in our approach for automotive, where we're not as dependent on SAR as we are on the content within the vehicles made. What does that mean in numbers? The ups and down, the inventory drain and the inventory build that we talked about in automotive, if you wanna abstract all of that and normalize, if you go back to 2019 automotive revenue for onsemi, 2025 automotive revenue for onsemi, that revenue growth's 70%, seven zero, which means you're about a 9%-10% CAGR for that five-year period. Where we said about That's in a flat SAR.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+Our content, net content, natural demand, so I took out the COVID and all of that.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+I s SAR plus mid to high single-digit or high single-digit above SAR. That's the content. That's coming from electrification, not just EV, but plug-in hybrids, range extending vehicle, software defined vehicles, SDV, you know, inclusive of the zonal architecture. We're extending our power approach, where we've been really servicing the xEV in a power architecture. Now we have 10BASE-T1S Ethernet, so more communication. We have the SmartFETs for, again, the zonal architecture. All of this is new content we didn't have a few years ago. As we deliver on that high single-digit above SAR historically, forward-looking, we have more content coming in to support that trajectory.
+## Joseph Moore | Managing Director, Morgan Stanley
+That's helpful. Then cyclically, you've made the point to me before that we've seen these kind of small supply disruptions that have caused line down situations very rapidly. We had Nexperia a few months ago, which cleared up quickly, but it sort of showed how little inventory was out there. There's been some DDR4 stresses, and I've been very surprised that the memory of the automotive customers seems to be short, that you're seeing those things as maybe a warning sign and it might trigger a build, but you're not seeing any indication of any kind of replenishment.
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah. We're not seeing a what I would call a structural replenishment, but that doesn't mean that the risk is not there. It's kind of a tale of two cities here, where you have tier ones where their business model can't sustain or support an inventory build.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+Given, you know, the capital, the capital cost. You have also the OEMs that cannot have the risk of not being able to build. In the management of both of them, you know, we have some OEMs, which has not happened in the past, we have some OEMs purchasing directly from us. B ecause they see the risk. We are a strategic supplier. They buy strategic products from us that are very unique, therefore they know they need to have that security of supply.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+They know their demand, they have high confidence in their demand, so they're placing orders directly from us.
+## Joseph Moore | Managing Director, Morgan Stanley
+That's quite interesting. Thank you. China for automotive, you know, a lot of the innovation in automotive's happening there. You've maintained a strong position in China EV, but you do have potentially domestic competition. Just how do you think about the dynamics of that market?
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah, look, there's whether it's competition China domestically or competition from Western competitors or European competitor, competition is competition. Competition is good. The reason we win is superior technology. That's the primary reason we've won so far. That's the primary reason we will continue to win, whether it's China or whether it's anywhere else. I see it no different. There are local suppliers in China, but we've also said we have 50% share in the China EV market. Why? Because our products that we ship to China are superior than not just the local domestic Chinese, but the European peers that we compete against in China, and we win against both. The common denominator here is we have to maintain and advance our technology roadmap. As long as we keep doing that, we will keep selling on value.
+As soon as somebody catches up, whether it's China or somebody else, then it becomes harder to win. That's what we invest in. That's what we have been investing in to maintain that leadership in technology.
+## Joseph Moore | Managing Director, Morgan Stanley
+The markets that you sort of earmark for exit, those are the ones that just there's just no differentiation.
+## Hassane El-Khoury | President and CEO, onsemi
+There's no differentiation. Those are not anything new. Those market that we or product/market that we earmarked for exits, if you recall, we earmarked those in 2021. Our view of where value is with our product portfolio has not changed since 2021. It just took us a long time to exit.
+It's still exactly the same products. In 2021, I talked about $800 million-$900 million of exits. Fast-forward, inclusive of the exits for the non-core exits in 2026, we would have exited $900 million. The number didn't change. The timing changed.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah. Yeah. Okay. Helpful. Thank you. Industrial, you know, as you said, you returned to growth. How broad is that recovery? Is it sort of narrow by segments? Just how are you seeing growth?
+## Hassane El-Khoury | President and CEO, onsemi
+Industrial recovery, I would say, is broad. Because if you look at it also, the PMIs are trending, you know, for the first time over 50.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+That gives you more of a broader recovery. Now, of course, within industrial, you know, we've had strength throughout even the downturn where, you know, our medical business within industrial has been trending strong. Aerospace defense and security, that's been trending strong. In general, I would say outside of just the normal seasonality, the industrial market overall is doing better.
+## Thad Trent | EVP and CFO, onsemi
+Yeah. For Q4, it was the first quarter that we saw year-over-year growth in industrial in over three years.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Thad Trent | EVP and CFO, onsemi
+You know, we think that in 2025 we were kind of bouncing across the bottom in industrial. In Q4, that uptick has given us that signal that that broad industrial, that broad set of customers is recovering, and we're seeing that layering in through the backlog in the bookings.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay, great. I mean, you've done a pretty good job of identifying these challenging situations relatively early. You know, you've talked about weaker industrial before others, certainly that played out then automotive similarly. You know, do you feel like, why is it that you have? Is it the LTAs? What's kind of giving you the visibility to?
+## Hassane El-Khoury | President and CEO, onsemi
+Well, on the way into the downturn. It was the LTSAs because when you have a contractual obligation for a certain level and then you can't fulfill that obligation, and the obligation is over a multi-year period, you're gonna place the call to start negotiating early. We started getting those calls from customers that gave us that visibility. Because, you know, I've always been very consistent, those LTSAs are very helpful to get the call and then talk about a win-win 'cause it wasn't to our advantage to just keep shipping inventory just 'cause we have a contract. We've done a good job through that period. On the uptake, if you recall, every January in 2023 and January of 2024 and January of 2025, a lot of people are talking about second half of whatever year recovery, and I've always been consistent of, I don't see it.
+I don't see the catalyst. I don't see the signs. PMI is flat to down. It's end to end. Now I'm seeing it differently. Not yet a recovery, but it is different and it is stabilization, and the KPIs are actually trending in the right direction.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+Now what I'm looking for is the sustainability of these KPIs. Is book-to-bill gonna be consistent? Is the fill rates gonna be there? As we get closer to those outer quarters, are orders gonna retain and go up? Those will start leading to a recovery. That's the next step for us, post stabilization, replenishment, and full recovery.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay. If you talk about the exits, the businesses that you're pulling away from 'cause they don't meet the criteria, how much longer is that gonna be a headwind? Are you gonna be able to resolve that over the course of this year?
+## Hassane El-Khoury | President and CEO, onsemi
+I guarantee you. I guarantee you I will not be talking about this after December of 2026.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Hassane El-Khoury | President and CEO, onsemi
+It will all be done before by the end of 2026. Think about 2026 as a transitional year.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+2027, we resume growth because then our base business.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+Will start netting out the growth. Today it's kind of being compressed with the exits.
+## Joseph Moore | Managing Director, Morgan Stanley
+The reason the exits take longer is that the customers just keep buying after you've sort of elevated the price level?
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah. If we recall, we quote unquote, we exited these businesses by raising prices, thinking the customers will go elsewhere.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+They didn't.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Hassane El-Khoury | President and CEO, onsemi
+We said at the time, we'll keep it as long as it's not dilutive. The thing is that downturn has been so long, some of our peers have been more aggressive on their pricing.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Hassane El-Khoury | President and CEO, onsemi
+We've always said, we're not gonna chase that business down.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+If it starts coming down in pricing and margin, we're just gonna walk away, and that's what's happening.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay. Helpful. Can you talk about the restructurings that you've done? You've talked about a sort of a permanent efficiency gains as a focus. Can you just give us some color into that?
+## Thad Trent | EVP and CFO, onsemi
+Yeah. There's two types of restructuring that we've done, just to clarify, Joe. We know we've done our Fab Right initiatives.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Thad Trent | EVP and CFO, onsemi
+W e've done OpEx restructuring as well. That's because we've been driving efficiencies across the organization. We've been investing through the downturn, you know, even though the top line has been compressed, we've been investing. Year-over-year, our OpEx is actually gonna be down in 2026, you know, a couple percentage points. This is our new baseline at this point. You know, we're still above our model in terms of the OpEx percent, but in terms of dollars, we're investing the right amount of dollars, we'll grow back into that. If you think about it, as the market recovers, there's a lot of leverage in the model because OpEx isn't gonna grow at the same rate as revenue.
+On the Fab Right side of things that we have executed on, we took about 12% of our capacity offline between the actions that we started in 2025 and that we'll complete here in 2026. That's because we're getting more efficiency out of our footprint. The first thing we did, if you remember, is we divested some fabs, then we've been driving efficiency within our existing footprint. We don't need all the capacity, especially as we exited some of these businesses, so we've been taking that capacity offline. The impact there is, for 2026, is about $45 million-$50 million of depreciation benefit in 2026 versus 2025. That'll hit the P&L in the second half of the year as we bleed through that inventory. That's a favorable margin impact in the second half of the year.
+As we go forward, we think there's more in Fab Right that we'll be doing over the next several years, and we think there's another couple hundred basis points of gross margin improvement that we can execute when it comes to just the Fab Right initiatives over the next few years. We're not done. We're continuing to drive efficiency.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah. Okay. That's helpful. Then just can you talk about the margin framework? Obviously, utilization's been the biggest headwind there. How are you feeling about that? It seems like you should start to improve. How do you think about it?
+## Thad Trent | EVP and CFO, onsemi
+Our underutilization charges are about 700 basis points currently. That's driven by the top line. As the market recovers, our utilization will improve. Last quarter, we were at 68% utilization, that's gonna click up slightly here in Q1. I think based on projections and what we're seeing right now, we're probably gonna get kind of in that mid-70% range for the year, again, helping margins in the second half. The short-term driver of gross margins is all utilization, right?
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Thad Trent | EVP and CFO, onsemi
+Every point of utilization is 25 to 30 basis points of gross margin improvement. You can do that math, and you can see where we're gonna get. In addition, you know, there's the 200 basis points that I just talked about with Fab Right. As we get more of our higher margin products ramping over the next couple years, there's another couple hundred basis points there. You start adding that up, and you can get up, you know, start getting up over 50% pretty quickly, which is our target, our long-term target.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+One thing, the, you know, the 700 basis points he mentioned on the under the underutilization is not cash. We can look at our cash flow, margin in a downturn, 24%. $1.4 billion free cash flow all used to buy back shares. Even in a downturn, our model is performing at peak.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah. No question. Okay, great. Maybe walk through some of the growth initiatives in some of the markets. Silicon carbide, you have a unique position. You bought the GTAT assets vertically integrated at the substrate level. The automotive market has been challenging, I guess, in that space, but there's a lot of opportunity now for silicon carbide. Can you talk about, you know, how you might use that going forward?
+## Hassane El-Khoury | President and CEO, onsemi
+Let me start with silicon carbide in general, we got a couple of flavors of silicon carbide. We have the traditional called MOSFET silicon carbide and what we call silicon carbide JFET. From an market perspective in automotive, you're right. I mean, the automotive outlook for the market is not what it was two years ago. However, it remains a growth market. It's lower growth, but nevertheless, it is a growth market, and it is a large growth market. What changed in the last couple of years to put us in this, in this good position with the outlook of silicon carbide? A couple of things. I'll start with automotive. One is the penetration of silicon carbide into EVs. Forget about needing having more EVs.
+The number of EVs is going up year on year. That's growth number one. Penetration of silicon carbide into EVs. If you take out the North America EV company, the silicon carbide penetration in EV is only 14%, 1/4. There's a lot of ways to go just without even units of EVs growing, just more silicon carbide into EVs. Another positive dynamic that's happened in the last couple of years, a lot of people are talking about plug-in hybrids. Historically, plug-in hybrids have been IGBT-based plug-in hybrids ranging in the 40-50-mile range. New generation plug-in hybrids, OEM are pushing them to a 100-mile range. When you get to a 100 mile, now you're using silicon carbide. Even plug-in hybrids now are using silicon carbide from silicon.
+That's a positive catalyst that wasn't around a few years ago. AI data center power. As you get to higher and higher voltage on the PSU, you're getting more into silicon carbide JFET land. Again, that opportunity was not there a few years ago. All of these are, although we talk about, you know, EV not being the growth, not being to the level that we thought, it's still growing, but there's also a lot more opportunities that we didn't know about a few years ago that now is coming into our domain. We're shipping to all of these demands. That's why we still see silicon carbide as a favorable market, number one. Number two, we already talked about our advanced technology and how we position that against competition, whether it's China or elsewhere.
+These two together, growth market and a technical competitive advantage, make this a good position for onsemi.
+## Joseph Moore | Managing Director, Morgan Stanley
+Thank you. The capabilities you've acquired, you talked about the JFET business, you've got vertical GaN capability, should position you well in AI power, which is a market where you've been pretty small up to this point. You're one of NVIDIA's partners on the 800 volt platform. Just help us understand what that opportunity looks like for you guys.
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah. If you think about today's AI rack, you can think about it as a 120 kW power rack. The content, serviceable content for us is about $9,500, $9,500. You look at future generation or next generation racks, when you talk about 800 volt rack, 1 MW, that content opportunity goes up to $105,000. A tremendous increase in content.
+How we service that content, we service that content all the way from high voltage to lower voltage at the core. Throughout the power tree, going from 800 volts down through the, call it three or four transitions. You know, 400 to 50, 50 to 12, 12 to whatever core it is. As you move forward into 800 volt domain, one, the content goes up, point number one. Point number two is what customers are trying to do is reduce the number of conversions. Try to go from 800 volts to something much lower. When that happens, that becomes an onsemi domain because we do both.
+The high voltage and the low voltage. When you combine them, you can't combine them if you don't do both bookends.
+We do both bookends with very differentiated technologies that others do not have. silicon carbide JFET, vertical GaN. We're the only company in the world today that does GaN-on-GaN at 1,200 volts sampling, not, you know, some advanced R&D project. We are sampling those both in automotive and AI data center. You put those together, that gives us competitive advantage not just today, but also forward-looking as the architecture of the rack starts to change.
+## Joseph Moore | Managing Director, Morgan Stanley
+Are those relationships with the power supply companies, with the hyperscalers?
+## Hassane El-Khoury | President and CEO, onsemi
+It depends. When you are in the power for the rack-
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+Is the power, the PSU vendors and so on. As you get closer and get on the board, that's more on the compute side. That's the, call it the supply chain or the design in path.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah. Okay. overall data center is a growth priority for you guys?
+## Hassane El-Khoury | President and CEO, onsemi
+It is for sure.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay, great. maybe talk about Treo a little bit with the, with the product you introduced there and, what traction are you seeing or are you continuing to see the growth in that part of the market?
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah. Just I guess to anchor everybody. Treo is our advanced analog mixed-signal platform and technology. And I say platform and technology, it's 65 nanometer BCD. It is high voltage. It is the only 65 nanometer technology in the world that can support up to 90 volts inherent in the technology. That puts it perfect for 48 volt applications like zonal or AI data center, and it puts it great for in general automotive. That's on the technology. The platform that we've introduced is a IP-based platform, which means that we can create products to service a multitude of end markets. What does that mean? In automotive, we talked about 10BASE-T1S Ethernet. That's based on our Treo platform.
+We've talked about our drivers for our high power switches. That's based on Treo. onsemi is number one in ultrasonic sensing in the world in automotive and now in robotics. That is also based on Treo. You see medical devices based on Treo. It gives us a franchise that is very high margin, 60%-70% gross margin, but very versatile as far as targeting a lot of the end markets we plan. Where are we on progress towards that? We've given the outlook of $1 billion in revenue by 2030. Where we ended 2025 was $1 billion of funnel already. We have doubled the number of products in 2025 that we had in 2024.
+New product momentum, which is what you need for the funnel in, driving for the revenue, we've delivered on that momentum. We have also put a goal out there that we were going to get first revenue in the second half of 2025. We achieved first revenue, high volume revenue in the first half of 2025, so a couple of quarters ahead. All of these give us the confidence that, one, the technology is robust because of the volume, and two, the technology is compelling because of the momentum that we're having with the customer and the pull-in of the revenue we saw in 2025. All of these give us higher, you know, confidence about achieving our $1 billion of revenue in 2030. To remind you, this is all manufactured in-house.
+As that ramps, it helps with the utilization that Thad is talking about.
+## Joseph Moore | Managing Director, Morgan Stanley
+With very high gross margins.
+## Hassane El-Khoury | President and CEO, onsemi
+With 60%-70% gross margin, giving us that mix of products then.
+## Joseph Moore | Managing Director, Morgan Stanley
+How do you go to market with a product like this? Is it through distribution? How do you create that ecosystem? It seems like you're sort of competing with people just pulling stuff from a catalog a little bit, and they're developing something.
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah. We obviously, go to market with our, distribution partner is one.
+## Thad Trent | EVP and CFO, onsemi
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+A lot of this stuff also is design-in capability, which is, you know, a 10BASE-T1S Ethernet for automotive, zonal. Nobody's gonna pick it off of catalog. It's an architectural design that we get involved with the architects of the vehicle. It is a architectural sell, that we have a very skilled sales and field application engineers that work directly with the customers. To get the breadth of it, yes, we do have also products that go through distribution.
+## Thad Trent | EVP and CFO, onsemi
+There's also a time-to-market advantage. We can get from design or concept to sampling in six to nine months. We can intercept designs with customers very quickly. And help kind of solve their needs on a very quick basis. That gives us a time to market advantage.
+## Joseph Moore | Managing Director, Morgan Stanley
+When you talk about incremental families of Treo, is that informed by customer conversations where they're like, "This is what we want from you"?
+## Hassane El-Khoury | President and CEO, onsemi
+The families we define.
+## Thad Trent | EVP and CFO, onsemi
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+P roducts within these families, some of them are-- we don't make ASICs.
+## Thad Trent | EVP and CFO, onsemi
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+You know, our plan is not to make ASICs, but design and feedback, whether it's on the current generation or the next generation, the customer says, "This is great. I'm designing it in. Here's my roadmap. Can you make sure we have the next generation that supports the customer's roadmap?" Basically, the platform allows us to get a design in on the next generation of the customer before they start on it.
+Which that's the conversation we wanna be having. That's what drives the margin and the value and really the stickiness of it.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah. Okay, cool. I have one more question, and then we can open it to the audience. Really good story around cash return. You've been returning 100% of cash. You talked about how good the free cash flow dynamics of your business are. You did try to do an acquisition and the potential seller didn't accommodate it, but then you sort of moved to a $6 billion repurchase. How committed are you to that? Is M&A still a possibility? Just how do you think about cash return over time?
+## Thad Trent | EVP and CFO, onsemi
+If you look at our capital allocation policy, it's very consistent. Number one, invest in our business. R&D, we talked about that, right? We've got the right investments. We've got big CapEx investments behind us in our East Fishkill, in our silicon carbide build-out. That's all behind us.
+Our big investments are behind us. That was priority number one. Priority number two was balance sheet flexibility.
+Now we've checked that box as well. M&A. We've done small tuck-in acquisitions. We've looked at some other things, you know, that's the third priority. Fourth is return that capital to our shareholders through repurchases, and that's what we've been doing. Over the last year, we've returned 100% of our free cash flow, 24% margin on that free cash flow, to our shareholders, and we'll continue to do that. That's after making the investments that we return it. We announced in November, we announced the $6 billion buyback and, you know, we're continuing to do what we're doing.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah. Okay. If there were M&A that entered into it, how would you think about that?
+## Hassane El-Khoury | President and CEO, onsemi
+Yeah. For us, M&A, if you think about it has to be strategic, it has to be complementary to our portfolio.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+I n general. What I mean complementary to our portfolio, products that land, you know, along the same board with the same customer or a market opportunity with a, with a SAM expansion.
+You know, you're not gonna see us do just M&A just to get scale. We have scale. Some of the M&A is not fixing a gap, it's accelerating.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+You know, I'll give you a perfect example. The silicon carbide JFET we've acquired.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | President and CEO, onsemi
+W e had that internally being developed. We saw an opportunity with an asset, with leadership that gives us the time to market advantage. It worked out very well because now we're designed into the AI power and data center.
+## Joseph Moore | Managing Director, Morgan Stanley
+Great deal for sure.
+## Hassane El-Khoury | President and CEO, onsemi
+We're gonna use it as a, as a lever to not only fulfill some potential gaps in the portfolio, but accelerate gaps we have identified that we're working on organically, along with, of course, strategic, like I said, to expand the exposure with customers.
+## Joseph Moore | Managing Director, Morgan Stanley
+Great. Let me stop there and see if there's questions from the audience. Got one in the back.
+## Speaker 4 | 
+Hi. Thanks. I had a question just about, if you were to look at the Venn diagram of your data center and non-data center products, to what extent are those products fungible, and to what extent, you know, maybe over the short to medium term, and to what extent, kind of like we've seen in kind of, commodity DRAM, might you see, you know, non-AI and AI as interproduct competition for those chips?
+## Hassane El-Khoury | President and CEO, onsemi
+I would say, that's a good question. Hopefully, a lot of the non-AI customers listening. If you think about it from a technology perspective, and from a technology perspective, it's all landing on the same technology. Call it from a wafer technology. It's what we talk about Treo in AI data center next to the XPU is the same Treo on the technology, same fab, same wafer technology that we do in automotive ultrasonic sensing. From a technology, it's fully fungible. From a product, called the SPS type products, which is the, call it the PMIC that sits next to the GPU or XPU, that is not fungible. All the power devices I just mentioned are silicon carbide, silicon carbide JFET, medium and low voltage MOSFETs. All that is the same across all of our markets.
+Highly fungible. Let me answer the next question that people will think about, which is, if the market all comes back at the same time, what happens? It'll be a good day.
+## Joseph Moore | Managing Director, Morgan Stanley
+AI guys get what they want, I can tell you this so far.
+## Hassane El-Khoury | President and CEO, onsemi
+It will be basically the allocation conversations we'll be having in 2021, on steroids, because in 2021, AI was not a contender in the capacity. Today, they are. That from our perspective, it's the same platform across the board for us.
+## Joseph Moore | Managing Director, Morgan Stanley
+We have one more question. Up here.
+## Speaker 5 | 
+Hi. Hassane, maybe help us understand the market share for you in PSUs for GaN. If you listen to one of your European peers, they talk about process IP, thin wafer handling, 300 mil as their advantages, and you got an architecture advantage in vertical GaN. What does that mean for market share in that PSU slots?
+## Hassane El-Khoury | President and CEO, onsemi
+From a GaN specific market share, time will tell. It's too soon to tell. You know, we're sampling the vertical GaN. From a technology perspective, it doesn't matter if you have, you know, how thin the wafer is and how big the diameter is. At the end of the day, in lateral GaN, which is what, you know, my peers are talking about, lateral GaN, to get to 1,200 volts, you have to stack two of them. Vertical GaN, you do it with a single chip, which means your density is better. From a technology perspective, high voltage, you cannot do it with lateral GaN unless you stack them, which is what everybody's doing today. They tell you, it's you stack two 650 volt. That's the topology today.
+It's not a secret. The difference is the technology underlying. Doesn't matter how you manufacture it. You know, all the wafer thinning, all of that stuff is manufacturing. It's not a product. One thing I will remind everybody is like in the last five years, what we have done at onsemi is we have moved from being a manufacturing company to a product company, which means we will compete on products first, then we'll figure out the best way and most efficient way to manufacture it and go to market, which is how you extract the margin that we have a target for.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay. Well, it looks like we're out of time. Wrap it up there, Hassane.
+## Hassane El-Khoury | President and CEO, onsemi
+Awesome. Thank you. Thanks, Joe.
+## Joseph Moore | Managing Director, Morgan Stanley
+Appreciate it.
+Data Source: Quartr Last updated: Mar 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (5) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

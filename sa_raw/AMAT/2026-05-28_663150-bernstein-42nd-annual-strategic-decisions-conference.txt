@@ -1,0 +1,523 @@
+TITLE: Bernstein 42nd Annual Strategic Decisions Conference
+DATE: 2026-05-28
+## Stacy Rasgon | Senior Analyst, Bernstein
+Thank you for coming, everyone. I'm Stacy Rasgon. Hopefully, you know I'm Bernstein's senior analyst. I cover the U.S. semiconductor and semiconductor capital equipment space. It's my honor to welcome our guest here today, Gary Dickerson, the President and Chief Executive Officer of Applied Materials. Before we get started, I want to remind you, if you have questions you'd like to ask during the presentation, you should have a link to our Pigeonhole forum where you can submit those, and we will have time for Q&A at the end. Look, semi cap's been pretty remarkable. We've had a renaissance in the industry over the last several years, but it's really shifted into overdrive recently as AI has gone mainstream. The demand profiles that we're seeing are calling for just simply more, more chips, more wafers, more tools.
+In that world, companies like AMAT, the contributions that they are bringing to that world are more important than ever as materials-driven innovation moves to the forefront of process technology development and enables the industry to satisfy this incredible amount of demand that, at least for now, we still have. To tell us all about what he thinks about it gives me great pleasure to welcome Gary, and I've been looking forward to this conversational conference. This should be fun. Gary, thank you so much for coming.
+## Gary Dickerson | President and CEO, Applied Materials
+Oh, thank you, Stacy. Really glad to be here.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+Always fun to hang out with you.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah. Look, maybe just to start on that point, I mentioned sort of a renaissance. It wasn't that long ago that $100 billion in WFE was seen as this aspiration, and we've blown through it, right? We might be 50% higher than that this year and growing, potentially for multi-years. You guys have talked about significantly increased visibility and a multi-year long term growth cycle. Maybe just to start there, clearly this is all driven by AI. AI is sort of dragging everything in the space along with it.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+which certainly helps you guys. What has AI actually done for wafer and equipment demand? Why are we seeing what we're seeing right now in this environment? Maybe as you think through the business and the different segments and how AI is impacting all those, whether it's logic or DRAM or packaging.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Again, AI is the biggest technology inflection of our lifetimes, really. We're using AI inside Applied Materials.
+## Stacy Rasgon | Senior Analyst, Bernstein
+I want to ask you about that a little later, but yes.
+## Gary Dickerson | President and CEO, Applied Materials
+Innovation, product development, operations, supply chain, our service engineering, process engineering. For me, the really big driver is top-line growth. Certainly, we're going to be more efficient and more productive, but I will bring multi-billion dollar products to market faster, even some later this year, using AI technologies, and we will make our service engineers more productive, so that we can deliver higher value services and increase the compound annual growth rate for that business. I think that, again, this is just driving tremendous computing demand. For Applied Materials, we're the leader in materials innovation in the most important and fastest-growing segments that are enabling AI. Leading-edge foundry logic, DRAM, and advanced packaging, those three segments are way more than 80% of the incremental WFE spending in 2026. We think that profile continues going forward. You talked about all of the discussions with customers.
+I'm in very frequent discussions with customers on delivery times.
+We can talk about that. We've done a lot to improve our operations and supply chain, so we have ramp agility. The other thing, again, I'm meeting CEOs and R&D leaders all the time, is the AI computing innovations. One thing everybody's focused on is tokens per second per watt. Tokens per second is performance, per watt is power and cost. Again, those three segments, leading-edge foundry logic, DRAM-
+Advanced packaging are the most important for chip architecture innovations. Again, Applied is the leader. We've said we're growing our systems equipment business more than 30% this year.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+Mid-50s gross margins and continuing to go higher. Again, that's making a major difference for Applied.
+Advanced packaging is the other segment that is growing very quickly. Again, those architecture inflections, how you connect computing components together and how you move the data is incredibly important for tokens per second per watt. Again, Applied has the most enabling portfolio. We're in deep engagements, deeper and longer than ever before because we're co-innovating with our customers. We're out 10 years in the future, multiple technology nodes, and Applied is the key enabler of those new chip and packaging AI architecture inflections with this materials innovation portfolio that we have. I've never had more fun, Stacy.
+## Stacy Rasgon | Senior Analyst, Bernstein
+We can see that. I want to take those three segments one at a time.
+## Gary Dickerson | President and CEO, Applied Materials
+Sure.
+## Stacy Rasgon | Senior Analyst, Bernstein
+We talked about leading-edge logic and DRAM and packaging, because I do think, I agree with you, I think those are the three, at least at this point, are probably driving the majority.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+of what we're seeing. Maybe to take them one at a time, maybe to start with advanced logic and foundry, what is it that you're doing? You've talked a lot about things like gate-all-around and whatever it is.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah.
+## Stacy Rasgon | Senior Analyst, Bernstein
+What is it that AMAT's doing, and how is that actually driving the business today?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Again, for AI, everynode in foundry logic gives you something like 30% power, 15% performance.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Do they still do that, by the way?
+## Gary Dickerson | President and CEO, Applied Materials
+Well, nearly that I would say. If you look at the transistor, Applied is by far the leader. Also for wiring, it's a multi-billion dollar business, and I tell everybody, in your smartphone, you have a processor chip with 20 billion transistors, 60 mi of wiring, and it costs $30.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+What we do in the semiconductor industry is we're delivering miracles every year.
+## Stacy Rasgon | Senior Analyst, Bernstein
+As I've said, I'm amazed any of it works at all.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Again, for gate-all-around, which is how you process the data in a transistor, there are more innovations on next generation gate-all-around. In the future, they're going to stack N and P transistors for CFET. In the wiring, there are tremendous innovations. Customers are also putting the power lines on the backside of the wafer, which gives them better power performance, 30% area scaling. All of those areas Applied, as those architectures are adopted, will capture over 50% of those available markets and gain share. What we've said for foundry logic is, with gate-all-around and backside power, it increases our revenue per wafer start about 30%. We're gaining share.
+## Stacy Rasgon | Senior Analyst, Bernstein
+What's the dollar number? You gave one, I can't remember what it was.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Basically, the combination of transistor and wiring goes from $12 billion-$14 billion for 100,000 wafer starts. There's also share gains for us. One thing I would say that is also very different, this is, we can talk about DRAM or foundry logic, that's changed in my time in the industry. I think in the past Applied was more providing equipment-
+to customers. Over the last seven or eight years, we've built a team of integration innovators that are as good as any of our customers. In a transistor, you have something like 500 steps, and wiring as many steps. There's co-innovation and co-optimization across that flow, and about 30% of our revenue is also integrated systems.
+where we're combining multiple technologies under vacuum. Some of these films are an atom or two atoms thick.
+If you go to air, you oxidize, and you damage electrical properties. I think one thing that is really important for Applied Materials in enabling these AI computing innovations is this portfolio we have, our ability to optimize, and that's why our customers are joining EPIC. That's why we have these very, very deep partnerships with these customers, enabling AI computing innovation. Foundry logic is certainly an area where Applied has tremendous strength, and we will grow share as these new architectures are adopted.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. I'm going to get back to the EPIC Center stuff in a bit.
+## Gary Dickerson | President and CEO, Applied Materials
+Okay.
+## Stacy Rasgon | Senior Analyst, Bernstein
+I want to talk about DRAM now.
+## Gary Dickerson | President and CEO, Applied Materials
+Sure.
+## Stacy Rasgon | Senior Analyst, Bernstein
+You picked up, I can't remember, something like 10 points of market share over 10 years in DRAM.
+## Gary Dickerson | President and CEO, Applied Materials
+Overall DRAM spending.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Right.
+## Gary Dickerson | President and CEO, Applied Materials
+Overall DRAM spending, yes.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Clearly, if I'm looking at one of these AI racks, and I look at just the wafer area of the semiconductors within the structure, HBM DRAM must be 80% plus of the-
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+There's a lot of DRAM that's going to go in there.
+## Gary Dickerson | President and CEO, Applied Materials
+Oh, no question. HBM, you have to start three or approaching four times the number of wafers.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Right
+## Gary Dickerson | President and CEO, Applied Materials
+because you're stacking, and you have some yield loss, to have the equivalent number of bits.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Right
+## Gary Dickerson | President and CEO, Applied Materials
+versus standard DRAM. Obviously DRAM demand is extremely high.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+For Applied Materials, again, as you said, we gained 10 points in a little over a decade in overall DRAM share, and Applied is by far the leader in wafer fab equipment, process equipment for DRAM. There again, for AI computing, people want really fast memory. In the CMOS logic-
+they're innovating with metal gate and new versions of metal gate, where Applied again, has very, very high share to go faster.
+## Stacy Rasgon | Senior Analyst, Bernstein
+This is of the logic portion of the DRAM.
+## Gary Dickerson | President and CEO, Applied Materials
+logic portion of the DRAM, because again, how you move the data is incredibly important. Those are all areas where Applied has tremendous strength. Again, we're in these multi-node, many year engagements with these different customers. We have a great portfolio of products, and we're also in these high velocity co-innovation relationships with customers. As they're innovating with the CMOS logic for higher speed, as they're innovating for vertical channel transistor, 4FÂ² or 3D DRAM, again, we have very deep partnerships, just like we do in leading edge foundry logic, where those innovators, integration teams, architecture teams, are working with Applied Materials, creating those future architectures. What we've said in DRAM is that, again, we're positioned as these new architectures are adopted, the CMOS logic.
+the 4FÂ², 3D DRAM, for significant share gains, continuing what we've been able to deliver in the last little over a decade.
+## Stacy Rasgon | Senior Analyst, Bernstein
+What kind of time frames are we talking about for 4FÂ² or 3D DRAM?
+## Gary Dickerson | President and CEO, Applied Materials
+Well, I'd rather have the customers.
+give those timelines. people are extending 6FÂ².
+## Stacy Rasgon | Senior Analyst, Bernstein
+4FÂ² would be a smaller cell size, so a higher density of the memory bits on the-
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Higher performance, lower power-
+## Stacy Rasgon | Senior Analyst, Bernstein
+Area
+## Gary Dickerson | President and CEO, Applied Materials
+higher area density, all of those things. Again, you know, the bets that people are placing are not exactly the same.
+in terms of timelines. I'd rather have them talk about those.
+## Stacy Rasgon | Senior Analyst, Bernstein
+That's a big bet.
+## Gary Dickerson | President and CEO, Applied Materials
+Again, the CMOS logic is the most near term, because high-speed memory is so important. That's, again, a tailwind for Applied from a market share standpoint. Most people are 4FÂ² and then 3D DRAM, in that kind of a sequence.
+That's going to happen over the next number of years.
+## Stacy Rasgon | Senior Analyst, Bernstein
+It really brings home, you really are engaged, I mean, 10 years out.
+## Gary Dickerson | President and CEO, Applied Materials
+Oh, absolutely.
+Yeah. Again, for these architectures to be adopted, this is really the strength of Applied's portfolio. If you look at these inflections, when we look at leading-edge foundry logic, when you go to 14A or 1.4, people use different terminology, or you go to these DRAM architectures, there's somewhere between five and 10 key innovations that determine timing of those architectures. Applied is by far the leader. If you look at 3D DRAM, really the top three key technologies are all from Applied Materials.
+## Stacy Rasgon | Senior Analyst, Bernstein
+What are those technologies?
+## Gary Dickerson | President and CEO, Applied Materials
+Well, I don't know if I want to go into.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Oh.
+## Gary Dickerson | President and CEO, Applied Materials
+exactly what all of those things are. Again, this is where we do this high velocity co-innovation.
+In some cases, you need an order of magnitude improvement in the equipment to enable the performance, power, cost, yield of those new architectures. For DRAM, again, high confidence that we're going to continue to gain share there. That's, from a memory standpoint, especially for AI, fastest growing segment.
+in memory. Again, Applied is in a great position. We can talk about EPIC, again, how we work with people with all of these architectures.
+## Stacy Rasgon | Senior Analyst, Bernstein
+We'll get there next. First, I want to talk about packaging, because this is another.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+I mean, look, Moore's Law slowing, the transistor scaling is slowing. You have to do other things. Packaging is certainly one of those. How do you put together these different chips in new and interesting ways? For AI, clearly it's enormously important. You guys must be the biggest advanced pack-
+## Gary Dickerson | President and CEO, Applied Materials
+We are
+## Stacy Rasgon | Senior Analyst, Bernstein
+vendor.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah, we are.
+So.
+Again, packaging, I think is one of the most exciting inflections in the entire industry. It's really how you connect computing components together. Jensen and others, they talk about wanting to make the packages as big as they can.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah
+## Gary Dickerson | President and CEO, Applied Materials
+to connect as many computing components as possible at the highest density, because it's so important for tokens per second per watt. Applied, we have, again, a very unique, broad portfolio. That business this year is growing more than 50% for Applied Materials, multiple billions of dollars. Again, we're also deeply engaged through the ecosystem on new packaging architectures. If you look at an AI server today, in three or four years, the way you connect those computing components are going to be very different than what you see today. There, again, people want larger body sizes.
+They want higher I/O density. Applied has the leading portfolio in enabling those inflections, and we have deep relationships with companies.
+that are currently leading, and also companies that are bringing new architectures, new packaging architectures for AI to market in the coming years.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Is this like panel or?
+## Gary Dickerson | President and CEO, Applied Materials
+Panel is definitely one of those architectures that people are focused on. Warpage is an issue for packaging, so if you want to have higher I/O density, dealing with that is very important. Just getting a larger body size.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Glass substrates and-
+## Gary Dickerson | President and CEO, Applied Materials
+glass substrates, or if you look at some of our largest customers, tech symposiums
+they talk about number of reticle fields that you can connect in a single package. This is really important technology. Again, Applied is the leader. We've been investing for a number of years. We knew these inflections were going to have an enormous impact on AI, energy efficient computing.
+Again, over 50% growth this year, and that will be a very high compound annual growth rate for Applied going forward.
+## Stacy Rasgon | Senior Analyst, Bernstein
+The visibility that you have now seems better than probably.
+## Gary Dickerson | President and CEO, Applied Materials
+Ever.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Is it ever? Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah.
+## Stacy Rasgon | Senior Analyst, Bernstein
+I can't remember what you said, are you getting eight quarter rolling forecasts?
+## Gary Dickerson | President and CEO, Applied Materials
+Oh, yes. Yeah. I'd say the visibility we have in the technology roadmaps, because we're co-creating.
+those roadmaps, is better than ever. Also from a demand standpoint, again, frequent conversations with customers on delivery times, we do have eight quarter forecasts from every one of our customers and longer commitments from the customers. What's really important for us, again, we did anticipate that WFE could grow.
+A significant amount, so we made investments to nearly double our operations capacity.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Right.
+## Gary Dickerson | President and CEO, Applied Materials
+In the supply chain, you also need the lead time so that we have that ready to ramp.
+For customers, it's not only that visibility or orders sooner, it's also exact configurations because you need to know what components in the supply chain you need for customers. For us, for us to be able to ramp to meet the need, again, we're getting much better visibility from our customers than ever.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. People talk about.
+## Gary Dickerson | President and CEO, Applied Materials
+Yes
+## Stacy Rasgon | Senior Analyst, Bernstein
+They sound pretty confident of that.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Look, I think that what we've been seeing is that computing demand is continuing to increase. Recently, people are talking a lot about agentic AI.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+Agentic AI is layering on top of the demand that was already there, and that's more weighted to CPUs. The CPU-GPU ratio is more weighted.
+where we've been. DRAM is up higher. NAND is up higher. I think what we're modeling is 90% of the incremental WFE is in Leading Foundry Logic and DRAM.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+Again, and then after agentic AI, you have physical AI.
+## Stacy Rasgon | Senior Analyst, Bernstein
+They never stop, again. How much of a constraint is clean room space? I've had this view that as strong as this year is, we might grow WFE, say, 20% this year. I know you guys have not given a WFE number.
+## Gary Dickerson | President and CEO, Applied Materials
+No
+## Stacy Rasgon | Senior Analyst, Bernstein
+growth is going to be strong. It's a constrained year because we don't have the clean rooms, and they're coming online. You guys always talk about you track fab. How many fab projects are you tracking? What kind of clean room space is coming online? I don't know if you have a point of view on where growth could be if clean rooms right now were unconstrained. How much unconstrained demand is actually out there?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. We certainly have a forecast for where we think WFE is going.
+Base case, bull case, bear case.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+It's been hitting at the bull case.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah
+## Gary Dickerson | President and CEO, Applied Materials
+pretty consistently.
+## Stacy Rasgon | Senior Analyst, Bernstein
+I bet objectively, even the bear case probably isn't that bad.
+## Gary Dickerson | President and CEO, Applied Materials
+No, absolutely. We're tracking over 100 fabs. As you can imagine, there are a lot of incremental spending in the areas that are fastest-growing. I said over 80% is in those three areas. That's basically what we're seeing. I think relative to, obviously, with eight quarters, we have great visibility into 2027.
+From my perspective, I think AI, again, really changes how we work, how we live. I told you earlier how we're using AI inside Applied Materials. The ROIs are tremendous, and we can see already.
+that we are accelerating product time to market. I believe that demand, this is a multi-year wave that Applied is in the best position because we're leading in the fastest-growing segments that are enabling
+the tokens per second per watt.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. Let's talk about this co-innovation with customers. Tell me about the EPIC Center.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah, so-
+## Stacy Rasgon | Senior Analyst, Bernstein
+Looks like it's coming into its own now.
+## Gary Dickerson | President and CEO, Applied Materials
+It is, yeah. We've announced 10 partners for EPIC. We have TSMC, Samsung, Micron, Hynix, Broadcom. We have Advantest, Screen, some universities. You'll see more announcements coming.
+Again, this is what I said earlier, relative to the chip and packaging AI architecture inflections is incredibly important for the ecosystem, but certainly for our customers, because whoever's first to market with design wins, that has an enormous impact on their business.
+Applied, we have these new innovations that will enable these new architectures in EPIC. For customers to have first access to those innovations, like I said, some of these technologies, you need an order of magnitude improvement, or the architecture won't happen. Having their innovators.
+## Stacy Rasgon | Senior Analyst, Bernstein
+How does it work? They have.
+## Gary Dickerson | President and CEO, Applied Materials
+Absolutely
+## Stacy Rasgon | Senior Analyst, Bernstein
+in the facility working-
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+with your personnel.
+## Gary Dickerson | President and CEO, Applied Materials
+Absolutely
+## Stacy Rasgon | Senior Analyst, Bernstein
+on your tools, developing their processes that they're bringing into production?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Again, it's really this co-innovation, high velocity co-innovation concept. We have customer reticles. We're focused on enabling those architectures, as you can imagine. By the way, we focus on high velocity and secure innovation is incredibly important. We firewall innovators between the different customers, and we've been doing this for a while.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+Now having those people co-located, especially, again, in Silicon Valley within 50 miles, I think is 40% of the S&P 500. If you think about materials to systems innovation through the technology stack, which is more and more important when I talk about packaging or I talk about chip innovations, those kinds of things, having these people co-located is incredibly important for velocity because you can move in parallel versus a serial process.
+Our goal really is to accelerate the time to market significantly. Incredibly important for our customers.
+with our equipment and our advanced services for those architecture inflections, obviously, is really important for our growth going forward. The other thing I would say that's a real advantage for us is our visibility into those roadmaps. Where to invest.
+If we're creating those architectures, it gives us a great idea how to optimize our R&D. Again, for customers, not only is it important for their design wins, but their R&D efficiency.
+If you can bring these architectures to market, because every one of them costs an enormous amount of money, there's an incredible efficiency. This co-innovation, we have very deep partnerships through the ecosystem. EPIC, again, this is where the key materials innovations for chips and packaging will first be available, and we don't have an infinite number of innovators.
+Having people co-located there really increases that velocity.
+## Stacy Rasgon | Senior Analyst, Bernstein
+The stuff they're working on in EPIC, how far out is it?
+## Gary Dickerson | President and CEO, Applied Materials
+Oh, gosh. Again, we have incredible visibility. We know performance yield of every one of these different partners and.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Are you working on stuff that's going to be in production, like in 10 years or?
+## Gary Dickerson | President and CEO, Applied Materials
+N2 is ramping now, next is A14. We're doing A10, A7, A5. Again, I talked about these miracles, Stacy, that we deliver in this industry. We're working on those miracles.
+that enable those future architectures or, again, the DRAM roadmap.
+Some of these technologies are extremely compelling for the AI computing, but they're also incredibly challenging to create the innovations that enable those architectures. We're working 10 years out in the future, multiple technology nodes. Again, for us, it's being designed in with our equipment and services. Also, it creates a deep strategic relationship with these customers. When I'm with the CEOs of our customers, we're focused on those future technology nodes, and for them, it's design wins in certain time frames.
+technologies that they need to hit those roadmaps, that is really essential for their business.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Do you need other players' tools in there as well? I assume there's litho and other things in there.
+## Gary Dickerson | President and CEO, Applied Materials
+We do have partners that are, some announced, some that aren't announced.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Oh
+## Gary Dickerson | President and CEO, Applied Materials
+relative to those innovation flows. The great thing for Applied is we have more of those innovation technologies than anybody.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+It's not just the strength of our. People talk about deposition. We have technologies that are completely unique, EPI, PVD, in addition to the rest of our deposition portfolio, creating the materials. People really also don't understand the modification of the materials. That's a multi-billion dollar business for us. There's shaping, and also we're the world leader in e-beam technologies for analysis of the materials. That combination of technologies enables you to create these future transistors, or wiring, or memory, or packaging, all of those things. I think this portfolio strength that we have and the way we're engaging with customers.
+is really unique versus where we were, let's say, more than five years ago.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah, no, that makes a lot of sense. I want to talk about the services business, and I guess maybe you can talk a little bit how it's changed over the last five to 10 years. I know there's a lot more. You talk about recurring, you talk about use of AI.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+your area where we're using AI. How has this business changed? Maybe talk a little bit what the services is it brings to you and to your customers.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Services, right now we're growing high teens.
+Compound annual growth rate. It's a little over 20% of Applied Materials revenue.
+We've said, through cycle longer term, we'll grow mid-teens. I think there's an opportunity for even to drive that faster over the longer term. As you can imagine for customers, one thing that's super important right now is output per square meter.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Square meter of fab space, you mean?
+## Gary Dickerson | President and CEO, Applied Materials
+Absolutely.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Okay.
+## Gary Dickerson | President and CEO, Applied Materials
+The more output they can have, the better. Yield is really important. Edge die yield is really important.
+Applied, I really love this part of our business. We've driven tremendous service innovations. Over two thirds of our business are service agreements and prescription or subscription revenue, that's been growing actually faster than our overall service business. We have over 35,000 chambers connected to AI servers.
+in customer fabs, and the majority of those are remotely connected.
+That is really important because, again, as we're bringing these new service technologies, using these digital solutions, we're optimizing output. Chamber matching, that's a really important technology. There are hundreds of thousands of opportunities per year. Again, we're using AI to optimize with all of these different parameters for all of our process tools.
+Once we make one golden, in high volume manufacturing, you want to make them all golden. You want the biggest process window to give you the highest yield, we're innovating there with these service technologies. We're also innovating with predictive models.
+versus reactive corrective maintenance. Again, all of those things I think are great opportunities for us to grow this. What we've said is, again, mid-teens growth rate going forward. It's a little over 20% of Applied revenue today. I really believe, again, the value of the services.
+are increasing as you're ramping these complex new architectures. Great opportunity for Applied.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. How much of that growth is like, because it's an installed base business, so part of it?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+is just the installed base growing.
+## Gary Dickerson | President and CEO, Applied Materials
+It is.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Some of it is this content per tool, I guess.
+## Gary Dickerson | President and CEO, Applied Materials
+It is, revenue per tool. Yes.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Some of that revenue per tool.
+## Gary Dickerson | President and CEO, Applied Materials
+Yes.
+## Stacy Rasgon | Senior Analyst, Bernstein
+How do those contribute to this? Are either of those accelerating? I got to imagine maybe the revenue per tool.
+## Gary Dickerson | President and CEO, Applied Materials
+Revenue per tool is growing faster than the install base.
+Again, these services, this is where I'm also focused on AI, in some cases, where the dollar per task or hours per task, we're improving many times. For me, the real important part is not are we saving thousands of service engineers. The important part is I can deliver high value services.
+Scale that much faster and drive the top line growth.
+with those technologies. Again, really fantastic opportunity for Applied.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. I want to ask about China.
+## Gary Dickerson | President and CEO, Applied Materials
+Okay.
+## Stacy Rasgon | Senior Analyst, Bernstein
+There's a few things going on there clearly. Number one is that there's been regulatory and other issues that have impacted your abilities as well as your peers to sell everything you would like to sell in China.
+## Gary Dickerson | President and CEO, Applied Materials
+Yep.
+## Stacy Rasgon | Senior Analyst, Bernstein
+There's also the growth of local competition. I got to be honest, one of the biggest questions I get is what is the impact of some of these local players. I think etch and deposition are two of the areas where there's probably a larger piece of the TAM is satisfied by the local guys. As I always say, these are real companies. They're not jokers, right?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Maybe talk a little about what is going on in China. What do you see on the competition front there?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah.
+## Stacy Rasgon | Senior Analyst, Bernstein
+I guess anything you can tell us on the regulatory front, one way or the other. I think there's some other stuff coming up, the MATCH Act and other things that may be coming.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah.
+## Stacy Rasgon | Senior Analyst, Bernstein
+How should we think about China?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. 2025, there was a large increase in restrictions. We had said that our business was restricted about 10%, more than double-
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah
+## Gary Dickerson | President and CEO, Applied Materials
+in 2025, so that did have a big impact, especially.
+## Stacy Rasgon | Senior Analyst, Bernstein
+By the way, China sales were still very good.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. For today, for us, it's kind of mid 20s.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah
+## Gary Dickerson | President and CEO, Applied Materials
+is our semi equipment and service business. For us, China is really an ICAPS business, the IoT communication auto power sensors. This is where Edge AI is also
+a driver for that particular market. In China this year, and in ICAPS globally, we believe that business will be flat to slightly up.
+## Stacy Rasgon | Senior Analyst, Bernstein
+How much of your foundry logic is ICAPS today, by the way?
+## Gary Dickerson | President and CEO, Applied Materials
+Well, we had said in the past it was kind of equivalent.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+Actually, again, going forward, the leading edge driven by AI.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Keep growing.
+## Gary Dickerson | President and CEO, Applied Materials
+is growing much faster. We think over time that ICAPS will grow kind of mid to high single digits.
+If you look at actually data center, wafer starts, this is an interesting statistic, will pass smartphone wafer starts, we believe, next year.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah.
+## Gary Dickerson | President and CEO, Applied Materials
+These large die, you're driving tremendous growth. Again, the growth rate for the leading edge is faster than the ICAPS market. Again, for us, that business is kind of flat to slightly up. We do have innovations. We started our ICAPS group, I remember, April 12th, 2019, because I thought that was a really good strategy for Applied. We have a great portfolio there. We're bringing new ICAPS innovations to market, new products that expand our total available market, new products in large segments that improve our competitiveness. We are driving innovations there. We have deep connectivity with customers on architecture innovations and power electronics, this co-innovation, sensors, photonics, a number of different areas where we're engaged.
+I think, again, that business, I have high confidence that we'll perform well there over time, but the growth rate is not going to be as fast as the leading edge, which is driven by AI.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Sure. To go back to China, the competition front, the local-
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Again, that's where we're bringing these new products to market. If you look at where we were able to compete, if you take out the restrictions, we performed well in China, and I think that with the pipeline of products that some later this year, some over the next 24 months, will expand our total available market. We have products that will improve our competitiveness. I think where we can compete-
+I feel good about our ability to compete.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Just can't compete everywhere, unfortunately.
+## Gary Dickerson | President and CEO, Applied Materials
+Unfortunately, yes.
+## Stacy Rasgon | Senior Analyst, Bernstein
+I want to talk about margin.
+## Gary Dickerson | President and CEO, Applied Materials
+Sure
+## Stacy Rasgon | Senior Analyst, Bernstein
+I said this to Tim yesterday. I always ask you the same question. It's always why do your gross margins have to start with a four? I don't have to ask the question anymore.
+## Gary Dickerson | President and CEO, Applied Materials
+They don't anymore.
+## Stacy Rasgon | Senior Analyst, Bernstein
+right? Because they don't start with a four anymore. I guess what's gotten you there, number one, and then number two, how should we think about the evolution of that margin structure going forward?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah.
+## Stacy Rasgon | Senior Analyst, Bernstein
+There's a whole bunch of drivers. There's clearly operational efficiencies that you guys are driving.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah.
+## Stacy Rasgon | Senior Analyst, Bernstein
+There's mix. Maybe there's pricing. I don't know.
+## Gary Dickerson | President and CEO, Applied Materials
+Oh, for sure. Yeah.
+## Stacy Rasgon | Senior Analyst, Bernstein
+How do we think about that?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah, I think that if I look at our conversations with customers, they're very different. Now it's about delivery times, access to our technology innovations to enable the new architectures. We have been growing margins pretty consistently. I think you're going to continue to see us growing margins, both gross margin and operating margin.
+a fair amount as we keep going forward. Again, it's really the value that we're delivering, and pricing, we have been increasing pricing.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Have you been increasing pricing of stuff you already sell, or is it more on new-?
+## Gary Dickerson | President and CEO, Applied Materials
+Both.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Okay.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. Again, different for different situations.
+in terms of how we optimize all of that. Again, what's really important for customers is that we are able to make the investments in our operations, supply chain, in infrastructure for the deliveries, and what's incredibly strategically important for them is the investments in the enabling technologies for these AI compute architectures for chips and packaging. Again, those are the discussions that we have. Then for me, what I think about is winning these architecture inflections and creating value. If we're creating value, we also have a great opportunity to capture value. One other thing I would say, in the ecosystem, the profit pools are way larger than they have ever been. Again, that gives us an opportunity to create value and share value with our customers.
+Again, I feel really good about our positions in these future AI- chip and packaging architectures, and we have an incredible pipeline of new miracles.
+that will enable these architectures and give us a great opportunity to create and capture value.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. Maybe on the value capture, and you talked some about integrated tool sets, and I think you said-
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+something percentage of it. Does that percentage go up over time? I have to imagine as this stuff, features get smaller and this stuff gets harder, you're not really just selling a single process, you're literally selling a solution. We want to create.
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+a film that's this thick, and it's conformal, and this, and it takes 10 different-
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah
+## Stacy Rasgon | Senior Analyst, Bernstein
+processes to do. How do you think about capturing that incremental value versus sharing it with your customers?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. I talked about the 60 mi of wiring.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Yeah
+## Gary Dickerson | President and CEO, Applied Materials
+which is kind of mind-boggling when you think about moving data with almost no resistance through a wire, and it's even going higher than that. Some of these platforms, we have seven technologies integrated under vacuum because, again, if you go to air, you can oxidize those few atom interfaces. That business of our business is growing. The number of technologies that we're integrating is also growing. We announced some new ALD technologies, and then, again, in those technologies the surface interface is really, really important for electrical properties. Our PVD business combined with selective ALD, and CVD, and copper reflow, and all of these kinds of things, that's a unique capability Applied has to enable these future architecture inflections. It's not only the integrated products, the strength of our portfolio is our ability to optimize across these modules.
+to enable this tokens per second per watt across the portfolio. The integrator is about 30%, the number of technologies we're integrating in the platform is increasing, and super strategically important for customers for these architecture innovations.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. I guess on that note, I always think about the semi cap industry as, it's competitive, but everybody kind of has their own niche. At the same time, you clearly do compete, and I'm going to leave the Chinese guys out of it.
+## Gary Dickerson | President and CEO, Applied Materials
+Okay
+## Stacy Rasgon | Senior Analyst, Bernstein
+You've got the Lam's and the Tokyo Electrons of the world. What is it that customers are looking for when they're choosing a new solution? What does that bake off process look like? When does it happen? Is it the new node transition? What is it that customers are looking for when they decide to actually award the process of record to you versus your competitors?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. I think the most important thing for customers is the race for these new architectures. That is the most important thing. When they're competing for design wins, they care about performance, yield, and reliability. That is the most important thing. When their customers are evaluating them for design wins, if you don't have performance, yield, and reliability, they don't care about the cost because they can't risk their system architectures on those technologies. For Applied, we're working through the whole tech stack, and working with these customers on these new architectures, that is the most strategically important. I mentioned high-speed DRAM with the CMOS logic or any of these different types of inflections.
+The first thing for Applied is, again, connecting with them on what's critical for their design wins, and then inside of that you have a portfolio of solutions where Applied is driving innovations in each one of those different pieces or those integrated platforms. That connectivity, I think, is more and more and more important. When we're engaging with someone on an N plus one architecture or an N plus two architecture, we're really focused on the electrical resistance, capacitance, threshold voltage, or high-speed memory or those kinds of things, and then the technologies that enable those key performance, the tokens per second per watt, and then there's a portfolio of Applied solutions and key unique Applied solutions that enable those technologies.
+Again, the great thing for us, we have leadership, we're in great positions in the fastest-growing segments that are enabling AI computing in leading-edge foundry logic, DRAM, and packaging.
+The other part of our portfolio that is actually growing very fast, one of the fastest-growing businesses in Applied, is our inspection and measurement business. We said our semi business is growing over 30% this year. Actually, that part of Applied Materials is growing much faster. We're the world leader in e-beam technologies. We have the lead in resolution and imaging speed with cold field emission. That will be over $1 billion in revenue this year. We have an incredible pipeline, Stacy, of new products that are coming over the next couple of years. I have high confidence. That one is one of our fastest-growing businesses. The revenue growth there is going to be multiple billions of dollars.
+The other thing that's really important is that when you're building all of these new architectures, the learning rate is crucial. Applied's e-beam technologies, we can see into those architectures and collect data orders of magnitude faster. Again, that connectivity with our leadership and the materials innovation.
+is also strategically important for Applied when we're engaging with these customers on the architecture innovations.
+## Stacy Rasgon | Senior Analyst, Bernstein
+That makes a lot of sense. You have one other segment that you don't talk that much. It's small, but why do you still have a display segment? What strategic value does that play for you?
+## Gary Dickerson | President and CEO, Applied Materials
+Yeah. display today is a little over 20% operating profit. It is growing at a decent rate.
+The biggest opportunity there for us is we do have an opportunity to enable a new OLED architecture for IT and TV.
+There has been a technical barrier. Today you have single-digit adoption of OLED in those segments of the market. Applied has come up with an innovation, we're working with the leaders, that overcomes that limitation. It would take some time for that adoption, but I believe that that can be a good growth rate for Applied, expanding the operating profit. That's one thing, just that business by itself. There is synergy. When you talked earlier about panel-.
+## Stacy Rasgon | Senior Analyst, Bernstein
+That was my-
+## Gary Dickerson | President and CEO, Applied Materials
+processing. If we think about our leadership in handling glass or all of the glass processing, Applied is the global leader in those technologies, we're taking that learning into these new packaging architectures. There's synergy. By the way, this is an incredible team of innovators inside Applied Materials. There's that synergy with where packaging innovation is going in the future.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. We've got a few minutes left. Should we go to the lightning round?
+## Gary Dickerson | President and CEO, Applied Materials
+Sure, let's go.
+## Stacy Rasgon | Senior Analyst, Bernstein
+If anybody has other questions that you want to submit, you can do that. How about this? Are there any areas where you think you're participating less than your fair share in this super cycle due to competition or anything else?
+## Gary Dickerson | President and CEO, Applied Materials
+Again, I mentioned earlier, we have really great visibility in the architectures, chip and packaging architectures, that will enable AI computing innovation, the tokens per second per watt. I feel great. Again, the really great thing for Applied is that we have incredible visibility because we are working and co-innovating and co-creating these architectures through the tech stack and through the ecosystem. We are investing in the areas that we think are going to drive the highest growth. We've made some small acquisitions. It's not possible to do the large acquisitions with the current situation.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Not anymore, no.
+## Gary Dickerson | President and CEO, Applied Materials
+There are areas where that can add hundreds of millions of dollars growth and create synergies with the rest of Applied Materials. I feel really good about that.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. Well, here's an interesting one. Is Huawei's LogicFolding economically real or roadmap theater?
+## Gary Dickerson | President and CEO, Applied Materials
+Well, I don't know if I want to comment on that one. What I would say is that there's this concept of design technology co-optimization. Some of our largest customers have talked about that. You're moving the power lines from the front of the wafer to the back of the wafer. You're getting a 30% area savings, better power and performance. You have isolation walls in the transistor. There are those kinds of innovations that are being driven in the industry. I would say this is kind of along the same lines and one of our largest customers, they talk about how the percentage of their innovation enabled by design technology co-optimization going up significantly, which is by the way, great for Applied Materials. That particular one, I think it's too early to tell.
+You have thermal issues, yield issues, many different kinds of things that are yet to be determined. By the way, that's using bonding technology. Applied has the leading hybrid bonding technology and an integrated platform. As those architectures are adopted, we also have innovations there.
+## Stacy Rasgon | Senior Analyst, Bernstein
+I think it's fair to say that those particular architectures are not unique to Huawei, though.
+## Gary Dickerson | President and CEO, Applied Materials
+No
+## Stacy Rasgon | Senior Analyst, Bernstein
+Looking at that.
+## Gary Dickerson | President and CEO, Applied Materials
+No, if you look at even future transistor technologies, you're stacking N and P transistors, so it's really going more vertical.
+Like, say, power lines or transistors or all of those kinds of things, or CMOS bonded to the array and memory. Separating out those IP blocks and connecting them in different ways is a trend that the overall industry is focused on.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. Maybe one more. Do you think there's a disconnect between spending expectations from the hyperscalers in the labs versus what the semi industry can realistically deliver?
+## Gary Dickerson | President and CEO, Applied Materials
+I feel very good about demand going forward, I would say. I do think, again, this is going to change how we work, how we live. AI is going to be an enormous inflection. That's going to drive tremendous computing demand and the need for computing innovation and tokens per second per watt. Applied, like I said, we have made investments in our operations so we can scale our operations. It's really making sure that we have that alignment with customers. We have to have that early visibility to ramp our supply chain. I feel good. We've made enormous improvements in operations and supply chain over the last few years, and we're in a way better position than we've ever been in that aspect.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. We've got about one minute left. I'll close out the way I always do. I've got a full room here, Gary. Why should they buy your stock?
+## Gary Dickerson | President and CEO, Applied Materials
+We're in a great position. The fastest-growing areas in the industry, leading edge foundry logic, DRAM, packaging, that's over 80% of the growth in WFE. Those are areas where Applied has clear leadership, and those are the areas that will continue to grow significantly over the next several years. As I mentioned, our connectivity, our relationships with our customers are deeper than ever, and critical to them winning designs with their customers. Those future AI chip architectures, packaging architectures, Applied is in a great position to gain share, create value, and capture a value. I have high confidence the growth rate for Applied is going to be very strong, both top line and bottom line going forward.
+## Stacy Rasgon | Senior Analyst, Bernstein
+Got it. I think that's a wonderful place to leave it off. Gary, thank you so much.
+## Gary Dickerson | President and CEO, Applied Materials
+Oh, thanks, Stacy. Thank you, guys.
+Data Source: Quartr Last updated: May 28, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

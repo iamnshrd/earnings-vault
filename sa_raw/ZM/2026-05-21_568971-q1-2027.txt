@@ -1,0 +1,337 @@
+TITLE: Earnings Call: Q1 2027
+DATE: 2026-05-21
+## Operator | 
+Hello, welcome to Zoom's Q1 FY 2027 earnings release webinar. I will now hand things over to Charles Eveslage, Head of Investor Relations. Charles, over to you.
+## Charles Eveslage | Head of Investor Relations, Zoom
+Thank you, Catherine. Hello, everyone, and welcome to Zoom's earnings webinar for the first quarter of fiscal year 2027. I'm joined today by Zoom's founder and CEO, Eric Yuan, and Zoom's CFO, Michelle Chang. Our earnings release was issued today after the market closed and may be downloaded from the investor relations page at investors.zoom.com.
+Also on this page, you'll be able to find a copy of today's prepared remarks and a slide deck with financial highlights that, along with our earnings release, include a reconciliation of GAAP to non-GAAP financial results. These measures should not be considered in isolation from or as a substitute for financial information prepared in accordance with GAAP.
+During this call, we will make forward-looking statements, including statements regarding our financial outlook for the second quarter and full fiscal year 2027, our expectations regarding financial and business trends, impacts from the macroeconomic environment, our market position, stock repurchase program, opportunities, go-to-market initiatives, growth strategy, and business aspirations, and product initiatives, including future product and feature releases, and the expected benefits of such initiatives.
+These statements are only predictions that are based on what we believe today, and actual results may differ materially. These forward-looking statements are subject to risks and other factors that could affect our performance and our financial results, which we discuss in detail in our filings with the SEC, including our annual report on Form 10-K and quarterly reports on Form 10-Q. Zoom assumes no obligation to update any forward-looking statements we may make today on today's webinar. With that, let me turn the discussion over to Eric, who is giving his prepared remarks via Zoom custom avatar.
+## Eric Yuan | CEO, Zoom
+Thank you, Charles. FY 2027 is off to a good start, continuing the momentum from FY 2026. Q1 revenue grew 5.5%, exceeding the high end of our guidance and among our best growth rates in recent years. This progress underscores the increasing value of our system of action for modern work. To help accelerate that vision, we appointed Russell Dicker as Chief Product Officer. Russell brings more than 25 years of product leadership experience across Microsoft, Google, and Amazon, including leading Microsoft Teams product and data science teams.
+He will help drive our AI-first roadmap as we connect conversations, workflows, and outcomes through our system of action. The foundation of our system of action is Zoom Workplace, where context is created across the full meetings and work life cycle. With AI Companion, that context becomes actionable, helping customers drive productivity, automate follow-through, and turn everyday collaboration into measurable business value.
+In Q1, AI Companion usage continued to scale, with paid MAUs growing 184% year-over-year, driven by strong early adoption of AI Companion 3.0 capabilities. My Notes has quickly emerged as a breakout product, surpassing 1.5 million monthly active users, excluding trial users just four months after launch.
+It gives users a personal AI note-taker that captures context across Zoom, in-person, and third-party meetings, helping them stay present while turning conversations into organized takeaways, action items, and follow-through. Altogether, AI Companion 3.0 brings agentic retrieval across Zoom and connected work sources, extending AI Companion beyond meeting summaries into a broader workflow layer that turns conversations into action. This AI momentum is also reinforcing the strength of our core business.
+In Q1, 15 of our top 20 wins included Zoom Workplace or Zoom phone, as customers increasingly choose Zoom for secure AI-first communications that improve productivity, reduce complexity, and turn conversations into action. Zoom Workplace continues to win on product quality, platform breadth, and security. In Q1, a major government contractor came back to Zoom for the full suite of Zoom Workplace phone events and webinars in a seven-figure ARR deal, displacing Teams and Cisco calling.
+The customer chose Zoom to meet stringent government security requirements and unlock insights from live communications data to support its broader AI workflows. Zoom phone continued to grow ARR in the mid-teens, taking share as customers modernize voice on our reliable, flexible platform that integrates with their existing workflows and extends AI into everyday communications.
+A great example of this is Baptist Health in Jacksonville, Florida, who in Q1 chose Zoom phone to support 16,000 workers across more than 200 points of care in a seven-figure ARR deal. Baptist Health selected Zoom phone because of its reliability, hybrid flexibility, and industry-specific integrations. Taken together, these wins show a consistent pattern.
+Customers are choosing Zoom as a secure, integrated multi-product platform, often displacing multiple vendors and expanding over time as AI becomes embedded in their workflows. This reinforces our confidence in Zoom's ability to turn conversations into action and drive durable platform expansion. Our progress elevating the workplace with AI sets the foundation for our second priority, driving growth in new AI revenue streams.
+As customers experience the value of AI Companion in Zoom Workplace, Custom AI Companion is the natural next step that takes them from conversation to action by unlocking agentic search, customization, and agentic workflows. Raymond James is a strong example of this expansion motion. After adopting AI Companion for meeting summaries, they expanded in Q1 to Custom AI Companion across approximately 10,000 seats, giving wealth advisors more tailored AI workflows and customized summaries with the security, compliance, and centralized oversight required in financial services.
+Custom AI Companion also wins on its ability to support agentic workflows. In Q1, as part of MongoDB's upgrade to Zoom Workplace Enterprise Plus, Zoom contact center, and ZVA, they chose Custom AI Companion to translate live conversations into completed actions across their IT ticketing, customer relationship management, and other third-party systems.
+Just as Custom AI Companion creates an AI monetization path within Zoom Workplace, ZVA Receptionist represents an important new monetization layer for Zoom phone. ZVA Receptionist turns Zoom phone into an AI-powered front door for the business, helping customers qualify callers, capture context, answer common questions, and route requests to the right person or team.
+In Q1, we saw it deliver real business value across a variety of customers, including an industry association improving lead capture and lowering costs, an insurance firm automating after-hours and overflow calls, and a law firm managing high call volume by filtering unsupported requests so staff can focus on actionable cases. We also added AI innovation to employee experience with the launch of Seer by Workvivo, expanding from employee communications into AI-powered people intelligence and creating another path for AI monetization.
+Seer helps leaders listen to employee feedback, measure engagement, understand sentiment with AI, act through built-in communication tools, and track progress in real time. Beyond these application-level AI monetization layers, Zoom AI Services opens our core AI technologies to customers and developers. Launched in March, Zoom AI Services extends our speech recognition advantage, honed across countless daily meetings and ranked among the top models on the Hugging Face open ASR leaderboard.
+Its Scribe API gives customers and developers high-quality, flexible speech-to-text across platforms with early adoption from BPOs like InflectionCX, validating the real-world value of our ASR technology. We are also extending AI into high-value vertical workflows. BrightHire, which brings conversational AI to recruiting and hiring, had a strong quarter with continued momentum in tech and other sectors.
+In Q1, BrightHire landed Figma on its core product to help support consistent, objective, and calibrated hiring decisions, and expanded with HubSpot from its core interview intelligence product into BrightHire Screen, its AI interviewer, to support go-to-market hiring. Taken together, these examples show how we are extending Zoom AI beyond core collaboration into a broader monetization engine across workplace, AI services, and vertical workflows.
+The same combination of AI context and workflow orchestration is also driving our third priority, scaling AI-first customer experience. The same AI-first platform that powers Zoom Workplace and phone also extends to customer engagement. This is a true point of differentiation. Zoom is one of the few scaled companies with a native platform that bridges UC and CX.
+By connecting collaboration, voice, contact center, Virtual Agent, Expert Assist, and more, we help customers carry context across teams, channels, and systems, moving from reactive service to faster, more intelligent resolution, and measurable business value. To further bolster the suite, in March, we introduced CX Insights, a new SKU within ZCX that gives business and CX leaders a natural language way to analyze CX data across contact center, workforce management, quality management, and Virtual Agent.
+We also announced AI Expert Assist 3.0, customer workflow orchestration, advanced quality management for Virtual Agent, and new workforce management capabilities to help organizations deliver better outcomes with greater efficiency. Zoom Customer Experience continued to accelerate in Q1 with high double-digit growth driven by paid AI in nine of the top 10 ZCX deals, showing that customers are increasingly turning to Zoom to automate service, empower agents, and improve resolution.
+Zoom Customer Experience is emerging as a key growth driver and represents the strategic expansion of our platform into mission-critical customer operations. We are increasingly winning competitive displacements and larger deals as customers look to consolidate contact center and UC systems with a unified AI workflow and analytics platform that works across all channels. Let me bring this to life with a couple of customer wins.
+Showcasing the strength of our full system of action, we landed Chelsea FC, one of the world's most recognized football clubs. They selected Zoom phone, ZCC Elite, and ZVA Chat to modernize fan engagement across touchpoints. Zoom will help the club deliver faster, more personalized experiences while creating a connected data foundation to improve insight, efficiency, and long-term growth.
+Also in Q1, Caliber Collision, a leading automobile repair provider, chose to deploy Zoom phone with ZCC Elite in order to streamline their customer experience across more than 1,800 repair centers and their central contact center, eliminate the cold call experience for customers, and provide unified CX analytics for end-to-end visibility.
+We also saw a strong full CX platform win in Japan with Resona, who selected Zoom Virtual Agent, Agentless Dialer, and ZCC Elite to modernize high-volume customer interactions. They chose Zoom for the flexibility and automation capabilities of the platform and are using Zoom Virtual Agent in a differentiated way for outbound engagement, including pre-confirmation calls tied to electricity and gas connections, which helps free teams for higher value sales activity. Taken together, our progress across our three priorities gives us confidence in the opportunity ahead.
+As customers increasingly adopt Zoom as an AI-powered system of action, we are excited to turn that momentum into durable growth and long-term value. Michelle will now take us through our Q1 financial results. Michelle?
+## Michelle Chang | CFO, Zoom
+Thank you, Eric. Hello, everyone. I'm excited to be here with you today to share Zoom's Q1 FY 2027 performance. In Q1, total revenue grew 5.5% year-over-year to $1.24 billion, or 4.6% in constant currency. This result was $14 million above the high end of our guidance. Our enterprise business continues to be strong, with revenue growing 7.2% year-over-year, representing 61% of our total revenue, up one point year-over-year.
+In our online business, Q1 average monthly churn was 3%, as compared to 2.8% in Q1 of FY 2026. Within our enterprise business, we saw 8% year-over-year growth in the number of customers contributing more than $100,000 in trailing 12-month revenue. These customers now make up 33% of our total revenue, up one point year-over-year. Our trailing 12-month net dollar expansion rate for enterprise customers in Q1 improved to 99%.
+Looking at our international growth, our Americas revenue and EMEA revenue both grew 5% year-over-year, while APAC grew 6%. The EMEA growth rate was predominantly driven by year-over-year changes in foreign exchange rates. Moving to our non-GAAP results, which as a reminder exclude stock-based compensation expenses and associated payroll taxes, acquisition-related expenses, net gains or losses on strategic investments, and all associated tax effects.
+Non-GAAP gross margin in Q1 was 79.9%, up 70 basis points from Q1 of last year, primarily due to our continued cost optimization efforts aligned with our long-term target of 80%. Our non-GAAP income from operations grew 9% year-over-year to $509 million, exceeding the high end of our guidance by $17 million. Non-GAAP operating margin for Q1 was 41.1%, up 130 basis points from Q1 of last year.
+The operating margin improvement was primarily driven by the accounting amortization change we discussed last quarter and our gross margin improvements. This was partially offset by the second year of our shift from SBC to cash bonus compensation. Non-GAAP diluted net income per share in Q1 increased to $1.55 on approximately 300 million non-GAAP diluted weighted average shares outstanding.
+This result was $0.13 above the high end of our guidance and $0.12 higher than Q1 of last year. The EPS growth reflects strong business performance, effective cost management, as well as anti-dilution efforts across our buyback program and stock compensation management. Turning to the balance sheet. Deferred revenue at the end of Q1 grew 5% year-over-year to $1.49 billion, above the high end of our previously provided range of 1%-2%.
+For Q2, we expect deferred revenue to be up 2%- 3% year-over-year. As we discussed last quarter, larger and longer duration competitive takeouts in phone and contact center can include grace periods that affect deferred revenue timing. In Q1, fewer contracts than expected required such terms. We continue to expect some quarter-to-quarter variability based on the timing and the structure of larger deals.
+Looking at both our billed and unbilled contracts, our RPO increased 11% year-over-year to approximately $4.3 billion, driven by non-current RPO growth of 19%. The strong growth in non-current RPO reflects our continued success landing larger, longer-term multi-product platform deals. In Q1, operating cash flow grew 7% year-over-year to $522 million, representing an operating cash flow margin of 42.1%, up 50 basis points year-over-year.
+Free cash flow in the quarter grew 8% year-over-year to $500 million, representing a free cash flow margin of 40.4%, up 100 basis points year-over-year. We ended the quarter with $7.7 billion in cash equivalents, marketable securities excluding restricted cash. In Q1, we repurchased 4.2 million shares for $362 million across the preexisting $3.7 billion share repurchase plan. We've repurchased a total of 40.4 million shares for $3.1 billion.
+Turning to the guidance. For Q2, we expect revenue to be in the range of $1.265 billion-$1.27 billion, representing 4.1% year-over-year growth at the midpoint. We expect non-GAAP operating income to be in the range of $508 million-$513 million, representing an operating margin of 40.3% at the midpoint. Our outlook for non-GAAP earnings per share is $1.45-$1.47, based on approximately 304 million shares outstanding.
+For the full year for FY 2027, we're pleased to raise both our revenue and profitability guidance. We now expect revenue to be in the range of $5.08 billion-$5.09 billion, which at the midpoint represents 4.4% year-over-year growth. We expect our non-GAAP operating income to be in the range of $2.065 billion-$2.075 billion, representing an operating margin of 40.7% at the midpoint.
+In addition, our outlook for non-GAAP earnings per share in FY 2027 is increasing to $5.96-$6 based on approximately 304 million shares outstanding. As a reminder, future share repurchases are not reflected in share count and EPS guidance. We continue to expect free cash flows for FY 2027 to be in the range of $1.7 billion-$1.74 billion. As indicated in our press release today, we are excited to announce our board has authorized an incremental $1 billion share repurchase.
+This reinforces our board and management team's confidence in Zoom as we continue to leverage our strong cash flow and balance sheet to drive shareholder value. In closing, Q1 was a strong start to FY 2027, with continued execution across our three priorities and growing adoption of Zoom as an AI-first system of action.
+We are encouraged by progress scaling customer experience and the early momentum across new AI revenue streams. We remain on track to surpass $5 billion in revenue this year while maintaining our focus on profitability, cash flow generation, and shareholder returns. Thank you to our customers, investors, and of course, the entire Zoom team, for your trust and support. With that, Catherine, please queue up the first question.
+## Operator | 
+Thank you, Michelle. We will now begin the Q&A portion of the call. When I read your name, please turn on your video and unmute. As a reminder, in an effort to hear from everyone, please limit yourself to one question. Our first question will come from Alex Zukin with Wolfe Research.
+## Alex Zukin | Analyst, Wolfe Research
+Hey, guys. Thanks for taking the time and taking the question. Congrats on a really solid quarter. I guess maybe, Eric, first one for you. When you think about the execution that you're seeing, particularly both on the AI products and particularly on, you know, ZCX, which sounds like it didn't need as much discounting or flexibility in terms of billings terms as before. Maybe what are you seeing in the pull-through from some of your AI solutions? How much incremental expansion of your wallet within customers is that driving? Michelle, I've got a quick follow-up for you.
+## Eric Yuan | CEO, Zoom
+Alex asks a really good question. you know, speaking of ZCX, right? You look at the, now out of top 10 deals, you know, paid AI was involved, right? it's meaning AI is really help our ZCX. Look at the top 10 ZCX deals. Four of them also the includes ZVA as well, right?
+As we further improve our, you know, the ZCX product, specifically doubling down on AI, our, you know, pricing model is getting more and more flexible. For now, you take a ZCX, for example, is, you know, usage-based. You know, very soon we are going to introduce outcome-based, right? Some customer like outcome-based, some customer like a prepaid usage-based, right? We are very flexible, right?
+We co-innovate with the customer in terms of product innovation, AI features, and also the business model as well. That's why we have high confidence. ZVA is just one example. ZVA, all those vertical AI product, we are taking the same approach.
+## Alex Zukin | Analyst, Wolfe Research
+Excellent. Michelle, kind of maybe just a two-parter for you. Really strong execution on billings. I think some of your best outperformance that we've seen. For you guys in a while. Maybe what drove that? You referenced, I think, some of it in the script, but maybe just how much of it was better execution and demand environment versus maybe some other stuff? Online, maybe a little higher churn than we've seen in some time.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Alex Zukin | Analyst, Wolfe Research
+kind of maybe a little bit of a Tale of Two Cities. I'm curious if you can just unpack both of those dynamics.
+## Michelle Chang | CFO, Zoom
+Yeah
+## Alex Zukin | Analyst, Wolfe Research
+in order.
+## Michelle Chang | CFO, Zoom
+Your question is in part, you know, sort of what changed on the deferred revenue as well as just broadly what we're seeing kind of in enterprise billings? Okay. Look, in enterprise billings, Alex, it's exactly what we've been talking to investors about. We're diversifying our product set. We're working on churn. Churn year-over-year continued its trend of going down. We're working on AI monetization. Look, I think you can see that across the three parties that we talk about, right?
+Much progress from MAU going up 184% and additional customer references and even new products coming in in AI. Certainly Eric covered a lot of the contact center. Maybe I'll add in my favorite of high double digits that now for the second quarter in a row has even increased on top of that. Look, broadly, the answer is durable revenue from the enterprise that's driving it.
+With respect to the sort of deferred revenue, maybe I'll add a mechanical element. Look, because I think for investors, we may see more variability in this. We saw a 5% growth versus the sort of 1% to 2% that we guided at, because we just didn't see the need with the nature of the customer contracts to kind of leverage those early grace periods that I mentioned in February.
+Look, those grace periods are great for Zoom. They come with less discount, longer term deals. They ease our customers into large competitive wins. Look, if we don't need them in a quarter, we won't take them. Second question on churn. Look, I would say we saw a nominal uptick in churn in online. I really don't read too much into it. It's been a long-term low churn for us. I think we're making progress.
+As investors can see, we said we would stabilize our business in online, and we've done that, both in terms of revenue as well as just in the nature of our online business is far more stable. Look, it's a nominal uptick in churn in online.
+## Alex Zukin | Analyst, Wolfe Research
+Thank you, guys.
+## Michelle Chang | CFO, Zoom
+Okay.
+## Operator | 
+Our next question comes from Siti Panigrahi from Mizuho.
+## Siti Panigrahi | Analyst, Mizuho
+All right. Thanks for taking my question. Just continue the Alex question. Your revenue accelerated 5.5% this quarter. I think that's one of the best growth rate we have seen in recent years. You talked about some of this AI monetization pitch queue in my notes. How much of that acceleration is attributable to this AI monetization versus broader enterprise deal activity that you saw? How should we think about the durability of that pace in the back half of fiscal 2027, given your guidance implies some kind of deceleration in the second half?
+## Michelle Chang | CFO, Zoom
+Yeah. Perfect. I'll go ahead and take that one. Look, 5.5% growth. We're super pleased to your comment. It's among our highest and a beat of high guide. Look, it's important to note that some of that was FX driven. In terms of modeling and thinking about future going forward. Maybe let me break it down by enterprise and online.
+From an enterprise perspective, what we're seeing is very durable growth and the drivers, many of which I touched on in the Alex answer, but let me add a few here. We saw 7.2% revenue growth in enterprise, up from 7.1% in Q4, but that's with a 60 basis points impact of that white label churn, right? Clearly product diversification, AI monetization, moving up market, moving into new channels, all the things that we've said, and working on churn as well.
+All the things that we've said would be sort of durable elements with investors, we're seeing the fruits of. From an online perspective, we saw a little bit. Mechanically for investors modeling, you do see a little bit more of the FX impact in online, just because it's a little bit more international based, and we faced an easier comparable with no price increase in the prior Q1, but we'll have it here. You will see we're still projecting online to be a slight growth on the full year, but you will see some decel in the growth rate in Q2 through Q4.
+## Siti Panigrahi | Analyst, Mizuho
+Okay, great. Thank you.
+## Michelle Chang | CFO, Zoom
+All right.
+## Operator | 
+Our next question comes from Josh Baer with Morgan Stanley.
+## Josh Baer | Analyst, Morgan Stanley
+Excellent. Thanks for the question. I wanted to ask about Custom AI Companion. A little bit more about the path to conversion. Just what are some of the features or the use cases in Custom that are really key to that conversion? Also wondering what can be done from an in-product perspective or from a sales perspective to help to drive that conversion.
+## Eric Yuan | CEO, Zoom
+Yeah. Josh, this is a great question. When it comes to Custom AI Companion, we have a few key features like enterprise agent retrieval, and also the workflow builder, and also the agentic builder as well. Some customer like workflow or agent or enterprise search. All three are part of the key features for Custom AI Companion. Speaking of how to leverage Custom AI Companion-driven product usage or maybe when the customer use the product to discover the Custom AI Companion, I'll give one example.
+Today, when you schedule a Zoom call, right, you can attach a meeting with a workflow. Meaning during the meeting, we generate My Notes. After the meeting is over, a workflow will automatically take over to get something done for you. Customer really like that vision, focus on the conversation to completion, right? Without a customer AI Companion, we really cannot transform our business from conversation-centric business to completion-centric. That's why customer AI Companion is as great the part of that vision.
+## Josh Baer | Analyst, Morgan Stanley
+Excellent. Thanks, Eric. Maybe a quick one for Michelle. I mean, low 40s operating margins and free cash flow margins are obviously excellent. I'm just wondering from here, where can margins go and, if they can expand, what are the largest sources of leverage?
+## Michelle Chang | CFO, Zoom
+I think, first of all, just to give credit, maybe I'll even add one in there. We're super pleased with our free cash flow generation, had a strong Q1 in regards to that. Operating margins + 40, best in class as you know. Also worth noting that our GAAP margins are equally important. Look, we're going to keep working at that.
+Maybe I'd say, on the COGS front, we continue to make sure that we've got an always-on kind of efficiency, so as the AI costs spike in a good way with usage, we've got offsetting measures against it. I would say a lot of internal capital allocation, making sure that every dollar and head count that we deploy is sort of to its best ROI, and is oriented around those three priorities of growth that we talk about with investors.
+It's not just a frame to talk to you guys, it's how we run the company internally. Look, I would say broadly AI. I'm super excited at what Custom AI Companion has done, even in the finance team, to reinvent things. Look, we are our own customer zero, and my favorite example is in contact center. We've been able to remove costs out of our own customer support organization at the same time that we also raised our customer CSAT and improved our response time. Making sure we're using each dollar to its best purpose, being our first own users of AI, and then continuing to kind of work on margins.
+## Josh Baer | Analyst, Morgan Stanley
+Great.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Josh Baer | Analyst, Morgan Stanley
+Thank you. Congrats on the consistent-
+## Eric Yuan | CEO, Zoom
+Thank you, Josh.
+## Josh Baer | Analyst, Morgan Stanley
+performance.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Operator | 
+Our next question comes from James Fish with Piper Sandler.
+## Eric Yuan | CEO, Zoom
+James, sorry, you are muted.
+## James Fish | Analyst, Piper Sandler
+Yeah. Hey, thanks for the question here. Maybe on the CX side, you guys talked about some strength here, and Salesforce launched their own native voice within CX. I guess, how are you thinking about the impact on Zoom CX in terms of kind of where you guys typically compete, what you're seeing competitively in that space? Granted, it's early days, but they do have a large agent force and general CRM install base overall, and it seemed like you guys also highlighted a few boomerang deals more so. Is there something incremental you're trying to call out here, or what's the causation? Thanks, guys.
+## Eric Yuan | CEO, Zoom
+Yes. Yes, Salesforce is a great customer and a partner, We are entering into this market from different angle. Their strengths really about CRM, and the marketing cloud, and so on and so forth. We entered into this market based on our customer feedback. Many customers already deploy our UC solutions, our meeting solutions. Naturally, the next step, really about a contact center, right? You look at a contact center, it's more like a conversation centric, right?
+Rather than the system of record centric, right? That's kind of our key differentiation. Plus, we have an infrastructure layer. When customers call the agent, the infrastructure layer also our UC system. Quite often, if an agent wants to turn on the video, that's also our strength as well, right? With AI Companion or Custom AI Companion, I think we offer a very differentiated CX solution. Plus ZVA, and also CX Insights, a lot of AI integrations. That's the reason why customer trust us.
+## Michelle Chang | CFO, Zoom
+Then James, on your comment or question around the win backs. I think a lot of them are because of this sort of better together across the contact center back into Zoom Workplace. That differentiated approach versus we're also seeing a lot of on-prem displacement. Rather than something in the quarter, I think we've been highlighting more and more of those increasingly. It's something we see because of our differentiated kind of position inside and outside of the company. I think just times are changing, and more of that on-prem base is being unseated.
+## James Fish | Analyst, Piper Sandler
+Got it. Thanks, Eric. Thanks, Michelle.
+## Eric Yuan | CEO, Zoom
+Thank you.
+## Operator | 
+Next, we have a question from Michael Funk with Bank of America.
+## Michael Funk | Analyst, Bank of America
+Sorry, guys. Give me one second here.
+## Michelle Chang | CFO, Zoom
+No worries.
+## Michael Funk | Analyst, Bank of America
+Yeah, a little.
+## Michelle Chang | CFO, Zoom
+It happens even on earnings calls and every day.
+## Michael Funk | Analyst, Bank of America
+There we-
+## Michelle Chang | CFO, Zoom
+out there. There you go
+## Michael Funk | Analyst, Bank of America
+There we go. Thank you all for that. A couple questions for me. You already touched on it briefly, Michelle Chang, but wanted to hear more about your success moving up market in Zoom contact center and how you're being more successful in winning those deals, more established providers, functionality or even bidding process. Another one just on use of cash. I know you get asked all the time on this, but Eric Yuan, love to hear from you on how you think about capability to grow AI organically versus potential to maybe acquire some interesting capabilities or platforms.
+## Eric Yuan | CEO, Zoom
+Yeah. Maybe, Michelle, feel free to chime in, maybe address the CX. We built a very scalable CX platform, right? Because quite often a lot of customer, they want to deploy CX, they would like to leverage the channel partners. You look at our top 10 deals, 10 out of 10 are channel-driven deals to sell enterprise, meaning from go-to-market side, it's already scalable.
+Our channel partners, they know how to pitch our story, how to sell to our enterprise customers. Also look at our top 10 deals. In eight out of 10 deals, we are replacing some other CCaaS vendors. Look at the entire CCaaS market is pretty big, and we're replacing almost every one of them.
+Because of our product, rich feature and innovation, and also the AI, plus our UC and CC combined in a story. That's the reason why we're winning. You look at the top 10 ZCX deals, four out of 10 also include a phone. Look at the top 10 of phone deals, four out of the 10 also include ZCC as well. There's a UC and a ZCC combination also helping us a lot.
+In terms of organic growth, to build an AI or the acquisition, first of all, we look at everything from customer perspective. What kind of services or features they want us to innovate together with them? Like a search, like a generative workflow, right? We want to build up ourself. If there are any other innovative startup companies, we are willing to.
+We're also very disciplined, and make sure either the technology or the customer and some of the services we cannot build, we are going to leverage the acquisition. Again, look at our R&D, 26%, right, in terms of revenue, the percentage. This is pretty large spending, right? We have so many great top talents. We have a high confidence we can build a lot of innovations. At the same time, see, Michael, if you know of any great startup companies with great technology, we are very open-minded.
+## Michael Funk | Analyst, Bank of America
+Of course. Very nice quarter, guys.
+## Eric Yuan | CEO, Zoom
+Thank you. Appreciate it.
+## Operator | 
+Up next, we have a question from Jackson Ader with KeyBanc.
+## Jackson Ader | Analyst, KeyBanc
+Great. Hey, guys. Good to see you. The question I had was on the online segment, Michelle. With churn just kind of ticking up a little bit, but also revenue accelerating, that kind of suggests to me that maybe net new customers or either customer additions or ARPU for the net new customers is healthier than maybe you'd expect. Can you just talk about maybe the dynamics of the online net new customer adds you're seeing?
+## Michelle Chang | CFO, Zoom
+Yeah. Let me kind of attack it from a revenue perspective, because I think it may be a little easier to digest. Our Q1 revenue went up 2.8% in Q1. Really important to bring in my comments earlier on FX, which lifted the total number, will have a sort of disproportionate impact to online, as well as we lapped a quarter prior where we didn't have sort of the impact of a price increase.
+Let me pivot and kind of talk about what I think we're seeing more broadly in online revenue, and kind of how to think about it going forward. Look, we saw some continued progress with low churn. It's a very different base than sort of what we had in the pandemic. You can see that, I think, in so many ways. Then I think we're getting more of a frame of sort of how to land and expand within that, bringing down customer or products, excuse me, the hunt and enterprise, where they make sense for our online customers, bringing new paths to AI monetization, My Notes being a great example of that.
+Certainly, new products and acquisitions, since Eric just mentioned them. We did welcome Bonsai. I think it's the dynamic sort of popping up Q1. Look, there is durable and strength in our online business, and that's why we continue to think that it will grow slightly in FY 2027.
+## Jackson Ader | Analyst, KeyBanc
+Great. Then a real quick follow-up. If we continue to kind of see this non-current RPO-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Jackson Ader | Analyst, KeyBanc
+outgrow current RPO.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Jackson Ader | Analyst, KeyBanc
+Is it customer led? Are customers looking for longer term deals? Is Zoom really kind of pushing longer term deals? Just curious about the push and pull there.
+## Michelle Chang | CFO, Zoom
+The dynamic. Yeah. What we're seeing there is just a reflection of what we've been talking about. If you think about our levers for growth and kind of growth inflection are changing more into phone, more into contact center, more into AI. contact center in particular comes with longer term deals than maybe a traditional Zoom Meetings, and so that's really what you're seeing there.
+Look, we're pleased that it went up even versus Q4, which tends to be our biggest selling quarter. Look too, I might throw in deals over $1 million was one of the strongest that we've seen, even in a Q1. I think it's something that really just reflects more where our business is going.
+## Jackson Ader | Analyst, KeyBanc
+Got it. Thanks, guys.
+## Eric Yuan | CEO, Zoom
+Thank you.
+## Operator | 
+Up next, we have a question from William Power with Baird.
+## Yanni Samoilis | Analyst, Baird
+Great, thanks. Yanni Samoilis on for Will Power tonight. Good to see the enterprise NRR tick higher. I was hoping you could just talk a bit about that inflection, and then more broadly, maybe a bit about how conversations are going with your enterprise customers, their renewal. I know there's some headlines out there about seat counts, but wondering if there's anything you'd call out there, if that's still maybe status quo. You already talked a little bit about discounting. Just how you're thinking about discipline there, given the value of the platform, and the AI products that you're offering. Thanks.
+## Michelle Chang | CFO, Zoom
+I'll try and take those in order. Net dollar expansion, look, we've been saying to investors that the intent would be to inflect on, we were pleased to see in this quarter a modest improvement. Most of that, just to avoid repeating myself, is the same durable thing that we've been talking about, AI monetization, product diversification.
+The intent in the fullness of time is that that thing would continue to grow off those dynamics. We will have a little bit of the white label churn that we mentioned going forward. To your second question, which I took to be kind of the macro nature, look, we continue to see strong and durable enterprise conditions.
+More importantly, sometimes we don't always get to control the conditions that we're given, but I think Zoom has a very strong TCO story. Even within whatever conditions we're given, and it's only getting stronger as we move into this system of action. We're moving into a very different relationship with our customers that we're very excited about. Then remind me on your third part of your question here. What was the third part?
+## Yanni Samoilis | Analyst, Baird
+Yeah, just philosophy around discounting, discipline around that.
+## Michelle Chang | CFO, Zoom
+Discounting and pricing. Yes. Look, generally, we do price raises in the enterprise, and you've seen us do that on phone and contact center. Generally, we try, and we'll do those when sort of market conditions or competitive dynamics make sense. More and large, we work discounting, we work deal terms and conditions as you would expect us to do. We feel good about where we are with deal health as well as opportunities going forward.
+## Yanni Samoilis | Analyst, Baird
+Awesome. Super helpful. Thank you.
+## Operator | 
+Our next question comes from Allan Verkhovski with BTIG.
+## Allan Verkhovski | Analyst, BTIG
+Awesome. Hey, guys. Thanks for taking the question here. Eric, I have a question on the AI momentum you're seeing. You've been rolling out a lot of new functionality, and based on the conversations you're having, can you talk through how the average customer's perception of Zoom being a system of action in the enterprise progressed over this past quarter?
+Just as a follow-up, another question on Custom AI Companion. Can you share what kind of trends you're seeing in terms of adoption today? Are there specific industries or size of customers where you're maybe seeing more success with? Any other color would be helpful.
+## Eric Yuan | CEO, Zoom
+Yeah, Allan, such a great question. Interestingly enough, this morning, I had a call with one of our big customers in the financial sector. Exactly same as you said, right? What's the customer perception about Zoom? Are you an AI company or not AI company? For now, in my view, and I talk to so many customers, for now they all view like NVIDIA or the OpenAI and Zoom as AI company.
+Everybody else, I'm not sure, because from a cost perspective, they think any other software company, they AI company. I think that's naturally, I think that's right, because whenever the new technology, you look at the stack, right? From infrastructure layer, right? The cloud infrastructure, the chip layer, and also large language model are more like a AI company.
+More to more, and application layer, you will see some company will emerge as a AI company. I think we want to be part of that because of our AI innovation. When customer, they tested our My Notes feature, they love that. When I shared our the new innovation we are going to announce next month, we love that. More and more when customer and they deploy all those innovative AI services, give me some time, for sure, wow, this is AI company. For now because as I explained the technology stack, right? That's the perception. I'm sorry, what's your second part of the question?
+## Allan Verkhovski | Analyst, BTIG
+The second part was just any trends you're seeing in terms of customers that are adopting Custom AI Companion, maybe specific industries or more upmarket, mid-market, just generally any trends would be helpful in terms of what you're seeing there.
+## Eric Yuan | CEO, Zoom
+Look at not only for a lot enterprise customers, SMB, even including the solopreneurs, I think in terms of conversation-centric AI, like a transcription summary, all is there, the CX Insights, the ZVA, all those I think is doing very well, adopted very well. Inside of that's more like a conversation-centric AI. When we announce a new product, which is focused on completion, that also will help us to change the customer perception.
+More like, hey, how to leverage Zoom AI to build agent, how to leverage AI build a workflow attached with the conversation, How to leverage AI to focus on agent retrieval. I think more and more, we shift our focus to AI completion part.
+## Allan Verkhovski | Analyst, BTIG
+Got it. Perfect. Thank you, guys. Congrats.
+## Eric Yuan | CEO, Zoom
+Thank you, Allan. Appreciate it.
+## Operator | 
+Our next question comes from Tyler Radke with Citi.
+## Speaker 13 | 
+Hi, thank you. This is Kylie on today for Tyler, and congrats on a great start to the year. One for both of you. Eric, maybe starting with you. As enterprises figure out that build versus buy allocation, how is Zoom positioning the new AI Services and Custom AI Companion to win that wallet share? Especially with it launching in March and Scribe seeing some early adoption, what would you call out as some of the biggest moats for that and the others coming on the roadmap?
+## Eric Yuan | CEO, Zoom
+Good question. You mentioned our AI Services that we offer the speech and the API Service, because when customer tests that, the quality much better than any other competitors, right? This is kind of a speak of our product, they also have a great AI talents. That's one. Two, when we build all those AI Services, we also co-innovative with customer. Even before build, we already shared why want to build those services, customer resonate very well.
+That's the reason why next month we'll have quite a few announcement, some customer in the pilot, they really like that, right? Because the co-innovation. Also, especially for a lot of enterprise customers, even AI is such a great technology, the adoption speed is not as fast as we want. That's why we also have some FDE, full-time deployment engineer working together.
+Take a ZVA, for example. Some enterprise customer really like our technology. If you want to let Zoom-Deploy those solutions take some time. We have FDE working together with those enterprise customers, drive the AI adoption. That's another way for us to win. Overall, we have high confidence about our AI innovation.
+## Speaker 13 | 
+Great. One for you, Michelle. I understand it's early on AI Services, so with all of the monetization avenues you're now offering for AI, what would you rank order as sort of the most significant drivers in the upcoming 12-18 months?
+## Michelle Chang | CFO, Zoom
+First, I know there's a lot out there that like to put out the AI revenue stat. Let me just use this opportunity to throw in, to me, the most important thing is to ensure that AI monetization impacts your total revenue growth. Look, that's already happening from a Zoom perspective. Clearly, the area where we have the most momentum, and you hear that even reflected in our three priority wording, is to scale the clear signal that we have in customer experience.
+I won't add to all the metrics, as I think Eric covered a couple and I've covered a couple. That's clearly the most important. Then look, within new revenue streams of AI, look at how much just even quarter-over-quarter we're just bringing new to the market. Look, we get excited. There's progress in things like ZRA.
+Workvivo came out with new stuff relative to AI monetization. Clearly Custom AI Companion and look, services is one. I wouldn't put it at the top of the list, maybe just answer the question explicitly. Then look, I'd be remiss if I didn't say also that AI usage and threading that in is also a very important indirect measure, in terms of how to think about monetization.
+Meaning putting it in our paid SKUs at no additional cost is intended to reduce churn and bring in new interest in customers. We get excited and look every single quarter, there's just a lot more momentum coming at us. We look forward to talking about it with investors going forward.
+## Eric Yuan | CEO, Zoom
+By the way, we have some very exciting new product solution announcement next month, all our AI-driven product.
+## Speaker 13 | 
+Thank you.
+## Eric Yuan | CEO, Zoom
+Appreciate it.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Operator | 
+Our next question comes from Andrew King with Rosenblatt Securities.
+## Andrew King | Analyst, Rosenblatt Securities
+Hey there. Thanks for taking my question and congrats on the really strong quarter. Just wanted to double-click on that Resona win in Japan. It was really notable because it's the first time I can remember hearing of ZVA being deployed for outbound engagement rather than traditional inbound deflection. How large is that outbound ZVA opportunity in your view? Is this an emerging use case that you're looking to actively build go-to-market around, and is there any needed pricing change for the outbound versus inbound? Thank you.
+## Eric Yuan | CEO, Zoom
+Those are two different use cases. It's hard to say which one is bigger because you are so right, and naturally, you think probably we focus on inbound. That's not the case because you look at the technology, outbound, right? I think it might be even larger, right? Because more and more, the companies, they want to leverage AI technology to reach as many customers as possible, right? That's why outbound, I feel like even more opportunity.
+Again, the same technology stack. We just focus on all those different use cases, right? That's kind of the platform approach. Yeah, when we started a few years ago, we also just focused on inbound, and now I feel like outbound, inbound, sometimes hybrid, I think will bring us a lot of new, exciting opportunities.
+## Andrew King | Analyst, Rosenblatt Securities
+Just any comments on if there's any needed pricing structure changes between outbound versus inbound?
+## Eric Yuan | CEO, Zoom
+It's a great question. I think inbound might more like use it outcome-based. Outbound, we also want to focus on the outcome-based, right? Asking that model, customer resonate very well, right? If I reach 1,000 prospect to leverage our technology, right? If only five out of 1,000 reply back, you get the least, I think that don't make any sense, right? That's why outcome-based model, I think is more for outbound.
+## Andrew King | Analyst, Rosenblatt Securities
+Got it. Thank you.
+## Eric Yuan | CEO, Zoom
+Yeah. Thank you.
+## Operator | 
+Our next question comes from Peter Weed with Bernstein.
+## Michelle Chang | CFO, Zoom
+There we go.
+## Peter Weed | Analyst, Bernstein
+Sorry, I'm out here. Harder to get unmuted. I think you've talked about this in the past, but maybe remind us, is obviously doing really well for you guys. If we look forward, one of the areas where there seems to be a lot of pressure from AI is perhaps the scale of people employed in contact centers. How do you see that impacting your revenue opportunity and kind of when you look at how you can price and maybe get value, how you kind of stay away from fee-based potential challenges there?
+## Eric Yuan | CEO, Zoom
+Michelle, you want to address that?
+## Michelle Chang | CFO, Zoom
+You cut out a little bit, Peter, there, but I think your question was sort of how do we find the right balance between sort of consumptive and per user business models. Did I get it right?
+## Peter Weed | Analyst, Bernstein
+Well, I think very specifically in contact center itself.
+## Michelle Chang | CFO, Zoom
+Perfect
+## Peter Weed | Analyst, Bernstein
+where I think there's some pressure maybe.
+## Michelle Chang | CFO, Zoom
+Yeah. This is a good one because it's actually, I think, a little bit different for Zoom than it is maybe some of the legacy players. Look, part of why I think you're seeing this when, I think Eric gave it, but if not, eight of 10 were legacy displacements of our top 10 deals in contact center. Look, it's because we don't have the tech debt.
+We come at contact center with a very fresh and modern approach, an AI-first approach. To your question maybe more specifically, we also don't have the business model pressure. Look, our agent-assisted product, we have a per user, three-tiered structure, kind of good, better, best. Best being the Elite, where we kind of get to the AI value.
+Increasingly we're introducing where I think the market is going, Eric touched on this a little bit earlier, a more consumptive-based business model, potentially outcomes-based, and that is the pricing structure for ZVA. Zoom added a new, really important layer this quarter of insights to be able to look across that entire stack, and that is consumptive as well.
+## Eric Yuan | CEO, Zoom
+Yeah, Peter, from a high level, let's say any customer, if they are going to hire more and more human agent, it's great. They can deploy more Zoom ZCX seats. If do not want to hire more human agent, guess what? They can deploy more Zoom ZVA as well, right? We are giving customer a very flexible solution.
+## Peter Weed | Analyst, Bernstein
+I appreciate it. Thank you.
+## Eric Yuan | CEO, Zoom
+Thank you, Peter.
+## Operator | 
+Our next question comes from Peter Levine with Evercore.
+## Speaker 16 | 
+Hey, guys. This is Charlie for Peter. Thanks very much for taking our question, and congrats on the strong quarter. Michelle, one for you on capital returns. With the new $1 billion authorization on top of the $625 million remaining, yo u now have about $1.6 billion of buyback capacity against almost $8 billion of cash.
+## Michelle Chang | CFO, Zoom
+Wow.
+## Speaker 16 | 
+I think last quarter, you framed buyback as a minimum offsetting dilution.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Speaker 16 | 
+The size of this incremental authorization feels like a step up in posture. How should we best think about the pace and size of buyback from here? Thanks again, guys.
+## Michelle Chang | CFO, Zoom
+Yeah, I don't see it as different. I think this is an area where investors have given Zoom feedback. We do have a large cash balance, even though it went down. We're a very free cash flow generative company. Look, I'm proud of the progress that we've made in buybacks. I don't necessarily think about it per se by tranche. We tend to think more holistically. We've authorized $4.7 billion in total. That's been a big change for Zoom, now we've executed against $3.1 billion of that.
+Look, we have $1.6 billion remaining, we're going to leverage that. We think that's a great sign, this latest tranche of confidence that Eric, myself, and the board have in where Zoom is going. Look, we'll leverage that as it makes sense relative to what's going on in the market and stock price. It's something I wouldn't get overly thinking about a particular tranche rather than keeping the kind of broader perspective in mind.
+## Speaker 16 | 
+Great. Thank you.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Operator | 
+Our last question today comes from Thomas Blakey with Cantor Fitzgerald.
+## Thomas Blakey | Analyst, Cantor Fitzgerald
+Oh, I think I'm on there. Thank you, Eric and Michelle, for taking the question. Maybe as a final question, it's a good wrap-up here. I think with the big AI disruption that you were hinting at, Eric, could you just maybe talk about the durability of the communications app, if you will, the communications layer when you talk with customers? Maybe as a secondary to that, just what is the strategic value of the data, the real-time data that you can bring to AI applications when you talk to your customers to kind of illuminate the value proposition of what Zoom is selling to these large customers? Thank you.
+## Eric Yuan | CEO, Zoom
+Tom, thank you. I wish you are the first one to ask me this question because those two are the most important questions in my view. I think first of all, you look at the prior to AI era, for any of us to complete a task, normally it will need two- step, right? Step one, you and I have a Zoom call or in-person conversation, right?
+Let's say I'm a sales rep. I talk with you. You are a potential customer. After the Zoom call, guess what? I look at my manual notes and log into the back-end system and how big is this deal, and so on and so forth. I just update it back in the system. That's two-step process. In the AI era, with the AI technology, it become one step.
+Zoom interface will remain the same, but after Zoom conversation is over, my agent will automatically get the work done for me, right? That's a beautiful part of the AI. I dramatically automated all those work I used to spend a lot of time working on. Another example, like a doctor and a patient. Spend a certain minutes talking to a patient. After the conversation with the patient, they need to spend a lot of time to update Epic. Now with the AI, everything can be done automatically, right?
+That's why Zoom is become the human to human interaction not only remain the same, but become more and more important because the Zoom conversation will generate a lot of very, I would say, meaningful, important asset or data to help you drive your next step. I call that a context layer. Let's take this Zoom call, for example.
+After this Zoom call is over, I have a huge context how to leverage the AI, generate the insights, the tasks, get this thing done. I think we are uniquely positioned because of AI, because of human to human interaction. I cannot imagine, right? Your agent and my agent are talking to each other, we are not going to use Zoom. It would never work, in my view. That's why Zoom call will become more important in the AI era.
+## Thomas Blakey | Analyst, Cantor Fitzgerald
+Yeah. Can't be displaced, so that's great.
+## Eric Yuan | CEO, Zoom
+Absolutely. Otherwise, what do we do? If you're sending your agent and my agent to work together, it's never worked, in my view.
+## Thomas Blakey | Analyst, Cantor Fitzgerald
+Yeah. Thank you, Eric. Thank you, Michelle.
+## Eric Yuan | CEO, Zoom
+Thank you.
+## Operator | 
+We have one more question today from Arjun Bhatia from William Blair.
+## Arjun Bhatia | Analyst, William Blair
+Oh, perfect. Thank you. Let me see. I got to change my camera. Wow. There we go. Thanks for taking the question. Congrats on the strong quarter. Eric, actually, I'll follow up on that last question because I think one of the important or interesting rather use cases or customer examples you pointed out in the prepared remarks was the MongoDB example, where they were basically taking actions in CRM ticketing from a Zoom conversation.
+How aware are customers that Zoom can do this, right, and that you are becoming this system of action? Maybe what do you need to do on the go-to-market side to really raise awareness that, hey, we're kind of evolving as a company, and it's becoming a lot more strategic?
+## Eric Yuan | CEO, Zoom
+Yeah, it's a great question. First of all, we have a new release next month, and based on all the customer feedback, for sure that from a quality, from a feature perspective, much better. Afterwards, you're also right. We just need to double down on go-to-market side and make sure everyone are aware of that. For sure, we have a little bit of awareness problem.
+Customer do not know that, but at the same time, the huge opportunity, and I think internally, based on our Zoom employee feedback, a lot of people mention, "Wow, I did not realize you can do this, can do that." I think it does tell us, and the product is ready, and we just need to turn on our marketing machine and make sure every of our customer, they can turn on those very cool features. That's exactly our focus in the next few months and quarters.
+## Arjun Bhatia | Analyst, William Blair
+Great.
+## Eric Yuan | CEO, Zoom
+If you have any good idea, please let us know. I really appreciate.
+## Arjun Bhatia | Analyst, William Blair
+Yes. I will keep you posted. Thank you so much. Appreciate it.
+## Eric Yuan | CEO, Zoom
+Thank you.
+## Operator | 
+Yeah. This concludes the Q&A portion of today's call. I'll now turn it back over to Eric for closing remarks.
+## Eric Yuan | CEO, Zoom
+Yes, thank you to every great customers, partners, Zoom employees, and also thank you to our beloved investors. I truly appreciate for your good support. We are going to work as hard as we can in the AI era to keep build some innovative solutions to delight our customers. See you next quarter. Thank you.
+## Operator | 
+This concludes today's earnings call. Thank you all for attending, and have a great rest of your day.
+Data Source: Quartr Last updated: May 21, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (18) Quarterly reportSlidesEarnings release Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

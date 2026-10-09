@@ -1,0 +1,7 @@
+Company: Delta
+ROIC Symbol: DAL
+ROIC Name: Delta Air Lines, Inc.
+Year: 2007
+Quarter: 2
+Date: 2007-07-18 10:00:00
+Executives

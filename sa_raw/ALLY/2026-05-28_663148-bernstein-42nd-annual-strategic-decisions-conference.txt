@@ -1,0 +1,298 @@
+TITLE: Bernstein 42nd Annual Strategic Decisions Conference
+DATE: 2026-05-28
+## Rob Wildhack | Analyst, Autonomous Research
+Morning, everyone, and thanks for joining. My name is Rob Wildhack. I cover the consumer finance group here at Autonomous Research. We're very excited to have Michael Rhodes back with us today. Michael is the CEO of Ally, and he's been in the seat for a little more than two years. It's great to have you back again, Michael.
+## Michael Rhodes | CEO, Ally
+Thanks. Great to be here.
+## Rob Wildhack | Analyst, Autonomous Research
+We are using Pigeonhole for the Q&A this year, so you can submit your questions there. You can vote on questions that are already submitted. I can get them over to Michael. Now we can get started. In your shareholder letter, Michael, you rolled out a refined strategy over the last year or so. This time introduced the term "focused forward." I'm wondering how that strategy positions Ally better. Where are you most intentionally focused to drive durable and sustainable long-term value?
+## Michael Rhodes | CEO, Ally
+Rob, thanks, and thanks for being here and facilitating this conversation. Yeah, I did just pass two years in the role and we did launch this term "focused forward." You could ask any one of our 10,000 colleagues inside of Ally to summarize our strategy in two words, and I'm quite confident they'll say, "Focused forward." This represents a strategy that we've been discussing for a while now, but we've been very disciplined about executing against over the past year plus. Early innings, but we're really encouraged by what we're seeing in this. For us, focus, it really represents leaning into the businesses where we believe we've sustained competitive advantage and a reason to win. Those are places where we have either longstanding relationships, usually a combination of longstanding relationships, unique capabilities, relevant scale.
+We picked three places we're really going to lean in and focus, and that's our Dealer Financial Services platform, it's the Consumer Bank, and Corporate Finance. Strategy's about choices, the choice we made was, okay, we're not going to be in the card business anymore, we sold that. We stopped originating mortgages. We were in originate to sell mode, but we still have some on the balance sheet, we stopped originating them. Really just focusing our energies and resources in the places where we feel very good about our ability to compete and win. What I love about this strategy is if you think about these three markets that I said we're in, it's Corporate Finance, Dealer Financial Services, and the Consumer Bank. They all have some common factors that we get really excited by.
+They're attractive markets, they're large markets, and they're fragmented, and we have relevant scale. Being in a place where you have large attractive markets with relevant scale means those who are really, it's your lifeblood, it gives you the ability to really start compounding advantages. We think we're in a situation where we can actually do that to both increase returns and increase growth. Again, I mentioned early innings, but you look at the results last year, 2025 versus 2024, EPS was up 60%. First quarter of this year was up 90%. Clearly not promising 90% growth-
+## Rob Wildhack | Analyst, Autonomous Research
+No
+## Michael Rhodes | CEO, Ally
+-on year-over-year on an ongoing basis. No, a nice earnings trajectory there. Our CET1 was up 60 basis points. Our ROTCE was up 400 basis points to 11%. A part of our investment thesis is to maintain expenses, relatively be disciplined about expenses. We put a 1% guide for this year. We feel good about that guide. Could be quarterly movement here and there, we feel good about that guide. We think we've done the right things. In making these pivots, we also took risk out of the bank. The risk we took out was unsecured credit risk, obviously, but interest rate risk as well.
+We used some of the capital from the card sale to restructure our balance sheet, at least on some of the security side, and then clearly, not having long-dated, keep on putting long-dated mortgages is very helpful. Today we find ourselves to be a stronger organization, stronger foundation, a strengthened focus, and I think it really tees us up well for what's ahead.
+## Rob Wildhack | Analyst, Autonomous Research
+Very good. We'll go from 30,000 feet to 300 feet. The macroeconomic and geopolitical landscape today are dynamic, to put it mildly.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+What do you do as a CEO, as a management team, to position the business to perform when the external world is marked by such a tremendous amount of uncertainty?
+## Michael Rhodes | CEO, Ally
+A lot of uncertainty and, to be fair, a lot of data points that you don't usually see together in one place, in this environment. I'll start by saying that we're pleased with how our portfolio is performing. That's probably maybe the most important thing to say. At the same time, you look on a forward basis, and you've got these conflicting signals. Consumer confidence, all-time low, yet consumer spend is actually holding up pretty well in many categories. Real wage growth is high, but probably slowing down. Personal savings is declining. Against that backdrop, we look at our portfolio and feel good about what we see. Why is that? I think a couple things. One is, you hear us use the word discipline a lot.
+We've been really disciplined in terms of how we're actually running our shop, particularly our credit shops, both on the commercial and the retail side. We've made adjustments to our underwriting approach. We've made enhancements to our servicing. We think that actually serves us really, really well in this type of environment. If you listen to the first quarter earnings call, we use the word, we're going to be measured and disciplined in this environment. I was mentioning earlier that in many ways, the economic data, it's almost like an ink blot test. Different people can see different things when they look at the data. We see a portfolio that we feel good about how it's performing. We're not blind to what's going on in the world.
+We're going to be very data informed and measure in terms of how we think of this on a go forward basis.
+## Rob Wildhack | Analyst, Autonomous Research
+Very good. The Dealer Financial Services segment, that's the core for Ally, continued to post strong results. You guys repeatedly referenced dealer relationships as a core competitive advantage. In a business that's intensely competitive, first, why are dealer relationships so important, especially as somebody might think about a loan as being a somewhat commoditized product? How do you continue to maintain and build relationships with dealers?
+## Michael Rhodes | CEO, Ally
+A great question. Look, our dealer relationships are clearly part of our secret sauce. I very much believe it's part of the competitive advantage. These relationships are anchored in years, decades, sometimes generations of trust and consistent commitment. That really matters. In the dealer community, we're known as a partner who's going to be there through good times and bad. The fact that we actually simplified our business model to this more focused approach has resonated really well in the dealer community because they know we're not going to be in and out. Some of our competitors, they almost view it as almost like a trading strategy. "Let's go in, let's go out and see how things are." We're there consistently, and the dealers really value that.
+Having this be such an important core part of our business is part of the advantage of being there through cycles. Our approach for the dealers is, look, we're not trying to be transactional. We're trying to help them be more successful. We help our dealers be more successful. That means selling more vehicles and growing and earning a nice return on their business. We do that by bringing a really comprehensive suite of solutions, and no one else does this like us. It's not just the retail auto loans. We offer commercial lending in terms of floor planning, acquisition financing, real estate financing. We offer insurance products. We offer SmartAuction, which is an an online auction platform to buy and sell vehicles. Other fee-based services, where the dealers can earn a nice return on their business and support their customers.
+We try to be there for dealers in a really, really holistic way. If you look at what this means, take this year as an example. In the first quarter, and the same was true as last year. First quarter this year, vehicle sales were down, new vehicle sales, used vehicle sales. Our application volume was up 16%. Last year, our application volume was up and new vehicle sales were, I think they were down a bit, and used might've been flat or a bit up. We're seeing very strong top-of-the-funnel performance in this marketplace. We think we're getting that because of the strength, the commitment that we have with our dealers. They know we're in there to help them win, and the value exchange is they help us.
+## Rob Wildhack | Analyst, Autonomous Research
+You've started to prove the value of those relationships in some of the numbers, right? Price is holding in, the originated yield holding in nicely, and the S -tier mix remains elevated. That's all despite, as we see it, competition rising off of what you might call.
+## Michael Rhodes | CEO, Ally
+Yeah
+## Rob Wildhack | Analyst, Autonomous Research
+nadir a couple of years ago. Would you agree with that characterization competitively? Why do you think you've been able to be so successful despite an uptick in competition?
+## Michael Rhodes | CEO, Ally
+Competition, the fact there's competition is business, there always is. Sometimes it's more intense than others. The fact there's competition actually proves one of my investment theses why we're in this, is that's attractive business. That folks go in there because they see they can generate attractive returns. There's always been competition. Look, we believe that we will win because we bring the combination of the long-standing trusted relationship, plus a set of capabilities that are really pretty unique. Sometimes we talk about the business being called high tech and high touch. The high touch is we have our relationship teams that are on the dealer sales floor, the showroom floors every single day. They could be on the consumer side, they could be insurance, they could be commercial.
+We have people working with our dealers on a daily basis, along with trainers and underwriters. In many cases, our human underwriters are part of our secret sauce. I'll get to the high tech, high touch bit in a second. That's kind of the touch. On the tech side, look, we have lots of digital tools that we work with to build our relationship with our dealers. We move data very fast between the two. We're very quick to settle and to fund our loans, which the dealer community like. Our automated underwriting decisions happen very, very fast. We have a very good machine to do that. You think about relevant scale, if we want to make a change to our underwriting approach, it requires some technology, and it seems like just everything requires technology these days.
+It might cost us, you pick a number what it's going to cost us, but our business is of sufficient size that our return that we're going to get off that is going to be as good or better than any other bank lender, just because we have a book that's bigger than theirs. We have some competitors who are 10 times our size in terms of overall balance sheet size, but that doesn't actually impact the economics of making an investment in the auto business.
+## Rob Wildhack | Analyst, Autonomous Research
+Sure.
+## Michael Rhodes | CEO, Ally
+We feel really good about that. High tech and high touch , they come together in really interesting ways. Someone's there on the showroom floor, they're interested in a vehicle. Majority will be auto approved in a very fast and rapid way. Some are not. Some are more complicated deals. That's where our underwriters come into play. When our underwriters get on the phone and have a conversation with the dealer, F&I office, it helps us figure out a way to help the dealer move the inventory and us to underwrite a loan that actually matches the buy box that we have. To be fair, a loan that the customer can afford on a monthly basis. That kind of high tech, high touch plays itself out in many, many ways. We just think it's the winning formula.
+Again, I keep on pointing back to our application volumes. In the first quarter, we're strong. The second quarter is trending strong. We're pleased with what we're seeing. We see that application volume, it gives the ability to maintain price, but also gives the ability to optimize the risk-adjusted return. As a long answer to the question about competition, yes, there's competition, a great asset class, but given that competition, we're the ones who are doing pretty well with this.
+## Rob Wildhack | Analyst, Autonomous Research
+Mm-hmm. Is there a risk that competitors will see Ally's success and say, "Oh, I'm going to adopt a more high touch, relationship-driven approach?" Or are there reasons structurally that they might not do that?
+## Michael Rhodes | CEO, Ally
+Look, these relationships have been built over a long period of time.
+## Rob Wildhack | Analyst, Autonomous Research
+Right.
+## Michael Rhodes | CEO, Ally
+When I meet with dealers, man, we've been doing business with for honestly decades, if not generations.
+Forming relationships doesn't happen overnight just because you hire someone and put them out in the field.
+## Rob Wildhack | Analyst, Autonomous Research
+Yep. Very true. You pointed out some capabilities, or you've talked a little bit about capabilities.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+Among them are the SmartAuction and pass-through programs. Can you remind the listeners what those are and how they are monetized for Ally? Talk about how those two components fit into the broader dealer proposition.
+## Michael Rhodes | CEO, Ally
+Right. We love these products. Both these products give us the ability to deepen dealer engagement and earn profitable, and really non-correlated income stream. Smart Auction is our digital auction platform, whereby dealers are able to buy and sell inventory. They can do it right there on their lot. They use their digital tools. Since we started Smart Auction, we moved something like 9 million plus vehicles, it's not a small number. On the pass-through program, this allows us to monetize applications that we decline. You couple the strength at the top of the funnel with the ability to monetize some of those applications. We're running at a pace of roughly $1 billion or so a quarter of turned down applications that we actually push through our Smart Auction, actually through our pass-through p rogram.
+Those become annuity streams that we kind of earn on an ongoing basis. You look at the two of them together and their fee income, and we like fee income because it's pretty capital efficient. Our fee income line there on the dealer side with these two products, it's growing called the high single digits and accelerating. We think we're onto something really good here, and we feel great about where we are.
+## Rob Wildhack | Analyst, Autonomous Research
+Insurance rounds out.
+## Michael Rhodes | CEO, Ally
+Yes
+## Rob Wildhack | Analyst, Autonomous Research
+The DFS value prop. What's Ally's right to win in insurance? Why do dealers go with Ally? How do you plan to scale that business moving forward?
+## Michael Rhodes | CEO, Ally
+Great. Again, we love the insurance business. Again, non-correlated, deeper engagement. In many cases, the F&I product helps the dealers earn more themselves. Certainly for the vehicle inventory insurance, it's a really valuable service that they need. For us, again, it's kind of non-correlated business. On the insurance side, one of the big advantages we have is we have our existing auto relationships, and we have insurance. We have a reason to have a conversation about insurance every single day. The edge we have in terms of selling into the dealer network is just far greater than those who are trying to hire their own sales force to go out and actually sell the product themselves directly. We see that play out. I'd say today, about a third of our dealers use one of the insurance products in one way or the other.
+The growth comes from two different categories. It's not just in the 2/3 that we don't service in one way that we'd like to. Even the third that we do, in many cases, we have the opportunity to do even more. We see opportunity both with our existing customers on the insurance side, plus the untapped opportunity. That's not even really going outside of the dealers who we may not be doing business with, which obviously it's a small number. We think this business has a lot of legs in it. Again, it's non-correlated. It helps our dealer partners, and it deepens relationships. When we're in talking to a dealer about their business, we have a really comprehensive set of solutions we can talk about.
+Really, no one else has this depth of solutions they can go and work with dealers on. We think it's a winning formula.
+## Rob Wildhack | Analyst, Autonomous Research
+Very good. The Corporate Finance segment is the second sort of-
+## Michael Rhodes | CEO, Ally
+Yes
+## Rob Wildhack | Analyst, Autonomous Research
+-marquee business in terms of reaching those mid-.
+## Michael Rhodes | CEO, Ally
+Yes
+## Rob Wildhack | Analyst, Autonomous Research
+-mid-teens returns. Excuse me. It's high return on its own. What is Ally's competitive advantage here?
+## Michael Rhodes | CEO, Ally
+Corporate Finance, maybe some context. Our corporate commercial kind of lending business is about a $40 billion business, and Corporate Finance is about a third of that. This is a business we've been in for 25 years through a number of cycles. We work with really some of the finest asset managers and financial sponsors in the business. Our reason to win, so we have some longstanding relationships, and fundamentally we are growing with our clients. It's not like we're going chasing every single book that kind of hits the street and trying to figure out how to do something there. We have a number of clients that we've been banking for years and years. As they grow and they're successful and raise more and more money, we're able to kind of grow with them, and that's the best way you can grow.
+Our value proposition, why are these clients sticking with us? They're sticking with us because we're quick to act. We actually execute with certainty, and conviction that really matters. We're fast, they know that we're going to show up in the right types of ways. Again, this is a business where we really like what we're seeing. I'd say another one of the advantages we have, and it ebbs and flows in terms of how this is an advantage. Being a retail deposit funded business is really helpful. Those retail deposits are very sticky, and they're there through good times and bad. When times are tough. We're actually at a really significant advantage in terms of our availability of funding. We feel very good about that. Look, we're a credit-first shop, and we've had some nice growth in this business, without a doubt.
+I think we're 6% growth sequentially, from the fourth quarter to the first quarter of last year was strong growth. We're also getting good returns this business. It's a business that we know, longstanding relationships. Maybe the last thing I'd actually offer is that we also, it's an important point, we age in virtually all of our deals. What does that mean? It means we own the underwriting, the structuring, the due diligence process, and the ongoing account management. This is real franchise business. We feel great about this business.
+## Rob Wildhack | Analyst, Autonomous Research
+We'll talk about the retail bank, but deposits as they relate to Corporate Finance, that's a durability.
+## Michael Rhodes | CEO, Ally
+It's a durability.
+## Rob Wildhack | Analyst, Autonomous Research
+Is it cost of funds advantage?
+## Michael Rhodes | CEO, Ally
+Yeah. There's cost of funds advantage as well.
+## Rob Wildhack | Analyst, Autonomous Research
+Yeah.
+## Michael Rhodes | CEO, Ally
+Between cost of funds and durability, we like them both.
+## Rob Wildhack | Analyst, Autonomous Research
+Yep. Okay. The broader private credit space has come under the microscope as of late. First talk about your exposure there to private credit specifically, then when there are headlines around a particular segment, do you pull back and wait out the volatility, or do you skate into pockets of opportunity?
+## Michael Rhodes | CEO, Ally
+Great. First of all, when we talk about private credit, as we think about our Corporate Finance business, there are three primary verticals. There's a Specialty Finance bit, so we call Sponsor Finance, traditional private equity type funds, and there's what you call Lender Finance, which is where we're lending against diversified pools of loans. I hear the word private credit, I think Lender Finance-
+## Rob Wildhack | Analyst, Autonomous Research
+Right
+## Michael Rhodes | CEO, Ally
+-from our language. This is a business, again, that we've been doing for quite some time. We're a credit-first shop, as a credit-first shop, again, we'll agent the transactions. We also work really hard on structuring these deals, that we have the right rights. There's a significant amount of risk-based capital in front of us. The combination of risk-based capital in front of us, along with the right structuring and rights, provides a lot of insulation in the event that there's a bump in the road. This lender finance business is one that, since we've been doing this, we've never taken a loss, and we've never classified a loan as non-accrual or criticized. Again, we feel good about this business. We're not chasing volume for the sake of volume. I keep on going back to that.
+Look, we're a credit-first shop, and all the headlines you may be seeing about private credit, they don't actually apply to what we're seeing.
+We're seeing something different.
+## Rob Wildhack | Analyst, Autonomous Research
+Yep. Okay. With that as the backdrop, I'm curious what the growth constraint is for Corporate Finance today. If you told Bill and the team, "Here's another $250 million, $500 million in capital," could they find opportunities to put it to work, or would they say, "Look, the environment's not right, and"?
+## Michael Rhodes | CEO, Ally
+It's fundamentally a capital allocation question. Bill and his team, they have the capital. If they have opportunity for growth, the organization will support them.
+## Rob Wildhack | Analyst, Autonomous Research
+Okay.
+## Michael Rhodes | CEO, Ally
+You can actually probably see that since 2019, so I go pre-pandemic as a reference point. That business has gone from $5 billion to $14 billion and made 20% + ROEs during the entire time. Look, the team has a lot of credibility and support, and look, they're a credit-first shop. They're not chasing deals. We're going to be there, and when there are pockets of opportunity, we're going to make sure that we free up the capital to support them.
+## Rob Wildhack | Analyst, Autonomous Research
+Okay, if I'm hearing, it's more of a pull, "Hey, Michael, we've got this great opportunity."
+## Michael Rhodes | CEO, Ally
+Yeah.
+## Rob Wildhack | Analyst, Autonomous Research
+Rather than a push, "Go find places to put this work."
+## Michael Rhodes | CEO, Ally
+Yeah. We'll go episodically and try to find out new verticals that we think we can be relevant in. Last year, we started an energy vertical. We've been very pleased with what we've been seeing out of that. When we can find a new vein of opportunity, yes, we'll go at that. I don't think Bill feels capital constrained right now.
+## Rob Wildhack | Analyst, Autonomous Research
+Very good.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+The last of the core franchises is the Ally Bank, obviously a branchless-
+## Michael Rhodes | CEO, Ally
+Yes
+## Rob Wildhack | Analyst, Autonomous Research
+-digital bank. There are a lot of advantages in that model. There is some intangible value to having a branch, right? Customer awareness being the main one.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+Talk about how you're building the brand and customer awareness and recognition there without the branch footprint to walk or drive past every day.
+## Michael Rhodes | CEO, Ally
+Oh, that's great. Well, first of all, great question, and yes, there are benefits to having a branch network in terms of the branding element of it. For us, we don't have a branch network, and so what's our value proposition? Our value proposition is we offer a brand you know and trust, and that really matters, value, and a great customer experience. The value equation is, since we don't have a branch network, we actually take the cost of a branch network, if you will, and put it into higher savings yields, lower fees, and into our marketing investment. We think this is something that really plays off well. If I look at our consumer bank, our deposit platform is really spectacular. I'd argue it's one of the best in banking.
+We're at $140 billion in deposits, 92% + FDIC insured. We've been really, really pleased by what we've seen out of this. Our growth rates for new customers last quarter, we said was 6%. That's net customer growth on a year-over-year basis. For a large bank, that's a very strong number. Our retention rates are 95% +. I stack that against any one of these fintechs that talks about what they're doing, 95%'s a good number. Our NPS scores are very strong. Our awareness is 55% +. You pull it all together, and as a formula, it just works really, really well. I think about our customer. We actually just launched a new marketing campaign called Life Today. It really, really is, it's a story about how Ally meets our customers, where life and money intersect.
+When life and money intersect, you're generally not in a bank branch, you're generally next to your phone. Then that's where Ally is. So we think it works really, really well. Our value proposition is really attracting a younger, kind of millennial or younger, but still income over $75,000+ type customer. So we feel really good about what's coming out of this digital bank. Yes, we don't have the bricks-and-mortar network, but the trade-off is, it's a brand you know and trust, it's value, and it's a great customer experience. You pull them all together, and we really like what we're seeing. We think it's a winning model.
+## Rob Wildhack | Analyst, Autonomous Research
+You talked about the retail deposit base as an advantage for Corporate Finance from a funding perspective.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+How does that apply to Dealer Financial Services as well?
+## Michael Rhodes | CEO, Ally
+Look, having the retail deposits, it's just a wonderful thing. It's cost of money. It's also NIM expansion at the enterprise level because of how we fund it. We get some advantages there. The durability of the funding throughout the cycle is just incredibly valuable. If you actually think back, if you go back, I talked about year-over-year, if you go back 17 years, we have 17 years of growth, of customer growth through this business. It just serves us really, really well, and we think it's a huge competitive advantage to have a branded backed deposit platform. It's one of the things that makes Ally.
+## Rob Wildhack | Analyst, Autonomous Research
+Very good. You've talked about the mid-teens return target, you've made progress towards that. What underpins your conviction that that is the right level of a through the cycle return? Where do you get the confidence to not only get there, but then maintain that level of returns through the cycle?
+## Michael Rhodes | CEO, Ally
+In terms of, we've been talking mid-teens for a while, and anyone who's heard our calls or participated in these will know there are three major levers that we work with. It's NIM in the high three's, auto losses below two, and then maintain discipline on the expense line. I'd say we've hit two of the three of those so far. It's auto losses, and hopefully you've seen the discipline in the expenses. NIM, there are a lot of factors why NIM is actually drifting upwards, and so we feel good about our trajectory of how we're going to get there. If you do the math on the NIM and the losses and put an efficiency ratio you think makes sense for us against that, a little fee income, it just becomes math.
+The math says that you get to something that looks like mid-teens returns. In terms of the durability of it, we made our strategic pivots. We did a few things in that, which is, A, focusing our investment in the places we're going to get the most bang for our dollar. Second is we de-risked the business some. The de-risking was unsecured credit is out. Virtually everything we have on the balance sheet today is secured in one way or another. That helps through cycles. The second is we have taken steps to reduce interest rate risk. We continue to take steps to reduce interest rate risk over time. So that, again, helps with the variability of the cycle. Look, Rob, I get banking is a cyclical business. We have really done some, I think, really strong things that position us well.
+We talk about how dynamic the environment is. Given the strategic pivots we've made, given the operational pivots we've made, we feel well positioned.
+## Rob Wildhack | Analyst, Autonomous Research
+Your message on, or to any investors who are maybe more concerned about sustainability of mid-teens would be, look, we're more secured lending, so we're de-risked and we're less rate sensitive than we were in the past.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+Very good. Okay.
+## Michael Rhodes | CEO, Ally
+Again, it's just math at the end of the day. If you believe the dynamics on where NIM is going, and if you believe where losses are going, and you have confidence in management to maintain expenses, you kind of get there.
+## Rob Wildhack | Analyst, Autonomous Research
+Yep. Okay. Let's talk about where the NIM is going. You mentioned target for the high threes.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+That's an important ingredient there. We're at about three and a half today, 3.5% in the first quarter. Ally is naturally liability sensitive, even though maybe less so than in the past. How does that all add up and what's the bridge from 3.5 today?
+## Michael Rhodes | CEO, Ally
+Something
+## Rob Wildhack | Analyst, Autonomous Research
+High threes.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+Sometime in the future?
+## Michael Rhodes | CEO, Ally
+Yeah. First of all, our NIM target is not the output of an economic environment, it's the output of the underlying economics of the business. That's an important point to make, because a lot of folks will think about, well, if rates do this or rates do that. Yes, it can change our path, but it won't change the destination. In terms of the underlying economics of the business, you talk left-hand side of the balance sheet and the right-hand side of the balance sheet, and you have factors going on both that are supportive of a higher NIM. On the left-hand side of the balance sheet, assets, we have basically a continued rundown of low yielding mortgages and securities that are being replaced with higher yielding Corporate Finance loans and auto loans. That's accretive to NIM on an ongoing basis.
+On the liability side of the balance sheet, it's really a story of deposit transformation. Again, you've probably heard me say this a few times here, is this deposit franchise we have is just wonderful. By the way, I didn't build this. I mean, this was here when I arrived, and I just have the ability to help shape the next chapter for this. This transformation, there are many factors in it. One of which, again, I compare to 2019 pre-pandemic to today. Our mix of depository funding has gone from 75% to roughly 90%. We have some mix advantages in terms of the deposit funding versus other higher cost funding sources. At the same time. Our deposit funding cost relative to Fed funds has gone down. Our spread has basically improved.
+You take the mix and the spread improvements together, our all-in cost of funds is down about 100 basis points, that's a lot of strength what it's got to this point. What gets us there going forward is we still have these dynamics that we've targeted a 60s beta, we're in the low 60s right now. We also still have a time deposit or CD dynamic going on, where it's roughly call it $30 billion for the CDs that are earning today 3.9% or so. When they wind off, they're either going to high rate savings or CDs priced at lower rates, you have that dynamic going on. On both sides of the balance sheet, we have tailwinds actually pushing them up.
+Again, look, I recognize the Fed can move up or down or do different things, but the destination is clear, and these factors will end up being the ones that win out.
+## Rob Wildhack | Analyst, Autonomous Research
+Rate hike wouldn't throw a spanner in the works.
+## Michael Rhodes | CEO, Ally
+Rate hike would slow us down.
+## Rob Wildhack | Analyst, Autonomous Research
+Slow, but not prevent.
+## Michael Rhodes | CEO, Ally
+Yeah, that's right. Not prevent.
+## Rob Wildhack | Analyst, Autonomous Research
+Yes. Okay. Then on charge-offs, 1.8%-2% retail auto-
+## Michael Rhodes | CEO, Ally
+Yes
+## Rob Wildhack | Analyst, Autonomous Research
+-this year, the medium-term target is for 1.6%-1.8%. Similar question, what's the bridge there?
+## Michael Rhodes | CEO, Ally
+Yeah. The bridge there is that there are three primary factors that are impacting this. One is disciplined underwriting approach, and you see that in our S- tier mix relative to what we might have done historically. Second is servicing improvements. Third is just vintage rollover. I know we've talked a lot about the different vintages, but those three factors come into play. We see them all playing out, and if I just look at the data now, in order to have losses come down, you need less delinquency, better flow to loss, and better recoveries. All three are playing out. Delinquencies, four quarters in a row, they've been down. Flow to losses are at or near all-time lows. Used vehicle prices are holding up, so our severity's been in a positive place. NCO has been down for five consecutive quarters.
+Again, I don't want to say this is just math because there are a lot of macro factors that can come into play, and again, I'm not going to prognosticate on terms of what's going to happen in the macro environment, but as we're positioned today, we feel good about how we're positioned.
+## Rob Wildhack | Analyst, Autonomous Research
+Yep. You mentioned the S- tier mix. I've got to imagine that increases your conviction.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+Yes.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+Yes. Listeners might be disappointed it took me this long to get to capital allocation or return. Your story has been one of and, not or.
+## Michael Rhodes | CEO, Ally
+Yes, that's right.
+## Rob Wildhack | Analyst, Autonomous Research
+As it relates to capital deployment. Just walk us through, give us some more details on what you mean by that, and how you're thinking about capital allocation today.
+## Michael Rhodes | CEO, Ally
+It has taken a while to get to capital. There's a lot. Three uses of capital. First of all, and the most important one is accretive growth to our core franchises. Second is building capital on our balance sheet, just to have more capital, more protection. Third is back to our shareholders in the form of dividends and share repurchases. Again, I'll point to the most recent quarter, the first quarter, and you look at this. On the growth side, our Corporate Finance business grew 6% sequentially quarter-over-quarter, and actually more than that on a year-over-year basis. Our auto franchise originations were up more than 10% on a year-over-year basis. We're supporting the growth in the way that we feel is right. Same time, we actually built CET1 by 60 basis points on a year-over-year basis.
+Last year, we announced a $2 billion share repurchase and did $150 million worth of stock repurchases, share repurchases in the first quarter. You see those priorities playing out in real time, and that is our priority, and we think we can do all three. Clearly, there have been some new proposals that have come out from the Fed about capital and the RWA and the ERBA, and we're doing our math to figure out what all that means for us. At the end of the day, we think these proposals are really constructive. We think they actually align the underlying risk of the business much more to the capital requirements, we think they're going to be good for us. We think they'll be good for the American economy.
+If someone were looking for a clear, definitive answer, what the new proposals are going to mean for us, we can't say because they're still proposals. People are commenting, and we'll have to see what comes out at the end.
+## Rob Wildhack | Analyst, Autonomous Research
+I was going to ask you about a clear-
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+-explanation, but I'll skip that.
+## Michael Rhodes | CEO, Ally
+Let's wait till the final rules come out, and then we'll have a clear sense then.
+## Rob Wildhack | Analyst, Autonomous Research
+Absolutely. Your shareholder letter also talked in depth about investments that you're making in AI and the cloud. I guess my first question is, are those related, or are they separate investments?
+## Michael Rhodes | CEO, Ally
+Both.
+## Rob Wildhack | Analyst, Autonomous Research
+Talk a bit more about how each of those are paying off operationally.
+## Michael Rhodes | CEO, Ally
+Yes. Clearly, a huge investment thesis everywhere is going to be AI. The fuel for the furnace for AI is unambiguously data. I did mention the shareholder letter, cloud and AI and data together, because one of the things that we've done, and again, this predates my showing up at Ally, is we had made the decision to move to a single cloud-based instance of our data environment. That's every interactions, transaction, and account of Ally in a modern cloud-based environment where we can use modern tooling against this. As a result, we sunset all the legacy data platforms, and this is a huge advantage because sometimes some of the biggest challenge in using AI is getting your data sorted and structured correctly, and we've made some of these really hard foundational investments.
+I say hard foundational because these are investments that don't by themselves P&L out all that great. You have to do this before you do something else that drives the value.
+## Rob Wildhack | Analyst, Autonomous Research
+Right.
+## Michael Rhodes | CEO, Ally
+We've actually made a lot of those investments and feel very good about our environment. Now when it comes to AI, we have the opportunity to pursue real value-added use cases. We have in production a number of operational use cases for AI that actually make our operations more effective and smarter in the things that we're doing, and we like what we're seeing there. I think agentic coding is going to be a big thing. We're actually seeing in cases where you can take six months of work and really do it in two or three weeks now with some of the new coding tools.
+One of the things this gives us the ability to do is, I don't know if it's a savings or not, because it allows you to work on more of your backlog than you might have worked on before which is actually more business value added in terms of what you get there. Then we've also enabled all of our colleagues with AI productivity tools, and everyone likes the productivity tools that play out. Look, we are really encouraged by what we're seeing with AI. That being the case, maybe a couple comments I would make is, one is, I think we're probably spending more on AI investment today than we're getting in bottom line benefit. I think that's okay because we have a lot of conviction in terms of where this is going.
+I also will link back a bit to the strategic pivots that we took and what that means with respect to AI. If you think back through the past 30 years and how technology has developed and advanced, the internet really democratized information. It seemed like everything you wanted to know in the world was available on the internet. AI is really democratizing knowledge and expertise in one way or the other. We still need judgment, and judgment's hugely important. Particularly when the cycle time between having an insight and getting it done gets really compressed. This is where being in fewer businesses, but businesses you know really well, really matter because the value of that judgment is going to be amplified in an AI-first world. People have these hobby businesses, they're going to put AI against them.
+I shudder to think what actually happens with all of that. We're putting AI against businesses where we've got years and decades of experience and a lot of confidence that we can apply the right type of judgment in order to drive the right types of outcomes. I'm really encouraged about what's going on with AI.
+## Rob Wildhack | Analyst, Autonomous Research
+As you think about the investment you're making now to when it eventually bears fruit.
+## Michael Rhodes | CEO, Ally
+Yes
+## Rob Wildhack | Analyst, Autonomous Research
+Do you see that as more of a top-line thing, we'll be able to originate more or better pricing, or an expense thing, i.e., lower efficiency ratio at the end of the day?
+## Michael Rhodes | CEO, Ally
+Yeah. Honestly, a little bit of both. The efficiency use cases are sort of the easiest to stare at and look at. On the top-line side, honestly today, you already see top-of-funnel activities online are already being disrupted by AI. People are using the AI large language models. This is again, where being a digital bank charters are easier to get today than they have been historically. To get to the top of the consideration set for the large language models, what needs to be true, that's where your brand actually really helps. We actually see that in the large language models that we actually show up very well. We actually think there's revenue opportunity there. In terms of how we deal with our commercial clients and our dealer clients, speed really matters.
+To the extent you can figure out how to show up in a better and faster way for our clients, we think there's a revenue opportunity here as well. I'd even offer on the risk side, that there's going to be opportunities, probably more in the predictive modeling, not the large language model stuff, but more predictive modeling, that you're going to see opportunities there. This is probably like the iPhone, but bigger. It's like the internet, but bigger. The acceleration adoption curves for AI, they're something to behold. We are highly focused on this. We're spending a lot of time and energy on it.
+## Rob Wildhack | Analyst, Autonomous Research
+It's a very good segue to an audience question. OpenAI recently launched a personal finance product. How might this impact Ally's competitive position in retail deposits, and is Ally interested in building out those same AI-enabled features?
+## Michael Rhodes | CEO, Ally
+Look, in terms of our feature roadmap, I don't know if I want to spend a whole lot of time now going into what our future roadmap might look like. At the end of the day, we think we're entering a world where decisions on how you actually use your money, you're going to be both marketing towards people and marketing towards machines. You have to make sure that your marketing engine actually reflects that. Yeah, you can imagine we're going to be looking at every opportunity we can within the AI infrastructure to figure out how we show up in the right place in the right way to be there for our customers. In terms of our roadmaps, I'll probably leave that for later.
+## Rob Wildhack | Analyst, Autonomous Research
+Fair enough.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+Let's see, another audience question. You've talked about how Ally carefully picks credits in Corporate Finance, why do borrowers pick Ally over a competitor bank?
+## Michael Rhodes | CEO, Ally
+Yeah. Again, with our Corporate Finance business, we've been in the business for 25 years. We have a number of clients. We're growing with our clients. The fact that we've been there and we've been there with our clients through all sorts of cycles and have been good partners with them, has been really impactful. It's being fast to make a decision and it's executing with clarity and with certainty, and being there through the cycle means that we've earned the right to grow with our partners. Again, that's the best type of growth you can have because you're growing with people you know and trust. We believe that our clients know and trust us, and that's why they keep on coming to us. The vast majority of our business is, I'll call, repeat business, with people we've actually banked before.
+That's the secret sauce.
+## Rob Wildhack | Analyst, Autonomous Research
+Yep. One more from the audience. To what extent, if any, does Ally retain loan economics on pass-through originations?
+## Michael Rhodes | CEO, Ally
+Oh, no, we do have an economic strip that comes out of the pass- through. It's a servicing fee. There's some upfront consideration, and that servicing fee is what turns into a kind of an ongoing annuity, which again, we've really liked that business. ROE doesn't make sense in a pure fee-based business, but it's certainly helpful for ROE.
+## Rob Wildhack | Analyst, Autonomous Research
+Yep.
+## Michael Rhodes | CEO, Ally
+Yes.
+## Rob Wildhack | Analyst, Autonomous Research
+The last one from the audience. Is there any part of the current Basel proposal that you'd hope to see modified?
+## Michael Rhodes | CEO, Ally
+There are probably some tweaks around the edge, I'd say nothing really substantive. We feel very good about where Basel III endgame has ended up. We think that the risk-based approach is right. There's some kind of narrow definitional items here and there that we might have an opinion on. It's a very thoughtful proposal.
+## Rob Wildhack | Analyst, Autonomous Research
+Okay. We'll leave it with one last big picture question for you, Michael. If we're here five years from today, we're looking back at this conversation, and your focused forward strategy has played out, what does Ally look like as a company? Then translate that, of course, to what-
+## Michael Rhodes | CEO, Ally
+Yeah
+## Rob Wildhack | Analyst, Autonomous Research
+-the outcome would look like for shareholders.
+## Michael Rhodes | CEO, Ally
+Absolutely. Look, five years from now, we're on a journey, it's always say, this is a journey that we take with our 10,000 plus colleagues. New in the job, everyone asks you kind of day one, what do you want your legacy to be? I framed up front our legacy is one that we're taking collectively. It's not just about me. This is a journey with our 10,000 colleagues, the journey's going to take us to a place where we're stronger, more focused, more disciplined organization that has demonstrated the ability to generate attractive returns and growth at the same time in a highly differentiated way. One of the things I always say is strategy is about choices and strategy is not about sameness. We've actually made some choices to not be like other banks, and we're actually really proud of that.
+When we talk about our strategic pivots, sometimes they frame it in where we compete and how we're going to win. Five years from now, where are we going to compete? Look, I think we're going to largely be in the businesses that we're in today, along with the adjacencies and adjacencie
+s for Dealer Financial Services, insurance, and some of the pass- through programs and things like that. For the consumer bank, it's what we do there. We also have invest platform for customers who want to take advantage of invest capabilities. The business that we're in today, I think are going to be the business we're going to be in 5 years from now. These are very large addressable markets, and we bring the capabilities, the investments, and the focus on what we're doing well.
+We think that's going to translate into a really compelling story. For shareholders, you've got the opportunity to participate in this, and you get to get in on the ground floor because we're still trading at or near book value. I would expect that in a few years, I don't want to be a prognosticator of what our multiples are going to be, but show discipline and driving sustained, attractive returns and growth with a strategy that's highly differentiated. We say Ally is not like other banks, and we say that with pride. We think folks are going to look back five years from now and say, "That was a good journey."
+## Rob Wildhack | Analyst, Autonomous Research
+Look forward to seeing that play out. Michael, this has been great.
+## Michael Rhodes | CEO, Ally
+Awesome. Thank you.
+Data Source: Quartr Last updated: May 28, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

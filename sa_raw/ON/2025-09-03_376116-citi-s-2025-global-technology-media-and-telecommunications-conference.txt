@@ -1,0 +1,418 @@
+TITLE: Citiâs 2025 Global Technology, Media and Telecommunications Conference
+DATE: 2025-09-03
+## Speaker 1 | 
+... Like this, like that. All righty. Testing one, two, three. Great. Good afternoon, everyone. Thanks for sticking with us on this absolutely gorgeous day in New York. Next up is onsemi. By the way, I wanna point out that I get a lot of questions and people completely freaked out that onsemi's margins have dipped to the high thirties. I just wanna point out that this was the previous peak gross margins before Hassan El-Khoury and Thad Trent got there. So it's been an amazing turnaround. You've seen a concomitant increase in the multiple, and basically a tripling of earnings since the dream team showed up. So without further ado, we've got Hassan El-Khoury, CEO, Thad Trent, CFO extraordinaire. So I'm-
+## Hassan El-Khoury | CEO, onsemi
+That's it, we're done.
+## Speaker 1 | 
+We can all go home now. Okay, so, you guys are basically the latest in a long line of analog companies today, and we've got opinions everywhere. We've got things are good, we've got things are bad, we've got things are getting better, we've got things are getting worse. We've got China's good, China's bad, all of this, all of that. We've got dogs and cats living together. So for the Oracle of Austin, what the heck is going on out there, Hassan? What's your take on what's happening in the analog space? 'Cause-
+## Hassan El-Khoury | CEO, onsemi
+Like the-
+## Speaker 1 | 
+We're getting pulled all over like saltwater taffy, man.
+## Hassan El-Khoury | CEO, onsemi
+So here's the difference between that and what we've been saying or what we've been seeing, and what I've been talking about. The one thing I've always said, and we've been consistent with, is I will say what I can see, and I will call what I see, not what I hope to see. That has been consistent since the first quarter. It's actually been consistent for the last three years, where first off, we started the year when everybody's hyperventilating about second half recovery.
+## Speaker 1 | 
+Mm-hmm.
+## Hassan El-Khoury | CEO, onsemi
+I said, "I have no reason to believe there's a second half recovery, therefore, we're going to be managing to what we can see, which is stabilization at best.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+Then, walking into the year, first quarter, we said things are stabilizing. Q1 is gonna hit bottom, and-
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+... Q2 is gonna be the bottom in automotive, and the second half is gonna be higher than the first half.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+We are here today. The last earnings call we had exactly the same terminology, just so people don't confuse stabilization with recovery. I have not talked about recovery. I talk about stabilization in the environment today as a positive development from where we were. The second half of the year is still higher than the first half. Automotive is up in Q3 from hitting bottom in Q2. So what I would say, versus a lot of the chatter that's out there, we've been more right than wrong, and we've been the most consistent of all of our peers, because our focus is on delivering what we can control and manage to, and that we've done very well, whether it's on the margin, and more importantly, in a downturn like this, on the free cash flow.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+Cash is king when there's a lot of that uncertainty, and we're using cash to buy back shares, returning value to shareholders through buyback while we execute to what we can control.
+## Speaker 1 | 
+Got it. So not getting ahead of your skis, we like that. Just in terms of the, I guess, stability, recovery, whatever you wanna call it, I mean, this essentially, like you said, started a few months ago into the second half. What do you think has been the catalyst for that? Is it inventory replenishment? Is it demand is getting better? Something else going on out there? What do you see as far as-
+## Hassan El-Khoury | CEO, onsemi
+Yeah
+## Speaker 1 | 
+... inventory?
+## Hassan El-Khoury | CEO, onsemi
+So, I think from any, if you think about phases of the path to a recovery, whenever that recovery happens, there are multiple path. First, coming off of the inventory, like you said, there's the inventory drain.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+When you get the inventory drain, then you start shipping to natural demand. From under shipping to shipping to natural demand. Then you're gonna have a replenishment cycle, which you have to be careful there not to be a false positive of, "Oh, my God, the recovery is happening now," that there's gonna be a replenishment cycle, and then you have the demand recovery. I think where we are today, with the uncertainty related to the geopolitical environment and the whole, you know, tariff, no tariff kind of development, the replenishment cycle is not yet... We're not in a replenishment cycle. Nobody's replenishing inventory until they see certainty in the end demand. What we are seeing now is a stabilization post, inventory depletion, so we're now shipping closer to natural demand. It differs by market.
+Industrial, I think we're shipping to natural demand now, because remember, industrial inventory depletion started much earlier than auto. Auto, I think by the end of the year we'll be done with it, with the inventory adjustment. Today, there are some accounts that already have achieved it. You know, they're actually too low. You can think about two weeks of inventory is too low for an automotive Tier 1. Some are still working on it. By the end of the year, automotive, we should be back to it. So when I talk about the second half is better than the first half, one is shipping closer to natural demand-
+## Speaker 1 | 
+Yep
+## Hassan El-Khoury | CEO, onsemi
+... and two, we do have company-specific positives that we've had. Our medical business in the industrial side is-
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+... is, has been positive. Aerospace and defense has been positive. We expect a small kind of uptick in the renewable energy. That's on the industrial side. The automotive side, we talked about our ramps and our market share gains in China from an EV in the automotive. That's driving the growth in China. So outside of just the shipping to natural demand, we do have company-specific ramps and share gains that we've been posting that are delivering results in the second half.
+## Speaker 1 | 
+Okay. Just to parse through the stability versus recovery, 'cause I think that's causing some of the confusion, today. So you would define things as stable now, and is that essentially, like, normal seasonality or close to seasonality? And then would you define recovery as a little above seasonality with some, like, inventory replenishment driving that? I'm just trying to-
+## Hassan El-Khoury | CEO, onsemi
+I think at a high level, I would categorize it that way. Stabilization, I chuckle when you say normal seasonality. I don't think anything about anything we're doing is normal these days. So, and the reason I say this also is normal seasonality for us from four years ago, when things were kind of more stable, like the anchor point from four years ago, we're a different company with a different mix.
+## Speaker 1 | 
+Mm.
+## Hassan El-Khoury | CEO, onsemi
+So we're not even at our normal seasonality pre-COVID. So we have to go through the whole cycle to kind of get back to that seasonality. There is, however, an element of seasonality on the ramps.
+## Speaker 1 | 
+Mm.
+## Hassan El-Khoury | CEO, onsemi
+You know, China automotive ramps after the auto show. Q1 is typically down in general. So right now we're looking at standard, I would say, standard seasonality, but to characterize it the way you did, that's the stabilization. Recovery would be more replenishment and really end demand going up.
+## Speaker 1 | 
+Yeah, yeah. Okay, great. And, just for the nervous Nellies out there, we're definitely past the bottom in terms of revenue, correct?
+## Hassan El-Khoury | CEO, onsemi
+Yes.
+## Speaker 1 | 
+Great. From your lips to God's ears, the semi-gods' ears. How about maybe talk about the linearity of bookings over the last couple of quarters. Do you see your, like, backlog increasing or staying flat, or, you know, the bookings getting better or stable? There's still some fluctuation. How has that trended over the last-
+## Thad Trent | CFO, onsemi
+Do you want me to take that?
+## Speaker 1 | 
+Yeah.
+## Thad Trent | CFO, onsemi
+Yeah. Look, I think entering this quarter, we entered, you know, more booked than we have been the previous two quarters, which is a good sign. So, you know, the turns that we need within the quarter are less this quarter than what we've needed in the previous quarters.
+## Speaker 1 | 
+Mm.
+## Thad Trent | CFO, onsemi
+That's what gives us that, that kind of comfort, that stabilization is better, and that the second half is gonna outperform the first half. That's really when, you know, back to your question about, you know, have we hit the bottom? I think quarter or half on half, yeah, the second half is gonna perform better than the first half.
+## Speaker 1 | 
+Great. And so it sounds like maybe visibility, at least in the near term, if there's less turns, is a little better than it was, like, three to six months?
+## Thad Trent | CFO, onsemi
+That's right. That's right.
+## Speaker 1 | 
+How about the backlog going out, you know, six, nine months? Has that changed, or is the lead time short enough to where it's still-
+## Thad Trent | CFO, onsemi
+Lead times are short, and customers are cautious, right? Customers are gonna order just in time right now-
+## Speaker 1 | 
+Mm
+## Thad Trent | CFO, onsemi
+... given the short lead times, and given the uncertainty in the market and the tariffs, right? So, you know, we get a forecast from our customers, but backlog is what we really build to.
+## Speaker 1 | 
+Yeah.
+## Thad Trent | CFO, onsemi
+When we talk about visibility, that's what we talk about, is that backlog. That visibility is still not great.
+## Speaker 1 | 
+Yeah. And so, we've been asking the rounds of companies this sort of tariff question, and you brought it up. How big of a factor is, like, the tariff boogeyman out there on demand or inventory management, or maybe both, from what you guys can see?
+## Hassan El-Khoury | CEO, onsemi
+Let me take it different. So what we know today, and I have to put that disclaimer, 'cause things do change. Based on what we know about tariffs today, there's minimal to no impact for us as a company. I think the impact, what we call the secondary impact, is what Thad referred to as the hesitation from the customer. Customer are kind of frozen.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+They're not ordering unless they absolutely need it for a build that is happening immediately. That goes back to the replenishment cycle.
+## Speaker 1 | 
+Mm-hmm.
+## Hassan El-Khoury | CEO, onsemi
+Typically, when you get through the inventory, you have the replenishment cycle for customers to put, you know, parts and so on, on the shelf. They make units for their end customers, and they put it on the shelf. We're not seeing any of that, and that's the uncertainty that's driving the short lead time. You know, some of my peers talked about, "Oh, we're getting short lead time. That's like a positive sign of recovery." I looked at it, and I said, "Yeah, we're getting short lead time. It's actually a sign of uncertainty.
+## Speaker 1 | 
+Mm-hmm.
+## Hassan El-Khoury | CEO, onsemi
+Typically, it's a sign of recovery, short lead time, but in this case, it's customers are placing last minute. So that's back to my comment of, I believe we're shipping to end demand now because of that behavioral change.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+I don't think that's gonna be persistent, but that's based on the uncertainty.
+## Speaker 1 | 
+What would be your sort of best guess or estimate of your inventory in the channel out there? Do you think that because of all the sudden uncertainty, it's just kept at a bare minimum, and when folks start to feel better about things, they start to take it up a little bit? Or, I mean, is it possible it could go any lower? It sounds like it's pretty low if lead time-
+## Hassan El-Khoury | CEO, onsemi
+Yeah
+## Speaker 1 | 
+... at bottom.
+## Hassan El-Khoury | CEO, onsemi
+First off, I just want to correct one thing. You mentioned the Channel. Channel for us is distribution, that we know exactly what's there. It's that 9-11 weeks.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+So that I'm not worried about. We have full visibility, and we manage it. I think what you're referring to is, can it go lower and go through another depletion kind of cycle at-
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+... at the end customer? I think it's pretty low. That's why we're at the... I think it's actually lower than what customers should feel comfortable about. When you have two weeks of inventory on the shelf, and you're a Tier 1 automotive, you are one order away from those two weeks turning into two days.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+If you have an uptick, I'm not saying a huge recovery, a V shape or whatever shape you want, but if you have a sudden increase in demand, two weeks would turn into two days. Now you're in the lines down situation.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+That's dangerously low. But look, I don't run their companies. I can just advise them that that's way too low. But when you have the uncertainty, they're gonna tell you, "What are you gonna base it on?
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+to add more? So that's the replenishment that we're not getting there yet.
+## Speaker 1 | 
+Okay. Since we've seen the stability, how have you guys seen a pricing trend? Has that gotten any better? Has it gotten any worse? Is it not really changing? What, what's your take on sort of pricing?
+## Hassan El-Khoury | CEO, onsemi
+I don't think pricing is stable. I don't think pricing is changing. I think it's what I would call normalized, meaning we offset any price differences in the normal course of running the business that we do, which is taking cost out of our products.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+So that's what onsemi's been doing for decades.
+## Speaker 1 | 
+Mm-hmm.
+## Hassan El-Khoury | CEO, onsemi
+That's the same, and you see that with even our margin profile.
+## Speaker 1 | 
+Yep. I remember when we met up, you know, earlier this year, you said that pricing was getting more aggressive, and certain competitors were gonna sort of follow the pricing down, and you guys were choosing to... You know, we're not gonna participate in that. Same, same stance. Has that pricing-
+## Hassan El-Khoury | CEO, onsemi
+That's the same. Yeah, same, same stance, and by the way, that's no different than... You know, when we outlined our strategy four years ago, we talked about a portion of our non-core business that is exactly that, that price sensitivity.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+And we said we were gonna exit it. We really exited only half of it so far, or a little bit more than half, if you include 2025 exits. And that behavior is what I was referring to earlier in the year, that behavior is what we're seeing our competitors do. Now, their margin profile is way lower than ours, so-
+## Speaker 1 | 
+Going lower. Can I say that?
+## Hassan El-Khoury | CEO, onsemi
+They're willing to take it, and our strategy is very clear. We will keep supporting those customers as long as the margin is favorable. It doesn't have to be accretive to where we are, but it can't be dilutive. And based on where the pricing trend for that portion, non-core, is, we called it last quarter, and we said, "We're gonna exit that business," so we're not expecting it to repeat in 2026. So that's the decision. We're just executing to our strategy that we outlined four years ago. But, so outside of that pricing-
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+... the rest is where we expect it.
+## Speaker 1 | 
+Great. And what's your take on pull-ins out there? You know, there's been a lot of companies say, "We had some pull-ins." Some are saying there's still some left. Some are saying that it's all gone. What's the sort of onsemi view on that?
+## Hassan El-Khoury | CEO, onsemi
+We don't have any... We haven't seen any signs of pull-ins. And, you know, of course, the next valid question people always ask me, "Well, how do you know?" Because if I look at where, for example, the upside is, the benefit is gone, China.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+You know, we talked about China automotive seeing growth. Two quarters ago, in April, I said I was in the China Shanghai Auto Show, and I said exactly what models we are designed in. Those models got deployed. I sit and watch how much the NEV registration in China happen on the models we're in, and I compare it to what we ship. As long as they're correlating, there's no pull-in.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+So that's how you modulate your pull-in and your profile. Are you shipping to what the customer is manufacturing?
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+And the answer is yes, so we don't have pull-ins. So that I can comfortably say.
+## Speaker 1 | 
+Okay, and given all that, how is onsemi managing its own inventory? I think you guys are trying to take it a little bit lower, and what does that mean for your own utilization rates?
+## Thad Trent | CFO, onsemi
+Yeah, so. Look, if you look at the inventory on our balance sheet, we have two buckets, right? We have what I call our working inventory or our base inventory. That's right in our sweet spot. It's 121 days. We've been managing that kind of in that range for a while now. We have a strategic bucket with our fab transitions and silicon carbide ramp, and that's going to bleed out over time. So if I think about, you know, our utilization and how that utilization will get impacted or improve over time, is it will closely match whatever the market recovery starts to look like. So we don't need to burn through inventory through the channel, the distribution channel first, and then inventory on our balance sheet.
+Both are right in our sweet spots, and so whatever that shape of that recovery looks like, our utilization will match that. So and then you'll see that hit the P&L, you know, roughly two quarters later in terms of the improvement in gross margin. But you know, the number one driver for us in gross margin in the short term is utilization, and we'll match that to our recovery. So we're in a really good spot inventory-wise and from a manufacturing footprint-wise, to take advantage of that recovery, whatever that shape looks like.
+## Speaker 1 | 
+Okay, and will your utilization rates essentially match your, like, revenue forecast for how much growth?
+## Thad Trent | CFO, onsemi
+Yeah. Yeah, to a first order, it'll, it'll match very closely.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+But the other thing is most, if not all, of our inventory is in die bank. So, you know, people ask, "Okay, but isn't that too dangerous, that if there's a recovery, you're gonna miss it?" And my point is: we're a few weeks away from turning into finished goods, so we have the inventory stage in the best spot you could, in the most fungible spot, to be able to address any demand. So I believe the work we've done in throughout this downturn on not just operational efficiencies, but the posture of the company-
+## Speaker 1 | 
+Yep
+## Hassan El-Khoury | CEO, onsemi
+... puts us in a much better spot for upside in recovery, better than we were positioned even two years ago.
+## Speaker 1 | 
+Yeah. You guys have changed some things around, consolidated some stuff on manufacturing, restructuring. Maybe, reset the table on that. Give us an update. Anything left to do?
+## Thad Trent | CFO, onsemi
+Yeah. Yeah, there's definitely more to do. You know, we announced a restructuring and an impairment of our capacity in Q1.
+## Speaker 1 | 
+Yeah.
+## Thad Trent | CFO, onsemi
+We took 12% of our capacity, our front-end capacity, offline in Q1. With what we announced, we've done about two-thirds of what we announced.
+## Speaker 1 | 
+Okay.
+## Thad Trent | CFO, onsemi
+It just takes time. So there's more coming here. So when we think about where we're going with these exits, you know, it gives us a spot where today the number of units that we're shipping is much lower than what it has been historically. So if you think about it, at a similar revenue level, we need fewer wafers, right?
+## Speaker 1 | 
+Yeah.
+## Thad Trent | CFO, onsemi
+The dollar per wafer is much higher than what it has been historically because we've been moving to this higher value, you know, product over time, and so that'll allow us to continue over time to take capacity offline.
+## Speaker 1 | 
+Yep.
+## Thad Trent | CFO, onsemi
+That will help with the margin as well.
+## Speaker 1 | 
+Now, will this restructuring benefit your gross margins at a later date, even if the revenue stays, like, flat to slightly up? And then what would be the timing for something like that?
+## Thad Trent | CFO, onsemi
+Yeah, so again, you know, you gotta think through, you gotta burn through inventory that you-
+## Speaker 1 | 
+Yeah
+## Thad Trent | CFO, onsemi
+manufactured at a higher price, right? But you can think about as we do that, it's again about a two-quarter lag before it really hit the P&L. So even in a flat year, over time, you'll see improvement because utilization will improve.
+## Speaker 1 | 
+Sure. So I guess let's just run down the gross margin drivers, since we talked about most of them. You've got utilization rates, you've got structuring. Obviously, there's some mixed component. Am I missing anything? And then could you rank the gross margin drivers as well?
+## Thad Trent | CFO, onsemi
+Yeah, so the utilization, where we're running today, it's 68% utilized. There's 900 basis points of underutilization, right? A headwind to utilization, all non-cash, right, that's hitting us today. So if you think about with revenue growth, that comes off. You've got a couple hundred basis points of more fab, right? You know, us taking cost out in the manufacturing footprint. You got the mix, as you talked about. And then the other component is we divested 4 fabs in 2022. As we bring that inside, that's roughly another 200 basis points. So you start adding all that up, and you're getting up, you know, into the 50% range.
+## Speaker 1 | 
+Yeah, that was gonna be my next question, is, have the gross margin targets, changed at all from-
+## Thad Trent | CFO, onsemi
+No
+## Speaker 1 | 
+... the low fifties?
+## Thad Trent | CFO, onsemi
+No. Still the plan.
+## Speaker 1 | 
+Okay. And then how about this push to manufacture more in the U.S. coming from way up above? Does that help you guys? Does that factor in at all? What's your take on that?
+## Thad Trent | CFO, onsemi
+Yeah, we've got-
+## Speaker 1 | 
+You can, you know, throw in a little 232 commentary and CHIPS Act as well, 'cause everybody's asking about it, so I might as well get it out there.
+## Thad Trent | CFO, onsemi
+Throw it all out there. Look, from a manufacturing footprint, you know, we've got a diverse footprint, right? We manufacture in the U.S., Japan, in Europe, and so we're able to move production around to help our customers, right? So as our customers are trying to navigate this, not that 100% of our products are fungible, but we are able to kind of scenario plan with them, you know, for these tariffs, and how do we help them navigate through this? So that's one advantage that we have as we talk to these customers. As Hassan said, they're paralyzed right now, right? They're not doing much until they get more certainty.
+## Speaker 1 | 
+Yeah.
+## Thad Trent | CFO, onsemi
+But the fact is, we're having those discussions, which I think puts us in a good position, regardless of where that customer is, whether in the U.S., China, Europe, whatever the case may be. Hopefully, we can help optimize their supply chain for them.
+## Speaker 1 | 
+Okay. Does Section 232 ever come up in any discussions? Any, you know, thoughts there?
+## Hassan El-Khoury | CEO, onsemi
+No, I mean, it's all-
+## Speaker 1 | 
+For you
+## Hassan El-Khoury | CEO, onsemi
+... it's all the same, the same kind of answer that Thad has given. Because at the end of the day, until we have what it is and what the impact is and what the tariffs are, it's hard to say all scenarios, 'cause-
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+... so now, if you take a step back on all of this uncertainty, say, whether it's Section 232 or tariff or reciprocal and so on, the one thing we do control is kind of the manufacturing footprint.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+So having this diverse manufacturing footprint across many multiple geographies, with some overlap in capability, at least gives us optionality. Now, what string to pull on which option-
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+... we need that certainty of, it's not tariff or no tariff, it's what is it, the tariff, so we can navigate the supply chain around it, and that's really what's missing. But the optionality is there, which puts us in a much better spot.
+## Speaker 1 | 
+Sorry, just taking notes here. Okay, great. Before I open it up to the audience Q&A, I just wanted to touch on a few other things that you talked about earlier, specifically on the end markets and your take on the automotive end market. I think most other analog companies are talking about a little bit of weakness in the automotive end market, and yet you're talking about strength and share gains. Can you just elaborate on that?
+## Hassan El-Khoury | CEO, onsemi
+Yeah, I think. Look, the only thing, I don't know what they are seeing, 'cause I can't correlate the commentary, but I can only explain it with it's relative to what you were expecting. And what I said at the beginning, we've been more right than wrong about our outlook, and we're managing to our outlook, not to what we believe, you know, others are saying, and so on. And I think automotive is coming in exactly where we expected-
+## Speaker 1 | 
+Mm-hmm
+## Hassan El-Khoury | CEO, onsemi
+... both in Q2 and in the outlook for the second half of the year.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+So for us, from an expectation, not just that we set to run the company, but it's the same expectation I set externally, which is how I run the company. Automotive is coming in as expected. So I can't justify the commentary from the others.
+## Speaker 1 | 
+Oh, yeah, we're just asking you to justify yours. Can you just maybe elaborate on the share gains, where they're coming from? Is this pure EVs? Is it-
+## Hassan El-Khoury | CEO, onsemi
+Uh-
+## Speaker 1 | 
+... is it China? Is it everywhere?
+## Hassan El-Khoury | CEO, onsemi
+I think it's everywhere we're playing. So silicon carbide, very specifically, share gains are obviously the bigger drivers in China, but we have share gains in North America and share gains in Europe. The difference is, those are not driving the penetration that we're looking at because it's an end volume game. You know, we're getting a lot of the share gains in design end. Those are slower to ramp than they are in China.
+## Speaker 1 | 
+Mm.
+## Hassan El-Khoury | CEO, onsemi
+So that's on the electric EV. You know, I even talked about plug-in hybrid. We, plug-in hybrids has been kind of this mid stop between here and full EVs.
+## Speaker 1 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+Even that is going to silicon carbide, and we have captured a large North America OEM plug-in hybrid with silicon carbide.
+## Speaker 1 | 
+Mm.
+## Hassan El-Khoury | CEO, onsemi
+So it's no longer an IGBT play for plug-in hybrid, because even plug-in hybrid, you're pushing more of the range. We do that with silicon carbide. We have the similar plug-in hybrid with silicon carbide in China, so those are share gains from a legacy IGBT play. So we are gaining share in EVs, but a lot of it is also new designs, new automotive products that are being launched. You know, we talked about our engagement with Xiaomi. That's a new vehicle that they've launched that's doing very well in the market.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+So that's not really a share gain, that's a net new design that was there. And then you can take that with along the lines Treo is allowing us to also gain share in more of the mixed signal analog ASSP range. So I think it's all of the above, and that's why we're excited about the new products, because that's what's gonna drive this margin expansion from a mix perspective in the long run.
+## Speaker 1 | 
+So would you say your auto strength on the share gain side is mostly silicon carbide, or is it split between silicon carbide and the rest of the business?
+## Hassan El-Khoury | CEO, onsemi
+It's both. We have some on both, but obviously the upside is silicon carbide, because maybe not silicon carbide, but like electric vehicle exposure-
+## Speaker 1 | 
+Mm-hmm
+## Hassan El-Khoury | CEO, onsemi
+... which includes silicon carbide.
+## Speaker 1 | 
+Great. And I know you're the big auto guru, and I always like to ask you this question. So what's your sense on, you know, the EV market? The growth seems to be slowing, but there also seems to be a tremendous amount of share shifts going on out there. You know, this continual like sucking sound from Europe over to China. So, you know, what do you see out there? And then more importantly, how does it impact ON?
+## Hassan El-Khoury | CEO, onsemi
+Yeah. So let me first put. So I've been doing automotive for a very long time, and I never get trapped into the comps of automotive from a year ago or two years ago. So if I look at when we. When I set the strategy for the company four years ago, we talked about electrification is going to be a wave of growth in the automotive or e-mobility. If you look at the number of EVs or EV penetration from kind of four years ago, that 2020, 2021, we're on par to that. So when we say the growth in EV slowed, yeah, it slowed from this peak that we had the last couple of years, but it's really consistent. So I look at automotive over just, my brain works in a kind of three to five-year-
+Yeah
+... views. So that's still a growth, and that will remain a growth, meaning every year there's more EVs that are made as part of total SAR than there are ICE. So the % of EVs of total SAR is increasing every year. So that's a positive. Within EVs, there's a penetration of silicon carbide. So if you take out the, you know, North America lead from EV, the penetration of silicon carbide in the rest of the world is 12%-14% of EVs. So just the conversion into silicon carbide is another uptick, even without the growth of units.
+Yeah.
+So all of these are favorable for us from an automotive. Now, your comment about China. China is ahead from a penetration perspective, but I also don't look at the China EV market as contained in domestic China. China EV market is a global phenomenon.
+Yeah.
+Maybe not in the U.S., but you look at anywhere in the world, including Europe-
+Oh, yeah
+... there's a lot of EVs, China EVs making their way into Europe, South America, Australia, the Arab world. So there's a lot of China EVs. So I look at the volume and the penetration of EV, not just from a new energy registration within China. I look at it globally because that's the market we address. Now, that's not to say that there's no room for the European OEMs in Europe. There's because that's a different brand, that's a different market segmentation and so on. But I think there's coexistence for both, and we benefit from both-
+Yeah
+... because we're leveraging, we have great relationships with the European OEMs, and we're helping them move fast and with aggressiveness into the electrification, while we also support our Chinese customers. Our view and our priority is to ensure every customer we engage with has always the best product and technology we're able to offer across any geography.
+Okay.
+That has been a great recipe for success for us.
+Great. I have plenty more questions, but we're in the client service business here. So anybody in the audience has any questions? Right here up front.
+## Speaker 4 | 
+Yeah, for your talk about where you see you have better relationships with, and maybe name a few brands.
+## Hassan El-Khoury | CEO, onsemi
+The question was?
+## Speaker 4 | 
+Where you see, as the footprint.
+## Hassan El-Khoury | CEO, onsemi
+It was on Chinese-
+## Speaker 4 | 
+Yeah.
+## Hassan El-Khoury | CEO, onsemi
+So Chinese OEMs, where do we see the best engagement, you know, with some names? I mean, I'll give you the names that we've disclosed publicly. And I'll focus on kind of the top ten, where we do. We have engagements in. We ship into general, I'm not talking silicon carbide or not, but general shipments into the OEMs from Xiaomi, Li Auto, NIO, BYD, across basically the top ten brands in China, they're our customers. Of course, China has more than a hundred and fifty different brands, so we do have a network of Tier 1s that supports kind of the more of the tail of the customer. Because we can't support hands-on designing for some companies that make ten thousand vehicles a year and so on.
+So we leverage our, not distribution, but a Tier 1 and proliferation. But we're with the right players, our focus on the hands-on approach is really also the global footprint that those OEMs are able to target. Anybody else from the audience? Going once, going twice. Keep going, I'm not afraid. Great. Just on the geo side, how would you characterize, like, the overall trend of business or their economy in, say, China versus North America versus Europe right now?
+## Speaker 4 | 
+China, from an economy?
+## Speaker 1 | 
+Just like how the business is trending. If we take your share gains out of the equation.
+## Hassan El-Khoury | CEO, onsemi
+I think, obviously, China is the healthiest.
+## Speaker 1 | 
+Mm-hmm.
+## Hassan El-Khoury | CEO, onsemi
+I think what I'm struggling with, I can't remember the data for Europe and North America, but I think it's kind of similar between the two?
+## Speaker 1 | 
+Yeah, I would say Europe's probably a little stronger than North America right now. Europe a little better than North America?
+## Hassan El-Khoury | CEO, onsemi
+Yeah.
+## Speaker 1 | 
+Okay. And then one more I wanted to touch on is the business you guys are getting out of, I guess, the lower margin business. Maybe just give us the numbers. I think it was $300 million. You've gotten out of 100 so far, and 100 more this year, and 100 next year.
+## Thad Trent | CFO, onsemi
+Yeah. So it's about 5% of our 2025 revenue that won't repeat in 2026, so roughly about $300 million. It's three buckets, and none of this is new. It's things we've been talking about for multiple years. The first one is the exits of the non-core business, and Hassan talked about this earlier, right? We laid out four years ago, we'd exit $800 millionâ$900 million. There's this year, we've through Q2, we've exited $100 million. We think there'll be another $100 million, you know, through the remainder of this year. That pushes about $100 million into next year.
+## Speaker 1 | 
+Yeah.
+## Thad Trent | CFO, onsemi
+That's $100 million of the $300 million. There's another $100 million, $50 millionâ $100 million that is just from our image sensing business, right? So that's that repositioning of that business into machine vision and away from human vision. And then the third component is just this EOL business, that over the long term, as we march to that greater than 50% gross margin, would be dilutive, right? So today, it's about the corporate average, but we've EOL'd that product, and we'll exit that. So that's the remainder of that, of that $300 million that doesn't repeat for next year. So again, all of it was gonna... in our plan.
+We drew a box around this to make sure the street really kind of understood what that headwind was for next year, and I think that's provided a lot of clarity for people that were trying to get their arms around what those figures were.
+## Speaker 1 | 
+Yeah, and that has not changed, right?
+## Thad Trent | CFO, onsemi
+That has not changed.
+## Speaker 1 | 
+What's the gross margin benefit, I would assume, when that business does go away? 'Cause it does tend to be lower margin, right?
+## Thad Trent | CFO, onsemi
+So today, it's at the corporate average. So the part we're exiting, right, that's the part that is highly volatile, pricing sensitive, that if we were trying to maintain that, it would be dilutive. The other piece of the EOL, itâs at the corporate average today, but in the future, it would be dilutive.
+## Speaker 1 | 
+Yeah.
+## Thad Trent | CFO, onsemi
+So if you think about when, if you just pull that out of 2026, should have really no impact on gross margin for 2026.
+## Speaker 1 | 
+Great. All right. And then, so silicon carbide, last question, last topic. I think it's slightly dilutive to the corporate average. What gets it back to the corporate average? And then, can silicon carbide get back to that, you know, 50% gross margin level that the corporate target is, and what would drive that?
+## Hassan El-Khoury | CEO, onsemi
+I think the primary driver for silicon carbide gross margin in the short term is all utilization. 'Cause remember, we put the capacity in place ahead of any of the ramps. So right now, it's purely on utilization. Because if I compare what you referred to gross margin, and I compare... you know, I take out the utilization, and I look at product margin, product margin is where we want it to be.
+## Speaker 1 | 
+Yep.
+## Hassan El-Khoury | CEO, onsemi
+So the rest is kind of that leakage because of the utilization impact. So that's purely a capacity that we built, that we knew we were building for a ramp.
+## Speaker 1 | 
+Any estimate as to what the, like, long-term growth of this business should be? What should we be thinking about conceptually?
+## Hassan El-Khoury | CEO, onsemi
+That, you know, with the lumpiness, I'm not giving a guidance of that because it's gonna be growing. There's a lot of puts and takes in there with the mix-
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+... shift. But until we get to a post where we are today, and we get back to that linearity, at least semi-linear, vector-
+## Speaker 1 | 
+Yeah
+## Hassan El-Khoury | CEO, onsemi
+... then it's easier to start anchoring on growth above market, 'cause the market is just too, too noisy today.
+## Speaker 1 | 
+Yeah. Great. Think we're out of time. Thanks again, guys. Thanks, everyone.
+## Hassan El-Khoury | CEO, onsemi
+Thank you.
+## Thad Trent | CFO, onsemi
+Thanks, Tristan.
+Data Source: Quartr Last updated: Sep 3, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (4) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

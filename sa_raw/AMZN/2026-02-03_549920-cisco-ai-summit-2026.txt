@@ -1,0 +1,314 @@
+TITLE: Cisco AI Summit 2026
+DATE: 2026-02-03
+## Moderator | 
+Pleasure to see you.
+## Matt Garman | CEO, AWS
+Yeah, thanks for having me.
+## Moderator | 
+Welcome to Cisco AI Summit.
+## Matt Garman | CEO, AWS
+Thank you. Appreciate it, happy to be here.
+## Moderator | 
+It would be an incomplete event without AWS, so tell us about the. We have so much ground to cover.
+## Matt Garman | CEO, AWS
+Yep.
+## Moderator | 
+I'm gonna start with what's the biggest gap you see between companies that are experimenting and companies that are actually starting to find successful deployments in production? What are you seeing as the big characteristic differential?
+## Matt Garman | CEO, AWS
+Yeah, for AI and deployments.
+## Moderator | 
+For AI per se in particular, yeah.
+## Matt Garman | CEO, AWS
+Yeah, I'd say, look, I think one of the challenges that many companies had is that when they started doing a bunch of proof of concepts.
+## Moderator | 
+Yep.
+## Matt Garman | CEO, AWS
+With AI, they didn't actually have good success criteria defined at the beginning. It was just kind of a learning journey. So, and I'm sure many of you went on this where you have asked your teams to do hundreds of different experiments and to roll them out, and you didn't really have a goal of what you were going to accomplish. And I think knowing what that is and helping define that is one of the first steps of really understanding kind of which of those things to move to production. A fun example, I was at the JP Morgan Health Conference a couple weeks ago here in San Francisco.
+## Moderator | 
+Yep.
+## Matt Garman | CEO, AWS
+And one of the big things that people were excited about was ambient listening, where you could have a bunch of this AI that would listen to the doctors and it would automatically put the doctor notes into Epic and automatically send the information and things off to the insurance companies. And people were very excited about it. And I met with one hospital admin leader who was like, "Yeah, I did all of this stuff and it's great. And the doctors have more time at night. I've dinner with their families. I haven't saved a single dollar. So, like, what am I getting out of this? I've literally have not fired a doctor. I haven't saved anything." Not like two hours later, I met with another hospital administrator who said the exact same story. Said, "All these things are happening.
+It's great." And he's like, "And I was really worried about attrition. Like, my doctors, I was gonna have, like, there was risk that 30% of our nurses and doctors were gonna attrite in the next 12 months. And now they have a lot more free time with their families and that attrition number's gone down. So I'm super excited. I'm rolling it out around the hospital." And so having that metric as to, like, what the real thing and the value you want out of that, I think, is a huge thing that blocks a bunch of companies 'cause they initially say, "I'm not saving any money with this thing." And that may be true, but it may also not be the goal.
+## Moderator | 
+Do you think, like, what percentage of companies do you think have good, solid metrics that you feel are at the right level at this point?
+## Matt Garman | CEO, AWS
+Yeah, I think and it I actually think it's oftentimes by the area that they're rolling it out. I think when people are rolling it out for customer service, great. People usually have quite good metrics there. I think when people are starting to roll it out with code as an example, which we've I heard you guys talking about earlier, lots of metrics there, right? Lines submitted and things like that. And for the rest of the workforce where it's kind of a general productivity fuzzy metric, I think people don't really have a good sense there.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+And so, you know, I think it, and we'll get there, by the way, but I, I do think that that's, that's part of it. I, I will say the other thing that blocks people from, from rolling out, and this is a, a more fundamental piece, which is, and this particularly gets into agents, which is as you get into agentic workflows, people are super worried about security. They're worried that the agents are gonna go off and do things that they're not supposed to. They're worried about the, the sprawl of agents. They're worried about agent identity and, and a bunch of those things. And frankly, they're worried about how you scale.
+## Moderator | 
+Mm-hmm.
+## Matt Garman | CEO, AWS
+Right? They worry about, like, I did a proof of concept. So I went and bought, like, one EC2 instance with GPUs on it and I tested it. And now I wanna roll it around the world.
+## Moderator | 
+Sure.
+## Matt Garman | CEO, AWS
+Like, that GPU is relatively underutilized. It's.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+You know, it's how do I scale this? How do I think about that? So I think just that general, like, productizing a proof of concept. People haven't really got their hands around how to go do from a security point of view, from an operational point of view, from a scaling point of view.
+## Moderator | 
+If you folks have been talking a lot about this notion of AI-first cloud.
+## Matt Garman | CEO, AWS
+Mm-hmm.
+## Moderator | 
+You know, what does that actually mean? Talk to us a little bit about how AWS is thinking about it.
+## Matt Garman | CEO, AWS
+Sure. Well, look, there's, I'll take a half step back. We view that AI and inference in particular is going to be a critical part of every single application in the world. And so there's not gonna be AI applications and non-AI applications. There's gonna be applications, and they all are gonna have inference integrated into those capabilities. And it's gonna change every business. It's gonna change every industry. And so what that means from our perspective is that means it has to be integrated into every single piece of the AWS infrastructure. And you've gotta have, you have to be natively thinking about how can AI and your agents talk to your storage? How is it gonna work inside of your VPC and your security settings? How are you gonna think about permissions?
+How are you gonna think about trade-offs and testing one model versus the other once it actually gets to production? And so we're building a platform which is called Bedrock, but the idea being which is that we want this real platform that's gonna have a ton of model choice, a ton of capabilities, and all of the security that our customers expect inside of VPC to be able to roll that out. And then we supplement that with we have this observation that all of our, all of our, the biggest other partners in the world kind of operate inside of and on top of AWS too.
+So we open that up and make sure that every partner and every part of the AWS ecosystem can be a big part of what customers are building because we don't think that we're gonna build every part of that. And we know customers need that whole ecosystem to be successful in what they go and build.
+## Moderator | 
+But you are building, one of the very high-margin products in that stack, which is the Trainium chips, which have actually seen a tremendous amount of success. Congratulations on that.
+## Matt Garman | CEO, AWS
+Thank you.
+## Moderator | 
+Are you, do you see the economics of AWS changing where the margin structure gets even better? Because if every application has inference and you're gonna have inference capability in the stack that you have built out, does that improve your margins over time?
+## Matt Garman | CEO, AWS
+I have no idea. That's a good question. That's for the bankers to guess on. But I will say, it definitely, I think it improves our margins versus only using NVIDIA GPUs. And they're always gonna be a big part of that, but not necessarily a big part of that margin.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+Goes to Jensen and the team. And we love their products and they execute awesome. But when you have 70%, 80% gross margins, there's room in there for somebody to take less margin, have a higher performing part, and offer choice to customers. And so we think that we can offer better price performance for customers, choice for customers so they can pick between the various options out there, and have the richest set of capabilities that are unique to AWS that they can't get anywhere else. And that's part of why we've invested in silicon for the last 10+ years now. And it's such a big part of what we deliver, which is that differentiated performance all the way down to the silicon layer, which together with our partners offers a really rich set of capabilities that people can build on.
+I think Trainium for us is a huge part of that, whether it ultimately allows us to increase margin or keep margins where they are and lower prices for customers. Frankly, I'd probably bet on the second.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+'Cause that's just how AWS operates.
+## Moderator | 
+AWS is wired, yeah.
+## Matt Garman | CEO, AWS
+So my guess is it's probably more that, which we try to, you know, grow faster and 'cause we find that every time we lower prices, generally, we pass them on to customers and it gives customers more budget to go build new workloads. And for us, that generally leads to a good flywheel.
+## Moderator | 
+The Jevons paradox is kind of in full fledged.
+## Matt Garman | CEO, AWS
+Yeah.
+## Moderator | 
+Okay. Let's talk about constraints on infrastructure buildout. You and I have talked about this. You talked to a bunch of hyperscalers. One of the challenges that they have is that they, you know, it's, it's not just about capital being allocated. It's, it is literally physically very time-consuming to build out the shell.
+## Matt Garman | CEO, AWS
+Yeah.
+## Moderator | 
+Get the permits, have the power, make sure that you have the entire stack getting built out.
+## Matt Garman | CEO, AWS
+Yeah.
+## Moderator | 
+Does space data centers change the equation? And do you think space data centers will actually take away some of those constraints because, you know, solar is gonna be 30% more efficient in space? Do you see that happening or do you feel like that's still, we are still pretty far away from that?
+## Matt Garman | CEO, AWS
+It all depends on your timeline, for me.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+You're right. Look, a big chunk of this is just, it's hard. Like, going and building some of these things are actually quite difficult.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+It turns out that, like, people are very excited that they can build software in, like, a fraction of the time.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+But like, pouring concrete takes the same amount of time, and building buildings takes the same amount of time. We haven't yet built AI agents that can do that.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+Maybe the robots will eventually. But, for space data centers, like, you know, look, I, I think there's a lot of compelling ideas about a data center that's in space, right? Infinite amount of power that's always available. Great. Easy cooling. That's great. I don't know if you've seen a rack of servers recently. They're heavy. And.
+## Moderator | 
+2,000 lbs.
+## Matt Garman | CEO, AWS
+You know, the last I checked, like, humanity has yet to ever build a structure, a permanent structure in space on the Moon or anywhere like that.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+So, like, maybe. But, you know, I know Elon said he's gonna launch one million satellites or whatever. Like, there are not enough rockets to launch one million satellites yet. So we're, like, pretty far from that. And I think there's probably gonna have to be some improvements in the efficiency and the cost. Like, if you think about the cost of getting a payload in space today, it's massive. It's way, way more. It's, it, there's no way it's gonna.
+## Moderator | 
+Blue Origin might actually come in handy there.
+## Matt Garman | CEO, AWS
+It would be great, but they have to get their costs way down. Like, it is just not economical today. So, I think there is an interesting, like, depending on where that cost curve goes, they're probably gonna find some cheaper rocket fuel. Like, there's a bunch of things. And there's a huge number of people that are investing in making space transport much more economical, but that's a ways off, so.
+## Moderator | 
+And then that does become a huge bottleneck in space is just the transport.
+## Matt Garman | CEO, AWS
+Just the transport. I mean, it's absolutely the, that is the bottleneck today is the cost and availability of just getting things into space.
+## Moderator | 
+Getting things in space. So let's stick on Earth.
+## Matt Garman | CEO, AWS
+There's probably some latency concerns as well, like just.
+## Moderator | 
+Yes. Slightly far, farther. But so let's stick with Earth data centers for a second. Do you think that the definition of full stack for hyperscalers changes? Like, do you start getting more into the power business? And do you get into more of the construction business because it feels like if you control the full stack, would you be able to accelerate this faster?
+## Matt Garman | CEO, AWS
+Well, look, I, I'm not the best person to ask this 'cause, you know, if you asked me 20 years ago if AWS would be making chips, I definitely would've told you no. But here we are. And I think some of it is necessarily the answer will be yes, actually, almost for sure. And it's because if you look at the economics of a number of those different industries, they don't scale with the level that we need them to scale, right? Utilities, as an example, have for almost the history of time fixed pricing, right, and regulated pricing, which is a limiter to them. And they get fixed return on their investment. So they really are just the whole industry is constructed to grow at 3%-5% a year.
+It's very hard to break them out of that 'cause why would they go take a risk when they get low returns on that and other things like that?
+## Moderator | 
+Right.
+## Matt Garman | CEO, AWS
+Whether we own the power or we fund the power, like, I don't really wanna operate data centers like power stations or things like that. Like, that definitely is something I would like to not do. The whole system is much more efficient if it can be connected to the grid. There's probably some steps between here and there where you're gonna have to do behind-the-meter power and other things like that because it's just we're gonna have to fund that ramp-up while the world catches up.
+## Moderator | 
+Staying on that topic for a second.
+## Matt Garman | CEO, AWS
+Or we'll rely on people like Tareq to do it too, so.
+## Moderator | 
+Yes. Of course. So let's say that, you know, you continue to make sure that you, you're building out the chips.
+## Matt Garman | CEO, AWS
+Mm-hmm.
+## Moderator | 
+What's the average cycle time of chips now that you have? Every 18 months you're getting a new version of the chip out?
+## Matt Garman | CEO, AWS
+18-24. It depends. And, you know.
+## Moderator | 
+But that's compressing.
+## Matt Garman | CEO, AWS
+It sometimes is compressing, generally. But yeah, call it somewhere between 18-24 months.
+## Moderator | 
+Right.
+## Matt Garman | CEO, AWS
+Yeah. But sometimes you're also limited on, you know, your process kind of generations.
+## Moderator | 
+Yes.
+## Matt Garman | CEO, AWS
+Things like that. So it's, you're also limited on how fast does TSMC kind of improve process generations? You're also limited on just, you know, how fast you can actually get these systems into production. Like, they actually, from the time you print your first chip to when you're really at scale for these really large AI systems, like.
+## Moderator | 
+It takes a bit.
+## Matt Garman | CEO, AWS
+It actually is like nine to 12 months from.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+First chip out to really, you know, manufacturing actually is quite hard.
+## Moderator | 
+Yeah. But in general, you would agree that the cycle time has compressed more over the course of.
+## Matt Garman | CEO, AWS
+It is. Yep. Mm-hmm.
+## Moderator | 
+How do you do capacity planning?
+## Matt Garman | CEO, AWS
+Yeah.
+## Moderator | 
+At the scale of AWS?
+## Matt Garman | CEO, AWS
+Mm-hmm.
+## Moderator | 
+Does that change, does that equation change a little bit? Like, for example.
+## Matt Garman | CEO, AWS
+Yeah.
+## Moderator | 
+You don't wanna have a bunch of chips that you bought that in 18 months become obsolete, but you have to make sure that there's a long tail on how different workloads start using them. How does capacity planning work?
+## Matt Garman | CEO, AWS
+Yeah. There's a couple of things that play in our factor otherwise that it is a challenge, and it's part of the challenge that we take on so customers don't have to take that on.
+## Moderator | 
+Yeah. Yeah.
+## Matt Garman | CEO, AWS
+There's a few things that play in our favor there. One is, because there is so much more demand than supply, there typically still is demand for the older chips, actually. And today, we actually are completely sold out of and have never retired an A100 server, as an example. So completely sold out.
+## Moderator | 
+Oh, wow.
+## Matt Garman | CEO, AWS
+Now, by the way, there's also structural reasons for that. If you look at every.
+## Moderator | 
+You have never retired an A100 server.
+## Matt Garman | CEO, AWS
+I mean.
+## Moderator | 
+That's why.
+## Matt Garman | CEO, AWS
+I mean, besides it going back.
+## Moderator | 
+Fail or something like that.
+## Matt Garman | CEO, AWS
+Yeah, yeah. But outside of that, no.
+## Moderator | 
+That's amazing.
+## Matt Garman | CEO, AWS
+'Cause there's still demand for it. And, you know, there are some structural reasons why every gen next generation, right, part of where the industry today is getting so much gain on the AI side is reducing the floating point accuracy, right? So I was actually talking to some customers recently, and they were saying, like, actually, I really can't move to Blackwells. I have to use Haswells because I'm doing kind of HPC-style calculations, and the precision is not enough for me. So actually, that, like, they're kind of in a hard place where, actually, the AMD new processors are still kind of, they still, you can enable that. But a lot of the world actually, and some of the old applications rely on that level of precision. And so there's, anyway, there's use cases for them.
+Smaller models still run great on A100s and other things like that. So, I think there's a long way there. And for some of these large labs, they're also willing to make take five-year commitments for some of those capacities sometimes too, which also mitigates some of our risk and, you know, pushes it onto the customers potentially. But there's that. But there's, like, we do a lot of planning here. We have to think about, there's many time horizons that we have to plan for. So, take, for example, in the last year, we added just south of 4 GW of new capacity in AWS for the data centers.
+## Moderator | 
+That's a little nervous.
+## Matt Garman | CEO, AWS
+You know, data centers are a, like, a 20-30-year amortization timeline. The power, you have to make commits for long periods of time, etc. And so you have to both think about how are you thinking about data center planning for a really long time.
+## Moderator | 
+Sure.
+## Matt Garman | CEO, AWS
+'Cause I'm gonna have this asset for 20 years or 30 years. And you think about servers, which you have for five or six years. You have networking gear that's gonna maybe six to 10 years. Like, different, different components. You have to think about all of those. And so we have a thesis, we spend a ton of time thinking about supply chain and thinking about how we think about, risk levels at all of those levels of investment.
+## Moderator | 
+Okay. Let's switch to AI coding. You and I had talked last time I was in your office, and you were saying that you're seeing some pretty great, you know, kind of results from that internally.
+## Matt Garman | CEO, AWS
+Yeah.
+## Moderator | 
+Talk to us about what you're seeing working well, what you're seeing not work so well?
+## Matt Garman | CEO, AWS
+Yeah. We see, I would say in particular, the thing that we see, that is giving massive acceleration, and I would say, you know, 10x improvement or more, sometimes 100x improvement, is when the teams start from the beginning thinking about AI-driven coding. In fact, we have teams now where they have almost a mandate that they write no line of code. All they do is they prompt the models or they prompt the systems. And that, there's a couple of benefits you get from that. One is the AI systems build a ton of context around what they're building. And then they also know how all of those things work together. They've also documented all of the code that that's written.
+So you'll start to get, like, a real flywheel where it can then test all of the code because it knows it. It knows the documentation. It knows the things it needs to test, etc. And it has all of that coverage. I will say where we're not there yet, and it's a yet 'cause it's probably, you know, within the next six to nine months, we'll solve this problem, is that we have not yet seen that speed up for really complicated integrated legacy systems, I would say. And they're not necessarily legacy in the sense of mainframe, but even, like, a really large distributed system that has a large code base. Say something like S3, which has been around now for a little bit of time. We've reimagined it many times before, but it's not zero. We're not starting from scratch.
+And so, giving all of that context to the models, and so that you can get that same speed up, we still see some speed up, but not quite the, like, 10x-50x speed up. But.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+I think we're building and thinking about some novel ways in which we can get coding systems to understand legacy code. And I think that's one of the areas that can help people start to get massive speed up, which turns out most of the code is legacy code out there.
+## Moderator | 
+We are actually seeing that the further down in the stack you go, the harder it gets.
+## Matt Garman | CEO, AWS
+Yeah. And it's that probably too.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+That S3's another good example of that.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+Where you're really thinking about, like, how do you?
+## Moderator | 
+Memory management is much harder to do than what you're doing.
+## Matt Garman | CEO, AWS
+Memory management and correctness of, like.
+## Moderator | 
+Exactly.
+## Matt Garman | CEO, AWS
+Durability of objects and things like that is a little bit different than user application where it's like, build me a website, which.
+## Moderator | 
+Yep.
+## Matt Garman | CEO, AWS
+They're, the agents are quite good at doing now.
+## Moderator | 
+Hey, so when you start thinking about, like, sovereign AI infrastructure and how.
+## Matt Garman | CEO, AWS
+Yeah.
+## Moderator | 
+Countries are going nationalistic, they each wanna have their own infrastructure, do you think, like, architectures like Outpost get even more interesting?
+## Matt Garman | CEO, AWS
+They are. I think, look, I think this is a super interesting topic. I was just at Davos two weeks ago.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+And probably nearly every single conversation I had with a European company was started with, like, look, we trust you. I don't know if I can trust your country. And, you know, we'd try to, like, walk them through, like, why that's not really the trade-off they should think about. And they also realize that they can't tie their own hands behind their back and not compete with the world's best technology. So they, these companies are realistic, but they're having the struggle. And I don't know how many times I literally had the question of, like, how do I, you know, what if the U.S. government decides to turn me off? And it's, you know, it's a question that many people have. And we assure them, like, that's very unlikely to happen.
+It, you know, like, it's a concern they have. So.
+## Moderator | 
+Yeah. Resilience almost trumps raw intelligence at some point.
+## Matt Garman | CEO, AWS
+Yes, in some ways, right? And you think about banking systems or you think about.
+## Moderator | 
+Totally.
+## Matt Garman | CEO, AWS
+Telcos or other areas like that where they just, from a country perspective, the countries feel like they now need that lever or they're, you know, they're at risk of, of us being a lever against them. And so we're thinking about a bunch of different mechanisms to solve this around the world. Just two weeks ago, we launched the EU Sovereign Cloud. And I think for EU, this is actually gonna be a fantastic, and then your partners, they're launch partners, so thank you.
+## Moderator | 
+Yep.
+## Matt Garman | CEO, AWS
+the EU Sovereign Cloud, the idea being is that it's a fully separate subsidiary that is incorporated inside of the EU, beholden to EU laws, actually has an independent governing board. And we make sure that every bit of data, including metadata, including account logins, all of that lives inside of the EU region. And we've even tested disconnecting that whole region from the AWS backbone to make sure that then show. And it's been, we actually co-designed this with the BSI from Germany.
+## Moderator | 
+Mm-hmm.
+## Matt Garman | CEO, AWS
+And other EU countries to make sure that they like this model. And I think, you know, that that works for EU because it's such a large economy in and of itself. But I think we are exploring with a bunch of different things like that to help a bunch of companies around the world grapple with this, where there's obvious trade-offs, but it's hard questions. But we hopefully that's where we can help.
+## Moderator | 
+Matt, 30 seconds will last. Can you provide the CIO and the CISO audience some advice on what they need to do to accelerate AI adoption internally?
+## Matt Garman | CEO, AWS
+Yeah. I think, look, I, I have this analogy that I like to use that, when you're, if you have a, a giant canyon and there's a board across the canyon, you walk really slow across that board, right? Like, like, really slow. You maybe crawl across it. Now, all of a sudden, if you, like, put handrails up and you put, like, walls and guardrails, you can run across it. And it's, it's weird 'cause it's, like, the same board.
+But you can run across it. And you can do it. And it's not that dissimilar. Like, you need to have, like, part of what slows people down is they're worried, right? We had examples internally where somebody was writing some code, and they asked the agent to go do something. And the agent was just about to go, like, delete some infrastructure because they thought that was the fastest way to do it. And they're like, "No, no, no, no, no. Like, that's like that will actually cause, like, production issues if you go do that." And, you know, we have other controls.
+That wasn't the case, but it was like, it highlights, like, I think lots of companies are worried that if they just unleash agents into their enterprise, bad things will happen, production will go down, security issues will happen. And so what I would say is what we're trying to do is build building blocks for customers so that they can go fast, right? Things like Agent Core.
+## Moderator | 
+Yeah.
+## Matt Garman | CEO, AWS
+For us or allow you to have some of these, these guardrails that allow you to go fast. And the more you can find, give your teams safe places to run fast, in a production setting, I think you'll benefit.
+## Moderator | 
+Matt, come back again.
+## Matt Garman | CEO, AWS
+Awesome.
+## Moderator | 
+Thank you again.
+Data Source: Quartr Last updated: Feb 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

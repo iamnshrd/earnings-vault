@@ -1,0 +1,208 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-03
+## Josh Baer | Software Analyst, Morgan Stanley
+Before we begin, research disclosures, which I don't have.
+## Aman Narang | Co-founder and CEO, Toast
+I believe you have some.
+## Josh Baer | Software Analyst, Morgan Stanley
+Talk to your sales representative. Now we can begin. My name is Josh Baer, software analyst at Morgan Stanley. I'm thrilled to have the Toast leadership team here today. Aman Narang, Co-founder and CEO, and Elena Gomez, CFO. Thank you so much for joining us.
+## Aman Narang | Co-founder and CEO, Toast
+Thanks for having us, Josh.
+## Josh Baer | Software Analyst, Morgan Stanley
+Awesome. Aman, I wanna start high level. If you think about the Toast story, maybe how it's evolved.
+Over the last couple of years, what parts of the operating playbook remain unchanged?
+What has changed?
+## Aman Narang | Co-founder and CEO, Toast
+Yeah. First of all, thank you, everybody, for joining us. In many ways, the Toast playbook and strategy has not changed. If you look at what's happened in the business since we IPO'd three years ago, in our core US SMB business, we have doubled market share and now have 20% of all restaurants here in the U.S. in our SMB and mid-market segment and are seeing incredible momentum. If there's one thing that's a top priority for us as a team, it's to make sure that in our core business, we are leaders. You know, we see tremendous opportunity to continue to grow.
+You know, as an example, in our flywheel markets where we have the most density, the way we break down these markets is we look at penetration based upon market share, and we're still seeing above average growth in our most penetrated markets. That gives us some signal about what's possible. A big part of why we're investing, right, is to continue to differentiate the platform and separate from the pack further, and I'll talk about that later, to continue to make sure we have the best possible platform for our customers. You know, in terms of numbers and scale, we've gone past $2 billion ARR. We grew recurring gross profit 32% last year. In terms of, you know, what we shared on margins, you know, we are at our midterm goals in the mid-30s on margins.
+We think as we continue to grow and scale, the most important thing for us is to continue to grow and scale because the margin profile of the business, the incremental margins in our core are very good. Part of the reason, you know, really three years ago, we said we need to go invest to open up the opportunity beyond the U.S. restaurant market, is we saw that there was a lot of overlap between what we were doing in the restaurant business and, markets that we were not in. As an example, enterprise markets, upmarket, international markets, we've launched now four countries, then, retail, where we now support food and beverage retail in a big way. Those businesses are doing really, really well. You know, we shared last year, they crossed $100 million in ARR.
+They doubled last year. There's a path to continue to grow and scale. Those businesses, that's a big part of our strategy. Then, you know, I think we're all talking about what's going on with AI and what does that mean for all businesses. One of the things that we are very, there's two areas we're focused on. One, for our customers, there's tremendous opportunity to leverage AI to help them do a lot of the work today that they're doing manually. We'll share more about that later. Then internally, right, you've all heard about how, you know, AI is making developers more productive, support. So, you know, we're seeing our top developers now being twice as effective and twice as fast, in some cases more, by leveraging some of these AI tools.
+1/3 of our support tickets never hits a human already. The big focus there across really the entire organization to leverage AI is to say, how can we then accelerate growth? How can we take all that investment and point it to the most important opportunities for our customers and continue to grow and scale the business?
+## Josh Baer | Software Analyst, Morgan Stanley
+Great overview.
+Elena, you've got a lot of momentum heading into 2026. You got it to 20%-22% growth in your recurring gross profit metric. EBITDA margins are up. What's the biggest driver of that gross profit growth? How important are locations? What other factors could drive that, you know, to the high end or even above?
+## Elena Gomez | CFO, Toast
+Yeah. Great, great question. First of all, really excited about the team's execution through 2025. We had just an amazing year all the way through. Locations was certainly part of it. In terms of our guidance for top line, 20%-22% growth on RGP was where we started for the year. As we always do at the early part of the year, we're really balanced and prudent in how we approach the year. Just, we have less visibility, obviously, as we get into the year. We always aim to do better. In terms of, you know, what are the swing factors really that would drive that growth to be higher? There's a few things. One, GPV, always a dynamic in our business that we're managing to. Also our TAMs.
+Aman just talked a lot about our TAMs and how we're investing behind those. To the extent we have data that tells us something is really working beyond our expectations, we may double down on that because that's a priority for us in terms of driving long-term growth. Of course, in our core business, which is the majority of our business, to the extent we see greater productivity that could drive, you know, upside to our plan. Those are the things I think about. When you look back even at the last couple of years, GPV performance definitely played a role in our improvement versus starting the year. The team outperformed as well over the last couple of years. Really proud of that execution. When you think about, okay, in that context, where would you invest more?
+It's behind those same things. It's behind going faster. If we have an opportunity to go faster in these TAMs to drive growth, and the data proves that it's the right investment, we take a super disciplined data-driven approach to it, we will lean into it. Similarly, we would lean out if we saw something that didn't make sense. Overall, incremental investments beyond where we are today would be pointed at these innovations. Aman talked a lot about AI, and that's a really big opportunity for us as well. We'll take the opportunity to lean in there as well.
+## Josh Baer | Software Analyst, Morgan Stanley
+Let's stick on that topic of AI.
+Obviously, the market is concerned about the durability of moats and incumbents .
+I wanna ask you directly, why is Toast, you know, well-positioned? What happens if an AI native entrant-
+... shows up? ultimately, does AI, you know, strengthen your position or does it eat away at it?
+## Aman Narang | Co-founder and CEO, Toast
+Yeah. We really believe AI strengthens our position. You know, we are the most important piece of technology our customers use to run their business. It's where they work. If you look at, like, a restaurateur's, you know, how they spend a lot of their time, it's understanding across all of our capabilities how their business is performing and what they can do to make sure whether it's their guest experience is as great as it can be, the employee experience, supplier and accounting inventory, of course, the operations of the restaurant. You know, it's often at the intersection of all this technology that people are getting the most value. It's like there's software, there's hardware, there's fintech, there's payments and lending. There's very specific regulatory needs, compliance and regulatory challenges there.
+There is, you know, it's not well known, but we do all the networking for our restaurants, right? To make sure that our customers, if the internet's down, they call us to help us, help them make sure that the platform is operating. As you can imagine, it's mission critical 9:00 at night when a restaurant's operating. No matter what happens, you gotta make sure things can continue. We've got hardware, software, payments, lending, payroll. Across all that software, you know, one of the things our customers really value, they almost look at us like an outsourced CIO in that they're leveraging our teams to make sure they're getting the most out of our platform.
+I think the opportunity for us is to look at some of this work that is often done through humans, and it's manual to say, What are ways in which we can leverage AI to help them get more out of Toast and to help them run a better business? I think Toast IQ is really we've shared, you know, what we've launched with Toast IQ is the foundation there, where it's essentially a copilot that sits alongside the Toast platform. When you log into Toast, you can do things like ask it questions, get custom data and reports. You can do things like understand, make changes to the back end based upon let's say something's out of stock or you wanna update something on DoorDash and Uber Eats, for example. You can manage a lot of the config.
+You know, over time, you can also we're building out custom workflows as well in the back end, which I'll share more about. I think there's a big opportunity to leverage AI to help make our customers more productive. Another example is voice and video. You know, we have pilots going with voice AI, where if you call a restaurant on the phone, the voice AI can answer the call. That's voice for phone is one modality. Think about like walking up to a kiosk and being able to order. There's more complexity there with ambient noise, but over time is a solvable problem. Similarly, even with a terminal, you can imagine that there's so much opportunity with voice to be able to make the experience and the workflows more efficient.
+With video, there's a lot of opportunities. You know, there's a lot of startups now looking at video feeds to detect fraud, to detect theft, to understand what's going on, even things like if the restaurant's clean. There's just the biggest challenge for us really is to prioritize and say, What are the order in which we're gonna leverage this, what this technology enables and to land use cases that really matter for our customers?
+## Josh Baer | Software Analyst, Morgan Stanley
+Excellent. I wanna double-click on Toast IQ.
+In the first four months, you mentioned over half of your locations had already started using Toast IQ.
+wanna ask about what monetization looks like down the road?
+## Aman Narang | Co-founder and CEO, Toast
+Right
+## Josh Baer | Software Analyst, Morgan Stanley
+... potential for impact to SaaS ARPU.
+Also today, if you are seeing any impact to win rates or retention?
+... just any general engagement trends there.
+## Aman Narang | Co-founder and CEO, Toast
+Yeah. No, our win rates and our retention numbers are really good. We've shared that in the past, but our win rates last year, last time we shared was up year-over-year, both for FSR and QSR. Retention numbers are strong in the business. As you mentioned, in Toast IQ, we've seen good adoption of the platform, but it's still early. Like, I think in terms of monetization, you know, my expectation is this is gonna be very similar to most of these AI platforms, where it's usage-based for the base agent. Where I think there's a tremendous amount of value is to build on top. I'll give you an example.
+Most of our customers are using fractional people that don't even work full-time for the customer, for the restaurant, to do things like bookkeeping or accounting or marketing, even payroll and tax. One of the things we are piloting right now, we've got customers using it already, is on top of all of our products that we offer for demand generation marketing, so things like online ordering, gift card, loyalty, CRM, websites, and our Toast Advertising product, we have a team that is going in and saying, with our AI agent, we will optimize all of those channels, right? It's things like making sure on your website, your online ordering has images that are compelling. It's making sure that the campaigns you're generating for marketing are compelling. AI does a very good job of that.
+It is getting those campaigns out to all of those different channels that matter, right, both online and through their data that they collect. That's phase one of like. We're already seeing with that marketing agent, that the usage and the value we're creating with our first-party software is greater because, again, restaurateurs don't have, you know, they're using fractional help to do it, and we can do it better and we can do it more efficiently. You think about, like, where this could go. Most restaurants don't do a great job of looking at when they're really busy and when they're slower to try to optimize yield, right?
+The opportunity that we have is We've got over 30 million accounts, Toast accounts, in our backend that have signed up for Toast to get online orders, for example, or to set up a loyalty program. If you're a restaurateur, it's really valuable to say, Okay, let's say I'm a Mexican restaurant here. Who are the people that love Mexican food, that have never been to my location, that live around here, and are big spenders? Right? For those folks, how can I generate the right custom messaging and offers to get them to try our location? That's why a big focus for us with our Part of the reason we're investing in a big way in our local app is we wanna get that audience number up.
+You'll see, for example, we just announced last year a partnership with Resy and Tock, and the idea is, you can book a table on Resy, Tock, as well as on our Tables product. When you go to a restaurant now, when you've booked a table through any of these platforms, at the end of the transaction, right? One of the most painful parts about going out to eat is just, like, waiting, having to wait for your check at the end, so you can just walk out with a card on file. You can personalize the experience off of the data that now we have about you.
+As we build up that audience in local, right, we believe it's the opportunity for us to create the best experience for dining in and the best experience in terms of the best offers that are relevant to you based upon your dining history. I think there's. Hopefully, that paints a vision for what AI can enable, where instead of it just being us being software providers, the vision is we can do a lot of the work more efficiently. We may have some humans in the loop in the background, by the way, to support all of this to actually drive incremental first-party demand. We're doing this not just, of course, we were testing with not just marketing. We have examples and pilots going with bookkeeping and accounting, some of the back office tools.
+The strategy is all of the software that we offer, we wanna see whether agents can play a role to actually drive greater value for our customers.
+## Josh Baer | Software Analyst, Morgan Stanley
+Really helpful to lay out that vision. Wanna shift gears and talk about payments and GPV and maybe starting with consumer spending and the backdrop there. There's a lot going on when you think about GLP-1s, tax refunds, changes in preference in dining. I mean, what are you seeing as far as traffic, ticket sizes, and consumer backdrop?
+## Elena Gomez | CFO, Toast
+Yeah. It's, it's fair. There's always lots of puts and takes going on in the macro. At the highest level, consumer trends are stable. When you look at our GPV per location for several quarters, it's been within a narrow band. To the point you're making on all the backdrop, restaurants have always proven to be really resilient. When we look back at data at various economic cycles, there's a resilience in restaurants, and they know how to navigate. Our confidence in that, GPV per location staying in that narrow band, continues as a result of just looking at this data time and time again.
+## Josh Baer | Software Analyst, Morgan Stanley
+That's helpful. With regard to fintech monetization, your take rates have been expanding. Which levers are repeatable looking ahead? Thinking about pricing or mix or new products, which is the biggest opportunity?
+## Elena Gomez | CFO, Toast
+Yeah. It's a great question. We view there are several levers that are very durable for us over the long term, and we are very confident over the long term to drive our long-term take rate up. In the near term, really proud of the team's execution. They added four basis points of improvement year-over-year to our run rate, which is on the back of these these initiatives you laid out, whether it's cost optimization, a little bit of pricing, new product development. In fact, those are the same levers that they're maniacally focused on for the long term. Cost optimization, you know, at our scale of $200 billion in GPV, that affords us some negotiation leverage. It affords us even more scale on a per transaction basis.
+Of course, there's a whole team focused on: How can we innovate around our platform to drive more value and deepen our relationship with our customers? To the extent we can drive more digital transactions, obviously that'll impact the take rate. Pricing, we're following the same strategy and philosophy that we've talked about, which is really starting with small, targeted improvements over time. Over time, as we continue to build our platform, there may be an opportunity to lean in more over time. In the short run, we're gonna really be focused on targeted moves.
+## Aman Narang | Co-founder and CEO, Toast
+Yeah.
+## Josh Baer | Software Analyst, Morgan Stanley
+Great. Wanna shift the conversation to focus on locations. In the first couple questions.
+identified location additions as the core, growth driver .
+of the model.
+## Aman Narang | Co-founder and CEO, Toast
+Yep.
+## Josh Baer | Software Analyst, Morgan Stanley
+I think you're now powering about 20% of SMB and middle-market restaurants in the U.S.
+## Aman Narang | Co-founder and CEO, Toast
+Yep.
+## Josh Baer | Software Analyst, Morgan Stanley
+In your top 10 markets, you continue to have higher rep productivity.
+## Aman Narang | Co-founder and CEO, Toast
+Yep.
+## Josh Baer | Software Analyst, Morgan Stanley
+of, showcasing the flywheel effect. How much longer can these high-penetration markets display that flywheel type of growth? As a follow-up, you've guided to more net new locations this year in 2026 versus last year, where you added, I think, over 30,000 .
+What's the composition of this location growth across the core enterprise, international, and retail?
+## Aman Narang | Co-founder and CEO, Toast
+Yeah. First out, like, the past few years, we've been able to continue to add more and more net adds every year, and we expect to do the same this year. I think that's really at its core, fundamentally starts with our core business that I talked about earlier. Even Elena was talking about pricing earlier. The most important thing that we're focused on is to make sure in our core business we have a path to market leadership. That's why we're investing in a big way in the platform. You know, the data signals we've seen from our most penetrated markets, right, shows that there's a path to continue to gain share in a big way based upon, you know, based upon the share gains we're seeing.
+I think for markets that we launch later, we have the same strategy, where we're investing, you know, there's a natural cycle to how restaurateurs buy this technology. And we wanna make sure that we're in as many decisions, our win rates are strong, and, the signals that we see internally tell us there's no reason why we cannot have, in our core business, durable location growth like we have for the past three years, right? Based upon the signals we've seen, we're still at just... Despite all the progress, we're at 20% share. You look at SaaS category, you look at, like, what it can be if you're a leader in a category, over time, it can be far greater.
+The investments that we're making with AI and some of our data are all about reinforcing having a path to continue to expand not just our pool, but the differentiation in the market of the products that we offer. In terms of the new TAMs, I think, you know, we always get feedback that I spend a lot of time talking about these new TAMs when they're smaller, right? I am very excited about the potential here because if you look at whether it's a restaurant that is in, you know, Boston or San Francisco or London or Toronto or Vancouver, our strategy has always been from day one, by the way, to really focus first and foremost on the busier restaurants that are more successful.
+You look at, like, as an example, our handheld , you know, the thing that, you know, people say time and time, if you go talk to restaurateurs and the staff in restaurants, they'll tell you the thing they love about it is that it turns tables faster, the owners are happy, they get more in tips, right, and the guest experience is better. All the investments we make in our platform is focused on improving the experience first and foremost with busier restaurants. If you look across the world in these tier one cities, there's lots of busy restaurants where Toast can help them run a better business. That's a big part of the strategy on these new TAMs in whether it's in international markets, enterprise upmarket.
+Enterprise restaurants just by nature tend to be busier in terms of GPV per location versus SMB. In retail, it's been really interesting. This was the one area when we launched retail 2.5 years ago, you know, we had more questions even internally from our team about, like, what is the strategy here? We've been so focused on restaurants for a decade plus. You know, how do we think about the expansion into retail? It turns out that, like, the challenges that we're solving in retail, we started with, you know, restaurant retail, and now we're doing grocery and convenience and gas stations and liquor stores. That business has done tremendously well because the challenges they face in terms of using legacy technology are actually very similar to where restaurants were 10 years ago.
+That's why we've seen this market start to take off. I think as we think about, like, why we have so much confidence to our location growth, it's because we have confidence in our core business that we continue to take share. That's all the signal we see in our data. We're focused very much on continuing to separate from the pack in terms of the differentiation our platform offers with AI. We're expanding the TAM in a big way, to continue to serve, to open up the opportunity with our platform.
+## Josh Baer | Software Analyst, Morgan Stanley
+Perfect. I wanna ask a quick follow-up on some of the growth TAMs.
+## Aman Narang | Co-founder and CEO, Toast
+Okay.
+## Josh Baer | Software Analyst, Morgan Stanley
+Starting with international, you recently launched Australia. That's your fourth market-
+## Aman Narang | Co-founder and CEO, Toast
+Right.
+## Josh Baer | Software Analyst, Morgan Stanley
+in addition to Canada
+## Aman Narang | Co-founder and CEO, Toast
+Right.
+## Josh Baer | Software Analyst, Morgan Stanley
+Ireland and the U.K.
+## Aman Narang | Co-founder and CEO, Toast
+Right.
+## Josh Baer | Software Analyst, Morgan Stanley
+What factors go into your decision process determining, you know, what markets to enter?
+## Aman Narang | Co-founder and CEO, Toast
+Yeah.
+## Josh Baer | Software Analyst, Morgan Stanley
+What should we expect as far as future expansion?
+## Aman Narang | Co-founder and CEO, Toast
+Yeah. Elena and I talk about this a lot. I think, you know, the balance for us is how much. I think for the most strategy, at the end of the day, like, how much you can take on, this goes back to, like, how much can you do well? That's the fundamental question I think we're asking ourselves. The way we do that is we've committed to these countries that we've launched so far in the U.K., Canada, Australia and Ireland, and we're seeing really good success there. We're focused on making sure that in those markets, our strategy is working back to the busy restaurants, that we have a path to market leadership over time.
+We are gonna make sure first and foremost, we invest in those markets, right, to de-risk our ability to have a path to a really great business. Because back to the flywheel effect, it really matters when you get to 5% share and 10% share because social proof is such a big factor in how people buy. The last thing we wanna do in these markets is be spread too thin and not have a path, right, to market leadership. We're seeing really good signal, by the way, in terms of productivity of our reps is fundamentally not that different than the U.S., which tells us that the customers are telling us that they see value in our platform.
+Now, in terms of new markets, you know, back to, like, the strategy in busier locations, if you just think about that for a second, like, actually that points to a strategy where you wanna be more of, you wanna be, like, really focused on the tier one cities across the world versus going super deep across the entire TAM in these countries, right? Part of what we're looking at is as we think about Western Europe, as we think about, you know, other parts of the world where there are large cities that have, you know, high GPV per capita and restaurants, and restaurants seem to be thriving, like, what is the strategy to open up more of that TAM? Because again, those customers can benefit from Toast.
+The thinking there is, you know, like any horizons testing, we have a team that goes in and is doing future testing and learning to try to understand what, you know, when we launch, what, you know, and the signals are always starts with customer. What is the customer feedback? You know, what is the team's feedback on the ground? What are our win rates? All the things we're looking in the U.S. We're also looking at, you know, the economics. For example, in some markets, one of the questions we're asking ourselves is, do we wanna go direct or do we wanna go through a partnership, where, you know, we, we may not get to some of those markets anytime soon, and maybe there's a, there's a partnership opportunity there to scale.
+Those are like I know I shared a lot of texture there, but those are some of the factors that go into opening up new markets. There's one thing I'll leave you with. It's making sure, Elena reinforces this to me all the time, is to make sure that in the markets we're in, we cannot end up number two because we're spread too thin across too many priorities.
+## Josh Baer | Software Analyst, Morgan Stanley
+Great. In enterprise in 2025, you signed two of your largest customers ever Applebee's and Firehouse Subs.
+## Aman Narang | Co-founder and CEO, Toast
+Right.
+## Josh Baer | Software Analyst, Morgan Stanley
+You have a strong pipeline there. Guess I'm wondering what specific capabilities helped you win those large deals? You're rolling out a drive-thru product. Does that change the game for you in enterprise?
+## Aman Narang | Co-founder and CEO, Toast
+Yeah. You know, for context for everybody, we didn't really have an enterprise business three years ago. Like, our core business was the U.S. SMB. We had a really good penetration mid-market, up to 500 units, really not much of an enterprise business to speak of. Now we've scaled up and gotten, you know, many brands that are using the platform. A part of that is just focus. We've, like, focused and invested to build out the above store capabilities that are necessary in enterprise, and we've set up the organization. We have a, you know, a dedicated leader who drives enterprise business and there's... You know, in terms of how customers buy there, how they're serviced, the level of support they expect, what they expect from a product, there are some differences.
+The thing that got us conviction that we should invest here is if you talk to franchisees or you walk into some of these restaurants that are enterprise brands, within the four walls of a restaurant, they still get a ton of value, right? You know, Applebee's, for example, like you walk in and you'll hear like, Oh, the handheld is really helping us, just like in SMBs. You walk into a Firehouse Subs location, and even Very early in their rollout, one of the things they saw was with our kiosk product, they were seeing better throughput, they were seeing higher check size, and the costs to the franchisees were actually going down.
+Often, like, within the store, there's lots of innovation that we've built in 10+ years in SMB really applies. In terms of, like, what's gotten us to start to now open up the enterprise business, it's really, like, all the capability you need. If you're managing 10,000 stores, like how do you manage across all of that in terms of, you know, things like your menu, your all the config in the Toast backend, the APIs that are needed, the partner ecosystem, the security compliance needs. There are some just very specific needs that we were lacking, that we've built out. What's exciting about the QSR opportunity is, you know, we're gonna GA our product in QSR this year. In enterprise in the U.S., QSR is 70% of the opportunity.
+That is a part of the market where we see customer pull. Like, we're getting into RFPs now that we never did because customers see the value of what Toast offers. That's an exciting launch for us, where I think within drive-thru, not only will customers be able to benefit from the full platform that Toast offers, we're actively looking right now at how to leverage... And I know it's still early, we're not quite there on this, but how to leverage voice AI, because that's a key use case for drive-thru, where even if voice AI is not perfect at answering every interaction, and there's some mechanical torque in the background to support you, it can be hugely productive.
+As we think about our drive-thru product, we're looking both at partnerships as well as organic investments to see are there ways to create a really differentiated platform for this big part of the market.
+## Josh Baer | Software Analyst, Morgan Stanley
+Great. One follow-up on retail.
+You mentioned that your retail adjacencies are facing some of the same challenges as your core restaurant opportunity.
+## Aman Narang | Co-founder and CEO, Toast
+Right.
+## Josh Baer | Software Analyst, Morgan Stanley
+Are there capabilities that you need to fully serve the retail market?
+## Aman Narang | Co-founder and CEO, Toast
+Yeah, for sure. I mean, if you look at our retail business, you know, seven people working in selling retail. We saw enough signal with the product we had launched where we said, We should scale up the sales team. We're like, we'd never scaled a sales team beyond restaurants ever in the history of the business. We, for the first time, did that last year, and the signal was strong enough that we said we should scale it again this year. I think the early signal in retail has been super positive. The ARPUs are already north of $10,000 in that business, not that different from our U.S. SMB restaurant business.
+For context, you know, five years ago, our SMB ARPU was $7,000, right, in our U.S. SMB business. Those ARPUs will grow and scale over time. I think back to what you said, like the reason we have seen a lot of early success is we have built this platform that solves deeply for the needs of these retailers. For example, in grocery, there are very specific product challenges. In liquor, there's some very specific product challenges. In convenience stores, down to like even integrating with the fuel pump, for example, to make sure you can process payments for fuel, that we have built out or are investing in.
+We're replacing legacy on-prem solutions like we did with restaurants 10 years ago, because no one in the cloud and with modern tech has done that. That's really what's driving the win rate and the adoption. Now if you think about the roadmap moving forward, you know, it's actually not that different again than restaurants. Like over the last 10 years, we've had to build out a lot of the product to support all these different restaurant types. You know, I remember when I started this company, I very much underappreciated how much complexity there is to support these businesses and all the different workflows that exist. It's the same thing in retail, where you look at convenience stores, for example, you know, there's very specific inventory needs, or e-commerce needs.
+In grocery, you know, there's a lot of needs around how to drive throughput in a checkout lane that are very specific in managing inventory, while your grocery store is open has some very specific needs. We're building out all the capabilities in the product. Our sales team has been interesting. Like I'd say, you know, maybe 80%, 90% of the sales we've done are in food and beverage retail, but we're actually seeing really good traction beyond that as well. It's very early, but, you know, whether it's in home and garden or even B2B retail, you know, B2B retail, the very specific needs are invoicing and custom pricing, custom websites. It almost starts to become like ERP over time.
+We're starting to see really good traction beyond even food and beverage retail, where again, we're learning. I think that is gonna be a part of our strategy. Like, as we think about the next decade, part of it's gonna be, of course, like making sure, again, we're focused on the TAMs we're in, where we're scaling. I think a big part of it's gonna be learning in these new TAMs, because if you just zoom out for second, today, like Toast is known to power neighborhood restaurants. Like, there's no reason, if you think longer term, why it couldn't actually power a lot of the neighborhood because there's so much overlap.
+You think about, like, walking to retail location, the software and the hardware you need to take an order, take a payment, run payroll, run a schedule, like so much overlap with what we offer for restaurants, that if we can build the specific capabilities in retail, I think there's a lot of upside there.
+## Josh Baer | Software Analyst, Morgan Stanley
+It's really helpful, Aman, and some really exciting growth opportunities, a lot of momentum there. Elena, how do you think about the economics of some of these new initiatives? You know, one thing that you look at is payback period. Like, how do these new TAMs, paybacks in these new TAMs differ from the core? What's acceptable from a payback threshold as you're scaling these new TAMs?
+## Elena Gomez | CFO, Toast
+Yeah, no, really important question for us. We've operated at mid-teens payback in our core for a very long time. Just zooming out, one of the reasons we're in these businesses, and you can hear the energy from Aman, is we believe they are significant ARR opportunities, and we also believe that they're profitable business for us over the long term. Back to payback periods, certainly today where we are, because we're scaling, the paybacks are elevated above 20 months. We have also taken the core business from above 20 months to mid-teen months. We know that playbook, and we're gonna execute against that playbook.
+It's really across both honing the go-to-market motion, adding more product, and really the intersection of both of those that we feel very confident we can drive each of them to payback periods of sub 20 months. That's how we're operating the business, that there's no scenario where we would operate a business over the long term that's not sub 20 months. That's our operating principle. Then if you just take an example, Aman just talked about it, retail is already at a very healthy clip in terms of ARPU. We talked about the fact that we're increasing our rep capacity. Today, that rep capacity isn't in their what we believe is the long-term rep productivity. As they scale, that will contribute to payback.
+we're really excited about the product innovation, the capabilities that we're building across each of these segments. that's just one example. at the highest level, we're operating with the principle that we will run these businesses at sub 20 payback-.
+in a few years.
+## Josh Baer | Software Analyst, Morgan Stanley
+Yeah. Great.
+## Aman Narang | Co-founder and CEO, Toast
+Maybe one tweak.
+## Elena Gomez | CFO, Toast
+Yeah.
+## Aman Narang | Co-founder and CEO, Toast
+Rep retail productivity is very healthy.
+## Elena Gomez | CFO, Toast
+Yeah.
+## Aman Narang | Co-founder and CEO, Toast
+For reps.
+## Elena Gomez | CFO, Toast
+Yeah.
+## Josh Baer | Software Analyst, Morgan Stanley
+Yeah. Sticking to margins, you've called out some near-term headwinds related to higher memory chip costs, tariffs. What's the impact? How should we think about those? What's more structural or long-term? What's transitory?
+## Elena Gomez | CFO, Toast
+First thing is our focus on long-term margins of 40% or greater has not changed despite this hardware, what we believe is a transitory impact. Certainly, in the near term, we'll have some pressure. We've talked about that in earnings. For memory specifically, it's about 150 basis points in 2026. Tariffs has a bigger impact in 2026 and 2025. All of this, by the way, is reflected in our guidance. What gives me confidence in how we're navigating this is a couple things. One, we are working with long-standing relationships with our suppliers. Two, we have a very seasoned team behind the hardware operations, and they're maniacal about trying to optimize the price and really thinking about not just near term, but what does long-term supply chain look like for us over time.
+I feel really confident not only will we have the supply we need for 26, we have a line of sight into the supply for 27. Back to the first question, very confident it will not impact our ability to deliver long-term margins of 40% or greater.
+## Josh Baer | Software Analyst, Morgan Stanley
+Excellent. Let's close out the conversation, just framing profitable growth. You've.
+## Elena Gomez | CFO, Toast
+Sure.
+## Josh Baer | Software Analyst, Morgan Stanley
+your medium-term margin targets faster than expected. What should we expect from here as far as margin expansion?
+## Elena Gomez | CFO, Toast
+Yeah. That's a debate that, Aman and I, we talk about a lot, right?
+## Josh Baer | Software Analyst, Morgan Stanley
+Absolutely.
+## Elena Gomez | CFO, Toast
+What's that? Yeah. We talk about this a lot. It really frames how we think about the company. First of all, you're right. We got to adjusted EBITDA margins earlier than we said at Analyst Day. We also have a core business that's already at 40% margins with high incremental margins. As Aman talked about earlier, that's the majority of our business. The reason we're investing in these new TAMs is because we really wanna drive long-term growth. As I said earlier, we believe not only will they contribute ARR in a significant way over time, but they are going to be profitable businesses for us. That maniacal focus on payback periods is what gives me confidence. When you think about it, a lot of these TAMs are drafting off the centralized operations that we have in R&D and G&A.
+So-
+looking at that entire picture, feel really good, not only about adjusted EBITDA margins, but really GAAP margins. Like, we've done a lot of work to drive our stock-based compensation down. We've been incredibly disciplined in thinking about that as just like any other budget line item. When you look at the complexion of margins, both on an adjusted EBITDA basis and on a GAAP basis, we're really proud of how we're executing.
+## Aman Narang | Co-founder and CEO, Toast
+Yeah. Only thing I'll just add to what Elena just said is to the extent that AI allows us to move faster in the business or to drive efficiency in the business, like we understand that that is both a massive opportunity, right, and also can be an existential threat. We're gonna make sure we're not left behind in terms of making sure that You know, today people talk about support and R&D being the areas, but across the business that we're leading when it comes to adoption usage of AI to drive value for our customers and our internally in the business.
+## Josh Baer | Software Analyst, Morgan Stanley
+Perfect. Aman, Elena, we're over time.
+## Aman Narang | Co-founder and CEO, Toast
+Thank you all.
+## Elena Gomez | CFO, Toast
+Thanks, Josh.
+## Josh Baer | Software Analyst, Morgan Stanley
+Thank you so much for the conversation.
+## Aman Narang | Co-founder and CEO, Toast
+Nice job. Thank you.
+## Josh Baer | Software Analyst, Morgan Stanley
+Thank you.
+## Aman Narang | Co-founder and CEO, Toast
+Yeah.
+## Elena Gomez | CFO, Toast
+Appreciate it.
+## Josh Baer | Software Analyst, Morgan Stanley
+Nice.
+Data Source: Quartr Last updated: Mar 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

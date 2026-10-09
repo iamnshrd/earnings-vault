@@ -1,0 +1,308 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-02
+## Josh Behr | Software Analyst, Morgan Stanley
+All right, let's get started. Before we get started, some disclosures. Important disclosures, please see the Morgan Stanley Research Disclosure website at www.morganstanley.com/researchdisclosures. If you have any questions, please reach out to your Morgan Stanley sales representative. My name is Josh Behr, software analyst at Morgan Stanley, and we are thrilled to have Michelle Cheng, CFO of Zoom, here today. Thank you so much for joining us.
+## Michelle Cheng | CFO, Zoom
+My total pleasure.
+## Josh Behr | Software Analyst, Morgan Stanley
+Awesome. Maybe Michelle, to set the stage, Zoom closed out the year growing enterprise revenue 7% in Q4, now represents over 60% of the business.
+## Michelle Cheng | CFO, Zoom
+Mm-hmm.
+## Josh Behr | Software Analyst, Morgan Stanley
+You look at that improved growth trajectory, could you unpack what were the key changes that really bent that growth curve for you?
+## Michelle Cheng | CFO, Zoom
+Yeah. Maybe for those that don't follow Zoom as closely, you know, we'd had growth that at an overall level was 3% and 3%, and then we finished last year at 4.4%, so an inflection of 130 basis points. Enterprise to your question is sort of the headliner of that. There'd really be kind of four things that I would call out. First is product diversification. We've moved a lot as a company from just being a meeting company to a much more portfolio. Clearly, and I'm sure we'll get into more conversations there, that's one of them. Second one is AI monetization. It's very clear that AI monetization is inflecting our growth rates, that's tremendous to see. The third is an investment in our channel, right?
+With where we need to go from a product perspective, we have been investing very heavily in our channel, of all flavors, not just incentives, but building out the maturity there. The last one would be really just continuing to hone our execution from an enterprise perspective in our direct sales organization. Clearly that's playing out as well.
+## Josh Behr | Software Analyst, Morgan Stanley
+Excellent. We will dig into all of those.
+## Michelle Cheng | CFO, Zoom
+All right.
+## Josh Behr | Software Analyst, Morgan Stanley
+Thinking about as you head into FY27, I mean, what are the key operating priorities that sort of can sustain that momentum that you've had?
+## Michelle Cheng | CFO, Zoom
+Yeah
+## Josh Behr | Software Analyst, Morgan Stanley
+over the last year?
+## Michelle Cheng | CFO, Zoom
+Yeah. Look, we have three priorities that we're about as a company, and these three priorities, they shape everything we do from where we put our dollars, because they are the things that will inflect our growth rate even more. Maybe as a build on to your prior question. The first one is that we have got to infuse AI in our core business. That means for us, workplace, which is where meetings is, as well as our phone. That's priority number one. Priority number two is, this is probably the most forward-thinking of our three priorities. We have got to get new routes to AI monetization up and running, be they horizontal or vertical. I'm sure we'll unpack each one of these as we go.
+The third one is Zoom is really getting into a great moment with our Contact Center business, which is one of those product diversification that I mentioned. We've just got to get behind scaling that because the market is in transformation and we have great momentum behind what we're doing.
+## Josh Behr | Software Analyst, Morgan Stanley
+Excellent.
+## Michelle Cheng | CFO, Zoom
+All right.
+## Josh Behr | Software Analyst, Morgan Stanley
+Before we dig into AI, wanted to get your perspective on the demand environment. When you're sitting with chief information officers, other CFOs, how is this collaboration and UCaaS space, how are budgets being allocated? Is there a trend from best of breed to consolidation? You know, how does that impact where you're investing and playing in the market?
+## Michelle Cheng | CFO, Zoom
+Yeah. Look, I think it's changing. If I, if I thought maybe a year ago in some of the conversations, you know, it was a mix of best of breed, best of suite, if you will, to which I think Zoom has a great response to each. You know, in best of breed, we're clearly known for being excellent, and chosen by customers at what we do. In best of suite, you know, we have not only a holistic platform, but also the ability to integrate with so many others. One of the things I love about coming to Zoom is we embrace kind of the customer where they are on their journey.
+If they own Microsoft or Google, you know, great, bring that in, and that becomes essential in the third category, which is really where I think the shift in conversation is, which is to what I would call pragmatic AI. Not flashy, everybody needs it AI, but show me pragmatic value from an AI perspective. Best of breed and best of suite conversations I think are still there, you know. Good CFO always kinda grind on those things. I think far more the conversations get down to AI pragmatic value and how can I prove it out.
+## Josh Behr | Software Analyst, Morgan Stanley
+Awesome. Well, let's jump into AI.
+## Michelle Cheng | CFO, Zoom
+All right.
+## Josh Behr | Software Analyst, Morgan Stanley
+obviously key debate on the whole sector.
+## Michelle Cheng | CFO, Zoom
+Yeah
+## Josh Behr | Software Analyst, Morgan Stanley
+... assessing the risks and opportunities around AI, particularly around incumbent SaaS.
+## Michelle Cheng | CFO, Zoom
+Mm-hmm.
+## Josh Behr | Software Analyst, Morgan Stanley
+Wanna just directly ask you, how is Zoom positioned, specifically for AI?
+## Michelle Cheng | CFO, Zoom
+Yeah. This is, this is a good one, I think, to make sure people understand. Eric has a great way, our CEO, of talking about this, so I'll kinda leverage it here. If you think about the interactions in the world, there's always been human-to-human interactions, then there was human to system, and increasingly there's system to system. Look, in an AI world, all of those probably exist in some form or fashion, but the thing that doesn't go away is that human connection. Probably what used to then be two or three steps just becomes kinda singular. It gets more streamlined in nature. Where Zoom I think is going, and why I look at this and get really excited about our future. In an AI world is really around something called system of action.
+If you think about it, there's system of record, there's systems of engagement, and none of those quite fit in an AI world, right? What everyone is having to reinvent themselves, right? Towards something that we talk about as a system of action. That system of action is really about going from conversations that happen every day into tangible, real business value, pragmatic AI value, and action. Zoom, you might say, well, okay, I've heard those buzzwords or I've heard all that. Like, why does Zoom sort of win in this? It's really, I think, on a couple of dimensions. For Zoom, we think about the work that happens in this system of action as work that happens inside an organization and work that happens outside of an organization.
+Historically, the world has thought about those as very different, very siloed off things. Yet in an AI world, I think they begin to blend, and in really good ways from a customer perspective. Zoom has a great mix of things inside the organization, outside the organization that really get lit up. I'm sure we'll talk about that as we get to things like phone and contact center. The other reasons, that we're hearing great things about and great response from customers in AI is obviously things like quality and approach and open ecosystem and trust and all those. Look, it's that context that exists across that system of action.
+You think about all the unstructured data that we all have as we go from one meeting to the next. We can't remember who decided what or who said what or what action you took in that. Just what a powerful advantage that is to Zoom in an AI world, is the ability to take all those unstructured dialogues and take them from conversation to completion.
+## Josh Behr | Software Analyst, Morgan Stanley
+Perfect.
+## Michelle Cheng | CFO, Zoom
+Okay.
+## Josh Behr | Software Analyst, Morgan Stanley
+Eric also, he uses the words AI-first company. You've got a federated approach. I mean, how does that approach show up in your cost structure today? Thinking about all of this AI usage as that scales, you know, how do you protect Zoom's gross margins and operating margins?
+## Michelle Cheng | CFO, Zoom
+Yeah. Like being a CFO, I'm not about just endless AI investments. They gotta come with return on the monetization side that I'm sure we'll talk about. Look, they also have to be, you know, rationalized from a profitable perspective. 'Cause in the end, it's all just business. It's not an investment for an investment's sake. We spend a lot of time on the monetization side. To your question more uniquely on the cost, what Zoom does in its federated approach is say that we're gonna use a combination of SLMs and LLMs depending on kind of the volume. We're gonna take our more everyday common things, and we're gonna run them through an SLM, and we're gonna take, you know, more specialized stuff and run it through an LLM.
+That really translates into two things from a Zoom perspective. one, the quality goes higher, and two, the cost goes down, right? One of the ways that we're able to still say in an AI world where usage is going up three times year-over-year, we're gonna hold to those long-term margins of 80% is because of this federated approach. Look, there's also things like AI cost per se will naturally come down, and we're gonna keep working it on our core backbone of COGS and other things that we use to offset. Maybe I'll give you one more as a key piece to how we're able to continue to adhere to gross margins at the 80%, you know, best in class range, and that is our own product.
+Look, I'm sure we'll get into this more, but you know, like any company, Zoom has a contact center. Like any company, I used to be a CFO of a contact center. Gosh, they are the worst businesses, man. The costs go up, and, you know, CSAT is always not what you would want it to be. Look, we leverage in our own company, our own contact center, virtual agent or agent assist, and we use that as really a means to get costs down as well.
+## Josh Behr | Software Analyst, Morgan Stanley
+Excellent.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+While we're on the topic of monetization, AI monetization, could you talk a little bit more about that framework for you? You have a base level of AI in paid SKUs, so no extra charge. You've got a custom AI Companion.
+## Michelle Cheng | CFO, Zoom
+Mm-hmm.
+## Josh Behr | Software Analyst, Morgan Stanley
+AI tiers in the Contact Center suite. How are you thinking about the revenue opportunity for AI?
+## Michelle Cheng | CFO, Zoom
+Yeah. Yeah. let me break it down and give some categories to all the things you just talked about because I think it's helpful. There's a visual that we did as part of Zoomtopia if anyone wants to go to our investor website. First, we started out on our AI journey and really taking at the time what was kind of an unusual decision to democratize AI, meaning we put AI in for all paid SKUs into like Zoom Meetings, Zoom Workplace SKUs. Obviously, there's some degree of monetization there, churn reduction, bringing in new customers, stickiness of platform. Okay? Then we moved into sort of the more explicitly monetized, and we tend to think about it in two buckets: horizontal and then vertical.
+On the horizontal front, if you think about the base virality of usage that you get sort of in the Workplace or from our phone SKU, that core priority that I talked about, you then have the ability, behind a paywall, if you will, to say, we're gonna monetize in scenarios where the customer is getting incremental value. More search, their own data, their ability to create their own agents, you know so high kind of high-value scenarios. There's what we call vertical. This one's a bit odd in its naming, but let me unpack what it means. Contact Center, for example, you know, is a huge area where you can get AI value.
+If you think about all those painful moments we've all had as customers where you call in and you're in a incessant loop, or you're repeating yourself, or you know, can't even get to your answer. Like the value that AI can bring to that is tremendous, and that is the largest place where Zoom is monetizing AI right now. If you think about that, what we're doing, taking that conversation into action, we believe there's great other scenarios in vertical, which is ultimately I think where the value is easiest to prove to a customer, where Zoom will also monetize. We made a recent acquisition at BrightHire, as well as we have like Zoom Revenue Accelerator, which is our AI SKU focused on our sales organization.
+## Josh Behr | Software Analyst, Morgan Stanley
+Okay, that's great. I wanna ask one.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+On Anthropic. You have a minority stake. After this past quarter, we learned there's a strategic investment portion of the balance sheet. Correct me if I'm wrong, the current amount, $1.6 billion in that line reflects the current valuation. I want to make sure that I'm framing that right. I'm also wondering, beyond the economic relationship-
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+Is there, like, a broader partnership-?
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+That you can speak to?
+## Michelle Cheng | CFO, Zoom
+We have a Zoom Ventures fund, and it's about investing in things that are gonna be helpful to our product roadmap, just key strategic partnerships. Many companies have them and so do we. You're exactly right. The total base of that is $1.6, of which the most significant portion is Anthropic. If it's helpful to investors to sort of reverse engineer the math, what we talked about in earnings was, we had a gain of $532 million pre-tax, and that was predominantly off of a minority stake in Anthropic. Look, to your more meta question, you know, we think about the federated approach that we took, look as deeply based on Anthropic. You know, Claude runs throughout our product set. We are on their customer advisory board.
+We look at roadmaps together with them as we do many other AI companies. I would say we have a great relationship with Anthropic, and it's been a great investment for us outside of that, and look forward to. It's deeply part of our federated approach.
+## Josh Behr | Software Analyst, Morgan Stanley
+Okay. Excellent. Let's dig into some of these product areas.
+## Michelle Cheng | CFO, Zoom
+All right.
+## Josh Behr | Software Analyst, Morgan Stanley
+Maybe first starting with Contact Center, where you have some very rapid growth. Recently, you know, Zoom CX in Gartner Magic Quadrant. At a high level, like, how would you characterize the demand environment today in that space? How are you scaling up market, or what needs to happen to, you know.
+## Michelle Cheng | CFO, Zoom
+Mm-hmm.
+## Josh Behr | Software Analyst, Morgan Stanley
+Move more upmarket in the coming years?
+## Michelle Cheng | CFO, Zoom
+Yeah, I mean, maybe I got into it earlier, so I'll reference it, which is just for any one of us that has called into a company to try and get a problem resolved, it's painful. Even with all the tech that exists and legacy players to date, you think about the 17 million agents out there, $200 billion worth of spend, and what is a really poor experience for most companies with the most important people in their business. Look, that's to me the broad opportunity. That's how we think about it. I think that's also how the opportunity is today, right?
+I think a lot of our customers come in and they're like, "Oh my gosh, how can AI and how can technology help me improve, get my costs down, or how can I get my CSAT up?" I think that's only a piece of where the story is going. I think increasingly what you'll see, and I think you see this a little bit in ZVA, and I'll break down our product here for a minute and explain what it is, where it actually becomes a really proactive, positive tool to be able to interact with your customers, to get better insights of them, to help delight them in other ways. All of a sudden, technology and AI enables you to take what was a very cost-intensive, problematic thing into potentially a very positive revenue-driving thing.
+We get excited when we hear our customers' early thinking and stories in this regard. We have two products, if helpful. I mentioned them earlier. One, we have a contact center traditional product, in that, an AI SKU that is assisting the agent with AI in resolving the customer's issues. That's Zoom Contact Center. We have Zoom Virtual Assistant, which is no agent in the picture, just a AI bot, if you will, talking alongside you and solving the customer's issue.
+## Josh Behr | Software Analyst, Morgan Stanley
+That's great. I think you laid out the opportunity really well, to disrupt this market.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+Why specifically does Zoom win when you think about either contact center with AI Assist or ZVA? Is it total cost of ownership? Is it integration with the broader Zoom platform? Like, what's driving those wins?
+## Michelle Cheng | CFO, Zoom
+Yeah. I'm gonna come back to those because I think they're secondary.
+## Josh Behr | Software Analyst, Morgan Stanley
+Sure.
+## Michelle Cheng | CFO, Zoom
+What I think we're seeing is the market transformation that I talked about, and why Zoom is winning is unlike a lot of the legacy players, the names that all of us know, they've got tech debt from a legacy base that they're trying to move forward versus Zoom sort of starting with a fresh position. I think that's what's driving us to be the fastest center into Magic Quadrant. Right? I think it really reflects itself in our revenue. If you look at our top 10 deals, 10 out of 10 are AI. If you look at the high double-digit revenue growth, even growing or inflecting in Q4, it is exactly that that's driving it. First sort of reason of why we win is clearly AI.
+I would say there's a bunch of things that I would group into what you talked about, like Zoom is trusted, it's secure, we have a fast pace of innovation, we have an open ecosystem and integration philosophy. All that sort of traditional Zoom ethos-y stuff that have us displacing, you know, large names that you all would think of. Of our top 10 largest deals, seven out of 10 are displacement. There maybe be a third kind of category that I would call out that we see as a pattern in our wins. That is this concept of... Remember earlier I talked about a system of action where there's work that sort of happens inside an organization and work that happens outside of an organization, and just how much those worlds are being blurred, and AI is taking conversations to completion.
+Where we see a lot of wins are people that come in with phone or meetings in their base, and then they have contact center for communications outside the organization. It turns out customers really just wanna solve problems. They don't tend to think about them as necessarily having to be two sets of products. This concept we call is sort of better together, where you can have technology that seamlessly goes out and solves the customer's problem, comes back and resolves it, and seamlessly goes back out again. We win. All of that a long-winded way of saying we win a lot with phone and contact center together.
+## Josh Behr | Software Analyst, Morgan Stanley
+Great answer. Maybe to follow up.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+on Zoom Phone, that has a nice mid-teens type of growth rate. Like, where are we in the maturity of that product? Is it more about upselling Zoom Contact Center into the Zoom Phone?
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+Are you still, you know, landing with Zoom Phone?
+## Michelle Cheng | CFO, Zoom
+You know, I think if you'd asked me that question last year this time, I would have said, "Well, the mental model we have is relative to the Zoom base, how penetrated are we?" I think two years ago, we gave the stat of 19% penetrated, and I would've felt good about that, right? Like, there's progress, and then there's opportunity on the upside. It's still true, but then you look at the AI value that our customers are turning on in phone, and that combination of Contact Center, where we actually now see a lot of new customers coming in in Contact Center and then wanting that single platform that I talked about, and they're pulling customers in reverse. All of that, a way of saying that mid-teens growth, that 10 million seats, you know, we still see runway ahead.
+## Josh Behr | Software Analyst, Morgan Stanley
+Excellent. One of the 4, sort of buckets of driving growth.
+## Michelle Cheng | CFO, Zoom
+Mm-hmm.
+## Josh Behr | Software Analyst, Morgan Stanley
+that you mentioned was the channel. I'm hoping we could expand on that a little bit. What is the channel's contribution to your enterprise growth? Yeah.
+## Michelle Cheng | CFO, Zoom
+If you think about those three priorities that I talked about, okay, it's about maintaining and growing the meeting space and the phone. You know, the channel is essential to phone, right? It's just how customers wanna interact with it, right? Essential to that piece. You go to new scenarios of AI, depending on how you define channel, also important there. You go to the scaling our customer experience or contact center, and channel is just essential for that. You know, that's why we've been building out this channel ecosystem to go with it. It's not gonna be enough just to have Zoom sellers directly selling at it. We've got to invest in a broad channel ecosystem because it's integral to the businesses that we're entering.
+It also gives us, frankly, great routes to market. We now have built out, you know, a notable channel ecosystem where companies are betting their business on us. You know, one of the stats we check is how many of them are new customers to Zoom, and are they able to upsell us on that, and we're really pleased so far with the progress that we had. Said another way, it's the majority of our both Phone and Contact Center deals.
+## Josh Behr | Software Analyst, Morgan Stanley
+Excellent. Wanna-
+## Michelle Cheng | CFO, Zoom
+Go ahead.
+## Josh Behr | Software Analyst, Morgan Stanley
+Wanna make sure we get into some numbers.
+## Michelle Cheng | CFO, Zoom
+All right.
+## Josh Behr | Software Analyst, Morgan Stanley
+given that you're CFO and I'm an analyst.
+## Michelle Cheng | CFO, Zoom
+Right.
+## Josh Behr | Software Analyst, Morgan Stanley
+We can come back to some other questions if we have time. Growth versus margins.
+## Michelle Cheng | CFO, Zoom
+Yep.
+## Josh Behr | Software Analyst, Morgan Stanley
+If growth can continue accelerating, call it high single digits, even low double digits.
+## Michelle Cheng | CFO, Zoom
+Mm-hmm.
+## Josh Behr | Software Analyst, Morgan Stanley
+What does that mean for operating margins and profitability? Right now, your operating margins that you're running out are trending well ahead of the, I think, 33%-36%...
+## Michelle Cheng | CFO, Zoom
+Yeah. Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+You know, prior long-term model. How should we think about growth versus margins?
+## Michelle Cheng | CFO, Zoom
+Yeah. great question. The way I traditionally answer this by saying, like, my focus as a CFO is on growth rate inflection. First and foremost, that's what I am about, and we're really pleased with the results that we have, right? Maybe where investors always want more, that's good, we'll keep going. Look, our first focus is on growth. You don't get the right to do that and not hold profitability in our ZIP code. We just guided to 27%. We guided to 40.5% operating margin.
+Look, to your point, dramatically better than sort of our long-term guidance had been more in the 33%-36%. Really what I would say is I've been, we'll at some point update the long range guidance, but we're not gonna tap into margins in that ZIP code until we see notably more growth inflection. That's just important to me as a CFO. The guidance that I've given investors even before this last earnings was you can expect to see something more like 27% until it is very clear to everyone why we would take margins into that kind of ZIP code.
+## Josh Behr | Software Analyst, Morgan Stanley
+Excellent.
+## Michelle Cheng | CFO, Zoom
+Okay.
+## Josh Behr | Software Analyst, Morgan Stanley
+Your Net Dollar Retention rate has been very stable around 98%. What needs to happen to drive that above 100%? What, you know, what is the takeaway as far as the path?
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+from here?
+## Michelle Cheng | CFO, Zoom
+Look, it's those same things that I talked about. It's continuing to diversify our product, it's growth and enterprise. We stabilized our online business and grew for the first time since FY22. It's about taking that into, you know, mid-growth-ish single-digit range. It's about continuing to focus on enterprise and the product diversification and AI. Those are gonna be the building blocks that frankly get us to revenue growth. I mean, we look at Net Dollar Expansion, but it's not how we run the company too. We run the company to growth rate inflection, because there are limitations to the metric.
+From that standpoint, you know, we feel great that we saw 130 basis points of revenue acceleration in these conditions, and out of the gate guided to an acceleration minus the piece that I talked about.
+## Josh Behr | Software Analyst, Morgan Stanley
+Excellent. Let's move to free cash flow.
+## Michelle Cheng | CFO, Zoom
+Mm-hmm.
+## Josh Behr | Software Analyst, Morgan Stanley
+which I think was $1.9 billion last fiscal year.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+Which was close to a 40% margin. This year's guidance, FY27, looks for 1.7 to 1.74. Can you help bridge the gap as far as.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+the year-over-year?
+## Michelle Cheng | CFO, Zoom
+Yeah. First, what I would say is we've used a consistent forecast methodology, so we'll let investors kind of factor in that element based on our history. There's 3 areas that I talked about that are taking the cash flow down. We wanted to give as much clarity as we could to investors in that. First and most material is last year in FY26, we had a low CapEx year. There's certain cycles of refresh post-pandemic when we refresh our database. This is not AI CapEx, this is, like, just core infrastructure CapEx. Low comparable, more normalized comparable, that's about $785. Look, again, in a world where we're holding best-in-class operating margins, I feel good about that kind of trade-off. It's more a cash flow dynamic.
+Second thing is we obviously have large cash balances, close to $8 billion, interest rates coming down, sort of an interest rate phenomenon as things come due. That's about $50 million. The third piece is we made a decision to move from less stock-based comp to more cash-based comp, accretive to GAAP margins, but has some headwinds in terms of cash flow. We're now through all of that. All of this, in terms of what I think may be the intuitive question from investors, they're like, "Well, what does this mean? Does this mean it's going down on a permanent state?" It means that it's a bit more of a comparable and temporal thing, such that cash flows should continue to grow more like what they have post this year.
+## Josh Behr | Software Analyst, Morgan Stanley
+Okay, great.
+## Michelle Cheng | CFO, Zoom
+Okay.
+## Josh Behr | Software Analyst, Morgan Stanley
+I'm gonna ask one more, and then we'll poll the audience.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+On M&A, you have a very healthy balance sheet.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+I think $8 billion in cash.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+How should we think about buybacks versus small M&A versus something more transformational? Yeah.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+the takeaway on M&A and maybe more broadly, capital allocation?
+## Michelle Cheng | CFO, Zoom
+Yeah. Let me start capital allocation, and I'll round this out at M&A at the end. Look, just as I said, growth is gonna be my number one priority. With that comes, you have to be excellent at capital allocation. I think this company has made a lot of progress in capital allocation. Meaning if I just take internal capital allocation, I think there's a lot that we've done to say, "These are our priorities. These are the building blocks for long-term revenue growth, and accordingly, we will invest in them, and we will reduce other things to drive it." More internal, but look, that's important stuff. That's what's underlying the conviction to a revenue growth and acceleration. The second thing, we've become more buyback in nature. For a while, we hadn't done those.
+When I first came in, I added $1 billion to it, and last quarter, I added another $1 billion, such that we've announced $3.7 billion of buyback and executed against $2.7 billion. The other thing I wanna make sure, 'cause there was so much there's always so much in the February earnings that people really got, is investors kept saying, "Well, give me, give me the frame. Tell me how to think about buybacks. How can I model it in going forward?" What we gave guidance is that in FY27 and beyond, we will do buybacks as a means to keep with offset dilution at a minimum. Then to your M&A question. Look, in these conditions, it's great to have a strong balance sheet, and it's also an advantage in being able to look at things, the right things.
+Like, I've been on the other side of many a poor M&A, broadly how we think about what we would look at, it's one of those three priorities. We're gonna be thoughtful and disciplined, of course. It's gonna be for growth accretion. It will not slow down the company and its growth rate. What we've said then is, okay, well, that sounds like a lot of words. What does that mean in terms of the size? Which is often what investors wanna know. What we've said is that will translate more to small to mediums in nature.
+## Josh Behr | Software Analyst, Morgan Stanley
+Great. Any questions?
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+I see one. The mic is on its way.
+## Speaker 3 | 
+A quick follow-up just on when you mentioned the right things. I mean, in broader software, everyone's wondering about you have maybe the old legacy version of SaaS software and then the transformations or transitions everyone's kinda going to. Like, when we think about M&A, I mean, do we need businesses that are maybe already on the transition side, or are we willing to even look at a business that is maybe a bit more regular, and we can actually make it go through that transition ourselves?
+## Michelle Cheng | CFO, Zoom
+In terms of what we're looking at for M&A, I don't think we're limiting it per se, but I would say it probably more veers pragmatically to the AI side, meaning, you know, people that have already found acceleration, talent. You know, for a whole host of reasons, I would say it veers more towards the AI front.
+## Speaker 3 | 
+A quick clarification.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Speaker 3 | 
+Just on the free cash flow end, like more to the temporal nature end of things. Like, how should we be thinking about the OIBDA cash impacts to that this year at all?
+## Michelle Cheng | CFO, Zoom
+The tax?
+## Speaker 3 | 
+On free cash flow, yeah, just the OIBDA cash impact.
+## Michelle Cheng | CFO, Zoom
+Yeah. What we said on the tax is that it'll be a tailwind to cash taxes, but a headwind, slight headwind to the effective tax rate, such that really no different than what we've said to investors. We did give clarity that the ETR will be somewhere in the 22%-23%.
+## Speaker 3 | 
+Thank you.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+All right. I'll hop back into my list.
+## Michelle Cheng | CFO, Zoom
+All right.
+## Josh Behr | Software Analyst, Morgan Stanley
+We talked through a lot of the, you know, really attractive growth rate products driving that enterprise acceleration. I do wanna ask one.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+Just given it is still a meaningful part of the business. You've talked about how online is a fundamentally different business today than it was.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+during the pandemic. Could you expand on that? Really how should we think about the growth profile-
+## Michelle Cheng | CFO, Zoom
+Mm-hmm.
+## Josh Behr | Software Analyst, Morgan Stanley
+in assessing the overall composition and mix of the company?
+## Michelle Cheng | CFO, Zoom
+Yeah. First maybe I'll just take advantage of our little time here to make sure everyone's sort of aware. Our online business is sub 40%, just shy of, like, 40% of Zoom's revenue. It went through, as you can imagine, some kinda turbulent times post, pandemic, where we went from, like, an 8% decline to last year, 25% flat to the first time we grew, which is a good moment in the year we just finished, and now we're guiding to slight growth. To your comment, what I look at when I say it's fundamentally a different business is over 75% of our customers in our online business have been with us for over 18 months. The rest, think of them as more monthly and cyclical in nature.
+It shows that you've got a sticky user base. I think, to your questions of, like, what are the building blocks of growth, obviously it sort of starts with a foundation that loves the product, that's in there using it all the time, that's been with you for a while, so it starts with that stable base. In terms of growth, I would say I'd bucket it into two pieces that are ultimately gonna drive growth for the online business. The first is by adding more value or product to the customer. Seems intuitive, but I think all too often people talk about it as a price increase, Zoom has done two rounds of price increase here, when really what it is us able to realize a price increase with really no impact to churn because we've built out a platform.
+With Zoom, you can get not only meetings, but chat and calendar and whiteboard and, you know, all these things that you know, enables tremendous value for our customer and vendor consolidations. Think of these as small businesses, solopreneurs, so that's a huge win for them without having to stitch together all the tech, et cetera, right? We added AI value. The combination of those are really allowing us to both retain that base, build off that stable base and be able to grow it. Look, we're not kinda stopping there. We're working to add new incremental product value. We acquired a company called Bonsai.
+Think of this as, like, project management, customer relationship management, really at that solopreneur, which tends to be a big part of Zoom's business, and something that maybe we haven't focused in on a lot. Look, we're continually kind of working on adding that product value. I'll give you an AI fun one, which is, you know, we talked about AI monetization as putting AI value in our core online SKUs. We also just announced, think of, like, a Granola compete and personal assistant that comes with you to all your Zoom Meetings and it takes notes for you. It just shows kind of how we're beginning to get more back into product value for the online customer. That's bucket number one and by far the most important.
+The second is just there's more that we can do, in working on our PLG motions, our buy flows, our customer journey. Look, that's more on the execution element, but something that we're focused on.
+## Josh Behr | Software Analyst, Morgan Stanley
+Perfect.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+Michelle, we are over time.
+## Michelle Cheng | CFO, Zoom
+All right.
+## Josh Behr | Software Analyst, Morgan Stanley
+Really appreciate-
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+, the conversation.
+## Michelle Cheng | CFO, Zoom
+Yeah.
+## Josh Behr | Software Analyst, Morgan Stanley
+Thanks for coming.
+## Michelle Cheng | CFO, Zoom
+Thank you. Thanks for having me.
+## Josh Behr | Software Analyst, Morgan Stanley
+Thank you.
+## Michelle Cheng | CFO, Zoom
+Have a good one.
+Data Source: Quartr Last updated: Mar 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

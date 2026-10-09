@@ -1,0 +1,7 @@
+Company: Goldman Sachs
+ROIC Symbol: GS
+ROIC Name: The Goldman Sachs Group, Inc.
+Year: 2007
+Quarter: 2
+Date: 2007-06-14 11:00:00
+Executives

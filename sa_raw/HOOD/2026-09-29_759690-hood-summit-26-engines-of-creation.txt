@@ -1,0 +1,676 @@
+TITLE: HOOD Summit '26 Engines of Creation
+DATE: 2026-09-29
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Splendid. Let's greet our passengers. Welcome aboard the Starship Robinhood. For many of you, this is not your first voyage with us, is it? We began our mission over 13 years ago. Who's been traveling with us for more than five of those years? Okay. Who here is at their first HOOD Summit? Okay. A lot of trainees. Well, this is going to be a very exciting one. First things first, let me tell you a little bit about the ship. Our engineers have been busy making a lot of improvements.
+I'm going to start by reviewing those before we get to tonight's big announcements, and they are big. Why don't we begin with our 24-hour market? Which, of course, we're very proud of. We built it to be the best in the galaxy, as well as one of the first with 24/5 operations from 8:00 P.M. Sunday to 8:00 P.M. Friday, Eastern Time. We asked ourselves, "Can we do even better than 24/5?" Eleanor, what do you think?
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+I think we can, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+All right, let's see it.
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+Let's take a look at the screen. What do all these headlines have in common? For one thing, they all move the market, but more importantly, every one of these stories broke on the weekend when the market was closed and no one could trade. By the time Monday's open came around, it was already too late, and the move already had happened. Whatever edge existed reactive first was gone, and no one could place an order. We've been working for several years fighting the fight. We're working with exchanges and commissions to fix this, and I'm excited to announce that the battle is over. The rails are laid, and something never before available in the U.S. is on its way. Coming soon, our 24/5 stock market will be upgraded to a 24/7 groundbreaking market.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Pretty good.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Pretty big.
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+Pretty good, right? Yes, weekend trading for native equities is here. This is a historical shift from working hours to living hours. How many of you have wanted to trade on a Saturday or a Sunday?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Wow.
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+A lot of people.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Saturday especially.
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+Saturday, right? Because we want to give you access first. You should be able to trade the stocks you want when you want.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Ever since my younger days as a cadet at the academy, I've dreamed of equity markets going truly 24/7, and I'm proud that the Starship Robinhood is the first one to make this dream a reality. Well done, Eleanor.
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+Thank you, Captain. You know we didn't stop there. We know some of our passengers are early risers and would like to have more breakfast options. So for the morning people out there who like to read the news and look for the market signals before the bell, we've also been working hard to get you to the table before everyone else. So we're also announcing extended options trading for our most traded symbols, including Nvidia, Tesla, SPY, and QQQ.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+That's a good one.
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+Starting next month, trading will start at 7:30 A.M. and end at 4:15 P.M. That's a 35% increase in our options hours previously available. Captain, what do you think about that?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+More than 1/3 increase in your options trading hours. Just one more reason why you'd be at a disadvantage trading anywhere other than Robinhood.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I wouldn't want to trade anywhere else.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+That's our goal. All right, let's move on to operations. Daniella, what's your update?
+## Daniella Corricelli | Senior Manager of Product Management, Robinhood Markets
+Well, Captain, take a look at the view screen. You'll see that while our passengers love the trade controls that we offer, they feel one order type is still missing. So I'd like to announce, well, you can probably guess, we are finally launching OCOs.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Strong order type.
+## Daniella Corricelli | Senior Manager of Product Management, Robinhood Markets
+That is not the best part. We want to make up for lost time, so we designed what we believe is the best OCO experience available. Let us make this real for the day traders out there. Here is my position. I bought Tesla earlier off of a breakout, and it is up about 2%. If it stalls here, I do not want to hold it through a pullback, but I also do not want to babysit the position all day. Instead, I can set my exit plan and get on with my day. I tap Set TP/SL, and on the editor, I can drag up the profit bar to my target, and on the other side, I will set this a bit more precisely to 5% to set my stop loss.
+So I am protected even if I am not looking. Then tap Continue to see one review screen with both orders and one swipe. My OCO is live, and I can let the trade play out with my rules in place. If it pops, I take profit. If it drops, I am covered. Either way, I am not glued to the screen.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Very clean.
+## Daniella Corricelli | Senior Manager of Product Management, Robinhood Markets
+OCOs will be rolling out to equities across Mobile and Legend, including the latter and our mobile advanced charts with options OCOs coming early next year.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Thank you, Daniella. Your diligence and hard work on this mission is noticed and appreciated.
+## Daniella Corricelli | Senior Manager of Product Management, Robinhood Markets
+Actually, that's not all I have for you, Captain. Currently, we offer up to 2 x buying power with margin, but what's been missing until now is intraday margin. During market hours, you'll get up to 4 x your buying power. We built intraday margin
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Good one. Capital efficiency.
+## Daniella Corricelli | Senior Manager of Product Management, Robinhood Markets
+We built intraday margin with risk safeguards at its core. To help you manage your leverage, you'll get a dedicated risk management experience, including proactive reminders leading up to market close and clear in-app controls the moment you tap into intraday margin.
+We'll be rolling this out next month.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+More buying power means more responsibility to help customers manage their risk. I like that you've built in the safeguards right into the product. Love it. Okay, who hasn't checked in yet? Gina, how we doing on Legend?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Well, Captain, we've been hard at work continuing to improve Legend, the experience for our most active traders, including an upcoming launch of P&L layouts, which will give users the ability to evaluate their past trading strategies in much greater detail. Most excitingly, agentic trading is coming to Legend.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+That's a strong navigator.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+With agentic accounts on Legend, you will get access to all the same data sets and features as our trading MCP that is available for mobile. Plus, there will be a few more options specifically for our Legend users that we will be rolling out in the coming weeks. Starting with customizing your Legend workspace by chatting directly with your agent, creating the layout that works best to manage your specific strategies, all within seconds. From there, you can move on to the next step of your workflow, like leveraging your agent to do in-depth technical analysis on your chart. Ask your agent to help uncover patterns with custom drawings, and then you will be able to see that update in your chart in real time.
+Finally, you can leverage your agent to create scans for stocks that meet your specific criteria, as well as custom scripts indicators, all that you can view directly on your chart. Starting today, all users will have access to their agentic accounts on Legend. What that means, with 24/7 coming, soon you will have markets that don't sleep alongside agents also working around the clock for you. To get started, all you have to do is connect your favorite model to our trading MCP. But in the vast reaches of space and time, we know there are an infinite number of devices used for trading. Let's move on from the MCP to Abhishek to share a very exciting update coming to the core Robinhood app.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Tough act to follow.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Tough one. Thanks, Gina. I am looking forward to using this for my Legend setup. One other thing I am looking forward to is the iPhone Duo. I think pre-orders start in a few weeks. For those of you in the audience, how many of you are planning to buy one? That is actually a surprising amount of you. I thought much fewer hands were going to be raised. Some people might have thought Apple made these phones for watching movies, games, or email. But when I saw the phone for the first time, I only thought of one thing. Can you guess what that was?
+## Speaker 6 | 
+Trading.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Trading.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Trading. More screen space means more windows, better analysis, and faster execution. We redesigned and re-engineered Robinhood's mobile interface with dual display built for the foldable phone. Let's take a look. Here, you'll see a Robinhood on the phone as you normally would. Not that many surprises. Unfold your phone, and you'll have access to a whole new Robinhood experience, custom designed for the iPhone Duo. With dual display, you can do four things. On the left side, you can navigate the app as you know and love, your accounts, your watchlist, search, and more. You can view assets on the right display by tapping any asset so you can easily switch between them without ever having to leave where you are in the app.
+Third, you can switch modes on any assets between the details, the ladder, the options chain, and advanced charts. You can switch between the modes without having to switch assets. My favorite part, you can use the whole screen. You can go full screen on specific modes like advanced charts, side-by-side options chain, and watchlist. You might ask when this launches. Robinhood Dual Display launches for the iPhone Duo on October 23rd. That's the same day the device ships from Apple. How many of you are planning to get one?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+It looks really good.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I think Apple's going to thank us for that one. Of course, we didn't just stop at the iPhone Duo. With Robinhood Dual Display, we were able to do a few more things that were very overdue. On the same day, Dual Display will launch for Android foldables like the Galaxy Z, Pixel Fold. Also, I think you guys will like this, Robinhood will be launching natively for Android tablets and the iPad.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Love it.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+You've been using it on your iPad, right?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+It's a great device when I'm relaxing in my Captain's quarters.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Robinhood is optimized for all screens.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Well done. Okay, who else is left? Tommy, I bet you have some good stuff for us, don't you? What do you got?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Sorry, Captain. I hate to interrupt. There seems to be a large object coming towards us. It's continuing to approach us, and it's unlike anything I've seen before.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+On screen. Increase magnification factor 50. Ooh. It appears to be a ship of some sort. Number one, I haven't come across anything quite like this in my 13 years in this industry.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+You don't remember it from your days in the academy?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+My academy training hasn't prepared me for anything like this. Gina, let's hail them.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+No response, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+No response? The architecture of this ship is so interesting, too. Look at all that circuitry. Why don't we have Cortex run a scan through the historical archives, see if we can identify the origins of this vessel.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+On it.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+This is exceedingly bizarre.
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+Captain, there's something interfering with our communication lines.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+What is it, Anna?
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+Our passengers are getting spammed with fake trades.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Wow. It must be our new friends.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Captain, it's getting worse. They're sending fake screenshots and trying to get our traders to join their VIP signal group.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+On Discord?
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+No, sir. Telegram.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Oh, no. Can we ensure only verified packets are getting through, Anna?
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+I can do better than that, Captain. We've been testing a new symbol that will get us only real trades through.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Can we switch it on immediately? What are we waiting for?
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+On it, Captain.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+We need to hurry before we have a copy trading situation on our hands.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Agreed, Number One.
+## Andrew Burks | Senior Director of Engineering and Trading Products, Robinhood Markets
+We have a copy trading situation on our hands. I need support in the engine room. I can't hold off these bots much longer.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Right away, Burks. Assistance is on the way. Abhishek, head over to the engine room.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Yes, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Abhishek, please hurry. Anna, how soon can you activate Robinhood Social?
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+I am activating it now. In moments, Robinhood Social will be available for everyone, our passengers and those across the galaxy.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Perfect. Hopefully, this will block the unverified trades. How are the communication lines looking now?
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+They're recovering.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Okay. Good. Proceed.
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+So now, Robinhood Social is out of beta and officially launched. For most of you- Some of you had early access, but for most of you, this is going to be new. Open up Robinhood. You'll see a new tab in the bottom corner of your screen. Just tap and sign up. You can post or not, but you'll probably want to see the trade ideas out there. I know that this is the ultimate platform because all the trades are real, and that's been so helpful to our users that we've expanded that. That means anytime someone posts their P&L, those are real.
+Portfolio allocations will tell you what people are really investing in, and we're adding position posts and long-term analysis. Imagine a Substack with verified components. But of course, the most important part of any platform is all of you, the traders like you who share their ideas and wins. We're adding market commentators with millions of followers elsewhere. They're verified, of course. We're adding feeds from major companies, politicians, CEOs, and news. You can curate a timeline that is all signal, and now the communication lines are safe.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Well, not quite.
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+What do you mean?
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+We still have one more communication line we need to upgrade.
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+Ah, the advanced one.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Exactly.
+## Anna Tork | Senior Manager of Product Management, Robinhood Markets
+I'll switch that on from the comms bay.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Well done, Anna.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Go ahead. I'll tell them how it works in the meantime. We're bringing the same verified network Anna just showed you directly to Legend, making Legend the only pro trading platform with verified social signals built right into your workflow. Let me show you. I've got my Legend layout set up with all of the widgets I would normally use, my chart, my chain, and my snapshot widget. Before I take a trade, I want to add one more thing. I'll grab the new social widget from the menu and drop it into my layout, where immediately it's synced up with all the other widgets in my setup. If you've used Social on mobile before, this will probably look pretty familiar to you. It's got the same verified traders, charts that I would see on mobile.
+Naturally, this is Legend, so we wanted to let you take it one step further. If I find a post with an idea I like, I can actually click into it. Now you'll see a highlighted trade card on the post. If I click this, I can broadcast this into my chart with a single click. The green bars show me where they bought, the red bars show me where they sold, so I can tell if they've exited or are still bullish on the symbol. Now, if I drill in, I can see the individual entries that'll show me exactly the quantity and the price they paid. Now, this is my favorite part, and I like this thesis, so just with a single trade, I can be in right alongside them. Now that's the power of bringing social to Legend. If I have an i-
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Well done. I love it. All right. Let's reach out to Abhishek. Abhishek, the communication lines appear to have fully recovered. How are things looking in the engine room?
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I am here with Burks in the engine room, but now we are dealing with a bit of a situation here.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Oh, no.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+They now appear to be wash trading millions of mention markets in an attempt to distract our equities traders.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+It's getting worse and worse.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Now, perhaps they're our enemies, and they're not our friends. Maybe they are our friends. I bet they love Bitcoin, Wrapped Ether, Robinhood Chain, tokenization, G TA VI, Rizzler. What is happening? What is this?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+What is happening? Ensign, secure the teleprompters.
+## Speaker 10 | 
+On it.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+They've been hacked.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+I'm so sorry, Captain. I should've realized sooner. I think they're trying to manipulate their own mention markets.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Can we block the mention markets?
+## Speaker 10 | 
+I'll do my best.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Captain, I am calling the ship Oracle. He is the only one with the predictive knowledge to really handle this situation.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Good idea, Gina. I just hope he gets here soon enough.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Me too.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Earnings season is coming up, and I bet they will likely be pitching mention markets as a proxy for trading company releases. We have to hurry.
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+Greetings, fellow crew members. I see there's some panic afoot. I've been studying the stars, and I've come to share an important observation. Neptune is in retrograde.
+What that tells us is that sometimes the best way to solve a problem is indirectly, rather than by brute force action.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Interesting. Sometimes I prefer brute force action.
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+I know that.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Where are you going with this? We're in the middle of an attack.
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+Well, we need to give our passengers a better and compelling solution so they can resist the mention markets. I wanted to present something that I've been working on. As we all know, stock prices and earnings are not directly correlated. Earnings can go up while the stock still goes down, and this can be very frustrating for all investors. The solution I want to show you will give our passengers the ability to invest in earnings directly.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+I'm sure you've got something good for us.
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+Let me show you how it works. I'll start with our home screen. I'm sure many of you have already used our prediction markets. There have been over 50 billion contracts actually traded already, so we decided to make them easier to find directly from our home screen with the new Predict tab. Once you tap on it, you'll see our all-new prediction hub with a brand-new category, something not previously available on any other major platform, and that's the ability to trade earnings directly without another vehicle. Here's our earnings category. Let's see what earnings calls are coming up. There's Netflix, Alphabet, Tesla, and a lot of other familiar names. Let's dive into one of these. Any favorites?
+## Speaker 6 | 
+Apple. Tesla.
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+Apple sounds good. Let's take a look at our Apple earnings contracts. We've got revenue and earnings per share, but since Abhishek demoed the iPhone Duo earlier, let's take a look at the iPhone sales for this quarter. As I saw earlier, I'm sure some of you may have a strong opinion on how the new lineup will do. From here, you can make your decision, swipe up, and place your trade. It's that easy. You can now trade a company's earnings with binary KPI options.
+Of course, you'll be able to trade these contracts for over 20 of our most popular symbols across over hundreds of different events. So now when you have a strong opinion about earnings, but due to macro events and stock price goes against you can still trade your point of view directly with earnings predictions on Robinhood. We're working to ship these in the next few weeks in time for Q3 earnings.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+In time for Q3 earnings. Love it.
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+Just in time.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Oracle, this is exactly the missing link that we've needed between our equities and prediction markets, but-
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+Let me guess, it's not enough? We still need more?
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Correct. Fortunately, I've been working on something for the earnings experience our passengers are going to absolutely love. Earnings season is undoubtedly the most exciting time of the year to be an investor, but you've probably experienced how frustrating it can be to try and listen and trade what is often market-moving news at the same time. Today, that means bouncing between a few different apps. One to listen, another to see how investors are reacting, and a third just to execute your trades. We started thinking, "Why can't earnings feel like a more immersive, connected experience? What if you could do all three of those things? Listen, see how the markets are reacting, and trade that news all in one place." Well, luckily, that's exactly what we've built with our brand-new earnings call player. Let me show you.
+When a company has an earnings call, you will see it right at the top of the stock detail page. Just tap the card to open up the beautiful full-screen player that has a nice full-screen transcript that follows along as you listen to the call. However, if reading is more your style, we have got something for you. Just tap the Read button to open up a more detailed version of the transcript, which includes speaker attribution. Now, I can tap anywhere on the transcript to be jumped to that point in the call exactly. We made it really easy to move around the call as well.
+If what they are talking about is not relevant to your strategy or your thesis, just use the scrubber to jump ahead to a different section. If you miss something super important, just double-tap the edges of the screen and jump back in smaller increments. Feeling impatient? Hold, swipe down to lock the player into 2x speed so you can get all the information in half the time. We also wanted earnings to feel like an interactive experience. So we built a few more features right into the player. First, we have implemented a live comment feed. Just tap the chat button and you will be able to share your own opinions, as well as see how other listeners who are live on the call are reacting in real time.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Nice.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Second, because the player is built right into the Robinhood app, if I hear something on the call that changes my view of the company, I can simply tap the Trade button, where I can buy or sell shares without ever having to leave the player. Now, I know earnings season can get quite busy, so if you do not want to sit on the call the entire time, you actually do not have to. Just swipe down on the player to move it to picture-in-picture mode, which will allow you to continue moving throughout the app, researching and trading just as you would normally.
+So whether you want to watch, listen, trade the news, or just find the moments that matter the most to you, the best way to experience earnings calls is happening right here in the Robinhood app. This will start rolling out this upcoming earnings season, and yeah, you can even watch our calls there. So come say hi.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Well done. Just these little quality of life improvements make earnings on Robinhood much more delightful. Welcome back, number one. Looks like a successful launch. The mention market attack seems to be slowing down. Our traders are holding out for the real thing, earnings markets.
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+I'm glad Tommy and I could help with that.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Mentions are too easy to manipulate, and we like to keep our passengers safe, don't we? Thank you for everything, Oracle. You've really helped us get out of this quagmire. You can now return to your work on the Alcubierre Drive.
+## Brad Nave | Senior Director of Execution Services, Robinhood Markets
+Namaste.
+## Tommy Treadway | Senior Design Manager, Robinhood Markets
+Hey, Captain, do you think the attacks are really over?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I don't think they're giving up that easily, Tommy.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Captain?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Yes, Gina?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+We have a report from Cortex. It's on the enemy ship. It appears to be a Vrax mothership.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+A Vrax mothership. I remember reading about the Vrax in my course on ancient space-faring civilizations back at the academy. A very greedy group. What else do we know about them?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Well, you see, Captain, the Vrax weren't always like that. In the beginning, they were just a small fringe movement, preaching decentralization and sovereignty, but their message caught on. Eventually, they spread throughout all seven planets in the Trappist-1 star system, and they became very powerful.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Ah, and we always know what happens to beings when they have too much power.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Exactly, Captain. The same power soon corrupted them. They began looking for ways to close and control markets. During the Great Wealth Transfer, they started restricting economic freedoms, attacking independent trading ships. They were seizing assets. They became the very evil that they once spoke against, and now they rule over a system where a small number of elites benefit, but the planets that are under their economic control, they don't.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Our very presence and existence in their system is a threat. Their citizens would likely rebel if they knew open markets were available elsewhere.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+That is precisely correct, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+A civilization like this cannot be allowed to gain a foothold in Zeta Reticuli.
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+Captain, we're being hailed.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+We're being hailed?
+## Eleanor Trinh | Senior Manager of Design, Robinhood Markets
+We're being hailed.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+On screen. You're muted. He's a good-looking guy, though.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I think you're still muted.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Uh-
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+The zoom never works on these things.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Yeah. Hello there.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Come on.
+## Speaker 12 | 
+I'm not muted. I was speaking at frequencies not audible to the human ear.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I don't think so.
+## Speaker 12 | 
+Your small brains cannot begin to comprehend the intellectual horsepower of the Vrax. We have let this democratization joke go on for far too long. Today, it ends. Surrender or prepare for a hostile takeover.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+One thing I don't understand is why are they always bald?
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+They're always so violent.
+## Speaker 12 | 
+I can hear you know. You know, I pity you with your social networking and your OCOs. You know what we call OCOs on our planet? What do we call them again? Ah, yes. Overly confused organisms. That is what we call them.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Good one.
+## Speaker 12 | 
+Because we only place one order, and it is always the perfect order. While you have been busy fending off our market attacks, we have been preparing our photon missiles. Observe as they penetrate your meager defenses.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I think he is serious. Shields up. Red alert.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Shields are up, Captain, but I am not sure how long we can withstand.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Gina, they are hitting us hard. It may be time to fire up Helios and escape this sector. Bring up the engine room again, Tommy. Burks, we might need Helios faster than we anticipated. Is it ready?
+## Andrew Burks | Senior Director of Engineering and Trading Products, Robinhood Markets
+It is more than ready. Shall I switch it on, Captain?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Daniella, set course for Sag A*. Burks, shall we try warp 9?
+## Andrew Burks | Senior Director of Engineering and Trading Products, Robinhood Markets
+Warp 9, on your command.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Make it so. Wow, Burks, the performance of Helios is astounding. We've completely left the Vrax behind. Tell us more about this new engine.
+## Andrew Burks | Senior Director of Engineering and Trading Products, Robinhood Markets
+With pleasure, Captain. As you know, our job in engineering is to get our passengers to their destination as fast as possible, safely. Seconds matter in the markets. That's why we've spent this past year rebuilding the engine that powers the most time-sensitive parts of your journey. We call this new engine Helios, and it has several major upgrades. First, Smart Render on Legend ensures widgets update only what changed and optimizes when data is refreshed, prioritizing what's visible on screen. Instant Recall means Legend automatically remembers the answers to complex calculations, so the app never has to do the same work twice. Here's what it looks like in action.
+On the left is Legend before Helios. On the right is with Helios. Notice the smooth, fast interactions. These enhancements work together to lower lag on Legend by a staggering amount to match your pace. From there, we brought predictive navigation to the Robinhood mobile apps. We now predict the next screen you are going to navigate to and get its data ahead of time. When you are looking at your watchlists, we get all the details for your positions. Same for your search results. When you are looking at the options chain, we get the data for nearby expirations. This means you are waiting almost a third less time while using the app. We wanted to see if we could go even faster.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Love it.
+## Andrew Burks | Senior Director of Engineering and Trading Products, Robinhood Markets
+Accelerated Launch cuts the time for you to open the app or heavyweight features, like mobile advanced charts, in half. Then, we rewrote the back end in record time with AI agents to enable swarm processing, so actions across the app are significantly faster, including getting your positions and updating your account. Last, our services now leverage I/O optimized storage for lightning fast operations. Take a look at what this means for you. On the left of the screen, you have the app from January, before Helios.
+On the right, you have the latest version that includes Helios. Notice how you teleport across the app so you can get the latest information and make decisions faster than ever before. Just look at it zooming around the galaxy, Captain. With Helios, there is less waiting and more doing. We have been shipping these features to you throughout the year, and we are just getting started. Expect even faster performance from us in the future. Does that cover it, Captain?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I think it more than covers it. I love it. Even all these little improvements in performance very much matter. How are our friends doing?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Well, that was incredibly impressive, and we are now 42 parsecs away, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+42 parsecs away. Let's bring up the view screen again.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+41, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+41? Well, that's a little disconcerting. They're getting closer. 38 parsecs.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+You can't keep running from the Vrax. They will always find you.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Radio security, we have an intruder on board. Who are you and why are you here?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+My name is Q.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+From the Q Continuum?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+No. I'm an entity from a world beyond your comprehension.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+What brings you here?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+I have been following your progress for many years, and I want to join your crew. I can also help you defeat the Vrax.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+What do you know of the Vrax?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+The Vrax are relentless. I know a lot about them. They will never stop attacking your trading systems. If you do not increase your product velocity, and I mean quickly, you will be liquidated permanently.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+That doesn't sound good at all.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I don't even get it. We're not even levered.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Oh, I can fix that. I brought something otherworldly for your many customers.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Captain, 24 parsecs.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+24 parsecs.
+## Grace Qi | Senior Group Product Manager, Robinhood
+Hey, I think we have an intruder.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Yes, I'm an entity.
+## Grace Qi | Senior Group Product Manager, Robinhood
+From a world beyond our comprehension. I think we've met before. At a futures launch?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Of course. Then you know my only interest is in joining your team and spreading the best trading products throughout the universe. Are you prepared to receive a transmission? I have a QR code.
+## Grace Qi | Senior Group Product Manager, Robinhood
+You're still using that tech?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Who do you think invented it? It used to be called a Q code.
+## Grace Qi | Senior Group Product Manager, Robinhood
+Right. Okay. It's validated. We're good to go.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Great. Since Grace and I were here two years ago launching traditional futures, how many of you were in attendance two years ago when we did that? Thank you. There has been an explosion of a new class of futures called perps. How many of you have heard of those or even traded those? Well, they have become really popular, and I have worked very hard to get these to you, traveling through several regulatory dimensions so that Robinhood could be the first U.S. brokerage to offer true perps with the shortest settlement window in the industry.
+If you have been wanting to trade this product but frustrated by the limitations elsewhere, now is your time. For those of you who have not heard of perps, let me give you a quick download on how they work and why they are so popular. First, and most importantly, as is implied in the name, they are perpetual, so they never expire. They are much like a Twinkie. There is no more perfect instrument to have eternal exposure or a hedge to an asset. Secondly, in TradFi, as many of you know who use futures, it can be costly to continue to roll, and you have exposure to delivery risk, settlement risk. So you could end up with 1,000 bbl of oil or a rail car full of live hogs.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Has that ever happened to you?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+That does sound fun.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+No, but I have had a soybean incident, but I like mayonnaise, so it worked out. Third, I think one of the things that's really cool is they trade continuously on nights, weekends, holidays, long or short, and you always know the reference price, which is really important. Finally, as Grace and I will demonstrate, they not only provide leverage, but you can customize that leverage all the way up to 10:1 . So they're extremely capital efficient, and they are sourced through a very deep liquidity pool. So Grace, have you accessed that data I sent?
+## Grace Qi | Senior Group Product Manager, Robinhood
+I got it right here.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Great. Let's pull it up and show them how these work.
+## Grace Qi | Senior Group Product Manager, Robinhood
+Awesome. I'm really excited to go through this. This will actually make Robinhood the first major platform to offer six asset classes: stocks, options, crypto, futures, prediction markets, and now perpetuals.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+True perps.
+## Grace Qi | Senior Group Product Manager, Robinhood
+True perps. Now, let's see how they work together. Q, you may already be aware, Bitcoin has been the number one recurring investment on Robinhood for many years now.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+I do know that, Grace. I have infinite wisdom, and I know exactly what price you all bought it at. I know you have some capital to preserve. Now you have sizable gains to protect. How do we do that?
+## Grace Qi | Senior Group Product Manager, Robinhood
+Well, since you have infinite wisdom, maybe can you tell me and the audience what you think the price of Bitcoin is going to be at the end of the year?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+I can tell you, I know that, but my parameters don't permit it.
+## Grace Qi | Senior Group Product Manager, Robinhood
+Okay. All right.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Neither does my legal team.
+## Grace Qi | Senior Group Product Manager, Robinhood
+That's what he always says. I've been sitting here on some Bitcoin, and I've been very nervous about the market volatility recently, and I also want to avoid a taxable event.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Well, now you can use perps to very efficiently hedge that.
+## Grace Qi | Senior Group Product Manager, Robinhood
+All right. Let's take that for a spin. I can go to Bitcoin perps, and I'm going to go ahead and hedge my risk. Let me put in $10, and I could adjust my leverage all the way up to 10x. And you can see that controls almost a $100 short position.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Very capital efficient.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+These are the most capital efficient crypto perps you're going to find here in the U.S.
+## Grace Qi | Senior Group Product Manager, Robinhood
+You are absolutely right. And perps is actually built with risk management in mind. You will see I can see my liquidation price here front and center, and if I wanted to, I can very easily add a stop loss as well.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Yeah, I think what makes these very unique is even when the trade is already on, you can configure it. So if I want to add more collateral to add protection while the trade is already on, I am able to do that, which is very unique.
+## Grace Qi | Senior Group Product Manager, Robinhood
+Q, can you tell us how many perps are going to be available?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Well, we are going to start with a lucky eight on the crypto space, but there will be more to come.
+## Grace Qi | Senior Group Product Manager, Robinhood
+What about fees?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+How does one basis point per trade until the end of the year sound?
+## Grace Qi | Senior Group Product Manager, Robinhood
+That sounds very, very competitive. Captain, what do you think? Can we work with that?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I think we like it. We've had these in Europe and on chain for a while. It's great to have them for our U.S. customers in America. Well done.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Thanks.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Grace, when can we go live with these? That's the big question.
+## Grace Qi | Senior Group Product Manager, Robinhood
+I think I can get them for the live audience ready right now.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Right now?
+## Grace Qi | Senior Group Product Manager, Robinhood
+For everyone else, perps will be coming out in the next few months.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+All right. Thanks, Grace.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+They may be trading them already.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I love it.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Excuse me, Captain. I just have to let you know, eight parsecs away.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Eight parsecs? Now what is your proposal for defeating the Vrax? While you've been launching perps, which have been very cool, they're closer, and they're no doubt preparing another attack.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+I told you, they're relentless.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I'm more afraid of seeing that pompous ogre of a man on my view screen again.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Thought he was quite charming, actually.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I don't know about that.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+His physical appearance was not what was holding him back.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+You know what we need to do here, right? We have to beam onto that ship.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I was afraid you were going to say that.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+They're hailing us again, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+On screen.
+## Speaker 12 | 
+"Don't you dare attempt to board our ship. The conditions are much too inhospitable for life forms such as yourselves."
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Is it just me or does he seem a little nervous, Q?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+He's very defensive.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Vrax commander, this is your last warning.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Actually, it was his first warning.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+First and last. Leave the Zeta Reticuli system for good, or prepare to feel the full fury of our product velocity. Oh, that spooked him, huh?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+We better beam over there and see what he's hiding.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+All right. Let's head to the transporter room. Abhishek, the bridge is yours.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Please be safe, Captain. It's very scary out there.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Stay safe.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Thank you.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Hey, Abhishek. Should we blast the ship?
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+We can't just blast the ship. Vlad's on board.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Abhishek, this could be our only chance to get promoted.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+That would've.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I heard that. Very funny, guys. Q and I have made it aboard the Vrax ship. There are no life forms here. It appears to be a remote first ship with the Vraks all working from disparate home planets. Bizarre, isn't it?
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+That explains their slow reaction times. Do you think they're crewing multiple ships at the same time?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Yes, we believe so, and a large portion of their staff are serving in middle management and coordinator functions.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+That must be why their ship is so big. It's all bloat.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+We've developed a plan. Q is pulling the schematic for the Vrax ship. We believe we can sever the link with the remote workers. Meanwhile, can you come up with a way to neutralize the ship? And this time without me on it.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Copy that. We'll get to work.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Captain, I was just testing Abhishek.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Sure. Sure you were.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+How about we deploy our upgraded AI agents onto the Vrax ship? They're adept at operating in a sandbox environment.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Yeah, that would be a great test of the new system.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Perfect. Let's do it. In May of this year, we launched Agentic Trading to enable traders like you to connect your Robinhood accounts to your agents. Since then, over 150,000 of you have opened agentic accounts, and now agents use Robinhood's tools over 30 million times a day. How many of you here have used it? Okay, so about a quarter of you. That sounds about right. It is complicated. We do not really like it either. It is complicated. It requires using multiple devices and apps, and oftentimes the connections between these different apps are slow and brittle. Fortunately for you all, this was just phase one of our vision. The next step was making it possible for all of you to use it directly from your Robinhood account without any other devices, apps, or windows.
+We have built a single product, a single interface, that puts the power of a hedge fund inside the Robinhood app with frontier AI models, high-grade institutional data, and automated strategy execution 24/7, and it is called Robinhood Agents. How many of you are excited about this? The team was very nervous about doing a live demo, but we are going to do it live anyways, and we will see if it works. Instead of telling you about it, we are going to show you the full power of what it can do. Let us say we wanted to build a trading strategy which did three things. First, it got technology stocks traded by congressmen and stocks trending on social media, and we used that as signal. Then we wanted to filter those stocks for technical momentum, like unusual bullish options volume or a golden crossover.
+Then we wanted to buy one share of each of these stocks, and then we wanted to do it on repeat every single day. Let us see how we would do this with Robinhood Agents. First, I need to create my agent. I can go to our new Robinhood Agents page where I can create it in less than 60 seconds. I will go to Add Account, hit Agentic, and here is the onboarding flow. I will aim my agent. Neptune is in retrograde, so we will go with Neptune, and then it will ask me to sign a few agreements. I will sign my agreements, and then it is going to bring my agent online with its own dedicated account. Then I am going to set up a few settings. So it asks me about trade approvals.
+Trade approvals are on by default, so my agent cannot trade without my explicit permission unless I turn it off. Second, we wanted to give you the ability to use the frontier AI models available. You can pick between GPT-6 Luna, GPT-6 Sol, or other models. The team just upgraded the models last week, so we're living on the frontier here. This part is absolutely gorgeous. Just watch. Our design team cooked. Tommy over there cooked. When Neptune is online, I can start using it. Let's switch over to an account that I've been using for a little while with some money in it. Like other accounts, it looks kind of familiar. I can see my performance, but a few things are different.
+I can see my agent's activity log first and foremost, and then I can see my positions. Then I can ask my agent anything through the chat box. Let's have it do the strategy we were just talking about. The best part is that the agent will ask you questions when it's not sure what to do. Because this is a pretty complex strategy, while Neptune cooks, you might be wondering how it's getting accurate access of congressional data, social media data, and unusual options data, because that's data that brokerages usually don't offer. One of the things we sweated over was making sure your agent has access to high-quality, institutional-grade data to analyze and trade with. To tell you how we did this, I'll hand it off to our ace pilot, Gina.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Thank you, Abhishek. We studied closely what hedge funds are doing, and one clear advantage they have is access to unique institutional-grade data. They also have teams of humans to understand that data and inform their trading strategy. Just to name a few examples, they acquire satellite data to understand weather patterns and to spy on data center build-outs. They acquire company KPIs like mobile app downloads. They look at political data like government lobbying. Then they analyze all these data sets with their teams, and that's what they build the strategies around. This is data that no app offers in one place to everyday traders. Not to mention, it would take hours to analyze that. What did we do?
+We partnered exclusively with some of the top data providers in the world to bring these data sets directly into the Robinhood app for your agent to analyze and build trading strategies from. Let me introduce you to the world of Agent Apps. Directly from your Agentic account, you'll be able to subscribe to any of these partners. Unusual Whales to help you find your next options trade with unusual activity spotting. Nasdaq to see how retail and how Wall Street are trading. QuiverQuant to track congressional trading and corporate lobbying, and Token Terminal to track and analyze blockchain and crypto companies. That's just to name a few. We also have Visual Crossing for weather tracking and Narravance to track emerging narratives from social media trending chatter.
+The way you will get access to these is through our all-new AppNexus, and you can subscribe directly with one swipe in the Robinhood app. No separate subscriptions off-platform, no API hookup needed, and at launch, all partners are offering the first month free. You will be able to actually test drive, make sure you are getting the edge that you expect before your subscription starts. Bringing these data sources together directly for your agent, all inside Robinhood, that is what unlocks new strategies and new insights in minutes, not in weeks. We are already lining up our next wave of partners with more apps coming soon. We welcome you to apply today. Abhishek, how is Neptune doing?
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I am really excited about Agent Apps. A lot of our app partners are in the audience today and will be at the conference tomorrow. Let us give them a big round of applause for making all of this possible for you. Hopefully, in a few years, we have thousands of these, so we are very excited. Let us get back to the demo. Neptune has finished finding our stocks. Let us take a look at its response. As you can see here, it found five stocks, and the most cool part is that I can actually see which of our agent apps it used. It used Government Tracking, Viral Stocks Detector, and the Options Trader app. Now, let us move on to the next part, which is just to buy these stocks.
+We will put in some orders, and because it is after market, we have to place 24-hour market orders. I forgot to turn off trade approvals. We will go ahead and turn off trade approvals, and then we will press Trade, and then it will go through and place those trades. While Neptune is placing these trades, let us take a look at what this looks like when I leave the agent interface. I can actually track the agent's progress while the agent is running by being able to see the input field. Here I can see it is thinking. You might be wondering also, what are all the other things your agent can do? Oh, and there we go. We got some orders coming in. That is pretty cool. You guys see that?
+Right now, Robinhood Agents supports equities, options, and crypto, and many other tools that you can access around the Robinhood app with your fingertips. Finally, I want to move on to automating this. Let us say we wanted to do this every single day. Let us enter the prompt, and then I will explain what is happening. This was a prompt to run this trading strategy automatically at the same time every single day. Now Neptune will create what we call an agent loop so that you can automate your strategy to run on any cadence you want.
+Loops enable you to run agents and your strategies autonomously, so you can be at work, asleep, or living the rest of your life, whatever you want. It is like having a team of hedge fund analysts working for you. And like I said before, because it wasn't exactly sure what to do, it's asking me some questions. Let's answer them. We'll use the prior screen rules, and then it's going to go through and set up the loop. The best part about agent loops is that it runs on our infrastructure, so you don't need to maintain anything. No more walking around with your laptop pried open. Gina,
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Yes.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+You've been using this for a while.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+I have.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I saw your agent's named Buddy. What agent loop have you been making?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Buddy is so extremely powerful. I trade the wheel strategy personally, and Loops allows me to actually set up my trading strategy, work without getting in trouble at work for trading all day long, and it will just run based on the criteria I've set up. It's been really great.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Did you guys see the loop just got created? So there, I've got Tech Daily Signal Buys, and it's asking me to launch it. So check out this animation. There we go. The loop is launched. So now I can access my loop from my account page. I can inspect it, I can see what it's going to do every single day, and I can edit it or delete it. If you happen to be inside of your Robinhood app while your loop is actually running, you'll be able to see it running actively next to your agent input. It looks stunning.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Yes, it absolutely does. There's one more thing we want to talk about that's extremely important to us and to you all as well. That's AI privacy and safety. We've designed and architected Robinhood Agents thoughtfully with safety in mind from day one. First, your funds and trades are safe. Agents can only place trades in your dedicated agentic account, and every account is defaulted to trade approvals on with only you able to turn that off. Second, your agent is operating in an isolated environment in our infrastructure. So your financial data is protected. It stays within Robinhood. Third, we have zero data retention agreements with the research labs. Regardless of what models you're using, your conversation with your agents stay private.
+This has all been designed to give you a high level of trust and peace of mind around what really matters when using Robinhood Agents.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Who is excited to start trying this? There is one more thing I want to talk about. We have actually worked with OpenAI directly to make GPT-6 Luna free until the end of the year. You will be able to test drive it, and play with it for free, and figure out what you like to do. For the remaining models that need a little bit more power, you will be charged directly per token based on the normal lab token rate. That is Robinhood Agents putting the power of a hedge fund directly in the pocket of everyday traders like you. Hopefully, today gives you all a glimpse into the infinite possibilities of what you can create with it. Let us see how the Vrax handles that. The agentic systems are now completely upgraded, Captain. Are you ready for us to teleport you back?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Affirmative, Number One.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Let us get him over, Tommy. Welcome back. Did you catch any of that demo?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Actually, no. Q and I were busy, successfully, I might add, severing the communications link between the ship and the remote teleoperators. Would you mind quickly recapping it?
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I think we have to deal with the Vrax. I can catch you up on it later.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I've been using my agent. It's like having a nice hedge fund in your pocket. Very nice.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+What's your agent called?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Vlad Bot.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+That is fine. But the most important thing you all should know, and you are probably already wondering, is when does this thing roll out? Robinhood Agents and Agent Apps are beginning to roll out today to passengers here at HOOD Summit.
+## Speaker 6 | 
+Whoo.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Today, did you say?
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I am excited to see you all playing with it tomorrow, with loops coming very soon. Support for more asset classes, Robinhood Legend, and more Agent apps are also on the way.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Impressive work, number one, but we have an imminent threat still. What should we do about it? What do you guys think?
+## Speaker 6 | 
+Blast it.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+You want to blast it out of the sky? Yeah?
+## Speaker 6 | 
+Fire away.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+All right, Gina, what do you think? Should we blast-
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Ready for action, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+All right. We'll have to do the photon torpedoes. Blast. Let's not get complacent, team. We may have gotten the better of them this time, but they'll no doubt be back because our mission to democratize finance is never complete- and that's what makes it so fun.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Captain?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Yes?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+I have another incoming transmission. This time it appears to be from somebody's cabin in Lake Tahoe.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+They don't even have a ship?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Lake Tahoe?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Apparently.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Nevada side or California?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+I am not sure, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Okay, bring it up.
+## Speaker 12 | 
+You think you have stopped us. We are only halting our attack because we want to. We will be back.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Your good looks won't save you this time
+## Speaker 12 | 
+stronger and better. You have increased your options trading hours by 35%. We will increase ours by 36%. You have 24-hour market, ours will be open 25 hours. You have perps, we have super perps. Super perps? What is so funny? Stop it. I am not a cat.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Did you do that?
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+I love cats.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Well, Q, thank you for the help. I think you have really proven yourself, and I have something for you. This badge, this is the most prestigious and important badge in the galaxy. Very hard to get. How does Chief Brokerage Officer, Starship Robinhood sound to you?
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Sounds pretty good. I will not let you down. Let me get started right away and show you something that I've been cooking for-
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Okay
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+for all of you. So buckle up. I like to call this one, two, three of offers that we're going to start with. First, for every Robinhood Gold Member, every dollar deposited will get you an entry for a chance to win a gold bar.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+That's a good one.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+Second, a 2% match on IRA transfers. We all need to save for retirement, right? Finally, a match of up to 3% on eligible brokerage accounts. All of these efforts, all these offers end in the next few weeks, so now's the time to move those accounts. Thank you all.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Some pretty strong offers.
+## Steve Quirk | Chief Brokerage Officer, Robinhood Markets
+I've got to go get to work and put my badge on.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+He's already making himself useful. I love that.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Some strong offers.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Yeah, quite strong. I like it.
+## Daniella Corricelli | Senior Manager of Product Management, Robinhood Markets
+Captain?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Yes, Daniella, something on your mind?
+## Daniella Corricelli | Senior Manager of Product Management, Robinhood Markets
+What keeps us from becoming like the Vrax? At one time, you were offered your own star system. Why did you relinquish it?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+I'm glad you asked. Well, you see, Daniella, when I was younger, I was very competitive and entirely focused on my career progression. Being the number one cadet at the academy, being the youngest midshipman in Starfleet, commissioning and creating what became the Starship Robinhood. This is important for you guys.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+Here comes the Kepler-16 story again.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Of course, this culminated in the opportunity to take ownership of Kepler-16, which was extremely difficult to pass up, as you might imagine.
+## Abhishek Fatehpuria | VP of Product Management, Robinhood Markets
+We can imagine.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Instead, we empowered the citizens of Kepler-16 to own equity in their local industries, and the system became one of the greatest engines of wealth creation in the entire galaxy. When I saw that impact, I made it my life mission to replicate this throughout the observable universe, because ownership works best when it is broadly distributed and available 24/7 for the benefit of a free, stable, and prosperous society.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Hey, Captain?
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Yes?
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+I am getting another distress call. This time it is from the DeFi sector.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Our old friends. All right, bring it up.
+## Speaker 15 | 
+Captain, we need reinforcement. There are a lot more new assets that are waiting to be tokenized. I don't think I can hold them any longer.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+He seems quite desperate, quite hungry. Gina, set course for the DeFi sector. Warp 12.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood Markets
+Warp 12 on your command, Captain.
+## Vlad Tenev | Chairman, CEO, and Co-Founder, Robinhood Markets
+Thank you for joining us on this journey. We'll see you in the DeFi sector. Engage.
+Data Source: Quartr Last updated: Sep 29, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (15) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

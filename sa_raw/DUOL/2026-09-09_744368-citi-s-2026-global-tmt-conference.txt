@@ -1,0 +1,349 @@
+TITLE: Citiâs 2026 Global TMT Conference
+DATE: 2026-09-09
+## Ron Josey | Managing Director, Citi
+Yeah. All right. Welcome, everyone. Let's get started. I'm Ron Josey. I lead internet coverage here at Citi. I am thrilled, psyched, excited to have with us today Luis von Ahn, the Co-founder, Chief Executive Officer of Duolingo. Luis, thanks for being here.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you for having me.
+## Ron Josey | Managing Director, Citi
+Duolingo is one of the, in my mind, most recognized consumer learning fun platforms out there. There's a lot going on, and maybe we'll get started in First of all, thanks for coming.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you.
+## Ron Josey | Managing Director, Citi
+Excited to see you. Thanks for being here. I think most people know Duolingo, so we can sort of just jump into it. Maybe I'll start with some icebreakers, just to lighten the mood, if you will. The first one to lighten the mood is when I give you this one number or word, what's the first thing that comes to mind? 100 million.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Oh, that's the number of DAUs we want to get to in 2028.
+## Ron Josey | Managing Director, Citi
+Okay. That's the first thing that comes to mind.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+That's it.
+## Ron Josey | Managing Director, Citi
+All right. Love it.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+That's our goal.
+## Ron Josey | Managing Director, Citi
+Chess.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Love it.
+## Ron Josey | Managing Director, Citi
+Okay. AI is blank.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Exciting for Duolingo, scary for me personally, because I don't know what's going to happen.
+## Ron Josey | Managing Director, Citi
+Yep. Okay. Green Machine, the name came from how? Where did the name come from, Green Machine?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Green Machine is our process of optimization at Duolingo, and it came from my Chief of Staff, Molly Green. She invented it.
+## Ron Josey | Managing Director, Citi
+Yeah. I think there was a big wheel back in the day called the Green Machine as well. Okay. Maybe the last one, more fun, but Duo is so lovable.
+But at the same time, it's so demanding. So, when you think about the character Duo, what's your first- When I say Duo, what do you think?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Well, Duo has a mind of his own, and he just wants you to do your lesson. That's all he wants-
+## Ron Josey | Managing Director, Citi
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+in life.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+And so when you don't do your lesson, he will freak out. So that's it.
+## Ron Josey | Managing Director, Citi
+Yeah. He freaks out on me too often.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Well, you got to do your lessons.
+## Ron Josey | Managing Director, Citi
+I need to do my lessons, is sort of how it goes. I was debating whether to do this all in Spanish, but we'll stick to English for now. We'll go through some questions and of course, we'll open it up from the audience for questions as well. Let's just kick off here specifically. It's been eight to nine months since sort of a strategy reset, if you will, around prioritizing engagement and user growth in 2026 before we get back to sort of the monetization. Just take us back to late last year. I know we've talked to this a lot already.
+But take us back to late last year when you all were going through this idea of let's drive engagement, and walk us through sort of why do we do it, and then more specifically, we're now eight to nine months in, and so what are you seeing in the business that has made this sort of the right approach thus far?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. So yeah, about a year ago, we had, I don't know how many quarters, something like 16 quarters or something, of incredible revenue growth. Just every quarter, we were growing quite a bit for
+## Ron Josey | Managing Director, Citi
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+For a long time. It was doing well. But one of the things that happened is we are an incredible optimization company. We optimize for things. It had become clear to me that we were spending most of our time optimizing for revenue, which I thought was shortsighted. What I thought the real thing we should be optimizing for is audience size, especially because we are at a unique time where, because of AI, we really are going to be able to teach much better over the next few years. I think there's a real opportunity at capturing an even larger audience than we originally thought. So I made the decision, which was not an easy decision, to mainly concentrate on growing our user base, our active user base, and so that's what we've been doing for the last few months. It's going really well.
+Our year-over-year DAU growth rate is very good. We're very happy with it. So we've been able to re-accelerate our growth rate, and we feel quite good about our ability to get. Right now, whatever the latest, I don't remember the exact number that we said for the latest DAU numbers. I know the DAU numbers from yesterday, but I don't think I can tell you that.
+## Ron Josey | Managing Director, Citi
+Well, I think we know them as some point in August.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. We know them at some point in August.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+We feel pretty good about getting to 100 million in 2028. It is looking really good. The really good thing about our DAU growth rate is that all regions are growing very healthily. Ultimately, the larger the audience that we have, the more people are learning on Duolingo, the more they will tell their friends, so we keep growing. Also, the larger the audience we have, the more revenue we will ultimately be able to make. I think this is just going to be a much larger business than we originally thought.
+## Ron Josey | Managing Director, Citi
+Luis, that was super helpful and insightful. In that, I think you said, we want to teach better in the next few years, or something along those lines. Talk to me about, dive deeper into that teach better over the next few years, because the product works great.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It does.
+## Ron Josey | Managing Director, Citi
+Duo brings me in. Maybe not every day, because he gets mad at me. Just talk to me, what do you mean by teach better? Or give us any examples to help us understand what that means.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. A couple of things about teaching. First of all, one of the things that we learned a long time ago was the hardest thing about learning something by yourself is staying motivated. That if you're going to learn something by yourself, it's different than learning something in school. Learning something in school, you kind of have to go to school because your parents are forcing you. It's just, you kind of have to go. If you're going to learn something by yourself, especially on a phone, it's pretty hard to stay motivated because you are one tap away from going to TikTok.
+## Ron Josey | Managing Director, Citi
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Or whatever it is. The main thing that we have concentrated on for many, many years is getting people to stick around and stay motivated. And we've done a really good job. If you, for example, look at our DAU over our MAU ratio, it's incredibly high. It's better than most games, actually. So we've done a really good job of getting people motivated. Now, the other thing, of course, we have to do is make sure that we are actively teaching you as well as we can. We did a study a few years ago and Duolingo is about as good, as of a few years ago, Duolingo was about as good as a classroom. And we felt really good that Duolingo was about as good as a classroom. Now,
+## Ron Josey | Managing Director, Citi
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It just turns out that the reason that was the case is because classrooms, particularly for languages, are just not particularly that good. So we were about as good as a classroom a few years ago, and we're like, "We feel great," but it turns out classrooms are just not that great. What's really good about actually teaching a language is a one-on-one human tutor. By the way, this is true for most subjects. If you want to learn something really well, getting a one-on-one human tutor is usually the most efficient, best way to.
+## Ron Josey | Managing Director, Citi
+Immerse yourself. Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+With a tutor, it actually works really well. We are not yet as good as a one-on-one human tutor, but every year we get better at teaching. We do measurements about how well we teach. My sense is that in the next, I do not know the exact timeline, but in the next, call it two to three years, and again, I could be off on this, but in the next, call it two to three years, I think we will be as good as a one-on-one tutor in terms of learning outcomes. I think that is incredible, for a couple of reasons.
+First, we are going to be way cheaper than a one-on-one human tutor. One of the problems with one-on-one human tutors is they are quite expensive. If you want a good one, we are talking $100 an hour easily if you want a good one. We are way cheaper than that. Secondly, most importantly, the problem that one-on-one human tutors have is that for most people, they are very boring, so they just do not do it. Whereas we are going to be as effective as a one-on-one tutor, but it will feel as fun as a game.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+I think that is a real game changer in terms of, it really will be kind of a no-brainer to use Duolingo to learn, certainly languages, which is where we are most advanced. I think we are going to get there, as well with chess and with math in terms of teaching as well, so one-on-one human tutor in the next few years. I think that will be a real game changer.
+## Ron Josey | Managing Director, Citi
+Within Green Machine, I would love to have any insights on just the beta on the path to that two to three years we get to that one-on-one tutor. Any insights or maybe aha moments on the product that you have seen that says, "This is something that will bring people coming back and get those streaks going." Anything to share, like-
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Oh, in terms of things for coming back? Oh, yeah.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It is an incredible thing when you look at the behavioral tricks, I will call them, that get people to come back, because we have data from so many users, really literally millions of users every hour are using Duolingo. We have data from that, and we use that to get people to come back, and there is just some pretty amazing things. For example, it really matters what you say in the notification to get people to come back. This is why the Duo, for example-
+## Ron Josey | Managing Director, Citi
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Has a personality. It turns out that the Duo being disappointed in you really works well. The Duo being-
+## Ron Josey | Managing Director, Citi
+The motivator
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Well, it really works well, and by the way, how well that works depends on the culture. In certain countries, disappointment works a lot better than in other countries. This is all the stuff that our AI finds out, or either AI or our team, we find out that in certain geographies, certain types of motivations are better than others. Another really good example is, if you start a lesson on Duolingo, the progress bar is actually not linear. It's in fact what happens is the first few exercises you do, it grows a lot. So very quickly you get to halfway, and the thing about getting to halfway is that humans just have an instinctive need to fill a half-filled progress bar
+fully. So we just get you very quickly halfway, and then you're like, "Well, may as well finish the lesson because I'm halfway now." You're actually not halfway. We've lied to you. You're actually just, I don't know, 20% of the way, but you feel like you're halfway, so you may as well finish. So there are thousands of these little tricks to try to get people to come back, because ultimately what we're doing is we're doing something that you say you want to do, but that ultimately you don't really have the self-discipline to do. So we're trying to just give you that self-discipline.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It's kind of similar to we're just helping you to go to the gym, or we're just helping you to do the thing. So we're helping you to be good for yourself long term.
+## Ron Josey | Managing Director, Citi
+Yep. I would agree with that. And you are building a lifelong skill upon doing it, so-
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yes
+## Ron Josey | Managing Director, Citi
+I am certainly guilty of the halfway, let's finish it up. That's- I try to go faster on the Spanish ones because that's easy for me. Anyway. Let's maybe talk a little bit more just on that 100 million path and bring it back into 2Q. Specifically, I think you said, we talked about DAU growth is accelerating. I would love to talk a little bit more about what are the drivers of that accelerating growth. The question we get is the drivers and the durability. How do you continue, and I am not asking about acceler-- I would love to, but what were the product changes that sort of got to this level of accelerating growth, so that you laid out last year when you said, we need to get to this metric?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. When people ask us, is this durable? The answer is an easy yes, because these are not one-off things or anything. These are just simply the product is stickier. We have done a number of changes. By the way, in terms of the acceleration, the majority of the reason why we have accelerated and why we are beating our own internal forecasts in terms of DAU growth is because the product is stickier. So we have just done an incredible job in terms of running tests that make the product stickier. Every single week we run hundreds of A/B tests to try to make the product stickier.
+Now, some of them don't work, some of them work. About half of them work. It's hard to attribute to a single thing why we are stickier, but it's just little things about, we tune the time in which we are going to send a notification. We change the animation of when you get a streak, how explosive it looks. So it's all this stuff that we do, and it just becomes stickier and stickier. At this point, we know we had it in our last shareholder letter.
+This metric that we look at internally is called current user retention rate, which is basically if you are here today and you were here another day in the last seven days, what is the probability you will come back tomorrow? That number for us now is 84%, which is extremely high. And it's at an all-time high. It keeps growing. It grew by about a percentage point in the last year. It is because the product is just stickier. So that is probably the biggest reason. There is another reason that is less impactful, but another important reason is, our marketing has done an incredible pivot over the last year. I think hopefully a lot of people are familiar with our marketing. It is pretty unhinged if you go to our TikTok or our Instagram. Our social media
+## Ron Josey | Managing Director, Citi
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Has been pretty unhinged. It has really worked very well. Over the last year, we have done a pretty incredible pivot where it remains unhinged, but it is a lot more brand aligned to efficacy and teaching well, et cetera. So we are just seeing that the marketing is doing better than it was about a year ago. In addition to that, we have diversified our marketing. It used to be the case that the main thing that we only looked at was we just had a really popular YouTube, TikTok, and Instagram channels.
+We now have diversified. It is not just our own channels. We have thousands of user-generated content that is helping, like other people talking about us. That has helped quite a bit. In addition to that, we have started doing some performance marketing. It is not a huge amount, but we have just gotten much better at performance marketing. I think the combination of this just makes our marketing more effective. So that is why we are accelerating.
+## Ron Josey | Managing Director, Citi
+Yeah. Super helpful. One of the things that I wanted to ask a little bit more is, I think the comment was, we run hundreds of A/B tests.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah.
+## Ron Josey | Managing Director, Citi
+We'll see what works. Maybe it's a 50/50.
+Talk to us a little bit more, just the internal process to run those tests. Specifically, I was a product manager a long time ago at an old company called AOL. We would try to-
+## Luis von Ahn | Co-founder and CEO, Duolingo
+I was a user. I was a user.
+## Ron Josey | Managing Director, Citi
+There we go. Most people were back in the day. Now everyone knows how old I am. We used to very much manage every single release, then of course, you just measure everything. Talk to us more about the hundreds of A/B tests. I'd love to hear about how that has maybe ramped up over time, and how do you manage that process? AI, I'm assuming, has really helped to understand what's coming through.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. I mean, there's a new version of Duolingo every single week, so our iPhone app and our Android app. Every single week, there's a new version of Duolingo. That version of Duolingo, every time it comes out, comes out with some large number of new A/B tests, hundreds
+## Ron Josey | Managing Director, Citi
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+that we're testing. The way this works is, there's three big things we work on at Duolingo. One is user growth, another one is revenue, and another one is teaching better, whatever the subject that we're teaching. All A/B tests are based on one of these, so they're trying to do one of these things. Either it's meant to teach you better, or it's meant to keep you more engaged with the product, or it's meant to make more money. Each of the teams that own one of these is about 100 people. So it's about 100 people working on Duolingo that are either engineers or designers or product managers that are working on teaching better, and about 100 that are working on monetization, et cetera.
+The way it works is, the combination of these 100 people, one of them comes up with an idea for an A/B test. Of late, it's either the 100 people or AI also comes up with ideas for A/B tests.
+Then we sketch it. It gets reviewed by a group of people in the company that reviews all changes to see if this is a good change that we're going to do or not. Then it gets built. These days, it's mostly built by AI, and then it goes into the product. From idea to product, it's about a month that it takes from idea to product. Then we run it, and literally about 50% of them are successful in whatever the metric they were trying to improve. So either it improves revenue or improves how we teach, or it improves daily active users. That's kind of what happens. But the velocity that we're getting A/B tests out is very high.
+By the way, the number of A/B tests that we run per capita, so per employee of Duolingo that is working on the product, has significantly improved over the last few months, that's a lot thanks to AI. Not entirely, but a lot thanks to AI. It's not quite doubled in the last few months, but it's close to doubled in the last few months.
+## Ron Josey | Managing Director, Citi
+I think we saw that in 2Q with Green Machine testing optimization came through.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah.
+## Ron Josey | Managing Director, Citi
+Also in 2Q, you benefited from maybe not tests, but events.
+Streak Revival being one of them. I think Video Call now available in Super Duolingo. Was that part of the testing as well, or that was the idea and it just sort of stuck? I had one more question on the Green Machine, then we'll move on.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+The Streak Revival was just an idea that one of our product managers had about, "There's a lot of people who have lost their streaks. Maybe we can have a one-time event where we let them revive their streak." It was very popular. We had about 15 million people revive their streak worldwide.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+That helped for sure. That was a minority. It sounds like a really big event, but in terms of when we do the actual calculations of how much this helps with DAUs, it helped, but it was a minority. The majority was just long-lasting changes.
+## Ron Josey | Managing Director, Citi
+Got it. When we think, now we'll take a step back, I guess, and talk bigger picture, and I know this year is not the year we're maximizing monetization, but it's helpful to hear those three sort of buckets, if you will, between user growth, revenue, and teaching better. Talk to us about how you think you balance those three. Or maybe, I get the question all the time, how do we get back to revenue growth, right, if we're optimizing user growth in every, and I guess user and teaching growth here in the short term?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+I get that question all the time but only from Wall Street. This year, our goal really has been, from the beginning of the year, we decided we were going to set some financial kind of box or financial boundaries that we're going to say, "Look, this year we're going to grow," whatever we said at the beginning of the year. Bookings by something like 10% or something. But we said something. And we're going to operate like this. With this year, we're going to have adjusted EBITDA of this, in this range, et cetera. And subject to that, we're going to try everything we can to try to increase our audience size. That's how we're operating this year, and that's what we've been doing. And in fact, every quarter you've seen, we're within the box, and trying to accelerate our user growth.
+I think it's been very successful in accelerating user growth. In terms of kind of monetization, we're not giving any actual guidance for next year or anything, but what I will say is that we'll probably have not just be concentrating on user growth next year.
+## Ron Josey | Managing Director, Citi
+Okay.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+I think that's safe to say, that we understand. Obviously, this is a business, and we understand that the ultimate goal is really revenue, but we really thought that this year we should spend it on user growth.
+## Ron Josey | Managing Director, Citi
+As we think about different forms of monetization-
+The question that I'm sure you get all the time in terms of us, and we do as well, is just the tiers of subscription.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah.
+## Ron Josey | Managing Director, Citi
+We've made changes to Max, of course. We've made changes to Super. We've included video now in different tiers. Talk to me about how you think the subscription evolution, how we evolve subscriptions going forward.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. Historically we've had one subscription tier, which was Super Duolingo, which is basically just a premium version of Duolingo. A few years ago, we added a new tier, which was Duolingo Max. It was a higher tier. It was about twice the price of Super Duolingo. One of the reasons we added a higher tier was there were two reasons. One is we saw there actually was a desire to pay more, or there were people who were okay with paying a lot more. We're like, "Okay, well, let's have a more expensive tier." The other reason we added it was, a couple of years ago, we introduced this new feature called Video Call, which is basically being able to practice conversation with an AI. At that time, each time somebody did a practice of the conversation with an AI, the call cost us $0.30.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+That's what it cost. We pretty quickly did a calculation. We're like, "We can't really put this in Super Duolingo because it's not expensive enough." Then we did a calculation, and basically, we need to charge about twice as much for that to make sense in terms of our margins. We added Max, this tier, and then we put Video Call in it, and we're like, "If you buy Max, you can have access to Video Call." We said back then, "If we manage to decrease the price of this, we may start putting that feature in lower tiers, or maybe even give it for free.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Because ultimately, what we want to do is teach as many people as we want. I think that's really what's best in the long term for the business. What happened is that over the next few years, our team did an incredible job, mainly by switching mostly to open source AI models to decrease the cost of the Video Call. At this point, the cost is well below $0.01 each time you do it. So it went from $0.30 to well below $0.01. We now are able to put Video Call in Super Duolingo, which is the cheaper tier that we had. We've started doing that.
+Today, not quite all of our Super Duolingo subscribers have access to Video Call, but at least all new super subscribers have access to Video Call, and some fraction of older super subscribers we've started giving Video Call. That calls into question, what the hell is going to be Max? Are you going to keep Max?
+## Ron Josey | Managing Director, Citi
+Sure. Right.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+The answer really is we don't know. We're not entirely sure what we're going to do with Max. It's still there. People are still paying for it. But we're not entirely sure. There's some options. One option is that Max actually does go away. Another option is that maybe we give unlimited access to Video Call in Max and limited access in Super Duolingo, et cetera. So there's some options, and we just don't know. The reason we don't know is not because we're sitting there thinking about it's because we're actually running tests to try to figure out what is actually revenue maximizing for us.
+We're running a lot of tests with different cohorts of users to try to figure out what it is that, what we do. In addition to that, if we just turn off Max today, that would involve a hit in revenue, so we can't quite do that. We're trying to be very thoughtful about this. Ultimately, what I'm pretty sure of is that we're going to be able to, whatever it is we do, whether it be shut off Max or whether it is that we end up doing some changes to how Max works, whatever it is we do, I'm pretty confident we're going to be able to do this in a way where we don't lose revenue. I think I'm pretty happy with that.
+If we're able to do that's really great because suddenly we're not losing revenue, as in we're making the same amount of money as we were before. That's awesome. We suddenly gave access to Video Call to 10x as many people, and that's good for us because if 10x as many people have access to Video Call, that means 10x as many people are learning better, which means that there will be more word of mouth for Duolingo because they'll tell their friends, "Look how much Spanish I learned on Duolingo," et cetera. It'll just be good for us if we're able to do that.
+## Ron Josey | Managing Director, Citi
+Talk to us about the adoption of Video Call. How important is it to the subscribers that are using it? When I say important, how often are people coming back to it? Is that the killer app or a killer feature that is really driving usage?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yes. Video Call is a very popular feature. When you have access to it, you continue using it.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+What is clear is that learning a language requires learning SWRL, speaking, writing, reading, and listening. Without Video Call, it's very hard to learn speaking.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+You can learn some pronunciation. It's very hard to learn actual speaking. Anybody who actually wants to learn a language really, really likes the feature because it is the difference between not really learning how to speak and learning how to speak, and people are able to do this really well with Video Call. The feature is very successful itself.
+## Ron Josey | Managing Director, Citi
+I should have asked in the icebreakers, open source, closed source, and just leave it there.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Open source all the way.
+## Ron Josey | Managing Director, Citi
+Open source all the way.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+By the way, that does not mean that today 100% of our AI usage is open source stuff, because there are cases where the frontier models are better than open source. What we're finding is that for most of our use cases, we can substitute for the open source, and we are very happy with that.
+## Ron Josey | Managing Director, Citi
+Do you see a similar $0.30- $0.01 sort of result here?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It depends on what the usage is.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It may not be. That's pretty striking. I don't know. That's like a 50x or something.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+That's pretty striking. I don't think we're seeing a 50x, but we're seeing pretty good improvements.
+## Ron Josey | Managing Director, Citi
+Yeah. I mean, stark. It's unbelievable, right? From $0.30- $0.01.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It is. Two things happened there. Open source is one. The other thing is that just everything got cheaper. Everything got more efficient in terms of the AI spend. I think that those are the two things that happened.
+## Ron Josey | Managing Director, Citi
+It's funny. In this world of AI spend, we hear about efficiency, and then we see sort of the opposite at this point. But yeah, no, that is the goal.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+We are getting significantly more efficient.
+## Ron Josey | Managing Director, Citi
+Yeah. I'm going to come back to that in a second. I did want to ask one more on the subscription side, the free trial.
+I think you're always running and optimizing what works, what doesn't work.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+We are.
+## Ron Josey | Managing Director, Citi
+Seven days, back to school, 30 days.
+Talk to us just about what you saw from 30 days, and is that a reason why the CUR is doing so well?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. We historically have had a free trial for Duolingo.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Historically, it has been a seven-day free trial. This year, we are switching most of our free trials to be 30-day free trials. What we're finding is that that is actually good for revenue, as in more people end up subscribing, and it's also good for DAUs because you put some of these people in the 30-day free trial, they become more hooked to Duolingo because they can use it more, no ads, et cetera. This is an incredible change that makes it so that it's good for DAUs and good for revenue. I think that has helped a little bit on the CUR, but I don't think this is the biggest reason why our DAUs are growing. It's probably a little bit, it's not the biggest reason. But what we really like about it is that it's just better for revenue.
+One of the things that is important to understand about this, when we switch from giving seven-day trials to 30-day trials, there is an amount of bookings that gets delayed a little bit because if you have a seven-day free trial, you start it today, you pay us in seven days.
+## Ron Josey | Managing Director, Citi
+Sure.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Whereas with 30 days, you pay us in 30 days. In that time, those bookings get delayed for us. We've been careful about not just doing that all at once because that probably would create a little bit of a bookings hole. So that's what we're doing. But ultimately, we'll make it so that most of our users are going to be getting 30-day trials. We may start trying longer than 30 days, so it may be two months, it may even be three months. For example, Spotify gives a three-month offer. I don't know what we'll end up winning, but these are all tests that we're going to be running.
+## Ron Josey | Managing Director, Citi
+When you did the seven to 30 days, were there tests along the way? Why was 30 days the right number? Was it 21 days?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+We have definitely tested a lot of different numbers.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thirty is a nice number that gets people like, "Oh, 30 days." For some reason, in people's mind
+## Ron Josey | Managing Director, Citi
+Yeah, a free month.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+That's a, yeah, it's a free month. Yeah.
+## Ron Josey | Managing Director, Citi
+Yeah. Then three months is three months.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Three months sounds nice. Yeah.
+## Ron Josey | Managing Director, Citi
+That's a whole quarter, so.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah.
+## Ron Josey | Managing Director, Citi
+Let's see. We have about five minutes left. I've got a ton more questions, but if there's any in the audience, if that's okay, would love to-
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Sure
+## Ron Josey | Managing Director, Citi
+open it up. Is there anything in the audience? Any questions? If not, we'll keep going here. Luis, tee up your questions.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+I used to be a professor. You've got to wait about 60 seconds for people to feel bad for you.
+## Ron Josey | Managing Director, Citi
+Oh, that was clearly not enough.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+People eventually feel bad for you after about 60 seconds.
+## Ron Josey | Managing Director, Citi
+We're just on the clock here. We got to practice anyways.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+I got it.
+## Ron Josey | Managing Director, Citi
+This is a treat to have you. Let's talk a little more just about beyond languages.
+If you will. Chess, math, music, all coming on here. I think chess added some additional capabilities more recently on seeing what maybe you should have done in game matches or whatever. Just talk to us about the roadmap and what chess got right, and how it informs newer things coming down the path.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. We have other subjects. We have math, music, and chess. These are the three other subjects that we do on top of languages. Chess definitely got something more right than the other ones. Chess is the fastest-growing subject. It continues growing pretty fast. It is still growing faster than including languages right now. Probably the biggest thing that chess got right is that it happens that it's a game, and people like playing games. People sometimes ask us, "Well, are you going to now start teaching poker? Or are you going to start teaching mahjong or something?" We're not going to do that. We're not a gaming app. We are an education app, ultimately. The reason we added chess is because it really actually is good for your brain.
+There's a lot of studies that show that if you are a student and you do chess after school, other than doing your homework, the best thing you can do after school is learn chess.
+## Ron Josey | Managing Director, Citi
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+to improve your grades, et cetera. This is why we have chess. We're all positively surprised about how well it's going. I'm very excited about math. Math has a huge opportunity. We do have millions of active users, but it's still a small number in math compared to the opportunity. There's about one billion people in the world learning math. We're pretty excited because literally every month, it's just much better at teaching math. If you haven't tried our math course lately, it's quite good. If you were not very good at math in the 10th grade or something, you should try it because it's quite good. I'm pretty excited about that, and I think this just opens up a lot more audience than just languages. Although, my sense is that for the foreseeable future, languages are going to be the biggest thing.
+It's just there's a lot of people wanting to learn languages, and a lot of people wanting to learn languages outside of school.
+## Ron Josey | Managing Director, Citi
+Yeah. Well, we communicate with one another every day.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yes.
+## Ron Josey | Managing Director, Citi
+That's helpful.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah, English in particular, people want to learn.
+## Ron Josey | Managing Director, Citi
+Maybe we'll keep going here on just teaching better. And so, teaching better, teaching quality, the Video Call we talked about, all that is coming in here. What I want to try to understand is the link between teaching better into just greater usage and the ability to pay more. I know we've gone through a lot in this 35 minutes or so, but would love to understand if there's a secret, not a secret, but some killer app that has helped the learning better drive that DAU growth.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It's funny about teaching better. I wholeheartedly believe that we need to teach better, and if we teach better, our word of mouth increases because you see more and more people that are like, "Oh, look, I now am able to watch Netflix in French entirely because of Duolingo.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+If you're not teaching well, people just can't say that. And the more people say that, the more you grow. So, I wholeheartedly believe that teaching better will increase our audience. That said, our evidence that teaching better increases our audience is not as tight as you would like it to be. As in, we run many A/B tests that for sure teach better
+and we don't see increases in DAUs. I think part of the reason for that is that it's very hard for people to know. People don't realize when they're learning better, at least in the short term.
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+They may realize it after a year passed, like, "Oh, wow, I can't believe I can now speak French." But on a week-by-week basis, if we're a little better at teaching, people a lot of times just kind of don't realize it. I do believe the link is there. It's just much harder to prove, certainly on the kind of A/B test that you're only going to run for two weeks. But I think that this is really a major unlock for us, and this is why we're continuing to work on this.
+## Ron Josey | Managing Director, Citi
+We have about a minute left. We haven't talked about AI as a risk, and I don't want to end on it, but I do want to hear, we're seeing DAUs re-accelerate. There's been this concern for a few years around AI risk, but frankly, we're not seeing it in the numbers. Talk to us about how you view the environment here.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. I've never really thought that AI is a risk for us. For a while, the market kept on asking us, basically investors, I don't know, if you look nine months ago or so, the questions we would get from investors, like, "Is AI going to kill you?
+## Ron Josey | Managing Director, Citi
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+They've stopped. I'm glad because there's just no real evidence that that's going to happen. Our user growth keeps accelerating. I think the reason for that is, usually when people say, "Is AI going to kill you?" There's kind of two buckets that people used to say that for. One is, are people going to need to learn languages? Because language translation is really good. I think people are going to continue learning languages. If you look at our users, half of our users are hobbyists. I don't think they care whether language translation is really good or not. The other half are learning English, and they actually want to learn English. I don't think they'll care that you can translate. By the way, language translation has been really good for 10 years, and in that time, we have, I don't know, 100x our users.
+I don't think that that's the risk. Then there's the other one that's like, well, can somebody just tap one button and create all of Duolingo, and it comes out of the box? I don't know, that may be the case that it'll happen, but we have unique data that allows us to teach better and keep people
+## Ron Josey | Managing Director, Citi
+Sure
+## Luis von Ahn | Co-founder and CEO, Duolingo
+more engaged, et cetera. That's something else that we're just not particularly worried about, so I'm glad that people have stopped asking about it because I'm like, "Yeah.
+## Ron Josey | Managing Director, Citi
+Yeah. Well, Luis, this is wonderful. Thank you very much for the time and all the insight.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you very much for the question.
+## Ron Josey | Managing Director, Citi
+And congrats on all the success.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you.
+## Ron Josey | Managing Director, Citi
+So-
+Data Source: Quartr Last updated: Sep 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

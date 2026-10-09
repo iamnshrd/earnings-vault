@@ -1,0 +1,585 @@
+TITLE: BofA Securities 2026 Information & Business Services Conference
+DATE: 2026-03-12
+## Curt Nagle | Senior Analyst, Bank of America
+Good morning, everyone. Welcome to the BofA Information and Business Service Conference. We're bringing back after a two-year hiatus. We're happy to have all you here. I'm Curt Nagle. I'm the new senior analyst for the sector. Really excited to be covering the sector, really excited to be working with y'all. We have a really terrific lineup today, full gamut of basically the entire sector covering what we think will be the most pertinent themes and then of course, you know, headline with all things AI. Opening the conference today, really pleased to be welcoming Rob Fauber. He's the President and CEO of Moody's, 20-year veteran of Moody's, started at BofA his career.
+## Rob Fauber | President and CEO, Moody's
+Yeah, that's right.
+## Curt Nagle | Senior Analyst, Bank of America
+Under his tenure as CEO for the past five years, led the company to record profitability, both in ratings and in analytics, and is embedding AI across every facet of the business. That's a huge focus for him, driving internal efficiencies, new product development solutions, and revenue streams, based on their proprietary and, as you put it, Rob, their decision-grade data. With that, welcome, Rob, and why don't we jump into the questions?
+## Rob Fauber | President and CEO, Moody's
+Yeah, thanks for having me, and it's great to have you covering Moody's.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep, great to be here. Yeah, in terms of the first question we're generally starting with, at least for the info service companies, is unsurprisingly on AI and moats, right? We'll get into some of the, you know, what we think are or could be the biggest opportunities, how you're harnessing the technology. Yeah, sticking with moats, I think it's generally understood that, you know, anything around credit, you know, is pretty walled off, right? Defensible. If we think about some of your other data assets, the stuff that comes through licensing, commercial agreements, IP agreements, you know, stuff that isn't outright owned by Moody's, you know, what are the moats around there?
+You know, I guess in terms of maybe moats that people you know don't recognize or don't appreciate as much, whether it's regulation or switching costs, you know, how would you address that?
+## Rob Fauber | President and CEO, Moody's
+Yeah. So I knew the first question would be AI. I'm sure we'll have a lot of discussion throughout the day on AI. You're right, the ratings business is a benchmark business and we'll probably touch on that, I hope at some point about how we're thinking about the ratings business in an AI future. In general, there's more demand for understanding credit and risk than I can remember in a long time. As you think about, you know, basically our content estate, I'm gonna move now over to analytics. I would say a few things. One. Then I'm gonna zoom in. You talked about our company database, so I'll zoom in on that in a second. In general, we have deeply contextualized content.
+## Curt Nagle | Senior Analyst, Bank of America
+Mm-hmm.
+## Rob Fauber | President and CEO, Moody's
+Right? There's a whole context layer on top of our data that provides. It's a structured representation of the data with-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+Governance and auditability and all those things that are super important to banks like Bank of America, who come in and send in their internal audit teams to audit our processes. That's one. Two, a lot of what we do is underpinned by very proprietary datasets. Orbis is a little different. I'll talk about that in a second. If you think on the credit side, we for three decades have curated the world's largest proprietary give/get default database, and then that's what we use to calibrate our credit models, so it makes them unique. Similarly, you know, you go over to insurance, like our catastrophe models, those are calibrated, but we get access to the entire industry's claims data, and so we use that to calibrate the models.
+I've been asked before, "Can't AI build the models?" AI can build a model, but it can't be calibrated-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+... on actual loss data. That's the second thing I would say. Third, you have to think about why institutions are using us. You used the word decision grade. We use that all the time. Banks and financial institutions wanna credentialize what they're doing.
+## Curt Nagle | Senior Analyst, Bank of America
+Mm-hmm.
+## Rob Fauber | President and CEO, Moody's
+Our credit models, our stress testing, our CAPM models, our customers' use of those models and those datasets is being reviewed by their regulators.
+## Curt Nagle | Senior Analyst, Bank of America
+Right.
+## Rob Fauber | President and CEO, Moody's
+Right? They're going in and looking at credit files and reviewing their processes. There's a very strong, indirect-
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+...regulatory support for all the things we're doing. Imagine that everybody in the industry is using our stress testing and economic scenarios and forecasts, except you.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+There's an error in yours.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+You can't figure out why there's an error. That's a very, very bad day-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+... in the office. The last thing I'd say is I'm just gonna go to the Orbis data. This is the world's largest database on companies, and think of it as really three layers of content within that. First is what I'd call basic firmographic information. Can that be collected, some of that be collected by AI and scraped off the internet? Yes, and it happens today, and we compete against those companies and have been. We have information that we get from these bureaus that is private, and we get that because we have paid access and IP rights that we negotiate.
+## Curt Nagle | Senior Analyst, Bank of America
+Mm-hmm.
+## Rob Fauber | President and CEO, Moody's
+The IP rights are about how can we create derived data and distribute that data.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+We transform some of that data and create proprietary ownership structures and trees. That is transformed proprietary data. It's where most of the value is in the Orbis database.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+I'll pause there.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay.
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+Maybe a good segue in terms of thinking about adoption, right?
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+For some of these, you know, AI-enabled products, GenAI workflows, stuff like that, AI-enabled databases. During the last call, you talked about your largest customers, right? Consuming at, you know, much higher rates. I think twice the rate, for the rest of the business, or, you know, your other customers. In part due to, you know, as you talked about, more sophisticated AI tools. Where specifically are you seeing, you know, the adoption curves, you know, really start to ramp? I guess thinking about growth rates for the rest of your customers, the smaller ones maybe less sophisticated.
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+How do we think about that ramp?
+## Rob Fauber | President and CEO, Moody's
+Yeah. I'm gonna focus on banks. It's our largest customer segment. There is a tale of two customers. You're right, at the big end of town, the Bank of America, they're all about building out their own AI workflow platforms, maybe across the corporate investment bank or the commercial bank. It's not about consuming software from us, it's about consuming, I'm gonna use the phrase our connected intelligence, right? This is our contextualized data, our models, our insights, our ratings, and they want to consume that in their platforms, right? Increasingly, they're building those platforms, and that means historically, people have consumed our content from our workflow software, maybe through our website, and a data feed. A good old-fashioned data feed.
+Today it's about, "Hey, now can I take it through a smart API or an MCP server into my AI workflow platform?" Every big financial institution I talk to is talking to me about, and I'm sure others in the industry about how can I access actually more of your content because I'm building this layer across the corporate bank. I know that I've got the data siloed in all these different parts of the bank, and I wanna have my own internal bank data and my very important third-party information providers feeding into my AI system. That's a conversation we're having at almost every single bank. That's a great conversation for us to have. That's why we're seeing the highest growth actually from the largest banks, and that's very encouraging to us.
+If they thought it was commoditized, we'd be having very different conversation. When you go down to tier two and tier three banks, the regional banks, the credit unions, it's a very different story. We serve a lot of them. They're one of our fastest-growing products, and we talked about it on the earnings call, is lending workflow software. What those banks are saying to us is, "Hey, look, I don't have an army of AI experts.
+I want you, Moody's, to bring to me AI enablement on the workflow platform that I'm going to implement, and tell me what other banks are doing." We've got an AI layer that sits on top of the workflow that does things like spreading financials into your chart of accounts, creating automated credit memos, covenant monitoring, all those kinds of things. Both of those-
+## Curt Nagle | Senior Analyst, Bank of America
+Mm
+## Rob Fauber | President and CEO, Moody's
+are driving very nice growth for us.
+## Curt Nagle | Senior Analyst, Bank of America
+Understood. I guess another good segue, and thinking maybe a little more long term here, and considering all the things you said, yeah, how do we think about the evolution, I guess, of pricing models, right? Over the next few years, particularly again, you know, not to belabor the point, but, you know, companies like yourselves that have mission critical proprietary data.
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+Do you foresee, I guess, you know, a shift to more consumption, more value base, which you've talked about a little bit right away from these strict enterprise models. I guess, how does that, you know, impact, I guess, the arc of revenue, you know, growth going forward, let's just say over the next 1-3 years?
+## Rob Fauber | President and CEO, Moody's
+Yeah. I think that's the right timeline, by the way. The right way to think about it. We are piloting consumption pricing in one small part of our solution set.
+## Curt Nagle | Senior Analyst, Bank of America
+Mm-hmm.
+## Rob Fauber | President and CEO, Moody's
+This is with the smaller customers where it's more of like a product-led growth kinda model. I would say a couple things. First of all, a lot of the conversations we're having now are about, "Hey, how can I think about changing the labor leverage model within my institution, whether it's KYC and anti-financial crime or whether it's my credit process," right?
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+That's a great discussion for us to be having. It is a different discussion. It's all about business case and ROI and all those kinds of things, and you start to say, "Wow, the data and models and connected intelligence can be very valuable," right?
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+There's gonna be a huge return on that. How do we think about the pricing? I think you're gonna see us move over that time horizon to implement elements of-
+## Curt Nagle | Senior Analyst, Bank of America
+Mm
+## Rob Fauber | President and CEO, Moody's
+...consumption into the model. I say that because you have to think, there's a few things that have to happen. One, we have to have the revenue operations and the technological capability to meter all of the usage.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+To be able to charge for that usage. I mentioned these good old-fashioned data feeds. We don't know all of the usage in a traditional data feed environment. There are I.P. restrictions and usage restrictions. We audit our. We don't know what, right?
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+There's a case where it's not as easy as just saying, "Hey, I'm gonna charge you based on consumption." There's a rev ops piece, and then there's a customer piece. A lot of times people, you know, lose sight of this because you think, "Aren't you just gonna get uncapped upside for usage of the data." That sounds great, but the customers. You think about what the customers are dealing with. Uncapped cloud costs.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+They want. You know, many of the customers want budgeting certainty. I think you're gonna see hybrid models.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+Right? Where we have access to the content for some set amount of consumption, and then perhaps thresholds and kickers for additional usage. I think back to the conversation we're having about, hey, take more of our data, more of our content into your AI workflow platforms. That means there's going to be more usage across more of the institution. We'll see you in a couple years.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+We'll have a different discussion at renewal when we have a chance to really understand how you're using and getting value-
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+... out of our connected intelligence.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah. I guess maybe as a byproduct, you know, before, you know, maybe pricing consideration stickiness, I would imagine would be-
+## Rob Fauber | President and CEO, Moody's
+Yeah
+## Curt Nagle | Senior Analyst, Bank of America
+...a good consequence of that.
+## Rob Fauber | President and CEO, Moody's
+Right
+## Curt Nagle | Senior Analyst, Bank of America
+I would think.
+## Rob Fauber | President and CEO, Moody's
+The more embedded we are-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+the stickier we are. You know, we're deploying our customer success teams to say, "Hey, great news. You've got access to the content here at the institution. Now we're gonna deploy our customer success teams to make sure you get as much value as you possibly can out of it.
+## Curt Nagle | Senior Analyst, Bank of America
+Understood. Okay. Switching gears maybe a little bit. Again, we've talked about opportunities, value of the data. How should we think about AI within Moody's internally in terms of, you know, asset and labor efficiencies? Again, kind of let's call it the 1-3 year time horizon. You know, just looking at your 10-K, right, headcount does seem to be going down, at least if I look at AI. I don't know if that's a consequence of just, you know, good old-fashioned, you know, expense management or, you know, whatever. Yeah, just basic question of kind of how to think about, you know, internal utilization and asset efficiency.
+## Rob Fauber | President and CEO, Moody's
+Yeah, there, you know, you talk about 1-3 years and, you know, this is coming at us fast.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+I'm a real bull on the efficiency opportunity across our organization. We, like you know, many other companies, went after customer success, customer service and some other things. That was low-hanging fruit early on. Now we're going after product development life cycle, and what that is is if you think about a company like us, we have product people and we have engineers. Product people engage with our customers, create specifications for products, work with the engineering teams who then have historically written code. We know all that is changing, so we have redesigned our PDLC to be AI first. We have AI coding tools that we are deploying into that PDLC.
+We have changed job descriptions, and we're moving towards a world where I think instead of product people and engineers, we're gonna have what you think of as builders, right? I'm a builder. I was telling you I built a website at 3:30 A.M. the other day. I mean, so that is a real opportunity, both in terms of efficiency. We already see the data on how much more efficient it is making especially our best-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+product and engineering people, but also product velocity.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+Even the selling motion is going to change, right? Because we can do rapid prototyping now, and we can create specialized agents in literally days, right? Prototype that with a customer as a way just to access more of our-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+...intelligence, right?
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+It's just another vehicle to consume our content. I can't change. You know, I'm not gonna change the medium-term targets. I can tell you we're going after this aggressively and, you know, it starts with me.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+I vibe coding and everybody at the company knows that. I think there's a real opportunity here.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay. Maybe just to, you know, put a, I guess a, you know, final point on that. Can't change the long-term target, right, or the medium-term target-
+## Rob Fauber | President and CEO, Moody's
+Yeah
+## Curt Nagle | Senior Analyst, Bank of America
+... high 30s. I guess in terms of, you know, not to sort of again belabor a point, but in terms of the arc of potentially reaching, you know, getting out there or maybe even at some point, you know, thinking about, maybe get to 40. I don't know, but yeah,-
+## Rob Fauber | President and CEO, Moody's
+Yeah
+## Curt Nagle | Senior Analyst, Bank of America
+...the general margin implications.
+## Rob Fauber | President and CEO, Moody's
+Yeah. I guess there I would say, I'm bullish on the opportunity, as you can see.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+I'm not ready to build that into changing the medium-term targets.
+## Curt Nagle | Senior Analyst, Bank of America
+Sure.
+## Rob Fauber | President and CEO, Moody's
+I see this as a real opportunity for us going forward.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay. Talked a lot about the analytics business, AI and ratings, right?
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+You know, your highest margin business by, you know, a pretty good margin. I think your guidance for this year is above your targets, and that, you know, is obviously on, you know, things like the volume leverage and you're lapping some investments. Yeah, how does, just very broadly, how does AI change your ratings business?
+## Rob Fauber | President and CEO, Moody's
+I would say two ways. I know a lot of people focus on, "Hey, with these AI tools, can't you just be much more efficient?
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+Right? The answer to that is yes, of course, we will be able to. The interesting thing I think about what's going on with AI is it forces you to ask questions about your source of sustainable competitive advantage. Of course, spreading financial statements and making adjustments and stuff is not where the value is in the rating agency. That means those things are going to get automated, and they are being automated and leveraging AI as fast as we possibly can.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+That's all happening. You've seen already the operating leverage that's continued to come into the business even last year, right, as we have issuance growth. We've been working hard on what I'd say is traditional workflow automation, and in the second half of last year, we deployed AI capabilities that really accelerated our ability to automate and enable our analytical teams. The other thing is, you know, we're gonna capture as much data from across the organization and the ecosystem.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+As we possibly can.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+Right? Feed that into our models to continue to provide us with, you know, unique insights that the rest of the market doesn't have.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay. Fair enough. We'll, I guess, put a bookend on AI. Sticking on the ratings business, yeah, I question, and I know there are a lot of moving pieces here, you know, just generally, I guess, assessing the puts and takes, the risks, opportunities for the guidance you gave, low single, for issuance for, you know, for the market. You know, whether it's uncertainty on pulling forward, you know, Refi Walls, geopolitical risks obviously are a huge question right now or just, you know, general data center CapEx that's-
+## Rob Fauber | President and CEO, Moody's
+Yeah
+## Curt Nagle | Senior Analyst, Bank of America
+That's been a big driver.
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+What specifically is and isn't the model and, again, how should we think about the puts and takes?
+## Rob Fauber | President and CEO, Moody's
+Yeah. You know, take this for who it's coming from, but it feels like just about every year around this time, there's something that happens.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+It's COVID.
+## Curt Nagle | Senior Analyst, Bank of America
+March.
+## Rob Fauber | President and CEO, Moody's
+Ukraine. It's Liberation Day. It's, right?
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+Here we are. The questions every year have been, gosh, the market is feeling fragile and, you know, what does that mean for your full- year guidance?
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+Well, guess what? Last year, in Liberation Day, we basically lost the month of April, right? The markets went to a risk-off mode, and look where we came right on top of our guidance, our original guidance for the year. What I would say here is what is hard for us to build into our annual guidance is geopolitical risk-
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+the inevitable market volatility and kinda risk-off mode that you know that happens, so you end up losing a week. What I would focus on is, while that is certainly the environment at the moment, heightened geopolitical risk, questions about oil prices, Fed easing, spread widening, all those things, from where I sit, I just think, gosh, all of those funding drivers that we have been talking about for years, which you have seen come through the business over the last two years, they're all still firmly intact. What kinds of things are they? Economic growth certainly has been one, but, you know, BlackRock put out a $68 trillion of infrastructure funding.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+Needs by 2040. That hasn't gone anywhere. You put AI and data center, and not just data center, but all of the related energy production, transmission grids, renewables, transition finance, all of that's all still there. Heightened geopolitical risk has meant military buildups. Massive investment is gonna go on in militarization and defense, and guess what? Sovereign balance sheets are pretty stretched, right?
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+The governments are going to have to rely on the public and private funding markets to do a lot of this. Oh, by the way, we also have a huge amount of debt has been issued over the last five, six years. That's gotta get refinanced. The 2028 Refi Walls in particular are quite substantial.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+There's all of the private equity exits that have to happen. We know they have to happen.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+All of the money that's gotta get deployed, that's gotta drive M&A. Still all there. We're gonna have some risk on and risk off weeks, heightened geopolitical risk, that stuff, those medium term funding, it's all there.
+## Curt Nagle | Senior Analyst, Bank of America
+Still there.
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay. Structurally, no change. Okay.
+## Rob Fauber | President and CEO, Moody's
+Yeah, March is always a tough month.
+## Curt Nagle | Senior Analyst, Bank of America
+It is.
+## Rob Fauber | President and CEO, Moody's
+It's early-
+## Curt Nagle | Senior Analyst, Bank of America
+Tough
+## Rob Fauber | President and CEO, Moody's
+...in the year. That's what we have to keep in mind.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay. Maybe just a segue here. Private Credit, right? You know, has been a small high growth business for you. I guess how should we think about, if you're willing to say, just the revenue contribution for this year and then going out maybe a few. And then just kinda thinking about it, like, you know, you've got certainly some puts and takes, right? Things you talked about, you know, impact Private Credit. We've got concerns about outflows and credit quality, which would potentially be a negative. On the other hand, right, that theoretically could drive more demand for deeper analysis of, you know, portfolios and specific companies. How does all that balance out?
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+How are you feeling about Private Credit?
+## Rob Fauber | President and CEO, Moody's
+I feel much better, you know, just where our franchise is now-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+than several years ago. It's interesting, the discussion with investors and analysts several years ago was, "Isn't Private Credit a big negative to the rating agency because it's the disintermediation of the public markets?" That was a huge narrative.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+We geared up. We found ways to serve that market. There's still lots of that market that are unrated.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+We have seen very strong growth in parts of the rating agency serving parts of the Private Credit market. Now the questions are, "Hey, is this now a headwind?" Because there may be, as you said, you know, heightened defaults and fund outflows. That means, you know, the public markets are gonna take up the slack. I have said before that a lot of the direct lending is like a deferred matur-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+It's like another maturity wall for us, right? We've already seen this year some pretty robust refinancing out of the Private Credit deals into the public markets. Why? Because they're cheaper.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+Right? I think we're gonna, you know, to some extent, I'm relatively agnostic.
+## Curt Nagle | Senior Analyst, Bank of America
+Mm-hmm.
+## Rob Fauber | President and CEO, Moody's
+Right? I mean, I'd rather rate the direct credit now, and I'd rather be able to express an opinion on it for the market, but we're seeing some of that come back into the public markets. That's one. You know, just in terms of what do we assume, we had very robust growth last year off of a, you know, a smaller base.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+Relative to the overall size of the ratings business. We've assumed that growth is a little bit slower this year, but still quite healthy.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay.
+## Rob Fauber | President and CEO, Moody's
+If that slows down more than we expected, my guess would be we're seeing that come into the leveraged loan part of our-
+## Curt Nagle | Senior Analyst, Bank of America
+Right
+## Rob Fauber | President and CEO, Moody's
+... business. The second thing, just to your point is, you know, I've been saying this for a couple years now, and I feel like I've been speaking into the wind about this market will benefit from rigorous third-party credit assessment.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+That will provide confidence to the investors and allow this market to scale. I you know would hear all the reasons that that didn't need to happen. I think now there's a much greater understanding of the benefit that third-party rigorous third-party credit assessment can provide this market in helping understand the credit profile of what people are investing in so they can invest with confidence.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+We're seeing that demand to materialize in our analytics business, 'cause remember what we have in analytics. At the core is the world's best commercial credit franchise, right? The proprietary default databases, the gold standard credit models, and guess what they're ideal for? For assessing Private Credit. We're addressing that market opportunity.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah. I guess, you know, in the context to get, you know, I mean, just judging by the headlines we're seeing, in terms of rate, I mean, is that rate of adoption, you know, accelerating, you know, in a fairly linear, you know-
+## Rob Fauber | President and CEO, Moody's
+Yeah
+## Curt Nagle | Senior Analyst, Bank of America
+...path or relationship?
+## Rob Fauber | President and CEO, Moody's
+I would say it's very small. The investor use of credit models, not surprisingly, has been small. The biggest customer base for all of our credit models are bank credit departments-
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+...now you have a new customer segment who's saying, first of all, we have to educate them.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+I didn't know that you had those capabilities, right?
+Now talk to me about what they are, and do you actually have the ability to give me a probability of default mapped to a rating level with the confidence that you can put the Moody's name behind it?
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+The answer is, if you give me the data, the answer is yes, and we've been doing it for several decades for banks.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+It's small.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+In part, what we did with MSCI was about saying to the market, "We have this capability, and we and MSCI are working together to bring this capability to the investors in Private Credit.
+## Curt Nagle | Senior Analyst, Bank of America
+Setting the table, I guess.
+## Rob Fauber | President and CEO, Moody's
+Yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay. Fair enough. Switching just quickly back to M&A. I guess just kind of breaking it down by subsegment, right? Your KYC business is doing really well. One, you know, in terms of how to think about the rate of growth, I think roughly 20%. Is that a sustainable rate? Insurance, you know, you're calling out, and we've talked about this a little bit more, you know, demand for sophisticated products. How should we think about that, you know, again, as a rate of growth this year? I guess, what does it need, what needs to happen, you know, within your banking business to get that to re-accelerate? I know there were some purposeful, I guess, pullbacks, like in transaction revenues. You know, how do we think about that segment?
+## Rob Fauber | President and CEO, Moody's
+Yeah. You kind of talked about the big three.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+... if you will, sitting inside Ratings, our Analytics business. I mean, you can see from our guidance, we're generally expecting the portfolio-
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+... to produce roughly the same rate of growth. Let me break down kind of where that growth is coming from. In banking, I talked about both what we're doing with the large banks who are accessing, think of it as our connected intelligence, and the tier two banks who are actually buying the software.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+You know, we talked about the growth rates of that lending workflow software are very robust growth rates. The drag in terms of revenues, so when you look at ARR growth, the ARR growth in our lending suite is faster than MA overall. That's very encouraging. When you look at revenues, we historically have had transactions, implementation services. We've been de-emphasizing that for years now.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep.
+## Rob Fauber | President and CEO, Moody's
+That's just a drag on reported revenues. That's low margin revenue anyways. We want to move away from that. We've moved to a partner model. With insurance, the drivers there, not only do we have the cloud-based platform adoption of our core catastrophe models, but we acquired a company a couple years ago that provides geospatial AI geospatial intelligence to support insurance companies in underwriting, property underwriting, and then that feeds in to our catastrophe models. We've expanded into casualty. Casualty is actually one of the biggest sources of insurance claims. You think about things like, you know, mass torts and litigations and asbestos and things like that.
+That is a huge need for the insurance industry to understand how to get a more data-driven approach to assessing that kind of risk. We're building that out. That's gonna support the growth in insurance. Of course, you know, we talked about KYC, the demand for that continues at pace.
+## Curt Nagle | Senior Analyst, Bank of America
+At pace.
+## Rob Fauber | President and CEO, Moody's
+The only other thing I would say is that what we've done this year in terms of just how we go to market is we've tried to, you know, kind of cluster our product launches into the first quarter of this year so that we can have a really concerted go to market. Historically, we kind of spread them out throughout the year and that included the second half of the year. So what we did is we kinda took the things from the second half of the year, held them, put them into product launches.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+This year. What that means, the only reason I mention this is it just, there's gonna be a little different cadence of ARR growth.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay.
+## Rob Fauber | President and CEO, Moody's
+I would expect in the first quarter we probably have a little bit of a downdraft towards the-
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+you know, the lower end of our you know, high single- digit AR you know, guidance. Then, you know, that'll pick back up-
+## Curt Nagle | Senior Analyst, Bank of America
+Sure
+## Rob Fauber | President and CEO, Moody's
+through the balance of the year 'cause it, I think it's really about just the calendarization and the selling.
+## Curt Nagle | Senior Analyst, Bank of America
+Okay. Understood.
+## Rob Fauber | President and CEO, Moody's
+Yep.
+## Curt Nagle | Senior Analyst, Bank of America
+Let me quickly touch on capital allocation. I got one just in terms of, I don't think it's a huge focus, but built on M&A, what assets would look attractive? Then I guess just thinking about, you know, buybacks, considering, you know, current valuation and just, yeah. How are you thinking about that framework?
+## Rob Fauber | President and CEO, Moody's
+We always like to invest back in the business first whenever we can, and I always say like if I can invest in ratings, I'm gonna do that. That's one of the best businesses in the world. You've seen us make. There aren't many opportunities to do that inorganically. We bought the largest domestic rating business in Africa a year or so ago. It's a great generational investment for us. You know, from an analytics perspective, I mean, gosh, you know, we have had to change how we think about what makes the most sense from an M&A standpoint. I think you would expect us to do that.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+Right? You know, when you look at, do you wanna bring more workflow into our solution suite, it's gotta be something that has a real-
+## Curt Nagle | Senior Analyst, Bank of America
+Mm-hmm
+## Rob Fauber | President and CEO, Moody's
+proprietary data asset and data rights
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah
+## Rob Fauber | President and CEO, Moody's
+... inside of it. Not all workflow is created equal. Not all of the rights to the data that sit inside these systems. That is a real focus for us-
+## Curt Nagle | Senior Analyst, Bank of America
+Sure
+## Rob Fauber | President and CEO, Moody's
+As we think about that. I think it would be very unlikely we would buy workflow for the sake of workflow.
+## Curt Nagle | Senior Analyst, Bank of America
+I hope not, yeah.
+## Rob Fauber | President and CEO, Moody's
+At this point. Yeah, yeah.
+## Curt Nagle | Senior Analyst, Bank of America
+Yeah.
+## Rob Fauber | President and CEO, Moody's
+Obviously everyone is thinking about can they get access to proprietary data? For us, you know, if you think about what we have as a connected intelligence system.
+## Curt Nagle | Senior Analyst, Bank of America
+Uh-
+## Rob Fauber | President and CEO, Moody's
+That's really what underpins all of our solutions, right? It's the world's largest database on companies and a knowledge graph that we are building out that connects all of the companies to all of the different data sets and models and insights and ratings that we have, right? Wherever we can find uniquely valuable data sets that we can put into that connected intelligence system, make the system itself more valuable, make that data more valuable, and monetize that through multiple customer segments, that's attractive for us. I think NoÃ©mie, the last thing I would say on the earnings call, you know, she talked about share buybacks. Obviously we have a lot of dry powder.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep
+## Rob Fauber | President and CEO, Moody's
+If we decide that, you know, there's an attractive acquisition opportunity. You know, absent that, you know, NoÃ©mie talked about the $2 billion share buyback this year. That's up, I think something like 25% from last year. NoÃ©mie did signal that, you know, we're aggressively buying back stock, you know, here in the first half of the year.
+## Curt Nagle | Senior Analyst, Bank of America
+Yep. Okay. Maybe one quick, very quick lightning round word association.
+## Rob Fauber | President and CEO, Moody's
+Okay.
+## Curt Nagle | Senior Analyst, Bank of America
+First Refi Wall.
+## Rob Fauber | President and CEO, Moody's
+Very strong.
+## Curt Nagle | Senior Analyst, Bank of America
+Very strong. Okay. Private Credit.
+## Rob Fauber | President and CEO, Moody's
+Needs independent credit assessment.
+## Curt Nagle | Senior Analyst, Bank of America
+Margins.
+## Rob Fauber | President and CEO, Moody's
+Very robust.
+## Curt Nagle | Senior Analyst, Bank of America
+Very robust. Okay. Rates.
+## Rob Fauber | President and CEO, Moody's
+TBD.
+## Curt Nagle | Senior Analyst, Bank of America
+TBD. Fair. M&A.
+## Rob Fauber | President and CEO, Moody's
+It's coming.
+## Curt Nagle | Senior Analyst, Bank of America
+It's coming. Okay. All right.
+## Rob Fauber | President and CEO, Moody's
+By that I mean the market.
+## Curt Nagle | Senior Analyst, Bank of America
+The market, right. Verification. All right. Well, I think that wraps up time. Rob, really appreciate the conversation.
+## Rob Fauber | President and CEO, Moody's
+Hey, thank you.
+## Curt Nagle | Senior Analyst, Bank of America
+Thank you so much for.
+## Rob Fauber | President and CEO, Moody's
+Yeah, enjoyed it.
+## Curt Nagle | Senior Analyst, Bank of America
+Coming.
+## Eli Abboud | Equity Research Analyst, Bank of America
+I'm Eli Abboud. Craig Siegenthaler and I cover U.S. exchanges here at BofA. I am pleased to be joined on stage by the CFO of Nasdaq, Sarah Youngwood. With 4,500 companies on its exchange, Nasdaq is the largest listing venue in the United States. It is of course a leader in both stock and options trading. Since 2017, it has been in the midst of a strategic pivot to being a scaled technology and info services provider. Today, nearly 80% of Nasdaq's revenue is from non-trading businesses. This includes indexing, data, corporate services, marketplace technology, regulatory reporting, and financial crime management technology. Sarah was appointed CFO in 2023. Before coming to Nasdaq, she was the CFO for UBS, where she played a key role in modernizing the bank's infrastructure and facilitating the acquisition of Credit Suisse.
+She also has 25 years of experience at JP Morgan, where she held senior roles in investment banking and investor relations and as the CFO of Chase and JPMorgan Chase's technology unit. Sarah, thank you for joining us.
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Thanks for having me.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Sarah, I think it's safe to say that AI will be the topic of the day, so let's start there. At the Investor Day, you went through many areas of the business where Nasdaq is using AI today. At this point, it seems like almost every Nasdaq product has an agentic worker. My question is, what's next? How much runway is left? How much more is there for Nasdaq to do with AI?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Thank you. Yes, it is a very important topic. What's very important for us is we started early. We did, as you say, put it really across our products. We are very well architected for it. It's just starting. If I go through those points, we started early. We've talked about the cloud 12 years ago. Adena talked about data also 12 years ago, and then AI 10 years ago. That's like a great foundation because we're not just getting started now in terms of, like, the foundation, but more in terms of the client adoption. We've done it right. When you think about what we've done, we've done it at scale in a resilient way, and we've done it with network effect to actually deliver value to clients.
+You remember that page which many people have referred to in our Investor Day presentation, where we talked about the gold standard data, the hyper-resilience, the domain expertise, the connectivity, the ROIC to client, and all of those elements together actually create our GenAI differentiation. When you take all of that, you then put it in all of the products, you end up with a lot of differentiation, which enables you to earn the title of trusted transformation partner of our clients. This is really an earned position, not something that you can actually want if you don't have it. When you take all of that, you go like, "Is there more?" We think there's a lot more.
+A stat that we used is that 89% of our clients have GenAI somewhere in their infrastructure, but only 7% really have fully deployed GenAI. We're just at the beginning of helping our clients go through that journey. If you look at it in sum, we have a $38 billion serviceable addressable market that's growing at 9%. Again, tons of opportunities. One of the things that I said at Investor Day is that, in fact, we think that sum is gonna continue to borrow from the TAM as a lot of our financial institutions clients use some of the spend that was internal towards vendor spend, i.e. working with people like Nasdaq. We feel very well positioned.
+We feel we have a right to win, and we are really excited about the path forward.
+## Eli Abboud | Equity Research Analyst, Bank of America
+How are you monetizing AI use cases in your data business? Are you selling any data directly to the big LLMs like Gemini and ChatGPT and Claude?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Without being specific about what we do with whom, we have a very long history of selling our data to intermediaries that then get it to the consumer. You have our data, for example, in your Apple phone and in many, many other places. We have already done that with an AI-powered search company. The reason why we do that well is, first of all, because we have really a very long experience in doing so. We are not putting in place the controls, the parameters, the governance, the trackability now to prepare for GenAI. Nelson talked about, like, we have a portal.
+Like, we really have very good governance to make sure that we have controls around what governance, what usage, and it's trackable. What's great is it's real-time data. You know, once you have it's really valuable for a very, very short amount of time. You need to respect the contract in some ways, because otherwise, we would stop having that contract. It's something that's important and something that we do well and something that we're excited to continue to do and amplify.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Can you talk about what GenAI has meant for your anti-financial crime unit? This month, the World Economic Forum warned that AI is supercharging a global fraud crisis. What has that meant for demand?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. Lots of problems, lots of demand. You're mentioning an important report. We did our own view and analysis. Since 2023, we've seen 19% growth in the problem. We had talked about $2.5 trillion. Now we're talking about $4.4 trillion of issues related to financial crime in the world. We've got a lot that we can help to address, and we've been very well-equipped to do that. If you start 20 years ago, which is where Verafin started, with a consortium approach, all in the cloud and all with AI. Like, that's like just like remarkable that they had that intuition 20 years ago.
+You end up today with over 2,760 banks with $11 trillion in assets, with up to $1.8 billion in transactions per week. You have data that ranges small banks and large banks. Actually that's really the key because fraudsters are gonna be mixed in their approach between the small banks and the large banks. Having that scale, that variety, is what gives us a very, very strong asset. Because it's consortium-based, you can't buy that data. There is no other way to get that data than to do business with Verafin, which means that we've had a lot of business done 2,760 just since their acquisition, and we've added 750 clients, including 22 on the enterprise front.
+We've put GenAI because from AI, we had the data, I would say, very well organized to be able to do GenAI, and we've been at the forefront of doing that. Therefore we're continuing to catch the opportunities to help our clients.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Zooming out, you reiterated your mid-20s guide for AFC at the Investor Day. That's a business that's grown revenues 22% two years in a row.
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Mm-hmm.
+## Eli Abboud | Equity Research Analyst, Bank of America
+What gives you confidence in a re-acceleration?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. When you look at it, I just talked about GenAI. That's a component of it. When you're thinking about agentic AI, we've got two agentic workers that are already in the market. We've got six that are in design, and we are focused on continuing to accelerate that value for our clients. We have engagement with our clients, 350 clients engaging with us. We've got the ability to really work with them to identify the most important pain points, and where our workers are gonna be most effective, efficient at reducing their costs, therefore driving an ROIC and the ability to drive value. That's first thing, GenAI. Partnerships, you've heard from our partnership on BioCatch and on FIS.
+The growth in Enterprise as well as internationally. Enterprise, I just mentioned 22 enterprise clients. The acceleration is really what's gonna be important here. We've got nine of those that were last year, and that's 4x more, both in terms of number and ACV, what we had the year before. It does take 9-12 months to come through the numbers. With a little bit of patience, you're gonna start to see towards the end of the year, the impact of the signings that we had last year. In international, we've got this PoC that has been very fruitful with 30% less false positives.
+Again, that gives us a foothold in one part of Europe and then continuing in other places.
+## Eli Abboud | Equity Research Analyst, Bank of America
+At Calypso, your number one competitor is spreadsheets and proprietary software. Now with GenAI, spreadsheets seem to have become a lot smarter and proprietary software a lot easier to build. What is the impact on Calypso's competitive positioning from GenAI?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. If I take a step back, Calypso is across 250 clients in 60+ countries and provides pre-trade, trade, collateral management, treasury infrastructure. That's a complex, critical mission to solve. We do a lot of things there, which basically puts us in a position where we believe actually that the more complicated it is, the better it is because yes, spreadsheets can be amplified, but if you are effectively implementing trade, capital markets are gonna need data and insights and connectivity. That data sometimes is sourced from like 50 systems within the company, and then the connectivity is really across the entire markets in all of those countries.
+It's because we have very deep understanding that's based on connected intelligence of the datasets that we're dealing with that we're able to really fine-tune the risks that enables us to basically help our clients on what's important to them, which is add value to their business, add returns while managing the risks and the regulations.
+## Eli Abboud | Equity Research Analyst, Bank of America
+What do you view as the biggest moats around that Calypso business?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. Basically, back to what I was saying, it's the ability to have data lineage into, call it 50 or up to 50 financial systems, then connectivity. If you add to that the intelligence, so that data is really not just taken as such, and not even just lineaged and calculated, but then it's helped to understand like a bond has characteristics. It can have credit characteristics. Now all of those things are amplified by all of the value, the millions of data points that we have had over the years to help to drive the right decisions, to help to do that within a risk appetite that is defined, and to help to then also have that sometimes daily liquidity reporting back to the regulators.
+It's one thing to have that connected intelligence, but in addition, it's embedded, it's system of record, and it's connected.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Let's talk about your oldest business.
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Cash equities, you had 31% year-over-year volume growth in 2025. In the past 20 years, that growth rate is surpassed only by the pandemic and the financial crisis. How much of that strength do you feel is driven by structural factors?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. I love the question. If I take a step back, our market services last year was 17% growth, and in equities, not only do we have fantastic structural growth, which is driven by retail, but we also have the ability to be ahead of competitors. We have 74% more capture than the number two in 2025 in equities. Felt pretty good about that. Why is that structural? What's structural about it is it did start with the pandemic and with people doing more in equities, but then the ecosystem has really built upon itself.
+We've seen really very steady growth and also pretty sustainable growth as we went through. I wouldn't call them real cycles since the pandemic, but mini cycles. You go towards the future, and you look at 2025, which should come towards the end of this year or the second half at least. We are continuing to feed that demand because now you have equities participation from the rest of the world into the U.S. ecosystem. When you look at where we are positioned, with 52% of the trading volumes and 56% of the U.S. domiciled companies capital markets in the U.S., we are extremely well positioned to continue to have that strong capture and that strong share in a growing environment.
+## Eli Abboud | Equity Research Analyst, Bank of America
+You filed for regulatory approval for tokenized equities.
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yep.
+## Eli Abboud | Equity Research Analyst, Bank of America
+What types of firms are demonstrating interest so far, and when do you expect a launch date?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+We're very pleased to get the SEC approval for the eight stocks. You take the Mag Seven, and then you add Broadcom, and then in addition to that, we had the Bitcoin ETF that is traded on Nasdaq. Those are where we started, and we've started very intentionally with a group that's super liquid and where we can do it in a very responsible way. What has been really great about that is that it has been a little bit over a month at this point, but when you look at the volumes we have had, those volumes have actually been additive.
+When you look at it over that short but relevant period of time, we've got net volume additivity. I was talking about our lead in terms of like equities for capture. In options, our lead versus the number two is really on a market share. We have a five percentage point lead in market share. When you take that and you say, "Okay, but does that hold?" In fact, in those very short-term options, we've seen a share that is at or above our regular market share of options, which is at that five percentage point lead.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Got it. What does the product development roadmap look like from here? When should we expect more zero DTE symbols, Tuesday, Thursday options?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. We are very intentional. We want to go slowly. We want to make sure that what we do is very intentional and responsible. Therefore, we are gonna make sure that we see the indicators that we want to see. You're right. If we see those indicators, which are net additive volume, as I just mentioned, that is starting, and good feedback from retail, from the SEC, from the other actors in the market, then we are certainly open-minded to doing more, and it could take, as you said, the form of more symbols or Tuesday, Thursday.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Got it. Where do we stand on the tokenization of cash equities proposal?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. So that is something which is brand new. As we were just discussing before going on stage. Since Investor Day just this week, we announced that we are gonna help the issuers be at the center of the tokenization topic. We think it's really important to put the issuer at the center. We are announcing that we are gonna have a tokenization forum for equities that will enable the issuer to be in control of its ownership rights to connect with investors, to have transparency, and to have governance. What we're doing is taking a trend which has so far not been issuer driven.
+It's our role in the market to do two things, preserve integrity, liquidity, transparency, and make sure that we do things that are consistent with regulation. That's the first part. Second part, doing it with the issuers at the center connected to the investors. We think it does exactly that, and it helps to connect the fiat world with the tokenized world, and we'll work with industry participants to make sure that we can add effectively services, and leveraging the composability of the tokenization.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Got it. Can you refresh us on the listings backdrop? How big is the pipeline? Where does that stand?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. If you look at where we were a year ago, we had a very strong pipeline, and we already had actually a pretty active market. At that point, we were for the seventh year in a row the lead in terms of the proceeds raised. We had the largest IPO, and we also had the largest transfer. We feel very good about the positioning as we enter. We have a very strong pipeline. It's a very diverse pipeline also, both in terms of size, including some extraordinary companies that are thinking potentially of tapping the markets, but also in different industries.
+We feel really good that the pipeline is there and that the private capital that has been supporting the markets is very eager to catch opportunities in the public market. We've seen activity at this beginning of the year, although the activity is probably more to come than what we have seen, given some of the volatility that we have experienced.
+## Eli Abboud | Equity Research Analyst, Bank of America
+How much of the pipeline is software? Just so we can get a sense of the sensitivity around that recent AI-related sell-off in the software space.
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. We think of it as a small part of the pipeline, call it 10%. It's not like gonna be material to Nasdaq. We obviously think that it's important for all of our issuers to be rightly valued, and for the value that they bring to their shareholders, but from a specific pipeline point of view or impact to the financials of Nasdaq, it's not material.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Got it. Bringing us to a close, Sarah, with another look toward the future, what opportunities get you most excited over the medium term?
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Yeah. In some ways we've talked about a really broad range of things, and I tend not to say I'm more excited about this than about that. What's really exciting to me is that we have structural change on the horizon, whether it is the structure of financial markets, whether it's GenAI. Those two things are accelerants for a company like Nasdaq that is extremely well-positioned to win in this environment. We believe that because we are a trusted transformation partner, and we have positioned ourselves very intentionally so to be that trusted transformation partner, we are able to capitalize on those two vectors of growth in that $38 billion sum that I talked about, and have a growth of 9%-12% in solutions.
+That's a growth that we've proven in four of the last five years, and that we're very, very well positioned to execute. Once you have that durable growth, you add the financial discipline, which we believe is also very important, whether it's expense, whether it's free cash flow generation, whether it's capital allocation to add value to shareholders. Think that there's nothing better than adding value to shareholders.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Perfect. Thank you for joining us, Sarah. This has been great.
+## Sarah Youngwood | EVP and CFO, Nasdaq
+Excellent. Thank you, Eli.
+## Eli Abboud | Equity Research Analyst, Bank of America
+Thanks so much.
+Data Source: Quartr Last updated: Mar 12, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (4) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

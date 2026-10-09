@@ -1,0 +1,7 @@
+Company: Walmart
+ROIC Symbol: WMT
+ROIC Name: Walmart Inc.
+Year: 2008
+Quarter: 1
+Date: 2007-05-15 07:30:00
+Executives

@@ -1,0 +1,572 @@
+TITLE: HOOD Summit '25: Enter the Mainframe
+DATE: 2025-09-10
+## Operator | 
+Please welcome to the stage Robinhood Chairman and CEO Vlad Tenev.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Look at that crowd! We've had a good year, haven't we? You guys look good, everyone's dressed nice. Welcome to the Grand Prix Plaza in beautiful Las Vegas, and the second annual Hood Summit. We love sports at Robinhood, particularly motorsports. We're a bunch of motorheads here. I was thinking earlier, what is it that makes racing so exciting? What do you think? Speed, I heard speed. The cars, the cars, and the precision engineering and technology. What else?
+## Speaker 3 | 
+Efficiency.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Efficiency is good. The drivers, exactly. The drivers, let's not talk about that. The drivers are very exciting. It wouldn't be very fun to watch self-driving cars circling a track, would it? Kind of like watching two AIs playing chess. You wouldn't want to watch that. The drivers represent something that I think has been underrated lately, particularly in the tech world: individual performance. The pinnacle of it. There's nothing like watching someone at the very top of their game in terms of performance. Sports, just like the arts, make it really easy for all of us to truly appreciate it. You can think of tonight as a celebration of exactly that: individual performance. Now, most of us are here because we've also chosen one of the most intense lifestyles out there.
+It's high stakes, fast pace, timing is everything, and we get to operate at the technological frontier in a world truly few understand. I'm talking about trading, of course. It's never boring, it never stops, and when you're really in the flow, there's nothing else quite like it. In the past, you might have heard me compare trading to playing the violin. You can't just learn from a book. You've got to practice, put in the reps, put in the time. I think racing is actually a better comparison for one simple reason: the car really matters. Of course, nothing happens without the driver, but oftentimes a finely tuned machine can make all the difference. That's the role that we feel Robinhood plays for our active traders. This evening, we're continuing the tradition of unveiling technology built to help you win.
+Since last year's summit, we've been grinding on your most requested features. We've got several new innovations and one dream of mine since the earliest days of Robinhood. You'll find out more about that one later. To kick us off, in the spirit of Formula 1, we're going to make this a little bit of a competition. Get ready. You're going to be a part of it. Of course, we need a pit boss. Let's welcome up our Chief Brokerage Officer, Steve Quirk.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Thank you, Vlad. Thanks. Good to be back here at year two of the Hood Summit. By the way, show of hands, we're going to have some participation here. Get ready. Show of hands, how many people were with us in Miami last year? Looks like about half the crowd. Look around. What's different this year? We have about twice as many people. Twice as many people. We met many of you last year, and we've kept in touch with some of you. I already bumped into some people that I saw in Miami, and you've kept us abreast about your progress, told us where you have challenges, and you constantly tell us about what you're looking for us to deliver. Hopefully, you're going to be pleasantly surprised tonight. I would say the team and I, when we're not working on things to deliver, we actually do what you do.
+We invest and trade. We're pretty passionate about it.
+## Vlad Tenev | Chairman and CEO, Robinhood
+He also does that when he is working.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Technically, I do. He's right. I trade a lot. You know, you got to, like Vlad said, timing is essential. Look, now the market's open 24/7 and there's market moving news constantly. We got to. Don't trade tonight. Right now. We have a lot to cover. Let's get into it. If you think about the way that you currently trade, you're either using mobile, you're using Legend, or an increasingly large number of you are starting to use both. What we would want to continue to do is deliver for you. We want to be able to find the things that you would like to see that's going to help you with your performance. As Vlad said, we have the vehicle that can help you become an amazing driver. We're going to do audience participation. Shout it out.
+Vlad's going to record these things and tell us what you're looking for. Don't be shy.
+## Speaker 5 | 
+Multiple accounts.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Multiple accounts. Okay.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Multiple accounts.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay. Hold on. Hold on.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Hot keys for Legend.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Multiple accounts.
+Hot keys.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+What?
+Oh, a bracket order.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Bracket order. Yes.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+What was that?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Short trade. I hear you.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+I got the studio account. Got it.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I heard someone yell Cortex.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+What was it?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Did I hear a dividend tracker? Dividend tracker. Okay, you want that? What was it? AI research.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+AI research
+## Vlad Tenev | Chairman and CEO, Robinhood
+. Okay, let's stop because I'm out of room on this thing.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Okay, he's running out of paper.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+You guys have a lot of ideas.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right. Let me put my pencil back here. Okay. I'll write that one down. Let's find out how much of these our team has been cooking up for you. I think you'll all be pretty happy at the end of the event. I'll let Q take it from here.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+All right.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Excited crowd.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Yeah, very excited. A lot of participation. I like it. All right. Let's get into it. I want to introduce you to six Robinhood team competitors who will be taking part in our qualifying race tonight. Our drivers, they're not driving cars. They've been driving product, and they've been racing against the clock to deliver all the things that you requested last Hood Summit and since then. Let's give them a big round of applause as they come on out. Welcome Sam, Burks, Kanyella, Grace, Gina, and Balaji. They all know the rules because they're pros and they're seasoned drivers. For everyone watching, here's how this is going to work. Each driver has 60 seconds to explain the newest feature they've been working on, and you all get to vote. You're the ones who are going to decide which one is the winner.
+We're going to do it super scientifically by your applause. The louder your applause is, the brighter the lights behind me will get. When I get a sunburn from your applause, that person's going to be a winner. All right. Pay close attention now. We're going to start off with Sam in the pole position. Sam is one of the most competent, trusted product drivers on the team. He's silky smooth coming in and out of the corners. Sam, you got a minute. What do you got?
+## Sam Nordstrom | Group Product Manager, Robinhood
+Awesome. Thanks, Q. I'm really excited to share this one with you guys, and I'll do my best to keep it silky smooth for you. Last year, when we were walking around Hood Summit, one of the things that we kept hearing from folks was that everyone wanted the ability to create and customize multiple investing accounts. You wanted accounts to be able to separately track different strategies, separate out assets, or even just be able to earn interest and use margin at the same time. We decided to do something about it. Here's how it works. All you have to do in the Robinhood app is pull down and scroll over to the plus icon to see the account types that we currently offer.
+Pick the one you want, decide how you want to invest on your own or with Robinhood strategies, choose a name, maybe some agreements, and that's it. You're in. From there, you can transfer stocks or funds from your other Robinhood accounts or from your outside accounts. Plus, your Gold benefits like 4% APY and instant deposits work seamlessly across the accounts that you create. You can customize the order of your accounts that works best for you inside the Robinhood app. Sneak it in under a minute. Pretty good.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+He came on under a minute. Last night I was in the lobby and I was speaking to somebody who actually was at the Hood Summit in Miami. Aaron, can you stand up? He was talking to me about how he has, first of all, he's doing very well in the market, which is great, and we love to hear. Second of all, he was showing me his Robinhood account. He showed me another account. I'm like, oh, dude, what's this? He's like, I need multiple accounts. We got you. We got you. Yes. Yes. Thank you. All right. Show of applause. How are you? That's a hard one to follow. We're off to a pretty strong start. Next up is Andrew Burks. Burksy, I call him Burksy, is someone who rarely downshifts out of high gear. He's pretty high energy. You're going to find that out in a second.
+He doesn't look in the rearview mirror. He's only looking out of the windshield. He's got a lot of energy. Burksy, what do you got for us?
+## Andrew Burks | Director of Engineering, Robinhood
+Thanks, Q. Y'all know simulated returns on mobile. Today we're taking it up a gear on Legend so you can see how your options play out across price, time, and now volatility. Let's take a look. All right. Let's work with a call debit spread on SPY, one of our most traded underlyings. The order form shows us max profit and loss, but how does this do under different conditions? Check out the new simulated returns panel inspired by mobile, built for the big screen. We can scrub to see P&L and Greeks update or freeze to stress test time. Ooh, nice. Legend goes further. Now we can simulate volatility. Think a tweet moves markets. Let's dial IV up. Okay, okay. Think it's overblown. Dial it back down. Either way, the power to forecast volatility is now in your hands. Want a different risk reward?
+We can change the strikes right in the order form with intact. Same strategy tuned in seconds. That's simulated returns on Legend rolling out today. Back to you, boss.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+You can almost feel how hard he's grabbing that wheel, can't you? I mean, he's got a lot of energy. Let's hear it again. How do we like this? This is going to be a tight race. Let's get to our next competitor and see what she's got in store. Daniella has a really keen sense of all her options, literally studying them constantly. She loves a night track. It is evening and we're in Las Vegas. What do you got?
+## Daniella Corricelli | Product Lead, Robinhood
+Thanks, Q. This one's going to take some trader participation. Over two years ago, we pioneered 24/5 equities trading, letting you trade stocks and ETFs 24 hours a day, five days a week. We expanded that to futures, then to event contracts, and of course, crypto has always been 24/7. What's missing? I hear it. That's right. Options. Before the end of this year, before the end of this year, we'll begin rolling out extended hours for index options, with overnight index options trading coming early next year. We are thrilled to take the next big step in giving you the freedom to trade whenever the opportunity strikes. That's it for me, Q.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+We got some night owls here. I can see that right now. Let's hear it again. We got to get these lights going. That's going to be hard to beat. However, we have a few more drivers here. For all those that were at the Hood Summit last year or watched it, do you remember Grace? She was on the stage with me, and since then, Grace has been, she's just been a machine. She's launched some of the most important things that we've had roll out in the last couple of years at Robinhood: 24/5 trading, futures, event contracts, and whoa, I don't want to give it away. What's next, Grace?
+## Daniella Corricelli | Product Lead, Robinhood
+Thank you, Q. That's very, very kind. When we launched Legend at last year's summit, we started with equities and options. Since then, we've expanded to index options and crypto. One thing's been missing. That's right. We've heard you loud and clear. Futures is coming to Legend. All right, let's take it for a spin. I just opened up search. You'll see this brand new futures section. I'm going to pull up the micro S&P future here. My chart has already been set up with some of my favorite indicators. As a couple of futures traders here, we know that speed and precision are extremely important. With Legend charts, you can easily get in, adjust, and get out, all just with a few clicks. Remember, futures market data and all the charting on Legend come at no additional cost. There you go.
+I just went from charting to trading in less than a minute. Best of all, futures on Legend will start rolling out today. How did I do, Q?
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+I think you upped the stakes, Gina, because I'm a futures trader, as Vlad likes to point out, who trades quite often. Who's excited? Let's hear it. All right. I'm glad to see I'm not alone there. We're in the final laps here. Next up is Gina. Gina has the knowledge, the capability, and the execution to be a triple threat. She delivers. Let's see what she's got lined up.
+## Gina Pasqua | Senior Director of Product Management, Robinhood
+Thanks, Q. In addition to launching features on Legend, we are going to be bringing a powerful new trading tool to our Legend users. Starting today, we'll be rolling out a new widget in Legend for the universal ladder trading widget, giving our traders a tool to act with speed and confidence. There is a twist. Also, starting today, the ladder will begin supporting both equities and crypto trading within Legend, expanding asset classes within one powerful tool. Of course, we'll also be rolling out in mobile before the end of the year. Let me show you how it works. I'm going to go ahead and add the ladder widget to my layout here. Instantly, I am seeing the live order book flow in. The power of the ladder is really how quickly you can move in and out of positions. In just one click, I'm in my order.
+Fast, fluid, and built for speed. We did not stop there. We know our traders are often using Legend and mobile together, especially when markets are moving quickly. We are also building a new feature that will be launched by end of year. It is going to allow you to use your mobile app as another screen linked to your Legend layout. I can start a link session by clicking this icon up top. Immediately, you see the ladder is pulled up in the app, staying in sync, allowing me to keep an eye on my Legend charts as I trade within the ladder in the app. As I update what I'm looking at, everything stays in sync, giving our traders the tools they need to have control and trade how they want. Back to you, Q.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Gina, this is the way I'm looking at this. We all get to seamlessly monitor or act on the market across any device at any time. That is pretty spectacular. Do you agree? Let's hear it. By the way, she was driving two cars, if you didn't notice that. All right. We have the final racer here. We call him the boss of the garage because he's the guy who's behind the scenes. Everything that rolls out, he's got his head under the hood building it. You know what they say about the people who build everything? They know how to drive these vehicles. What do you got, Balaji?
+## Balaji Varadarajan | Senior Staff Software Engineer, Robinhood
+Thanks, Q. You know, Gina just showed us the futures ladder, but she didn't show you the equities ladder. I'm going to show it to you right now. I want you to tell me if you can see what I think is missing here. Does anything look off? I'll even make it a little bit easier and we'll zoom in a little bit. Just shout it out. Yes, I see it. I hear that from the audience here. The sell button is grayed out because this account doesn't hold any positions. There's nothing for us to sell. If you're feeling bearish or you want to hedge the broader market, I think you deserve access to the same tools institutions use every single day to act on these kinds of views.
+These tools give access to all sorts of strategies, like pair trading, and these strategies are only more valuable in volatile markets. Q, you've been working on introducing shorting on Robinhood.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+I think you're getting a pretty good response.
+## Balaji Varadarajan | Senior Staff Software Engineer, Robinhood
+I think this is good. Yeah, coming to both mobile and Legend later this year. Now you can be in the race whether the market is up or down.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Oh, his vehicle goes both directions. Right? How are you feeling about that? All right. This is going to be tight. I think we're going to have some close competition here. I might need Vlad to come up. He's been in back. Oh, you're out of the suit.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It was getting hot, man. Yeah, I have been in the back talking to the audio engineers, triangulating the applause. It's surprisingly close. The two sort of contestants that it came down to, shorting very much capped the meter. Universal ladder with linking was also a good one. Let's actually go through all six of them just for fun. Multiple accounts, simulated returns on Legend, overnight index options, futures on Legend, universal ladder with linking, and shorting. It was very, very tight, but we do have a winner. Can I have a drum roll, please? Multitalented product drivers. All right, let's hear it for our winner, Gina, universal ladder with linking.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Gina, you want to say a couple of words?
+## Gina Pasqua | Senior Director of Product Management, Robinhood
+Yeah, I'm surprised. I'm very excited. I think this award goes to everyone here. We built this for our traders. You know what? I'm going to go in the back, talk to the team, and we're going to give everyone here access tonight to have access to the ladder within Robinhood Legend tonight.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's Gina's real prize, working harder for all of you. Nicely done. You all get it sooner. By the way, it was close with shorting, but Balaji clocked in at just over a minute. We had to dock him. You saw that, right?
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+All right, let's give them all a hand. Big hand. They work really, really hard to deliver all these things, and they're probably going back there right now and popping the hood. Thanks again to all of them.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right. I think that you're all going to be really excited about this. Actually, I'd say if this had been last year's Hood Summit, Q, we would have been happy to leave it at that. It's the second Hood Summit, so we have to up the stakes a little bit more. Earlier, I took out this notepad, if you recall, and I wrote down a bunch of things on the notepad.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+You got a lot on that notepad.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yeah, a full page. I can barely read it. Now, a few of the things that you requested, you just heard about, but there were a few that you requested that you did not hear about and that are not currently in development. Here's what we're going to do. We're going to try something special today, put you in the driver's seat of your Robinhood experience. You're going to decide what we develop next. No offense to Q's applause thing, but we're going to do this one a little bit more scientific.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+He didn't like my lights.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Are we ready with the poll? We're ready. Are you sure? Okay, good. I got the thumbs up. If you're not already watching this on the app, go ahead and open the Robinhood app right now. Navigate to the livestream page for this event. If you're here in the audience, just try to put your phone on silent. Wow, it looks like everyone already did that. Amazing. At the bottom of the livestream, you will see a poll with some of the features you requested, and you can vote there on what you'd like us to start working on next. All right, this is going to be fun. You'll be able to choose between these four amazing options. A dividend tracker. I heard dividend tracker. This will allow you to monitor your dividend earnings.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+I think this area was big fans of dividend tracking.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yeah, some dividend traders in there.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Hands up, who's dividend traders? Oh, we have quite a few. All right
+## Vlad Tenev | Chairman and CEO, Robinhood
+I'd say a good fourth of the audience. Okay. I heard OCOs and bracket orders from some of the folks here. We coupled them as advanced order types. You'll get all of those. All right. Advanced order types, portfolio comparisons so you can see how your strategies are performing against the broader markets and specific companies. Finally, hot keys on Legend because today's all about speed. It's very hot outside also. Whatever you vote for, we'll move that feature to the top of our roadmap and get to it as quickly as the folks back there can work on it, which I think is pretty fast. Do we have the results coming in?
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Whoa.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Dividend tracking came quick.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yeah, I think dividend tracker ran away with it. Great choice. I've been telling Quirk we need to prioritize that for years.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+I don't know if he has been telling me we need to prioritize everything.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right. Q, what do you think? Should I put it on your Q3 goals?
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+I think you can put it on our Q3 goals. By the way, the people that are sweating this right now are the six in back over there.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay, I'm writing it down. Here you go.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Oh, there's my ticket. This is how we do it. This is how we do development here.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Actually, you know what, Q? I think we've got to up the stakes even more. You agreed to that a little bit too easily. Why don't we do one better? Instead of just shipping the winner, let's get the top two out to everyone.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Portfolio comparisons.
+## Vlad Tenev | Chairman and CEO, Robinhood
+There is a little bit of a distance, but there is some good demand for portfolio comparisons. We're going to get you two. When do you think we can get both out by?
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+I would say by the time you and I are standing on this stage next year, I'm even more optimistic we're going to get it done before then.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's pretty conservative.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I think we're going to get it done before then. By the way, next year, it's going to be 3,000 of you here.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+It's pretty amazing.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Wherever we are.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+I'm going to need to bring this crowd to more meetings. This is awesome.
+## Vlad Tenev | Chairman and CEO, Robinhood
+They definitely have a lot of ideas, a lot of ideas.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+We've definitely done some democratizing today of both trading and investing.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right. We have a lot of work to do in the next few months, and we have some even bigger announcements to get to tonight. This is just the beginning. Let's have a round of applause for our in-house Doc Hudson, Steve Quirk.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Thank you. By the way, we're really looking forward to getting to spend time with you and talk about all the things that we're rolling out and show you how to use them, but also hear about all these other things that Vlad has a list on. I'm going to go give this to the team, and you're going to hear me probably getting beat up.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I'll give you portfolio comparison tools later.
+## Steve Quirk | Chief Brokerage Officer, Robinhood
+Thank you.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right. Thank you. He really does so much for our traders. All right. Everyone, will you please stand up, actually, now? I told you this would be a participatory event. Don't worry. I'm not going to bring Tony Robbins out, although that would be very cool. You have me, which is just as good. We're going to do a little survey and find out how deep into technical analysis you all really are. Why don't we start with this? If you don't do any technical analysis at all, if you don't know what it is, or if you don't do it, you can sit back down. If you do at least some technical analysis, you can keep standing. Okay, cool. Everyone is standing. That's pretty amazing. If you've never drawn a Fibonacci retracement before, you can sit down. If you have, keep standing. Okay.
+Looks like we have a lot of experienced traders here. Why don't we kick it up a notch, shall we? If you've never coded your own custom indicator, sit down. If you have, remain standing. We're really getting down to the most hardcore people. How about you? What's your name?
+## Speaker 11 | 
+Alex.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay. What language do you code your, what's your language of choice?
+## Speaker 11 | 
+Ninja Script.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Ninja Script. Okay. Yeah, I've heard about that one. That's pretty cool. What about you, sir, back there? What's your name?
+## Speaker 12 | 
+Glenn.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Glenn. You use what? Pine Script? Is it Pine Script? Okay, cool. I actually don't know any of those. I think the dedication it takes to learn them is really incredible. Let's ask one more question and see who's left. If you feel confident that you can build a custom indicator in under a minute with no bugs, you can remain standing. You can sit. By the way, you'd have to come up on stage to do it. Okay. We have one person standing. This is very convenient because it happens that he's our next presenter. He's going to show you a groundbreaking new product. One that's going to make it possible, if I ask this question again next year, for everyone to be standing. Not that I would ask the same question again two years in a row because that would be boring.
+Please give a big round of applause for Swaroon Sridhar.
+## Swaroon Sridhar | Product Management, Robinhood
+Hey everyone. Thanks, Vlad. Hey everyone, I'm Swaroon. I work on Robinhood Legend. Thanks for having me here, Vlad.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Awesome. What are you going to build for us?
+## Swaroon Sridhar | Product Management, Robinhood
+I was thinking we could build a breakout signals indicator. For those of you who don't know, a breakout is when the price moves, we'll say a bullish breakout, is when a price moves above a recent high.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Sounds pretty useful. You can do this in under a minute?
+## Swaroon Sridhar | Product Management, Robinhood
+I'm pretty sure.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay. What's your language of choice? Is it Pine Script or NinjaScript?
+## Swaroon Sridhar | Product Management, Robinhood
+It's actually just English.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's just English?
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Oh, wow.
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I know that language.
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah, me too. Me too.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right. Are you ready? Because we're going to start the timer.
+## Swaroon Sridhar | Product Management, Robinhood
+Let me just take a sec to get set up. I'm going to go into our new indicator development environment.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay, cool.
+## Swaroon Sridhar | Product Management, Robinhood
+All right, I'm ready.
+## Vlad Tenev | Chairman and CEO, Robinhood
+On your mark, get set, go.
+## Swaroon Sridhar | Product Management, Robinhood
+Okay. Show me bullish breakouts. All right, my part's done.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay, that was fast, but to be fair, we should wait for the algorithm to finish.
+## Swaroon Sridhar | Product Management, Robinhood
+The rest is up to my AI assistant.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay.
+## Swaroon Sridhar | Product Management, Robinhood
+Let's just let it cook for a second.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay, it's creating some code here.
+## Swaroon Sridhar | Product Management, Robinhood
+All right, we got it.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Incredible. 26 seconds, not bad.
+## Swaroon Sridhar | Product Management, Robinhood
+Not bad at all.
+## Vlad Tenev | Chairman and CEO, Robinhood
+You cleared it out with a bit of buffer.
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All the chartists in the audience maybe can verify that it was right.
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah. Folks, welcome to custom indicators powered by Robinhood Cortex.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right, nicely done. Why don't you get into how it works?
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah, reading through this, it looks like it's looking back at the last 100 candles, and it's calculating the highest high in the last 100 candles. Every time a candle closes above that, it's printing one of these light green arrows that says that there's a breakout. The cool thing is that Cortex actually built a settings menu for me, so it doesn't just need to be 100. I can define it to be whatever I want.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Very cool. I'm going to sit down for a bit, let you take it from here, and I'm here if you need me.
+## Swaroon Sridhar | Product Management, Robinhood
+Awesome. Thanks, Vlad. That indicator that I just built is actually one that I once tried to build on another platform. It took me a few hours to pick up the syntax, write the code, and run it, but I kept running into bug after bug, so eventually I gave up. I tried ChatGPT. I really thought that would work, but it turns out common AI models don't understand indicator scripting languages, so that didn't work either. Eventually I was left with nothing. I thought if we could find a way to simplify this, we could take something super powerful that only a few elite traders use to gain an advantage over the markets, and you guys saw how many people were standing up here, and open it up for everybody, like we did with commission-free stock trading in 2013.
+Our team's been sprinting at this ever since, and we think we've built something that's going to make it 100 times easier to build a custom indicator on Robinhood than anywhere else. That last example was pretty specific. It's one I would use in my trading. I'm a breakouts trader, but almost anybody can get value out of this product. For example, I can ask for something super basic, like, tell me when to trade. It's a question I'm sure most of you have had before and, you know, might have asked somebody, might want some help on. Let's see what Cortex says here. It's saying it can't give us trading advice, but it can tell us about a few indicators that traders use to make trading decisions. It's even giving us an option to build one of them. I can go ahead and say, build a golden crossover.
+While that's working, let's go ahead and see what Cortex said about the golden crossover. It explained that a golden cross is when you have two moving averages, usually a 50-day and a 200-day, and it marks when the 50-day moving average moves above the 200-day moving average. That's seen as a bullish signal. It's on the chart. Very cool.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's even golden.
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah. One cool thing about this is that Cortex picks up on cues in your prompts to decide how to visualize the indicator on your chart. It's definitely picking up on the fact that I called it a golden crossover. That said, Cortex said that golden crossovers are bullish. Let's actually look at some of these and see if they're bullish. Let's take a look at this one here. It looks like there was a quick price movement up that moved the shorter-term moving average above the longer term, and then there was a golden cross. After that, there was actually a pretty nice price swing up. Let's take a look at another. That one might have been a lucky one. Here's another example. It looks like there was a general price swing up, a little bit of volatility, but generally went up.
+That moved the short-term average above the longer term, another golden cross, and then a nice candle movement upwards. That being said, I'm sure if I looked at every single one of these, they wouldn't all be bullish. No indicator has a 100% win rate on its own. It's always important to look at other signals when you decide when to take a trade, like news, social sentiment, and other indicators.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Swaroon, is there a significance to when it crosses the other way?
+## Swaroon Sridhar | Product Management, Robinhood
+I believe that's actually called a death cross. You want to build it?
+## Vlad Tenev | Chairman and CEO, Robinhood
+I mean, it sounds cool. Why don't we do it?
+## Swaroon Sridhar | Product Management, Robinhood
+Okay. Let's take a look. Build a death cross. Vlad, what color do you think this one's going to be?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Oh, red?
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah, we'll have to see. I think red would be interesting.
+## Vlad Tenev | Chairman and CEO, Robinhood
+What other color? Purple?
+## Swaroon Sridhar | Product Management, Robinhood
+Purple could be interesting as well.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's my favorite color.
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Oh, look at that.
+## Swaroon Sridhar | Product Management, Robinhood
+Look at that. We got a red. Okay, very cool. There is one more use case that I want to show you that's pretty interesting. I'm going to say build squeeze momentum. Let's talk through this use case. If you use indicators on other platforms that aren't on Legend, you can just ask Cortex to build them for you. Best case, Cortex will know the indicator and build it for you right away. If not, you might have to give Cortex a brief description of the indicator, but that's pretty straightforward.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's pretty cool. That'll really make it easier to transition over if you're using another charting platform.
+## Swaroon Sridhar | Product Management, Robinhood
+Totally. It looks like it's on our chart. Very cool.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's awesome.
+## Swaroon Sridhar | Product Management, Robinhood
+Nice. Okay, let's go back to our chart for a second. I'm going to remove some of these other indicators. Let's talk a little bit more about the bullish breakouts indicator that I built for you guys. Now I have this cool visualization on my chart that tells me when any of the items in my watchlist are breaking out. That's maybe 10 or 15 items. Q, how many items do you track in your watchlist? 19? Okay. Vlad, what about you?
+## Vlad Tenev | Chairman and CEO, Robinhood
+I have one stock on my watchlist.
+## Swaroon Sridhar | Product Management, Robinhood
+Nice, nice.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I think you wouldn't have heard about it, Swaroon.
+## Swaroon Sridhar | Product Management, Robinhood
+Yeah, maybe not. Okay, for everybody in the audience, I want to hear how many items you follow on your watchlist. Just shout it out. I heard 108. I heard 15. I think I heard 20. It seems like folks follow like a dozen, a couple dozen. Maybe some people go up to 100, which is definitely interesting. There's literally thousands of tradable assets on Robinhood. No human being has the mental capacity to follow all of those. Cortex does. What if you could find tradable signals, not just in your watchlist, or even among every asset you've ever heard of, but across the thousands of tradable assets on Robinhood? We have a vision that one day Cortex will be able to do that for you, to go beyond what the brain is capable of and scan the market for trades that match your strategy.
+Actually, it's more than a vision. We already built it. Introducing custom scans powered by Robinhood Cortex. This is a new tool for finding trades that meet any criteria imaginable. It's a brand new widget we're adding to Robinhood Legend that has over 300 filters covering technicals, fundamentals, and options data. Scans continuously for the criteria that you set, and it works across multiple asset classes: stocks, ETFs, crypto, and futures. Best of all, you can fully navigate it with Robinhood Cortex. Okay, let's do a quick demo. Sticking with the theme of my trading strategy, let's look for stocks that are breaking out. You'll see a new widget in the widget menu called Scanner. I'm going to go ahead and add that to my layout.
+On most platforms, if you wanted to look for stocks that were breaking out, you'd probably have to spend several minutes digging through a bunch of filters, figuring out what map to breakouts, and setting the parameters exactly right so you could get stocks that were breaking out. On Legend, I can just ask Cortex. I'm going to open up our new Cortex mode for the scanner. It looks a little bit like the one you saw for indicators. I'm going to say, find me stocks that are breaking out above a recent high. I'm also going to say, no penny stocks. High liquidity only. I typically only trade large caps, medium and large caps, not really small caps. Cortex just pulled in stocks that are breaking out. Let's take a look at them on the chart, ultimate moment of truth.
+I'm going to change this to a five-minute because a breakout strategy is more of an intraday one. Let's look at Clover Health. We see a nice breakout here that happened earlier today. Very cool. Let's look at one more, Prime Medicine. Another one, another breakout. Very cool. Vlad, does any of these interest you?
+## Vlad Tenev | Chairman and CEO, Robinhood
+How about NewScale Power?
+## Swaroon Sridhar | Product Management, Robinhood
+NewScale Power? let's take a look.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right.
+## Swaroon Sridhar | Product Management, Robinhood
+We saw a breakout. Very cool. Nice. It's cool that the custom indicator shows it as well. In summary, you'll soon be able to build custom indicators and custom scans with Robinhood Cortex. No code, no manual filter setting. Just ask Cortex what you want, and it'll build it for you. This is just the start of how we're envisioning Robinhood Cortex can uplevel your trading. There's a lot more to come. Thanks.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Wait, wait, wait. Hold on one sec. These technical indicators are cool and all, but I think the audience would like to put this to the real test. We want to see a real fundamental meat and potatoes scanner. What do you guys think? All right, because I've got one in mind. CEOs that deadlift. Let's go.
+## Swaroon Sridhar | Product Management, Robinhood
+CEOs that deadlift.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Can it do it?
+## Swaroon Sridhar | Product Management, Robinhood
+We can give it a shot.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Let's do it.
+## Swaroon Sridhar | Product Management, Robinhood
+Not sure if it's built for this use case, but we'll see what happens.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Put it to the real test.
+## Swaroon Sridhar | Product Management, Robinhood
+Can you find me CEOs that deadlift?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Oh, look at that.
+## Swaroon Sridhar | Product Management, Robinhood
+Uh-huh.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Looks pretty accurate to me. Nicely done. You doubted Robinhood Cortex. Look at that.
+## Swaroon Sridhar | Product Management, Robinhood
+All right. Thanks, Vlad.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right. Thank you. Give them a round. Swaroon, our one-minute indicator man. Okay, this is really cool. Who feels a little bit more confident that they can now code a custom indicator? Pretty incredible. With Cortex, I think we can create a lot more advanced traders. For the advanced traders already out there, save you a whole lot of time. I hope you can appreciate the velocity with which the Legend team and the Cortex team have been moving. Robinhood Cortex for Legend will start rolling out early next year as a Gold member exclusive. By the way, I'm not aware of a major platform that lets you do much, if any, of this. Cortex is just going to get better and better and more integrated into every part of your Robinhood experience. Very exciting.
+Before we get our closing announcement of the night ready, I'd like to take a moment to introduce you to one of the first traders at Robinhood. I'm very excited about this. She was one of our initial users when we first started, and I just got word that she was going to be with us at the summit today. I actually had to figure out how to invite her up on stage. Please give a warm welcome to Selena A. Hello, Selena.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Great to see you again, Vlad.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Please take a seat.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Sure.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's been a little while. It's not too often that I get to see the original members of the Robinhood community. When did you first start using Robinhood?
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+I think it was 2013. I've been a happy customer for the past 12 years. In 2013, it was a little bit different. I don't know if any of you were on there. It seemed like there were very few members at the time.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's true.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+It was before you could even trade. You would pick a stock and rate it as buy, sell, or hold, and write comments about why you made those choices. Other people on the app would choose to follow you or you could follow them. It became a pretty exciting app to learn what the community was doing and take some notes.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yeah, you might not know this about Robinhood, but before we got our initial approval from FINRA to operate as a brokerage, we were a social network for traders. I was a skinny 25-year-old kid back then. This is a picture of me in Beijing.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+I think that was the original Robinhood logo, right?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Original Robinhood logo and the icon.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Before the design award, I imagine. Yes.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I know what you're thinking. I hadn't deadlifted back then.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+No, I was actually thinking that I think you still have that same purple pullover.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yes.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+That's you, yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I think that's right. My favorite color. We went through the archives and actually found the first ever article about Robinhood where it was in a major publication. This was from TechCrunch back in April of 2013. What's really cool about this article is that if you look into it, they actually have some screenshots with your social posts, including this pretty prescient buy rating on Facebook. Remember, this was back in 2013.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Yeah, the selfie is a little embarrassing, but let's focus on my percentage. I was 99%. I was the top in the community. If you go back.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Oh, there's your profile.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Okay, if you go back to the previous slide, I wanted to show off something. I rated Facebook as a buy. This was 2013, and I wrote a little comment about why I did that. I was excited for the graph search ads. You can go to the next slide.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's pretty deep analysis.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Most importantly, note my slogan, which was the dollar signs right here, the $3.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Did anyone send you DMs through this?
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+No, I don't think so.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Didn't you get a journalist one time?
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+I did, actually, yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yeah.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+A journalist, yeah.
+## Vlad Tenev | Chairman and CEO, Robinhood
+There was a journalist.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Wanted to know my strategies, but I wasn't willing to share at the time.
+## Vlad Tenev | Chairman and CEO, Robinhood
+She was offered an opportunity to interview on national television about the performance. This was the power of our admittedly small community.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Yep.
+## Vlad Tenev | Chairman and CEO, Robinhood
+99th percentile.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Yeah, I was very proud of that. It was something I woke up in the morning and was very excited to open the app and see how it was doing. One thing that I'm not so proud of is that my rating accuracy was only 58%.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Did you know Roger Federer gave an interview, and he talked about how he only won 54% of his points throughout his entire tennis career? In a way, you're better at picking stocks than Roger Federer was at tennis.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Yeah, I feel really happy about that accuracy, but kind of disappointed that I actually couldn't trade those on the app at that time.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That is true. Actually, our plan was to integrate trading with all of these social features when we received the approval to get our brokerage license. We ended up just focusing on trading. We figured it was hard enough to make that work. Let's not challenge ourselves too much to try to make a world-class social network and a world-class trading platform. We decided to shut down this community back in 2013.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+very disappointed, but I was also looking at my buy at Tesla at $45 right there.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's a priest's wedding.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+I was very disappointed when the social aspect of Robinhood ended. Even more disappointed.
+## Vlad Tenev | Chairman and CEO, Robinhood
+We have discussed bringing it back at many points in the past in some capacity. What do you guys think? Is this something that you'd be interested? Okay. I think this is something we can look forward to possibly announcing at next year's Hood Summit.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+I'm looking forward to it. Only 13 years.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Come on. You guys know us better than that. Introducing Robinhood Social.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Very, very.
+## Vlad Tenev | Chairman and CEO, Robinhood
+This time, it's with real trades backed by real money. You know that the people you're following have real skin in the game. Let's give a big round of applause for Selena for coming up here.
+## Selena Swaby | Original Member of the Robinhood Community, Robinhood
+Thank you. Thank you. Good to see you. A handshake.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Helping introduce Robinhood Social. All right. Next up, to tell you all about Robinhood Social and its 2025 incarnation, I'm going to bring up the man who brought you Robinhood Legend at last year's Hood Summit. Hopefully, you remember him well. Abhishek Fatehpuria. Come on up.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Got a great crowd today. How's everyone doing? Excited to get a sneak peek at Robinhood Social. I guess before that, though, we're getting into the habit of announcing products with your family members.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I've got a bunch of kids too, and godchildren will keep you busy for years to come.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+You know, maybe next year at a more family-friendly venue. Let's jump into Robinhood Social. I'm curious, how many of you have ever looked at social media for trade trends or ideas? Almost everyone here. How many of you feel like you can trust what most people say on social media?
+## Vlad Tenev | Chairman and CEO, Robinhood
+A leading question there.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+I saw like two hands, so basically no one. We all know that's a big problem. Most people today use social media before trading, especially our active traders. Yet social media is overrun with clickbait, marketing bots, fake profiles, and doctored screenshots, sometimes designed even to mislead traders. You can see a bunch of examples behind me.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Really low signal-to-noise.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Really low signal to noise. We have been building Robinhood Social, the financial social platform optimized for trust with real identities, also known as real Robinhood customers. Second, verified trades with live P&L, so you only get legit trades with real conviction behind them. Whale tracking lets you follow the moves of politicians, hedge funds, and insiders.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's a fun one, isn't it?
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+That's a fun one.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Whale tracking, a crowd favorite. All right, another way to think of this, in addition to all the market and company data you might be used to getting from Robinhood, this is an entirely new and I think crucial vector of information, which is what other traders are actually doing and how they're actually performing in real time.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Should we just show them?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Let's do it.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+All right. Let's open the app. Very secure password, four zeros. Looks like we're streaming right now. That was cool. All right, I'm going to hit the social icon at the bottom to load it up. Let's play that again.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Looks nice, doesn't it?
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Let's play it again. Looks great.
+## Vlad Tenev | Chairman and CEO, Robinhood
+He's very proud of that animation.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+All right. In this For You section, we're going to create a feed with content that we know you're interested in, including what's trending. This isn't an ordinary For You page. Let's take a look at what it can do. The first thing I want to show you is what a trade looks like. Live trades on Robinhood Social are really cool. You can see the live P&L and the entries and exits. If we check out Anna's trade here and I scrub, I can see exactly where she entered and exited her position.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Is that what the little dots are?
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+That's what the little dots are. Pretty cool. You guys can clap. Go for it. We're going to launch this with all assets that you can trade on Robinhood. Equities, options, crypto, futures, and event contracts.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Can you scroll down there? Is that football?
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Yeah, I think that's the rematch coming up this weekend.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's pretty exciting.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Pretty exciting.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I don't think other financial platforms do that. You can watch the game, make your trades, coordinate, communicate with other traders.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Yeah, because Robinhood funds are with the Baltimore Buffalo game. Second, we talked about power players. We have publicly reported trades from politicians, hedge funds, and company insiders.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Nancy Pelosi.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Yeah. Why don't we check out Nancy's profile? Very fun. Two more things before we get into the fun stuff. There's a lot of data that you can only get on our platform with Robinhood Social, like Robinhood Trends, where you'll see volume surges on specific stocks and the top traded stocks on Robinhood. Finally, you'll see the top news that might interest you based off of the stocks you follow or own. Vlad, do you want to get your phone and we can show them how Social works with two devices?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Let's do it. I'll be right back.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+While he's pulling that up, I'm going to head over to Vlad's profile.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I'm very nervous because I always screw this part up.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+You're doing a pretty good job today with your P&L.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay, let me not watch the live stream.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+We're already here.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Why don't we go for NVIDIA, shall we?
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Yeah, let's do it.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+I think that's a crowd favorite.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Here we go.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Make sure to do a limit order.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Let's trade now.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Oh, I think your screen just went out, but we'll trust that you're placing the trade.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Oh, did it? Gosh.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Just place the trade. It'll show up on my feed.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay, I am trading. Hopefully, you can see it from far away. Let me post to Robinhood Social with my rationale.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+What's your thesis?
+## Vlad Tenev | Chairman and CEO, Robinhood
+My thesis is everyone is buying. Actually, why don't you wait to see it on the feed?
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+All right. There it is. Everyone is buying P&L.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Like I said, I can see the live P&L on Vlad's chart. I can like it. I can comment. Only if he was on the index.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+I can bookmark it, but this isn't any old bookmark. Every time Vlad updates his position, it'll notify me.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I will tell you, the interface should feel very familiar if you're familiar with Robinhood and social platforms. What's this thing?
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Yeah, this is the Robinhood special.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I love those.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+If I like what I'm seeing on a particular trade and I want to place the trade, I don't have to go anywhere. No searching. I can do it right from here. If I hit this plus icon, it'll send me directly into the trade flow where I can tail Vlad Tenev into his trade. The market's closed right now, so it won't fill. No switching apps, no searching, completely seamless.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Abhishek, there are some people that like to post their trades to other social platforms, you know, Wall Street Bets, other subreddits, X, Discord. Do we have something for them?
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+Yeah. While we would love for you to be loyal to Robinhood Social, it's not going to be a standalone platform. It's going to be an upgrade to the entire ecosystem. Posts will be shareable and verifiable on other platforms. This means that when I post to Discord, X, iMessage, or anything else, the links will auto-expand and show the trade and the performance.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's really beautiful. I think the mods of those subreddits will be happy. They've been asking for this for quite a while. Robinhood Social will start to roll out early next year. Creating a profile is completely optional, of course, but even if you don't want to become the next big financial content creator like Selena, we think you'll find this an indispensable way to reduce all of the online noise and find out what's really happening in the business and financial world.
+## Abhishek Fatehpuria | VP Product Management, Robinhood
+People will say anything, but they invest only when they truly have conviction, and we're really excited about Robinhood Social.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right, let's give it up to Abhishek for bringing us all together. All right, it's been an incredible night. Lots of announcements. I'd be impressed if you could remember all the announcements because I have trouble sometimes. On the screens behind me is a quick recap of all of the things we've announced and launched. Indicators, scans, shorting, Robinhood Social, and actually much more coming, including your latest requests tonight. How are y'all feeling? Great. I'd be remiss to not mention HOOD Month. There are actually six days left to take advantage of the HOOD Month bonuses, which are a chance to win one of 5,000 gold bars. Very exciting. 2% account transfer match. That's a big match. One of the biggest we've done. Those don't come around very often. 2% crypto deposit bonus. This is a good combination of benefits.
+If you are considering moving any accounts over, there might not be a better time. This is the best time. At the start of the night, I promised we would be celebrating individual performance, the driver's edge. Just because we're individuals doesn't mean we have to be isolated. There are millions of people like you on Robinhood, from those just getting started to some of the best traders in the world. I see a few of them in the audience tonight, actually. A couple of times a year, we were lucky to get together, a few of us, in events like this. Now we're extending that to everyone. We want to give everyone this feeling through Robinhood Social. With connection comes community, with community comes knowledge, support, and growth, and for many, purpose.
+To really reward those of you who've chosen to spend your time with us tonight and to be a part of this community, we're going to give you all priority access to Social when it launches early next year. You'll be charter members with a head start on building your followings and connecting with fellow traders. I think that's going to be valuable. For those of you on the stream, I'll leave you with one last announcement. As you can hopefully tell, we've been making a lot of rapid progress on Robinhood Cortex that we thought, you know, and what you saw today is really just scratching the surface. We've got a lot more for you. Make sure to catch our first ever AI product event coming up this December. If you're here in person, Hood Summit is just beginning. Thank you for joining us. Start your engines.
+I'll see you on the grid.
+Data Source: Quartr Last updated: Sep 10, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (15) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

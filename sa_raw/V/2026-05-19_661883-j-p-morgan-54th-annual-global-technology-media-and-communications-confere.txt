@@ -1,0 +1,237 @@
+TITLE: J.P. Morgan 54th Annual Global Technology, Media and Communications Conference
+DATE: 2026-05-19
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Thank you everyone for joining this morning. My name is Tien-tsin Huang. I'm the payments analyst at JP Morgan, and it wouldn't be a tech conference without Visa. Excited to have Visa kick off the second day here. From Visa, we have Chris Suh, the CFO. Chris, thank you for being with us.
+## Chris Suh | CFO, Visa
+Of course. Thanks for having me. Thanks everyone.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+We have a lot of things to talk about.
+I thought I'd kick it off just with, I liked Ryan talking about Visa being the hyperscaler of payments.
+## Chris Suh | CFO, Visa
+Right.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+You know, hyperscalers, AI, there's so many, you know, big buzzwords now in tech. I thought that was a pretty clever way to describe Visa. What does that mean to you as the CFO?
+## Chris Suh | CFO, Visa
+Yeah. I think it's a great analogy. I mean, simply put, you know, at the highest level it means, we're curating an ecosystem, helping it be successful, helping the participants in an ecosystem be successful, and in turn that's gonna enable Visa to have more growth opportunities that will drive durable longterm growth for Visa. If I think about, you know, what that means if I just even click down a layer deeper, maybe versus starting with, like, what do we mean when we call ourselves a hyperscaler, the leading global hyperscaler for payments? The way we define it, of course, is that, you know, analogous to a more classical sense, we enable an ecosystem, all the participants in the ecosystem to build on our stack.
+In turn that grows the stack, it grows the ecosystem and the participants in it including Visa. If you think about the layers of our stack, we call it Visa as a Service stack, again quite analogous. You start with the foundation layer.
+which is really our network. If you think about, you know, sort of the 175 million merchants, the 18 billion endpoints, the 200 countries that we operate in, that forms the infrastructure layer, if you will, analogous to that. You have the services layer, which is really the components, the building blocks that we've now componentized but is the building blocks of our service. Think about credentials, authentication, tokenization, security, those features now, you know, are componentized. The next layer up from that is our solutions layer, which we take the building blocks in the services layer and we've created solutions that we make available to a broad set of clients. Finally the access layer, which is really the client entry point.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Right.
+## Chris Suh | CFO, Visa
+Think client APIs as the best way to do that. When you wrap that up, it enables us to continue to win in consumer payments and commercial money movement. It enables us to expand our TAM associated with AI and agentic. It allows us to be the interoperability layer between stablecoin and traditional payments and, you know, broadly expands the opportunity to continue to deliver successful VAS. When you put all that together, it's really the evolution of our network strategy. It enables the ecosystem to grow. It enables us to embrace innovation, grow our addressable market, and continue to ensure that we continue to see the durable long-term growth.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah. It seems to be working. Last quarter was probably the best quarter we've seen out of Visa in quite some time. I thought we'd start with that before we go into the details. How would you characterize it, Chris? How the quarter landed? How does that inform your thinking for the rest of the year?
+## Chris Suh | CFO, Visa
+Yeah. It was an outstanding quarter.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yep.
+## Chris Suh | CFO, Visa
+It was, you know, the best quarter of growth that we've seen in over a decade excluding kind of the pandemic recovery period.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Sure.
+## Chris Suh | CFO, Visa
+You know, we can sort of go into like the different puts and takes of that, but maybe the first two statements, like the broad framing that I would offer is that, one, underlying consumer spend continues to be resilient in the U.S. and internationally. We're seeing that across multiple dimensions. Happy to talk about all of that. The second thing, just in terms of highlights, reflections on the quarter, is that both, you know, the two areas that we call our growth pillars, value-added services and CMS or commercial and money movement solutions, they're really thriving. We're executing really well. Those are areas that we focused on for a long time, as you know. Strategy, investment, focus. We're seeing, you know, terrific growth. VAS was $3.3 billion, 30% of our revenue last quarter and grew 27%.
+CMS grew 24%. Those two growth pillars, again, the fastest growing parts of our business are doing really excellent. That's, you know, consumer resilience and strong execution across CMS and VAS. You know, as we click in, you know, there are many sort of puts and takes into the quarter. We saw stronger volatility than we anticipated. It's still a drag year-over-year, but it's certainly better than we anticipated. We saw incentives coming in lower than we anticipated. Deal timing, some performance adjustments. Value-added services of course, as I indicated, continues to be really strong. A lot of that pulls through to the full year.
+We were happy to take the strong half one combined with our revised outlook for the second half and raise our full-year guide for both revenue and EPS. Stronger volatility. Stronger value-added services too, which is really, again, an highlight. You know, FIFA World Cup's only about 20 days away.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+That's right.
+## Chris Suh | CFO, Visa
+We see great client enthusiasm for it, enthusiasm also translates into working with Visa to activate the brand, our investment in the FIFA brand and the logos, and we see that. I gave some examples on the earnings call. A client in LAC with, who has 20 million cards and they did a campaign with us, and they've seen a 10% uplift in active cards, which drives more payments volume. It's a great flywheel that's working as well. In years that we have something like a World Cup going on, it's even, you know, more tailwind to growth. All in all, really great quarter, growth in the areas we'd like to see, and consistency, I think, that pulls through to the full year.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Good. Drilling in on volume, you gave an example there.
+## Chris Suh | CFO, Visa
+Yep.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Chris. Just thinking about the volume acceleration, how much of it is cyclical versus secular and some of the things that you're promoting? Because even if I look at the U.S. accelerating, I think it's the fastest growth we've seen in three years, and to me it quiets some of the worries around saturation and high card penetration. Cyclical versus secular, how would you describe it?
+## Chris Suh | CFO, Visa
+Yeah, I mean, you're right. I mean, the first statement I'd say I agree with you. Underlying drivers, you know, I just call consumer resilient. That's shorthand for across the breadth of the business, USPV up about 1.5 points in the quarter. Some of that was tax return driven. We talked about that. There, there's, you know, by all measures, higher tax returns landing in consumers' pockets, but also underlying fundamental strength. We're seeing discretionary spend, non-discretionary spend be strong. We're seeing debit and credit be strong. We're seeing spend across different, from low spend bands to high spend bands all being quite healthy. All the indications, U.S. continues to be quite healthy.
+International PV as well, stable, strong in most markets, with one exception being CEMEA, which was down two and a half points, but that was really concentrated around the conflict.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Sure.
+## Chris Suh | CFO, Visa
+Happy to talk about that as well. All in all, sort of indications that there are good, strong underlying fundamentals across our drivers. We're seeing it in PV. We're seeing it in processed transaction. We're seeing it in cross-border as well. That was all through, you know, Q2. In the period subsequent to that, you know, I gave in my earnings commentary, you know, the update through April 21 . We said, okay, at the end of Q2, we saw USPV continue to remain strong. In fact, maybe up a little bit. I know it's only three weeks.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Sure.
+## Chris Suh | CFO, Visa
+PT was, you know, staying in the, you know, it moderated a little bit, but sort of staying there. The cross-border had moderated down a little bit, and I gave the reasons, being timing of Ramadan as well as the conflict in the Middle East impacting travel. Just by way of update through now May 14th , we've seen all those levers, USPV, processed transactions, cross-border with travel and e-commerce, all improve a little bit from that April 21 date. You know, it's up slightly since that timeframe. Again, it just shows it's not like one thing driven, some sort of secular thing. We're seeing broad-based strength, and it's consistent in all the metrics that we track.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Okay. No, that's a good update. That's encouraging, for sure. You mentioned the conflict. Let's just drill in on that and cross-border. I think going into the quarter, Chris, you know this, there was a lot of concern around the conflict. Airline capacity being drawn down. Of course, like you just said, things were tracking pretty well. How do we separate these headlines from actual performance? We're always trying to, of course, get an edge and try to predict based on some of these signals, but it didn't quite play out. What is your exposure there? What signals do you watch? What does the outlook assume specifically?
+## Chris Suh | CFO, Visa
+Yeah, I almost wanna sort of we talk about the conflict and the impact of the conflict in general, but you know, I go back to the statement that I just made, which is across our cross-border volumes.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah.
+## Chris Suh | CFO, Visa
+Consistent, strength, and stability, that, you know, that we've seen, not just this last quarter, but for many quarters. You know, we've continued to be strong. You know, but let's unpack it 'cause there's a lot of puts and takes. In the quarter, we did see travel in the CEMEA region, in particular in March as the conflict, you know, accelerated, if that's the right word, the travel, you know, was impacted. There was offsets. There was strength in the U.S. notably, which we called out. Strength in the U.S. comes from lapping. There's two or three things I would call out: lapping low inbound volumes from a year ago from Canada.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Right.
+## Chris Suh | CFO, Visa
+That helps both travel and e-commerce. There was strength in LAC 'cause actually some currencies in LAC, notably Brazil, Mexico, Colombia, had strengthened versus the U.S. dollar, and that always has an inbound, historically has an inbound lift. We're seeing that. That also travel and e-commerce. Benefiting travel from AP was strong OTA volumes that we saw that helped on the travel line. Those things, we're seeing stronger, commercial volumes in there as well, commercial cross-border volumes. Those were the puts and takes that got us there, which then got us to a pretty strong number in Q2 offsetting, you know, the March impact. The update. Now, it's kind of like what I just did with total volumes, just to drill into the cross-border thing a little bit deeper. As I indicated in your last question, cross-border did tick down.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yep.
+## Chris Suh | CFO, Visa
+There were two things that I called out. One is the timing of Ramadan. We were lapping the post-Ramadan surge from a year ago in the first weeks of April, and then the conflict in the Middle East. Through May 14th, we're actually seeing cross-border in total kind of be aligned to the levels that we saw in February. If you recall what I said on earnings, we said if you just normalize for the Ramadan timing, it actually, that April stub period, the 21 days would have been close to February as well. The implication of all that is we've seen some strengthening, in fact, in the post-April timeframe, to get us back to the February levels in total.
+Again, lot to unpack, but we're seeing even in spite of some variation from region to region, we're seeing strength and consistency and healthy travel and e-commerce volumes. I think the second part of your question is. Why? D o we see that? I do think it goes back to the, you know, we talk about this regularly. We talk about the fact that the exposure to Visa's business is one of the most diverse anywhere, and that applies to cross-border.
+It applies to the fact that, you know, no single region is more than 25% of our inbound volume. We've talked about that consistently. Also, the fact that e-commerce is now a bigger percent of total cross-border, about 40%. E-commerce has more association with everyday spend. There's things like, you know, more cross-border commercial volumes and other things like that. Which just again, the diversity of the business provides for great resilience, consistent health, that gets reflected in aggregate.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah. Mix diversity is the answer, right? That's driving a lot of the, you know, the resilience that you see overall in the performance of the business. One more, if you don't mind, Chris. I always hate to ask it, but just with FX volatility, you mentioned it. You know, how big of a contributor could that be or is that to the model?
+## Chris Suh | CFO, Visa
+Yeah. It's, as I indicated, it was one of the sources of outperformance relative to our expectations. It was a drag year-over-year because we had some high volatility a year ago. You know, but this is kinda notoriously hard to predict, I would say, given how much variability, how much volatility there has been in the volatility line. Maybe if I could just take a minute to step back and explain, you know, 'cause I can't size it for you in the same way, in exactly the way that you asked, but I could give you some.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Please.
+## Chris Suh | CFO, Visa
+I could try to dimensionalize it a bit. The place I'd start is sorta understanding what, you know, what it is that how we monetize volatility. Maybe just working backwards, how do we report it out so that when you all look at it in our P&L, we have a line in our revenue reporting called international transaction revenue. That's primarily driven by our cross-border volume. It's not all our cross-border volume. Cross-border revenue can land in different places. International transaction revenue, which is defined as when the merchant and the issuer are not in the same country. So that's cross-border by definition, and so it drives off of. We monetize that cross-border volume in two ways in international transaction. One is we collect fees on that volume.
+Secondly, because we transact in 160 currencies and settle in 25, we, at our scale, we can offer currency conversion services to our clients. When that happens, that's the second part of the fee structure in international transaction revenue. Mechanically, every day we publish a bid-ask spread, and then as volatility goes up or goes down, it, you know, changes the size of the spread and therefore the how we monetize it. That's been, you know, when we guided to Q2, January, if you remember at the beginning of January, volatility was pretty low and then it, you know, went up significantly throughout the course of the quarter.
+Hence we overperformed, and then we are lapping some high numbers from a year ago. That all said, we've kinda reverted back to where we started the year.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah.
+## Chris Suh | CFO, Visa
+In terms of the full year of volatility number. Yeah. That's how volatility lands on our P&L. We're anticipating sort of a normal year in total. Obviously geopolitical events and things like this can impact that, and so we'll have to see how it all plays out.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah. Well, despite the drag, despite the conflict and everything else, right, like we said earlier, the results have been really quite strong.
+## Chris Suh | CFO, Visa
+Yeah.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Strongest in quite some time. Let's pivot.
+Just for the sake of time. Let's do value-added services, right? You mentioned 30% of revenue has been growing mid-twenties plus for what, a year now. You mentioned a few, like FIFA, some projects that you do. My question here is what's more episodic?
+## Chris Suh | CFO, Visa
+Yep.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+One-time type revenue versus structural growth that you're seeing from value-added services to get you to that mid-twenties number in the end?
+## Chris Suh | CFO, Visa
+Yeah. I mean, Totally, value-added services has been a continued highlight. We had a, you know, a particularly strong quarter at the 27% growth rate. It's 30% of the business today. If you think about where in 2019 the combination of VAS and CMS was about 23% of the business, and today just VAS alone in Q2 was 30%. We've come a long way. I just, I do think that, you know, we've been benefiting by clarity of strategy, clarity of focus, going after big addressable markets, where we have, you know, that are either core or core adjacent, where we have a great position to capture. It's a big TAM, and we're early days in that, and we've invested behind it both in product and go to market.
+Like, those are all the things, you know, you'd want, I think a company to do to go after a big addressable opportunity. That all said, VAS is, I know sometimes, like, it's not as easy to understand what all the pieces are, and so there's a lot of services. Value-added services is not a product.
+It's a, you know, it's a sort of a growth division. I, we have hundreds of products and services. We categorize them into four portfolios. Each of them are big. The last time we shared the numbers that, you know, the smallest was $1.3 billion, the biggest was $3.5 billion. That applies to FY 2024 numbers, they were all growing in the mid-teens or higher. You're seeing breadth across the business. There are issuing solutions, which are services and products and services targeting our issuing clients, really driven off of Visa transactions. The second are acceptance solutions, per the namesake, products and services targeting acceptance clients on the merchant side of the house. Those are really driven by all payment transactions, Visa and non.
+The third is risk and security solutions. It really is about protecting the ecosystem and also, the underlying base is all transactions. The fourth is advisory and marketing services, that's really driven by engagements. To now to sort of like, you know, go into your question a little bit more, in terms of what's driving it episodically. The strength, as you know, has been not just this quarter, not just this year.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Sure.
+## Chris Suh | CFO, Visa
+In the three years that I've been at Visa, I think we've grown more than 20% every single quarter. Over the last four quarters, we've seen that even accelerate a little bit more. If you go back to all the earnings commentary that we make, you see that different things drive growth in any particular quarter, which all just is indicative that the business is quite healthy across the broad breadth of things. Maybe the final thing I'd say.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+No, it's important.
+## Chris Suh | CFO, Visa
+It's really important. The message that I would also convey is, you know, when we think about that breadth of business that we talked about, you know, the four portfolios, the hundreds of services, the billions of dollars that it's driving, the vast majority of that business is very deeply connected to our card network business.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Right.
+## Chris Suh | CFO, Visa
+That's transactions, that's accounts, and cards. Across the breadth of the business, there's a very durable underlying fundamental connection to the core business, and that gives us great, you know, comfort. We continue to expand, geo expansion, product expansion, even through acquisitions like Pismo and Featurespace. Those are gonna be additive to going to capture that TAM, where the ability to continue to add more value, which means we have the ability to price to that value. When you add that all up, both the past performance and our outlook for value-added services, it's a business that we continue to be very optimistic about.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Sure. No, it makes sense, too. I thought we'd just drill into one. I picked.
+## Chris Suh | CFO, Visa
+Yes.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+If you don't mind. Let's do issuing and think about, you know, Pismo has had a lot of success since you acquired it. You just mentioned it, and you mentioned on the call that you picked up some new business with Wells Fargo has gotten a lot of attention there.
+## Chris Suh | CFO, Visa
+Yeah.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Tell us about the thesis there. Why is it important for you to own Pismo, own processing assets? We have a lot of other issuer processors that are here at the conference, Chris. Why is it important and a differentiator for Visa to own that?
+## Chris Suh | CFO, Visa
+I think three different questions sort of embedded in there. One is the thesis behind the Pismo. You know, Pismo is a cloud-native issuer processor, core banking platform. It's very complementary to our existing. We didn't really have a core banking platform, We had DPS, which was primarily debit, primarily U.S.-based, Pismo was debit, credit, commercial, It was, like I said, cloud native, and it was international.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Right.
+## Chris Suh | CFO, Visa
+They're, you know, they were sort of good complements to that. We've seen, you mentioned, you referenced the Wells Fargo win. You know, I think it's indicative of our strategy. It's a global strategy. It addresses clients from large to small.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Good.
+## Chris Suh | CFO, Visa
+The Wells Fargo deal is a great example of the confidence that we have in the service as well as, you know, now endorsed by a very, you know, significant client. Obviously, it's early days and, you know, we're gonna have to prove all that out. That's all on plan. We've expanded Pismo, 5 new countries expanded. I talked about geo expansion in FY 2025. That's 15 new countries that we've entered since the acquisition. Geo expansion, product expansion, kinda consistent with that thing that I talked about with value-added services to capture more TAM through that way. The combination of the two is powerful.
+You know, you can really have an end-to-end solution across issuer processing, core banking platform, and, you know, our payments network, the distribution that Visa brings to an incredible technology that we found in Pismo that now has a global distribution platform with Visa, with our client engagements. I think it makes for a really compelling story and a compelling value prop for our clients.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+You also bought Prisma and Newpay. Now you're combining that together, it feels like, with Pismo. I mean, we have to pay attention, right? 'Cause anytime Visa buys something, you put it on your network, you're gonna amplify the growth rate. Why was it important to fill it out, specifically, I think Argentina's, the geo there?
+## Chris Suh | CFO, Visa
+Yep. It is Argentina. Exactly.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah. Why is that so important?
+## Chris Suh | CFO, Visa
+Well, it is a very Argentina-specific strategy. We bought two companies really there in one transaction, Prisma and Newpay. Prisma is you know, a credit, debit, issuer processor. Newpay is an RTP network.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah.
+## Chris Suh | CFO, Visa
+Plus an ATM network. That's a little bit new for us, but it makes great sense given Argentina, you know, RTP and ACH networks comprise 45% of the PCE in Argentina.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Okay.
+## Chris Suh | CFO, Visa
+You know, that's a, an interesting opportunity for us to in a single market go do that. I think Prisma has a lot of the same attributes that I just described with Pismo in Argentina. The combination of the Visa distribution and the brand can really have that end-to-end solution for clients. It's a very comprehensive way to engage from a go-to-market standpoint. We could also bring a lot of I mean, Prisma's had a lot of success, you know, within the market. They have good a lot of clients and a deep penetration into that market. Now we can also improve by bringing our global innovation and technology platform that, you know, we could bring in more advanced technology, whether it's around risk and authentication or tokenization.
+We can invest in that market, I think, you know, the combination of that, the, as I said, the RTP share of the business, the issuer processing side of the business, combined with Visa's, the strengths that Visa brings, I think we can really accelerate growth in Argentina.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Okay. No, it's fair, and it makes sense. You know, you mentioned tokenization, and it feels like, you know, owning some of these assets gives you an advantage to deploy some of these tokens, but can you update us? We're quite bullish on the tokenization opportunity for Visa. It's a decade plus and building that out, and it feels like it's gaining more momentum. Maybe quickly just go through tokenization. Where are you with penetration? What's next for us to expect in terms of growth? I know agentic gets a lot of attention there. We can talk about that separately if you like, but just tokenization, where is it?
+## Chris Suh | CFO, Visa
+Of course.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Where do you see the momentum going?
+## Chris Suh | CFO, Visa
+I mean, like, you know, consistent with what you just said, we've been bullish, if that's the right word, on tokenization for a long time. We've been investing behind it broadly, meaning innovation, adoption. We've been really pushing on adoption. You know, to date, I think we're pretty happy with where we're at, where over 50% of e-commerce transactions are now tokenized.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Right.
+## Chris Suh | CFO, Visa
+That's 30% up year-over-year. Good progress as we on kind of the look back, if you will. We think that, you know, we can get to a state where the vast majority, you know, near 100%, should be tokenized on an e-commerce transaction basis. There's still a lot of work to do. Even though we've come a long way, there's plenty of growth to go. I think there's. We're working across the ecosystem. There's all the benefits and I won't repeat all those, but at the, you know, at the highest level, you know, higher auth rates, lower fraud, modern credentials, programmable credentials in some sense. I think, you know, we can go after new markets.
+We can go after, in terms of tokenization, additional, you know, sort of getting the other 50%. We can go after use cases like stored credentials. That's, you know, that's a decent size opportunity out there, and we're working with, you know, a lot of parties to go penetrate deeper into like stored credentials. You can go after lots of different, you know, lots of sort of different use cases as well. We're gonna continue to grow, I think, the tokenization utilization. Agentic, as you mentioned, it becomes a critical enabler for those scenarios, and so that's another place of focus for us, as well. We're gonna continue to drive adoption, utilization, and like I said, we've proven out, I think, to the ecosystem broadly that there's a lot of benefits to a tokenized transaction.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah, I think, you know, it is a tech conference, I have to ask you about agentic commerce.
+## Chris Suh | CFO, Visa
+Of course.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+You know, we feel like tokenization could be foundational, especially network tokens for agentic to take off, not just here in the U.S., but globally. I think we had a bunch of companies. We had Accenture yesterday.
+## Chris Suh | CFO, Visa
+Okay.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Talk quite a bit about how excited they are about agentic commerce, like OpenAI probably will talk about it as well here later on the same stage. How do you see agentic playing out? You have such a important role here in developing the framework for it. What should we be watching? It feels like the four-party model will stay intact, but there are different motivations for different players to promote it. What's your view on it?
+## Chris Suh | CFO, Visa
+Yeah, I mean, we're incredibly excited, and it's early days.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Sure.
+## Chris Suh | CFO, Visa
+I'd say both those things.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Very.
+## Chris Suh | CFO, Visa
+The excitement, again, shorthand, means we've been actually meaningfully putting a lot of work into this for a long period of time. We rolled out our initial view of Visa Intelligent Commerce. You know, now it's been more than a year ago when we had the product drop event. This is something that, you know, we view as sort of beyond linear, like it's the evolution of e-commerce into agentic commerce. From a opportunity standpoint, maybe I'll start there, you know, we think it accelerates our opportunity to grow, and it does it in probably four meaningful ways. One, it digitizes, it accelerates the digitization of transactions further of payments. Two, we think it enables B2B scenarios to rapidly accelerate.
+That's been, you know, we've been looking at B2B scenarios, B2B money movement for a long time, and it's been more elusive to penetrate. Three, we think agents will just create more transactions.
+We think they'll intelligently split transactions. For us, transactions are a very important unit of measure in our business. Fourth, when you add that all up, us and many others who forecast this would indicate that GDP growth would accelerate by something between 80 and 150 basis points depending on, you know, whose forecast you're looking at. When you add that all up, that's just a bigger pool of opportunity for Visa to go after. You know, that's important. Again, I talked about our framework for looking at, you know, structurally large TAMs opportunities to go after. There's a lot of work to do in that.
+I think with any sort of payments, when you get into the payment side, it's, you know, there's lots of layers to it. You've heard us and many other parties talk about protocols and standards. I think that's a really important layer. There needs to be, you know, trust and standards and protocols at many layers between the consumer and the agent, the agent and the merchant, and then all the way through to complete the payments experience. We've put our views out there with Visa Trusted Agent Protocol or VTAP.
+Which, without going into gory details, just basically at the end of the day, you know, if you want to use a Visa card, we're gonna support that. If you wanna use card, you're gonna support that through the protocols. That's one layer. You know, there's a lot of work going in on the issuing side to help merchant, help issuers get ready. There's a lot of work going on on the acceptance side, as you think about, you know, enabling merchants to initiate agentic payments in a trusted way. There's work going on with developers. We're working, you know, we've talked about Visa CLI, which is a command line interface, which is really letting developers experiment using the protocols put out by Tempo.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Right.
+## Chris Suh | CFO, Visa
+There's work at every layer, but I think, you know, at the end of the day, for payments to really work in a seamless, frictionless way, the trust and security layers are probably the most important. This is where, you know, plays into Visa's strengths. We think we have a great position to help enable this future scenario, and we'll keep at it.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+No, I'm sure there's gonna be more to study, but the foundation is being laid, it feels like, and Visa's been very, you know, playing a big role in that. No, thanks for walking through that. I know we're almost out of time. I thought we'd ask just maybe a couple more. I didn't ask you about CMS.
+It did accelerate. Just quickly on that. It does feel like the commercial side is maybe getting a little bit more momentum.
+## Chris Suh | CFO, Visa
+Yep.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Is that a fair characterization or is there other factors that are driving some of the CMS? We're all using our commercial cards to get here today.
+## Chris Suh | CFO, Visa
+Yeah.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Thank you.
+## Chris Suh | CFO, Visa
+I would agree with the momentum statement, some of it is more, and some of it is, you know, consistent. Like Visa Direct has been consistent performer for a period of time, that you see the transaction growth, which we publish every quarter has been strong. It was, I think, 23% in the second quarter. You've seen commercial payment volumes, PV accelerate. That's been the part that's better. If a year ago it was high single digits, this quarter it's at 11 points of growth, a point above where it was even last quarter. That's been good to see. We did see, you know, strong revenue growth this quarter. It was aided by some, you know, deal adjustments that we call the performance adjustments. There's a little bit of timing in that as well.
+Nonetheless, underlying fundamentals continues to be strong and one of the important growth levers in our business that we've talked about consistently.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Yeah. No, B2B has been something we've been talking about for a while.
+## Chris Suh | CFO, Visa
+Yeah.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+We're always gonna ask you about it, Chris.
+## Chris Suh | CFO, Visa
+Yes.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+We're just about out of time.
+## Chris Suh | CFO, Visa
+Yep.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+I think, you know, I started with the hyperscaler question and, you know, we're thinking about the evolution of Visa. It does feel quite different than when I first, you know, got to know it, whatever it was, two decades plus ago. The co- card conversion story, it feels like it's yesterday, and now we're talking about value-added services, agentic and, and CMS. Help us organize how you think of Visa over the next decade. Is this really this push towards VAS and that's gonna dominate the conversation a little bit like we had today? Is it gonna be more CMS-led? It would be agentic? How would you encourage us to organize it?
+## Chris Suh | CFO, Visa
+I, you know, all of it. I know we have like 20 seconds, so I'll give like the highest level answer that's the most comprehensive, which is at some level our strategy is working. We've been at this for a long time. We've been, you know, focused on the right addressable markets. We've been investing behind this from a product and service standpoint. We've been executing really well and, you know, it takes time in the payments ecosystem for these things to pay off.
+It's really actually gratifying to see that our strategy is working, that the durability of our, of our business and our network is, you know, playing out the way that it has over the course of time as we've gone through innovation and shifts and as we have in the past many times. It gives me great optimism that we'll continue to be able to do so as we navigate through this next generation of innovation shifts, whether that's agentic or stablecoin. I think we're in great position to continue to grow.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+No, for sure. It feels that way. I know you're working hard, and it's nice to see it all come together. Chris, I know you've been traveling everywhere. Thank you for being here with us.
+## Chris Suh | CFO, Visa
+Yes.
+## Tien-tsin Huang | Payments Analyst, JPMorgan
+Means a lot to me. Thank you so much.
+## Chris Suh | CFO, Visa
+Thanks so much. Thanks, everyone.
+Data Source: Quartr Last updated: May 19, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

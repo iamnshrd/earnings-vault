@@ -1,0 +1,129 @@
+TITLE: The Six Five Summit: AI Unleashed 2026
+DATE: 2026-08-27
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Hi, everyone, and welcome to The Six Five Summit, AI Unleashed 2026. We're continuing the conversation with another cybersecurity spotlight. I'm Matt Kimball, and in this session, we're exploring how enterprises can prepare for the coming era of quantum computing, and what that means for cybersecurity and the strategies that enterprises are building around quantum. Joining me is Michael Jordan, Distinguished Engineer, Cybersecurity and Compliance of Broadcom, to discuss quantum, the risk associated with post-quantum cryptography, or PQC, and the practical steps organizations should be taking today. And yes, we mean today. Hey, Michael, welcome to The Six Five Summit. It's great to have you.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Yeah, it's great to be here. Thanks for having me.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+This is going to be a fun discussion because I think a lot of folks hear quantum, and they think five years out, they think 10 years out, they think sometime in the future, even just a couple years out maybe, but they don't think about today.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Right.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+As quantum computing continues to advance, we figure out error rates and how to get better, why should enterprise leaders view post-quantum cryptography as a business issue today versus tomorrow? Why is it a business issue rather than a technology problem for the future?
+## Michael Jordan | Distinguished Engineer, Broadcom
+Yeah, sure. Actually, let's start by bounding this a little bit. When we talk about post-quantum cryptography, we're not talking about cryptography that is done with a quantum computer or by a quantum computer. We're talking about cryptography that classical computers can use that is resistant to attacks from quantum computers. Everything we're going to be talking about today is about the cryptographic algorithms that run on classical computers. In terms of why this is a business problem versus a technology problem, it wasn't that long ago where cryptography was really a niche technology. I think the industry that was probably the biggest user of cryptography in the early days was the banking industry, where protecting ATMs and financial services transactions. If we look at the last, I would say, 10 years - 15 years, cryptography has really evolved and has become ubiquitous.
+It's really been an enabling technology for the larger IT transformation that's been taking place. Looking at web-based applications, APIs, hybrid cloud, and even emerging technologies like cryptocurrency and asset tokenization, they all rely on cryptography, and cryptography really serves as the foundation of trust for our modern IT world. Going back to your question, this is a business problem, right? Because it has evolved to become that foundation of trust, and if it gets broken, we have a business problem and a business challenge to address.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+That's a great answer. I'm glad you bound the discussion up front as well. For folks that might be watching or listening in and don't fully get what the threat of post-quantum cryptography could be or having the right algorithms, can you quickly say the elevator pitch of what's going on that this thing called Shor's algorithm, right?
+## Michael Jordan | Distinguished Engineer, Broadcom
+Yeah.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+That's causing people to freak out a little bit today?
+## Michael Jordan | Distinguished Engineer, Broadcom
+The elevator pitch, so I guess we got three minutes to get from the ground floor to the 22nd floor or something like that. The elevator pitch is, when you look at cryptography like RSA or elliptic curve cryptography, the security of that cryptography relies in the fact that there are certain mathematical problems that are difficult to solve and the public and private keys are mathematically related for these algorithms. For classical computers, solving these problems is measured on the orders of millions, if not billions of years. With quantum computing, the door and aperture opens to new sets of algorithms that you can't run practically on classical computers, which means this math that we were relying on to be really tough to solve, and if you can solve that math, then you can break the cryptography. That math becomes easy to do on a quantum computer.
+When you have such a quantum computer, they refer to that as a cryptographically relevant quantum computer. So it has enough qubits to run, as you alluded to, something like Peter Shor's algorithm that can do the integer factorization and break RSA cryptography.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+All those keys we thought were unbreakable-
+## Michael Jordan | Distinguished Engineer, Broadcom
+Exactly
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Suddenly become breakable.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Yeah. The net of it is the public key and the private key are computed using the same components. If you can calculate those components from the public key, then you can go calculate the private key. That's really what we're worried about.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+I got you. Listen, I talk to enterprise IT all the time, and I think the industry and companies like Broadcom have done a good job about educating on post-quantum cryptography, the challenges, the threat that's coming, and it's something that has to be taken seriously. But the other thing I hear from them is, "I don't know where to start.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Right.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Square one? When you think about this, as someone who's been living in this, what does that migration journey look like from figure out what you got to, we're fully secure on the other end of it?
+## Michael Jordan | Distinguished Engineer, Broadcom
+There's a couple points I want to make here, and the first one actually, you mentioned where to start. The other important point I think needs to be addressed, I view this as kind of the elephant in the room, is when to start.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Sure.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Because I think that's often overlooked, and I think post-quantum cryptography suffers from the fact that there is no specific deadline in place for this yet. Right? That it's when the quantum computing technology evolves to the point where it can break that math. The problem, obviously, is it's an emerging technology, and we don't know exactly when that's going to be. We have some idea, and there's some estimates that the expectation is sometime in the early next decade. So, 2030 and beyond, we'll have quantum computers that have enough qubits to actually do that, solve those hard math problems that we were just talking about. There is some concern that there's some kind of technology breakthrough, and that happens sooner rather than later. That's always a concern.
+I think a really good example was, a few years ago, DeepSeek, the AI model that China developed, caught everyone off guard, and nobody knew that technology had evolved to that point.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah.
+## Michael Jordan | Distinguished Engineer, Broadcom
+The market kind of reacted to that. With quantum, if there's a breakthrough that happens, we could all be kind of scrambling. I think the other contributing factor is, until you've done, I would say, all of the upfront work, the discovery, the inventory, the planning that is needed, you don't know how long it's going to take you to get from point A to point B.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Which means until you've done that work, you don't know when to start.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Even if you say, "Okay, I've got five years," or, "I've got six years," if you haven't done the upfront work to do that planning, then you don't know when to begin, or how much resource you're going to need to apply to this. I think the one takeaway that I would like everyone to get from this would be, there's nothing that's stopping us from doing that planning work now. We can discover where we're using crypto, we can build that inventory, and understand the dependencies and understand everything it's going to take us to get from point A to point B, and then from there, you are much better prepared to move forward, right?
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah.
+## Michael Jordan | Distinguished Engineer, Broadcom
+And in terms of what a successful migration looks like, it's a migration where you beat the clock, right? If you don't beat the clock, then I don't view that as a successful migration.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Quick question, maybe a little bit of a tangent, but it's worth a minute or two of talking. I think one of the things that gets thrown out there, and the market and vendors have done a good job of scaring enterprise IT appropriately, but I think there might be a little bit of confusion around it, but handle attacks. Harvest now, decrypt later, right?
+## Michael Jordan | Distinguished Engineer, Broadcom
+Yeah.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+We hear about this in terms of post-quantum, where hackers will grab all your data and then they'll be able to unencrypt it a couple of years from now. Do you see that as a legitimate threat in the market? Is that more of a scare tactic? What are your thoughts on that?
+## Michael Jordan | Distinguished Engineer, Broadcom
+Personally, I don't see it as a scare tactic.
+Given the organizations that I see that are concerned about that, this isn't originating from IT vendors, right?
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Right. Sure.
+## Michael Jordan | Distinguished Engineer, Broadcom
+This is originating from governments. They're not worried about some teenage kid with a laptop. They're worried about state-sponsored actors with deep pockets, where they have the means to harvest massive amounts of encrypted data with the view that some point in the future, they will also have access to the technology that would allow them to essentially determine the cryptographic keys that were used, and therefore decrypt the data. When you think about the other important aspect of that is, if it's data that has a five-minute shelf life, then there's not really much risk there.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Right.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Where we're concerned is data that has a life cycle that's measured in years and in decades, because even that data, if it's encrypted today, is still of value and still of use in years from now. That's really where the concern is. When you look at different geos, and you look at even organizations where they've established more aggressive timelines for migrating to PQC, one of the significant drivers for that is the harvest now, decrypt later with the view of the sooner we get migrated to PQC, the less-
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Be at risk for harvest now, decrypt later, even if the technology doesn't come to fruition in the next five years, for example.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+See, it's interesting because it brings that sense of urgency back in, and that maybe that point on the horizon is a little bit closer than we realize because-
+## Michael Jordan | Distinguished Engineer, Broadcom
+Right.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+This isn't just about when a hacker or a bad actor is able to decrypt. It's about access to the data.
+## Michael Jordan | Distinguished Engineer, Broadcom
+It also reinforces the point I was making earlier about doing your discovery and inventory and planning sooner rather than later. Because one of the things that I think we can do as an industry to sort of help mitigate the harvest now, decrypt later, is make sure we're using the strongest technology available to us today, where we can. In the process of doing that discovery and inventory, more than likely, organizations are going to discover places where they have technical debt, where they're using weaker algorithms than they realized they were using. Those weaker algorithms will be susceptible sooner than the stronger algorithm. As we do that inventory, then you can kind of say, "Oh, we have risk above and beyond PQC. We have some technical debt that we need to address.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Addressing that, makes them less susceptible to the harvest now, decrypt later types of attacks.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+That's a good point, and it's a good segue into my next question, which is, I'm an enterprise CISO or CIO. I've got, say, 5,000 servers, 10,000 servers in my data center. As I go about, I go through my inventory process, I get a good kind of snapshot of where my infrastructure is today. Is there some measurement you would recommend, or some kind of way you would recommend for organizations to prioritize, "Hey, go correct this first and then that," or, "Here's your greatest vulnerabilities with these servers." Obviously, the least protected, but is there other kind of things that IT leaders should be thinking about?
+## Michael Jordan | Distinguished Engineer, Broadcom
+My recommendation, and also where I think the industry is going here, is again, doing that discovery and inventory. As part of that discovery and inventory, there's going to be a bunch of metadata that you'll need to capture and collect in there, including dependencies, internal and external dependencies, including the asset that's being-- What is the asset that's being protected? What's the application that we're protecting here?
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Once you have that inventory, then you can look at, okay, what's the impact to our business if this asset is able to be compromised? From there, you can do a risk-based prioritization, knowing that it might take longer than you expect. If you can have a risk-based prioritization of what you want to change,
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah
+## Michael Jordan | Distinguished Engineer, Broadcom
+then as you go through and do this migration, you're changing the most critical assets first and doing it that. So, that's how I would do it if I were running an IT organization.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Sure. Yeah. Protect your most critical assets first and kind of move out from there. So obviously Broadcom plays a big role in this space, but I'm curious from your perspective, and you've been in industry for quite some time. You're super experienced in all of this. I hear more and more from folks I talk to that this post-quantum and security in general, it's part of a bigger, broader resilience conversation, right?
+## Michael Jordan | Distinguished Engineer, Broadcom
+Yeah.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Are you hearing this and do you see protection as, I don't want to say just one because it kind of minimizes it, but an element of that larger resilience strategy?
+## Michael Jordan | Distinguished Engineer, Broadcom
+I think that's a really interesting question in the context of what we're in the midst of right now as an industry with all of the frontier AI models, right? I think we're in a new era here. When we look at frontier AI models, and when we look at quantum computing, those are two technologies that are disrupting forces in the cybersecurity space, right? They're basically tools that threat actors can add to their arsenal to mount attacks, right? You can use a quantum computer to break cryptography, or you can use these AI models to identify vulnerable systems or misconfigured systems or vulnerable code and use it to mount attacks. They underscore the heightened need for vigilance, for sure.
+They also, as you suggest, highlight the need that we really need to make sure that we're not losing sight of this idea of cyber resilience. That, yes, we need to do everything we can to counter these attacks and protect against them, but we also have to have the mindset of, what do we do if one of these attacks is successful, right?
+Be prepared to detect it. So, how do you know when such an attack has occurred, respond to it, and ultimately be able to recover from that? That takes a lot of preparation and coordination across an organization, right?
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Yeah.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Absolutely. We hear about that all the time.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+It's funny because talking with enterprise leaders, one of the things I hear a lot is, we have designed to not even introduce the if, right? But we prepare for when.
+## Michael Jordan | Distinguished Engineer, Broadcom
+Right.
+## Matt Kimball | VP and Principal Analyst, Moor Insights & Strategy
+Because if you don't, you're going to be at your most vulnerable in that game. I think this is one of those topics we could talk about for hours. But thank you for joining us.
+Data Source: Quartr Last updated: Aug 27, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

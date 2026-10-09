@@ -1,0 +1,7 @@
+Company: Costco
+ROIC Symbol: COST
+ROIC Name: Costco Wholesale Corporation
+Year: 2007
+Quarter: 3
+Date: 2007-05-31 11:00:00
+Executives

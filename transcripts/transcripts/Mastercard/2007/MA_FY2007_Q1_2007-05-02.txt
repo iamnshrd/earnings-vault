@@ -1,0 +1,7 @@
+Company: Mastercard
+ROIC Symbol: MA
+ROIC Name: Mastercard Incorporated
+Year: 2007
+Quarter: 1
+Date: 2007-05-02 15:15:00
+Executives

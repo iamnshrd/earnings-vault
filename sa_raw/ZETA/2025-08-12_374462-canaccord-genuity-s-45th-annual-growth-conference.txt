@@ -1,0 +1,196 @@
+TITLE: Canaccord Genuityâs 45th Annual Growth Conference
+DATE: 2025-08-12
+## David Hynes | Senior Software Analyst, Canaccord
+I'm DJ Hynes. I'm the Senior Software Analyst here at Canaccord. This is the 45th year we've hosted this conference. We couldn't do it without the companies that bring all the great content, the investors that show up and support us. Thank you for everyone who's here. Delighted to have the Zeta team here with us. We have Co-Founder and CEO David Steinberg. We're going to take it easy on David today. He's battling through some food poisoning. We'll see if we can get the energy up.
+## David Steinberg | Co-founder and CEO, Zeta
+Only since 2:00 A.M.,
+## David Hynes | Senior Software Analyst, Canaccord
+yeah,
+## David Steinberg | Co-founder and CEO, Zeta
+but what I say about these type of circumstances is they give you the opportunity to rally. That's right. Then look at the fact that you came back. The last time this happened to me, I was sick all night. I woke up the next morning, I flew to Vegas for CES, did 36 meetings in three days, gave a speech, and we closed a tremendous amount of business. I'm hopeful.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, that's good.
+That's a good omen for maybe the stock price tomorrow.
+## David Steinberg | Co-founder and CEO, Zeta
+Well.
+## David Hynes | Senior Software Analyst, Canaccord
+Maybe we can get right into things, talk a little bit about kind of what's top of mind coming off of Q2 results. I mean, obviously you guys put up really strong numbers. The stock rallied. What stood out to you the most coming out of the quarter?
+## David Steinberg | Co-founder and CEO, Zeta
+You know, one of the things I like to talk about is, we talk about financials a lot in these rooms and with investors, but financial results are an output. The input is the execution of the business. Is the business working? When you have a business that the output is 35% growth, 27%, 26% organic growth, 52% EBITDA growth, and 69% free cash flow growth, coming off another quarter where we had mid-30s growth and higher than that, EBITDA and free cash flow growth, the business is working. To me, that's what I'm most proud of. The stock will go up and down based on the mood of the day or the hour. In the long run, we're trying to build one of the great companies.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah
+## David Steinberg | Co-founder and CEO, Zeta
+To do that, you have to continue to execute. You have to execute through good times and execute through bad times.
+It's been a tough quarter for a lot of software companies, as I think people have seen, and I think we've been the outlier. It's funny because a lot of our competitors are really having tough quarters, and I think a lot of that is us taking market share.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah
+## David Steinberg | Co-founder and CEO, Zeta
+People were like, wait, well, if they missed. I was like, well, they missed after we put up a 35% growth, you know, we're taking market share. I'm just incredibly proud of the team for executing through the first half of this year. With a lot of noise, a lot going on, we just put our heads down and said, let's operate. That's where we are. We're still there.
+By the way, it was probably the largest raise we've ever had, raised guidance by $21 million, raised free cash flow by the most we've ever raised, have almost completed a two-year, $100 million buyback. In six months, another $200 million buyback. We bought back a lot of stock when it was depressed, which was great. One of the big messages we heard from Wall Street was we were not looking at our capital usage from a stock perspective as effectively as the Street would have liked us to. They felt we had had too much dilution last year. They were probably right. In the second quarter of this year, we had our first ever net zero dilution. We actually had negative dilution, but it was so de minimis, we rounded to zero. Chris and I sort of went back and forth on that. I liked it.
+I like negative dilution, but the CFO prevailed and we went with that zero. We heard the Street as it related to that and we just continue to win in the marketplace.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, maybe that's a good segue to talk about some of those competitive share gains. What's driving that? I mean, for someone who's hearing maybe story for the first time, what differentiates you guys? Why are you winning in the space?
+## David Steinberg | Co-founder and CEO, Zeta
+Yeah, I think first of all, decisions we made in 2017 are the reason we're winning today. In 2017, not seven or eight months ago, we made the decision to pivot the entire company to build our platform on artificial intelligence. We put AI as native to the application layer and we rearchitected our entire platform that we rolled out in 2021. Why is AI and data as native to the application layer as it relates to marketing automation important? It's important because it removes latency and allows substantially better targeting, which takes massive expense out of our clients' marketing. By way of example, we can generally lower an enterprise's cost to create, maintain, or monetize customers by as much as 50% by using our software and our data. What we're seeing is a massive move to marketing efficiency in today's world.
+Yes, the market's growing at 10% while we're growing in the mid-30s. I think, you know, that's obviously taking market share.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, I think, look, there's lots of uncertainty out there from a macroeconomic perspective. I think when people see uncertainty in the economy, they tend to get nervous on marketing or ad tech names.
+## David Steinberg | Co-founder and CEO, Zeta
+Yeah.
+## David Hynes | Senior Software Analyst, Canaccord
+Why is that? Maybe the wrong view. What makes your business so resilient, and what are the verticals you're keeping an eye on?
+## David Steinberg | Co-founder and CEO, Zeta
+I think the two things I'd say first is we're marketing technology, not advertising technology. Over 90% of our revenue comes from customers who have been with us for at least a year. As it relates to visibility into our business, we've been public now for 16 quarters. We've reported 16 quarters and 16 quarters in a row. We have beat our guidance and raised guidance. If at this point we don't start getting credit for understanding our business, I don't know what we're going to have to do for that. There used to be this narrative that when enterprises went into times of uncertainty, the first thing they cut was professional services and the second thing they cut was marketing. It's interesting. That is a misnomer. We're just not seeing that. We didn't see it in Covid, we're not seeing it now. We didn't see it last year.
+What I think the difference is is enterprises, as we're seeing across the board, are cutting headcount as they replace with automation and AI. Zeta is one of the most efficient headcount reduction platforms any of our clients use, especially the agency holdcos. When the agency holdcos bring us in, which is one of our fastest, if not fastest growing business and probably amongst our most sustainable businesses, we've got so much momentum there. These enterprises are able to take out, no joke, thousands of employees by implementing the Zeta Marketing Platform while simultaneously lowering marketing costs for their clients. We are universally the most profitable partners to our agency Holdco clients. They're taking out headcount, they're taking additional shares of revenue off the top and they're able to deliver substantially better KPIs to their clients.
+As it relates to our direct to enterprise business, which is the vast majority of our business today, will be for quite some time. We continue to allow enterprises to lower headcount in their marketing, their data, their analytics. If you look at our agentic workflows that we built, a lot of people are talking about AI agents today. Some companies are even remaking their events and rebranding to them when they don't even have real agent workflows. The reality is that we are on the third iteration of our AI Agent Studio. We have over 400 agents in use any given day. Unlike any of our competitors, we've already put three agents into one workflow. When you take an agent plus an agent plus an agent in one agentic workflow, it's not one plus one equals two, it's one plus one is an order of magnitude smarter.
+One plus one plus one is two orders, 100 times smarter. We have one agent that is looking at the absolute best targeted audience for a client. Then the next agent is looking at where's the best place to target that individual in real time. The third agent is a real time attribution agent that's informing the first two in real time to make them smarter. That's how we're massively lowering our enterprise clients' cost to create, maintain, and monetize customers.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, that last piece, I was going to ask you about AI, so I'm glad you went down this thread.
+## David Steinberg | Co-founder and CEO, Zeta
+You asked competitive advantage.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, for sure,
+## David Steinberg | Co-founder and CEO, Zeta
+jumped in on it.
+## David Hynes | Senior Software Analyst, Canaccord
+The last piece I think is particularly important is that attribution piece.
+Right,
+## David Steinberg | Co-founder and CEO, Zeta
+sure.
+## David Hynes | Senior Software Analyst, Canaccord
+That's kind of the holy grail of marketing. Right. Being able to look beyond last click attribution and understand that whole thread that got us here is something that's unique to Zeta.
+## David Steinberg | Co-founder and CEO, Zeta
+I don't know any other company that can do the type of multifaceted attribution and return on investment models that we do. By way of example, our platform could know if an individual sees an ad in Meta because we match to the Meta ID. I don't know any of our competitors that are able to do that. If a consumer clicks on it, goes to another site, we see that, we then know we can run them a connected TV ad that evening. They see the connected TV ad, we then see them inside of CNN the next day, they click on that and they then call the call center to buy. Our platform gives them all of that in a return on investment model, whereas everybody else would say, oh, that last ad was the most valuable ad ever run, a hundred of them.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah
+## David Steinberg | Co-founder and CEO, Zeta
+What we find is the journey in marketing is what really drives long term return on investment. The Zeta Marketing Platform's ability to track individuals in the walled gardens and out of the walled garden. We don't see what they do in Meta. We see when they click on something and come out. That's more than almost anybody else can do. We can target into them, which is another big product we've been selling to the agency Holdcos.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah
+## David Steinberg | Co-founder and CEO, Zeta
+Last quarter we saw the first big move in the agency Holdcos who are starting in our integrated platform, which tends to be a bit lower margin because that's often in other walled gardens too on platform. We went from what was 72% last year, I believe, to 75% this year. I'm getting the head nod from Matt.
+## David Hynes | Senior Software Analyst, Canaccord
+I'll give you the head nod too.
+That's always good
+## David Steinberg | Co-founder and CEO, Zeta
+after being up half the night. I'm glad I could remember that.
+## David Hynes | Senior Software Analyst, Canaccord
+Forgot your metrics?
+## David Steinberg | Co-founder and CEO, Zeta
+Yeah. The reality is that drove a 200 basis point lowering of our cost of goods sold. I can't use the other vernacular for SEC purposes, but that and we saw another incredibly strong quarter in growth of EBITDA. 52% EBITDA growth and 69% free cash flow growth. A lot of that is from what we've been saying for years, which is agencies start on the integrated platform because it's the most. There's no other competition. Nobody else is building products like we build there, so we can come in and build major efficiencies. They then start testing the on platform stuff, which has even higher return on investment, and they're like, this is great. They move over and we have, as I think you know better than anybody, DJ, we have substantially higher growth, lower cost of goods sold on our direct platform.
+## David Hynes | Senior Software Analyst, Canaccord
+Yep, yep. You've talked about why you're winning with the agencies. How big is that opportunity? How do you think about sizing it?
+## David Steinberg | Co-founder and CEO, Zeta
+Let's put it in perspective. Today, our, I think, 567 scaled customers, which is what we reported last quarter, which was the largest jump in scaled customers we'd ever had, spend over $100 billion a year on marketing today, not next year, not the TAM, our existing clients. This year, at the middle of our range, we expect to be at about 125 basis points of wallet share. I think we can get that to 500-1 ,000 basis points of wallet share in the years to come. At the same time, we're adding customers faster than we ever had. I think the opportunity here is how do we build a $10 billion business with a 30% operating margin with free cash flows that are highly, highly correlated to our EBITDA in the years to come. I don't want to get anybody too excited.
+Today, our 2028 plan, which has us at $2.1 billion in revenue with the 25% operating margin and, I believe, 65% of that dropping into free cash flow, looks very, very achievable
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah
+## David Steinberg | Co-founder and CEO, Zeta
+today. One of the things people haven't commented on or noticed is the more we grow in the mid-30s, the lower the out years have to be versus the current plan to get there. The 2028 plan takes into effect a 20% compounded organic growth rate for the four years that we put it out there for, and we appear to be nicely in line, tracking well ahead.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, you talked about the agency hold co opportunity. It was a 5-10x from here, at least. There's another initiative underway, which is the independent agencies. Maybe talk a little bit about what you're doing there and kind of how those contracts and the unit economics compare to the large hold cos.
+## David Steinberg | Co-founder and CEO, Zeta
+Yeah, I mean the independent agencies are a very important component of the marketing ecosystem globally. You have hundreds of agencies that have multi-billion dollar a year revenue spent. These are not spending, you know, $5, $10, $15 million a year. They are spending and managing billions primarily for very large companies. Might be a very large chain of automotive dealerships and those dealerships might spend $100, $200 million a year themselves and they'll have large numbers of clients and some of the independents who focus on creative get even bigger clients because they come in with different things. We took a bit of a different approach when we went into the independents because they didn't have the type of investment dollars that the agency holdcos did to invest in some of their own tech and some of their own data.
+Effectively, we are able to come into the independent agency ecosystem and platform the entire agency. Everything's on platform. It doesn't really move into the integrated channels and it's in many cases white labeled to that agency where they're bringing it in and they're upscaling their data, their AI, their technology overnight and they're taking the billions at this point, or I probably shouldn't put a number out there, but the tremendous amount we've invested into our technology data over the last 16 years and they're effectively rolling it out to every one of their customers at once. You might pick up 2, 3% of an agency holdco managing $30 billion, it's a great client. If you can pick up 100% of a client here on a platform contract, that's still a nine-figure opportunity with on-platform cost of goods sold, meaning very, very low cost of goods sold there.
+I think you saw some of that flow through in the 200 basis point lowering of our cost of goods sold in the quarter and we feel that that's something that we can continue.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah.
+One thing you didn't hit on, which I'll just add, is the payment terms are different and
+## David Steinberg | Co-founder and CEO, Zeta
+they pay faster.
+Your agencies.
+Right.
+Yeah
+## David Hynes | Senior Software Analyst, Canaccord
+Lower DSOs should help with that cash conversion as that business scales. It's just another tailwind we were at.
+## David Steinberg | Co-founder and CEO, Zeta
+The highest cash conversion that we've ever been last quarter, and we think we can continue to push that up. As we've said, we believe that by 2028, you know, which is a few years out, but we think we can be into the mid-60% or higher.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah.
+## David Steinberg | Co-founder and CEO, Zeta
+As it relates to EBITDA conversion to free cash flow.
+## David Hynes | Senior Software Analyst, Canaccord
+Yep.
+## David Steinberg | Co-founder and CEO, Zeta
+By the way, we're putting that free cash flow to good use. We used 96% of our free cash flow to buy our stock back last quarter. Right now it seems to be the best investment. We have a lot of cash and we're generating meaningful cash. I think some people sort of wonder how are we growing the business mid-30% top line, mid-50% EBITDA, and still generating this type of meaningful free cash flow. I think a lot of it has built up as you get to those points with our clients that the DSOs are staying constant and the cash flow is starting to really roll in.
+## David Hynes | Senior Software Analyst, Canaccord
+Okay. We hit on the direct business, growing customers nicely direct to the enterprise. We hit on the large agency hold calls, we hit on the independents. I guess a fourth initiative would be One Zeta.
+## David Steinberg | Co-founder and CEO, Zeta
+Yes.
+## David Hynes | Senior Software Analyst, Canaccord
+Which I think is something that's important to talk about. How are you executing against that, and why is it important?
+## David Steinberg | Co-founder and CEO, Zeta
+Probably our most important long term initiative today is One Zeta. For those who don't know, we manage our business. We have three use cases, which is customer acquisition, customer retention, customer monetization, and then we have multiple channels. I think we have 14, 15, 16 channels that we can activate. Through the years we've grown our ARPU with our clients. Year it grew nice. Last quarter ARPU grew nicely again while still once again adding the most scaled customers we'd ever added. By adding additional channels, what we found was enterprises that use multiple use cases. They use us for customer acquisition, customer retention, and customer monetization. They have by far our highest NPS score and by far our highest net retention rate.
+It really, from what we discovered, is a flywheel that starts where the data that's generated in customer acquisition informs customer retention, which informs customer monetization, which in turn informs customer acquisition. It really drives a massively higher return on investment. What did we do? We hired Edc . Ed helped to run McKinsey's Global Chief Marketing Officer practice. Not every day you can get somebody like that who's a partner at McKinsey to leave and come be our Chief Growth Officer. He is totally focused on One Zeta, and he is building out an exclusive team.
+The most interesting thing I thought I said in our prepared remarks, which I'm not sure I said all that much that's really interesting, was that last quarter, not only did we add a number of One Zeta clients who are existing clients, we added a client who was a One Zeta client from the day they started. That was different for me because we'd always felt like, okay, we'll go to clients, use one use case, and expand out from there. What we're seeing is we're able to start new clients as One Zeta as well, with Ed at the helm of this group. That was very exciting.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, yeah.
+I talked to Chris Greiner about it, and we talked about, you know, when you add a new channel, that may add $1 to revenue, but when you add a new use case, you could add $5- $7.
+## David Steinberg | Co-founder and CEO, Zeta
+Yeah, they say six to seven times.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, it's a significant multiplier effect.
+## David Steinberg | Co-founder and CEO, Zeta
+Oh, yeah
+. Once again, you've got a happier customer and you've got a customer that is saving more money while moving. People also, I think, get a bit confused when I say we lower their cost to create customers by at least usually 50%. They're not cutting budget with us, they're cutting budget with others. They might take $2 million of linear TV spend, move $1 million of it to us, keep $1 million, and we'll drive better KPIs than they were spending on the full $2 million.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah.
+## David Steinberg | Co-founder and CEO, Zeta
+That's really where we're starting to see and why we're winning in a turbulent marketplace. If the marketplace, and I shouldn't say it, when the marketplace goes to a much more solid macro picture, by the way, I see a good macro picture right now. We don't see a problem from a macro perspective. Our clients are spending lots of money. We have not had one client, to my knowledge, lower budget. Things move around. There are different messages every day as the government is trying to figure out how to remake global trade, looking at how that affects inflation, how that affects different components of the environment. That does create movement. The truth is, if you look at the CPI today, which came in again, I'm sorry, inflation today, which came in again at 2.7%, which is high but solid.
+It's very much within the range of what I think the Fed's looking at. It's certainly in the range that the President is looking for. I think you're seeing that the global economy is absorbing a lot of what's coming at it at this point. We see a very solid macro environment right now. Our business continues to accelerate.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah
+## David Steinberg | Co-founder and CEO, Zeta
+We're growing faster this year than we grew last year, and we grew last year faster than we did the year before at scale. It took us 16 years as a company to get to our first $1 billion a year revenue, and in four years, we'll double that organically.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, there is some litigation out there against the firm.
+## David Steinberg | Co-founder and CEO, Zeta
+Yeah.
+## David Hynes | Senior Software Analyst, Canaccord
+What are your thoughts on that? What do you make of it in the comments?
+## David Steinberg | Co-founder and CEO, Zeta
+A bunch of lawyers, mostly from New Jersey, decided to file a bunch of completely baseless lawsuits. We filed a counter to them. They're completely ridiculous and without merit. I don't see how you come after a company that's beat its guidance and raised its guidance 16 quarters in a row. We are absolutely going to prevail.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah. Okay. Zeta Live's coming up.
+## David Steinberg | Co-founder and CEO, Zeta
+Yes, it is.
+## David Hynes | Senior Software Analyst, Canaccord
+As a Boston guy, I'm excited because.
+## David Steinberg | Co-founder and CEO, Zeta
+I think gives you a chance to come right, the GOAT. I talked to Tom just the other day. I asked him if he was going to bring the statue with him. He said it might be a little heavy, but yeah, we have Tom Brady and Serena Williams are the two main keynotes. We're calling them GOAT Squared.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah, I like it.
+## David Steinberg | Co-founder and CEO, Zeta
+Then we have Deepak Chopra. Michael Milken will have a number of Fortune 500 CEOs, CMOs. There will be over $100 billion in marketing decision maker spending in the room.
+## David Hynes | Senior Software Analyst, Canaccord
+Yeah
+## David Steinberg | Co-founder and CEO, Zeta
+Last year, Zeta Live was the single biggest driver to our pipeline in corporate history. I think we will dwarf that this year.
+## David Hynes | Senior Software Analyst, Canaccord
+Sure
+## David Steinberg | Co-founder and CEO, Zeta
+It's also been an incredibly valuable asset on our journey of brand recognition. Right. When we look at our journey of brand recognition, we talked about originally being Zeta who. What does that mean?
+It means we'd walk into a room and people would say, who are you and why are you here, period. Our goal was in the short run to get to why Zeta, which is they know why we're in the room, but we have to convince them we're the right company. We are there, we're solidly. People were like, how are you growing so quickly? I think the truth is our pipeline is converting at a higher rate than ever because of that move from Zeta who to why Zeta. The next evolution is Zeta now and we're on our path to that. I think that'll take us a little while. Zeta Live this year is going to be a very, very important part of that. I would get your application to attend in early this year. We are not live streaming it, which is a change. People ask why.
+We found out a lot of people we would have liked to have visited with were sitting at their desk across town. We'll put it all on YouTube the next day. It's going to be above capacity this year. Very excited.
+## David Hynes | Senior Software Analyst, Canaccord
+I'm looking forward to it. You made this conversation super easy. You hit on long term targets without my even having to ask.
+## David Steinberg | Co-founder and CEO, Zeta
+Chris has trained me very well.
+## David Hynes | Senior Software Analyst, Canaccord
+You hit on the high points. Maybe just in theâoh, is there a question?
+Yeah, sure.
+## David Steinberg | Co-founder and CEO, Zeta
+Make it easy. Remember I was up going up all night
+## David Hynes | Senior Software Analyst, Canaccord
+versus, you know, agencies being recommended to other agencies and kind of that one gas.
+## David Steinberg | Co-founder and CEO, Zeta
+Yeah, it's a great question. I first was confused. Were you talking about Salesforce or my sales? Don't get me started on the other guys. I'm teasing. The reality is we, as part of our 2028 plan, have given to the street the compounded growth rate we believe we'll need on sales headcount to get to the metrics that we want. What we're seeing is the move from Zeta who to why Zeta has led to the highest sales productivity we've ever had as a company. If you think about it, we had how many last quarter? We had about 170 last quarter. That 170 last quarter drove $308 million in revenue. Yes, there's word of mouth and that's really driving things.
+At the same time, you've got 170 people that'll drive well over $1 billion in sales this year. From a productivity perspective, I'm very, very proud of the work we've done. We started re-architecting our salesforce about three years ago. In fact, Chris Greiner and Steven Gerber worked hand in hand on it, and sales productivity has gone up dramatically. Right now, what's happening is the word of mouth is driving great salespeople to us, so we're hiring people. If you look at the last three press releases, Edc ., partner, ran CMO practice at McKinsey. Nate Johannes helped to build the Llama platform at Meta, left Meta to come run our R&D. Pam Lord, who ran Oracle's data marketing cloud, left Oracle to come join us. We are keeping the people that we have and adding incredible talent across the board.
+I have never been prouder to run this company. Company, yeah.
+## David Hynes | Senior Software Analyst, Canaccord
+Maybe that's a good spot to leave it. We're bumping up against time. Congrats on the momentum, the continued success, and look forward to covering the business over the next few years.
+## David Steinberg | Co-founder and CEO, Zeta
+DJ, thank you for all your support. Yeah, appreciate it.
+Data Source: Quartr Last updated: Aug 12, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

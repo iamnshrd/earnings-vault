@@ -1,0 +1,278 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-03
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Good morning, everybody. Thanks for joining us here this morning at the 2026 Morgan Stanley TMT Conference. We're really into the thick of things here on Tuesday morning, very glad to have Visa joining us as part of the program today. I'm James Faucette, Senior Research Analyst here at Morgan Stanley, covering the Fintech space. As always, we're always happy to have the team from Visa join us and talk about things that are going on with, you know, really one of the strongest and best businesses that you can find. Before we get started this morning with Jack Forestell, the Chief Product and Strategy Officer of Visa, I do have an important disclosure to read. Please see the Morgan Stanley Research Disclosure website at morganstanley.com/researchdisclosures.
+Jack, we get to talk about product with Visa. That's always, I think, an underappreciated part of the business. I think people tend to focus very much on, like, the outcome.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Mm-hmm.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+What people are doing a lot of times, but there's a lot of work that goes into making the systems work. As the Chief Product Officer, how has the way Visa designs, builds, and ships product evolved over the last few years? How do you anticipate it will continue to evolve?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Well, first of all, James, thanks for having me. Excited to be here with everyone today. Thanks for the kind words about product at Visa and my team and I toiling behind the scenes to make all this stuff work. You know, how are things changing from a product development? There's probably, I would say, maybe an architectural answer to your question.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+A product development process answer to your question. I'll start on the architecture side. If you, if you think about Visa, in our earlier days, we were an infrastructure company.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You know, our mission at that point was to lay down this hyper-scaling payments infrastructure that could connect to 14,000, 15,000 financial institutions, billions of consumers, 175 million merchants, 200 countries around the world, 150 currencies, all with almost no latency and unparalleled security. Like, that's tough stuff from an infrastructure standpoint. Once we got to the point where we're perfecting the infrastructure, it's reaching scale and maturity at a global level, that's when we turned our attention from an architecture standpoint to the edges of the network, that connection point where companies large and small could connect to this hyper-scaling infrastructure and access all that stuff that I just described.
+We started to turn more attention to creating more richness at the edge of the network to enrich those transactions that run through the core of the network with more services, with more configurability, with easier connection for all of our clients. There was sort of an architectural turning point at some point over the last decade and several years where we went from spending the vast majority of our R&D on the core infrastructure itself to continuing to spend on that, but spending an increasing proportion on enriching the edges of the network. When you're building infrastructure, think about it like infrastructure, it's got long change cycles. You're very focused on the architecture, the infrastructure, the performance, the resilience itself. That was kind of the development mindset that we had many years ago.
+When you shift to it's about building services at the edge, it's a shift in mindset to a more market-oriented, more client-oriented, faster iteration, higher shipping velocity kind of a mindset. That's a cultural transformation in our product development engineering teams that we've been working on for a few years, and I'm really excited about what we've been able to accomplish. We've got like 1,000+ dev squads at Visa that show up every day, and today they're asking themselves, "What can I do for our clients today? How can I deliver?" Like, we have a continuous improvement mindset. So we tell our dev teams, like, "If you're not getting better, if you're not getting faster, if your shipping velocity is not getting better, you're basically going backwards." You mentioned sort of forward-looking.
+You know, as with many others, the thing that we're most excited about is the application of AI to our product development life cycle and to coding itself. You know, we've embraced it from the beginning. We've seen benefits, but like many others, we're starting to see these discontinuous and disproportionate benefits with the recent improvements in agentic coding and agentic product development. Super excited about it. I'm giving you an example. Like, a couple of weeks ago, one of our squads said, "Hey, we urgently wanna take something that was a concept..." I won't tell you exactly what it is 'cause we haven't shipped it yet. It was a concept. Like, "Why can't we take this concept and turn it into working code in a few days?
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right. Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+They literally came in the office, like, on a Thursday, stayed over the weekend, small team, and took this idea from idea all the way to prototype in working code by Monday. I mean, that a couple years ago would've taken multiple dev squads weeks, maybe months to get done. We're way at the beginning, but really excited about the transformation, the potential it has to fuel more product development and more delivery in our business.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Yeah. It's, it's really exciting because, like, I think a lot of times people skip over, and even as you were talking about skip over kind of like the infrastructure layer and kind of the perfecting of that. That's a kind of a point that I try to make with investors is like, okay, we can talk a lot about, you know, the applications that Visa's pursuing, et cetera, and a lot of the advantages they have, but it starts with that as a foundational element. You know, I wanna continue down this path of developing on new technology and AI, et cetera, but, you know, I'd be remiss if I didn't also ask. Okay, so that's kind of your focus. What's the environment that you see that you're operating in right now?
+What are you seeing in terms of consumers? Are their needs shifting in terms of payments? You know, what's the trends that you're seeing in terms of even recent behavior?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+With respect to consumer behavior and needs, a little bit more of the same, but continuous change.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We're just continuing to see consumers expand the surfaces across which they wanna discover and shop and buy, whether it's getting deeper and broader into social commerce, the creator economy, gaming. Now with the advent of agentic commerce, we're seeing a whole new type of shopping, a whole new type of transaction starting to come our way. At the same time as the user, though, is expanding these horizons in the process creating, to be honest, more complex, riskier transactions. The expectations for simplicity, seamlessness, security, and trust-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... are at an all-time high.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+To be honest, we love it.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+It sets up for us, right? The ability to deliver a complex transaction in a new environment seamlessly, securely, and without risk, kinda what we do. With respect to the consumer trends, like data-wise, we publish a lot of stuff.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right. Right. Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Can read it all. The single metric that I tend to focus on the most is the growth rate in the transaction volume that we process.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Mm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+To me, that really gets to the heart of user engagement on our network, right? It strips out all the volatility that we see around the world, whether it's in travel corridors or average ticket sizes, a function of things that might be happening at a macro level. You really get down to how many users are using the network, and are they using it intensely. That number has been rock solid stable for quite a long time, and we're continuing to see that stability forge on through the most recent quarters and, you know, up until very, very recently. The consumer's just powering through and using our network in the same ways they've been using it for a very, very long time, irrespective of what's going on out there in the world.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Got it. agentic commerce, I mean, huge, huge topic, and I think it's starting to move beyond just buzzword. Where do you see Visa as having a clear advantage in, and in what elements of agentic commerce? What is your to-do list to not only protect that but also look at other areas within the agentic landscape where Visa can deliver really compelling solutions?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah, James. I mean, the first thing I'd say on this topic is, we just see this as an enormous growth opportunity. I've been at Visa for a long time.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Uh-huh. Mm-hmm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+I've been in payment technology for even longer, almost 25 years. I'm that old. I'll honestly tell you, I am more excited about the scale of the opportunity in front of us with agentic commerce.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Mm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Than anything I've seen in terms of technology transformation since the advent of the internet and e-commerce itself. If I had a word of advice for people, it's like, don't get trapped into the zero-sum thinking trap.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+This is not zero-sum. This is going to be a wave of growth, just like previous transformations. You go back to the advent of e-commerce. Back at the time, people talked about, "Oh, this is all gonna be substitution. People are gonna stop shopping in retail, and they're gonna start shopping online. It's just gonna move from one pocket to the other pocket." That happened to a large extent. With the benefit of hindsight, we can see that it was significant, significantly additive to overall growth. We saw, you know, anywhere from three-quarters of a percentage point to 100 basis points of GDP growth added year after year-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... at that time. It also did something that really played to our strength. It created a new transaction type that, again, as I was mentioning a minute ago, was more complex and needed more trust and more technical innovation in order to make it come to life. We didn't rest at that time. We changed our technology. We brought things over from the physical point of sale. We adapted them into the digital world. We benefited massively from it. You fast-forward 10 years later, mobile and cloud, same thing. People said, "Oh, you know, people are going to just do the same thing on their phone that they were doing on a desktop." No. We saw massive growth. We saw subscriptions. We saw streaming. We saw all kinds of new transaction types. Again, we didn't sit still. We created tokenization.
+We created mobile payments on device. We saw massive benefits from that. I view this one the same. I think we're at the precipice of a whole new wave of growth in shopping, in commerce, in payments.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We're gonna see a lot of volume growth. At a very practical level, we're already starting to see some of it, right? If you look at us, right, in one way, I see us going through a wave of what I would call increased transaction density, right?
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+A relatively fixed amount of payment volume, but many, many more transactions. We've been seeing this for years. Over the last 10 years, our average transaction size dropped by 20%. It used to be around $55, so about $45 now. You might say, "Ooh, that's bad." It's not bad because alongside that, our numbers of transactions tripled. The reason is, as we entered that cloud and mobile era, we started to see transactions getting reformed into denser transactions. Fewer of them... Lower ticket sizes, higher transaction volume. Think about how agents are going to act.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Agents are going to unpack transactions, separate them into more individual transactions, get the right product at the right moment for the best value for the user that's sitting behind the agent. It's going to be more transactions. Think about unshackling streaming transactions, subscription transactions. You know, those are currently constrained by the humans that sit behind them. When agents are transacting with agents, those will be gone. We see a massive growth in the number of transactions that we're going to see.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+I like that I want to dig into that last comment that you made on agent-to-agent. Like, as I sit in, you know, in my world and I think about the consumer and consumer behavior and tracking the way consumers have changed behavior over the years, I feel quite comfortable that even with the rise of agentic commerce, particularly when they're acting on behalf of a consumer, right? Like, that Visa's role within that transaction, I feel like is in great stead. Not to say that there's not work to be done, and we can come back to that, but it's in great stead. Where I have more uncertainty is in this world of agent-to-agent transactions. We've seen rapid growth in some of these platforms and environments, enabled by things like OpenClaw, et cetera.
+I know that it's its own... You know, it's tending to gravitate towards its own payment protocol, I think called x402, and you see a lot of different ways that different payment types can link into that, et cetera. What's Visa's role in those agent-to-agent transactions? Like, in my mind, I think about it as being like very, very small, potentially B2B type transactions, which seems like it should be an opportunity, but then you hear about stablecoins or crypto or other transaction methodologies, especially if we're talking about very small payments. Talk to us about what Visa is doing to operate in that environment.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. I want to come back to broader B2B in a minute. You mentioned it right there because we see that as another source of massive growth as we really start to see agents come to bear.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+To answer your question more directly on agent to agent, if you think about it, we today use our technology, and these cryptographically protected token credentials that we deploy to enable the unknown users, consumers and businesses, to transact safely and securely with unknown sellers.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right. Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We create a knowledge and a trust of identity and a cryptographically protected secure linkage between those two parties so that we can transact. What's happening in agentic commerce is we're inserting a machine in the middle, another identity. Instead of client to server, it's client agent server. Now we have three parties in the transaction. We look at that and say, "This is just a natural progression for us.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Now we need to have an agent identity and an agent with a token provision to it. What we've done is we've created a new protocol term, the Trusted Agent Protocol.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+That starts to define for the purposes of payments, how we will identify agents and register agents. We can then take that very same familiar credential that we've been producing for many years in the form of a token and provision that token directly to the agent. The agent will then be able to use that token, having verified their identity, to interact with other agents and other sellers. From a technical standpoint, we see this as a super logical progression for us. You mentioned 402.
+I mean, for those of you who don't know, 402 is a internet messaging standard that says, "Hey, when you try to access content or services on the web, you'll get a message back that says, '402, need payments.'" x402 protocol is a protocol that's been developed with Coinbase and others to respond to that with a payment.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You're exactly right. There is no reason that we cannot respond to that with a tokenized card-based payment. That's exactly what we're working on and the kinds of innovations that those dev squads I was talking about a minute ago are rapidly developing.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Let's talk about this Visa Trusted Agent Protocol for a second.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Mm-hmm.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+What's the work that needs to be done and to get the broader ecosystem to adopt that as an industry standard? Does the broader ecosystem need to adopt that as a standard? How is the landscape evolving for agent authentication protocols generally, while still trying to keep fraud rates low? I guess one of the things I think about in a lot of these agent-to-agent transactions that we're seeing examples of, some of them are less than a penny. On the one hand, there's the potential to, if you're a bad actor, to scoop up a lot of fractions of a cent. Right? Like the old Superman plot line. On the other hand, it's also not very big, so maybe you can figure out who the bad actors are pretty quickly and get rid of them.
+Like, help us think through, like, the Visa Trusted Agent Protocol, its role, where you should be pursuing standardization versus not.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Let me start by sort of backing up a little bit from-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... the Trusted Agent Protocol, I'll get to it. I'll acknowledge that at this particular moment in time, at the early stage of the development of the agentic web at that level, we are in a little bit of an alphabet soup with respect to standards, right?
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right. Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+UCP and ACP and APT and all this stuff. I like to try to simplify and think of it as there's a set of standards that are gonna be required at the agentic web level. Forget about shopping and payments.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Just this new structure where you have client agent server is a different way of thinking about our web infrastructure. We need new standards for that so that agents can interact with each other across all use cases in ways that have standards associated with them. We've seen the Model Context Protocol, for example, as a great standard that's enabled large language models and agents to be able to communicate and exchange data with each other there. You drop down to, well, there's a shopping level, right? We need a new way for agents to be able to share information, for merchants to be able to share information about inventory, for agents to be able to consume that, for agents to be able to identify themselves. At a shopping journey level, we need that. You've seen standards like Google's UCP protocol.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Mm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+that govern that. Nested within that, we need new standards for payments that can ensure safe and secure payments with the right data payloads so that we can actually execute at the scale and the level of reliability with the level of security-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... that we have for a long time. That's where Trusted Agent Protocol comes in. That's where our specs on Visa Intelligent Commerce come in, where Mastercard Agent Pay specs come in. Look, we've been building payment specifications and standards for a really long time. We got a lot of passion about this.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right. Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We take it incredibly seriously because it is about the ability to scale securely as you just described. That's why we got out early with the Trusted Agent Protocol. It's an open standard, by the way, that we developed, and is intended to provide safe and secure standards for agents to be able to be identified within the context of a payment and to be able to convey user payment credential information as a function of that. It's supported by us. It's supported by players like Cloudflare and Akamai, who host nine out of the 10 top retailers.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+in the world. It's supported by Mastercard, American Express and others. We're, we're incredibly excited about it. Moreover, I would emphasize we need standards. We're at an early stage of it. There are a lot of them out there, but we are maniacally focused on delivering and ensuring that those payment standards get adopted. I don't know if you saw, but this morning-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+I did.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... we just announced with Stripe that they are taking up our Visa Intelligent Commerce specification-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... starting to deploy that into production as part of their own, agentic commerce push. This is what we expect to see. It's hard work. It takes a little while. We've been working on that one for quite some time, but we're very excited to see it starting to take shape.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Let's start to bring this to the P&L a little bit. How do you think about the proliferation of AI being a potential threat or opportunity, particularly for that BaaS component of the business?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+The question of the day. Is AI going to eat software or at least eat software's growth rate, I suppose? Look, I'll say two things about that.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+One, we use AI. Like, we embed AI into those value-added services products. We've been doing that for a very long time, especially in the risk management space. We've literally been using forms of AI for decades. The exciting thing for us is we're now with the next generations of AI and generative AI and agentic AI able to start embedding it into a wider array of products and services. Think about things like disputes processing.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Mm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We're building agents to be able to take those activities on. Our value-added services portfolio is going to grow, it's going to expand, it's going to get richer as a function of the AI that we're embedding in it. AI is our best friend in terms of product development and the richness of features that we can add on top of that network stack we were talking about. I'll say one more thing. I believe that businesses with network effects and proprietary data scale are going to do really well in AI because those things are very hard to replicate. I started at the beginning talking about our journey in building our hyper-scaling infrastructure. That was decades-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... to build almost 5 billion credential endpoints on one side of the network and 175 million merchant endpoints on the other side. We process 300 billion transactions a year. That's 900 million transactions a day that flow through this. That is an incredible richness of data. We're much more focused on, well, how do we actually use AI, embed AI to build more of these services and to make them even better? We're not terribly worried about someone coming in and displacing those services with a AI-led version of their own.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Got it. While we're on the value-added services topic and looking at kind of the economics there, specifically value-added services revenue grew 28% year-over-year in the first fiscal quarter of 2026 to $3.2 billion, and that was about half the overall revenue growth. With that now approaching about 30% of total revenue, remind us what the key growth drivers are and how Visa thinks about maintaining this growth rate. In particular, are there things we should be sensitive to, such as pricing, international expansion, even one-time events like FIFA and Olympics this year?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. Look, I, I know it's a, it's a big top-line growth rate accelerated recently, but I, I continue to look at these businesses and say, "I think we could do even better." There are four businesses in there, by the way. There's Issuer Solutions, which are our services for the issuing and banking side of the house, the network. There are Acceptance Solutions for our acquiring and payment service provider and merchant side of the house. There are Risk Solutions and Cybersecurity Solutions that cover both sides. There's our consulting advisory and analytics business. All four businesses firing on all cylinders. When you, when you really unpack it and you start looking at, well, where are we relative to the TAMs that are available in each of those businesses-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... even in the sub-businesses, each of those businesses is in the low single-digit percentage of penetration of the opportunity-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Wow.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... that is in front of them. Look, it's an $11 billion business. It's grown at 20%+ for five consecutive years. We have seen some recent acceleration in the growth, I don't think we're anywhere near a kind of plateau. I think there's so much more that we can do with these businesses. You know, you're asking kind of some of the bits and pieces around the edges in the short term. I mean, is there pricing in there? Yes, there's pricing in there. There's always pricing in there, but the fundamental growth rates that's in underneath are still really strong and robust. Yes, we have things like FIFA and-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+The Olympics.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... and the Olympics, that can cause a little bit of cyclicality. I mean, you know, this is a year when we have two of those events going on at the same time. Those are incredibly powerful platforms for us from a Visa branding standpoint. But we've got this great model where we can also extend those to our clients, and there's an enormous amount of appetite on the part of our clients for our marketing services and consulting support. You do see a little bit of a pop in a year like this. You know, to be fair, some of that is substitution because our marketing services team does an amazing job year in, year out, whether there's an Olympics or a FIFA or not.
+They're just doing a little bit less of what they otherwise would have been doing and focusing a little bit more on some of that stuff.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Got it. Wanna turn to another technology topic or technology-related topic that comes up a lot, and that's stablecoins. Can Visa be a winner with stablecoin and crypto generally, and what solutions do you bring to the table in that environment?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. We're very excited about stablecoins. I would say stablecoin's a little bit different than the AI thing-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Yep.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... talking about. You know, AI agents, they are software. They are an application. They work at that level. The change is relatively obvious. We are all interacting with it at a user level. Stablecoins and the blockchains they operate on, they're infrastructure.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+They are not a solution in and of themselves. We think they're powerful infrastructure.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+You may not think of it this way, but you think about Visa, we're a messaging platform in a way. We're exchanging financial messages across parties where we create trust, and we're creating promises to move value and to pay. The actual movement of the money happens offline from that-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... and we actually use the same infrastructure to move the money that everyone else does. We use the same national clearing houses, the same corresponding banking systems. I'll just say it this way, I think we have collectively done an amazing job reinventing the front end of money as we all experience it over the last 20 years. We have not reinvented the back end of money. It's still very brittle and very difficult to use. When we see stablecoin as a way that we can create real-time instant finality and settlement, we get excited 'cause we're nerdy like that. It's not a solution itself, but it can be. That's where I think we come in, where we get excited about the opportunity. We see ourselves as the hyper-scaling bridge layer-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right. Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... between this infrastructure and how it can show up as solutions. We're working on a few different things. In the infrastructure side, we're enabling our clients to settle with us using stablecoins. An issuer who's working in stablecoins can pay us in stablecoins instantly, 24/7, anytime they want, and an acquirer or a merchant who wants to get paid can get paid 24/7 anytime they want. That's a game changer, 'cause prior to that, we've had to operate within the time windows of national clearing houses, et cetera, et cetera. But where I get more excited when you sort of flip that to the user side.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Right? There we're really starting to get a lot of traction enabling-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Yeah
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... stablecoin payments and stablecoin acceptance. The reality is there are lots of forces that are causing consumers and businesses to come into possession of stablecoins. Could be that they want to hold them because of currency volatility in their country. A lot of it's emerging market stuff, but it's growing, it's growing. Here's the reality. There's no demand pull for consumers to use wallet-to-wallet stablecoin transactions for payments that I've seen. They love cards. They trust cards. They've been using cards for a long time. They don't wanna learn new behaviors. Consumers love cards. You know who loves cards in the stablecoin space even more than consumers? Fintechs, exchanges, wallets, and the banks who are custodying the stablecoin value on behalf of consumers.
+They love the hyper scalability that we can provide them, plugging their stablecoin customer into this ecosystem that I just described, where their user can spend at 175 million merchants. Not only do they love that, they love the commercial model too. It's these factors that have gotten us to where we are, which is the vast majority of stablecoin-based payments from a consumer to a merchant today are done by a card.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We have more than 130 stablecoin-linked card programs around the world today in 40 different countries. We did another announcement this morning, I don't know if you saw that. Our partner Bridge, which is part of Stripe-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Yep.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... currently issues, programs in 18 different countries around the world. We've been working with them. We announced this morning we're gonna expand that to 100 countries, by the end of this calendar year.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Just quickly, like you talked about Visa's stablecoin settlement has grown from about $2.5 billion annualized run rate in August 2025 to almost $4.6 billion by the end of Q1 2026. What's driving that from your perspective? What kind of use cases?
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah, I mean, we, you know, it's, it is, you're talking, you know, meaningful triple-digit growth rates-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Yep.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... is what we're seeing in our stablecoin settlement volume. It's not one thing that drives that kind of growth. We've been working on this for six or seven years, actually. We first created the ability to settle on our network in a stable, with a stablecoin-like construct back in 2019 or 2020. We've been letting the rope out as we've gotten more regulatory clarity around the world. In markets like Singapore and Hong Kong, we went a little bit sooner. In the U.S., we just started opening up this capability toward the tail end of last calendar year. What you're really seeing is a combination of we're bringing regions and parts of the world up, we're taking clients on board, new ones all the time.
+We have a really robust pipeline. We're seeing tremendous growth within any individual client who's doing this. When you add all three together, new regions, new countries, new clients, and the growth that's inherent in the clients that are already doing it, you get to significant triple-digit growth.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Got it. Last couple of minutes here. I wanna finish up. It seems like we've been kinda working backwards from headlines, AI being the most recent, stablecoin and impact on value-added services. An opportunity that you alluded to and that Visa's been pursuing for a long time is commercial payments or B2B payments. In Q1, you indicated that grew about 10%, outpacing overall payments volume growth. What's driving the acceleration there? Just help us, as we wrap up today, Jack, think about the opportunity within B2B and what the things are that we should be paying attention to from an investor perspective.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Yeah. We're super excited that we are where we are with the B2B growth rates relative to the rest of the business. We've been working hard on it. It's no surprise to us, you know, we hope and think we can sustain that. I'd say, you know, it's kind of two categories of things.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Okay.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+There's a ground game aspect to this that we've talked about before where we're just driving to convert more of that small and medium-sized business spend. We're seeing wins all over the place. We, you know, recently posted wins with portfolios like Chase Sapphire Reserve for Business.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Yep.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Truist, Titan for Revolut is a really cool win for us. Then we're going to large and middle market and Virtual Payables doing the same thing. Our Trip.com win is a great example of that, where we built something custom for the travel sector, and surrounded that with instant and automatic reconciliation, rich data streams, and were able to pull something together that was just unique, that won that deal. We're really excited about the travel sector, by the way. Lots of growth there, and we're at the very beginning. That's kind of the ground game stuff. Separate from that, we're really excited about agentic and the potential that it represents.
+There is still so much friction in B2B payments from supplier onboarding to invoicing to reconciliation. That has caused B2B payments to be way behind the consumer side-
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+For sure.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+... to digitization.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Sure.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+We see the potential for agents to rip out that friction and really create smooth, straight-through B2B payments opportunities. Great example of that is our partnership with Ramp.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Yeah.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Where we're now embedding AI and agent along with Ramp into the buying process, so a buyer's agent can interact with vendor websites and web portals and pay instantly with single-use, Visa credentials.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Right.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+It's basically like invoice to payment with zero friction all in a space. That's, by the way, I mentioned it earlier, another significant contributor to how we think agentic is going to drive a lot of growth in the payment space overall.
+## James Faucette | Managing Director and Senior Equity Research Analyst, Morgan Stanley
+Great. Well, Jack, that's all the time we have today. Thank you very much for joining us. Really appreciate it.
+## Jack Forestell | Chief Product and Strategy Officer, Visa
+Thank you. Thank you.
+Data Source: Quartr Last updated: Mar 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

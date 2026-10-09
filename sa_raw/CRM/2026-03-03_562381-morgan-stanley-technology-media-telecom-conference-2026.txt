@@ -1,0 +1,352 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-03
+## Robin Washington | President, COO and CFO, Salesforce
+Music is nice.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Excellent. Thank you everyone for joining us this afternoon. My name is Keith Weiss. I run the U.S. Software Equity Research franchise here at Morgan Stanley. Just about to give myself a promotion and become the overall boss. Very pleased to have with us this afternoon from Salesforce, both Robin Washington, Chief Operating and Financial Officer, and Joe Inzerillo, President of Enterprise and AI Technology. Joe and Robin, thank you so much for joining us.
+## Robin Washington | President, COO and CFO, Salesforce
+Thank you so much for being. Keith, we had to be sure that we gave you one of our latest. We hear there's a big announcement forthcoming.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Oh, thank you so much.
+## Robin Washington | President, COO and CFO, Salesforce
+all your support, right? You have to be sure to show it to everyone. I knew it.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+I never got to join in the club in San Francisco because I wore suits all the time. Now I can finally fit in with the.
+## Robin Washington | President, COO and CFO, Salesforce
+That's why you gotta pause every now and then.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+with the tech crowd here. I got a Slackbot sweatshirt.
+## Robin Washington | President, COO and CFO, Salesforce
+You gotta show everybody it's all about Slackbot.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Slackbot.
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Very nice. I like it. Thank you. You guys recently closed your FY26 and a transformational year for Salesforce, when it comes to sort of product strategy, which Joe Inzerillo's gonna talk to us a lot about, but also the sort of operating model within, in Salesforce and pricing models. Maybe just start out, Robin , tell us a little bit about some of the key accomplishments from a financial perspective, and how this has set you up for FY27 in terms of what's been going on with Salesforce in the past year.
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah. Well, thanks for that start. Yeah, we had, as you said, a terrific year from an innovation as well as a financial standpoint. We announced our results last Wednesday, as you had in, like, record revenues, record quarter, record cash flows. Pretty much taking it back to Investor Day, Keith, I think what's important to note, we laid out a framework over the next several years. We talked about, you know, that continued elevation of net new AOV being greater than AOV over time, and we saw those inflection points play out in Q3 and Q4. It gave us even further conviction to what I said back then of the 12 to 18-month trajectory to return to organic double-digit growth. You add on to that Informatica, you're talking about 27, but we're even thinking broader. Amazing integration already. Great return.
+We were able to make that accretive, fairly quickly here within one year and feel really good about how it's fitting in with our core data component of our platform and really helping our customers, particularly our customers up. Very excited about that. In terms of other things that we've done, we're seeing our investments start to pay off. We invested a lot in AE capacity last year, and it's something we wanna continue to do. We've also invested in SDEs, very focused on deployment of Agentforce, and as Joe will talk about, a way for us to continue to fine-tune our agents to make them easier to install, et cetera. And infrastructure. All things that really set us up well and on the continuum to meet our objectives over time. There's also just our growth playbook that we've had in place.
+In Q4, if you think about our premium SKUs, 300% quarter-on-quarter adoption of those premium SKUs, which really for us shows the value of our stack in general. That's really important to us. We've also kind of invested in industry playbooks and processes, even with some of our new products like Grello, that are really helping customers kind of figure out where do I start? You know, how do I take and become an agentic enterprise, and what are some real focused use cases that I can accelerate? We feel really good about 2027, particularly that second half acceleration that I mentioned, and continuing to grow profitably. We have doubled down on investments in FY 2027 to meet that FY 2030 framework. Ended the year at Rule of 44, feeling very good about that trajectory of Rule of 50.
+Prioritization on growth and revenue and Agentics as well as profitable growth that I think you'll get to the capital question at some point.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Definitely. Definitely. I'll hit on that. I wanna bring Joe into the conversation. You mentioned the stack, and I think that's important when we're talking about Salesforce, because there's a lot of assets at play here. You guys have built out a very robust sort of underlying data platform. There's a lot of application capabilities on top of that. Now there's an agentic layer on top of that. Slack is part of the equation. Joe, you've had a really remarkable career spanning three decades. You've had leadership roles at Disney Streaming, BAMTech, Chief Technology Officer at SiriusXM. When I think about your career, it's building big systems, and this is a big system that you need to build out here at Salesforce. Can you talk to us about sort of your vision?
+When you come in and you take this role, what's the vision of what Salesforce could bring to the market in terms of enterprise AI and what that's gonna mean for your customers?
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah, I mean, thanks for the question. I think you're right. On one hand, you can look at my career and say, like, I've built things of big scale. You know, Disney+ was ginormous. The other stuff I've done has been pretty big as well. The other way to look at it is I really spend most of my time in the direct-to-consumer market. I'm not like a traditional, you know, enterprise technologist. I think agentics is one of those things where it feels much more like direct to consumer, and it feels it on a technical basis. Like these continuous improvement loops, how do you constantly refine things? How do you get them better? How do they learn? How do you learn? That's one aspect of it.
+I also think it comes down to just the way we interact with technology. You know, in an enterprise setting, you say, "Okay, well, you know, here's a screen, and I'm gonna try to optimize it." Now every salesperson needs to conform to that screen. If you go to sales in Agentforce or in Slack, now all of a sudden you're having a conversation. It knows who you are, it knows the questions that you ask. It's a very personal relationship, not unlike the customization that might be in a Disney+ or a SiriusXM streaming or Pandora where it gets to know you. That's now gonna become in the forefront, and we're seeing it now becoming in the forefront of how these technologies mesh together to drive better outcomes for our customers.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Got it. I wanna pass 2, like, investor debates behind you. Investors obviously have a lot of uncertainty about sort of what the future holds, particularly for the SaaS application layer. You, I mean, you came to Salesforce, you came into this big system, this big incumbent vendor with full knowledge what was going on, right? The, the models were already in play, and you saw opportunity here at Salesforce. How do you get comfortable with some of the, like, the investor concerns? Number 1 is the DIY concern, right? Now, with code generation tools, it's so much easier to develop software.
+Why does that not present a more of a threat to Salesforce and what you guys have built and erode some of the moats that people have traditionally thought about within software businesses?
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah, look, it's a great question, and I can see how people would think about it that way because they'd say, "Oh, well, look, you have these amazing tools." I think about it more like a master carpenter, right? Like back in the day when you had to cut with a handsaw, like you really had to be a good carpenter in all parts of it. Now you can cut on a table saw and it's probably gonna be a pretty good cut. The tools are raising the boats for everybody. Yes, the DIY market is getting more sophisticated, but so are we. We have a backlog of data and features and things we've always wanted to deliver to our customers, but it sort of sits in a queue based upon what capacity you could afford for meaningful and disciplined growth.
+Now all of a sudden, we're seeing the good engineers in our teams are going 20x, and they can really sprint ahead of this. I think it's, you know, really in my career, I've done a lot of DIY. I've built a lot of systems from mostly whole cloth. Even I had the, like, why would I wanna waste time trying to build something that I could buy that's fit for purpose? I'd rather spend my development money to use those tools to do the thing I'm trying to do, whether that's Disney+ or another, you know, direct to consumer product. That's where my value is.
+I just think that, like, the combination of us continuing to accelerate the rate at which we're delivering meaningful outcomes to our customers, as well as them being able to then use those outcomes to really specific on what their core business is, I just can't imagine there's a lot of people that are gonna wanna go backwards and say, like, "Well, let me build a better Salesforce." Like, the, I don't understand where the ROI is in that.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right. Right. That, that would also be a defense against another investor concern of startups, right? Of AI native startups being able to kind of move faster. If we think about startups, it's a dynamic between best of breeds and suites. If you guys can innovate faster, if you could close that feature functionality gap between sort of what a startup books on a single technology versus what you could bring into a broader suite, it seems to tilt the balance in your favor of, like, let's put all this solution, let's garner these new capabilities from our incumbent vendor who's already automating a lot of our business processes.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Totally. I mean, everything you just said, and then I'll add another one, which is if you think about social media. If you set sort of TikTok aside, you know, that's really a state-sponsored company. It's tough to argue that they competed on the even field. Look at the social media companies. They're all the same ones that were social media companies that were at the birth of it years ago. The reason is, it's not just everything that you just said, it's also the data. It's that deep semantic understanding of what your customers are doing and what the processes look like. In the case of social media, that sort of identity graph, the social graph that ties all these people together allows them the fuel to continue to innovate on the interfaces and things like that.
+Yeah, startups come, some of them get acquired, some of them are inspiration, but they haven't really mounted a real threat against them. I'm not saying that we think we're invulnerable, but at the same time, we have all of these assets, and we have, you know, 26 years of real data that tells us where people are having problems, where they wanna go forward, how can we help automate those things with that tool set. The data is just as important because it provides continuous inspiration for how we're gonna try to solve problems and move the bar up for what our customers are able to achieve.
+## Robin Washington | President, COO and CFO, Salesforce
+I think, Keith, that's the key differentiation. Like I said, they're not customers just desire to see if I don't just want technology, I want things that ultimately improve my interaction with my customers, my bottom line, my productivity. You can't do that without the data, right? They're looking for solutions, and we've built 26 years of being the trusted number one AI CRM vendor, as well as being very innovative. I think you combine all that together, we have the solutions, we have the technology, but we have the trust and the data.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right. It's not just data. Like, we're thinking about data, like the data sitting in the database. It's also the understanding of your customers, understanding their business problems, 'cause that's ultimately where the value comes is solving the business problems. All right. The second sort of investor concern that I wanna pass by you, Joe, was the idea of a AI user interface, right? I think Claude with CoWork really, and how well that did tool use really sparked this fear of that perhaps going forward, we's not going to go into Salesforce to understand what's going on in our customers and then go into maybe Workday to understand what's going on with HR.
+We're gonna have this one universal AI user interface that is going to handle all of our requests, understand all of our systems, understand all of our data, and abstract sort of the user from the end systems and make maybe Salesforce a little bit more of a back-end transactional system. One, how do you respond to that concern? Two, can Slack play a bit of that role for at least for a Salesforce customer against Salesforce type systems?
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah. No, I think it's a great question. I'll take the second part first. I mean, Slack, it's not an if, it is. If you look at the major AI companies out there, they're using Slack.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+It is the way that they get work done internally. I think that Slack is a natural place for it because it's where people who use Slack get things done. Why would they not also be getting them done with agents? Especially because those interfaces and those interactions tend to be fairly textual. It's like a collaboration tool that, you know, Stewart Butterfield could say, like, when we founded Slack or when Slack was founded, before we acquired it, that they thought about agentics, but they thought about people, but it turns out that the agents and people wanna work in a very similar way.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+But to your other point about the disruption side of it, I think the way I think about it is, you know, I'm old enough that I've lived through these technological revolutions. You know, back in the nineties, when you wanted to run a computer program, you went to a very specific computer and clicked a very specific binary and did a very specific thing. Then really Marc and Salesforce were the ones who invented, "Oh, no, no, you could just do that SaaS, it could be in the cloud." There was a whole bunch of like, oh, the people who had, you know, these binaries were gonna be disintermediated. Yes, well, Salesforce grew out of that with a new company. Oracle and a lot of these other companies are still around. They adapted to it. Same thing with mobile.
+Mobile, very similar things. Like, well, you need an app, and then all of these companies have apps. AI is gonna fundamentally change the way we interact with the computer, and that's cool, but it doesn't just change it in a super narrow way, it changes it in a general case way. Slack, back to the first answer, Slack is that organic way that people are de facto actually going to Slack because it's really well-suited to do that. Yeah, I mean, Look, if we were a different company and we didn't have Slack, maybe I would be worried about it, but I actually think we're leading this transformation with Slack.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Yeah.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+People are coming to us, the AI folks, you know, they're building things into it. There won't be a monogamy of interface. There's gonna be a plurality of interface, but where's the gravity? I think Slack is a great example of the human collaboration with agents is the gravity, and that's where we're pulling people towards.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Got it. Robin, I wanna ask you about a different investor today, another investor concern, and that's the risk of seat-based models.
+## Robin Washington | President, COO and CFO, Salesforce
+Mm-hmm.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+The idea that we are automating, and doing a digital labor replacement of the very units that you price on. How do you think about that potential disruption risk? Is there risk in terms of not being able to sort of make up for kind of the seats with added value...
+## Robin Washington | President, COO and CFO, Salesforce
+Right
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+that you're bringing with the more consumptive elements of what we're doing with agents?
+## Robin Washington | President, COO and CFO, Salesforce
+Right. It's a fair question that we get asked a lot. I will say, when we look at the core data, we're not seeing that. We're seeing the great adoption, the momentum, metrics around our agentic products, but we haven't seen seats year-over-year on quarter-over-quarter decline. I think it goes back to the earlier conversation, Keith. As long as we're showing value of our platform, and in our ways, agentics make our core apps even more valuable, I think that's what's really critical. Now, to sit and say that over time, are you not gonna have some type of attrition of seats, that could very well happen. We really see a hybrid model of seats as well as adoption of our agentic products driving consumption.
+I can't tell you exactly how those curves are gonna grow, but overall, we see overall continued value of our core apps and the system, the integration of them and the context as being really critical. It's like you can't have one without the other to our overall conversation here.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah. I mean, I totally agree, you know, with Robin saying. I'll... You know, Robin and I are sort of here talking about the company.
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+We also have a relationship because in addition to overseeing Slack and Agentforce, I also essentially oversee our office of the CIO and all the things that we're using it. When she and I.
+## Robin Washington | President, COO and CFO, Salesforce
+With my CIO.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah. Yeah. When she and I have questions.
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+... you know, like about, okay, should we invest in this?
+## Robin Washington | President, COO and CFO, Salesforce
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+We're putting our business hats on as two executives that run a 75,000 person plus company, right? We're looking for value. It's one of the reasons that we introduced this, like, Agentic Work Unit-
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+... as a measure because it really matters what the outcome is. You know, like, you could spend 1 million tokens, and that could be good or bad depending on what you're doing with it.
+## Robin Washington | President, COO and CFO, Salesforce
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+AWUs are what you're doing with it. When we try to think about investments, we're thinking about them the same way our customers are, and we're saying, "Okay, what is it doing? Like, is it delivering the value? How do we get there? How do we measure that impact?
+## Robin Washington | President, COO and CFO, Salesforce
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+I think the, you know, the whole industry is evolving. It's super frenetic right now. Nobody has a playbook of exactly how this is gonna work. In a simplistic sense, if we deliver real value-
+## Robin Washington | President, COO and CFO, Salesforce
+That's right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+like, we're going to get compensated for that real value. The higher, you know, the higher value we can deliver because of the complexity of the tasks that the agents can sort of orchestrate across our stack and other stacks, that's going to bode well for what we can do from a, from a pricing standpoint, regardless of the vehicle.
+## Robin Washington | President, COO and CFO, Salesforce
+I think just to take an example like that, and Marc, our CEO, uses it a lot, is our helpdesk.com. We have been able to save on reactive call volume. Now, we've been able to reallocate those resources to other areas of the business. It's adding incremental value. We're able to measure that and reinvest it or readapt it. In some ways, it allows our customer service reps to interact more with the technology, the whole idea of humans and agents working together, so they can be more focused on proactive value add calls. Our call volume is still going up because we're growing, but our ability to reallocate those resources and leverage agents really helps our productivity.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Right
+## Robin Washington | President, COO and CFO, Salesforce
+... and allows us to rebalance. When I think about it as a user, the value of my users hasn't gone down. It's just allowed them to be more value additive, more focused on ensuring that they're meeting the needs of my customers. It gives my customers 24 by 7 support for things that don't need human engagement.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Right.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Maybe to kind of sum up this, like, investor concern and competitive dynamic and maybe shift the conversation more to a constructive of what Salesforce is gonna bring to the marketplace or the Salesforce's positioning. It's unlikely that your customers are gonna try to DIY their own solutions, right? That's what they look to you for. They're looking for solutions. You have strong competitive positioning against startups. There is this new white space. There's this added capability that large language models and generative AI bring into the overall system, and there's gonna be a competition for who gets at that white space, who's able to create this further automation and further productivity for the end customer. Joe, maybe you could talk to us about what sets up Salesforce well to win in that competition.
+What gives you guys the right to win in building out that additional capability, those additional workflows against the front office and even broader into going into stuff like ITSM?
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah. I mean, I think when you think about it, the whole paradigm is sort of like upside down from where it was before. You think about, like, the way in which you build code was, like, very like, okay, let's take this, you know, thing we wanna do, break it down into steps, do all these steps very iteratively, you know, figure out how we get there, and all sorts of stuff like that. We're now starting to go the other way. Where now the imagination is sort of starting at, like, the user level where you can put tools in the hands of users and then observe how you can continue to make them faster and faster and faster. For us, I can't understate how important it is. It's not just the models.
+The models themselves are incredible, miraculous, frustrating creatures, that exist now, and they've completely shifted the paradigm, and they keep making improvements. They're not delivering, like, a results-based system that you can depend on for a business. You need that data. It's not just the data, like you were saying, in a database that sort of sits there at rest. That data is now kinematic because of these models. It's always sort of being introspected and moved and things like that. When you look at us, we start with sort of this data layer where we have all of this, amalgamated knowledge, but we can represent it to the upper layers of the stack.
+You start working your way into the activation layer, the apps themselves, the facilities that the apps provide, and then you have the agentic sort of orchestrating that whole thing, and then back to Slack. You have this interface layer that then participates in the entire thing. Does that necessarily assure that we're gonna be successful? Of course not. Does it sort of show that we have this incredible advantage in vertical integration where we have, like, a really strong foundation of how these components that need to all exist, need to all interoperate, need to all be observable, can work together. Because we've worked so much on the fit and finish of how they fit together, you also get into the situation where I can't emphasize enough these continuous improvement loops.
+It's not just does it work today, it's like, how does it get better tomorrow? How does it react to the change in human behavior? How does it react to more data becoming available? That's how these things are just gonna go. Like, there is no gonna be steady state, you know, done, ship the software, we're done. It's always gonna be at this frenetic user level as opposed to this sort of architectural level. I think we're really well-positioned because both through organic build and kind of the DNA of who we are and acquisition, we've filled out that layer in vertical integration, and we've seen with hyperscalers and things like that how much that vertical integration is a huge asset into delivering solutions that actually work and drive value.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Got it. Like we were talking about before, Joe's bringing solutions to real customer problems. If you guys are bringing a solution to your customer, they're going to pay for it. They're gonna value it in some way. You guys have developed a whole menu of options for Agentforce pricing. We have Agentic Enterprise License Agreements. We have consumption-based pricing via per call. We have Flex Credits. We have seat-based SKUs like Agentforce One Edition. Why is it so important to have so many pricing options? Like, it creates a lot of confusion for us.
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+We don't like confusion. Why is it so important to get adoption in the marketplace to have this menu of options?
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah. It's confusion, but it's also agility.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Mm-hmm.
+## Robin Washington | President, COO and CFO, Salesforce
+I think what we're finding, to Joe's point, this is not a static market. We're competing. Our customers are looking at options. They're trying to scale. Our job is to be sure that we've got solutions that meet customers where they are. Some want to pay per user, particularly if they're looking at other options. Others want certainty. They wanna understand what this means. They like the user model. The different menu of options that we have allows us to meet a customer wherever they are on that journey, Keith. You know, over time, the AELAs are great. If you wanna go all in on us, you don't need to worry about whether this agent's gonna hit up against this LLM too much or if it's gonna be too. You can really decide what are the right use cases. Do you want customer-facing?
+Do you want employee? We believe that agility that we have, sorry for the confusion, really helps take off the table for the customer any concerns they might have around cost. It allows us to kind of just double down with them relative to being their platform of choice.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+I mean, to Robin's point, I'd also just add, you know, living through the hyperscaler revolution was an example of, like, it was a very different model. You know, people were used to this CapEx model, and I do this, I get a data center, and all that kind of stuff. By the way, like, I used to be really good at building data centers. I thought that was an awesome skill set. I haven't built a data center in 12 years, you know? Like, that all of a sudden became less interesting to me.
+I think when you think about that transition, we think about it as if it was like this, you know, square wave transition that just happened, and everybody was like, "Yeah, well, of course, this is how you pay for a cloud." The reality is it took a long time. In retrospect, it seems short, but it took a pretty long time. Took a decade, really, to get that into the full mainstream. The same thing is happening as far as the pricing models go with agentics right now. The only difference is because agentics are moving so quickly from a disruption standpoint, that entire timeline is compacted. Like, you know, to your point of us changing models, we're trying to be reactive to the market, trying to be reactive to our customers, meet them where they are.
+If you actually slowed down time and kind of expanded that to a decade thing, it wouldn't seem as frenetic. It's just because there's so much opportunity and so much disruption right now that it feels like they're stacking, and it is. It does confuse customers, but we think the inaction is much worse than that. We really wanna try to get some stability, really trying to mature it and get to a point where we're meeting everybody where they're at. I think the timescale is what people don't really appreciate is the fact that this is all just happening really fast for the whole industry.
+## Robin Washington | President, COO and CFO, Salesforce
+Right. I think the receptivity that we've had gives us the ability to monetize in any framework that the customer wants. Over time.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Right
+## Robin Washington | President, COO and CFO, Salesforce
+... it's more predictable for us. You know, it's again back to that hybrid model. Our goal is to ensure that our overall platform is sticky, it's retained.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Right.
+## Robin Washington | President, COO and CFO, Salesforce
+We think this all-in model really helps us with that in our regard. To Joe's point, we're iterating with the customer. It's a very different selling model. It's not users and we go away. We're out there, our forward deployed engineers working with them and fine-tuning, and these pricing options, including credits, give them a lot of different options and ways to absorb that based on the success that they see and the iterations.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Right
+## Robin Washington | President, COO and CFO, Salesforce
+that they go through to be successful.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Right.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+I mean, what I hear from a lot of investors and what they're looking to me for and what they're looking toâ¦
+## Robin Washington | President, COO and CFO, Salesforce
+Mm-hmm
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+... you and the IR team probably even more so is clarity. They want absolute certainty of that $1 of seat revenue is gonna turn into X amount of agent plus seat revenues. Listening to Joe about how quickly this is evolving.
+## Robin Washington | President, COO and CFO, Salesforce
+Mm-hmm
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+how quickly the capabilities are evolving, listening to you about how customers are still trying to figure out how they wanna pay for it seems like maybe we're looking for something that would be too limiting, right? If you guys narrowed it down to one set of functionality and one pricing model, you're gonna limit your opportunity.
+## Robin Washington | President, COO and CFO, Salesforce
+Right.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+With that being said, it's near term, maybe maximizing from a stock price, long-term limiting. What should we be looking to? Like what... Is it AWUs? Is it the Agentic Work Unit? What should we be looking to, and what gives you guys confidence, because you called for acceleration into the back half of FY27?
+## Robin Washington | President, COO and CFO, Salesforce
+Absolutely.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+What are you looking to get that certainty to give that forecast? 'Cause I know you. You're conservative.
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Like, you're not gonna tell us about acceleration until you feel really comfortable with that acceleration.
+## Robin Washington | President, COO and CFO, Salesforce
+Absolutely. Hazard of the job.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Yeah.
+## Robin Washington | President, COO and CFO, Salesforce
+No, I mean, at the end of the day, it really comes down to customer success, and it's really about that partnership. We've thrown out the AWU. I shouldn't say thrown it out. It's a really good metric for AWUs, but we're looking at net new AOV. We have a set of metrics that helps us really understand the direction of that customer journey. I think the other thing that is important, Keith, to your point, what's happening with the customer, and we also talk about the multiplier effect of being on multiple clouds, leveraging our agentics, et cetera. We're seeing real acceleration of ARR per customer as those customers go on this journey towards the agentic enterprise.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Robin Washington | President, COO and CFO, Salesforce
+That's another comforting point to us. You're right, we're definitely in a shift. I think trust and customer success is absolutely the most important thing, and as long as we do those things, we're gonna be okay and show that value and worth to our customers. We see it in the numbers. We see it in our pipeline. We're seeing it with our SDR agents, which are generating more leads. To your point, I think customers are coming back saying, "I don't want technology. I want solutions." That's what we've been doing for 26 years now with agentics. I think that's the value that we see, and that's the direction of growth that we see our customers-
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Totally
+## Robin Washington | President, COO and CFO, Salesforce
+... really leaning into.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Totally. You know, Robin sort of talks about the growth in ARR and, like, how we think about it, but I also sort of break it down into customers that I've personally interacted with. So, like, I was in APAC in November. I was talking to one of our customers that was just sort of starting their agentic journey in Japan. That same customer about two weeks ago was in New York, and I got to see them again. You know, it's sort of like, it's like your friend's kids, right? You see a picture, and all of a sudden, oh, wow, they're big now. I had that same sort of impact with their agentics, you know, where they had sort of started, and then you look at it like, wow.
+Now they were coming in to talk to us again about what are the next five use cases we're gonna do.
+## Robin Washington | President, COO and CFO, Salesforce
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+When you see that kind of like we did something, we worked together, we partnered, they got results, and now they wanna expand that program. You know, it's hard to, like, summarize those in a number in a spreadsheet, but you feel it when you see it happening. I think that this particular customer was a great example of I got two snapshotted pictures, you know, several months apart, and I could feel the acceleration.
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Yeah.
+## Robin Washington | President, COO and CFO, Salesforce
+We see it internally. We call ourselves customer zero. We started with everybody experimenting, 100+ agents. We've kind of got it down to four key categories, you know, employee, customer, sales, you know, back office procurement. We call them hero agents. We're starting to see the acceleration.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah.
+## Robin Washington | President, COO and CFO, Salesforce
+You know, they are talking to employees. It's given us permission to go faster because they now see the value add, we now know where to invest.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah
+## Robin Washington | President, COO and CFO, Salesforce
+... and where to decelerate, and we see that same journey, as Joe said, with our customers.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+I think this is also the part that sometimes I see undervalued in the industry or underestimated in the industry is the fact that, like, these tools are new to everybody sort of almost instantaneously.
+## Robin Washington | President, COO and CFO, Salesforce
+Mm-hmm.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+When they come out, obviously, we have relationships with the model folks. We get a little bit of a head start. People are now starting to really know how to use them to deliver real results. When I talk to other CIOs, their second agent's a whole lot easier than their first, and the third is lot easier than the second, and that's both because the products are maturing, but it's also because they know what life cycle, agentic life cycle works for them. They have the data. They know what they need to look at. They know how to make these things better. It's not like there's no appetite to take these things on.
+Really what's we're now into is the building of the confidence curve about the practitioners understanding that, like, yeah, I can sign up for a number that I'm trying to either grow or save. I know I can do that now because I've got this precedent of these last three things that I've done, and now I really feel like I have mastery of the technology despite the speed that it's going at. That learning curve of the practitioners really starting to understand how to actually use these things that are advantage for a business we see every day with ourselves and also when we talk to customers.
+Like I said, sometimes it's hard to see that read through into a spreadsheet in a very, very specific, precise way like you all want to see, but you feel it when it's happening, and we definitely feel it.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right. You guys take these innovations, you create solutions for your customers. You're starting to get real traction with these solutions. You're feeling it from the marketplace, you come out with Agentic Work Units.
+## Robin Washington | President, COO and CFO, Salesforce
+Mm-hmm
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+... convey to us sort of that inflection that you're seeing in the business and the traction that you're seeing with these agents? Why Agentic Work Units? Why come up with a new KPI? Why not tokens? Like, everybody else in the industry is talking about tokens? Why do we have to come up with a new KPI for Salesforce in particular?
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+I'll give you a really perfect example of it, is one of the things that we've done with Agentforce. You know, we announced sort of at Dreamforce, last year, tail end of last year, was Agent Script. This notion of like the real challenge that a lot of people have when they go down the agentic path is you want a rich understanding of what the human's trying to do, but often you want very prescriptive outcomes. You know, if you're filling somebody's prescription, you don't want the agent to guess, right? The models themselves are stochastic, right? They're probabilistic. Like, you want that to be very precise. It's really tough to do that within an LLM by itself.
+Part of Agent Script is this deterministic side of it that we have with our new planning agent, you know, agentic adaptive reasoning, we call it. When you look at it, you start to say, well, you know, if somebody goes to do something, and the token use goes down, that would be bad.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Mm-hmm.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+If they start to use things that actually use this agentic reasoning engine as opposed to the LLM itself, the token count goes down, but the actual efficacy goes way up.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+We really felt like tokens are a story. You know, like, you do need to look at tokens, but at the same time, you really need to figure out, like, how do you get work done?
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+The work unit felt like a very parcelable thing where you can say, like, we actually did something.
+## Robin Washington | President, COO and CFO, Salesforce
+Right
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+... helped further the cause of whatever this customer was trying to do.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+That's why we thought that, like, you know, Never fall in love with these things. They come and go. We felt like we needed something that wasn't just tokens because it wasn't really describing the phenomenon. You know, ultimately you want that mix of like efficiency, efficacy, and cost to all be concatenated into one statistic. Right now, I just think the market's so immature that we don't have ability to quite do that yet. AWUs, we think, is a big step in that direction.
+## Robin Washington | President, COO and CFO, Salesforce
+The benefits to that, to us are it helps our customers better understand the ROI.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Yes.
+## Robin Washington | President, COO and CFO, Salesforce
+It also helps us better manage one of your other questions, what's gonna happen with gross margins, right?
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Robin Washington | President, COO and CFO, Salesforce
+The efficiencies of that engineering feat internally for us helps our gross margins as well.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Robin Washington | President, COO and CFO, Salesforce
+Again, I can measure Joe's success, our success, and customer zero by looking at our work units.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Robin Washington | President, COO and CFO, Salesforce
+What are we actually getting done? It's a great metric for a number of different reasons.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right. Salesforce isn't just a wrapper around tokens. You guys are adding a lot of value-
+## Robin Washington | President, COO and CFO, Salesforce
+Exactly
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+that enables you to get leverage-
+## Robin Washington | President, COO and CFO, Salesforce
+Exactly
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+... against the tokens and
+## Robin Washington | President, COO and CFO, Salesforce
+That value is not only with the agentics-
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right
+## Robin Washington | President, COO and CFO, Salesforce
+it's also with the core.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Exactly.
+## Robin Washington | President, COO and CFO, Salesforce
+That, again, it's this hybrid model of users and agents working together with context of data. That's the value proposition that we want.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+And back to the-
+## Robin Washington | President, COO and CFO, Salesforce
+our customers.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah. Absolutely. You just touched on this. I think it's worth, like, just really trying to put a fine point on. Again, when we talk about like context and things like that, we're sort of talking about it in a past tense. you know, in the sense of like, this is the thing that the agent needs to make its decision. That's true.
+When it makes its decision, the thing that happened becomes context as well for the next call the agent makes, either to that same person, very personal context, or sort of thematically across the organization, or when we look at it from building the technology stack itself, it winds up being the more that you can do these, the more you get acceleration of people using it, the more exhaust you have from these transactions, which then make the transactions better, which makes people want to use it more, et cetera, et cetera.
+## Robin Washington | President, COO and CFO, Salesforce
+Exactly.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+You see that flywheel effect starting in a lot of things.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Mm-hmm.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+We saw it internally. We see it with a lot of our customers.
+## Robin Washington | President, COO and CFO, Salesforce
+Mm-hmm
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+at this point in time. That's where it's really gonna start to accelerate because each one of these things just reinforces the previous action and then predicts the future action better.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Got it. I want to wrap this all up with the capital allocation question.
+## Robin Washington | President, COO and CFO, Salesforce
+Sure.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+You guys have talked about the trinity of capital allocation. You started paying a dividend. You raised that 6% this year. You're gonna have strategic-focused M&A that.
+## Robin Washington | President, COO and CFO, Salesforce
+Mm-hmm
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+... is more shareholder friendly, as well as share repurchases. You guys, returned more than $14 billion to shareholders in FY26.
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah. 99% of our free cash flow last year. Yeah.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+You guys put out a very big number in terms of-
+## Robin Washington | President, COO and CFO, Salesforce
+Mm-hmm
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+... share authorization, $50 billion. At the time it was 27% of market cap. Does that signal a little bit more of a weighting on the share repurchases given where the share price is, given your excitement in the business versus maybe the other two parts of the trinity?
+## Robin Washington | President, COO and CFO, Salesforce
+Yeah. I would say the way we step... I mean, look, I said it on the call. If you look at what we see as the value of our products, our innovation in our company, there's a big dislocation. We see no better investment right now than Salesforce. That being said, we're gonna do it in a balanced, disciplined fashion that doesn't preclude us from thinking about smart M&A. Last year we acquired 10 companies, including Informatica. To your point, we're doing it in a disciplined fashion. You should consider dividends our floor. We're generating a ton of free cash flow and expect to continue to do so. Yes, they're all important. We see dislocation with us. We're gonna double down and be a little bit more aggressive than we have in the past.
+All, to your point, in a trinity fashion that makes the most sense to drive long-term shareholder value. At the end of the day, it's growth and that top line, the re-acceleration of double-digit growth.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Right.
+## Robin Washington | President, COO and CFO, Salesforce
+We know that's how we're valued. We're not gonna do anything around share repurchases that precludes us from doing that. We see a really opportunistic opportunity to take out a portion of our market cap. That's what we're gonna focus on.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+Amazing. Super exciting time at Salesforce. Joe, Robin, thank you so much.
+## Robin Washington | President, COO and CFO, Salesforce
+Thank you.
+## Keith Weiss | Managing Director and Head of U.S. Software Research, Morgan Stanley
+joining us.
+## Joe Inzerillo | President of Enterprise and AI Technology, Salesforce
+Yeah, no, what's about it?
+Data Source: Quartr Last updated: Mar 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,457 @@
+TITLE: Bernstein 42nd Annual Strategic Decisions Conference
+DATE: 2026-05-27
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+All right. Okay, I think we're going to get going. Wow, it's a full room. This is great. Good afternoon. Thank you all for coming. I'm Stacy Rasgon. I'm Bernstein's Senior Research Analyst for U.S. Semiconductors and Semiconductor for Capital Equipment. It is my honor to welcome our guest here today, Cristiano Amon, the President and CEO of Qualcomm. Cristiano's been here for many years. I always say here, Qualcomm as a company and a stock has been through a lot over the last five or 10 years. I think now sitting where we are today, it really looks to be coming to its own, especially recently. Like handsets is, as we know, the biggest part of the business today. We'll talk a little bit about that.
+The fruits of the company's diversification strategy really do look like they may now be ripening with auto and IoT, and now potentially as AI goes mainstream. Data center excitement. Even the handset piece, we'll see what it does in the near term, but it may have its own moment if and when AI broadly moves to the edge. We'll talk about that, and probably many other things today. It gives me great pleasure to welcome Cristiano. Thank you so much for joining us today.
+## Cristiano Amon | President and CEO, Qualcomm
+Thank you. Thank you so much.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+You don't have like a safe harbor statement or anything you need me to?
+## Cristiano Amon | President and CEO, Qualcomm
+No, we don't.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+No, we don't. Thank you very much.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Again, I've been looking forward to this. Thank you so much for coming. We will get to the data center and diversification stuff. I think I want to spend most of my time there, but I think I do need to talk a little bit about the other businesses today.
+## Cristiano Amon | President and CEO, Qualcomm
+Yeah.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+My own view, handsets are probably not in such a great place given memory prices, although I think you guys have tried to incorporate that into the forward outlook. In the meantime though, IoT is recovering pretty well, and automotive seems to be cruising along. I guess maybe just to give you an opportunity just to discuss the recent results and near term. I don't want to spend a ton of time on it.
+## Cristiano Amon | President and CEO, Qualcomm
+That's good.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Just where are we sitting as we are standing here today, both for the existing business as well as maybe where the future may be taking us, just given where we're sitting today? What are you seeing?
+## Cristiano Amon | President and CEO, Qualcomm
+Yes. Look, I think what we said on handsets. Handsets, it's kind of a stable business for Qualcomm. We have been very, very focused. I remember when I outlined our strategy for handsets, that was back in 2021 that we have an Investor Day, we said we're just going to be focused on share of wallet. It's a market that it's stable. It grows single digit. I think we haven't still recovered in terms of total units. It used to be before the pandemic.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yes.
+## Cristiano Amon | President and CEO, Qualcomm
+If you look at our performance, it's been great. We've been growing content. I think the we've been growing, the mix has improved. I think we've been growing share, and I think that's how we think about the business. We significantly improved the operating margin. Nobody was interested. Not even ourselves, in this whole price war that happened.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah, we've seen those in the past, but we didn't really see it this time around.
+## Cristiano Amon | President and CEO, Qualcomm
+That's, we had a completely different strategy in 2021, focus on the premium and high tier, and focus on silicon content. Now, what the handset is right now, it is artificially constrained by the memory situation. It's artificial. I think we have seen data points showing about the market was down like 15% year-over-year. It is not a statement of demand. A Qualcomm- specific, I think, commentary that we provided in the last earnings call, which is we can now see the bottom in Q3. The reason we can see the bottom is because we're significantly under-shipping to consumer demand.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+That's not necessarily a bottom in the market. It's a bottom in your?
+## Cristiano Amon | President and CEO, Qualcomm
+In Qualcomm.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+We are significantly under-shipping to consumer demand. As you know, we have a sophisticated licensing business. We have a lot of visibility on the channel. We have visibility in activations and what happens. We can see even with the new prices, the prices became higher for devices. We're under-shipping to market demand. They give us confidence we're going to see sequential improvement after Q3. The magnitude of the market, I think, on handsets is going to go back to a larger once the memory situation gets resolved, and you go through the shift that we're starting to see right now that is happening on the market because of AI. Happy to elaborate on that.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+We'll get there.
+## Cristiano Amon | President and CEO, Qualcomm
+That's kind of the two things going to drive the handset business. We're very happy with our position. I think historically, we had on the Samsung about 50% share. Our baseline now is north of 70% share. I think Snapdragon has become. Even more relevant when you have a smaller market. I think what we have seen from our customer base is for the high tier, the premium tier. If I have to design for a smaller market, I want to make sure I design Snapdragon. We've seen that dynamic play out. IoT, happy with the trajectory. I think a very diversified business for us. There's a lot of categories. Happy to elaborate what's inside. Automotive is this machine that we built. We talk about a $45 billion pipeline we've been executing to that, and I think it's even exceeding our own expectations how well it's performing.
+I think we just talk about now ending the year with a $6 billion run rate. Very comfortable in when you look of our trajectory of $8 billion.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+I can't remember what the target was. Was it $8 billion by 2029 or something like that?
+## Cristiano Amon | President and CEO, Qualcomm
+$8 billion by 2029. We're very comfortable with that number.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah. Got it. Maybe that's just a good segue into this broader diversification story. I mean it was? I can't remember what the number is.
+## Cristiano Amon | President and CEO, Qualcomm
+Today, handset's probably still 70%, 75% of the chipset business. It's smaller now. Memory has helped-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Well.
+## Cristiano Amon | President and CEO, Qualcomm
+... accelerate diversification.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Maybe talk a little bit about that diversification-
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+... journey. I guess, it's not like the handset position that you had has not helped feed into that, especially in areas like IoT and auto, where I do think there was a lot of cross talk between the businesses. Maybe just talk a little bit about the diversification strategy, what set it off and where are you now?
+## Cristiano Amon | President and CEO, Qualcomm
+Yeah.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Maybe talk about some of the individual businesses within there?
+## Cristiano Amon | President and CEO, Qualcomm
+I think before I answer that question, Stacy, I'm going to go maybe give you two comments, higher level comments. I think one is we are incredibly blessed that we have the handset business. The handset business has proven to be an incredible business. First, from an engineering standpoint, the handset is incredibly unforgiving. You have to pack, especially if you're focused on premium tier. You have to pack the computing performance you find today in PCs, and a lot of AI, into a small device that has to manage thermals, cannot get liquid-cooled, cannot get hot. The battery has to last all day. It forces you to create a very comprehensive IP that has proven to be incredibly valuable as we diversify the company.
+I think you have seen that. You have seen, even when you look at Apple, for example, how handset had influenced their computing strategy from the Neo to the M series, et cetera. I think that is an incredible asset that we have in a company from a technology standpoint. The other thing is the handset becomes so concentrated as an industry that I decided when I became CEO, I'm going to do the opposite. I'm going to diversify Qualcomm to the max.
+That's what we're doing right now. We're doing a lot of things in parallel because we're never going to see ourselves in a position again that is highly concentrated like that. I think the strategy is working very well. I think the way we have done that. We have done with a mission, with discipline. I think people can say a lot of things about Qualcomm, but our technology and engineering execution, I don't think there's anything that people can say about our ability to execute. First, we build a platform for the automotive. We saw there was an industry that we could be very disruptive.
+We look at the convergence between PC and mobile. This is more scale for IP, become accretive to the business. We've been executing that. We saw that there was an opportunity to drive a change in industrial. Industrial was about microcontroller and connectivity. We changed it into high-performance compute and AI at the edge. We have built what we think is going to be a very important asset for the future of mobile platforms with AI. We'll talk about that later. That's what we call in the personal AI category.
+We have been executing on our broadband business, continue to add assets, robotics. The next step will be the data center. I think by design, we said we're going to create a very diversified company. We're probably going to be very unique in having IP that goes from sub -2 mW on an earbud to 2,000 W on a data center. I think the strategy is going well. We talk about $22 billion on non-handset and by fiscal 2029. Not including data center. We stand behind that number, and we're very happy to see how some of those businesses are performing right now.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+To give you a plug, you have an Analyst Day on June 24th.
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+I don't know, presumably we'll get some updates to some of these numbers and targets, I would think.
+## Cristiano Amon | President and CEO, Qualcomm
+I think you'll get a lot of details, especially a lot of details on what we're doing in data center. I think people will be very positively surprised. Please reserve a seat.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. Let's talk about data center. You've talked about data center before, different aspects of it. There's a few pieces at least that I'm aware of, so you can correct me. We have the data center CPU, and you've announced something already with HUMAIN, although I don't know that we've seen much in terms of actual revenue yet, but that's out there. You've sold AI accelerators for a while, several years. This AI 100, which was an initial product, but now we're talking racks, so AI200 and AI250. I recall a 200-MW deal with HUMAIN that has been announced, although again, I think we're still waiting for it to show up.
+You announced a hyperscale ASIC customer on the earnings call, which had been speculated, and you confirmed that. There's been some chatter in the press on the identity of, I don't know if you want to comment there, or not. I guess first of all, maybe to take those one at a time. Maybe just to start with the CPU piece. Clearly, CPUs have been catching a lot of attention recently on the back of agentic AI. We have the HUMAIN deal. I don't know if there's any other deals that are out there. Maybe you can talk to this if you would like to? I'm curious, and this almost goes across all the different categories. What is Qualcomm's value proposition, maybe to start with CPUs?
+What is it about it that would make a customer want to buy a Qualcomm CPU for these tasks or for whatever task it is for, versus something else is available? To be fair, there are lots of other vendors that are already there, and already established and scaled in that space. What is it about Qualcomm that enables you to win in this market?
+## Cristiano Amon | President and CEO, Qualcomm
+Okay. A lot to unpack there. Let me do this.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+I have similar questions about the other pieces, by the way. Sorry.
+## Cristiano Amon | President and CEO, Qualcomm
+No, it's okay. I'm going to give you as much as I can without front-running our Investor Day.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Feel free to front-run, by the way, if you want.
+## Cristiano Amon | President and CEO, Qualcomm
+There's a lot to unpack. First, I'm going to recap what we had said publicly just to make sure, because there's a lot of different information. We said publicly that we saw that as a data center now the next step in natural expansion is a massive TAM for Qualcomm, and especially that our IP very relevant for that, especially the direction of traffic the data center was going. We said our data center strategy is going to be based on a number of factors. CPUs, we'll talk about that in a second. XPU, which is inference accelerator. We're not focused on training, we're focused on inference accelerator. When we had a unique architecture, including how we think about memory, we don't need HBM, so we have an XPU. We have an incredibly large semiconductor machine.
+Most people don't know that we ship about 40 billion components a year, that we're going to be able to do custom ASIC. The other thing we said is a lot of those markets are becoming bespoke markets, so we're very flexible. We're the new enterer. Those are the assets. What have we announced? The very first contract was a contract with HUMAIN. It's actually not on the CPU. It's actually on the XPU, is on accelerators.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+And we ba-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+I thought the CPU came first, but maybe I'm wrong. Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+You would know better than me.
+## Cristiano Amon | President and CEO, Qualcomm
+I will talk about that in a second. We're very happy. That has been a process. I think we started with the AI 100, but the real [SKU] is the AI200, 250. I think we're on track on the execution. We're very happy with that.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+There's the very first one.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+You haven't given a shipment date for that yet, have you?
+## Cristiano Amon | President and CEO, Qualcomm
+No. When that happens, we did say that we pull in, when they announce HUMAIN, data center will start having revenue in fiscal 2028. We're pulling to 2027. The second thing that we said, we said we are very happy with the progress of our CPU with a U.S. hyperscaler. We're very happy with that. I think that it's how we get started. Given the traction that we have now with custom ASIC, we pull in now revenue that was supposed to be in fiscal 2027. We said, we're going to even see shipments within this calendar year. That's what we said publicly.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+For the ASIC?
+## Cristiano Amon | President and CEO, Qualcomm
+For the ASIC.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+That's what we said publicly. Now I'm going to answer your question one. The first one wasn't a CPU. I think if you want to support, I think the valuation that you probably see right now of companies like Intel, I think people realize that CPUs are very important. Especially when you get mix of experts, you have orchestrator and CPU. I think it's going to be a big asset when you think about the TAM. We have a pretty good CPU. I will even say, probably when you think about the ARM-compatible instruction set, we probably have one of the best CPUs in the industry right now.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Is that performance? Is it power? Is it TCO?
+## Cristiano Amon | President and CEO, Qualcomm
+All of it.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+All of the above.
+## Cristiano Amon | President and CEO, Qualcomm
+All of it.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+A little bit of a track record, right? We're the first one to put a 5 GHz CPU clocked on a smartphone. We did that. I think you saw what we did in PCs with our CPU. We also have our CPU with safety grade in automotive and the Snapdragon Ride Elite, Cockpit Elite. I think it's been second to none. All of those markets, our CPU has been the test in benchmarks, and we had designed a CPU specifically for the data center. Very flexible architecture. It scales in the number of cores to a very big data center, all the way to on-prem. This conversation's going to be relevant for future 6G networks. It also can be a chiplet that can be part of a custom design.
+I think the reason you should look at Qualcomm for the CPU is CPU performance, power consumption, and TCO will matter a lot. I think we have an asset that's been proven i n at least three other markets.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it. What about the racks, the 200 and the 250? You mentioned some unique memory architecture. I mean, is that the value proposition of that rack?
+## Cristiano Amon | President and CEO, Qualcomm
+The value proposition of our NPU. Well, I think the industry's been talking about XPUs, and they have a lot of those. They have different customizations. I think you have to look of where it's happening with the data center right now. The data center is going to a process of disaggregated compute. Let me take a minute to explain this because this is actually, I go back to what I said. This is actually very familiar to Qualcomm. The smartphone is the most disaggregated compute ever because there's... I like to tell this story because it's a very simple example. When iTunes started, everybody buying their iPods. People will go have an iTunes running on your PC, the whole MP3 decode happened on the CPU, an Intel CPU. Intel architecture's always been CPU does everything. You can never do that on the phone.
+You have to have a separate hardware just to accelerate MP3. The data center is going into that disaggregation. You're starting to see what it used to be one GPU from NVIDIA for training and inference. Now, you start to have a different solution for inference, n ow inference for the disaggregate and prefill and decode. We're building the XPU that is going to be very good and efficient in terms of compute density and power for inference, some of those disaggregated workloads. We also have something that is very unique. We don't need HBM. We have a different memory architecture. I think we're going to talk about it at some.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Can you get the memory?
+## Cristiano Amon | President and CEO, Qualcomm
+Huh?
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Can you get the memory?
+## Cristiano Amon | President and CEO, Qualcomm
+We're very confident about the ability to get memory for our engagements right now. The other thing I'm going to tell you is we're flexible. We're building the chip. We're building the cards. We're building the servers. We're building the racks, because different type of customers want different type of deployments. There is a value, I think, of the system level. We can tap into the ecosystem that already exists for that. Those are all options of our solution on the accelerator. Happy to talk about the custom ASIC.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah. Okay. The custom ASIC. Part of this is you recently bought Alphawave, and that brings a number of components, that I think are sort of table stakes for that. You got SerDes and other things. Alphawave used to talk about their own ASIC engagements. This particular ASIC, I just want to level with you, this is not something that was acquired with Alphawave. This was something-
+## Cristiano Amon | President and CEO, Qualcomm
+If it was the case, I will not get away paying only-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+... $2.5 billion for it.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. I get the question.
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+So I just wanted to-
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+... to put it out there. Is there anything you can tell us about this ASIC, or do we have to wait a few weeks after?
+## Cristiano Amon | President and CEO, Qualcomm
+There is a science. I think there's science behind the madness. In Qualcomm, especially when you look at M&A. I'm going to give you a couple of examples, right? I think we bought Arriver. We actually had to do a gymnastic. We bought a Tier 1 Veoneer, got Arriver-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Right.
+## Cristiano Amon | President and CEO, Qualcomm
+... spin out. We bought Arriver because it was an important asset to complement everything else we're doing for automotive and help us complete the platform. I think we bought NUVIA. Help us accelerate our efforts to design our CPU, combined with everything else we had, we enter in some of those markets. We bought Alphawave because it provided a lot of IP that we needed, a lot of the connectivity IP. A lot of the expertise in customization combined to the what we had in engagement, and then allow us to go. That's why we think we're very focused and consistently said, "Now we're serious about data center. We're missing some assets. We're going to go buy Alphawave. We're going to complement the platform." I think what that happens, there are two things that happen with the acquisition of Alphawave. One, it complements our portfolio.
+Second, it build a lot of confidence, I think. What do we bring to the table custom ASIC? We're not a small semiconductor company. There's a lot of companies that decided to enter the semiconductor business. They probably have not a lot of experience doing a chip. We do have a lot of experience doing a chip. If you look at the number of chips that we do in leading node, we also have such a sophisticated, and I'm going to say this, I don't want to brag. I'm just going to give you the fact. We have such a sophisticated machine to build SoCs. For example.
+What we do in mobile, like clockwork, on Snapdragon 8 every year. We tape out a chip on a new node. When TSMC finishes the mask, we go to production. We don't even have to get the chip back, how sophisticated our tools is. All of those things became incredibly attractive. I think for companies that are trying to do bespoke solution. It's our IP, a lot of the IP that comes off Alphawave, our ability to do this, and our willingness to be very flexible. This has been incredibly helpful and it kind of accelerate our data center ambitions.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it. You've talked about, I'm assuming we'll hear more about the revenue outlook and everything. The growth outlook in June. You've talked about, I can't remember the wording, substantial or meaningful revenue-
+## Cristiano Amon | President and CEO, Qualcomm
+Material.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+... material revenue in 2027.
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+What does material mean?
+## Cristiano Amon | President and CEO, Qualcomm
+Well, just look at a Qualcomm revenue scale today. Material has to be in the multiple billions of dollars. That's really what it means.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. Okay. What about the margin structure of these? We're seeing a lot of other ASIC [claim]... Hock over there at Broadcom gets pretty high margins in ASICs. A lot of other players don't quite get that kind of margin. How should I think about the margin now? To be fair, I guess your margins right now are more mobile related anyway, so they're probably not as high as that. Can we think about this as being margin, growth margin-
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+... operating margin accretive?
+## Cristiano Amon | President and CEO, Qualcomm
+Operating margin accretive for-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Operating margin. Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+It is all of those things that we're doing are going to be operating margin accretive for the company.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. What about gross margin?
+## Cristiano Amon | President and CEO, Qualcomm
+Well. See. I think we did provide a framework, I believe, for the gross margin of the company. The reason I'm going to hesitate about gross margin right now is because a lot of those engagements, some are chip, some are card, some are server, some are rack, so they kind of fluctuate.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+I think, it's going to be probably very healthy, and it's going to be about making operating margin accretive at the company level.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. The material revenue, that's across all of these things. It's not like it's CPUs and XPUs and ASICs collectively material?
+## Cristiano Amon | President and CEO, Qualcomm
+That's correct.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+They all start ramping. But it is such that we, like I said, we're going to eat a pull-in. We're going to start shipping in the calendar year 2026, 2027, it becomes-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+... the material for us.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Are you going to split it out as a segment at least so we can look at it, or?
+## Cristiano Amon | President and CEO, Qualcomm
+Huh?
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Are you going to split it out as a segment at least so we can look at it, or?
+## Cristiano Amon | President and CEO, Qualcomm
+Haven't thought about that right now.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. Okay. That sounds good. Let's talk about some of the other areas. You mentioned Arriver in the context of automotive. Let's talk about automotive. You've had these targets out there for a while. Again, it was $8 billion by 2029.
+## Cristiano Amon | President and CEO, Qualcomm
+$8 billion by 2029.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+It was $9 billion by 2031 or whatever it was. You've been sort of dead on the trajectory, if not even ahead of it since then. What are you doing on automotive now that's actually driving that? I guess Arriver brought some of the self-driving software in. What role does that play? How do I think about the split of maybe the revenue as well as the order backlog by things like infotainment versus maybe the more attractive autonomous aspects of this?
+## Cristiano Amon | President and CEO, Qualcomm
+Okay. Let's break this down in two parts. Let me talk about what the revenue that you see right now and go into the trajectory. I'm going to tell you some of the trends that are driving, I think, an acceleration and increase of content in automotive. Let's kind of break those two factors. We did talk about publicly about a $45 billion pipeline. I think the pipeline has increased since that time. I won't disclose the new number now. It's possible we're going to disclose at an Investor Day. That has been converting into revenue. I think you see share gains, new models, with Qualcomm s ilicon.
+That revenue today and that $45 billion pipeline, you should think about 1/3 is about all that's happening on connectivity on the car. Another one is the digital cockpit, all the computer that power all the different screens. About 1/3 of that is ADAS. ADAS is processor, mainly processor, for autonomy in ADAS. Then, it has some components of the stack. This is kind of what is driving that growth. You see those growth rates significantly higher than. The way the market grows. I think we've got to 50% year-over-year.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah.
+## Cristiano Amon | President and CEO, Qualcomm
+It's because we're gaining share. I think those new models launch with Qualcomm technology. The exciting part is the second part. A couple of things happening in the car right now. First of all, the Chinese is accelerating, I think, premium content in the car. Actually, what they have been done right now is breaking records from silicon to SOP, and that is driving a lot of more premium computing content.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Are you talking about the speed at which they can get this stuff adopted or?
+## Cristiano Amon | President and CEO, Qualcomm
+Get new chips adopted and put it into cars, especially because the car right now computing is being pre-provisioned in the car because over the lifetime of a car, we're starting to see a lot of agentic AI experience come into the car. We can talk about that across the board. It's China, you see that happening right now. The other thing that is driving a lot of the content is an acceleration, I think, of Level 2 ++ , especially in premium car. More processing, I think, for ADAS and autonomy. The number 3 driver is what's happening with the stack. We developed an asset, which I think is a very good asset. It's basically a Level 2 + safety stack. That we've done with BMW, and it's being launched in the BMW iX3. We're getting a lot of interest from other OEMs.
+Some already engagements of that, and I think that in combination with gen AI end-to-end stack. You always have to have a safety stack to go along the end-to-end. That is driving an increase, I think, of content for Qualcomm in cars, alongside where we're seeing a lot more processing capabilities that is happening on the digital cockpit because of AGI as well as the ADAS transition to FSD, w hich is going to be like what a premium car would expect it to have.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it. Maybe talk about IoT. There's a couple of different pieces of this, I'm going to go back to your prior Analyst Day. You had sort of the core business, which at the time was sort of at the bottom of the trough, I think. You were sort of calling for growth of that business, kind of reaching the prior peak in five years. It was, I think, getting to $8 billion or something. They needed another $6 billion in the target. It was $4 billion from PCs, and $2 billion from XR, VR. Again, my least outside-in view looks like the core IoT piece is in recovery, and that's great. I feel like the XR, VR is maybe overachieving. It's I guess on the glasses.
+To be fair, it's actually been on my big stack of things to do is to look at that market, because it does seem like it's there. The PC piece feels like maybe it's lagging a little bit versus the trajectory. I know we haven't seen, and now, PCs just as a market are probably facing some of the same issues that smartphones are facing on that. Maybe if you could talk about the different pieces of IoT?
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+What your perspective is on sort of where those markets are, where they're going, and their growth?
+## Cristiano Amon | President and CEO, Qualcomm
+Very good. Look, I'm just going to say, look, we're very happy that trajectory is g oing as planned. I think that segment is also moving towards all the targets we set up for fiscal 2029. Just to give an idea, I think we guided the IoT segment for next quarter. It's, I think, somewhere in the $1.8 billion and change.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah.
+## Cristiano Amon | President and CEO, Qualcomm
+I think it's kind of starting to approach like a $2 billion a quarter business. You can look at the projection, then look at the growth rate to see how we're marching towards what we said we're going to do in fiscal 2029. Now, let me unpack what's in IoT.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+It's a lot there.
+## Cristiano Amon | President and CEO, Qualcomm
+It's a good question when you ask me about segment reporting. Because eventually, I think as those businesses mature, we're probably going to be thinking about how to break that down. There's a lot of things in IoT.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah.
+## Cristiano Amon | President and CEO, Qualcomm
+I think in hindsight, it wasn't a great term to represent what is in there. Anyway, we'll get there. The first thing that you see there is the compute business, tablets and PCs. I will come and talk about that. The second thing that you have there, you used to have VR, XR, and wearables, which is now all wrapped around what's happening with personal AI devices. That's in there. You have our broadband business, that's in there. You have our industrial business as well.
+It's kind of, we often talk about if you look at some end markets, consumer, industrial, and networking, it's kind of put PCs in the consumer side with wearables. Networking is broadband and industrial. It was about 1/3 each one of those segments.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah.
+## Cristiano Amon | President and CEO, Qualcomm
+Let me tell you what's happening right now. PC, we're actually very happy with the trajectory. I think we've been tracking, if you look at our projections for $4 billion, which it's in around in the order of magnitude about 10% share. The markets that we launch, we're tracking to that. The problem with PC, you have to have the patience because the first-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+To be fair, you've sold into that market for over 10 years, right? I mean, it's been a long time.
+## Cristiano Amon | President and CEO, Qualcomm
+Well, it was not until Windows 11-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah.
+## Cristiano Amon | President and CEO, Qualcomm
+... that finally the emulator could run Win 64-bit. You had a second-class Windows for ARM. By the way, we have to do all of the heavy lifting ourselves. I think the effort to get ARM to run natively, we did it with Microsoft. No other company did it. What happened, and of course, Apple did it for their ecosystem. What's happening now, finally, on the consumer side, there is no difference between an x86 and an ARM. It is now very mature in the consumer. We see that in the markets that we launch consumer. We're tracking in the consumer markets. United States, top five Europeans, we're tracking 10%. We look at the position, the design traction, and the channel, very strong. We're happy. That is now, it's just going to get its own scale.
+We took the past year getting games and AAA games and all those things to be more mature on the laptop side. Now we're tackling commercial.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. To be fair, by the 10%, it's 10% where you play. It's not 10% of the market?
+## Cristiano Amon | President and CEO, Qualcomm
+Where I play. No.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+If I get 10% of the market, I already be-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Right.
+## Cristiano Amon | President and CEO, Qualcomm
+... at the $4 billion target.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+I just want to.
+## Cristiano Amon | President and CEO, Qualcomm
+Yeah. You have to have this discipline. Now we're in the commercial, which is very important, and which is the majority, I think, of the profit pool is. We've been working. We have about 500 enterprises. We're going to get their CIOs comfortable. I think Microsoft has been a great partner of this. It's going to get there. You cannot burn any step. When I look at the Mac Neo , which is excellent because it kind of validates these conversions between mobile and PC, and I think about the performance of some of the products we're building and what's happening in AI, I'll talk about it in a second. I think that's very good. We just have to have patience. The problem is both tablets and PCs have the same memory dynamics. There's no memory. The market is artificially constrained until that's resolved.
+The other one in the IoT segment is what is now what we call the personal AI devices. I am incredibly optimistic about this. If anything, I kind of agree with you that when we talk about the XR $2 billion by fiscal 2029, I think we're beyond comfortable there. I think because of what's happening with those new mobile category of devices. Every AI company, and every cloud company from the United States and China and other places are looking at those new kind of devices. You hear here and there in the press, we're working with all of them. We have over 40 designs of what is called this personal AI category.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Give us an example. What kind of devices are we talking?
+## Cristiano Amon | President and CEO, Qualcomm
+Okay, the one that is the most popular and is going to get the most scale is smart glasses. Smart glasses come in two forms: processing connectivity cameras, then you may or may not have a display. Why glasses? Why glasses? You have to really understand what's happening there because it has nothing to do with the definition of a wearable or smart glasses before. As AI now has a role in large language models, large visual model in the man-machine interface becomes very natural for glasses because it's close to your senses. Close to your eyes, your ears, your mouth. You turn your head, you're watching it. Then, you can access a model. What we're starting to see right now, it's a little bit of the dynamic of the smartphone. Not the same, but similar.
+Every week, somebody adds a new workload, a QR code, a payment system gets integrated. Like for example, some of the digital payment systems have been integrated, all of those glasses. Glasses is the big one. I think it's already in the multiple tens of millions of units. It could become 100 million units. Eventually, if this is successful, it could become as big as phones. The second one, I will put it in the category.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Do you think we're still buying phones in that scenario though or no?
+## Cristiano Amon | President and CEO, Qualcomm
+100%, you're buying phones.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+Yeah. If you give me time to talk about what's happening with the AI transition of phones-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+We're going to get there next.
+## Cristiano Amon | President and CEO, Qualcomm
+... you'll see the role of both.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+The second form factor that is getting traction is a combination of pens, pendants, jewelry. I actually, be careful what I say, but there's some other form factor, very interested. Go watch Microsoft Build. Go watch Microsoft Build. You're going to see some interesting things there, too. I think there's gonna be... The form factors are changing because as related to the easiest way for a human to get access to. To a model for a completely agentic use cases that has no legacy. That is now we call personal AI category, and I said we have about 40 designs of [NPU], all connected to models. The other thing in there is our broadband business, stable. We're happy with it.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+This is like networking gateways and that kind of stuff?
+## Cristiano Amon | President and CEO, Qualcomm
+It's access points, retail, carrier, and for enterprise, a s well as broadband. We also now have wire connectivity. We've been executing our XGS-PON. Also, edge processing happening for AI at the broadband business. That's going to grow for us with 6G. We're going to take a role into that area as well. The last one is industrial. Very diversified, very sticky. On industrial, I will tell you right now, we're not bound by demand. We're bound by speed of building solutions across verticals. We have focused on retail, oil and gas, energy, manufacturing, warehousing.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+It really does require vertical solutions, I guess, in industrial.
+## Cristiano Amon | President and CEO, Qualcomm
+You have to have the silicon, some of the AI capabilities, it's common. Think about, for example, Computer Vision is common. I think whether it's the edge appliance, the smart cameras, but then a lot of the players and the software that goes on top is building an ecosystem across each vertical.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it.
+## Cristiano Amon | President and CEO, Qualcomm
+That's what is in IoT.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it. Let's talk more broadly about AI at the edge. Talk to me about AI in smartphones.
+## Cristiano Amon | President and CEO, Qualcomm
+Okay.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Why do I want an AI smartphone?
+## Cristiano Amon | President and CEO, Qualcomm
+Oh, you want it for sure. It's really important. I need a few minutes to explain this-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Right.
+## Cristiano Amon | President and CEO, Qualcomm
+... because we have clarity now. I didn't have clarity. We knew that this stuff was going to happen. We have different pieces. Now we can see everything together. The picture, at least for us, is super clear, and we're starting to see what the change is going to be in mobile. One thing I'm going to tell you. From the early days of cellular, from analog to 2G to 3G, 4G, 5G, one thing I can tell about cellular, it changes every time. It changes, the players change, companies go from hero to zero. We're fortunate enough that we survived all of those transitions. We always on the look to understand what is happening? How is that transitioning? Now we have clarity, and I want to explain that to you.
+Think about what happened with AI. First thing that happened with AI is you have chat box. People go in. They ask something to a chat box and a search and get a response. All of a sudden we get reasoning and start to generate tokens. Something incredible happened. The OpenClaw happened. Those orchestrators happened. That's what's driving a lot of the CPU. You have the ability to get a bunch of agents. You have mix of experts. You have different models for different things, and you have this orchestrator that does things for you. It started to operate your computer for you.
+It's so profound that if you're a SaaS company today, you have to design your SaaS software for a client. Not only to interface a human, but to interface an agent, because the agent's going to go to the client. You start to see what people are doing in OpenClaw, you send a WhatsApp to your computer, and it start doing things for you. That's how computers are going to get utilized, and those things consume a lot of tokens.
+You're going to start to see now, finally, somebody said, "Oh, this hybrid AI that Qualcomm's been talking about is starting to make sense with different models, mix of experts, and smart routing and all of that." What's happening on phones? What happen on phones, you have to understand there are two fundamental changes happening with the phone market. One, I'm going to give you an example what happened when OpenClaw and all those different OpenClaw started. People started buying Mac minis. Apple was sold out of Mac minis. They put the Mac mini, they put the thing and run. Okay.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+They could run it on anything, you didn't need a Mac Mini.
+## Cristiano Amon | President and CEO, Qualcomm
+No, that's not the interesting observation. The observation is in the phone, you only carry one device. You cannot buy a backpack, put a Mac mini in a car battery and walk around. You're going to have to have it in your phone. Your phone is starting to get the double personality right now. You, as the human, will pick up your phone and you do phone things. You're going to go to your apps, and you're going to do the things you do every day with your phone. Actually, the reason glasses are getting traction, because it's not very natural for you to talk to the phone or pointing the phones to things that needs context. You're going to do your phone thing. The phone now can also run those orchestrators.
+The phone is going to start doing things for you on your behalf. It's going to be doing things for the other devices that you interact on your behalf, because the agent take the center. It's not the phone the center, a ll the wearables are connecting to the phone, n ow it's the agent in the center.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Is the agent on the phone or is the agent in the cloud somewhere or?
+## Cristiano Amon | President and CEO, Qualcomm
+The orchestrator runs on the phone.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+See, I'm going to say this to be provocative. I have seen so much discussion about cloud and edge, cloud and edge. It's a useless discussion. It's almost like for me to ask you to go to your 300 apps that you have on your phone. Let's say one by one, what runs on the cloud, what runs on the end?
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Right.
+## Cristiano Amon | President and CEO, Qualcomm
+Put it in airplane mode, they're going to say useless. It's a brick. It's probably an iPod touch, right? With all the Qualcomm IP. You're going to think about it. This is going to be cloud and edge working together.
+You see all of those orchestrator that run on a device. They do some things on the cloud, MCP protocol, things that go to your app, and they start doing things for you. What we're starting to see right now is the orchestrator comes to the phone, and it start doing things for you on your phone or for other devices. You may do something on another device, and your phone's going to do something for you. That drives the second change. You're going to see right now between now and summer, every one of my phone OEMs right now in China, they have their Claw equivalent coming to the phone. You're going to see every OS vendor talking about a Claw as part of the OS. The interesting thing is the nature of the business is changing.
+I used to think about the OEMs as the customers. Now I think of the OEMs and the cloud companies as the customers. Just look, for example, what's happened in China. Some cloud and AI company actually took over the UI of the entire phone OEM, and that's going to be the new change in phones. I think that is driving a completely different discussion. In one hand, you have the existing OEM thinking about memory cost is too high. I don't know if I can afford all of this compute. This is smaller market. Have an AI company said, "I need more compute. I need more compute. I need to have the ability to do a lot of those things into that device." That's going to propagate to the PC.
+It's going to propagate, because it's 6 billion people use these phones. Yes, your Mac mini separate, you're going to see every OS vendor's going to talking about a Claw. Yo u're going to feel which one is secure, not secure, and those are going to be token machines. That's going to require a lot of computation, and leads me to the last. That's going to happen to your access points, going to happen to your car. The last part of this conversation is this concept of hybrid AI. I am going to speak at COMPUTEX, and we're going to show a couple interesting demos at COMPUTEX.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Are you leaving there, like you're going there shortly, I guess then, right?
+## Cristiano Amon | President and CEO, Qualcomm
+Yes. What you're going to see in some of those demos is how much it's going to cost you when you start having those token machines running everything in the cloud? And, how much it's going to cost when those cloud companies push some of those models to the device, and they break the tasks up? I think we're starting to see a lot of conversations about how companies are thinking about how much you can afford? What is open source, what is not? All of this is goodness that is going to drive an upgrade. My last comment on this, none of the existing devices today.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+This is the killer app, though, that we've all been waiting for?
+## Cristiano Amon | President and CEO, Qualcomm
+Oh, it's going to be those orchestrator and agents, it's going to be generating tokens. We're going to finally start talking about what the real conversation. In the early days of smartphone, if I have to tell you that the smartphone experience is going to be defined by what the OS vendor put into the OS, or the OEM put into his apps, that is nothing compared to the apps the developers did. Those agents are going to be some of the applications. I think the good thing for Qualcomm is none of those devices are ready for it. You're going to have to go to an upgrade cycle. I can't predict the timing, but we now have clarity how those things-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay.
+## Cristiano Amon | President and CEO, Qualcomm
+... are going to play out.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it. Got it. The phones today don't have the computing power that are necessary to orchestrate something like this, do they?
+## Cristiano Amon | President and CEO, Qualcomm
+Right now, you're going to need much faster CPUs to be able to run those orchestrators. Eventually, as some of the hybrid AI matures, you're going to need accelerators as well.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it. Got a few minutes left. Should we go to the lightning round?
+## Cristiano Amon | President and CEO, Qualcomm
+Go ahead.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+See some audience questions. I guess it has to be asked. There's the quintessential Apple question, which is here, which is: baseline's now that Apple starts leaving the modem in a bigger way this year. Do investors have the right trajectory in mind? I would follow this up by also saying Apple's licensing business, which does have an expiration date, the current agreement, I guess, beginning of April of next year. What are your thoughts on that?
+## Cristiano Amon | President and CEO, Qualcomm
+Look, I hope investors have the right trajectory in mind. We have been so clear about this.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+You've been 100% clear, by the way.
+## Cristiano Amon | President and CEO, Qualcomm
+Yeah.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+There's no excuse, frankly-
+## Cristiano Amon | President and CEO, Qualcomm
+Yes.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+... if they don't have the right trajectory in mind, but anyway.
+## Cristiano Amon | President and CEO, Qualcomm
+All right, second question. Look, as you'd expect, we're in conversations about the license. The license is independent of the chip business. I will say, I think the licensing business is probably one of the most stable times of our licensing business. I probably feel very confident about the state of the licenses business.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+You probably feel very confident.
+## Cristiano Amon | President and CEO, Qualcomm
+Look, I think you have to ask yourself, especially a lot of those customers renewals, this business has been battle tested.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah.
+## Cristiano Amon | President and CEO, Qualcomm
+There's a lot of clarity about what the patents are, what do the claim charts are, I think the size of the patent portfolio. I think what I have seen from most of my customers right now, especially in the AI transition, the last thing anybody wants in the middle of an AI transition is a worldwide patent litigation. I think everybody knows. I think that we're always going to defend that business. The fact that we always have done that in itself, it's a positive thing that brings stability.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Yeah.
+## Cristiano Amon | President and CEO, Qualcomm
+I will repeat. I think it's probably one of the most stable times for licensing business right now.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. Is there any truth to the idea, though, that the last time Apple settled, I mean, they had no choice. Intel was late with 5G. You're the only option. Less of an issue now they've got other options.
+## Cristiano Amon | President and CEO, Qualcomm
+I think you should follow the court case.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Okay. I guess you, to be fair, you've had a lot of disputes over many years, and I think eventually you've come out on top on every single one. I think that is true, so. One more question here. The given memory issue hopefully is abating. I don't know if it's abating yet, by the way, but hopefully abating. Handset market share is well forecasted. What's the next thing that concerns you? What are you most worried about? Is it competition from China? Is it something else?
+## Cristiano Amon | President and CEO, Qualcomm
+Look, I think if you're in the semiconductor business right now and you're a global company, you have a lot to worry about. Look, right now for us, I think we can't wait, I think, for the memory of things to improve because it's just going to be an immediate acceleration, I think, for our business.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Are there any signs, by the way, that it is? Are you seeing any improvement or-
+## Cristiano Amon | President and CEO, Qualcomm
+Look-
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+... is it getting worse?
+## Cristiano Amon | President and CEO, Qualcomm
+It depends. I think it depends on how you look at. One thing I'm going to say for this, especially on DRAM, we have seen a lot of investments in China, I think, to build DRAM capacity.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+You're qualified with the local Chinese guys, correct?
+## Cristiano Amon | President and CEO, Qualcomm
+If you have a memory right now, I'll qualify your memory. I'm qualified with everything, so I'm more optimistic than people are about maybe 2027. There's more capacity coming in in line. That's one thing, and the other thing is we're laser focused on executing on the data center. We see a great opportunity for the company. I think we're being positively surprised with the traction, and we need to make sure we're delivering all the expectations.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it. We've got about 40 seconds left. As I always do, I'll give you your soapbox. You've got a whole audience here. Why should these fine people buy your stock?
+## Cristiano Amon | President and CEO, Qualcomm
+Look, one thing I tell about the company, and I'll give you my bias. I joined the company as an engineer in 1995.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Oh, wow.
+## Cristiano Amon | President and CEO, Qualcomm
+I've been in the company for 30 years. Qualcomm has an incredible, I think, engineering and technology capability. I think we also, our patent portfolio, it kind of reflect of our innovation engine. All those markets that we enter, one way or the other, even some of the markets who are new players and we have to grow. If you look at our execution, we have the leading platform. I think Qualcomm has been on this trajectory to be a very diversified company. I will never bet against Qualcomm execution. I think investors, if they understand the capability of the company, they understand the trends that is happening on AI. It's fascinating to see when everybody thought everything's about the GPU. Now people don't talk about that anymore. There's a lot of new engines.
+If people didn't talk about the edge before, now they talk about the edge. I think the company is unique because it has bets in many areas that are now have seen positive trends in AI. We're just going to be on this mission. Hopefully June 24, we'll have a very compelling story to see why this is an incredible long-term opportunity.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Got it. With that, I think we'll close it out. Thank you so much.
+## Cristiano Amon | President and CEO, Qualcomm
+Thank you. Thank you very much.
+## Stacy Rasgon | Senior Research Analyst, Bernstein
+Very cool.
+## Cristiano Amon | President and CEO, Qualcomm
+Thank you. Appreciate it.
+Data Source: Quartr Last updated: May 27, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

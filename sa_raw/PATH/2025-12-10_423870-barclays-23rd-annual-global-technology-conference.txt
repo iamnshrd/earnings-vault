@@ -1,0 +1,229 @@
+TITLE: Barclays 23rd Annual Global Technology Conference
+DATE: 2025-12-10
+## Raimo Lenschow | Managing Director, Barclays
+So let's start, like, to get everyone on the same page, just, Ashim, you had, like, really healthy Q3 results last week. Shares were up a lot. So everyone was happy, probably, in the organization. That's nice to see as well. But to get everyone on the same page, can you talk about the highlights you saw last quarter?
+## Ashim Gupta | CFO, UiPath
+Yeah. I think so our third quarter really showed the, to me, the confluence of really strong execution, and, you know, the beginnings of what agentic, the combination of agentic and deterministic automation can mean in the marketplace. So revenue, $411 million, up 16%. Strong operating income, strong free cash flow, you know, continuing for the company. And it was actually our first third quarter of GAAP profitability.
+## Raimo Lenschow | Managing Director, Barclays
+Wow.
+## Ashim Gupta | CFO, UiPath
+And has put us on track to be GAAP profitable for the entire year. You know, when you look at the top line, I always go first to our large customers. And our customers greater than $100,000, more than 2,500 customers now. That's growing double digits year over year. And customers greater than $1 million, you know, 330+ customers. That's growing, you know, double digits as well year over year. So when you kinda step back and you look as to why, Raimo, I think very good progress around proof of concepts and POCs and pilots within agentic. But without even a direct impact of material agentic revenue, people are looking at our platform, the combination of deterministic automation, probabilistic or agentic automation, and process orchestration.
+And just the feedback has been so positive that we are a staple in people's enterprise architecture and will continue to expand with them over the coming years.
+## Raimo Lenschow | Managing Director, Barclays
+And then, just to stay high level a little bit longer, like, federal was a big discussion?
+## Ashim Gupta | CFO, UiPath
+Yes.
+## Raimo Lenschow | Managing Director, Barclays
+All year.
+## Ashim Gupta | CFO, UiPath
+Yeah.
+## Raimo Lenschow | Managing Director, Barclays
+DOGE at the beginning of the year, and there was a lot of kind of noise on for our industry, but then the shutdown as well, like, how did it play out for you guys?
+## Ashim Gupta | CFO, UiPath
+You know, so it's a dynamic environment in the public sector. I actually was just at the Pentagon on Monday, and with customer meetings, like, they're going through budgets and, you know, not unlike a lot of corporations, like, you go in and people are pulling their hair out in terms of challenges that they're facing and areas that are there and different dynamics. With all of that said, our teams are executing incredibly well. Like, we are, you know, connected to key people in the government, Under Secretaries of the Department of Defense, or different functional leadership there. We closed several key deals, the Social Security Administration, a key deal that closed the Coast Guard. So we're relevant across a lot of major industry, major sectors of the government.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+I think it's gonna continue to be dynamic, and I think it's a very good long-term opportunity for us. Our goal is to stay connected, continue to drive value, and execute on the projects that we're getting. Today, there is a lot of momentum that we can continue to capitalize on in the coming years.
+## Raimo Lenschow | Managing Director, Barclays
+Do you, like, for the quarter itself, did the shutdown impact you? I mean, in the quarter negatively, it could kind of drag into the next quarter, but, like, was there any impact?
+## Ashim Gupta | CFO, UiPath
+No. I mean, the shutdown was. It was topics of discussion.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+But it wasn't anything that impacted transactions, both positively or negatively.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+For us. I'll just say, kinda give two reasons as to why. The first is a lot of our software is in mission-critical areas that are protected from areas like the shutdown that is there, and then the second is the Department of Defense is a really big customer for us, and they are also somewhat shielded from a lot of the different areas.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+That being said, having walked the floors of The Pentagon, like, a lot of people were impacted, so we're very empathetic. I think a lot, when I say mission-critical areas, but our software was protected from that standpoint.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. And then, last question on this kind of more bigger picture subject, is, like, beyond federal now, like, what do you, if you talk to customers in other regions, other industries, like, how's demand kind of playing out at the moment? What are you hearing there?
+## Ashim Gupta | CFO, UiPath
+Yeah. It's the best thing I can say is variable. I mean, like, what we're seeing. Maybe I'll do it from two perspectives. What I see kind of from our field and what I hear directly from our customers in our customer visits. Directly from customers, you know, they kinda have their budgets are really getting scrutinized for high ROI items, so you listen to kinda like, there's not a lot of excess fat for experimentation and innovation there in the budgets, and people are preparing themselves for different outcomes of the economy because I don't think there's a consensus view about what the economic outlook looks like for next year.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Yeah.
+## Ashim Gupta | CFO, UiPath
+At the same time, that is also spurring really renewed interest on meaningful ROI and productivity projects. So, you know, industrial customers, as they're getting their cost out targets and we're very, you know, we're close with them, I think that presents opportunities. I think there's other customers where there's opportunity and they're saying, "Listen, we at the same time may not take as large of a bite at the apple as what we've been doing." So I think it's a dynamic environment. Then I look at our field, I look at our activity. We were really pleased in the third quarter with kinda commercial momentum in the commercial enterprises, Americas. Particularly in healthcare and financial services. I think we did see, you know, pockets of strength in international, like Australia and New Zealand.
+But then there are markets that are a little bit more challenged internationally.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Okay. Perfect. And then, shifting gear a little bit, and I'm happy you are here as the CFO because I wanted to talk about AI.
+## Ashim Gupta | CFO, UiPath
+Okay.
+## Raimo Lenschow | Managing Director, Barclays
+I love Daniel to bits, but his explanation is too, it is almost getting too technical for me. Like, how would you describe UiPath's role in this new AI now?
+## Ashim Gupta | CFO, UiPath
+I'm gonna start from really basic building blocks. AI is just unequivocally a meaningfully net opportunity for UiPath's growth in the coming years. I think there's a direct and an indirect basis. I'm gonna unpack it in three steps.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+The first step is, I think, sometimes we forget what does UiPath do. When I ask people that, they'll tell me what we did in 2017, which is RPA.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Yeah.
+## Ashim Gupta | CFO, UiPath
+What UiPath is, is an AI-powered platform that helps businesses automate and transform processes. So our goal is to drive outcomes that yields productivity for companies by audit, by emulating what humans do to automate processes and reduce the cost of transactions and process ownership within a company. Now dissect what is a process.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+A process is a series of 20 steps. Within those 20 steps, maybe 30% of them or 40% of them can be done on rules-based, task-based, deterministic type steps. Another 40% or 50% of them can be done, but it needs reasoning power. It's probabilistic in what needs to happen. You could deny this claim. You may not decline this claim. It's not a rules-based. If it is above this value, deny. It is. There's multiple factors that require reasoning and probabilistic weighting to go after that. Three years ago, we automated those first 30% and we scaled the company from next to nothing to $1 billion+ in four years with those steps. What is amazing is now we can go and automate those next series of steps and continue to drive that automation. What is missed, so there's a direct impact of AI. And what is AI?
+The ability to reason like a human to complete process transactions, if I keep it non-technical.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Yeah.
+## Ashim Gupta | CFO, UiPath
+Right?
+## Raimo Lenschow | Managing Director, Barclays
+That's why you're here. Yeah.
+## Ashim Gupta | CFO, UiPath
+And then the second piece of it is, though, for UiPath, three years ago, you may have looked at this 20-step process and said, "I can automate six steps of the process and it's worth it." But there are also times you'd say, "If I automate six steps of the process, it's not worth it. I still don't get the productivity. But if I automate 12 steps of the process or 15 steps of the process, that is really worth it." So what agentic is also doing is it's coming back around and saying, "You can automate those." So it's actually pulling back through deterministic opportunities as well. So that's the second piece. The third piece is AI has now created another element into the architecture of business processes that we all have to contend with.
+If you thought about years ago, you couldn't. You deal with infrastructure, applications, right? And then you deal with integrations. And I would put RPA in kind of an integrative type technology that stitches together systems, etc. Now AI has another area. So what is becoming super important is process orchestration. And I wanna differentiate between process orchestration and agentic orchestration. Agentic orchestration, many people do. It's governance frameworks around agents. UiPath does that as well. But process orchestration means now you have a 15- or 20-step process. Realistically, it's a 200-step process. You have humans, robots, and agents working together. How are you gonna monitor it? How are you gonna govern it? How are you gonna visualize it? That is what Maestro is, a product that we GA'd earlier this year that allows many companies to do that.
+So AI has now unlocked a whole set of processes and opportunities. For UiPath and for our customers. And what's super important is it revitalizes demand for deterministic as much as it presents an opportunity for a new revenue stream in agentic. Does that make sense?
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Totally. The one question I have on that one, agentic is where everyone wants to go, you know, and that sounds like.
+## Ashim Gupta | CFO, UiPath
+Yeah.
+## Raimo Lenschow | Managing Director, Barclays
+Super cool and new and exciting, but the one thing that I hear from the field is where customers are struggling is that agentic, the outcomes are not as predictable as deterministic, you know, so in your conversation, where are customers on that journey of understanding agentic is different and kind of having the right guardrails, etc., to kind of still come to outcomes that they actually kind of want?
+## Ashim Gupta | CFO, UiPath
+It's the early innings, but.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+But it's the early innings with progress, so to use kind of a football metaphor or a soccer metaphor, you know, you're not in the first. You're not right at kickoff where players still haven't moved.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+But you're not near halftime, right? You're not near kind of the midpoint of the game. And the reason for that, I think, is a couple areas. One is everybody's now contending, as I said, another entity into process architecture, etc. So there's security, there's governance, there's things that have to be unlocked with it. The second is just understanding where do they wanna deploy it? Here's what I'm excited about at UiPath. We have 900 companies or that are using UiPath and building agents upon UiPath, right? 750+ companies that are doing that. So they're in the mode of experimentation. Some of those experiments have moved to pilots. Some of those pilots have moved to production, and a few of them have also converted to orders.
+So in my mind, kinda the sphere is moving forward with customers that have, like, a very progressive culture, a fast execution culture. They are converting, and we're seeing great examples. Reputable healthcare customer, they're using our agentic platform with deterministic to clear 140,000 provider claims that are in backlog.
+## Raimo Lenschow | Managing Director, Barclays
+Wow.
+## Ashim Gupta | CFO, UiPath
+That's real progress and a real goal that is coming forth. A cybersecurity firm is using both deterministic automation and what we call IXP, applying different models to the right documents to get to the next level of productivity around something as a process that's been forever, like, procure to pay. But there are many customers who are still in the early stages setting up their guardrails that are there. And I think that's healthy, personally. I think that sometimes when you get the euphoric adoption, it doesn't last.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Yeah.
+## Ashim Gupta | CFO, UiPath
+But I think we're in an area of sustainable, kind of a really sustainable demand trend, which is super exciting for us.
+## Raimo Lenschow | Managing Director, Barclays
+For you as the CFO, how do you think about monetization, like, more? I don't want a number, more thinking about the vehicles of monetization in terms of, is this like a SKU model? Is it a consumption model? How do you think about that?
+## Ashim Gupta | CFO, UiPath
+It's all of the above. I think, and I know that drives people crazy. So I'll break it down a little bit.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+Our pricing model has always had, first of all, Agentic is a form of AI. So I really look at our platform right now as kind of the core server-based RPA API type offerings that we did between 2017 and 2021 or in 2019, we already started with AI with things like document processing. We expanded into Autopilot, semantically being able to develop faster.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+And we were monetizing those things through AI Units and Agentic Units. I think, sorry, AI Units. Now Agentic is another way that we can create a consumable in a subscription type way that's kind of a use it or lose it in terms of where it is. But then also put safeguards for COGS or for cost of goods sold on a consumption layer if the people go crazy and wanna run a billion agents, you know, all at once. My, when I look at it, is that our pricing scheme. Our monetization scheme is twofold. One, lead with Agentic because it will pull forward the rest of the platform. For existing customers.
+For new customers, get them onto deterministic because once they automate those first three steps, they're gonna look to the right and say, "Oh, there's an agentic opportunity," so that is our monetization that we can go after, and then the third piece is focus on ROI. I think the more you focus on ROI, people are less worried about how am I, how am I pricing this, but more is the net price of the bill of material justified against the ROI that they're getting, and that's kind of been our philosophy so far.
+## Raimo Lenschow | Managing Director, Barclays
+Just wanted to ask, and I'm not kind of trying to get the question for my sessions that I had later today, but like, if I listen to the software industry at the moment, like, that message of, "I want to be the platform, I wanna help you," etc., you're gonna get from quite a few players. Like, how do you fit? Is it gonna be competitive? Are you all working together, but for different outcomes? Like, how do you think about that going forward?
+## Ashim Gupta | CFO, UiPath
+With different entities, different customers?
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. And different software vendors as well.
+## Ashim Gupta | CFO, UiPath
+Yeah.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+I think it's a great question. So let me tell you where I think we're uniquely positioned, and then I'll tell you where I think how we work with others.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+That's there. Technologically, we are uniquely positioned because we are, to me, the only platform that has RPA, API, agentic, and process orchestration, underscored with AI products like document understanding, advanced document understanding like IDP, test automation, etc. So I think we have a really broad platform for there. Where I look at where we can play with automation, I look at four categories: personal productivity, in-app automation, cross-application, complex enterprise-grade automation, and verticalization. Okay? Within citizen-like kinda citizen development, personal productivity, we'll cooperate with anybody. We want, that's not our bread and butter. We can do it, but we're not really kinda moving into that area. Cross-application, same thing. We will integrate and we will create connectors with the partnership with SAP to help people automate more even within SAP.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+that is there, but that's not a core area for us. The third area around cross-application, I think I'm gonna double-click on. We wanna own that area, so we wanna compete, and verticalization, we wanna compete. We're gonna pick verticals that we are uniquely positioned to go after. So we're not going after ITSM. That's ServiceNow.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+But revenue cycle management, claims denials, those are areas that we can create vertical solutions and really scale. How do we then, just to go back to the cross-application area? I think on deterministic, we are the technology. On agentic, people want to be able to build and deploy agents on our area, and we will integrate with every model provider that is there. We created our partnership with OpenAI, created partnerships with Anthropic, with Gemini. We have partnerships in place, so models can be used by anybody. The question then is, how do you kind of integrate with the rest of the ecosystem? We actually love if we don't mind if people go and build agents on other platforms. Where we want to win is in process orchestration to orchestrate UiPath robots, UiPath agents, third-party agents, and humans across.
+In that area, honestly, we are very uniquely positioned to win in that area.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Okay. And then, yeah. Okay. Makes sense. I'll leave it there. The other thing I wanted to discuss with you is, like, you guys from a more organizational perspective have been on a journey. Especially last year, there was a lot of disruption. It looks like it's getting better this year, but like, maybe for the audience, it's good to understand, like, where you guys came from, what caused it, and then the changes you took to kind of try to solve it.
+## Ashim Gupta | CFO, UiPath
+Yeah. So, you know, Daniel came back into the CEO realm in May of last year and May, June of last year. I think when we look at it, it was very simple. I think we went through an era where we scaled so fast. I think we got enamored, UiPath got enamored by putting big company structure and big company processes across. And I don't think that's a wrong thing to do for the right company. We were just not the right company for that, for those processes. And so I think what happened well in that timeframe is connecting and selling to the C-level. What happened incorrectly is we created too much, too much intermediary, both internal structure and strategically, between ourselves and the users and the people driving process transformation on the ground within our customers. And we lost a little bit of that innovation.
+So what have we done? We have really kinda gone. I wouldn't say nuclear, but we were pretty aggressive in removing central organizations. If your hands are on a keyboard generating code, if your hands are with a CEO or shaking or leading a customer towards transformation, we are investing heavily. Go to our website. We're hiring. We're investing. If you're in the middle of those two, there's some necessity there, but we really took a very strong restructuring mode to remove that. And that's created twofold effects. We're closer to our deals. We are closer to adoption, and we are farther ahead. We walk into a quarter not talking about the deals this quarter. We're talking about the deals next quarter. We're talking about the renewals six quarters from now.
+And I think that operational rigor that's been brought to the company is a reason why you see Net New ARR actually stabilize, which I didn't mention in the first question.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+It's net positive now, and so UiPath, kind of one of the themes whereas we're not the same company as two or three years ago, not just product-wise, but execution-wise, and you can start seeing that in the metrics as they begin to inflect.
+## Raimo Lenschow | Managing Director, Barclays
+If you think about it, on the one hand, you kind of removed a little bit the guys to kinda create like an empire. Sorry if I say it like that. On the other hand, your momentum upmarket actually continues to go better. That's almost like sounds like, I remember when you did the changes last year, it was like, "We're going back to our roots," etc., but now the momentum is coming up. Like, how do you explain that?
+## Ashim Gupta | CFO, UiPath
+You know, I'm still learning in the business world around things, I would say. But the one rule that I've found is if you focus on your technology and you focus on your customer. Like, only good things happen. And I think that has been our premise. So in my mind, remember, it's not a question about an empire or a person or a set of activities about. It's just how much of your energy and your capital and your resources are going towards innovation and helping your customers win. And I think the more that you do there, the ROI is kinda like very natural, you know? So from our standpoint, that deal with the field, there's an example for a customer, big agentic use case. And there were $200,000 of a pilot.
+They went and they ran their first set of COGS that came in at like a $150 million estimate. I think three years ago, that would've been lost in the system. One day later, Chief Product Officer engaged. Our four deployed engineers and our services team are moving into that customer. We realized that they can do things through batch querying, and from there, those COGS have come down to a point where that POC is now considered a wild success, and now it's a question of obviously getting it into production and getting the order, but that's just a very practical example to say when you can move up and down from your customer to your team and solve their problems, you unlock demand. Demand is there. It just needs to be unchained.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. And then just, as we track the progress there, like, you know, the one thing we all want to know is like, "Okay, what's the metrics? What are we looking at?" Is it, as you said, net new ARR, is that still kind of the one to look at?
+## Ashim Gupta | CFO, UiPath
+Yeah. Net new ARR to me is the primary metric. ARR is the primary metric that drives the company. I think net new ARR is a good metric in the trajectory of what that looks like. I think the second, too, or is the momentum we have with our large customers. Customers between $100,000 and $1 million, their net dollar expansion rate is 113%. For me, that matters. Now, why? Because when you look at kinda the lower end of the market, those are customers that we bought, that we kinda bought from UiPath maybe four years ago, but they don't have high propensity to buy. I'm not firing customers. But they're not gonna expand at the same level.
+And then, when you look at customers greater than $1 million, I'm super happy with the expansion of customers in that low $1 million, but we have customers that are eight figures. Those eight-figure customers with two- or three-year contracts, they're not gonna be expanding 20% per year.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+Right? In that way. So I would look at that $100,000-$1 million cohort. That's a really good sign for us. And the continued momentum to push customers into the $100,000 category and the $1 million+ category.
+## Raimo Lenschow | Managing Director, Barclays
+Is there like the one thing, and then that was always kind of difficult for you? Like you have six, you know, there's cloud, and cloud makes it kind of would make it kind of slightly easier. But how do you think of, do you think there's something that you can solve or you, we basically. I'm just asking for myself actually because it is so much difficult.
+## Ashim Gupta | CFO, UiPath
+Yeah. That's a good question.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+I think it's on us over the next period of time. Like, I think refreshing the models for everybody would help. You know, that's something that's been on our mind. But ultimately, ASC 606 revenue is done by, it's impacted by duration and deployment. And volume, right? I think volume, I think ARR is really just impacted by volume, right?
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+Through there, there's obviously different idiosyncrasies that exist in every metric. My view is, I look at ARR. I still think revenue, like revenue grew 16% this quarter, right? I think, you know, when you look at it, it's looking to guide in low double digits, you know, is where consensus has us.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+Here for the year. ARR is at 11%. So I think you have to look at, I think if you look at revenue on a quarter, it's less relevant than looking at revenue for a year, and it's less relevant than looking at it on a trailing 12-month basis. Right? So I think the more aperture you give to the, if you look at revenue, you have to give it its appropriate aperture, and it correlates very well with ARR. I think the myth around ARR and revenue, there are dynamics that change it. But when I look at it today, I think we've done a very good job when you look on a trailing 12-month basis of it correlating pretty well with the ARR movements that you see.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Okay. So, no change, but like no change, like in terms of what you do, but it's more like focus us more. ARR is the kind of the one number.
+## Ashim Gupta | CFO, UiPath
+Primary metric. Exactly.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Okay. Last couple of minutes, profitability. If you think about it, there's a lot of stuff that we wanna do around AI. The world is evolving every day quickly. At the same time, like, we need to think about profitable growth and Rule of 40. Like, you know, where are you on that journey?
+## Ashim Gupta | CFO, UiPath
+Yeah. So one is I wanna be unequivocal. Like, we are investing for growth. There is no, there is no doubt that should be there. I think the misnomer is that in order to invest for growth, you have to not be profitable, and that's not the case. You can eat if you exercise, right, so to speak.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+And you can eat the right foods and enough of them if it's the right food and still be healthy. So I look at it this way. I think field sales capacity, making sure we're funding our POCs and our pilots and the success of those early areas of agentic. We are all in, and we are aggressively investing in. I think the innovation side in R&D, we're investing in. We still have areas to leverage, even within G&A and sales and marketing, to fund those investments where we can fund growth but continue to drive operating leverage. You can see that in our metrics. First year of GAAP profitability, you know, that's where we're on track for this year.
+I think one of the interesting things that people aren't looking at is our Stock-Based Compensation percentage of revenue, how it's come down, and look at the trend that you've seen there. That's with the same number of people, but just being more thoughtful about how we deploy it, right? Second is cash allocation. I think we're really very mindful about what are the top customers we wanna win. It's not gonna say all markets are all equal all at the same time, so I'm actually really pleased with growth being our priority, profitability being about discipline, and when you look at the metrics, stabilizing Net New ARR, first year of Net New ARR growing year over year, a little bit of FX in there, but overall that trend is there, but it's also the first quarter of GAAP profitability, and third quarter of GAAP profitability.
+I think those two things are proof that you can do both simultaneously.
+## Raimo Lenschow | Managing Director, Barclays
+Okay. Perfect. And then last question for me on the last minute, like, capital allocation. What should we do?
+## Ashim Gupta | CFO, UiPath
+Yeah. I think UiPath is in a really good, unique position for it. So we have $1.5 billion on our balance sheet. We've already shown that we will execute responsibly for stock buybacks. You know, we're at $800 million of a buyback. The average price of our buyback was in the low $12. So just think about that relative to a stock that is 16, 17. I think we're $18+ today.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+So we're very responsible on it. It's not just a lever for the marketing point. We really wanna generate shareholder returns in everything that we do, and at the same time, we're generating free cash flow, so we can continue to buy back stock opportunistically. We will always evaluate that. We can deploy and tuck in M&A, which we've also done with the acquisition of Peak this year, and we can continue to look for opportunities to do so.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Ashim Gupta | CFO, UiPath
+Or we can, you know, continue to have cash and have a big wallet for the right opportunity economically.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Okay. Perfect. Hey, 10 seconds. Like, I'm German, so I need to finish on time, you know?
+## Ashim Gupta | CFO, UiPath
+That's fine. Yeah. Love it.
+## Raimo Lenschow | Managing Director, Barclays
+Hey, that was great closing statement as well. Good to see you again, huh?
+## Ashim Gupta | CFO, UiPath
+Thanks so much.
+## Raimo Lenschow | Managing Director, Barclays
+Thank you.
+## Ashim Gupta | CFO, UiPath
+Thanks very much.
+## Raimo Lenschow | Managing Director, Barclays
+Thank you.
+Data Source: Quartr Last updated: Dec 10, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

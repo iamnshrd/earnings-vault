@@ -1,0 +1,7 @@
+Company: Boeing
+ROIC Symbol: BA
+ROIC Name: The Boeing Company
+Year: 2007
+Quarter: 1
+Date: 2007-04-25 10:30:00
+Executives

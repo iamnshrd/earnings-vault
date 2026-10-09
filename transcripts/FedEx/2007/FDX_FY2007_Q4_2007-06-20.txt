@@ -1,0 +1,7 @@
+Company: FedEx
+ROIC Symbol: FDX
+ROIC Name: FedEx Corporation
+Year: 2007
+Quarter: 4
+Date: 2007-06-20 08:30:00
+Executives

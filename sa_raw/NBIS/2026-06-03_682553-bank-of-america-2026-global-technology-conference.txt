@@ -1,0 +1,343 @@
+TITLE: Bank of America 2026 Global Technology Conference
+DATE: 2026-06-03
+## Tal Liani | Technology Analyst, Bank of America
+This is, I'll just wait for them to close the door. Perfect. I have to state my name at the beginning for the record. My name is Tal Liani, and I am very happy to host Roman Chernin, who is Chief Business Officer of Nebius, which is basically, as far as I understand your position, it's a product manager. It's a head of product. It's a product guy.
+## Roman Chernin | Chief Business Officer, Nebius
+It's different things, but I like to say that I do what's needed now for the growth.
+## Tal Liani | Technology Analyst, Bank of America
+Yes.
+## Roman Chernin | Chief Business Officer, Nebius
+Sometimes it's more on the product side, sometimes it's more on the go-to-market side.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Okay.
+## Roman Chernin | Chief Business Officer, Nebius
+It's a privileged position.
+## Tal Liani | Technology Analyst, Bank of America
+I just mentioned it, we're not going deep into the numbers. I want to talk to you about strategy. I want to talk to you about basically where your product is heading, what's your advantage in the market. Let me frame the discussion first, as I normally do in kind of these meetings. Selling data center capacity now is selling water on a hot day in the desert, in middle of the day also, if you want to make it kind of even more dramatic. The question is: what is the value that Nebius brings to the market? Meaning, is the growth today sustainable longer term? The question is: is there a differentiation between Nebius and CoreWeave and maybe the data center of Oracle and Microsoft and all the hyperscalers?
+I want to ask you about basically, it's the sustainability of the growth, but it's coming more from the product side. I want to ask you about your differentiating factors. Maybe with that, this is kind of an open statement just to frame the discussion. Maybe with that, you can talk about how do you craft your product strategy, meaning what are you trying to be in this market? We'll take the discussion from there.
+## Roman Chernin | Chief Business Officer, Nebius
+Yeah. It's a very broad question, I think.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Let me start from the customers, because I think that you said selling data center capacity. In reality, we don't sell data center capacity, we sell product that-
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+built on top. We build product for the customers. To discuss it, first, we probably need to structure how the market looks like. We look at the market and the product that we build in the following way. There are few customers, like everybody talk about hyperscalers or super labs, that need a lot of compute, but they need only compute. They literally don't consume almost any additional services. They need scaled deployments. It's not easy to deliver those scale deployments, but at the end of the day, it's a most basic, not differentiated service. On top of that, this is what people call bare metal compute.
+On top of that, there are much more, much bigger population of the customers, let's call them AI native labs or neo labs, hundreds, maybe thousands of customers that need infrastructure, but they prefer to consume it in a managed manner because they don't have all the full stack of their own software, and they want just focus on their research. They want just focus on their training tasks mostly. For them, that was actually probably the first category of the customers that we served, and we built our what we call multi-tenant cloud. It's, again, it's managed infrastructure. There is the next layer of the customers. Probably it's much bigger population again. People who don't want to deal with the clusters, they don't want to talk in terms of Kubernetes clusters, GPU hours. They consume models as a service.
+These are the people who build product. You can call them vertical AI products, like Cursors of the world, like in coding. I don't know, Harvey or Legal in legal, Gamma in content, Clay in CRM, and so on, so forth. Those are the customers that even don't think in terms of the cloud. They think in terms of the models they consume, and most of them started with the closed models. For many reasons that we can discuss, they diversify their consumption towards open source or specialized models. They need the next layer of the product. We build the managed inference platform called Token Factory for them. Probably this is not the final stage of the market. Now we see that a lot of people are building agents, and the agents is a new type of the application, if you want.
+If developers who came for tokens, they take all the orchestration, all the burden of building kind of end product on them. People who build agents, they even don't want to consume tokens. They want to get the final results of agent execution, the outcome of the agent.
+Probably, it's a little bit speculative, but probably they will consume the AI compute in their way. They will not choose the model. They will not compare tokens from this model and tokens from that model. They will have some new level of kind of abstraction or new primitives, how they consume. Answering your question, how we build the product.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+The essence of what we build is AI infrastructure. If you want, in the simple words, it's AI compute. Obviously, it's not only compute, it's not only GPU compute. You have storage, you have CPU compute, and so on. The essence is infrastructure. We think about the product in a way to follow the customer's segments and customer's workflows, and be always relevant for the next wave of consumption. We could just have bare metal compute, but then our addressable market would be limited to handful of big customers. We could stay on cloud level and provide managed infrastructure, but then we could serve hundreds or whatever, first thousands of customers. We could stay on the level of inference, but then maybe it's like whatever, tens of thousands of customers.
+We believe that along the way, along the adoption to AI, there will be the market of tens of thousands, hundreds of thousands, and we don't know, developers, builders who will build on their level of abstraction, and our product strategy is to meet them there.
+## Tal Liani | Technology Analyst, Bank of America
+Right. You talk about the full stack here, basically from compute to software and then deployment and integration, and is it what's driving revenue growth today, or is it more in the future? Meaning what you're seeing today, did the market start with just pure compute capacity and then everything else you talked about will come in the future, or does it start already from full stack?
+## Roman Chernin | Chief Business Officer, Nebius
+Yeah, it's absolutely happening. Talking about full stack, it's important to talk about full stack kind of upstream.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+full stack downstream.
+## Tal Liani | Technology Analyst, Bank of America
+Okay.
+## Roman Chernin | Chief Business Officer, Nebius
+Downstream is about how you build the infrastructure and how you actually control your supply chain and cost structure, and upstream is how you evolve your product offering, right? Definitely we already see that, for example, inference is the fastest or fast-growing segment.
+We definitely see that agentic workloads are starting, and we can expect that they will continue to grow. I think that even though the big part of the market is still sitting in training.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+The opportunity to serve inference workloads, the opportunity to follow the new growing customers gives you much more flexibility and give us as a provider.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+The platform, give us much more flexibility and optionality on how we build our customer portfolio, how we build our contracts portfolio, and how we benefit from the motion on the market. Now we know that the prices are growing and obviously more flexible workloads like inference let us benefit from that. It's already significant impact on the business, positive impact on the business.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah. Is there a difference between what you're offering and what the other neoclouds or hyperscalers are offering?
+## Roman Chernin | Chief Business Officer, Nebius
+I think so. Again, it's important to define the categories because people call neoclouds quite different animals, let's call it. There are almost pure data center operators. There are people who don't have data center, and just aggregate, don't own infrastructure, and just aggregate compute. There are people that provide some software layer on top, and people who do nothing and just do the bare metal, like wholesale, so bare metal.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+I think, if you look at the market of the neoclouds, we don't like to speak about others, we like to speak about us, but I think it would be fair to say that from this full-stack approach, both downstream and upstream, we're probably one of those who are the most sophisticated.
+That gives, again, downstream, it gives you a lot of advantage on how your economics work, and upstream, it gives you a lot of optionality, how you can work with the customers and what customers you can serve. Eventually it actually gives you the same economical advantage because I think it's told even publicly that we have three, four customers for each GPU competing to get it.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+You can think about it that the more competition from demand side you have, the more lucrative kind of business you can do because you can pick the customer that actually value what we deliver more and have the better economics, and create more value for the customer, which is also important. There are customers, again, there are customers that just need data centers. Okay, it's not just not our business.
+## Tal Liani | Technology Analyst, Bank of America
+Right.
+## Roman Chernin | Chief Business Officer, Nebius
+There are those who want to focus on what they built in the product, and they want much more value from the provider. This is probably the customer that will value what we do.
+## Tal Liani | Technology Analyst, Bank of America
+If I generalize, I'll say the large our customers probably, and that's the hyperscalers, probably want the lowest value that you can offer. Enterprises probably want to have the highest value. How do you balance between the two? Because at the end of the day, you're selling to both.
+## Roman Chernin | Chief Business Officer, Nebius
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+You're not selling to only one group.
+## Roman Chernin | Chief Business Officer, Nebius
+First of all, I think we told many times in different occasions that we believe that our long-term business is in a diversified portfolio of the customers, AI natives, enterprises, startups, and grow-ups, and more established companies.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Even though we appreciate the chance, we cannot really learn a lot and gain a lot of working with the biggest customers of the market, which are hyperscalers. From the business perspective, those customers drive the growth for us. Making business with customers like Microsoft or Meta actually open up much more opportunities to finance the rest of the business for us.
+If you think what are the drivers for our business, this is obviously demand, and demand is there. This is the capacity, how fast we can build and bring online compute. This is the product that we speak a lot, and this is the capital. The capital is a very important component, and by growing through the large contracts and large engagement that we have with hyperscalers, we have ability to grow faster and finance more aggressively the rest of the business. Eventually, our goal is to have as much of the business in the diversified, kind of real cloud business and not wholesale business of the large blocks. Within that kind of part of the business, we try to build a very, again, diversified portfolio.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+The word diversified, but I think this is probably the real philosophy of what we do because we want to have a lot of optionality. We diversify the customers from their archetypes, we diversify the customers from their type of workloads, and we diversify the customers from their terms. We have long-term deals, we have short-term deals, we have some spot capacity that we can sell on a premium because it's available right now. We can sell something in advance. Again, it's not only driven by our willingness to have diversified portfolio.
+The fact that we have different offerings for the market let us have these different customers and different contracts.
+## Tal Liani | Technology Analyst, Bank of America
+Right. As the workloads move from training to eventually inferencing, how does it change the economics of your company?
+## Roman Chernin | Chief Business Officer, Nebius
+First of all, I think no doubts that this motion is happening.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+Training is one-off investments to build the product, and inference is the...
+## Tal Liani | Technology Analyst, Bank of America
+Recurring part, yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+-is a recurring part. What is really exciting is when you are engaging with the customer, with the partner, and you support their inference needs, you align with them because the better business of our customer, the more they grow, the more business we have with them. It's much more aligned business model. How it changes economics of us is, it's a good question. Actually, again, if you come back to what I said about different layers of the product, when people come for the training infrastructure, it's infrastructure sale.
+Even though we provide it in the cloud in a managed manner, most of the customers know what they want. They come for the particular GPUs, for the particular time span, and so on. In inference, it's much more flexibility on our side that we can extract value through the software. For example, we can optimize different workloads for different types of the chips. We not necessarily commit customer for particular cluster or for particular even type of the hardware, and you can abstract it through the software. On the practical side, for example, it let you actually extend the valuable lifetime of the CapEx investments.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+The new chips come, you can sign the first contract, for example, for the most frontier training jobs. When those chips going out of this first contract, you can still utilize them for the inference workload.
+## Tal Liani | Technology Analyst, Bank of America
+Right.
+## Roman Chernin | Chief Business Officer, Nebius
+This famous Anthropic SpaceX contract is one of the illustration that SpaceX moved their training workloads to the more advanced cluster, but the chip they procured in the first Colossus, they are still useful for the inference. This is just an illustration of the life cycle, if you will.
+## Tal Liani | Technology Analyst, Bank of America
+Right. I understand. When you go to agentic AI, how do you monetize agentic AI? Meaning when you go to agentic AI, explain how your business evolves with agentic AI deployment.
+## Roman Chernin | Chief Business Officer, Nebius
+Again, you can think about it as yet another layer of abstraction on top of compute. Again, bare metal, you sell megawatts.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Managed infrastructure, you sell GPU hours. Token Factory inference, you sell tokens. Agentic, you sell agentic outcomes.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+You want a task be solved. What's happening under the hood, you consume the ton of compute through inference, through the sandboxes, through other calculations, but you abstract it from the end customer, end developer. How you monetize it, still selling infrastructure.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+It gives you as a platform another layer of optimization capabilities. Now, for example, like I told about inference when customer not choosing what GPU to use, I can optimize for the GPU. At this layer, not customer choose what model to use. I can optimize from which model, how many tokens to extract.
+It gives you the flexibility, and this is actually, people ask, why do you build software? Do you monetize software? You not necessarily monetize software directly, but you build the software to better unlock the new use cases and give you more lever of optimization for the customer as a result for yourself.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. You made two acquisitions recently, or you made acquisitions, Aigen, hopefully I pronounce it properly.
+## Roman Chernin | Chief Business Officer, Nebius
+Aigen, yeah.
+## Tal Liani | Technology Analyst, Bank of America
+Aigen and Clarifai. Can you take us through them? What was the rationale behind the acquisitions?
+## Roman Chernin | Chief Business Officer, Nebius
+Yeah, the rationale is quite simple. These two are great teams, quite rare talent in the market.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Both actually in the area of inference optimization and model post-training. They both from different angles, will accelerate our journey with our inference platform, first of all. Aigen is the team here in San Francisco, very research kind of driven. The founders are MIT PhDs.
+They did a lot of work around how you take the model and extract more value from 1 GPU, in a simple word.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Clarifai is another team, the core team on the East Coast, and they more focus on inference as a system. You can think about it as one capability is you have a model, you have one GPU, and how much tokens you can generate. Imagine you run scaled system. You run on thousands of GPUs or millions of users, and then you're not only optimizing how one computer works, but you have entire system optimization, how your cache works, how you orchestrate compute, how you efficiently autoscale, like when the spike workload comes, how quick you can get new nodes up, and then when the spike goes down, how quick you can scale down and so on. The Clarifai is more team that works on inference job, on an inference problem, but as a system.
+Combining it together and actually combining with our in-house engineering capabilities, we believe that we now have a pretty strong, maybe one of the best teams to build inference as a big system.
+Again, it converts directly to economics because the customer needs tokens with the best quality, best price, and best performance. These teams will just improve the product and economics the growth for it.
+## Tal Liani | Technology Analyst, Bank of America
+None of you, meaning you, the neocloud companies, none of you speak about unit economics. I'm not going to ask you directly about unit economics. I want to ask you differently. Do you think your focus on software, do you think that your focus on Token Factory and all the other services, do you think that it translates in reality to higher margins for you versus competition?
+## Roman Chernin | Chief Business Officer, Nebius
+Yeah, absolutely. Again, it's very simple kind of thinking. Let's even put aside, which is not true, that for different workloads, people ready to pay different cost because of different value that we can deliver.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Let's think very simple. We are in the world of supply-demand balance. I spent quite a lot of time in advertisement. Advertisement business is very simple. The more hot auction you have, the more prices you have.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Imagine you have a product that can serve 10 customers in the world, and you have a product that can serve 10,000 customers in the world. Probably, that will drive your margins up just because you will have better supply-demand.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+Better supply-demand situation. Even if we've put aside that when people buy inference, we can do much more optimizations under the hood and sell the same GPU with the best economics for customer and for us, by the way. Even forget about it. Even forget that on a large deals, like hyperscalers probably have more buying power than some. Just if you target much bigger population of the customers.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+just only that you can assume gives you a very significant push of your margin.
+## Tal Liani | Technology Analyst, Bank of America
+The margins. Got it.
+## Roman Chernin | Chief Business Officer, Nebius
+That doesn't mean that we don't have all the other factors.
+## Tal Liani | Technology Analyst, Bank of America
+Right. I understand. How do you manage supply constraints? How do you manage, even from a contracting point of view, your duration of contracts is much shorter than the competition. You go for shorter durations, but still, when you sign a deal and you need to bring capacity on board, how do you manage the risk of commodity pricing going up?
+## Roman Chernin | Chief Business Officer, Nebius
+First of all, I'm happy not to be the supply person.
+## Tal Liani | Technology Analyst, Bank of America
+I know.
+## Roman Chernin | Chief Business Officer, Nebius
+In our company. Being on demand side is the easiest job in the world comparing to being on supply. I think there are a few questions in what you're asking. The main constraint is still the capacity, like not clusters built, but data centers and connected and ready.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Roman Chernin | Chief Business Officer, Nebius
+to bring GPUs online. I think the most important move that we have there is we announced We have capabilities to build. We are not only renting. Of course, we're renting temporarily because it accelerates time to value for us.
+We have the team with the expertise of building super efficient data centers from the ground up, from the greenfield. Starting from late this year, next year, a very significant portion of the new capacity that we will bring online will be in the data centers that we built ourselves.
+Building ourselves give us so many advantages, both on the cost structure, but also on the control and flexibility on when we bring capacity online. This is the first part. The second factor, if you think about us, we are not dependent on one data center.
+We are managing, like our customers are living in the cloud environment, most of our customers. We think about our data centers as a portfolio, diversification again. We run dozen of projects in parallel, and maybe some of them will be delayed, maybe some of them will be even not successful. It will not impact our ability to deliver to the market.
+We kind of oversubscribe in a way.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Roman Chernin | Chief Business Officer, Nebius
+This is the second factor. The third factor, diversification of the workloads gives you more flexibility. For example, inference workloads, training workloads, and the biggest contracts, even if you put aside the hyperscalers, the biggest training workloads require a lot of compute in one place. You need large clusters. Inference is distributed workload. Again, you can manage your portfolio of data centers in different regions, in different timing, very flexible. That's what helping us on the key bottleneck, key driver of being able to supply. On commodity side and cheap side, I think that we're pretty much well set. Our biggest contracts are locked.
+Supply for them is locked. I also wanted to say that in the current market, actually, I think the effect of on the prices from demand supply situation versus the cost structure and raising some of the components, the supply-demand situation is much more strong factor.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Roman Chernin | Chief Business Officer, Nebius
+Again, the demand responding to the.
+## Tal Liani | Technology Analyst, Bank of America
+To the supply constraint.
+## Roman Chernin | Chief Business Officer, Nebius
+Yeah, to the supply constraint.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. We have three seconds left, unfortunately. I didn't leave enough time for questions, but we can take probably one or two minutes from the break. Anyone has any question, please raise your hand. No, we're good? Good. Roman, thank you so much.
+## Roman Chernin | Chief Business Officer, Nebius
+Thank you for questions.
+## Tal Liani | Technology Analyst, Bank of America
+Thanks for enlightening us.
+## Speaker 5 | 
+I cover technology investment banking for BofA. Today we have the pleasure to receive Gleb Budman, who is the CEO of Backblaze. Gleb, I think not that many people know who Backblaze is, right? Especially the story around the history of you, the way you founded your company and everything. Can you maybe walk us a little bit through the history and where you are today?
+## Gleb Budman | CEO, Backblaze
+Yeah. Thank you, everybody, for coming and joining and chatting.
+## Speaker 5 | 
+Yeah
+## Gleb Budman | CEO, Backblaze
+Not that many people have heard of me. We have half a million paying customers.
+## Speaker 5 | 
+Yeah.
+## Gleb Budman | CEO, Backblaze
+I don't think you're wrong. I think that our opportunity to be better known.
+## Speaker 5 | 
+Yep
+## Gleb Budman | CEO, Backblaze
+is quite large. We started the company almost 20 years ago in 2007. We initially started it in the cloud backup space.
+We ended up designing and building our own cloud infrastructure for that purpose. Today, we are essential infrastructure for AI. I'm going to talk to more of how that's the case. It started from a need of we needed to build storage infrastructure that was high performance and very efficient for the purposes of providing it to our cloud backup service. Our original plan was to store that on AWS. We did the math, realized we were going to lose money on every single customer.
+Started from first principles, wrote our own file system, built our own infrastructure, built the whole stack and offered that to our cloud backup service. Over time, companies came to us and said, "Love your cloud backup service, but you built this great infrastructure as a service. Give me access to that for all of my other storage needs." We launched Backblaze B2, and that is now the dominant part of our business.
+What we offer to the market. We still have the cloud backup service, but the focus is the infrastructure as a service.
+## Speaker 5 | 
+What are some of the pain points that the legacy hyperscalers cannot address that Backblaze is able to fill?
+## Gleb Budman | CEO, Backblaze
+Yeah. For a long time, one of the key things that people were coming to us for was simple. It's a 1/5 the price of Amazon S3, and that was simply a compelling value proposition, right?
+You need storage, it's less expensive. That's easy, right? With AI, there have been some interesting new shifts, right? There's this big replatforming happening. We just heard from one of the neocloud companies. There are a variety of neoclouds that are out there, and customers are choosing to use them.
+either because of availability or price performance of GPU infrastructure, or because of the software stack that those neoclouds are focusing and providing, right? In order to use any neocloud, your data can't be locked inside of a hyperscaler. The hyperscalers all try to keep your data locked up inside of them. For many, many years, for the last two decades, most customers have felt that that was fine. Most customers have felt, "I use one of the hyperscalers, and I use the services they provide me, and it's fine." What's increasingly happening now is the customers are saying, "Sure, maybe I use one of the hyperscalers for X, Y, and Z services. In order to stay innovative and in order to do the AI workloads I need, I also want to use that neocloud, this neocloud, and that neocloud.
+I might want to use this inferencing provider. I also may want to use one of the different CDN providers that are out there. I need to use infrastructure that's not part of that one single hyperscaler.
+To do that, I can't have my data locked inside. We had one customer, I remember, they developed their whole own infrastructure, and they were using one hyperscaler. That hyperscaler didn't have the availability of the GPUs they needed, so they literally did a whole engineering effort and migrated their entire system over to another hyperscaler. A few months later, that hyperscaler didn't have the most efficient GPUs that they wanted for this. They paused because they were thinking about moving it again, and they paused and said, "Wait a minute. This can't be the way we operate.
+We have to free our data so that we can use whoever we want to use. Backblaze provides you this independent location to put your data efficiently in a high-performance, low-cost place, but one that provides you free egress and good connectivity to all of the places you would want to use. That's been a key benefit to the customers that the hyperscalers just don't provide. They can't because they don't want you using all these other services. They want you using their services. That's been a key part. That's one. The other I would say is for the neoclouds themselves, initially, most of the neoclouds started just renting GPUs. Many of them are trying to go more full stack and offer additional services, but be part of the way that AI gets built.
+To be part of the way AI gets built, you have to be part of the customer's workflow. All AI workflows require data and generate data. The neoclouds increasingly are realizing they need to offer cloud storage as part of their offerings. We have a white-label version of Backblaze B2 for the neoclouds, which again, they don't really get from the hyperscalers because they are their competition. If you think of it as we're serving kind of two sides of the market, we're serving the actual builders using AI in order to enable them to use whoever they want, and that's critical for them to innovate. We're also servicing the picks and shovels of AI, the neoclouds and others, who have realized they need to offer storage as part of their workflows for their customers.
+## Speaker 5 | 
+Okay. Yeah. Can you maybe expand a little more and go over a case study of specifically for AI on how Backblaze was able to transform a company going through the AI transition?
+## Gleb Budman | CEO, Backblaze
+Yeah. I'll give, I guess, examples on both sides of that, right?
+## Speaker 5 | 
+Yeah.
+## Gleb Budman | CEO, Backblaze
+On the demand side of things, on the side where the builders are, right?
+I was actually talking to a company just a week ago. They are in the GenAI media space, right? They build a model in order to then use that model for inferencing where the customers can prompt and create video. There are now hundreds of these companies out there, right?
+They are collecting lots and lots of datasets in order to build their models. Those datasets were previously stored on the hyperscaler. They were finding it increasingly painful because not only was the expense of storing the data becoming prohibitive for them for their business, but they were using multiple neoclouds, as well as one of the hyperscalers actually, for the model building for the GPUs. Getting the data to these different places was just crushing them. Right? They moved all of that data over to Backblaze. Now they're able to have one single large data lake with tens of petabytes of data just for them, just for their model building, and they can use it and send it wherever and however they want. It's free to do. It allows them also to innovate faster.
+It's not just about the cost. It allows them to innovate faster because in the past, because it was so expensive to get the data to the different GPU locations, they were doing fewer training runs, fewer iterations on their model because they had to balance. It was too expensive to get the data to the GPUs. They were able to send it when they needed, they could do more training runs more frequently, innovate faster. That first part. The second part goes to the inferencing part. Right? A lot of our customers that came to us on AI side came to us for the model building because that's the first part. That's where they have these large data sets to start. They're a GenAI media company. The whole point is to create videos. Now they're talking to us about the model itself.
+The inferencing is creating videos, and they're storing all these videos out there. Once created, these videos live on at this point forever.
+Maybe at some point they'll decide to not, but at this point they keep them forever, and so that data volume just grows and grows and grows. They need to send those videos to their customers. They want to send them as quickly as possible. It's very important for them to get fast. We've developed something called Shard Stash.
+It's a patent-pending technology, allows you to ingress the data as quickly as possible. One of the things they told us is that ability to get it out of the GPU and into storage as quickly as possible allows them to free up GPU time. Again, it allows them to be faster and more efficient with their business that way. Our free egress and connectivity to all the CDNs means they can use the fastest CDN available. It really is almost an end-to-end workflow that enables their business to not only be much more cost efficient, but actually more innovative and faster.
+That's on the demand side. On the supply side, on the infrastructure side, we've talked about how we've signed multiple neoclouds. If you go to neocloud A, B, or C at this point, and they say they offer storage as part of their product set for a handful of them, it's actually Backblaze underneath white-labeled for them. Right? How has that changed for them? In the cases of two of them, they had storage before. What this is enabling them to do is offer storage that is better, faster, higher throughput. It's a better offering that scales more. For one of them, it was a completely new product offering, so they were able to expand the value they provided to their customers, and have customers be stickier to their entire workflow. Those two examples of how we're helping the two different sides.
+## Speaker 5 | 
+Okay. Yeah, I think during your last earnings, you disclose a lot of traction in AI, right? Including, I think, 76% growth AI customer. Can you maybe discuss more your recent traction in AI and how large you think that can become as a growth vector for the company?
+## Gleb Budman | CEO, Backblaze
+Yeah, I think the other thing that we talked about is that one in three of the new bookings came from AI.
+## Speaker 5 | 
+Yeah, true.
+## Gleb Budman | CEO, Backblaze
+Right? I mean, it's a material change for the business, right? As we look at it, I think we are still scratching the surface of it. The urgency that we're seeing from these companies, one of the examples that we gave was that we signed a customer that was roughly $1 million of ARR, in 11 days. Right? They clicked on a link, and they signed a contract, like an ad, clicked on an ad, and signed a contract within 11 days for about $1 million of ARR. Right? That is a very fast close cycle, right?
+It just speaks to the urgency that these companies are feeling around the infrastructure as a service storage need that they have. I mean, how big can this be? I mean, the market is huge. The opportunity is huge. When I think about just taking this one single GenAI media company, right? This one single GenAI media company that I'm talking about, it's a good size six figure, high six figure type deal.
+That's only the training data, and that's only the training data today. One of the things that they're doing is they're continually adding more to their training data sets, right? One of the things they've talked about is, well, now they want to create these videos not only in English, but they want to create them in all the languages that are available around the world. That's more training data, more training data, more training data to improve their model. The training data grows, but the training data, as far as their business is concerned, is just cost.
+The inferencing is where they will end up getting all their value, so the inferencing has to be orders of magnitude bigger in data than the training. Otherwise, the model for them doesn't work, right?
+Just thinking about it as we signed a customer in GenAI media, high $6-figure deal, fairly short sales cycle. That training data is growing, and then the inferencing side has to be orders of magnitude bigger for that one single customer. There are hundreds of these GenAI media companies today already. That's just on that one single segment. On the neoclouds, we estimate our opportunity for it. neocloud Infrastructure- as- a- Service, just storage at the data lake layer, right?
+Not talking about high-performance flash sitting with the GPUs, which is not what we offer, right? There's a half a dozen companies doing that. There's very few choices for large-scale high-performance data lake. Just that part of it, we estimated about $14 billion.
+We are leaning in heavily into this AI opportunity because of all the opportunity we see. We've built a business that is growing and steady and great, supporting ransomware protection, backup, archiving, media workflows. That continues to be a good, reliable, steady growing business. On top of that, we're leaning in heavily to the AI side because of all this opportunity.
+## Speaker 5 | 
+Yeah, can you maybe go into some of the innovation, like recent product releases or new features or product in the pipeline that you're excited about, specifically in that high-performance data lake market?
+## Gleb Budman | CEO, Backblaze
+Sure. Yeah. I mentioned one, which is Shard Stash. It's not that new. We released it a little while back. It was an example of, I think, how you can innovate on the storage layer.
+Which is one of the things that we heard from people was that the ability to quickly upload small files was important, and we analyzed every single step of the way. When you upload a file, what is every single step that it takes to get that file actually uploaded? We found that the slowest part of it was the acknowledgement itself from the hard drive back to the user, and we were able to build technology to optimize that piece to make it both faster and cheaper than other providers, and we have a patent pending on that. It's an example of technology, not a feature to the customer, but a way that we've built, as one of the people said, the bottom part of the full stack. The part where, how do we optimize the technology stack to make it as efficient as possible using software?
+On the release side, two things that I'm excited about. One is B2 Overdrive. B2 Overdrive was our extremely high throughput offering to the market, and it came from conversations that we actually had around GTC, NVIDIA's GTC last year, not this year, where we talked to customers, and they were talking to us about this need of saying, "I've got this huge data set." When I've got it all assembled and when I've paid for the GPUs to start being available, I need to get this from here to there as fast as I can, because otherwise, those GPUs are sitting idle, and it's extremely painful and expensive. I need to move that data quick. Until I'm ready, that data needs to be in a durable and affordable place. That's an ongoing thing.
+We built this B2 Overdrive, which is an extremely high throughput, up to a terabit per second offering. The other one that we launched more recently is B2 Neo . B2 Neo is the dedicated white label offering for neoclouds. It provides the high throughput, the durability, and everything else, but it also provides manageability controls for the neoclouds to be able to manage rate limits and users and all that.
+## Speaker 5 | 
+Okay. Yeah. As a public company, what do you think investors are missing about Backblaze, like whether on business model, product, team?
+## Gleb Budman | CEO, Backblaze
+Yeah
+## Speaker 5 | 
+What would you like to highlight?
+## Gleb Budman | CEO, Backblaze
+I think-
+## Speaker 5 | 
+investors?
+## Gleb Budman | CEO, Backblaze
+I think one of the things that gets missed is sometimes people go, "Isn't it just a bunch of hard drives?
+Right? We have 300,000 hard drives. We have 5 EB of customer data. I think sometimes the perception of, what's the value beyond the cost of the hard drives, right? I look at that a little bit of as it's kind of the same as saying, well, AWS is just a bunch of servers. Sure, they provide infrastructure, there's a bunch of servers, but it's all the software and infrastructure experience and the technology stack on top of that, right? I think that that's often a misperception. I think that the fact that we have been able to, since we launched B2, it's been about a decade.
+Our price for B2 has gone up, not down, over the course of a decade. I think that that speaks to the fact that we have technology that we have built and customers value above and beyond the cost of the hard drives, which obviously have gone down in cost over the last decade. That's one thing I think sometimes gets missed. I think another thing that we sometimes hear is, what if AWS just lowers their price, right? What I would say is that if you look back, it was the same question that we got almost 20 years ago. At the time, we designed our own infrastructure because they were too expensive. We built all the technology and people said, "What if AWS lowers its price?" It has been 20 years. We are still about 1/5 of their price point.
+I think that it still comes up as a thing, but I would say that that's another one. I guess maybe another thing I would say is sometimes people don't understand there's flash and then there's this data lake layer, and there are at least half a dozen companies providing different types of flash storage. Flash storage is great. It's important, it's valuable for a number of use cases, but it doesn't solve all the use cases. The use cases that it doesn't solve are very big, material, and important, and there's a very small number of choices that customers have for that data lake layer that we, in some ways, I would say, got lucky to be in a place where it is incredibly valuable with AI. It's something we started building before AI was a focus.
+The technology today that we've built over the last 20 years is just becoming increasingly important.
+## Speaker 5 | 
+Okay. Yeah. You can't come to a research conference without us talking numbers. We saw that Google raised $80 billion to fund the AI infrastructure. What are your views on capital that'll be needed for you to fund that, the growth in AI?
+## Gleb Budman | CEO, Backblaze
+Yeah. The world is interesting right now with billions being thrown around here.
+## Speaker 5 | 
+Yeah
+## Gleb Budman | CEO, Backblaze
+There and everything, right? What I would say is Q4 of 2025, about a year leading up to that, we had said Q4 of 2025 was going to be our first adjusted free cash flow positive quarter since being a public company. We hit that milestone. The next milestone we set for ourselves was that 2026 is going to be our first adjusted free cash flow positive year.
+Right? We expect to hit that milestone, right? We don't intend to need to raise capital. Having said that, as we leaned into offering the neocloud storage, we've signed multiple neoclouds. We signed a six-figure deal, a seven-figure deal, and most recently announced an eight-figure deal, right? That requires capital build-out to support those. Again, for all of those, we can do them under our own steam. We are talking to a broad range of neoclouds. We are talking about large-scale opportunities around those. If some of those materialize at enough scale, it is possible we will want to support those. We have about $100 million on equipment lease line that we have. We generally fund equipment out of equipment lease lines that align with revenue, as opposed to raising capital. We don't need money to run the business.
+If the business materially accelerates, that's always a possibility.
+## Speaker 5 | 
+Yeah. When you look at long term, next three, five, 10 years, given the change that Backblaze is going through, what would you define as success?
+## Gleb Budman | CEO, Backblaze
+Well, I think that the industry is going through this re-platforming.
+## Speaker 5 | 
+Yeah.
+## Gleb Budman | CEO, Backblaze
+For the first time in two decades, right, we can see that the hyperscalers are not the only game in town. I think that our opportunity is aligned with that, right? Our opportunity is aligned with the fact that part of the re-platforming that's happening is these neoclouds, and some analysis talks about almost 200 neoclouds out there, right? The part of our opportunity is to be a essential infrastructure provider to a number of those neoclouds while we, in parallel, directly support the thousands and thousands of AI builders out there, with the essential infrastructure that allows them to use all of the providers that they want. I think we have a very big opportunity here. We've built this fairly unique storage platform and outside of the few hyperscalers who've also built impressive storage technology.
+If you want a white label offering as a neocloud, or you want a provider that provides you independent access to all the things you want to use as an innovative builder, the choices are very few. As we look at it, just the infrastructure as a service storage market alone was forecast to be approaching $100 billion, right? That's just the infrastructure as a service storage market, and that was not really fully accounting for the AI impact of all of it into the future. As I look at it, I think success is us being essential infrastructure for the neoclouds for storage, us being the preferred provider for the storage platform for AI builders who want to be the most innovative and use the different services out there.
+Having that be reflected appropriately in the value that we're providing and the value we're receiving.
+## Speaker 5 | 
+Got it. Yeah. I think I'll open into the room for questions. Anyone has question? Yeah. All right. What kind of message would you like to leave to some of the investors that are here, specifically about Backblaze?
+## Gleb Budman | CEO, Backblaze
+Yeah, I think that, for many years, we were providing a service that was cloud backup in nature, small business-focused in nature. Even when we went public in 2021, our average customer paid us about $500 a year. On our last earnings call, we talked about a customer that signed a contract for over $15 million. Right? I think that the market perception, in some ways, hasn't caught up with the reality, and certainly not the opportunity. Right? Thinking of the reality of it is we went from servicing customers paying us $500 a year to ones that are signing $15 million contracts and where that can head from there, because again, that's an initial contract. That's not a total opportunity capture. That's in a land before an expand. Right?
+I think that the good news about having half a million customers and being around for 20 years is there is a certain level of awareness for the company. The bad news is that the perception around that awareness is tied to the rear view mirror, not today and not the future. I think that today we already are providing essential infrastructure to a number of neoclouds. We already have one out of three new customer bookings coming from AI natives. That's today, and I think that only scratches the surface of where our opportunity is tomorrow.
+## Speaker 5 | 
+Yeah. How do you think about managing basically two businesses, right? Which is the incumbent portion of the business, computer backup and the SMB mid-market cloud storage, at the same time as you're also transitioning to that new AI cloud storage story, right? How do you manage the way you're positioning, the way the street is going to view the company, and what are your views whether or not you need to keep both?
+## Gleb Budman | CEO, Backblaze
+The computer backup business is still a great part of our business. It's a durable, cash-generating, great part of the business that also provides access for us to go to those people and sell our other services, right? That's a good, solid, ongoing part of the business. B2 is the growth engine.
+## Speaker 5 | 
+Yeah.
+## Gleb Budman | CEO, Backblaze
+Right? The nice thing is we've got a good, predictable business on that part, and frankly, we have a good, predictable business on B2 in the use cases that we have served for a long time with ransomware protection, archive and backup, and the like. The AI opportunity with B2 is the inflection point, and the inflection engine for us to drive business.
+## Speaker 5 | 
+Okay. All right. Question?
+## Speaker 4 | 
+Maybe briefly touch around the inventory that you have and the age of the infrastructure that you're dealing with. I think recently announced that you extended the useful life of your hard drives, I think, from five to six or six to seven years. Just generally, how do you think about if there's a new longer runway on this, and then the memory supply for your business, does it constrain at all?
+## Gleb Budman | CEO, Backblaze
+Yeah. It's a good question. Certainly, the supply side of the business is interesting, just globally for anybody dealing with supply today. One thing that I would say is, your first question was just about the ages of the inventory. We are regularly cycling inventory out, right? Obviously hard drives that we bought 20 years ago are no longer in our system, right? We migrate data on a somewhat continuous basis as the drives age out. We did that useful life study where we found that we were depreciating much faster than the actual lifespan of the drives. In fact, we publish these very popular hard drive reliability statistics where we show what the failure rates of drives are over time. In general, the drives still tend to last longer than what we have as useful life for them.
+I think we're being conservative on what the reality there is, but it is more reflective than where we were in the past. In terms of the memory side of things and the hard drive and just supply constraints, the good news for us is that while supply is constrained across almost everything technology-based today for infrastructure, hard drives are not as constrained, or the prices are not as significantly skyrocketing as memory and some of the compute prices. We do buy some of those other components also, but they don't make up the bulk of our CapEx. In general, it's something that we work very hard on to keep good relationships with multiple vendors and have longer purchases and have pre-commitments and the whole bit, but it's not as tight as if we were in some of the other spaces.
+It's actually been one of the benefits, frankly, for us. Some of our customers have said they were previously buying and intended to buy more flash-based systems as a way of storing data. Because those systems and the underlying components are becoming increasingly expensive and in increasingly short supply, they are looking for ways to offload those systems and only keep what is absolutely necessary to keep on flash, but get a data lake for a layer for what they can, and we're a great offload for that.
+## Speaker 5 | 
+Okay. Thank you, Gleb. Appreciate it.
+## Gleb Budman | CEO, Backblaze
+Thank you, Franz. Appreciate it.
+## Speaker 5 | 
+Okay. See you. Take care.
+Data Source: Quartr Last updated: Jun 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (5) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

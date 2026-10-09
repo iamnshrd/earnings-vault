@@ -1,0 +1,29 @@
+# Скопировать в profiles\<TICKER>.yaml и заполнить ВСЕ поля.
+# Неизвестное оставлять пустым с комментарием TODO (агент внесёт это в «Недоступные источники»).
+ticker:
+name:
+cik: ""
+kalshi_series:
+fiscal_note: ""            # какой квартал когда заканчивается
+speakers:                  # проверять по последнему транскрипту
+  ceo:
+  cfo:
+  operator: true
+  ir: null
+call_format: regular       # regular | analyst_call
+rules_note: ""             # кто засчитывается (аналитики / operator)
+same_quarter_calls: []               # даты прошлых звонков того же квартала, что и целевой
+monthly_sales_pattern: null
+sources:
+  ir_news:
+  ir_events:
+  sec_filings:
+  sec_api:
+local_transcripts:         # папка прошлых звонков (последние 8)
+transcript_sources: []     # какие источники текстов и по каким годам: [{source: , years: []}]
+peers: []
+news_queries: []
+news_topics: {}            # темы поиска новостей по типам страйков: {product: [], partners: [], macro: [], corporate: []}
+conference_speaking: []
+speaker_events_sources: [] # площадки/форматы выступлений: конференции, подкасты, интервью, годовое собрание, письма клиентам/членам, заявления о тарифах и ценах
+notes: ""

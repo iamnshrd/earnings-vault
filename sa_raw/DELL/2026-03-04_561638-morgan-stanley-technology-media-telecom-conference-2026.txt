@@ -1,0 +1,281 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-04
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Let's get started here. Welcome to day three again, the afternoon of day three. My name is Erik Woodring. I lead the Hardware Coverage here at Morgan Stanley. I'm delighted to be joined by Dell Technologies CFO, David Kennedy. Before we get started, a few things. From my end, please see Morgan Stanley research disclosure website at morganstanley.com/researchdisclosures. If you have any questions, please reach out to your Morgan Stanley sales representative. From the Dell side, statements in this presentation that relate to future results and events are forward-looking statements and based on Dell Technologies' current expectations. In some cases, you can identify these statements by such forward-looking words as anticipate, believe, could, estimate, expect, intend, confidence, may, plan, potential, should, will, and would, or similar expressions.
+Actual results and events in future periods may differ materially from those expressed and are implied by these forward-looking statements because of a number of risks, uncertainties and other factors, including those discussed in Dell Technologies' periodic reports filed with the SEC. Dell Technologies assumes no obligation to update these forward-looking statements. David, first time at the TMT conference.
+## David Kennedy | CFO, Dell Technologies
+Yep.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Early in your career here as CFO at Dell Technologies, a lot to talk about, dynamic world. Thank you for joining us.
+## David Kennedy | CFO, Dell Technologies
+Yeah, appreciate it. Thank you.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+I think the best and clearest way, place to start, you reported earnings less than a week ago, last Thursday night. There's a lot to unpack, but I wanna start kind of high level, which is you got into over 20% revenue growth, 25% EPS growth in fiscal 27. You have tremendous momentum in AI servers that we'll kind of dig more into. You're also extremely bullish on kind of core PC server and storage. High level, just give us a lay of the land as you see it today and how that influences as you look out over the next 12 months.
+## David Kennedy | CFO, Dell Technologies
+Yeah, sure. I think, look, I guess from a top-down perspective for guidance, let's start with revenue, right? As we did our results, we talked about our $43 billion of backlog from an AI perspective. That's a great anchor tenant from a revenue perspective as we get into the year and look at the growth that's potential that's out there. You look at our Q4 results, record in terms of revenue and EPS, both on an accelerating curve as we went through the year and backended through that. You come into the year ahead and you think you're pretty bullish then from a revenue and an AI perspective. When we look at the core business, as we've guided Q1, it's more near term.
+As we look at Q2 to Q4 and the rest of that year, look, we've tried to stay prudent from a revenue guide perspective in the core. It's pretty dynamic out there as everybody knows. From a supply chain perspective, making sure from a cost perspective, pricing, I'm sure we're all going to learn in terms of elasticity and how that looks for the year ahead. You know, given the trajectory, the customer conversations we're having, the problems we're trying to solve for our customers, the revenue piece is in that range then for guidance. EPS last year, 27% EPS growth, guiding to 25% growth for EPS this year. Look, we feel we've a robust set of tools in the toolbox. Four key levers really. One, the revenue lever, which is a big component.
+We've just touched on that. Two, from a margin rate perspective, as we look through there, we'll talk about, I'm sure by line of business, but really enthused with our Dell IP storage portfolio and the size of that and the capability of that to mix margin rate enhancement for us. Number three, we've been on consistent execution around OpEx management, particularly as we scale the business and show this decoupling between the revenue growth and controlling OpEx dollars, which obviously gives you the scale that you get in the P&L. Look forward. We've been very, very consistent in our execution from a working capital perspective in relation to giving back the cash that we generate back to our shareholders. You know, 54 million shares repurchased last year, 14.9 million shares in Q4.
+We're gonna keep a consistent posture on returning our cash flow to our shareholders in the year ahead. You put those four things together, and we think we've good agility from an EPS perspective as we head into the year.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. All right. That's a perfect place to start, now we'll, kind of dig into each one of those. Again, you started, kind of what you, what you were talking about with AI servers. I'm gonna do the same here. $34 billion of orders in the quarter, backlog of $43 billion, a pipeline that is growing sequentially, despite the fact that you're able to convert a significant amount of that pipeline into orders. Again, your AI server business, as you guide it, is effectively doubling again, something that's gone from nothing three years ago to expectations for $50 billion, in the coming year. You know, if that doesn't make the audience bullish on AI CapEx after Jensen earlier today, I don't really know what does.
+Outline for us what you're seeing in terms of trends, demand at the market level, but more importantly, what you, Dell Technologies, are doing to be that clear market leading OEM.
+## David Kennedy | CFO, Dell Technologies
+Yeah, sure. You've given all the stats there which kind of bear fruit as we've executed. I think the key one for me in that is we went from a net new $34 billion of demand sequentially in the quarter, but yet our dollar pipeline, dollar value has never been higher now than it has been in history, right? You think of converting the pipeline that we saw in Q4, and we've replenished that and seen the opportunity that comes. That has come in a fairly broad base. The statement holds true whether you talk neoclouds, whether you talk sovereign opportunities, or whether you talk the enterprise expansion. From an enterprise perspective, we talked 90 days ago when we did Q3 earnings about having 3,300 enterprise AI customers in our install base.
+Just last Thursday, we, you know, we updated that 90 days later to be 4,000+. That sequential jump, that was the strongest enterprise quarter we've had. Now you look at our pipeline, all pipeline verticals grew. The percentage increase that was the fastest was that enterprise cohort as well. We kind of see it across the various customer stacks that are within the AI portfolio. All of it points to an accelerating appetite for compute-
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yeah
+## David Kennedy | CFO, Dell Technologies
+... pretty much.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Can you maybe touch on the secret sauce that Dell has been able to use to differentiate itself from others in the market? You know, again, I look across my coverage.
+## David Kennedy | CFO, Dell Technologies
+Yep
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+... nobody's doing what you're doing in terms of AI servers. Where does the secret sauce come from for you guys?
+## David Kennedy | CFO, Dell Technologies
+Yeah, look, from us, from an execution perspective, number one, from an engineering standard, expectation, you go into power, cooling, extend out into the installation, the deployment, the service. You put all those suite of execution together to build, deploy, and make sure when we turn the lights on, it turns on, it stays on, and it stays up over 99% of the time. All of that's executing, and I think we've plenty of referenced big rollouts in our favor now to showcase that's a differentiator capability.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm
+## David Kennedy | CFO, Dell Technologies
+... that we've seen. We wanna build on that as we kinda go forward. Look, the exciting piece is we work with these customers well upfront. We're part sometimes of the data center design process.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yeah.
+## David Kennedy | CFO, Dell Technologies
+We work the way through the architecture and the deployment schedules. Complexity we expect to see, we're taking the learnings in and replicating that as we kind of go forward. It's serving us really well right now.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. Maybe a follow-up to that. A few years ago, Arthur, was on stage here talking about kind of the robust storage and services attached.
+## David Kennedy | CFO, Dell Technologies
+Yep
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+... that you could get with AI servers. Talk to us about that opportunity now two years later. Does that opportunity exist? You know, compute very much seems to be the priority right now.
+## David Kennedy | CFO, Dell Technologies
+Yeah
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+... maybe talk to us about how... whether that opportunity exists, contextualize it for us a little bit?
+## David Kennedy | CFO, Dell Technologies
+Yeah, for sure. Look, again, in the majority of our AI server deployments that we're doing, we have service attached tied to it, so it's all part of the pricing, the value that we extract as we go execute. A huge opportunity from a storage attached perspective as we go forward. You know, we talked about Project Lightning, that was one from a Dell perspective. You know, we're on track to be in production and deployment of that here in the first half, and the parallel file system that is part of the ecosystem. As an extension of that from a use case, from an enterprise perspective, as we work with those customers, a unique opportunity there also. Yeah, it's very much a opportunity in front of us.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. Okay. Maybe last question specifically on AI servers is. You had your Analyst Day five months ago. You outlined a path to 25% annual growth for your AI server business over the next four years. You're doing that this year. You pulled it forward three years. Has the market accelerated just that quickly in the span of time? Is there something you're doing, differently or been able to capture share that maybe you didn't necessarily expect to? Just talk about how you've been able to kind of pull that forward?
+## David Kennedy | CFO, Dell Technologies
+Yeah.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+... recently.
+## David Kennedy | CFO, Dell Technologies
+I think it's all of the above, quite frankly. Look, if you go back to our Analyst Day, I think the joke at the time there was when we called the AI number two years previous to that, you know, we were wrong, and we were wrong by a lot. I think we predicted when we did last October, the chances that we'd be wrong again on the upside were realistic, if you like, right, as part of it. Obviously, just from then to now, an accelerating appetite for investment, for sure. We would also dovetail on that in terms of the deployments that we've done and the execution that we've done as part of that.
+We think we're starting to differentiate ourselves in terms of taking on some of these big, large projects that are in place, you know, doing them at scale, showcasing the value proposition that we can bring along those things I mentioned earlier. In particular, once we turn it on, it stays on, and it works, and it deploys at scale. I think from there, as a lot of our customers go in to purchase number two or three or four-
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm
+## David Kennedy | CFO, Dell Technologies
+we're building a strong reputation with them, and the building blocks keep going then.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay
+## David Kennedy | CFO, Dell Technologies
+... a lot of opportunity.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Maybe just the follow-up to that, the longer term follow-up is that, is there a way that you can kind of help us think about now that trajectory from here? Obviously, there's a lot of dynamicism when it comes to kind of the compute market. You heard Jensen earlier today talking, you know, trillions and trillions.
+## David Kennedy | CFO, Dell Technologies
+Yeah.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+What's the longer term outlook? Second to that is, how do you make sure that you protect yourselves against some of the lower priced Taiwanese ODMs, making sure that you can defend what you've done and stay with the customers that you have and grow with them?
+## David Kennedy | CFO, Dell Technologies
+In terms of the future, I guess let's talk next five-quarter pipeline, which is generally kind of the metric we'll be staring at in the meantime. The dollar value of that pipe, like I mentioned, has never been higher.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+As much as we did $64 billion of orders last year, $25 billion of shipments, $43 billion of backlog. We've committed to $13 billion of Q1, which is effectively $1 billion a week of shipments going out the door. If you look at the size of the pipeline, a big mix of vSAN opportunities within that now.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+Obviously our backlog is predominantly Grace Blackwell backlog that's there from that. That's a good technology changing point that we're observing. We're gonna be aggressive to get out there and look to partner and win that business, in addition to trying to secure supply to kind of go drive that level of scale. We'll do that. Back to your second part of the question. Look, again, our values, we look at the production cycle here from, you know, the L11 scale and beyond, those engineering centers, those activities, I'm sure we might touch on OpEx in our P&L later. Within our OpEx framework, we are making sure we're investing. Investing in our go-to-market teams.
+As AI opportunities expand in the enterprise, we're building out the right pod structures and the right capacity to go execute that. Also, too, giving Arthur Lewis and his team the engineering capability, the labs and the investment, so they're not working just on, let's say, Rubin but the next gen beyond that and beyond that. We're ahead of the game right now. Our job is to stay ahead.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yep.
+## David Kennedy | CFO, Dell Technologies
+We maintain the value that we can find in our P&L.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. That's perfect way to end kind of the AI server discussion there. Let's move to the traditional side of the business. You know, you guys outlined a scenario in your fiscal FY27, calendar 2026, so to speak, where, you know, there is an unprecedented memory cycle, but you are extremely confident about both being able to grow and expand margins across kind of that core business. Just talk about how you're able to do that.
+## David Kennedy | CFO, Dell Technologies
+Yeah. I think this is not business as usual.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+Old playbooks don't necessarily work. We're probably taking a lot of what we learned from the last cycle, albeit not as acute from a COVID timing, and accelerating new things as part of that. Traditionally in this environment, might have heard a lot of narrative around, hey, if you can recover two-thirds of a cost increase in 90 days, that's good execution. That would be failure in the environment we're in. This is event management. It has to be totally different than that. The speed and decisiveness of decision-making just has to be different. We think we're really good at execution, and I think we can differentiate ourselves. Give you one tangible example. Back on December 10th, we would have looked at thousands of our traditional server quotes ready to go out.
+Pulled every one of them, every single one of them back out of the ecosystem, went dark for about 36 hours, replenished them all back out into the field, and ultimately saw minimal demand destruction in that initial period, but saw the instant immediate margin protection and stabilization within that period, if you like, right. We've executed that muscle and that speed, we're gonna rely on as we go through the rest of the year, given we expect costs will continue to go up.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+Hopefully at a slower rate, but continue to go up. We're gonna learn, we're gonna observe different lines of business, react differently to elasticity and various things like that. You know, we're gonna back ourselves to be really decisive in our decision-making and make good calls.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. I don't wanna kinda ask the high-level question across elasticity because each business is gonna respond differently. Let's maybe touch on PCs first.
+## David Kennedy | CFO, Dell Technologies
+Yeah.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+You're guiding to low single-digit year-over-year revenue growth, 1% year-over-year revenue growth.
+## David Kennedy | CFO, Dell Technologies
+Yep.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+You know, we're coming off of what was... Maybe we had the strongest PC growth rate in quite some time, although it was a bit out of a way to get there, right? You had tariffs and you had Windows 11, and you have old PC refreshes. Talk about the drivers of demand as you see them this year, and especially, you know, you mentioned prices are gonna move higher. How do you make sure that that elasticity kind of stays below one, so to speak? No matter how much you're raising prices, even with the unit offset, you're still growing.
+## David Kennedy | CFO, Dell Technologies
+Revenue. Yes, correct. I mean. What we guided to was revenue growth.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yeah.
+## David Kennedy | CFO, Dell Technologies
+Purposely, we didn't guide to unit growth because, again, there's a vector from an elasticity perspective there. Like, if you step back and look at the PC market, we have a refresh to Windows 11 that's probably the slowest refresh we've seen, about 10 points behind historical refreshes. There's still hundreds of millions of Windows 10 PCs in operation out in the field. Based off that, there's still a robust refresh to take place. Now in the event management of the supply environment, we expect units to start the year. We talked last week on our call -11%, -12% market, which kind of is at odds with a refresh cycle that should be happening.
+There's still a lot of units to refresh, and it's, it looks like it'll take longer to do that as part of the conversation. The next question is, as and when prices and costs change and go up, what's the reaction to the unit velocity as part of that? We're gonna learn as part of that. We do expect the back half of the year to be deeper, probably high teen, double-digit negative growth. We're gonna stress test elasticity. I mean, to your point, we have priced if we have to Price more, and it takes some units out of the ecosystem, well then we still feel our revenue guide is pretty solid. Obviously in our modeling, we've kept a few points of prudency in that to give ourselves a little wiggle room.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Jeff has taken the helm at CSG, obviously. You know, you hear him on the call.
+## David Kennedy | CFO, Dell Technologies
+Yeah.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+He is fired up about what he's doing with that business. Is there any change in approach that you guys are taking with CSG? Because, you know, you'll hear him be critical of the team on a backwards look and say.
+## David Kennedy | CFO, Dell Technologies
+Yeah.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+We are an execution machine. We should be doing better for ourselves." What do you guys do and that's different to drive kind of that excellence that he speaks about?
+## David Kennedy | CFO, Dell Technologies
+Yeah. I guess two things. First, on the products. We announced probably 90, 120 days ago, we needed to expand our TAM.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+Below in the commercial, education, and in consumer, we launched new products and set out a broad base to touch more of the TAM from a share perspective as we do that. That's launched, and that's up and running. Then from a perspective, it's getting back to what we talked of in terms of execution, but trying to do it at scale, that the teams haven't seen, if you like, right? I mentioned that two-thirds of costs in 90 days, we're showcasing that doesn't work. It's not good enough to execute at those levels. If you think of even when we executed really well in a supply-constrained environment like COVID, we've modernized our company a lot more since then.
+We have way more systematic tools now to raise discounting, move discounting up and down to change list pricing. The speed of change that we can get through the system, we measure it in hours.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+as we think from, like, weeks or months.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yeah.
+## David Kennedy | CFO, Dell Technologies
+It allows us to get to market much, much quicker. It's nothing like event management to focus the mind and, if you like, war room it and be ready to go in terms of execution.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. you know, let's put kind of the memory dynamic to the side, if we just take a kind of bigger, broader look at the CSG business, you've guided at their Analyst Day to kind of low single-digit growth, high end of low single-digit growth there. how does Dell... Or maybe the question is what's going on in the marketplace, for example, a Windows refresh cycle that's just taking a bit longer...
+## David Kennedy | CFO, Dell Technologies
+Yeah.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+new products leaning into expanding your TAM. Does that change at all how you think about CSG on kind of a multi-year period?
+## David Kennedy | CFO, Dell Technologies
+No. I mean, look, CSG is part of our DNA. It is the most capitally efficient line of business we have in our P&L. Very much part of the complementary piece that we have in terms of our broad stack. Now more than ever, you see that opportunity.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+-in a supply-constrained environment where we sell a broad-based structure all the way from a consumer PC up to the biggest data center e-evolution. That's giving us leverage to a degree.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+in relation to getting supply and having those strong relationships that allows us to balance some of those things off. For lots and lots of different reasons, notwithstanding the big refresh of hundreds of millions of PCs, it's going to be a vital part of our P&L for a long, long time.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. Let's shift to storage. Your outlook implies, call it around low single digit year-over-year growth, revenue growth this year. Kind of multi-part question, you know, how much of that is kind of pure market momentum behind enterprise AI? How much of that is just Dell outperformance or expected outperformance and share gains? Why don't we start there?
+## David Kennedy | CFO, Dell Technologies
+You're right. We've guided to low single-digit for the year as part of the opportunity. Look, I think we're at a really cool inflection point for our storage business. We have a Dell IP portfolio, so it's not new. It started with PowerStore. We are now on, from a mid-range perspective, we are now on eight quarters of growth, seven quarters of double-digit growth. As we've expanded out with PowerMax, PowerScale, PowerFlex, that portfolio as an entity grew 12% at a demand basis last year, almost two times the market, and exited the year, you know, at its fastest acceleration. We've been working hard with Arthur and his team to up our R&D and kinda get those products rolled out. We're seeing that now, and that's resonating.
+That opportunity is probably the biggest piece from a scale perspective. You see the outcome of that in terms of profit already in our P&L if you look at the Q4 results, our Q1 guide. The mix of Dell IP storage is the biggest lever as to why we say our core margins, excluding AI, can show a bit of expansion.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+It's that Dell IP storage factor that's there and building on what is now multi-quarter growth trends as we look out into the year ahead.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+The follow-up to that is just, you touched on it earlier, but Project Lightning was something that Michael teased at Dell Technologies World, I think it was two years ago.
+## David Kennedy | CFO, Dell Technologies
+Yeah.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+A year or two years ago. It's going GA in the first half of this year. What does that do for the storage portfolio?
+## David Kennedy | CFO, Dell Technologies
+Yeah. Yes, it's here. First half, we're on track, and we'll be putting it in customers' hands and shipping here in the first half of the year. Obviously, it's very complementary from a AI workload perspective.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+Actually it's really great timing as we see this accelerating demand from a AI GPU perspective. you know, we can talk about a solution of technology that goes beyond just the compute piece and actually build it up through the stack that we can offer. Again, we're looking to showcase to be the number one technology partner as customers build out their enterprise suite, not just the GPU piece itself, but we can expand now into storage and having the products there like Project Lightning to enable that is exciting for us.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay, okay. Finally, on the traditional server business, you know, maybe the question is, does a kind of a once in a generation kind of price hike hinder the momentum behind Dell, what you're seeing in kind of the CPU-based server market? Just talk us through how you see the market and the CPU-based server market evolve in 2026 at both kind of the macro level but then-.
+## David Kennedy | CFO, Dell Technologies
+Yeah
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+... the Dell specific level.
+## David Kennedy | CFO, Dell Technologies
+I mean, if you look at the macro level of the market, there is still the vast majority of units are still 14G, and haven't evolved into the 16G, 17G opportunity that's there. The install base and the desire to continue to modernize the data center is still prevalent, which means pretty strong growth, if you like, in terms of that market. It also benefits just from the tail of general AI workloads that's there.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm
+## David Kennedy | CFO, Dell Technologies
+... as it comes off the edge in relation to a standard enterprise customer. That showcases a robust environment. We're seeing that. If you take the price increases got into the marketplace since December to today, it's had very little impact on demand. The demand is still outstripping supply in the marketplace in relation to that. That's how we've kind of guided our year ahead for traditional server. We've guided to kind of high single-digit growth. I would say I would kind of give you two pieces to that. One, strong double-digit growth in Q1, very reminiscent to Q4, and just holding a slightly more prudent view for the rest of the year, with opportunity to expand beyond that. Again, we're gonna learn a lot in terms of elasticity as we go.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yeah. Fair, fair. Something that I think is underappreciated is how much you guys have been able to scale OpEx. If we look point to point on the last five years, your revenue base has grown $40 billion.
+## David Kennedy | CFO, Dell Technologies
+Mm-hmm.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Your OpEx base is down $1 billion. That's kind of unprecedented.
+## David Kennedy | CFO, Dell Technologies
+Yep
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+... as I've seen it in my coverage. You are still investing in future growth opportunities. Just talk to us how you've been able to do that, but then also how sustainable that is as you look forward and you think about these emerging growth opportunities that are still on the come.
+## David Kennedy | CFO, Dell Technologies
+Yeah. The scale is obviously pleasing, and it gives so much flexibility to the P&L. Obviously, you get the scale from the revenue piece. We'll put that to a side.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yep.
+## David Kennedy | CFO, Dell Technologies
+You guys see that. Look, from a OpEx dollar perspective, we've started an almost like a customer zero. We started our modernization, standardization, optimization, you know, over two, three years ago. In the early streams of that, a lot of it is, you know, doing reprocessing work, like, you know, literally just pulling apart different ways we do work and being aggressive with that footprint. Look at that gave us a lot of outcomes, if you like, right, in all functions. I can give you some examples as we kind of chat through that. That enabled us to take OpEx in dollar terms down the last two years in a row. We've guided for this year OpEx. It's slightly up, like flat to +1%. 1% is the guide that we've given.
+There's really no change in the posture of what we're trying to do. As we go forward, our modernization efforts are gonna continue. The next wave is to layer in more and more agentic scale into the company. We've lots of use cases already. As an example, even in my own finance world, using agentic capability to, you know, book journals, you know, invoice, collect cash, do all those various things. Very much alive and well. All my peer group within the company are aggressively modernizing at the same time. We're gonna continue to do that and find scale from an OpEx dollar perspective. We've guided to make sure we have flexibility to invest to, like I said earlier, the sales side and the...
+More importantly, in Arthur's R&D side from an AI perspective to keep that value proposition ahead. Yeah, we still think there's plenty of road to travel here in terms of opportunity. What better way to showcase the power of AI to an enterprise than actually show it in our own company's performance?
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yeah.
+## David Kennedy | CFO, Dell Technologies
+We're giving lots of those use cases as we talk to many reference accounts now across the enterprise.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. Before I touch on capital allocation in kind of a final question.
+## David Kennedy | CFO, Dell Technologies
+Mm-hmm
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+The speed to market that you guys have been able to have, in terms of, you know, this canceling purchase orders overnight, reprice, you know, going dark.
+## David Kennedy | CFO, Dell Technologies
+Mm-hmm
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+... 36 hours, repricing, it is kind of unprecedented, so to speak. You talked about how the old model was offsetting two-thirds. Now we're stabilizing.
+## David Kennedy | CFO, Dell Technologies
+Yep
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+... the night of. How does Dell just protect against demand pull forward? I know you've kind of said there might be a little bit in there, but how do you protect against making sure that that doesn't become a headwind?
+## David Kennedy | CFO, Dell Technologies
+Yeah. Look, I think one of the gating factors is obviously the supply in the marketplace.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yep.
+## David Kennedy | CFO, Dell Technologies
+I guess I should have mentioned at the start, one of the anchor tenants of our guidance for the year is we have supply to achieve our guidance...
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm
+## David Kennedy | CFO, Dell Technologies
+... not just for Q1, but for the full year. If we're to look at some of the demand asks that we would see from customers today and replicate that for a full 12 months, there isn't enough supply to fulfill that.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Mm-hmm.
+## David Kennedy | CFO, Dell Technologies
+Our job and what we wanna do is try and help as many of our customers as we can. Within that, you know, there's a relationship thing that matters there where, hey, because it's pretty obvious we can see if there's a demand app pull in. We know the historical buying patterns and AMO that's in those accounts that we can see.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Right.
+## David Kennedy | CFO, Dell Technologies
+It's like we're gonna ask you to trust us to say, "Hey, show us the real trend in linear requirement you have from your perspective." If we can get into a supply access conversation, then unlock you in over multiple periods, you know, and you can lock on that, and then we can go to the next customer and work our way down. We're just not in a position to, and we don't want to, put all the supply into a more finite set of customers who don't need the compute power yet and leave some really reference accounts and customers that we have in our install base stranded, quite frankly. We're, we're trying to maximize the number of customers we can help with the supply that we have.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Yep.
+## David Kennedy | CFO, Dell Technologies
+We're gonna keep doing that all year as best we can do.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Turn to capital allocation, a really exciting story at Dell Technologies. You've raised your dividend more than 10% annually for the last three consecutive years. The board just authorized another $10 billion buyback authorization. I think your goal is 80% plus of free cash flow to return to shareholders.
+## David Kennedy | CFO, Dell Technologies
+Correct.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+You always leave that plus at the end to make sure it's kind of open-ended on the upside. Just talk about the philosophy behind that, the opportunity to perhaps deliver on top of that which you've been able to do opportunistically. Where could we see that 80% actually trend into that plus part of the 80% plus?
+## David Kennedy | CFO, Dell Technologies
+I mean, I guess inception to date, since we launched this program about three years ago, we're at 84% inception to date, so slightly ahead of that 80%. It can go up or down a bit in any given quarter, given cash performance or if we can see opportunistic areas from a stock repurchase perspective to do. If you look back at the year we've just completed, there was, you know, our solid framework of repurchase, which is programmatically set, that's our baseline. Then we did two opportunistic buying patterns in FY26. One was last Q1, when the market was pretty bearish. We, I think we purchased as many shares in Q1 last year as we did the whole previous year.
+The quarter we just finished, we actually increased sequentially our share buyback by $700 million to $1.9 billion. Took 14.9 million shares out of the market. Again, that's a reflection of us seeing a strong cash position coming in that we could see, looking at what is a kind of a bearish or volatile market that's out there and being opportunistic then to give back and find that value for shareholders. We don't guide to cash, but we expect a pretty solid cash year again as we go forward. Nothing from normal levels you would see from us. Our commitment is to make sure we put it to good use and continue to reward the shareholders.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Okay. We're butting up against time here, so I. We covered a lot of ground today. Servers, traditional business, memory costs, all of the good stuff associated with Dell Technologies. I appreciate the candid insights, and just kinda wanna leave you with a final word here for everyone in the room, which is either what most excites David Kennedy as we look forward, what you think might be under appreciated as we look forward, and we can end there.
+## David Kennedy | CFO, Dell Technologies
+Look, we're coming off what was a record year for our company. Highest revenue, highest EPS that we've had, and we wanna make that all news, and we're guiding to make FY27 the best ever, right? As we look at that, we've never been more confident in our agility in terms of the ways we can get there and how we can do it to go execute. We mentioned at the start, our revenue opportunities is an accelerating appetite in the market. Our execution around margin and Dell IP storage from a margin rate accretion perspective. Continuing our OpEx scale, which we've a very tight rein on the dollars being spent, and then putting cash to good use.
+You put those things together, we think we've a pretty robust framework to kind of go execute and gives us flexibility to lead into different things and try different things as opportunities emerge. We couldn't be more excited about. We see the environment right now as an opportunity. We wanna solve as many customer problems as we can. The phone is ringing, and they're looking and coming to us in times of uncertainty, and we wanna be there for them again this year. Yeah, a great year ahead, Erik.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+That's a perfect way to end, David. Thank you very much.
+## David Kennedy | CFO, Dell Technologies
+Appreciate it. Thank you.
+## Erik Woodring | Managing Director and Head of U.S. Technology Hardware Research, Morgan Stanley
+Awesome.
+## David Kennedy | CFO, Dell Technologies
+Thanks, team.
+Data Source: Quartr Last updated: Mar 4, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

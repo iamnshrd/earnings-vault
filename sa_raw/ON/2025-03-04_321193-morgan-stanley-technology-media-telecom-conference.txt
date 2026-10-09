@@ -1,0 +1,217 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference
+DATE: 2025-03-04
+## Joseph Moore | Managing Director, Morgan Stanley
+So guys, welcome. Maybe we just jump right into some of the tactical issues. You described some recent headwinds on the most recent earnings call. Can you just give a quick summary of where you guys sit in the market today?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. If you look at overall, I've been very consistent on my outlook for 2025. You know, we are not managing to a recovery. However, what we are managing to is the opportunities that I think they're across the board. So if you think about the opportunities that we've been investing in over our transformation, it has been automotive electrification, industrial, and energy management, and infrastructure. And then, of course, I mean, and then, of course, the AI.
+## Joseph Moore | Managing Director, Morgan Stanley
+Thank you.
+## Hassane El-Khoury | CEO, ON Semiconductor
+This is a good time, I say. I can't respond.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah, that's good.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Of course, the AI opportunity. Everything revolves around the power and the intelligent power, which is a core element of our strategy. Then on the other side, specifically on automotive and industrial, is the sensing portfolio that we have. No change from the growth trajectory. We've always said it was gonna be bumpy. It's very bumpy in the short term, but that is the course that we have to take. What we are doing is we're adjusting our outlook and adjusting positioning the company. The focus is not for this quarter. The focus is not next quarter or following quarter. The focus is making sure whenever a recovery does happen, and it will, we are stronger coming out of it than we did going into it.
+And just to remind you, we went into it much stronger than the company has ever gone into a downturn. Prior downturn, the company used to deliver 30% gross margin. Right now, in a downturn, we've delivered at the 65 equivalent utilization. We've delivered 45% gross margin. So structural strength, we've proven that we're able to manage through a downturn. Now the focus is managing and running the company so we are able to deliver the upside in the upturn. And that's when we can say our transformation is more of a cyclical completion.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay. Great. You mentioned inventory and utilization. Can you give us a sense of, you know, what that utilization driver looks like? I know it's weaker in the first half of the year. How much inventory do you need to draw down? And then you have this buffer inventory transition that you're dealing with, later in the year. Can you talk about that as well? Is that gonna be anything impactful?
+## Thad Trent | EVP and CFO, ON Semiconductor
+Yeah. Let me, let me take them in reverse order. So if you think about the inventory, our inventory is actually lean if you look at our working inventory. We have the what we call our strategic inventory, which was for our fab transitions. If you exclude that, our working inventory is at 116 days. That's in our sweet spot of 100- 120. So we don't have to go through an inventory digestion to, to actually get utilization turned back on. And if you look at what we have in the, the distribution channel, it's at 10 weeks. That's our sweet spot. We actually took $55 million out of the channel last, last quarter. We're gonna be running kind of in this 10-week timeframe or, or, horizon for quite a while here.
+But if you think about whenever there is an upturn, we don't have to wait for inventory in the channel to bleed through or inventory on our balance sheet to bleed through. Now, on the strategic inventory, we will be peaking that inventory kinda here in the first half, and then we'll start to bleed through it in the second half. Most of that is for the take- or- pays that we had when we divested the four fabs in 2022. So that'll start turning into cash flow. So you think year on year, we're gonna have a strong free cash flow year for the company. We talked about on our last call that our free cash flow margin will hit our target of 25%-30% this year.
+So even though we've got headwinds on the top line, it's a strong free cash flow. Utilization, you know, we're gonna be running kinda in that mid-50s, and then we'll be starting to click that up as soon as we start to see the recovery.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay. Great. And can you talk through a little bit the dynamic around structural improvement and pricing? I know for a while you had talked about reducing exposure to the markets that were more commoditized, and you've got pretty far along with that. Can you remind us how much is left there? You know, do you have to think about that? Is part of your business still being price sensitive? And, you know, how's pricing in the focus part of your business?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. So if you think about when we started the portfolio rationalization, you know, a few years back, we identified about $800 million-$900 million of highly volatile business, meaning pricing volatility.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Now, historically, the company used to just reduce price to fill the fab. We changed the strategy when Thad and I both started, and we identified that, you know, $800 million-$900 million, that is business that is non-core, and we wanna exit. The way we exit is we priced ourselves out of the market. So we increased ASPs, and we walked away from about $475 million, which is the last time we reported it in 2023. The rest of it, call it that $300 million-$400 million, $350 million, we kept. The margin was starting with a four handle. So good business.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+This helps with utilization. This downturn has extended beyond, I think, what anybody has expected. So we have some peers that have elevated inventory, low utilization. They're still in a fab filler strategy. They're reducing their prices drastically in order to fill their fab. Strategically, we've been very consistent. We are not going to chase that business down. What we said is we'll keep it as long as the margin holds. The margin is not holding. We are walking away from it. That's the business that, think about it, $350 million.
+If you ask about timing of when do we expect that, that's really market dependent. If 2025 is how we expected of no recovery, we expect to lose all of that or walk away from that in 2025. If there's a demand uptick, it may take longer.
+We're gonna resize our manufacturing footprint to take that capacity offline.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Hassane El-Khoury | CEO, ON Semiconductor
+That way, there's not going to be an underutilization headwind from the strategic decision that we made of the exit. From a pricing perspective, overall, apples to apples pricing, I would say, is consistent. You know, this precipitous price decline in the first quarter or what have you that typically the industry has seen, this is not the business we're playing in. This is more we're in a value-based business. What we have, however, we have a ton of new products.
+As we introduce new products, apples to apples, we say, "Okay, we're going from an eight-inch prior generation to a 12-inch brand new generation." That is a big margin expansion for us. The customer will get an ASP benefit. We get a margin uplift. That's a win-win. That is not an apples to apples or like for like.
+That's part of the way we move technologies through the nodes, and we expand margin. We're doing that. You're not gonna see that in the margin headwind. That's actually a margin favorable as that mix turns more into, the margin. Our Treo Platform that we're starting to generate revenue in 2025, that's 60%-70% gross margin. I'll take that any day.
+## Joseph Moore | Managing Director, Morgan Stanley
+I wanted to ask about the role of long-term supply agreements. You've used that effectively to help you navigate through this challenging period. And it seems like the automotive business is still willing to sign those longer-term agreements, still looking for that supply chain certainty even in a period of some oversupply. Can you talk about that, the role of those?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. Look, the LTSAs have been a very important strategic tool for us, and when I say it's a strategic tool, they're more than just an agreement. They've given us the visibility that we needed. We were the first ones to call the industrial kind of downturn, and we took utilization down before we built inventory that we couldn't use, and that's where our balance sheet inventory is still within our sweet spot. We called automotive end of 2023; we called the automotive softness before any of our peers.
+We started getting the calls because with the LTSA, when you have three- to four-year kind of LTSA, when the customer sees a softness in demand, they're not gonna kick the can down the road because they have four years of this, so we get the call.
+We look at the units, and we work collectively with the customer for a win-win. I'll give you a perfect example. If we have an ASSP, it's we know there's one per car. If the volume of vehicles is down and the customer comes in and says, "Look, volume is down 10%. I need 10% relief," we're gonna give them that.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+They weren't a punitive agreement where we're gonna shove inventory that the customers cannot use and build inventory 'cause you can do that maybe for one year. What are you gonna do with your two, three, and four? So it's a tool. We've negotiated with the customer. We've always said we'll negotiate volume to match demand. But it gives us the visibility, and it gives us the pricing stickiness net of what I talked about on technology node advancements. So that's onsemi as far as the LTSA. So it is a tool.
+And even now, with the environment that we are in, we have one strategic platform with customers. And those customers ask that they add that to the LTSAs that they have with us, to add those new products to the LTSA because they, again, they see it as a tool and the certainty.
+If you fast forward, whenever the demand recovery happens, if demand recovers all at the same time, automotive, industrial, some customers have two weeks of inventory. You get a recovery. Those two weeks are gonna mathematically look like two days very quickly. So there are some customers that are gonna be in trouble as far as being able to support the demand uptick. A lot of customers still want those LTSAs.
+They're not gonna be stuck in traffic when they're trying to get allocation. So they still see them as a tool. We have shown them that we will work constructively with them to make sure that it's not punitive, that it's a win-win. And that's the path we've been on for the last two years, and it's no change now.
+## Joseph Moore | Managing Director, Morgan Stanley
+Great. That's helpful. And then last kind of cyclical question. Subsequent to the quarter, you guys did announce some cost-cutting actions, production force. My assumption was that that was kinda consistent with the cost-cutting you talked about, but just anything new to update around that?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. I wanna correct one thing.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Hassane El-Khoury | CEO, ON Semiconductor
+The output was cost-cutting.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Hassane El-Khoury | CEO, ON Semiconductor
+The path is restructuring.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Hassane El-Khoury | CEO, ON Semiconductor
+I know a lot of people will look at it, "Well, it's the same, same thing." Let me give you the difference. When you say it's a, it's a cost reduction, it's the intent therefore is, "Well, when the market recovers, then we're gonna hire this back," or, you know, "It's temporary and, and, and." We've done a true restructuring, which means we are not expecting that OpEx to come back as we grow and scale. How are we gonna do that? For example, we did not go down the path of, "Oh, let's, you know, reduce the bonus or push out the, cancel the raises for employees and so on," 'cause those are temporary. When you turn them back on, the OpEx just shows up on the balance sheet.
+Those are actually still on our baseline of the OpEx you see. But what we have done is a true restructuring. Over the last three years, we have heavily invested in systems for automation, systems for IT, system for data entry. And we are a heavy user and deployer of AI systems for efficiency. Every investment we've done has an ROI. What we have done is we accelerated the ROI. So typically, when you deploy these systems, you typically will go with attrition.
+You know, attrition about 10%. You say, "All right. As we attrit, we kinda won't refill." We've accelerated that by really pushing the boundary of the innovation from the automation, and we're getting the benefit. Perfect example. Every one of the semiconductor companies has a large team of people doing customer support.
+For the last year, we have been running a chatbot that answers 100% of our customer tech support cases with a very small team that reviews the technical accuracy and trains the model. Okay. Well, instead of having 200 people, I can do it with 30. That's an efficiency that will not come back as we ramp back up. I can change the model. I can train the model with more data and more new product and won't even add the headcount. That's the restructuring mindset that we have deployed. I can give you 100 other examples of.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Tools and automation that we have in the company that we've been running for a year or more that we basically accelerated the benefit part of our restructuring. That's why I sit here differentiating between restructuring and cost, cost-cutting because we're not expecting the OpEx to ramp. We're gonna grow into our model, and our model remains 13%-14% of, of revenue, even at a smaller revenue than we historically have when we, deployed the model.
+## Thad Trent | EVP and CFO, ON Semiconductor
+Just to be crystal clear, that restructuring did not cut out R&D projects.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Thad Trent | EVP and CFO, ON Semiconductor
+So we're still investing in the future growth of the company. We did not cut that. We, we got efficiency there, but we didn't cut out projects or product, in the roadmaps. So the growth is still being invested in.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay. That's a helpful clarification. Thank you. So I wonder if we could talk about a couple of the recent growth initiatives, starting with Treo. You mentioned 60%-70% gross margins, programmable analog products. Can you talk about the product and kinda what it is that you're achieving with that?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. So, the Treo Platform is basically our new analog mixed-signal platform. We introduced that publicly in November at Electronica in Germany. The differentiation for it is twofold. You have a technology, and you got a process differentiation. The technology, it's basically the most advanced 65-nanometer platform in existence today, going from 1 to up to 90 volts. Nobody has done that, and up to 175 degrees Celsius. What that gives us is a monolithic technology-based platform to tackle the automotive.
+When you talk about the trend in auto, it's zonal, on top of electrification, zonal architecture, 48-volt AI, high voltage, monolithic, and 65-nanometer. You can do a lot of digital control that typically, historically, you cannot do. The differentiation when you say versus peers is I'm sure somebody here will say, "Hey, but I've seen a 65-nanometer. Somebody else got it." Yeah.
+25 volts, 85 degrees Celsius, consumer product. Nobody has the gamut of what we're offering. That's one. The second one is on process. We've taken the mindset of product development from a SoC, digital, and we ported it to analog. The way we define products is we're developing IP, a slew of IPs, from a product definition to a customer sample, six to nine months versus two years historically for a new analog platform. That is industry first. I can tell you 'cause that's the world I also came in. Industry first, time to market.
+Why is that important? Take a look at automotive. Take a look at AI. When a new generation comes in, automotive in China is every two years, every 18 months to two years, new car. AI, every beat, you need 18 months to go to market.
+Being six to nine months, we can do two shots at it and get the right product in. And the cost to introduce a new product from a leverage perspective of IP is, again, very competitive. That's where the technology and the process that we introduced it with. Where does it go? It goes across a long range of applications. For example, drivers. We all know we're leaders in silicon carbide. We tie our silicon carbide with an analog mixed-signal driver. Automotive Ethernet, 10BASE-T1, as again, zonal architecture to communicate with the zones.
+It's Ethernet-based. It covers Ethernet. It covers medical, low-power battery, medical, continuous glucose, for example, high-power analog sensing, ultrasonic sensing integration. I'm giving you just the example to give you the flexibility of the platform and the areas we can go in all at 60%-70% margin.
+It gives us a very different growth vector in the company outside of just the power that we know or the sensing that we know, but this high margin, high growth area that is still very complementary to the rest of our portfolio.
+## Joseph Moore | Managing Director, Morgan Stanley
+Great. You're four months in now since the product launch. Can you talk about the customer reception?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Look, customer adoption has been great. We're actually it's been four months, like you said. We're gonna generate revenue in 2025. So even time to market is very competitive. And time to revenue, look, the hardest thing to do on a new platform is the first dollar.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | CEO, ON Semiconductor
+We're gonna get that in 2025. From a design win and a customer, we talked about AI. We talked about automotive and industrial. So it's gonna be at that layering, and it's gonna be driven by design cycles. We have design wins today that we are on the board with customers sampling for automotive, industrial, and AI data centers. The time to revenue is going to be different from those. But the design win and the parts have sampled, but now it's going through the customer development cycle. So you're gonna start seeing more revenue.
+We talked about $1 billion in 2030 with that same kinda layering, you know, automotive being more on the tail end, the other markets kinda layering in sooner, but with the margin profile of that 60%-70%. So that's the we're very excited about that.
+You know, Thad talked about we didn't reduce R&D as far as investments. We said we were going to double the number of products on the Treo Platform in 2025, and that remains even after the restructuring.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay. Great. And then another growth initiative I wanted to ask about. You acquired the Universal Silicon Carbide business from Qorvo. They had kinda struggled to get the value that they saw out of that business, but we had a good talk about this in December at NASDAQ. You obviously have pretty high growth expectations for this.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. If you think about the value of that business, JFET from a device physics perspective, it is the smallest and most effective silicon carbide FET, JFET in this case, than even the MOSFET that we have been doing in EVs. Now, why is that better than the other? JFET is a single product that will give you the efficiency. So if you can do the power in a single product, JFET is it. If you have way more product like an EV or way more power where you need to put devices in parallel, the silicon carbide MOSFET that we've been working with is better.
+So it's very well-suited for applications that require efficiency with a very single device kinda level. What are those applications? AI data centers, the PSU side, where we're starting, we are penetrating that.
+The next best alternative is silicon-based, not even close from an efficiency. So that's a technology advancement that will penetrate in the PSU side of the data center. Automotive, specifically on the EV, battery disconnect. Every EV has to have a battery disconnect in case of a crash or an incident. It disconnects the battery pack. Today is electromechanical. It's unreliable and bulky and expensive. We can do it with a JFET. So now you're changing the total cost of ownership, and the third is breakers, circuit breakers. If you think about industrial circuit breaker, one device on/off, JFET is the best solution, and we can pair it with a driver with our Treo Platform like we talked about to control it.
+So those are three examples and our three sweet spots of the market where this is a perfect fit from a technology, and it provides a benefit to the customer from an adoption perspective.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay. Thank you for that. Talk about the end markets a little bit. The automotive market down 25% quarter on quarter in March. It was a little bit surprising. Can you talk about, you know, the regional breakdown of that and if there's anything kind of idiosyncratic we should understand about that?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. Look, it's no different than I think we're all in the same market as a lot of our peers, and maybe I have a different outlook than some of them. I'll give you the data that I use to look at how to manage the company, but more importantly, how do I guide expectations. Q3 of 2024, we had a China EV drove the growth. Q4 was also China EV driven, good quarter from an automotive. So we talked about having a high market share in China EVs, which is the primary growth market. I think that's consistent with a lot of our peers.
+So that's for Q4. When I started looking into the year, we're starting to see some of the reduction in turns and so on that I talked about back in the conference in Europe. What does that look like in data?
+Data that I use to manage the company. If you look at the January numbers, new electric vehicle registrations in China, which is where the growth is coming and only from there.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+In the industry today, new electric vehicle registration in January from December, we're down 45%. The numbers just came out for February is minus 2% from January.
+## Joseph Moore | Managing Director, Morgan Stanley
+Wow.
+## Hassane El-Khoury | CEO, ON Semiconductor
+The first two months of the year versus December is down 40%-50%. That's what I'm guiding to. That doesn't mean that that's not company specific.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Now, there's seasonality in there because you have the Chinese New Year. But then why would you expect Q1 to be yet up from Q4? So there is a seasonality. Now, in January also, the incentive in China for new vehicle, new electric vehicle was reinstated at the beginning of the year, but we haven't seen the impact for that. I'm not expecting that impact to be in the first quarter. That doesn't mean that the bullishness or my bullish view of Chinese EV is any different than it was last year. We're investing. We're winning. We have the market share, and we've been ramping. But it's a quarter on quarter change that I don't believe is company specific, but I can't ignore that the demand is down, and I have to guide for it.
+By the way, if I'm wrong and Q1 is a great quarter for Chinese EVs, guess what? We're gonna have an even better quarter.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm. Okay. That makes a lot of sense. I guess maybe talking about the silicon carbide business, last year you were down, there were a lot of headwinds in that business. As you said, the center of gravity really shifted towards China. Can you talk about how that changes your mindset towards silicon carbide? And, you know, your position in China does seem quite robust still. Should we think about Chinese competition and things like that?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. Look, I've always been very consistent when we talk about silicon carbide and people say, "Why do we win?" We win because of the performance of our product.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Regardless of geography, customers want the best products on silicon carbide because with the best products, they have the best vehicle. And what I mean by best vehicle is not the fastest and so on. It's whatever they're trying to optimize. At 10% efficiency on the die that we can provide, the customer has a choice to either increase the range by 10% or reduce the battery by 10%. If you're optimizing for cost, reducing the battery by 10% is thousands of dollars.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+They'll take that anytime, so we give the customer optionality, but it all starts with you have to have the better product, and the better product is measured by better efficiency, whether you're a customer in China, OEM in China, OEM in Europe, or OEM in North America. That's why we win. That's why we've been winning in China. Therefore, compared to our peers or competitors in China, domestic Chinese silicon carbide device makers, we are a few generations ahead.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+That's what keeps our competitive advantage, and it keeps our margin because we price on value like we talked about before. As long as we're able to give the customer that optionality, that consequently they can turn into a monetary or competitive benefit, you know, mileage or battery, we will win. Therefore, our focus is maintaining our R&D in order to always develop and provide proprietary, efficient, and innovative solutions for the customer. That is the only go/no-go customer has. As long as we keep doing that.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | CEO, ON Semiconductor
+This is how we compete, not just against Chinese competitors. That's how we compete against North American competitors.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | CEO, ON Semiconductor
+How we've been competing with European competitors, and we have been winning against all of them regardless of geography.
+## Joseph Moore | Managing Director, Morgan Stanley
+You guys invested in developing an internal substrate business for silicon carbide, which has worked very well. You've also maintained a sourcing relationship with the Chinese vendors. Just how do you see that dynamic? How, you know, will you continue to source from China? Is there a deflationary aspect to the Chinese way for pricing coming down to the substrate level?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. From a, like you said, we've had our internal substrates.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | CEO, ON Semiconductor
+And we've always said that we're going to have we're not gonna be 100% internal. That gives us the flexibility. We've qualified out external substrates, not just from China, but inclusive of China. There are two things, two hurdles for, call it sourcing or changing our strategy to be, different than what it is today. One is the supply quality and, you know, all of the cost, of course.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Outside versus inside. There's the margin aspect of it. So if I take that, we're qualifying, quality is a matter of time. Quality has been improving out of China, so I think that's not gonna be an issue moving forward. So you have the economic and the quality perspective. I think those both are resolvable. You also have another hurdle, which is the geopolitical. If you say, "Okay, you're gonna get most of your substrates out of China." We are in a geopolitical environment that is not a safe assumption, at least one side versus the other.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+So we believe strongly that our ability to have both inside and outside gives us the best hedge for knowing and being able to qualify external vendors while maintaining optionality for customers in the event of any kinda supply from a supply assurance perspective. If you say, "Okay, fast forward, there's no risk of geopolitical uncertainty. There's certainty. I hope that day will come.
+## Joseph Moore | Managing Director, Morgan Stanley
+Mm-hmm.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Cost and quality are very similar, then we have no issues on changing our mix to the outside more than the inside.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Hassane El-Khoury | CEO, ON Semiconductor
+We are not adding any more capacity internally. We've already said that kinda three quarters ago that we got where we want, and we've been getting more out of our existing footprint than we originally planned because our yields are improving, our cost is improving, and all of these things. So we have the best hedge between inside and outside, and we will deal with it given the external factors that I described.
+## Joseph Moore | Managing Director, Morgan Stanley
+Great. And can you talk about the role of 200 millimeter in silicon carbide?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah, so we're on track. We close out the year. We delivered what we said we were gonna deliver. We are sampling 200 millimeter. Actually, our new silicon carbide product is already introduced on 200 millimeters. We're sampling customers. Our next wave of production is, you know, after you go through a design cycle from sample to production, that's gonna be on 200 millimeter. That transition is already happening.
+## Thad Trent | EVP and CFO, ON Semiconductor
+That's a capital light move as well, right?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yes.
+## Thad Trent | EVP and CFO, ON Semiconductor
+Our fab is already qualified for 200 millimeter, and all of the substrates, if you think about the changeover, it's actually a very light CapEx investment.
+## Joseph Moore | Managing Director, Morgan Stanley
+Okay.
+## Thad Trent | EVP and CFO, ON Semiconductor
+So it's what we've lowered our capital intensity.
+## Joseph Moore | Managing Director, Morgan Stanley
+And is there a lot of cost savings from 200 millimeter? 'Cause I feel like in the silicon domain, obviously there is 'cause the wafer processing is the cost. In this domain, the cost of the substrate is such a high portion of the cost. Does that?
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. Look, we're so there are two phases. Over time, call it steady state, when the eight-inch matures, not just ourselves internally, but even externally.
+## Joseph Moore | Managing Director, Morgan Stanley
+Yeah.
+## Hassane El-Khoury | CEO, ON Semiconductor
+It is a cost benefit or a margin benefit over time, just like six to eight. In the short term, it's purely a capacity. One way you can get more products or more devices from an eight-inch versus six-inch, so you need less capacity to get more volume out. In the short term, it is a capacity expansion. If you think about it, six to eight, over time, as you get more and more volume on eight and more stabilized output, then it becomes a margin tailwind.
+## Joseph Moore | Managing Director, Morgan Stanley
+Great. So I do have more questions, but let me first open it to the audience and see if we have any questions here. One in the front.
+Hello, Hassane. I have one question, actually two questions. First question is like, two of your biggest competitors in Europe, they either like postpone their fab expansion in Malaysia or they'll cancel their foundry project in Europe, and considering like onsemi just announced last year you have $2 billion project in RoÅ¾nov, Czech Republic, do you have any plan to readjust your CapEx plan? The first question. The second question is also one of your biggest competitors actually just announced last week. They have opened their joint venture foundry for silicon carbide in China, so basically, they still maintain a very strong China for China strategy, so I want to hear your opinion about this one.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Yeah. So let me give you first, I can't comment on what analysis my peers did in Europe to decide to have a factory and. So I'll keep that aside. I'll give you what we've said. I've gotten a lot of questions when we've had the CHIPS Act and so on of, "Hey, we don't hear any announcement for you from the CHIPS Act, and the CHIPS Act passed," and so on. And I've been very consistent from the beginning. You're not gonna see onsemi go and open a factory just because we got funding from third party, including, you know, CHIPS funding. What we will always do is we will only build capacity to what we need to run the business regardless of external factor.
+And then the external factor is a cherry on top, meaning our financial analysis for a capacity or a factory or does never accounts for external funding 'cause we have to be able to stand for it to stand from an ROIC perspective on its own. And then the sweetener is the external funding. So we never got ourselves in a position over our skis. I told everybody, I said, "You never saw me buying a shovel just because the CHIPS Act got passed." We did brownfield investments only to the level that we needed, and we even divested four fabs during that time where everybody's buying shovels and making those big announcements.
+So we never got in a position where we're over our skis as far as capacity beyond what we believe we need from a supply. So that's one.
+Now, we have been going for the last two years on a fab-lite strategy, which we've outlined in our Analyst Day, last Analyst Day. What that means is we're streamlining our manufacturing, and when you do that, you get more output from an installed base. That's where the next step of our restructuring, you know, we announced the headcount restructuring, there is a reducing our capacity because the output is there. We onboarded a 12-inch fab, which means that we have more output coming out. But this is all part of our strategy, not as a reaction to demand or reaction to external funding. From a China-for-China, you know, I said, "We're winning in China, yet I don't have a fab in China," because at the end of the day, the new products and the product performance is what's going to prevail.
+I'll give you a perfect example. A non-Chinese company with a manufacturing in China and a Chinese company makes the same product. Who do you think the Chinese customers are gonna buy from? Both manufacturer in China, one's Chinese, one is not. They're gonna buy from a Chinese company. So therefore, the only defense is don't have products that somebody else can make, whether they make it in China or outside of China. That's how you're gonna win. Otherwise, if somebody else makes it, there's always somebody in the world that was willing to do it for lower margin.
+That's not the business we're in. That's the business we're getting out of. So for silicon carbide, we're not competing on footprint. We are not competing on capacity.
+We are purely competing on value of the products and the value we provide to the customer as long as they can monetize it in, you know, miles or capacity, battery capacity.
+## Joseph Moore | Managing Director, Morgan Stanley
+So that takes us up to the end of our time. Hassane, thank you very much for your time. Thanks.
+## Hassane El-Khoury | CEO, ON Semiconductor
+Thank you.
+Data Source: Quartr Last updated: Mar 4, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

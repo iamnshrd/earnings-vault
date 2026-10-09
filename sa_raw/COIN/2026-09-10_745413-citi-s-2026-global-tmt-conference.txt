@@ -1,0 +1,299 @@
+TITLE: Citiâs 2026 Global TMT Conference
+DATE: 2026-09-10
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Okay, fantastic. Thank you everyone for joining. My name is Pete Christiansen. I cover digital assets for Citi Research. As always, I am pleased to welcome Alesia Haas, who has been a regular at our conference. Thank you so much for attending. Before I start, Coinbase has asked me to read this disclaimer. During today's discussion, Coinbase may make forward-looking statements. Actual results may vary materially from today's statements. Information concerning risks, uncertainties and other factors that should cause these results to differ is included in Coinbase's SEC filings. The discussion today will also include references to certain non-GAAP financial measures. Reconciliations to the most directly comparable GAAP financial measures are provided in the shareholder letter on the company's investor relations website. Non-GAAP financial measures should be considered in addition to, but not as a substitute for, GAAP measures. I probably should have that memorized by now.
+## Alesia Haas | CFO, Coinbase
+You and me both.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+All right. Let's get into it. I always love the perspective question upfront. A year ago, I posited to you asking whether Coinbase was a general store or a specialist, and it seems in the last year, we have settled that question pretty decisively with the everything exchange. Spot, derivatives, prediction markets, tokenized equities, payments, Agentic infrastructure. For someone who has checked out of the story 18 months ago, what is the one thing that would generally surprise them today?
+## Alesia Haas | CFO, Coinbase
+If you have been in a coma, I guess, for the last 12 - 18 months, our TAM has expanded meaningfully. What has gone from being, as you have mentioned, a single-product spot crypto trading platform, has meaningfully expanded out to four trading verticals. Spot, crypto, derivatives, and I would note derivatives have three flavors of derivatives and also various underlying contracts. There are not only crypto derivatives, but we also now offer derivatives on commodities, metals, et cetera. Expand that out to traditional equities, but then just a few weeks ago, we then started offering tokenized equities to non-U.S. customers. Our last pillar is prediction markets, which for a six-month-old product now, has shown tremendous early product market fit, and we are seeing a really nice growth trajectory. So, great benefits to our customers to be able to trade more and more assets on one platform.
+Because where their assets reside, they are more likely to trade. As I mentioned, that has just continued to multiply the TAM that we are going after as a business, which should then lead to diversification of revenue and more opportunities for growth.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Yeah. Now you are, by my count, you are running 12 different product lines, north of $100 million annually. That is a remarkable amount of simultaneous scaling.
+## Alesia Haas | CFO, Coinbase
+That is my count, too, just for the record.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Oh, okay. Fantastic. How do you and the team think about sequencing and resourcing so each one of these gets the attention it deserves?
+## Alesia Haas | CFO, Coinbase
+Absolutely. Well, if you look underneath the hood of those 12 products, we have common infrastructure that support the products. We started as a safe place to buy and securely store crypto. We are the world's largest crypto custodian, and crypto needs to be defined as any on-chain asset. We store roughly 12%. We layer on top of that foundation deep liquidity in our exchange, and then we have value-added services, for example, financing or our risk models, compliance, onboarding. Adding incremental products are leveraging a foundation that we've spent years building and honing, and that enables us to really bring small pods of people together to add incremental features. We also have an approach with. We've all seen productivity gains with AI. We've shared in our public filings that our pull requests are up meaningfully year-over-year.
+Quality is up as a result as well, and we're able to put small teams of people against these. As we see product market fit, as we start to cross milestones, we can add incremental resourcing against that and continue to drive positive unit economics and growth.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I'm going to sneak one in. I asked this last year. Any chance that Coinbase's financial reporting will change in 2027?
+## Alesia Haas | CFO, Coinbase
+I love the question. There is definitely a change potential, and it's because we've always committed that as our revenue diversifies, we will look to then update financial disclosures accordingly. in Q2, if you look on our earnings presentation, we started to break out our trading volume. Historically, we just had one aggregate trading volume number. We're now disclosing trading volume for spot versus derivatives, and then breaking out stablecoins and other, because we believe that these monetize. You all know these monetize in different ways, and so this incremental transparency should help investors better understand revenue forecasts as well. Yes, we've taken steps, and we will continue to evaluate how to make our financials more transparent and legible.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+No
+## Alesia Haas | CFO, Coinbase
+for our investors and our analysts.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I appreciate that. Continue evolving our model. If you think about it, so many of these brand-new products that are scaling so rapidly, tons of positive indications on product market fit. Is there one product that you are most excited about, in particular, doubling down over the next year or so, even relative to everything else that has been scaling so rapidly?
+## Alesia Haas | CFO, Coinbase
+We do not pick favorite children in general.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Oh.
+## Alesia Haas | CFO, Coinbase
+Our priorities this year, and we have shared these publicly, our priorities are growing the Everything Exchange, and then growing stablecoins and payments related.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Right
+## Alesia Haas | CFO, Coinbase
+with stablecoins. Underneath the hood of the Everything Exchange, the two products I would point you to are growth of derivatives writ large and also prediction markets. Those require the most scaling. We are seeing the most new product market fit. So those are two to keep an eye on. Within stablecoins and payments, you are seeing the obviously USDC market cap, the growth of the assets on our platform, and then resulting volume, USDC trading volume, transaction volume on top of that.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Yeah. I think a lot of people are starting to look at the volume now as a real indicator, less so much as the market cap. I always joke with Aditi on my team, they should call them stable rails at some point. Let's
+## Alesia Haas | CFO, Coinbase
+Why do not they say rail and asset together?
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Right.
+## Alesia Haas | CFO, Coinbase
+Yeah.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+We are going to hit all those topics. I want to start off with prediction markets. Prediction markets crossed $100 million annualized level just with a couple of months of launch, and then grew another 106% quarter-over-quarter in Q2. That is an extraordinary curve. What do you think is the biggest driver here? The new crypto binaries product, the breadth of markets? Obviously, we had FIFA World Cup and those sorts of things. If you could just give us a flavor, what is driving the surge in your view?
+## Alesia Haas | CFO, Coinbase
+Prediction markets offer a new way to express a risk point of view. They are fun, they are engaging. You may want to just watch a market. You may want to be curious about an election, and prediction markets are offering users just a whole new way to explore these areas. What we have seen on our own platform is, yes, there has been tremendous growth, and it has come as we expand contracts. We started, we then launched crypto binaries, we have then launched Combos. Each of these incremental contract types is engaging customers in a deeper and a more unique way.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Daily active traders in this group, speaking to product market fit, reportedly tripled. Daily revenue quadrupled after the crypto binaries launch. What did that tell you about product market fit that perhaps, maybe you did not know already?
+## Alesia Haas | CFO, Coinbase
+Well, first of all, we are a crypto platform, so seeing this growth in crypto binaries, we really have a right to win in crypto binaries. This gives you the ability to take a bet. Is Bitcoin going up in the next 50 minutes? Is it going down? It just is a whole new way to express a perspective on the price of crypto assets without a lot of capital having to go to work to buy the asset or to trade the asset in other ways. I think that it is natural for us to see that product market fit on crypto binaries. But what is more exciting is we continue to see growth with Combos, which could be non-related to crypto at all. I think this demonstrates, one, we are seeing engagement. That means our customers are coming to our platform, they are looking at the various contracts.
+As we add more and more, we think that gives us an avenue towards additional growth.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I'm sure it's benefiting both engagement and new user growth. Any color you care to share on that dynamic?
+## Alesia Haas | CFO, Coinbase
+The thing that I want to point everybody to is a few things. One is all of the activity that we've seen in prediction markets to date has come from existing Coinbase users. We haven't put growth marketing. We're not using this as a channel to acquire new users. It's a six-month-old product. We really need to harden that product surface and scaling before we open up marketing and growth. We've seen great growth and adoption using it in a very modest cross-selling manner. Two, what I would point to is all of the revenue that we've seen to date is really incremental. We have not seen any cannibalistic behavior of prediction markets. This is really nice incremental revenue coming from existing users as we opened up new products and services.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Fascinating. On Coinbase One, which crossed 1 million paying members, including myself, congratulations on that milestone. How are you thinking about that membership relationship evolving, especially as you're adding all these new products? I hate to use this old term we used to say all the time, like top of wallet, obviously, with the card and things like that.
+How do you think about evolving that relationship?
+## Alesia Haas | CFO, Coinbase
+It's such a great question. It's one of my favorite areas to look at. First of all, I want to just note that while Coinbase One did pass 1 million paid subscribers in the second quarter, that was against a backdrop where the overall crypto markets were down meaningfully. The fact that we're still able to grow members during a down market demonstrates the value that people see in the overall membership. That membership only gives you benefits for crypto spot trading today. We have yet to expand the benefits to prediction markets, to derivatives, to other non-spot trading and adjacent related products. We think that we are just getting started with regard to opportunities, and that as we add value and add opportunities within the Coinbase One membership, that gives us an additional growth lever.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+How much has adding the card supported that in particular?
+## Alesia Haas | CFO, Coinbase
+The card is an absolutely great value-add product for Coinbase One membership, as is rewards on USDC. Coinbase One does provide unique benefits to customers who are going to use our platform, and we think that that whole bundle is a really important value proposition.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Sure is. Okay. The mandatory Digital Asset Market Clarity Act question. Here we go. We're still talking about it a year later, which I don't think is too surprising to most people, but it seems like we're seeing some light at the end of the tunnel with the cloture vote coming up next week.
+## Alesia Haas | CFO, Coinbase
+Five days.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Five days. Settling that backtrack, on one hand we also have the SEC getting involved with proposed rulemaking, and on the other hand, we have unresolved disputes over ethics, blind trust provisions, so on and so on, stablecoin reward yields, all against this hard deadline of November midterms. Just to put all of this together, it is quite a lot to navigate. Is the risk right now that, or maybe I should rephrase this. Is the opportunity and the way that Coinbase is thinking about, A, maybe there's still a chance, but with the SEC intervening with their own rulemaking, that this is going to push a more bipartisan effort, perhaps, in 2027?
+## Alesia Haas | CFO, Coinbase
+Great question. As you noted, September 15th is a key date, and we're cautiously optimistic, and we're going to watch the votes carefully that we can see congressional approval. That said, that is not the only path available, and we are so pleased with Chair Atkins and Chair Selig's approach to rulemaking innovation, really being deep in the process and driving forward their own regulatory clarity agendas. So it is not a one-path door to the outcomes that we seek. We would love to get congressional approval because that's durable in a way that few other things are. However, it does not change our roadmap to be able to
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+And-
+## Alesia Haas | CFO, Coinbase
+go down the path with the SEC and the CFTC.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+There's also a flip side to this, though, especially when we think about tokenized assets, real-world assets, and we don't know, maybe you do, but we don't know what the proposed rulemaking, the innovation exemption, how that's going to be framed. But at least the language comes across that it may offer more freedom to experiment, to try some new methods. I'm just curious if you could shed any light without, obviously, sharing anything confidential.
+## Alesia Haas | CFO, Coinbase
+You know what? I know. The wonderful thing about proposed rulemaking is these are public letters. The SEC has put out rules for comment. You can see everybody's submissions on what they would like to see within the rules. This is a really healthy part of rulemaking in America, and I think that we will be able to drive forward innovation here, which is what really matters to us.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Yeah. No, especially with the rest of the world being so.
+## Alesia Haas | CFO, Coinbase
+Ahead. A little ahead of us, yes.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Yeah. I 100% agree.
+## Alesia Haas | CFO, Coinbase
+Not always first, but we try to do it right. I have confidence in America.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Absolutely. You clarified, I want to harp back on, talk more about stablecoins, in particular the USDC relationship, which comes up in client conversations still pretty frequently here. One of the things, and I actually asked this on the Circle call, and I said, "Yes, there is this agreement that is perpetually in place. You're great partners together." This was in respect to the OUSD news and all that kind of stuff. But one of the things that I think people weren't paying attention to is that Circle and Coinbase went in together in this deal with Hyperliquid, which was pretty interesting. Do you see there's more opportunities on the go-to-market side, expanding the use of USDC as maybe as a more unified force?
+Should investors think of this as a special relationship that there's, yes, the economics are what they are, but is there a special relationship here where both can mutually benefit?
+## Alesia Haas | CFO, Coinbase
+We absolutely both mutually benefit with the growth of overall USDC adoption in the ecosystem.
+There are certain opportunities where we will partner to drive that overall growth. However, we are both competing as well, and we compete for balances on our own platform, for integration with clients on our own tool set. Increasingly, you'll see us as frenemies or competition, no different than you see large financial institutions who partner on some deals, compete for deals as well. What's important is that our collaboration agreement is perpetually renewable. We just renewed it on the same terms for the next three years that we've had for the last three years, and that we are incentivized to grow USDC adoption, and that will continue. We're also, at Coinbase, incentivized to grow USDC on our platform, win clients, and deeply integrate them within our tool set.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Fair answer. Let's skip to tokenized equities. Coinbase launched one-for-one backed tokenized equities on Base for non-U.S. customers last month.
+## Alesia Haas | CFO, Coinbase
+Not even a month.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Not even.
+## Alesia Haas | CFO, Coinbase
+Yeah. Few weeks.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+As we chatted before, we are still waiting for the innovation exemption for the launch of U.S. customers. It has been exciting to watch incumbents like Nasdaq, NYSE, DTCC as well, bring on their own tokenization pilots to life this year, working with major custodians. Do you see this as validating the category and the way it helps everyone, Coinbase included?
+## Alesia Haas | CFO, Coinbase
+Absolutely. We long held the view that assets would move on-chain. We saw the first true product market fit with stablecoins, dollars moving on-chain, and now we are replicating that with securities moving on-chain. That will just be the first continuation of other assets moving on-chain. You are watching large, well-established players now take a similar view, that there are benefits for on-chain infrastructure.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I guess there is this debate between native issued tokens versus synthetics. We have heard views on both sides. One can expand the market. There is one view that you need the issuer to be in control, and there are certainly hybrids and mix and match kind of opportunities here. Does Coinbase have a view here, or is it just let us see how this market develops and we will see where it takes us?
+## Alesia Haas | CFO, Coinbase
+Alesia has a view.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I would love to hear Alesia.
+## Alesia Haas | CFO, Coinbase
+I will share the Alesia view. Coinbase has a view, and you can see by the product that we launched. The product that we launched is a real equity on the blockchain. The equity is yours in bankruptcy. You are eligible for dividends. When we have the technology advanced, and this is not a regulatory approval, this is just a, "We need to get it on our roadmap," you will have voting rights. It will look just like any other security, but it is a security plus. You can hold it in a self-custody wallet. You can send it to a friend. You can use it outside of the intermediary system. To receive those benefits, you have to have KYC. We think we have brought a security plus, just like we thought we brought a U.S. dollar plus by moving it on-chain.
+Now, I also think that the U.S., in particular, is a market that has long innovated. We have all sorts of structured products in the United States. We have a long history of structured products, and crypto has a long history of structured products. Crypto really innovated with perpetual futures outside the U.S., and I think that we believe that perpetual futures will be a big growth category in the U.S., not only on crypto, but on all sorts of underlying assets. Whether it is a derivative, whether it is a swap, I think that those are also legitimate products. The key for me and the key that Coinbase always feels is customers need to understand what they are buying. Customer education to understand the risk and the uniqueness of the asset that they are purchasing is important to us.
+Where we would take a stand is making sure we do not broadly put things under the umbrella of a tokenized security is a tokenized security is a tokenized security. Some tokenized securities are true securities, some are derivatives, and we think that that is an important distinction, but I would point this out to you, Pete. We also felt this way about stablecoins when everything was like, "It is a stablecoin." And there was algorithmic stablecoins, and then there was one for one backed USDC. We did not like that broad brush of like, "Oh, they are all stablecoins." I think that we are all learning how to use taxonomy appropriately within crypto, and that is what is really important. Education, proper use of taxonomy, clear rules so that investors understand what they are purchasing and what risk they are taking.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+We hosted one of your peers earlier this morning involved in the tokenization area, and there is a lot of questions about value proposition to every player in the ecosystem, whether that is the issuer, the broker dealer, the exchange, the buy side, sell side, all of that. I think the value prop might be different for each one of these contingencies. But what strikes me as the most interesting is the technology enablement that tokenized real world assets provides. I am curious your view, and there is a lot of equities practitioners in this building right now. How do you think this might change the world for the equities business in particular?
+## Alesia Haas | CFO, Coinbase
+I have a very simple view here. My simple view is that roll back 50 years, we had certificated securities, and many people owned a security certificate. We now have a digital version of that where you can self-custody and you can own a security on-chain. But now that security on-chain has all the digital benefits that we have also now learned about as we move from certificated securities into digital securities. So we went back to now self-sovereignty, control, the ability to own something, and the benefits of it being digital and transferable and liquid and getting access to a bigger market and giving more inclusion and access. I think that we have security plus land going on, and I think that is good for issuers to have bigger markets to be able to issue their securities in.
+I think that's good for humans to be able to own more assets, no matter who you are, where you are in the world. I think those are the two net benefits to society. I personally spend less time thinking about the, "Well, I played this seat in the equity ecosystem," or, "I sat in this seat." I think we as businesses have all have to adapt and learn and grow to listen to where the market and the customers are taking us.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Adapt and grow. My first job, Alesia, 1999, I was a runner, and stocks were still traded in fractions.
+## Alesia Haas | CFO, Coinbase
+I was an investment banking analyst, and I had to walk downstairs to the library to pick up my 10-K to be able to type numbers into a computer. So yes, adapt and grow.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I used the fax machine a lot.
+## Alesia Haas | CFO, Coinbase
+I did too.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I was a big user.
+## Alesia Haas | CFO, Coinbase
+I did too. Now I use Agentic.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+It's terrible.
+## Alesia Haas | CFO, Coinbase
+Amazing.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+It's terrible.
+## Alesia Haas | CFO, Coinbase
+Ugh.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+We've come a long way.
+## Alesia Haas | CFO, Coinbase
+We sure have. If I can do it, everyone else can too. Yes.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I do want to talk about Agentic AI. It's a good segue here. Just last year we were talking about the convergence of AI and crypto in Agentic payments. Today, Base is capturing over 90% of on-chain Agentic stablecoin volume, and x402 has processed over $100 million in transactions. How much of that, and I understand the project now is in the great hands of The Linux Foundation, and things are beginning to scale here.
+## Alesia Haas | CFO, Coinbase
+Yeah.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+So it's still early days. But I think at this juncture, and maybe you can help frame expectations for the audience here, how much today is volume genuinely economical versus experimental test traffic? And do you expect transaction volume to show up as a distinct material line in your financials anytime soon?
+## Alesia Haas | CFO, Coinbase
+The answer is no, because where we monetize is at Base sequencer fees.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Right.
+## Alesia Haas | CFO, Coinbase
+Base sequencer fees are in our other transaction revenue. It is a distinct financial line item, but it's not material enough to break out on its own. So as it scales and grows, the answer is yes, it would be broken out. Just as we talked about, we started to break out volume in transaction revenue with the large assets in our earnings presentation. So when material, yes. We're seeing nice growth. It's early days. We have strong belief in the long-term growth trajectory of Agentic payments, and just can see with AI adoption and uses, that that friction is getting lower. People are using it more and more in their daily lives, and we think that that will then start to be connected with more and more financial transactions.
+We are working hard to build the tools to make it easy for agents to transact in Coinbase. So long-term growth prospects, yes, today, not material.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Is there a technological catalyst that makes x402 a lot more broadly used, or is it a distribution problem? Is it a, "Hey, we need to teach individuals, businesses, merchants, what have you, this may be a better way to transact for their particular needs." Just curious how you think, and I won't hold you to it, but how do you think this plays out?
+## Alesia Haas | CFO, Coinbase
+Look, I think that there's some business models where you pay in micropayments that are naturally going to be the early adopters of crypto and Agentic.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+These are new payment use cases.
+## Alesia Haas | CFO, Coinbase
+These are new payment use cases, but you already see it with agents buying inference, for example.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Right.
+## Alesia Haas | CFO, Coinbase
+Those I think will be the early adopters. I think the later adopters will be U.S. customers buying a payment online where we have our credentials already.
+moved. There needs to be where it is natural, we will see growth there, and then they will continue to move on once there is liquidity and depth.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I love to tell people ACH can not do nano payments.
+## Alesia Haas | CFO, Coinbase
+Yeah.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+It is going to be really exciting to see how that scales. Rightly, Base has become the key settlement layer for Agentic activity. How do you think about competing L2s coming into the fray? How should investors think about medium term economics of a chain increasingly used by machines versus humans?
+## Alesia Haas | CFO, Coinbase
+Well, I think machines and agents are going to be the economic animals that they are and optimized for fast, cheap, quality. I think that they will do that in a more rigorous way than humans do today, and that's what we have been really focused on with Base to make it scaled, cheap, fast. What you see with Base is real adoption. There's real total value locked on chain. There's real transaction volume and growth. That is a network effect business. That is a liquidity business. Base is meaningfully ahead, but we need to continue to work and develop the chain to make sure it continues to be first choice amongst developers.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Is it getting more, obviously, I'm sure it is, getting new users to develop and to work on the chain, but also increasing engagement with existing users, partners, what have you. How should I think about, at least maybe from the partner perspective or the external developer perspective, what is the go-to-market for Base?
+## Alesia Haas | CFO, Coinbase
+Well, increasingly, we're using Base as part of our Coinbase Developer Platform as a full stack solution where we can offer USDC on Base and the developer tooling for payments. That is one of the key growth catalysts and go-to-market strategies for Base.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Really like an end to end.
+You really have each one of these solutions. It is interesting, in a prior life, I was an associate covering the smartphone industry. I probably told this story before. There used to be 20 operating systems.
+What we used to do is you used to count how many developers are on each, and you just saw that.
+## Alesia Haas | CFO, Coinbase
+Of course.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Wow.
+## Alesia Haas | CFO, Coinbase
+Everything in technology goes through fragmentation, then consolidation. We are still in the fragmentation era of crypto.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Interesting. I'm going to put you on the spot here a little bit. We're starting, obviously, your partner Circle is about to debut Arc. We're hearing about other permissioned chains or special purpose chains come to market potentially in the near future. For utility focuses, for payments, maybe even for security settlement, those sorts of things, how do you think this permission versus permission-less world plays out? Do they coexist? Do you see a shift away from permission-less into permissioned?
+## Alesia Haas | CFO, Coinbase
+We're big believers in permission-less because the security benefits and the resiliency that permission-less offers. I think permissioned is just V2 of what we have today, which is cloud, essentially. I don't see there's a huge material shift. The benefit really gets to be permission-less open architecture. As I mentioned, we're in fragmentation. I think that what we want to see is utilities that are broadly adopted, and that will bring the most end benefits to consumers and market participants.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I might push back a little bit, though. Obviously, I 100% agree with you how the technological evolution there. But finance and money is different. Obviously, we have that regulatory layer we need to consider. Do you think the regulatory layer influences that mix maybe for certain users, institutions, what have you? Were you starting to see growth on the permission side for a period, maybe more so than permission-less?
+## Alesia Haas | CFO, Coinbase
+I don't think we've hit any friction there to date. So anything is possible, but it doesn't seem to be the barrier that we're going to have to cross.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Fair enough. This is my CFO corner questions here.
+## Alesia Haas | CFO, Coinbase
+Okay.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+All right. Here we go. 2Q showed some real expense discipline. Every major cost line coming in below the midpoint of guidance, roughly $500 million taken out versus the 4Q run rate. Many product lines are also scaling at the same time. How are you thinking about maintaining that same discipline going forward, especially now that we've come after your recent recalibration on the expense side?
+## Alesia Haas | CFO, Coinbase
+Well, I'd focus you on the pull request that we shared also in Q2, that productivity per person is going up so meaningfully with AI, that we believe that we can continue to meet and grow our roadmap with a lower headcount base than we've had before. We're going to be very expense disciplined. We've always committed to be adjusted EBITDA positive, and we took an important step in Q2 to ensure that we can make good on that commitment, even if we see declining revenue. There's been no change to our velocity. We're shipping faster than ever.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Does that change the bounds on, depending on where we are in the crypto markets, if we're at levels that maybe we saw roughly this time last year versus the depth, does that change the bounds of how much EBITDA Coinbase can provide?
+## Alesia Haas | CFO, Coinbase
+Absolutely. If we see a rebound in overall price, we will see that accrue to the bottom line.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+So it is a pure operating leverage. Do you think that is linear, or do you think there is, maybe with all these new product lines that are coming on, how do you think about incremental margins? Obviously, that is like the toughest question for
+## Alesia Haas | CFO, Coinbase
+In the
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+a digital assets
+## Alesia Haas | CFO, Coinbase
+In the near term.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+info.
+## Alesia Haas | CFO, Coinbase
+because we've committed, our 2026 expenses will look very much like our 2025 expenses, absent what happens with USDC rewards.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Sure.
+## Alesia Haas | CFO, Coinbase
+We believe that that is the right level for where we are in the near term.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Nine consecutive quarters of native inflows is a great underlying signal. I have another signal for you, by the way. I counted up my readership from the previous quarter on earnings notes versus just this past earnings cycle, and readership is up 40%.
+## Alesia Haas | CFO, Coinbase
+Wow
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+a positive indicator.
+## Alesia Haas | CFO, Coinbase
+Thank you for that.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Yes. It's good to see that.
+## Alesia Haas | CFO, Coinbase
+That is the Base.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+It was a little quiet for a while, I am not going to lie.
+## Alesia Haas | CFO, Coinbase
+All right.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Nine consecutive native inflows, great underlying signal, even though we are in a choppier environment. What does that tell you about user behavior and that headline trading volumes perhaps are not capturing?
+## Alesia Haas | CFO, Coinbase
+I think it shows trust in our platform. It shows our brand strength. You can also point to that our market share continues to tick up. Our assets on platform, native units grew, Coinbase One membership grew, market share continues to grow despite overall headwinds. It shows that we are growing our TAM, as I opened the conversation with, adding new products and services. Our brand of trust is still attractive to users. They're choosing us over competition, and that we have a lot of runway.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I would imagine the ideas and potential for further TAM expansion is still there. Without giving any clues or anything like that, do you hold that same belief?
+## Alesia Haas | CFO, Coinbase
+I absolutely do, but I think it's so important to look at what we've already put a foothold into growing today. We have a whole derivatives market to go after, which is still 70%+ of the overall U.S. and global crypto market. We have prediction markets to grow into. We have equities to grow into. We have financing products. We have started the foundational elements to really go capture a lot of upside.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Well, let's put this all together, and I want to wrap up with this one. Five years from now, when I remember five years ago. I think it was Bitcoin was-
+## Alesia Haas | CFO, Coinbase
+2022.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+It was.
+## Alesia Haas | CFO, Coinbase
+2022. We were going public.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+It was 12% revenue last quarter.
+## Alesia Haas | CFO, Coinbase
+It was 50%.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+50%.
+## Alesia Haas | CFO, Coinbase
+Yeah.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Quite a bit. So five years from now, when people look back at Coinbase and they are asking why they pulled ahead so far, what is the one capability do you think that they will point to?
+## Alesia Haas | CFO, Coinbase
+I think it is the unification of tradable assets on a single tech stack. Being able to offer cross-margin, really able trading efficiency. TAM will be bigger. Benefits of customers will be bigger. We will be the best place to trade, and that will then generate a lot of volume and market share.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+I remember asking you this question very early on in our coverage shortly after your IPO. Does decentralization hurt that vision or help that vision?
+## Alesia Haas | CFO, Coinbase
+It is going to be an and.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Ooh.
+## Alesia Haas | CFO, Coinbase
+I think that you're going to see a percent on decentralized, but I think that the value of centralization in terms of security, in terms of just low latency for active traders, will continue to accrue benefits, and we'll have an ecosystem that includes both.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Customer service, I would imagine.
+Fantastic. Alesia Haas, thank you so much.
+## Alesia Haas | CFO, Coinbase
+Thank you, Pete.
+## Pete Christiansen | Director of Digital Assets and FinTech Services Equity Research, Citi Research
+Great conversation. Thank you.
+## Alesia Haas | CFO, Coinbase
+Thank you so much.
+Data Source: Quartr Last updated: Sep 10, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

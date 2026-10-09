@@ -1,0 +1,352 @@
+TITLE: Cisco AI Summit 2026
+DATE: 2026-02-04
+## Chuck Robbins | Chair and CEO, Cisco
+Jensen reminded me as we brought a glass of wine out here, he said, "You realize you're streaming this, right?"
+## Jensen Huang | Founder and CEO, NVIDIA
+Awesome.
+## Chuck Robbins | Chair and CEO, Cisco
+Hey, whatever, it's late.
+## Jensen Huang | Founder and CEO, NVIDIA
+Well,
+## Chuck Robbins | Chair and CEO, Cisco
+So, uh-
+## Jensen Huang | Founder and CEO, NVIDIA
+The first principle is do no harm.
+## Chuck Robbins | Chair and CEO, Cisco
+Do no harm.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, yeah.
+## Chuck Robbins | Chair and CEO, Cisco
+Recognize how blessed you are.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yes.
+## Chuck Robbins | Chair and CEO, Cisco
+So, first of all, thanks everybody for being here for an incredibly long day. We started this thing early this morning, and we had speaker after speaker after speaker after speaker, and then we had about a 2.5-hour break, and they came back to see you. So,
+## Jensen Huang | Founder and CEO, NVIDIA
+I've been up since 1:00 A.M.
+## Chuck Robbins | Chair and CEO, Cisco
+This guy, this guy is on the tail end of a two-week trip in four or five different countries, cities in Asia.
+## Jensen Huang | Founder and CEO, NVIDIA
+One day ago I was in Taiwan. Last night, I was in Houston. Here I am.
+## Chuck Robbins | Chair and CEO, Cisco
+But he's been gone two weeks, and we're standing between him and his, his personal bed versus a hotel. So we're gonna, we're gonna have fun-
+## Jensen Huang | Founder and CEO, NVIDIA
+My puppies were-
+## Chuck Robbins | Chair and CEO, Cisco
+... and then we're gonna, we're gonna get him out of here.
+## Jensen Huang | Founder and CEO, NVIDIA
+Long time.
+## Chuck Robbins | Chair and CEO, Cisco
+So, but you don't, you don't need much of a-
+## Jensen Huang | Founder and CEO, NVIDIA
+I'm very happy to be here.
+## Chuck Robbins | Chair and CEO, Cisco
+... of an introduction, but thank you for being here, man.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, thank you.
+## Chuck Robbins | Chair and CEO, Cisco
+We really appreciate it.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Chuck Robbins | Chair and CEO, Cisco
+And, uh-
+## Jensen Huang | Founder and CEO, NVIDIA
+Thanks for our partnership, and really proud of you guys.
+## Chuck Robbins | Chair and CEO, Cisco
+So, let's start with that. We have had a partnership, and you introduced this whole concept of AI factories, and we're working on this together. It's probably not going as fast as either one of us would like in the enterprise space, but can we start by talking about what is an AI factory to you?
+## Jensen Huang | Founder and CEO, NVIDIA
+So, so first of all, remember, we're reinventing computing for the first time in 60 years. What used to be explicit programming, right? We wrote the programs, and the variables that's passed through APIs and are very explicit to implicit programming. You now tell the computer what your intent is, and it goes off, and, and it figures out how to solve your problem. So from explicit to implicit, from general purpose computing, basically calculation, to artificial intelligence. The entire computing stack has been reinvented. Now, people talk about computing, where the processing layer is, which is where we are. But remember what computing is. There's computing, there's the processing, but there's storage, networking, and security. All that is being reinvented as we speak. And so the first part, the first part is we need to develop AI to a level, and we'll talk about that.
+We need to develop AI to a level that is useful to people. Until now, chatbots, where you give it a prompt and it figures out what to tell you, is interesting and curious, but not useful. And-
+## Chuck Robbins | Chair and CEO, Cisco
+Helps me finish crossword puzzles sometimes.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yes. And but only on things that it had memorized and generalized. So if you look... Go back in the beginning of, I mean, it's a little literally only three years ago, when ChatGPT emerged, that we thought, "Oh, my gosh, it's able to generate all these words. It's able to create Shakespeare," but it's all based on things that it memorized and generalized. And but we know that intelligence is about solving problems, and solving problems is partly about knowing what you don't know, partly about reasoning how to solve a problem you've never seen before. Breaking it down into elements that you know how to solve very easily, so that in its composition, that you're able to solve problems that you've never seen before.
+To come up with a strategy, what we call plan, to perform a task, ask for help, use tools, do research, so on, so forth. These are all fundamental things that now in the phraseology of agentic AI, you've heard. Isn't that right? Tool use, research, retrieval-augmented generation, which is grounded on facts, memory. These are all things that all of you in the context of talking about agentic AI, you're starting to hear. But the important thing, the important thing is, in order to evolve from general purpose computing, which is explicit programming, we wrote it in Fortran, we wrote in C, we wrote in C++ to-
+## Chuck Robbins | Chair and CEO, Cisco
+COBOL.
+## Jensen Huang | Founder and CEO, NVIDIA
+That's right. That's good stuff. That's good stuff, Chuck. That's good stuff.
+## Chuck Robbins | Chair and CEO, Cisco
+It's my fallback job.
+## Jensen Huang | Founder and CEO, NVIDIA
+That's good stuff. That's good stuff. Yeah. That's one of those, that's one of those skills that remains valuable.
+## Chuck Robbins | Chair and CEO, Cisco
+I know. I know.
+## Jensen Huang | Founder and CEO, NVIDIA
+It remains valuable.
+## Chuck Robbins | Chair and CEO, Cisco
+I've gotten a lot of offers.
+## Jensen Huang | Founder and CEO, NVIDIA
+Dinosaurs are valuable forever.
+## Chuck Robbins | Chair and CEO, Cisco
+We just established that you're older than me.
+## Jensen Huang | Founder and CEO, NVIDIA
+I know, and I'm, I'm the prehistoric. It doesn't appear so, but it's true.
+## Chuck Robbins | Chair and CEO, Cisco
+All right, that was pretty good.
+## Jensen Huang | Founder and CEO, NVIDIA
+I'm the older, probably the older person in this room.
+## Chuck Robbins | Chair and CEO, Cisco
+Hmm. So how do you... So Jensen, let's talk a little bit about, like, as you, as you think about the AI-
+## Jensen Huang | Founder and CEO, NVIDIA
+So, so here we are. I went to Chuck, and I said: Hey, listen, we need to reinvent computing, and Cisco's got to be a big part of it. We've got, we've got, we have a new, new whole computing stack coming out, Vera Rubin.
+## Chuck Robbins | Chair and CEO, Cisco
+Mm-hmm.
+## Jensen Huang | Founder and CEO, NVIDIA
+And, Cisco is gonna be a ton of market with us on that. And so that's the computing layer, but there's also the networking layer, and, Cisco is gonna integrate AI networking technology from us, but put it into the Cisco Nexus plane.
+Control plane, so that from your perspective, you're gonna get all the performance of AI, but in the controllability, and security, and the manageability of Cisco. And we're gonna do the same thing with security. And so each one of these pillars has to be reinvented, so that enterprise computing could take advantage of it. But ultimately, and we'll come back to this, hopefully, you know, why is it that enterprise AI wasn't ready three years ago? And why it is that you have no choice but to get engaged as quickly as you can? Okay, don't fall behind. I think there's you don't have to be the first company to take advantage of AI, but don't be the last. Yeah.
+## Chuck Robbins | Chair and CEO, Cisco
+Mm-hmm. So if you're an enterprise today, what's your recommendation on the first, second, third step they should take to begin to get ready?
+## Jensen Huang | Founder and CEO, NVIDIA
+Well, I get questions like things like ROI, and I wouldn't go there. The reason for that is because with all technology deployments in the beginning, it's hard to put into a spreadsheet the ROI of a new tool, a new technology. But what I would do is I would go find out what is the essence of my company? What's the most impactful work that we do in our company? Don't mess around with peripheral stuff. I mean, in our company, we have. We just let a thousand flowers bloom. The number of different AI projects in our company is out of control, and it's great.
+Notice I just said something, "It's out of control, and it's great." Innovation is not always in control. If you wanna be in control, first of all, you gotta seek therapy, but second, it's an illusion. You're not in control. If you want your company to succeed, you can't control it. You wanna influence it, you can't control it. And so I think, number one, too many people want it, too many companies I hear, they want it explicit, they want it specific, they want demonstrable ROI. And, you know, showing the value of something worth doing in the beginning is hard.
+But what I would do, or what I would say is that, "Let a thousand flowers bloom, let people experiment, let the people experiment safely." And we're experimenting with all kinds of stuff in the company. We use Anthropic, we use Codex, we use, you know, we use Gemini, we use everything. And when one of our group says, "I'm interested in using this AI," my first answer is, "Yes," and then I'll ask, "Why?" Instead of, "Why, then yes" I say, "Yes, then why?" And the reason for that is because I want the same thing for my company, that I want for my kids: "Go explore life." They say they wanna try something, the answer is, "Yes," and then I say, "How come?" You don't go, "Prove it to me.
+Prove to me that doing this very thing is gonna lead to financial success or some happiness someday. Prove to me, and until you prove it to me, I'm not gonna let you do it!" We never do that at home, but we do it at work. Do you know what I'm saying?
+## Chuck Robbins | Chair and CEO, Cisco
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+It makes no sense to me. And so the way that we treat AI and whether it's AI, or the internet before, or cloud before, just let a thousand flowers bloom. And then at some point, you have to use your own judgment to figure out when to start curating the garden.
+## Chuck Robbins | Chair and CEO, Cisco
+Mm-hmm.
+## Jensen Huang | Founder and CEO, NVIDIA
+Because a thousand flowers bloom makes for a messy garden, but at some point, you have to start curating to find what's the best approach or what's the best platform, what's... So that you can put all your wood behind one arrow. But you don't wanna put all your wood behind one arrow too soon.
+## Chuck Robbins | Chair and CEO, Cisco
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+You pick the wrong arrow. So let a thousand flowers bloom, at some point you curate. And so I haven't started curating yet, just to put it in perspective. I've got a thousand flowers bloom everywhere, but I encourage everybody to try. However, I know exactly what is most important to our company. Of course, I, of course, I do. What is the essence of our company? What are the most important work of our company? And I make sure that I've got a lot of expertise and a lot of capability focused on using AI to revolutionize that work. In our case, chip design, software engineering, system engineering. Notice. You might have noticed that, that, that we partnered with Synopsys, and Cadence, and Siemens, and today, Dassault, so that we could insert our technology and infuse as much technology as they want.
+Whatever they want, whatever they need, I will provide, so that I could revolutionize the tools by which we use to design what we do.
+## Chuck Robbins | Chair and CEO, Cisco
+Mm-hmm.
+## Jensen Huang | Founder and CEO, NVIDIA
+We use Synopsys everywhere, we use Cadence everywhere, we use Siemens everywhere, we use Dassault everywhere. I will make sure that they have 1,000% of whatever they want, so that I have the tools necessary, so I could create the next generation. So that tells you something about how my attitude about what's most important to me and what I will do to revolutionize my own work.
+## Chuck Robbins | Chair and CEO, Cisco
+Mm.
+## Jensen Huang | Founder and CEO, NVIDIA
+Think about what AI does. AI reduces the cost of intelligence or create the abundance of intelligence by orders of magnitude. That's another way of saying, what we used to do that takes, you know, one unit of time, now, what we used to take a year could take a day now. What we used to take a year could take an hour. It could be done in real time. And the reason for that is because we are in the world of abundance. Moore's Law, goodness gracious, that was slow! That's like snails. Remember, Moore's Law was two times every 18 months, 10 times every five years, 100 times every 10, okay? But where are we now? A million times every 10 years.
+In the last 10 years, we advanced AI so, so far, that engineers said, "Hey, guess what? Why don't we just train an AI model on all of the world's data?" They didn't mean, "Let's just collect all of the data from my disk drive." Let's pull down all of the world's data, and let's train an AI model. That's the definition of abundance. The definition of abundance is, you look at a problem so big, and you say, "You know what? I'll do it all. I'm gonna cure every field of disease. I'm not gonna just do cancer. Are you kidding me? That's insane. We'll just do all of human suffering." That's abundance. When I think about engineering, when I think about a problem these days, I just assume my technology, my tool, my instrument, my spaceship, is infinitely fast.
+How long is it gonna take for me to go to New York? I'll be there in a second. So what would I do different if I can get to New York in a second? What would I do different if something used to take a year, and it now takes real time? What would I do different if something, you know, used to weigh a lot, and now it's just anti-gravity? And so you approach everything with that attitude. When you approach everything with that attitude, you are applying AI sensibility. Does that make sense? For example, there are many companies that we're working with, where the graph analytics, the dependency, the relationships and dependencies that... You know, these graphs, they have so many edges, so many nodes and edges, trillions of them. Back in the old days, you would, you would process a graph, small pieces of it.
+These days, "Just give me the whole graph. How big is it? I don't care." That sensibility is being applied everywhere. If you're not applying that sensibility, you're doing it wrong. If speed matters not at all, you're at the speed of light. If mass is, you're at zero weight, zero gravity. If you're not applying that logic, if there's something that's notâit's insanely hard to you in the past, and you go, "Eh, doesn't matter," if you're not applying that logic, you're not doing it right. Now, imagine you applied that logic, that sensibility, to the hardest problems in your company. That's how you're gonna move the needle, and that's how they all think now. The people who are... If you're not thinking that way, just, all you have to do is just imagine your competitor's thinking that way.
+If you're not thinking that way, just imagine a company who's about to get founded is thinking that way. It changes everything. And so I would go find where the most impactful work in your company is. Apply infinity to it, apply zero to it, apply the speed of light to it, and then ask Chuck how to make that happen.
+## Chuck Robbins | Chair and CEO, Cisco
+Now, let's talk about how to make that happen. So you have this analogy of a-
+## Jensen Huang | Founder and CEO, NVIDIA
+Just call me, I'll-
+## Chuck Robbins | Chair and CEO, Cisco
+We'll call you. We'll just call you.
+## Jensen Huang | Founder and CEO, NVIDIA
+We'll do it together. We'll do it together.
+## Chuck Robbins | Chair and CEO, Cisco
+You have this analogy of this five-layer cake, because everybody's-
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah
+## Chuck Robbins | Chair and CEO, Cisco
+... talking about, like, infrastructure-
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, what is AI?
+## Chuck Robbins | Chair and CEO, Cisco
+-models, apps.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Chuck Robbins | Chair and CEO, Cisco
+I mean, how do I, how do I go about it? Talk about that a little bit.
+## Jensen Huang | Founder and CEO, NVIDIA
+Well, you know, one of the things that successful people do is they reason about what is something? You know, what's happening here? So almost 15 years ago, an algorithm was able to, with two engineers, solve a computer vision problem. Computer vision is basically the first part of intelligence, perception. Intelligence is perception, reasoning, planning. Perception, what am I sensing? Whatâs going on? Whatâs my context? Reasoning, how do I reason about it? How do I compare this to my goals? And then three, come up with a plan to solve that, to achieve that, okay? And so thatâs it. So, you know, for example, the jet fighter problem, you know, perception, localization, and then action. And so intelligence is about those three things. You canât have the second and third part without perception.
+You can't understand. You can't figure out what to do without understanding context, and context is highly multimodal. Sometimes it's a PDF, sometimes it's a spreadsheet, sometimes it's information, sometimes just, you know, senses and smells. You know, what, where are we? What are we doing here? Who's the audience? You know, so on and so on. Reading the room, you know, so on and so forth, right? And so that's about perception. And so about 13-14 years ago, we made a huge, gigantic leap in computer vision, which is the first layer of the perception problem, and it was super hard. You know, how do you solve computer vision? And AlexNet and the first breakthrough that we saw, it was kind of like The First Contact. You know, I love that movie. The First Contact.
+You know, it was like our first contact to AI. And the thing that we did was we said: Okay, what does that mean? How is it possible that two engineers was able to overcome the algorithms that we worked, all of us worked on for some 30 years? You know, and Ilya Sutskever, I talked to him yesterday, and Alex Krizhevsky, and how is it possible two kids with a couple of GPUs solved this problem? What does it mean? And so we broke it all down, and I reasoned about it a decade ago. And I came to the conclusion that, in fact, most of the hard problems in the world that can be solved, can't be solved, can be solved this way.
+The reason for that is most of the hard problems in the world, most of the, most of the valuable problems, have no principled algorithms. There's no F equals ma. There's no Maxwell's equation. There's no SchrÃ¶dinger's equation. There's, you know, there's no Ohm's Law. There's no... It just doesn't exist. There's no law of thermodynamics. It's not that specific. Most of the valuable things that we call intuition and wisdom, and it's all, you know, the problems that, you know, you, Chuck, the type of problems that you and I get, the answer is, "It depends." Do you know what I'm talking about? You know, if it was, if it was three, it'd be great. If it was 3.14, it'd be fantastic, okay?
+Those are, those are the great ones, but most of the hard problems in life, most of the valuable problems in life are, "It depends," because it depends on the context. It depends on the circumstance, context. So, 12 years ago, 13 years ago, something like that, computer vision was solved, and so we reasoned that, in fact, this could be scalable because of deep learning, and you could make the models larger and larger, and there was only one problem we had to solve, which is: how do we train that model? And the big breakthrough was self-supervised learning or unsupervised learning. Self-supervised AI is that goes and learns by itself, and notice today, we're not limited by labeling anymore. We're not limited, not even close.
+And so that breakthrough opened up the floodgates for us to scale these models from a few hundred parameters, a few hundred million parameters to billions, to trillions. And the amount of knowledge we can codify, the number of skills we can learn algorithmically, you know, really largely exploded. But the basic approach was the same, and we reasoned that, in fact, we're gonna reinvent, and which is the beginning of our conversation, we're gonna reinvent computing altogether, from explicit programming to a new way of doing computing, where the models, the software will be learned. Now, what happens? What does that mean? If you take another step back and you go, "Okay, what does that mean to the computing stack? What does it mean to, what does it mean to how you develop software? What has happened to the engineering organization in your company?
+What happens to the product marketing team that specifies the product? What happens to the engineering team that codifies the product? What happens to the QA team that evaluates the product? What do these products even become someday? How do we deploy the product? How do we keep it up to date? If it's based on machine learning, how do you keep it refreshed forever? How do you patch software? And so how do you... You know, so on and so forth. The number of hows I asked about the future of computing, you know, must have been 1,000 questions. And I came to the conclusion, our company came to the conclusion that this is gonna change everything. And so we pivoted the whole company based on that core belief.
+Simplistically, what Chuck is saying is that we came from a world where everything was pre-recorded. The software that Chuck worked on-
+## Chuck Robbins | Chair and CEO, Cisco
+Really good stuff.
+## Jensen Huang | Founder and CEO, NVIDIA
+Is, it-
+## Chuck Robbins | Chair and CEO, Cisco
+It ran a very long time, just for the record.
+## Jensen Huang | Founder and CEO, NVIDIA
+It was indeed, and it was described in Hebrew.
+## Chuck Robbins | Chair and CEO, Cisco
+That is true. That was another skill. I mean, COBOL and Hebrew, I mean-
+## Jensen Huang | Founder and CEO, NVIDIA
+Chuck is the only person in the room that knows Hebrew COBOL. And so anyways, that was pre-recorded. We engineer, we describe our algorithm, we describe our thoughts, and then we put data that goes along with it. It's everything is pre-recorded. The reason why it's pre-recorded, the reason why you know software in the past was pre-recorded is because it came in a CD-ROM. Isn't that right? Yes. It was pre-recorded. Okay, what is software now? Because it's contextual-
+## Chuck Robbins | Chair and CEO, Cisco
+It's dynamic
+## Jensen Huang | Founder and CEO, NVIDIA
+... and every context is different, and everybody who uses the software is different, and every prompt is different, and the precursor you give it, the priors you give it, the context is different. Every single instance of the software is different, which is the reason why the amount of computation necessary in the past, which is pre-recorded, it's called retrieval-based. All you have to do is check yourself. When you use your phone, you touch something, it went and retrieved some software, some files, some images, and brought it to you. In the future, everything is gonna be generative, just like it's happening right now.
+This conversation has never happened before. The concepts existed before. The priors existed before. But every single word in this sequence has never happened before, and the reason for that is obviously we're four wines in.
+## Chuck Robbins | Chair and CEO, Cisco
+Good.
+## Jensen Huang | Founder and CEO, NVIDIA
+You know, you got-
+## Chuck Robbins | Chair and CEO, Cisco
+COBOL and Hebrew have never come out of the other way. Cold brew, yes. COBOL Hebrew, no.
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank goodness this is not on campus. You know, both of us-
+## Chuck Robbins | Chair and CEO, Cisco
+Or being streamed.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah. Yeah.
+## Chuck Robbins | Chair and CEO, Cisco
+All right, let's-
+## Jensen Huang | Founder and CEO, NVIDIA
+Do you understand what I'm saying? And so, as a result,
+## Chuck Robbins | Chair and CEO, Cisco
+Do you understand what you're saying?
+## Jensen Huang | Founder and CEO, NVIDIA
+The only thing that Chuck has fed me today so far is four glasses of wine.
+## Chuck Robbins | Chair and CEO, Cisco
+To be fair, I only fed you-
+## Jensen Huang | Founder and CEO, NVIDIA
+I was eyeing the food.
+## Chuck Robbins | Chair and CEO, Cisco
+I fed you one of them.
+## Jensen Huang | Founder and CEO, NVIDIA
+No, I-
+## Chuck Robbins | Chair and CEO, Cisco
+You took the other three off the buffet.
+## Jensen Huang | Founder and CEO, NVIDIA
+I was, I was eyeing the food. I was like, "So... I'm so hungry." I'm eyeing the food. It was forever, about 40 ft away from me.
+## Chuck Robbins | Chair and CEO, Cisco
+It's 'cause you were taking photos.
+## Jensen Huang | Founder and CEO, NVIDIA
+But it was... I was like, "It was so close." "It was so close." And I, I actually leaned towards the food one time, but I was pushed back again.
+## Chuck Robbins | Chair and CEO, Cisco
+You know what? You know what happened? Your team actually told us ahead of time, if you get three glasses of wine in, he's optimal. If you get the fourth one in-
+## Jensen Huang | Founder and CEO, NVIDIA
+Five
+## Chuck Robbins | Chair and CEO, Cisco
+... it's gonna be a problem.
+## Jensen Huang | Founder and CEO, NVIDIA
+Five, yes, this is suboptimal. So anyways... listen. So what is AI? We have to leave some wisdom behind.
+## Chuck Robbins | Chair and CEO, Cisco
+Can we get another glass of wine, please?
+## Jensen Huang | Founder and CEO, NVIDIA
+This is notâ
+## Chuck Robbins | Chair and CEO, Cisco
+Um-
+## Jensen Huang | Founder and CEO, NVIDIA
+This is not just Dave Chappelle stuff.
+## Chuck Robbins | Chair and CEO, Cisco
+Okay.
+## Jensen Huang | Founder and CEO, NVIDIA
+You've gotta leave some-
+## Chuck Robbins | Chair and CEO, Cisco
+Let's talk about something... Let's talk about one other thing.
+## Jensen Huang | Founder and CEO, NVIDIA
+Energy.
+## Chuck Robbins | Chair and CEO, Cisco
+That.
+## Jensen Huang | Founder and CEO, NVIDIA
+Chips.
+## Chuck Robbins | Chair and CEO, Cisco
+Energy sounds good.
+## Jensen Huang | Founder and CEO, NVIDIA
+Energy, chips, infrastructure, both hardware and software, then the AI model, but the most important part of AI is applications. Every single country, every single company, all that layer underneath is just infrastructure stuff. What you need to do is apply the technology. For God's sakes, apply the technology. A company that uses AI will not be in peril. It's the company who, you know, you're not gonna lose it, you're not gonna lose your job to AI, you're gonna lose your job to someone who uses AI. So get to it. That's the most important thing.
+## Chuck Robbins | Chair and CEO, Cisco
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Call Chuck as soon as possible.
+## Chuck Robbins | Chair and CEO, Cisco
+You call me, I'll call him.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Chuck Robbins | Chair and CEO, Cisco
+Got it. So we don't have a lot of time, so I'm not sure-
+## Jensen Huang | Founder and CEO, NVIDIA
+We got all the time in the world.
+## Chuck Robbins | Chair and CEO, Cisco
+Do we? How much more-
+## Jensen Huang | Founder and CEO, NVIDIA
+Look, look-
+## Chuck Robbins | Chair and CEO, Cisco
+Ma'am
+## Jensen Huang | Founder and CEO, NVIDIA
+... Chuck, Chuck, like, he runs, he bills on the clock. I don't even wear a watch. Look at that. Look at that, Chuck.
+## Chuck Robbins | Chair and CEO, Cisco
+I got you right here.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, yeah.
+## Chuck Robbins | Chair and CEO, Cisco
+We're doing great.
+## Jensen Huang | Founder and CEO, NVIDIA
+You bill people on the clock.
+## Chuck Robbins | Chair and CEO, Cisco
+Oh, yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Not me. I'm not leaving until value's delivered.
+## Chuck Robbins | Chair and CEO, Cisco
+See-
+## Jensen Huang | Founder and CEO, NVIDIA
+If it takes all night, I'm not... Hey, look, I'm gonna torture all of you until-
+## Chuck Robbins | Chair and CEO, Cisco
+But Jensen-
+## Jensen Huang | Founder and CEO, NVIDIA
+You know, listen-
+## Chuck Robbins | Chair and CEO, Cisco
+... that's why guys like me need to watch. All right, can you, can you-
+## Jensen Huang | Founder and CEO, NVIDIA
+Until you could say that you learned something, you are going to be trapped in here.
+## Chuck Robbins | Chair and CEO, Cisco
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+We're gonna torture everybody until value is delivered.
+## Chuck Robbins | Chair and CEO, Cisco
+I did check, there is more wine. Can you just give us your top of mind on physical AI?
+## Jensen Huang | Founder and CEO, NVIDIA
+Remember what, remember what software is. Software is a tool. There's this notion that the tool in the software industry is in decline, and will be replaced by AI. You could tell because there's a whole bunch of software companies whose stock prices are under a lot of pressure-
+## Chuck Robbins | Chair and CEO, Cisco
+Yeah
+## Jensen Huang | Founder and CEO, NVIDIA
+... because somehow, AI is going to replace them. It is the most illogical thing in the world, and time will prove itself. Let's just give it - let's give ourselves the ultimate thought experiment. Suppose we are the ultimate AI, artificial general robotics. The ultimate AI, the physical version of us.
+## Chuck Robbins | Chair and CEO, Cisco
+Mm-hmm.
+## Jensen Huang | Founder and CEO, NVIDIA
+You could, of course, solve any problem because, you know, you're humanoid. You could do things. If you were a human or a robot, would you use a screwdriver or invent a new screwdriver? I would just use one. Would you use a hammer or invent a new hammer? Would you use a chainsaw or invent a new chainsaw? It just don't. First of all, ideally, they don't use it at all. But, but do you understand what I'm saying? If you were a human or robot, artificial general robotics, would you use tools or reinvent tools? The answer, obviously, is to use tools. And so now do the digital version of that. If you were a artificial general intelligence, would you use the tools like ServiceNow, and SAP, and Cadence, and Synopsys, or would you reinvent a calculator?
+Of course, you would just use a calculator. That's the reason why the latest breakthroughs in AI is what? Tool use. Because the tools are designed to be explicit. There are many problems in our world where F equals ma. Please, could you please not come up with another version? F is not kind of ma, it's just ma. Do you guys... Ohm's Law, V equals IR, it's not kind of IR. You know, approximately IR? Statistically IR? It is IR. Okay, do you understand what I'm saying? And so, so I, I think we want the Artificial General Robotics, artificial general intelligence, to use tools.... Well, that's the big idea. I think that, that in the next generation of physical AI, we're gonna have AIs that understand the physical world, understand causality. If I tip this over, it's gonna tip all of that over.
+Do you understand the concept of a domino? Just the concept of a domino. Notice, a child understands if you tip that over, ba, ba, ba, bum. The concept of the domino is extremelyâit's, like, deeply profound. The causality, contact, gravity, mass, all of that is integrated into a domino, tipping dominoes over. The idea that you could have a little, tiny domino tip a larger domino, tip a larger domino, tip a larger domino, to the point where there's a ton on the other side, a child has no trouble with that concept. A large language model will have no idea, and so we have to teach. We have to create a new type of physical AI. Well, what's the opportunity? So far, the industry that Chuck and I have been part of is about creating tools. We have been in the screwdriver, hammer business.
+Our entire life has been about creating screwdrivers and hammers. For the first time in history, we are gonna create what people call labor, but augmented labor. Give you an example. What is a self-driving car? It's a digital chauffeur. What's a digital chauffeur valued at? A lot. A lot more than the car, and the reason for that is because in the lifetime of the digital chauffeur, the economics of the digital chauffeur is a lot more than the car. For the very first time, we are exposed to a TAM that is 100 times larger, literally, mathematically true. The IT industry is about a trillion dollars, right? Or so, plus or minus a couple, and yet the economy of the world is about a hundred trillion dollars. For the very first time, we're gonna be exposed to all of that.
+So it is the case that all of you, all of you, everybody in this room today, you have the opportunity to apply this technology to become a technology company. Let me give you some examples. I really believe, as much as I... Look, I love Disney, and I love working with Disney. I'm pretty sure they'd rather be Netflix. I love Mercedes. I came in a Mercedes. I am certain they'd rather be Tesla. I love Walmart. I am certain they'd rather be Amazon. Do you guys agree so far? Am I three for three? Yes. All of you are that way. I believe that we have an opportunity to help transform every single company into a technology company. Technology first. Technology first.
+Technology is your superpower, and the domain is your application, versus the other way, which is the domain is who you are, and you're seeking for technology. And the reason that's so, the reason that's so is because companies who are technology first, you're dealing with electrons, not atoms. And electrons, there's a lot more of them. Atoms, you're limited by mass, which is the reason why the moment they went from CD-ROMs to electrons, the value of the company exploded by 1,000 times. You need to be like us, an electron an electronics company, electron company, which is another way of saying a technology company. And so I, I think that, that the opportunity for you is here. Another way to think about that is AI, and we just said it earlier, even Chuck, who only knows how to program in Hebrew. It's a gift.
+His instrument choice is a and right to left. Because as you know, it smears otherwise. It is pretty smart, actually. Smart people do smart things. Yeah. And so, so the beautiful thing is that, as you know, the programming language of the world, and for all of your companies, you kind of feel like, "Oh, my gosh, you know, software is not our strength." But knowledge, intuition, domain expertise is your strength. When you get, you now, for the first time, can explain exactly what you want to a computer in your language. Do you remember where we started? From explicit programming to implicit programming. For the first time in history, you can program a computer implicitly.
+Just tell it what you want, tell it what you mean, and the computer will write the code, because coding, as it turns out, is just typing, and typing, as it turns out, is a commodity. And that's the great opportunity for you. All of you could be levitated above the atomic limitations that you were limited by before. All of you could escape from this limitation, which is we don't have enough software engineers, because, as it turns out, typing is a commodity... and all of you have something of great value, which is domain expertise, to understand the customer, understand the problem, and that is the ultimate value. That is the ultimate value, to understand the intent.
+You know, as you know, when you graduate from college, you could be a super programmer, but you have no idea what customers want. You have no idea what problems to solve. But that's what all of you know. You know what customers want. You know what problems to solve. The coding part of it is easy. Just tell the AI to do it, and so that's your superpower. So Chuck and I are here to enable you to do that. That closing was done with five glasses of wine in me. And so-
+## Chuck Robbins | Chair and CEO, Cisco
+Hey, listen.
+## Jensen Huang | Founder and CEO, NVIDIA
+It's a miracle indeed. Between-
+## Chuck Robbins | Chair and CEO, Cisco
+Yeah, this is-
+## Jensen Huang | Founder and CEO, NVIDIA
+... somebody who works off a tablet.
+## Chuck Robbins | Chair and CEO, Cisco
+This is a true representation of artificial intelligence. Or maybe that's enhanced-
+## Jensen Huang | Founder and CEO, NVIDIA
+So, Chuck, I
+## Chuck Robbins | Chair and CEO, Cisco
+... enhanced intelligence?
+## Jensen Huang | Founder and CEO, NVIDIA
+I just wanna tell you that it's a great pleasure working with all of you. Cisco, as you know, has extreme, extreme expertise in two very important pillars of the invention of computing. Without Cisco, there is no modern computing. One of them is, of course, networking, and the other one is security. And those, both of those pillars have been reinvented in the world of AI, and the part that we know very well, which is the computing part of it, in a lot of ways is a commodity. And the stuff that Cisco knows is deeply valuable, and between the two of us, we're gonna, you know, we'll be delighted to help all of you engage the world of AI.
+Somebody asked me earlier, and it's just, I just said, you know, I think it's worth repeating. Somebody asked me earlier, "Should you... Just rent the cloud, or should you even make the effort to build your own computer?" Here's what I would tell you. I would advise you to do exactly the same thing I advise my children: build a computer. Even though the PC is everywhere, even though it's mature, even though the technology is developed, for God's sakes, build one. Know why all the components exist. If you were to be in the world of automotive, the automobile industry, the transportation industry, don't just use Uber. For God's sakes, lift the hood, change the oil, understand all the components. For God's sakes, understand how it works. It is vital.
+This technology is so important to the future. You must have some tactile, tactile understanding of it. Lift the hood, change the oil, build something. Doesn't have to be large. Build something. You might discover you're actually insanely good at it. You might discover that you need that skill. You might discover that the world is not about all rent versus all own, that you wanna rent some and own some, because some part of your company should be built on-prem. For example, sovereignty and proprietary information, and you just, you just, you're not comfortable, you're not comfortable sharing your questions with everybody. You know the reason why I've never... This is a conceptual example. You know that when you go see a therapist, you don't want the questions to be online. You know? You know what I'm saying, okay? I'm just, I'm imagining this one. Okay?
+## Chuck Robbins | Chair and CEO, Cisco
+Hypothetical.
+## Jensen Huang | Founder and CEO, NVIDIA
+And so hypothetically-
+## Chuck Robbins | Chair and CEO, Cisco
+Hypothetical
+## Jensen Huang | Founder and CEO, NVIDIA
+... I think that a lot of questions you have, a lot of conversations you have, a lot of dialogue, a lot of uncertainties you have, ought to be kept private. Companies are the same way. I am not confident, I am not secure about putting all of NVIDIA's conversations in the cloud, which is the reason why we build it locally. We've built a super AI system locally, because I'm just not confident to share that conversation, because my, as it turns out, the most valuable IP to me is not my answers; they're my questions. Are you following me? My questions are the most valuable IP to me. What I'm thinking about are my questions. The answers are a commodity. If I simply knew what to ask, I'm identifying what's important, and I don't want people to know what I think is important.
+And I want that to be in a small room. I want that to be on-prem. I want that to be by myself, and I want to create my own AI. And then one last thought. Since it's already 11:00 P.M.. One last thought. There was an idea that AI should always have, have human in the loop. It's exactly the wrong idea. It's backwards. Every company should have AI in the loop, and the reason for that is because we want our company to be better and more valuable and more knowledgeable every single day. We never want to go backwards. We never want to go flat. We never want to start from the beginning, which means that if we have AI in the loop, it will capture our life experience.
+Every single employee in the future will have AI, lots of AIs, in the loop, and those AIs will become the company's intellectual property. That's the future company, and therefore, I think it sensible for all of you to call Chuck immediately.
+## Chuck Robbins | Chair and CEO, Cisco
+I'll call Jensen.
+## Jensen Huang | Founder and CEO, NVIDIA
+Anyhow, that's my close.
+## Chuck Robbins | Chair and CEO, Cisco
+Listen, let's, two weeks on the road, Jensen flew here, spent his last night, last evening with us before he gets to sleep in his bed for the first time in a long time. We're forever grateful. Appreciate you being here. Thank you very much.
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank you very much, and I-
+Data Source: Quartr Last updated: Feb 4, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

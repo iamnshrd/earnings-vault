@@ -1,0 +1,7 @@
+Company: JPMorgan
+ROIC Symbol: JPM
+ROIC Name: JPMorgan Chase & Co.
+Year: 2007
+Quarter: 2
+Date: 2007-07-18 09:00:00
+Executives

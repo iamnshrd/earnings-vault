@@ -1,0 +1,337 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-02
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Excellent. Thank you everyone for joining us. My name is Keith Weiss. I run the U.S. Equity Research franchise, covering software here at Morgan Stanley, and really pleased to start out my conference, talking with Intuit CEO, Sasan Goodarzi. Sasan, thank you so much for joining us.
+## Sasan Goodarzi | CEO, Intuit
+Thank you for having me. Happy Monday, everybody.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Excellent. Maybe to start off, you guys just reported Q2 results last week. A really impressive set of results, beat revenues. Almost every segment beat revenues. Operating margins came in well ahead of expectations. EPS, you beat EPS by 12.5%. Can you talk to us about what's going on under the hood? Like, what are the developments that you guys are seeing thus far in your fiscal year that's enabling you to put up those results, to beat on the top line and bring more leverage and beat on the bottom line the way that you did?
+## Sasan Goodarzi | CEO, Intuit
+Yeah, sure. Just as context, we ended our last fiscal year growing 16%, and to Keith's question, first half of the year, we actually grew 18%. Q2, which is what we just announced, was 17% top-line growth. Really, the drivers were across the entire business. Our business platform grew 18%, and within our business platform, a key metric we look at, which is one of the company's big bets is mid-market, that grew 40%. Our consumer platform grew 15%. You know, the double click that's really worth calling out there is TurboTax is off to a very strong start. It's grew 12%.
+By the way, while the IRS returns, 'cause early tax formation is not where we thought it would be, IRS is down actually 5 points, but our growth is up 12%. And then Credit Karma is really doing its job contributing to tax growth, and that grew 23%. So as you said, every part of the company, strong growth. The why is it's our AI-driven expert platform strategy, which, you know, we declared 7 years ago. And what we said we would create is a platform that combines technology and human intelligence to deliver experiences that are done for customers.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+That's unlocking our total addressable market. It's unlocking accelerated ARPC growth, and it's accelerating our margin expansion 'cause everything that we've done is, you know, tech-led. I'll just end, you know, with the following, which is, in this environment, you don't hear much about AI and HI. In our category, the combination of AI and HI is actually what's unlocking the growth that we are experiencing because our category is a category of one. We are in a category where customers make high-stakes financial decisions, and, consumers and businesses and accountants, if they get those decisions wrong, the liability is incredibly high-
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right
+## Sasan Goodarzi | CEO, Intuit
+... which is why they demand expertise, and it's the combination of those two that's driving the growth. We're excited about not just the quarter, but, you know, the years to come.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah. I'm gonna go off-script a little bit, but the AI-driven-
+## Sasan Goodarzi | CEO, Intuit
+I love it when we go off-script. Let's do it.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Excellent. Let's do it. That AI-driven expert platform, it's what's gotten me really excited about Intuit, and it took me a while to get it, right? You guys came into the market earlier. It was before any of us were talking about ChatGPT or agentic or anything, talking about this AI-driven platform. I remember the first time I really dug into it is when TurboTax Live came out, right? And as a software guy, my immediate reaction was like, "This can't be good," right? Like, you're putting people into a software process. I'm a software guy. I like the gross margins behind software. I don't like the gross margins behind people.
+## Sasan Goodarzi | CEO, Intuit
+Mm-hmm.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+It's how we've grown up, right?
+## Sasan Goodarzi | CEO, Intuit
+Yeah. Of course.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+... in this industry. We started digging in, and we did some surveys of people who were using the service. At the time, this was probably like 6 years ago, the average interaction time was 12 minutes.
+## Sasan Goodarzi | CEO, Intuit
+Mm-hmm
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+of how long people spent using this service. The average payment was $89 at the time, right? You guys were monetizing over $360 an hour, right, for this service, which is well ahead of what you would have paid if you went to, like, if you use your full assist service.
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+What it really dawned on me was how valuable putting a person into the process at exactly the right time, right?
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+That's what the platform's all about, is how do we make sure that we have that human intelligence part of the equation? How do we get the confidence of having a person ask the question at exactly the right time, so it has extraordinary value.
+## Sasan Goodarzi | CEO, Intuit
+Yeah
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+... not just the value of a tax professional that bills out at $30 an hour?
+## Sasan Goodarzi | CEO, Intuit
+Yeah. I actually think that's like one of the most important question you could have asked. Thank you for going off-script. A couple of things I would just amplify in what you said.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+One is our total addressable market is over $300 billion, and we have 6% penetration, up from 5% last year. The majority of our addressable market is what we call non-consumption. People are using, still, believe it or not, shoeboxes, Excel spreadsheets, Google Sheets, experts-
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah
+## Sasan Goodarzi | CEO, Intuit
+... whether it's a tax pro, accountant, bookkeeper for consumers, businesses, influence half of that TAM. Why? Because it's customer-backed. Customers demand experts in this environment. In fact, right now, Gen Z are one of the biggest consumers of experts.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right
+## Sasan Goodarzi | CEO, Intuit
+... 'cause they want somebody to own the liability 'cause these are high-stakes financial decisions. The reason that's so important is that's what's unlocking our TAM. That's why when you look at six, seven years ago, we were, I don't know, growing high single digits.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+I think we were, I don't know, $7 billion, $6 billion in size. Today we're over $20 billion growing twice the rate. That's not an accident.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+That's accelerated because of all of our investments in AI and HI. Beyond unlocking TAM, the reason it's unlocking ARPC is exactly what you said. These are, we call them super humans. They're AI-enabled.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+experts that sit on our platform. We do a lot of the work for them, but the customer ultimately wants the certainty and the confidence, which is why they want to engage them, so they pay more.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+Because they're so efficient, because we've automated a lot of things for them.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+for the experts, we make more ARPC, and then our company margin is expanded. I remember you pushing on me six years, seven years ago saying, "You're gonna screw up your margins.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+You look at where our margins are today versus 6, 7 years ago.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+Bigger company, growing faster, and margins are expanding, and it's exactly the premise that you articulated.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah. That same analysis shows that gross margins for the TurboTax Live should actually be higher than your overall company gross margins.
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Now that same AI-driven expert platform is in other areas of your business. It's in QuickBooks Online with the Assist products, and Payroll, and Full Assist is the big one. I wanna start there on the tax business. Last year, you guys exceeded your original guidance. You exceeded consensus expectations on tax. You used the phrase constructively dissatisfied-
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+-with what happened in the FY 25 tax season. Can you explain to us, like, what were the areas that you were dissatisfied with? Because, I mean, you beat expectations, the margins were good. What were the areas that you saw for improvement, number one? Number two, how are you addressing those as we head into the 2026 tax season?
+## Sasan Goodarzi | CEO, Intuit
+Yeah. Yeah. Just for context, right? The total addressable market in tax, business tax and consumer tax is about $40 billion. The assisted is seven times bigger than do it yourself. Do it yourself is just $5 million. The reason I start there is last year, we delivered 10% growth in TurboTax. We were constructively dissatisfied because ultimately, we have created Software as a Service that delivers certainty and confidence, and we were learning a lot, Keith, in terms of how to show up locally. What was happening last year is we're within 80% of all the households and businesses in the United States 'cause we have a massive virtual team of experts that sit on our AI platform.
+When folks Googled or used an app to say, "A pro near me," we never showed up.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+We did a lot of work that started actually paying off, like, the last three weeks of the last tax season.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+where we started showing up locally. The second is we've been a software company, when they engage with us, we made them go through a bunch of screens before we engaged them with an expert. This is a service. They wanted, "Where's my expert? Do my taxes for me. That's why I came to you." The last 3 weeks of the tax season, I would say the last 2 weeks, we had a lot of momentum that delivered that 10% growth.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+The reason I shared we were constructively dissatisfied is because there were so many of those things we didn't get right. The experience was not where it needed to be. Customers couldn't find us. They would see our ads in a digital environment or on TV, and then they'd go try to find us, and we wouldn't be anywhere near them.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+What we've learned is, customers don't actually wanna come to your office, but they wanna engage virtually. The confidence that you're within 10-mile radius of their household gives them confidence to go with you. We didn't show up. We addressed all of that for this year. We have 600 local service centers now with a couple of flagship stores, and that's all in our guidance, right? It's all tech-led, so it's like it didn't even move the needle. We're expanding margins in this context, and that's all to show up locally.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+What's different this year is. By the way, there's no destination. We're gonna get a lot better, but we show up locally. We've removed a lot of the friction, up front so that when you engage with us, we can connect you to an expert, and then our experiences are elite.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+in terms of the experience that we deliver, hooking you up to an expert that's right for you, not a general expert, best price, access to fast money through Credit Karma. Those are all the things that's in place, which is, by the way, why there's only six weeks left in tax season. Last week when we had earnings, I said, "Hey, we're halfway through tax season, and I love what we're seeing.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Got it. At the end of last year, it was actually at your Analyst Day, I was talking to Sandeep, the CFO of Intuit, about those last couple weeks of the tax season. He was saying, when you guys got it right?
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+When the local search was really hitting, the conversion was 5x what you had been seeing earlier. When we look at what you've been seeing thus far in tax season, right, overall filings down 5% for the small part of the tax season that was in your quarter, but TurboTax growing 12%. Is that 5 times better conversion starting to play through more broadly through the entirety of this tax season?
+## Sasan Goodarzi | CEO, Intuit
+Yes. Really all the things that was accelerating the last 2 weeks of tax season, 'cause a lot of the things that we worked all year on...
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+The learnings that we had were in place the last two weeks of last tax season. By the way, we had six, seven months to improve upon that.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+That's what's in play now. Of course, our results were through January 31st, which is we were up 12%, but our commentary was beyond January 31st. A couple of stats that I would share is, based on the fact that people can now find us generally if they Google us or if you're in any of these apps and you wanna Google us, we had $5.1 million visitors to our local landing pages or to our stores. Through February 6th, $5.1 million. All of last year, it was $4.2 million. Not only are we getting much more demand because we're actually showing up, most of these customers are prior assisted customers and conversion has improved. Long answer to your question is yes.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Got it. The near term sounds solid, right? You guys entering a much larger market opportunity, 7x the size of the DIY market opportunity. The go-to-market motion seems to be getting a lot crisper. You guys are seeing good uplift. Let's be honest, this isn't what the market's worried about right now.
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+I mean, the market is concerned about terminal multiple risk. They're concerned about new entrants into the market. Let's hit that head-on.
+## Sasan Goodarzi | CEO, Intuit
+Right.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+The, the pushback that I hear all the time is, "Can't ChatGPT do my taxes?" You guys have all said it to me, so don't giggle. Right?
+## Sasan Goodarzi | CEO, Intuit
+It's the very people that have told you this are laughing at you now.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Exactly. It's gonna get worse, right? As these solutions get better at tool use, and they get better at interfacing with other websites. Like, what is the fundamental moat for TurboTax versus a, like a agentic computing vision of where the agents are just gonna do my taxes for me?
+## Sasan Goodarzi | CEO, Intuit
+Yeah. No, I love the question. Let's sort of start at the top because this infatuation with LLMs, I think has superseded just thinking through things, you know, logically and we're not on the outside looking in when it comes to LLM usage. Let's start, 1, with the category. It's very important. We are a category of 1 because of customers. Consumers and businesses make high-stakes financial decisions. The decisions you all make every year, if you have a side business or your own taxes, those are high-stakes financial decisions. The liability of getting those wrong is very, very high. Therefore, it's why customers demand. They don't demand software, they demand a service that comes with confidence and certainty...
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right
+## Sasan Goodarzi | CEO, Intuit
+to help them with those high-stakes decisions. The stat I always like to remind us of is we actually are seeing Gen Z be the bigger consumer of these expert services. They may not wanna see you on video, but they're actually because they don't wanna be liable for these decisions. What are these liabilities? If you get payroll tax wrong, if you get your quarterly business tax wrong, if you get your consumer tax wrong, somebody has to stand before those that are penalizing you, like the IRS, and stand behind that liability. Well, an LLM is not gonna do that. One is just from a category perspective. The second is to specifically answer your question. Open source, we use OpenAI, we use Anthropic, we use Llama for things that are context to us, not core.
+The reason I'm walking you through this detail is that LLMs have significantly improved the speed of coding. They have significantly improved our ability to ingest data even faster. They help with agents talking to agents and actually what we do, which is our agents need to also be able to hand things off to a human expert. At the end of the day, though, LLMs need to know where the source of truth is. They need to know what is the source of truth, where is the source of truth, how decisions get governed, and what actions are allowed. In our space, that's everything because it's about accuracy, it's about compliance, and it's about correctness.
+Therefore, this notion of, well, LLM can do everything is actually absolutely incorrect because the correctness and the accuracy it cannot do. Last thing, if I could end with this, 'cause I think it's very relevant to your question. That's our advantage. That's why we win. It's our scale, it's our trust, it's what we've built, is you have to look at market structure. We've never won because of code. Just because you can do more code faster, and there can be more things that are free, that already exists today.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+Across everything that we do, the market structure is such that there's a bunch of players, and a lot of things are free. At some point, you have to make money, I believe. That's the way earnings work.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+Is that right? Is that still the case?
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Once you've become public, yeah.
+## Sasan Goodarzi | CEO, Intuit
+Yeah. That's actually why our relationships that we have announced with an Anthropic and an OpenAI, which we can get into in a moment, are so important 'cause they wanted to partner with us, and we wanted to partner with them because they don't wanna deal with the liability of these high-stakes financial decisions. We are playing chess, not checkers, which is we wanna be everywhere customers wanna be if they choose to wanna be there.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay. can I add two things just to get your view on them, and then shore up my argument? In addition to the data, right, and I think data is a foundational platform for making use of any of these agentic computing solutions is critically important, and it has to be, to your point, a source of truth. It has to be the correct data. It has to be well-governed, right? You have the correct protections around it. That's a big part of it. There's also integration that you guys have put together over decades into every financial services partner, every payroll company to get the data in. You guys have some pretty impressive stats in terms of how much of the filing gets done for you just because of those integrations.
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Further on down the line, it's the. I mean, you also have to submit, right? You need the underlying rails to submit the taxes, but also the ability to get your refund faster, right? How important is that for your end customers, like the ingestion of data, making it easier to do your taxes, from the get-go, but also the ability to get a refund faster? How much of a value proposition is that for the end customer of TurboTax?
+## Sasan Goodarzi | CEO, Intuit
+It's actually a great question. Let me say three things. One is everything that you just articulated, all the integrations that we have to every state, to every county, to the IRS, with all the financial institutions. To do all the things that you just articulated, that takes years to replicate. Let's say for the sake of the argument, it can be replicated overnight. It can't, but let's just say it can. Our real advantage is what I said a moment ago.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+It's about we deliver accuracy, compliance, and correctness for high-stakes financial decisions with the combination of technology and HI, which is what our customers demand.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+Even if those integrations can be replicated overnight, which they cannot be, but let's say they can. What customers care about is if I'm a business, it's my cash flow, it's my books being right, so my taxes are done right 'cause there's huge penalties. If I'm a consumer, it's actually all about accuracy and compliance 'cause they don't wanna deal with the government. Did I get my maximum refund, which is guaranteed by you, Intuit, and/or did I pay the least following the law, of course.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yes.
+## Sasan Goodarzi | CEO, Intuit
+That's what the customer cares about, and that's really ultimately our advantage is that you cannot replicate with LLMs. I would just say that we're on the cutting edge of not only the LLMs that we've built within Intuit because it's core around accuracy, but our partnerships, right? Whether it's open source or Anthropic and OpenAI, part of those partnerships is about getting access to their frontier models. So we're on the cutting edge of what's possible. What I would tell you is I love LLMs, but they're also commodity. They're all gonna keep improving.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+what's not commodity is accuracy, compliance, and correctness.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Got it. Got it. Let's talk about those relationships a little bit. You signed a relationship with OpenAI last fall, gives you access to all of their users, right? In terms of, they're gonna see your data. You signed another similar partnership with Anthropic. Could you talk to us from the Intuit side of the equation, what's the benefit that you're gonna get from these partnerships? Yes, you have access to the models, you have access to the users. How does that benefit the top of funnel, if you will, for Intuit? On the other side of the equation, maybe address the investor concerns that I hear all the time.
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+It's some form or fashion of you're letting the fox into the henhouse, right? They're gonna get access to your data. They're gonna understand who your users are. You're giving some of that key IP, some of that key asset that Intuit has built up over the decades, a way to who. These competitors that are-
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+coming into your, into your backyard.
+## Sasan Goodarzi | CEO, Intuit
+We're doing none of that. Let me now explain. There are three principles in our relationship with OpenAI and Anthropic. By the way, our relationship and my relationship with both Sam and Daria and our teams, I have a lot of respect for what they're doing and these partnerships are ultimately gonna be very good for customers. Let me go back to your question. There are three principles. One is that we own the customer experience. The second is, the data, the data models, the AI capabilities, they're in our platform. Everything is through APIs and MCPs. We don't share any data. We don't share any domain specific. There's no knowledge sharing.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+By the way, they're really not interested in the knowledge sharing because they do not wanna deal with the liability of these financial decisions. That was what was enticing for them, which is, we want somebody that has done this and we trust and really understands AI and HI, which is Intuit. Principles are we own the customer experience. The data models, the AI models, they're all in our platform. Anytime you're engaging with our experiences, and you know it's us, we're not in the back office. Anytime you're dealing with a financial question, you know you're dealing with our brands. You're in our platform through APIs and MCPs, and nothing is shared, and that's in our contract, and we have governance model around it. A third is we don't share in the economics.
+Those are the three principles. Now, to answer the other part of your question, we see this as a big top of the funnel opportunity with OpenAI.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+With Claude, we see it potentially as maybe top of funnel. Not really. It's more about solving the long tail of things. That's context to us, particularly like for larger businesses and mid-market. So therefore, let me give you an example. With Claude, we think this could be really helpful in terms of accelerating verticalization across industries. Let me give you an example. First of all, the customer doesn't know what's... The customer's in our platform.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+In the case of a construction company, and every construction company has like 5% of their KPIs they wanna look at what's specific to them. In a case of a construction company that wants to look at their project timeline, their lien waivers, their subcontractor payments, and then what does that mean to their cash flow, to connect those 4 or 5 things, that's a long tail of what a construction company would need to see.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+A roofer would need to see something different. An architect would want to see something different. Now on our platform, CoWork is actually fired by our AI brains 'cause remember, at the end of the day, whatever the deliverable is to the customer, it has to be accurate, it has to be compliant, it has to be correct.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+The customer can now say, "I wanna see this," and we'll create a KPI on their dashboard. That's context for us. We don't need to solve these long tail of things, but the real core for us is that what we deliver to them is correct, it's compliant. That's an example of like our CoWork integration. The customer doesn't know. The customer's on our platform, and they don't really care. If they say, "Hey, I wanna see this KPI in this way," we can now create it for them. Our brains is driving the creation of that, but then in terms of the LLM that we would use-
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+That's on top of our LLM, in that case, it would be Cowork. Multiply that by hundreds of different industries. That's the nature of the partnership. I'll end where I started. This is a top-of-funnel opportunity for OpenAI, with OpenAI, and for Anthropic, we see it as an opportunity to accelerate serving a lot of long tail of industries and verticals, particularly being disruptive in mid-market.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Got it. That's a great segue into the global business solutions, side of the equation. One of the opportunities that we're most excited about is Intuit Enterprise Suite, right?
+## Sasan Goodarzi | CEO, Intuit
+Mm-hmm.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+The ability to not just go upmarket into the mid-market, but also create more verticalized solutions and do more for those customers, right? If we think about that through the lens of this AI discussion that we've been having, I think most investors would agree that small businesses aren't looking to vibe code themselves a general ledger, right?
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Or a core accounting system. That's not what they're trying to do. What they are looking to do is automate the white space around that, the processes of what does my working capital look like or what do my KPIs look like. It sounds to me that the relationship with something like Anthropic is about you utilizing those tools, those modules, as a part of your system to be able to attack that white space. Can you talk to us about the white space that you guys see for QuickBooks?
+## Sasan Goodarzi | CEO, Intuit
+Yeah
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+... particularly going upmarket into verticals, and how do you monetize that over time?
+## Sasan Goodarzi | CEO, Intuit
+Let me start with, it's a $90 billion total addressable market, it's a third of our $300 billion in TAM. By the way, that's businesses sort of up to $100 million. We don't plan on stopping there. We will probably go up to $1 billion in size. We don't wanna serve enterprise, this TAM will become far bigger over time. We have thousands and thousands of customers now on Intuit Enterprise Suite. Just as a reminder of what we shared last week at earnings, mid-market is growing 40%. Our contracts quarter-over-quarter are up 50%. New to the franchise is meaningful, accountants are starting to drive a meaningful part of that's up 10 points quarter-over-quarter.
+We're actually now expanding our sales force by another 30%, just in terms of the results that we're seeing. Back to your question, the opportunity for us is we went on experience, total cost of ownership, and price.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+For customers, it's actually not about the white space that you were asking about. For customers, the biggest thing for them is they're saving a ton of time, and because now they're seeing everything in one place, it's actually accelerating their revenue growth. In fact, we had a third-party study done by Forrester. They're seeing a 300% ROI. A third of it revenue, a third of it cost synergies, a third of it is everything is in one place, so their profitability is going up.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+It's becoming a competitive advantage for them because now they see everything in one place, and they can make better decisions.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+The Anthropic example I used was that becomes an ability for us to be able to help them with KPIs they need to see. That's the long tail.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+By doing that, they can actually compete and win and make better capital allocation decisions. I think that, back to your question around monetization, not only are we upgrading from our base, we probably have 700,000 up to 800,000 in our base that are fit for either QBO Advanced, which is mid-market, and Enterprise Suite, but there's also a meaningful non-consumption opportunity that's new, which is starting to accelerate. Both are a huge opportunity for us.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right. Let's come back to the, like, the AI-assisted platform for experts. Where does Live touch this, and how has Live adoption been in QBO? 'Cause you have Live versions there. When you bring accountants into the conversation, accountants have always been part of the top of funnel and.
+## Sasan Goodarzi | CEO, Intuit
+Yeah
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+... and pushing people towards QuickBooks. Are they now more of a part of the conversation of how are you reutilizing it? Like, what services are going around it, and does that improve attach rates of those online services?
+## Sasan Goodarzi | CEO, Intuit
+Yeah. I love the question because it goes back to QuickBooks Live is HI, human intelligence. As a reminder, it went up 50%, quarter-over-quarter. Or sorry, last quarter was up 50% over last year, which means that we have figured out the demand side and how to deliver against it on the business platform. Which is leading to something that you all should be expecting from us in the quarters to come, which is our biggest surprise in the last quarter was QuickBooks Live HI in the business platform has sort of been attached. Based on the work we do with customers digitally, they'll say, "Hey, can I have a human help me?
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+We ran a test, the test was, well, what if, just like TurboTax Live, it's actually just part of the platform, and that there are certain jobs that we would solve as part of the platform. For new customers, get them onboarded and get them their first benefit, and for existing customers, there are certain things we would do to make sure their books are clean and accurate, because there's a lot of help customers need to make sure they're compliant. We were pleasantly surprised by the test results. Therefore, to answer your question, what you can expect from us as you look ahead is a potential change in our lineup where it's the digital platform and HI that's included for certain bodies of work.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Right.
+## Sasan Goodarzi | CEO, Intuit
+The reason this is really important is, one, it will lead to a subscription price change for the larger customers. Two, anytime a human expert is attached to one of our customers, attach is up 22 points. Payroll and payments attach is up 22 points.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+That's significant. That's all because of the benefit of the, of the platform. What you can imagine zooming out is our AI expert platform truly at work, where it has become a service, it delivers confidence and certainty, and it's unlocking our TAM, it's unlocking ARPC. Because it's all digitally driven and technically driven, it expands our margins.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Got it. I need to touch on the part of the equation that's been a little bit more frustrating, which is Mailchimp.
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+The industrial logic of Mailchimp makes a ton of sense, right? You're doing everything in the back office. Like you were saying, small businesses wanna see everything in one platform. They want perspective on spending on marketing. What is the resulting in terms of the bottom line? What have been the rough spots on Mailchimp? I know it's been more so the low end of the marketplace, but you guys do a lot in the low end of the marketplace.
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Are you still as convicted that you guys could turn it around? 'Cause like, the target dates are turning around. It seems to have kicked out a little bit.
+## Sasan Goodarzi | CEO, Intuit
+Yeah
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+into next fiscal year.
+## Sasan Goodarzi | CEO, Intuit
+Yeah. I'm more frustrated than you are, and so is our team. Two things I would say. One, we're absolutely in love with the customer problem. And we have a lot of conviction, especially for smaller businesses. For mid-market, we wanna be and are the AI native ERP platform that ultimately will eat up payments and payroll. In the large mid-market, we don't have to help customers with growth 'cause there's other platforms that can integrate into our platform. For SMBs, we have a lot of conviction that we wanna solve this growth problem, and we're not in love with Mailchimp. We're very focused on the upcoming milestones. And really it comes down to we're actually getting traction with larger customers.
+It comes down to just a leaky bucket with smaller customers, and particularly it's customers that pay us less than $200.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Yeah.
+## Sasan Goodarzi | CEO, Intuit
+That's where our attrition is too high. The reason we pushed out the growth rate of what that segment could be into next year is we wanna make sure we get this right. I'll end with where I started. We're in love with the problem. We're never as a company in love with our solutions and are willing to do whatever it takes to solve the customer problem and accelerate growth.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Got it. I wanna end on sort of taking the AI conversation and turning it internally. Intuit has done a great job of expanding margins over time. you've done some, like some layoffs, like over the past two years to garner more... really not garner more efficiency, but get the right people in place. When I talk to Sandy, he feels like there's a lot more that can be done. Can you talk to us about the internal use of generative AI, the internal use of AI, which you guys have been doing for a while? What does that mean in terms of the potential for further efficiency and further-
+## Sasan Goodarzi | CEO, Intuit
+Yeah.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+leverage in the model, but also the pace of innovation? How quickly are you guys moving, being able to utilize these tools?
+## Sasan Goodarzi | CEO, Intuit
+Yeah, I love the question. The way I would answer the question in terms of what our focus is, we are a company that is all about execution, and all about discipline on what matters most to customers, how do we deliver undisputed benefits with high velocity, and how do we ensure we're productive in the way we do it.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+A lot of our margin expansion hasn't been. I think everybody uses AI as the reason or the excuse for margin expansion. A lot of what we've done is just purely services, APIs, automation, and yes, AI is an element of it. That's what's led to our margin expansion, while, by the way, we're we've got 3 growth vectors, right? Where AI and HI is a growth vector, money is a growth vector, and mid-market is a growth vector. Two things I would leave you with. One, we are entirely focused on growth, and I truly do not worry about margin expansion. We're gonna continue to expand margins, just because of the way we've built the company internally and the discipline that we have.
+Two, I mean, our coders are delivering 40% more code now versus even a year ago. We have declared internally that we actually want to 3x our velocity from where we are today because of all the foundational elements that we built.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Okay.
+## Sasan Goodarzi | CEO, Intuit
+That means we're gonna take 10,000 builders and turn them into 30,000 builders, right? It's hard to compete with that when you've got a company of our scale that's now from where we are 3x-ing velocity. That will not only lead to undisputed customer innovation and benefit and growth, but it will expand our margins because we can do a lot more with a lot less, and that's what we've built for internally the last seven years. You can expect continued margin expansion. When you always hear that confidence from us, it's because of the internal discipline that we have.
+## Keith Weiss | U.S. Equity Research Analsyt, Morgan Stanley
+Outstanding. Unfortunately, that takes us to the end of the time, but great conversation, Sasan. Thank you so much for joining us.
+## Sasan Goodarzi | CEO, Intuit
+All right. Thank you for having me.
+Data Source: Quartr Last updated: Mar 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

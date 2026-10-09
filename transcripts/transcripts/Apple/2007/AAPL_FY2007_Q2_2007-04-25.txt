@@ -1,0 +1,7 @@
+Company: Apple
+ROIC Symbol: AAPL
+ROIC Name: Apple Inc.
+Year: 2007
+Quarter: 2
+Date: 2007-04-25 17:00:00
+Executives

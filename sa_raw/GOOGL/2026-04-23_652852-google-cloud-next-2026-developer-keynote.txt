@@ -1,0 +1,425 @@
+TITLE: Google Cloud Next 2026 Developer Keynote
+DATE: 2026-04-23
+## Brad Calder | President and Site Reliability Engineering, Google Cloud
+All right. Good morning. Welcome to the Developer Keynote. We have an exciting show for you today. Yesterday, we introduced the Gemini Enterprise Agent Platform. It allows you to build autonomous agents that proactively help users and complete tasks independently. Today, we show you how to use our agent platform to build production-ready agents. Our agent platform is powered by the state-of-the-art Gemini models, which include both our Pro and Flash models. In addition, you can choose other models for your agents, like Claude, from our Model Garden. Now, let's quickly walk through what our agent platform provides to help you build, scale, and optimize agents. It starts by building agents with our Agent Development Kit. Our Agent Development Kit lets you power agents with the skills and the tools you need. We provide ready-to-use skills across Google Cloud, and every Google Cloud service is now MCP-enabled by default.
+## Speaker 15 | 
+Woo-hoo.
+## Brad Calder | President and Site Reliability Engineering, Google Cloud
+Yeah. This allows agents to easily communicate with Google Cloud. We run and scale your agents with our scalable serverless Agent Runtime. With our Agent Runtime, you can use sessions to keep agents connected with your users and memory to personalize and focus the context for your agents. To keep all this secure, we enable you to govern your agents by giving them a unique Agent Identity. This allows you to enable policies for agents that are strictly enforced by our Agent Gateway . One of these policies could be to connect with other agents, where we allow agents to be discovered and collaborate with each other with our Agent Registry and our A2A protocol. Finally, agent observability allows you to manage, monitor, and optimize your agents. This also provides integrated evals based on what your agent is doing in production.
+Now, all the capabilities I just went over are provided by our Gemini Enterprise Agent Platform. At Google, we're building our own applications on our agent platform to allow you to connect and govern all agents with a common shared context. We provide this shared context across Gemini Enterprise, Workspace, and third-party marketplace agents. This allows your entire ecosystem of agents to collaborate with each other with shared context. Now, I'm an avid runner, so I'm very excited about our keynote demo. Today, we show you how to plan a marathon, you won't have to run it, through Vegas by building an agentic marathon planner, using everything I just described from our agent platform. Now we can use AI to make high-stakes decisions like where to place 500 porta-potties across the Vegas Strip.
+To guide you through all this, please welcome our emcees, Richard Seroter and Emma Twersky.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Thank you, Brad, and welcome to the show, Emma.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Happy to be here, Richard.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah. Are you a runner? Brad talks a lot about running.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+I ran a half marathon once, and that's it. What about you?
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+No. Running's awful. I don't know why anyone does it, unless they're being chased. Look, the role of the software developer is evolving a lot. We have to think about new ways to work. In 2026, you all are building applications in days that would've taken weeks or months just a couple of years ago. We're even doing it faster here at Google, too.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Talk about fast. I've been blown away by all of the insanely talented developers right here in this community. Over in DeepMind, Daniel Kunin used Gemini to transform complex geographic information system data into a nostalgic 1990s-style isometric map of all of New York City. By transforming thousands of pixels into art, we can now learn, visualize, and comprehend data sets that I just sort of assumed I'd never be able to.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Absolutely. Or the team at Cloudphysician, they're part of the Google for Startups Accelerator in India. They built this multimodal video AI platform built on Google Cloud. It combines high-definition video with AI-powered clinical tools. What it does is it connects these bedside teams to this 24/7 central care team and empowers specialists to do faster, higher quality decisions. Get this, they've actually driven a 47% reduction in ICU mortality, literally using Google Cloud and Google AI to save lives.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Awesome.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+I can't get over that number, Richard.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+As a Flutter developer, personally, I've been cheering on Cagatay Ulusoy , a Google Developer Expert in Finland. While studying for his citizenship exam, he built a generative UI-powered language learning app. The app uses my team's GenUI SDK for Flutter, plus Firebase and Gemini, and a whole lot of other Google products to create and personalize how users learn language.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah. Maybe I can finally learn Elvish.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Open a pull request.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah, I'll do that. Personally, I've been having a lot of fun with Genie 3. These world models are transforming how we approach development. Waymo actually uses Genie 3 to recreate edge case traffic situations, which in turn helps it train those foundation models in that quest to be the world's best driver. Here's a prompt and experience I made to explore Las Vegas before I got here. If you look close, there's an off-brand Bluey fighting a knockoff Spider-Man. It's super real, just like Vegas. But I'm really stoked for everyone to see what these demoers have been working on. This stuff is amazing. We can say a lot of stuff. We need to prove it to you. We're going to demonstrate how Google offers the best way to build agents and then run them in a production-grade way.
+Emma, what are people going to all see here over these next 50 minutes or so?
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah. We've talked about it a lot, but we're building a system to simulate planning a marathon. Ask me why.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Tell me why.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Well, a marathon is a great example of how agents can help us to plan.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yep
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Simulate, and think about solving a really big challenge, like trying to plan a race here in Las Vegas.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Mm-hmm.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+An event of that size would impact traffic, it'd potentially reroute emergency services.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yep
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+We'd also want it to boost local economy and showcase all of Las Vegas' iconic landmarks. There's a ton of factors that we would have to consider.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+A lot of factors. With agents, we could actually build simulations quickly to better understand the actual impact of something like a race to a city. Agent systems simulate actual behavior instead of hard-coding those behaviors or relying purely on probabilities. Our system's going to use three main agents. We're going to walk you through this. There's a planner that determines all the routes that we run. There's an evaluator that assesses those routes based on business and community requirements. There's a simulator that takes the route, creates all these actors via code, and then randomized behaviors to see the net impact to the city.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah. Let me show you what we're building towards.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah. The magic stage just came up. All right.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+All right. Here we are in our simulation app, and if I start this, we can actually see the Las Vegas skyline light up.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Amazing.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+If you look closely, you can actually see us giving the keynote, I think right down here.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Exactly true. I can see me. I look terrified.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+All right. We have a plan for a proposed route for a marathon in Las Vegas at night, because let's be real, the Vegas skyline comes to life after dark.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Do most of my bad food choices with Scott. Yeah.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Your good ones?
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Sometimes.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+All right. While I click Run Simulation, we can actually talk about how we built this. I was on the Angular team for five years, and that's what's actually powering the base of this app and all of the 3D animation that you're seeing here today showing this rendering.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yep, we love Angular.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Now I'm on the Flutter team, and all of this you can actually see being powered by A2UI and some of the GenUI ideas that you'll see later demoed today. Here we have it. Our simulation is off, so I can actually click Follow the leader and see our simulation in action. We can see 10% of a sample of our runners starting their race. The planner agent carefully planned this route, and if I click I'm feeling lucky, maybe we can see some of those other hydration stations, medical tents, and things that the planner agent helped place. Meanwhile, our simulator agent is helping to create a realistic race environment, so it even placed all of those cars that you see navigating the Las Vegas traffic.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+They're going faster than our cabs last night.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Way faster than my Uber here this morning.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+That's not real.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+It's simulated.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Simulated.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+There's one more thing I want to show you, which if I actually navigate over to the organizer tab, I can see some of the simulations that we ran before getting on stage today. If I click open report, I can see how those simulations scored when exposed to all of those non-deterministic conditions that we've been talking about.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah. All right, I bet the audience, though, is ready for the real behind-the-scenes look. Now that we've seen what we're building towards, we want to rewind and show how we built this, starting with that planner agent. During this series of on-stage demos, we'll reveal the details of how we build agents in 2026, all the techniques we used, and the products that help us deploy agents to multiple surfaces. Get this, everything we're showing you is sitting in a GitHub repo right now that you can use to reproduce this entire app yourself, the app we're giving away for free. How amazing is that?
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Open source.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah. They're going to love it. To kick us off, how about we get a little rally towel action for my man, Mofi Rahman. Let's go.
+## Mofi Rahman | Senior Developer Relations Engineer, Google Cloud
+Thanks, Richard. In this demo, you will see how to go from agent idea to proof of concept with our agent platform. From our agent platform, we'll use ADK as our agent framework for building modular agents, Google Cloud remote MCP, or model context protocol servers, and Agent Runtime, our runtime for agents. Our simulation application has a few different agents. One of the core pieces is the planner agent. Now, the planner agent needs to have the following, instructions to help the agent understand its role as the marathon planner, skills for using maps, handling geospatial data, and expertise at planning a race, and tools to help with mapping and calculating viable routes. We started by designing a basic planner agent in Agent Designer. We can design low and no-code agents and even preview their behavior. This makes it easy to try out different agent ideas.
+We have given the agent some instructions on marathon planning that we crafted with Gemini's help. Let's run this and see what we get for a sample marathon planning prompt. The agent will take a few seconds to come back with a plan. It is so much fun building agents with everyone watching over me. I am just glad I only have to plan the marathon and not run it. Okay, looks like we have a result, and it's a good start. Using Gemini's knowledge, we have a decent amount of detail for planning a marathon. Now, let's ground this plan to real data by making the agent an expert with maps and races. We achieve that by adding tools and skills. We can download Python code that was pre-populated by Agent Designer with instructions.
+This will be our starting ADK code, and we will continue adding features with code editing tools. Let's show you how the rest of our agent works. First, we need to give the agent access to map data. We gave access to mapping tools using Google Cloud MCP server for Google Maps. Here are the few lines of code that connect the agent to Google Maps' MCP server. Google Cloud MCP servers let your agent access any tools that you register. You can also use first-party tools designed and built by Google, where security is included by default. Now, we can ask map-related questions, and the agent will be able to answer them using the Google Maps MCP tool. For example, we can ask for a list of landmarks in Las Vegas, which we can use to plan our route. Next, let's talk about skills.
+A skill has two parts, the YAML metadata and the Markdown body. The metadata is loaded into context in the beginning. It contains a description which lets our agent know when to load the rest of the skill. We have three skills for our agent. Let's look at the mapping skill to see how it makes our agent an expert at using Google Maps. It can selectively call the maps tools based on the agent loading the skill. We also have a GIS skill in the same structure to handle geographic information. This skill also has access to Python scripts that our agent will be able to execute and process GeoJSON data and find a viable route with good starting and ending locations. Last, we have the race director skill.
+Here, we have a Google Doc that our race planning committee uses to plan and check routes based on our historical knowledge of the requirements. Using Gemini, we converted that to a skill. I love how easy it is to take our existing process docs and make them usable for our agents. Here it is. It follows the same formatting as the other skills we highlighted. With that, this agent is ready to ship. It will take 4-5 minutes to deploy to Agent Runtime. As all of you are my new best friends, I'm not going to make you wait. Let's hop over to a version I deployed earlier. Here it is in our simulation that Emma showed us earlier.
+We have given the planning agent a prompt, and we will shortly see the agent is loading skills we provided and executing the tools we included to find viable routes. Skills help the agent progressively understand what is available to the agent to complete the work, reducing times and tokens. Looks like we're done, and we can see the route rendered. The simulated route looks beautiful. Looks like the runners are going to get an amazing view of the entire Las Vegas Strip. Let's recap. Starting from a low-code agent built in Agent Designer, we improved our initial agent. Now it has the skills and tools needed to create route plans for our marathon participants. Thank you.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+That's a great demo, Mofi. Thank you for that. You may have noticed Mofi didn't use local MCP servers. By default, Google Cloud provides these fully managed MCP capabilities for many of our products. So you get the benefits of using an MCP, but Google takes care of things like security requirements, even designing all those specific tools you need. In this example, like me, you don't have to be an expert in Google Maps. MCP for Google Maps gives your agent mapping tools out of the box. If you want a closer look for each demo you see today, we actually have a QR code you can scan to do a Codelab and learn about all the concepts we just introduced. We'll share a link at the end for all the simulator code.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah, I love that. Okay, we have the planner agent that Mofi just helped us create, and that's a good start.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Sure.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+The planner generates the route and looks at some of the characteristics about race planning. We'd probably want a more robust evaluation. We want to be able to see what happens when our simulation actually runs.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+That's why we want to separate the concerns by creating a team of agents based on the use case, the access they require, the capabilities they need. In a simulation, a set of specific agents makes more sense to distribute all those different responsibilities, just like a team working together.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Just like you and me.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+There you go.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Okay. Let's talk about two Agent Platform components that make it easy for our agents to talk to each other. First, A2A, a universal protocol for how agents advertise their capabilities and communicate with each other. Second, Agent Registry, where our agents, get this, Richard, they get registered.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Shocking.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Groundbreaking.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Unbelievable.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Agents can search the registry and discover other agents with skills and capabilities that might be needed to complete the task at hand, all using an A2A card. To show how we can build evaluation systems with agents that work together, please help us welcome Ivan Nardini and Casey West.
+## Casey West | Lead Developer Advocate, Google Cloud
+What's up, nerds?
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+Let's go.
+## Casey West | Lead Developer Advocate, Google Cloud
+That's right. Today, we're going to show you how to move from fragile, unpredictable agentic loops to a rigorously evaluated network of experts that will literally build their own UI.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+Casey, we talked about the planner agent, which creates potential routes for a race. Now, we add two more agents, the evaluator sub-agent to judge routes based on some specific criteria we pick, and the simulator agent that works with the planner to get approved routes, run them, and show results.
+## Casey West | Lead Developer Advocate, Google Cloud
+Well, let's have some fun. I just kicked off a prompt to plan a marathon in Las Vegas for 10,000 runners, and now the planner does two new things. Real-time evaluation to prevent agent drift in the marathon planning, and dynamic UI for instant evaluation feedback.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+While the agent is running, Casey, let me explain how we build the real-time evaluator sub-agent here. It uses a separate model and limited context to judge a route. It focuses on grading only the route plan rather than the entire process. Each time we create a new plan or revise an existing plan, the planner agent invokes the evaluator just as a tool.
+## Casey West | Lead Developer Advocate, Google Cloud
+In this system, the evaluation checks non-deterministic criteria like community impact and alignment to the prompt, and deterministic criteria. You know, the route has to be exactly 26 miles and 385 yards long. For those of you who are using kilometers like Ivan and 95% of the world, it's not easier. It's 42.195 km. It's so specific.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+Nah, Casey, I prefer miles. You know, 42 sounds so much farther to go.
+## Casey West | Lead Developer Advocate, Google Cloud
+I'll give it to you.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+Now we have the planner, which creates a plan, packages it up, and sends it to the evaluator to score it. Casey, we still want to show the evaluation results to the user. In the past, it meant writing a lot of custom code or dashboards. You know, I honestly, I've never been good in UI development.
+## Casey West | Lead Developer Advocate, Google Cloud
+I hear you, Ivan. It's such hard work, but thankfully, we have a great solution for this. A2UI, or agent to user interface, and it's an open standard created by Google. Let's look at this result. The agent dynamically built each component to share with us and rendered this route on the map. Let's look at how this UI was prompted. Here, we use a one-shot A2UI example, so Gemini knows how to generate its interface. A2UI gives our agents the power to create dynamic, expressive UI that moves beyond walls and walls of text. It's what lets the agent design and build the exact interface it needs using a common design language.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+Okay, Casey. Now we have our evaluation results, as we can see here. Still, we need to run the actual plan. This is where the simulation agent takes the lead of the process. It executes the time lapse of a marathon with thousands of runners. Still, we need to connect the simulator with the planner so they can work together. To accomplish this, we need to introduce two additional components. The Agent-to-Agent Protocol, or A2A, and the Agent Registry.
+## Casey West | Lead Developer Advocate, Google Cloud
+These work great together, so let's get into it. I'll start with A2A. This is a protocol Google created and donated to the Linux Foundation that eliminates brittle API code to connect agents. Each agent exposes an agent card like we see here, representing a manifest of the agent's capabilities. The simulator agent will serve this agent card so other agents can read it.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+For all of you, if you don't want to look at this code, but still you want to have an idea of which agents are now deployed and how they are connected, we have the Agent Registry. Think of it as the DNS of your internet of agents. The central directory that resolves every agent's identity and maps their specific skill sets across your entire agent network. When we deploy these agents to the Agent Runtime, they get registered automatically in the Agent Registry. Now that both planner and simulator are finally connected, we are ready to plan and run a new simulation, Casey, with zero code or API contracts.
+## Casey West | Lead Developer Advocate, Google Cloud
+Well, to see it in action, we're back here at our UI, and we can see that the planner agent consulted the evaluator and simulator agents to make a plan. Our agents are working together.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+You love to see that, right?
+## Casey West | Lead Developer Advocate, Google Cloud
+Right. Well, our simulation is ready, so let's kick it off. I clicked Run Simulation, and now we're cooking a new one. We can even follow a runner when they get running. How cool is that?
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+This is so cool, by the way. How does it work?
+## Casey West | Lead Developer Advocate, Google Cloud
+I have no idea. No, I'm just kidding. The simulator agent configures environment parameters. It spawns runners as independent agent sessions. It watches for traffic problems too, and reports the results back to the planner. For the runners, we use Gemini Deep Research to learn about and implement real-world running behaviors. Ivan, did you know that 78% of marathon runners slow down a little in the back half?
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+I do know that, Casey, because I was one of them.
+## Casey West | Lead Developer Advocate, Google Cloud
+Well, I've only ever run one 10,000K, and that was enough for me.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+Of course it was.
+## Casey West | Lead Developer Advocate, Google Cloud
+Okay.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+Let's wrap up. What we have at this point is real-time evaluation, so agents stay on track, dynamic UI, so agents render for themselves, and automatic connections using A2A and the Agent Registry. Our agents are doing our work. I think we are good, Casey. Let's go back to talk about cool stuff like coffee or maybe the next marathon.
+## Casey West | Lead Developer Advocate, Google Cloud
+Only coffee.
+## Ivan Nardini | Developer Relations Engineer, Google Cloud
+Thank you all, and let's go, Richard and Emma.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Give it up to Ivan and Casey, two of my favorite nerds. I don't know about yours, but.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Absolutely. I've been playing around with A2UI and the Flutter GenUI SDK a ton.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yep.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+It's amazing to see how agents are working together to truly level up user experience. Now we need to take the learnings from each simulation and optimize for the next run.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Right. That's the important next step. In the past, we've done this by stashing the complete history of those prior runs into every next request we make. We've moved beyond just cramming raw text into every request we send back to agents. Now we have architectural approaches, database tools, that allow us to access, I don't know, do this in a more efficient, thoughtful way. We have more things available to us.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+We do. Context engineering is all about managing what information the agent has available in addition to its own generalized knowledge to complete the task. It's all about moving from stateless to stateful agents and context windows. Agent platform sessions gives us the ability to make our agents stateful over time and modify that context as needed.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+The memory bank comes in to give our agents the ability to pull learnings from prior events into the context window that are relevant for a specific task, and even to store memories the agent learns for any future session. We can use tools like Spark or AlloyDB that provide additional context to our agents using a differentiated data approach with Retrieval-Augmented Generation.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Love RAG.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+That's easy to say.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Much easier.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Managing context is all about the data you bring to your agents to give them your superpowers. I know just the people to talk about their superpowers and context and memory for our agents. Please help me welcome Lucia Subatin and Jack Wotherspoon.
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+All righty, Lucia, let's do this thing. We're going to show you how context and memory improve agent behavior.
+## Lucia Subatin | Developer Advocate, Google Cloud
+Let's use the planner agent as our example. We'll improve its context by giving it the ability to manage its sessions, add memory, and access other data sources. Jack, take it away.
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+Let's jump right into leveling up our planner agent. Here, we're in Google Antigravity. Look how easy it is to set up session and memory management in our agent. It's less than 20 lines of code. Easy-peasy.
+## Lucia Subatin | Developer Advocate, Google Cloud
+Lemon squeezy. You can see we're adding an ADK class to integrate agent platform sessions. This gives us the ability to make our agents stateful over time and modify context as needed. We can do the same thing for memory, attaching the agent to Agent Platform Memory Bank, an enterprise-ready and fully managed memory service.
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+The next time we plan a route, the planner agent will remember details from previous plans it created. The memory service will automatically create memories based on how and what we use the planner agent for. It can even analyze completed simulations and store learnings to long-term memory for future plans to use. Now, let's bring even more data to our agent. There are a ton of local rules with the city of Las Vegas and the state of Nevada. Lucia, how can we bring this additional unstructured data to our planner agent?
+## Lucia Subatin | Developer Advocate, Google Cloud
+I'm so glad you asked. I want to show how data scientists and engineers can use IDEs with their workflows. These files are stored in many different structures and file types. To make this useful, we need to chunk the documents and transform them into embeddings, which are numerical representations of the text. The planner agent can query the text and embeddings using Retrieval-Augmented Generation, or RAG. Here, I prompted the Data Engineering Agent to create a data pipeline to manage our SQL artifacts and orchestrate the document processing from a prompt.
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+The Data Engineering Agent writes data models and pipelines from the prompt. It integrates with your code to bring software engineering practices to data engineering.
+## Lucia Subatin | Developer Advocate, Google Cloud
+That is right. Now I'm using Lightning Engine for Apache Spark, an optimized engine that runs Spark lightning fast. This process reads each document and chunks it semantically using Document AI. Now we have quickly processed the chunks and saved them into this table in AlloyDB. Let's see the chunks.
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+All right. I can see the embeddings, but I want to focus on something super cool. We didn't have to create the embeddings manually. AlloyDB's auto-embeddings feature will generate them for you based on the model that you specify.
+## Lucia Subatin | Developer Advocate, Google Cloud
+We can also see them in action. I'm running a semantic search for restrictions for running a race on the Las Vegas Strip, and I added a filter for the city of Las Vegas. This will search the embedding space for the top results. Jack, did you know about this rule? You can't have a camel on public roads.
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+Oh. You don't happen to know what the return policy on a camel is, do you? At least now our agent will be aware of our camel restrictions. Now we just need to plug this knowledge into the planner agent so it can incorporate the traffic rules into the designs of our marathon route.
+## Lucia Subatin | Developer Advocate, Google Cloud
+I got ahead of this and extended a scale from the official Google Cloud repo to make the agent an expert at using AlloyDB and vector functions. I also added a tool to our planner agent that's committed to our code base. The agent uses these to call AlloyDB through a Google Cloud remote MCP server. Jack, shall we switch back to you and test our changes?
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+Let's do it. Let me open the simulation. Here's a previously planned route. We've rerun it now that we are managing context better and have added memory. Let's see how it looks.
+## Lucia Subatin | Developer Advocate, Google Cloud
+Now the planner agent keeps track and has access to the latest context, like what landmarks and the current route passes by. Now local rules are being fetched as part of the planning process. Taking a look at the message history, we can see that the planner agent recalled the previous detail, pulling from its long-term memory of past simulations.
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+Lucia, check out the difference here. The gray line is where we started, but the colorful one is our new path.
+## Lucia Subatin | Developer Advocate, Google Cloud
+By managing context efficiently and adding memory to our agent, you can see our simulation adjusted its route based on the memory and data it now has.
+## Jack Wotherspoon | Senior Developer Advocate, Google Cloud
+Thanks, everybody.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+That was great. Give it up for Lucia and Jack. That was a lot of camel content. Too much camel content.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+It's camel engineering.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Don't even try that. It's all about context engineering, though, and it's exciting to see how these systems work together that make our agents more intelligent.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+They do. We have our full simulator actually built out, and we can run those multiple simulations. It's really cool to see the full thing in action.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+It is, but you've been driving this whole thing, so do I get one shot?
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah, go right ahead.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Now we have a simulation engine that has all this data component, has all these pieces, and so now when we run one, we can get that past history, all those memories aligned together, and everything just works. Son of a nutcracker. What did you do on that one? Is that-
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+That was your bad.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+That was me. All right, cut it out back there. That's a lot of sirens. There we go. Thank you.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Here's the thing, Richard, it's not your fault.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Oh.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+As we know, things break in unexpected and new ways when we start to introduce LLMs.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+I know. One issue we did run into in development is related to how context ends up being managed when all these tools get executed. There's a lot going on.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+There is. Let's talk about two things here that are going to help speed up our ability to debug agentic behavior and fix our apps faster than ever. Agent observability, which gives you visibility into operational metrics for agents based on open standards, and Gemini Cloud Assist, our agentic cloud operator that helps with managing your agents from design to run, to fix, to optimize.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah. I need someone to bail me out, and there's only one person I trust to get this unstuck, so please help welcome to the stage Megan O'Keefe. Woo.
+## Megan O'Keefe | Senior Staff Developer Advocate, Google Cloud
+Good morning. Let's talk about debugging agents at scale. With these autonomous systems, the production challenge isn't just scaling the infrastructure, it's managing the reasoning, the tool calls, all the places in the whole system where something can go wrong. In these environments, unexpected errors do happen. Today, I'm going to show you how to fix those issues. We will use agent observability and the Cloud Assist Investigations agent to dig into a simulation agent error on Agent Runtime. We will find and isolate the root cause of the error, then we will deploy a proactive fix, all with natural language. Now, our simulator agent needs to manage a lot of context for the live simulation. To prepare for this, I've added context compaction to that agent.
+This feature, called Event Compaction in Agent Development Kit, tells our agent to periodically summarize its workflow using Gemini, reducing the total context that's sent to the model at each turn. Now, I deployed this optimization, but we all just saw Richard break the simulation, and I would like to blame him, but Google has a blameless culture, so let's just investigate here. Here in Gmail, I can see the alert firing. The simulator agent is experiencing unusually high latency. Let's click view incident to open up the Cloud Monitoring console. Okay, so the simulator agent's taking a really long time to run. It's not returning any responses. But it's hard to see exactly why in this view. Let's figure out what's happening under the hood by opening the agent runtime trace view. Now, traces allow us to see the agent's underlying tool calls and reasoning flow.
+Here, I can see that the agent is successfully calling multiple tools, but then it crashed all of a sudden. That's pretty strange. Oh, boy. These logs are dense. You know, before, I would be panicking, copy-pasting things desperately. Now, watch this. I can click one button from the error log and start a Cloud Assist investigation. Gemini Cloud Assist is an AI assistant agent that helps you design, deploy, troubleshoot, and optimize your workloads. Now, this investigation took a few minutes to run, so I've preloaded it here. We can see how Cloud Assist has gathered the logs from the agent and closely examined the agent runtime infrastructure. It looks like the simulator agent is failing to call the Gemini model API due to a request error. Something is wrong with the payloads we're sending to the model.
+Now, helpfully here, Cloud Assist is pointing to a specific line of our agent simulator code. Let's open that up and keep digging. Now, here's something pretty cool. I can open my IDE, in this case Antigravity powered by Gemini 3, and continue the Cloud Assist investigation I had just started in the console. This is because my IDE is hooked up to Cloud Assist through MCP. Cloud Assist is one of many Google Cloud products with a built-in remote MCP server ready for all of your AI applications. From the agent I've asked, "Resume the Gemini Cloud Assist investigation about the simulator agent. What is going wrong in agent.py?" Now, this prompt takes a minute to run, so I've loaded it here. We can see how the agent is using the findings from Cloud Assist, looking closely at the agent source code.
+It's even searching GitHub for relevant issues. Look at how the agent synthesized all that information into a clear explanation of what's going on in our code. It seems that the reason we're seeing this 400 error is because we are exceeding the Gemini API's one million context token limit. That Event Compaction that we added to our agent, it is not running often enough to compress the context in between these huge tool calls. Now, here's what I really love about using agents during the debugging process. They don't just find the root cause of the issue. They suggest a proactive code fix to patch the issue. Here, the agent is suggesting that we add a token threshold parameter to our Event Compaction config so that we are periodically compressing context more often within each invocation.
+Now, from here, we can approve those changes, view the code diff, and commit this change back up to source control, triggering our CI/CD to redeploy the simulator agent back to Agent Runtime. That entire process takes about five minutes to run, so I pre-deployed it here. I'm back in the Agent Runtime console, where I've rerun the same query in our patched simulator agent, and we can see that despite exceeding that one million context token limit, our simulator is now running without errors, with Event Compaction running successfully. This whole debugging experience shows that agents like the simulator are still just software. Operating them safely requires transparent metrics, the right debugging tools, and careful attention to scale. Not just infrastructure scale, but things like token scale. Google Cloud uniquely provides a full observability suite for your agents.
+Cloud Assist and your coding agent don't just identify issues in these systems, they proactively fix the problems that they find. With the right tools in our belt, operating agents gets a lot easier. Thank you.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Here we go. Nice work, Megan. Bailing me out again. Thank you. The right tools make it a lot easier for us to pinpoint the root cause of a failure in these distributed multi-agent systems. In this case, Antigravity and Gemini Cloud Assist traced that cascading failure from our initial agent crash all the way down to the bug in the code. That's awesome.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah, I think something that a lot of people say is the best code is working code.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+That's beautiful. Is that Shakespeare?
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+No, it's Gemini.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Okay.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Here's the thing, the first architecture usually isn't the final one.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Sure.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+In fact, for me, it rarely is. When we build applications and AI systems, we want to start small, so we learn about how AI works and what new things it helps or breaks. From there, we evolve the architecture based on our needs. We might swap out runtimes, databases, or even entire programming languages as our agentic app changes.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+I can think of no better way to show this than to add some new features to this simulation, like having those runners show us their thoughts. This is not going to work with that current architecture. We have to add a number of components to make this happen. To show you how you can do all this with a Google Cloud expert agent at your side, please welcome one of my favorite Googlers, Bobby Allen.
+## Bobby Allen | Group Product Manager, Google Cloud
+Thank you, Richard. Do we have any GKE fans in the house? Can I hear you? Yes. Okay. I'm too hyped now, I got to calm down to do the demo. All right. This simulation is a marathon. You could use this analogy for any software. We can create exciting things faster than ever before. The world doesn't run on greenfield software, though, where we build new every time. Greenfield is a sprint. Running a system over time requires rigor, focus, and iterative improvement, more like a marathon. I want to show you an example of live coding, where we use the power of agents to upgrade an existing system. Let's focus on upgrading a component in our simulation, the runners, and we'll do that in two ways, control and customization.
+For greater control, we're going to convert an app from a Cloud Run service to a Google Kubernetes Engine or GKE deployment. For greater customization, we'll introduce a fine-tuned or customized model based on Gemma 4 that we also plan to run in the same cluster. In the last demo, you saw Megan use Cloud Assist to debug code. We plan to use Cloud Assist to modify infrastructure as code. Here I am in Antigravity editor with the Cloud Run service manifest that represents the runners. We'll do the runtime conversion and Gemma deployment in a single prompt. Convert this Cloud Run service to the equivalent on GKE with the Gemma 4 model hosted in the same cluster. My IDE is connected to Gemini Cloud Assist via MCP, which gives us access to Google Cloud resources and advice for designing and running applications.
+In other words, Cloud Assist serves as the translator that turns my intent into infrastructure changes. Cloud Assist helps us do full stack infrastructure deployment. It identifies best practices for running inference on GKE, like the right vLLM configuration for serving and policies for scaling. All right. Our GKE manifest configuration for our converted app, including Gemma, is now ready. All we'd have to do is say yes to apply the changes. Now, deployed workloads start to appear in the console in 30 seconds or so and take about 10 minutes to finish. We've sped this up a bit for the sake of time so you can see the finished product. Now look, I want you to take this in. I used my voice to tell AI to deploy AI and put it in Kubernetes. Anybody hyped about that? I think this is cool. All right.
+The two components you see are the converted app, the runner now in GKE, and the Gemma inference server running in the same cluster. All right. This is the portion of the console where you can see details around AI workloads, such as confirmation that we deployed Gemma 4 as we expected. Now, for context, remember that the runners are just one component of the marathon simulation that you saw earlier. All right. Let's try this out. 100 runners worked fine in testing, but we rolled this out internally to thousands of runners, and we've been seeing some issues. Oh, boy. It looks like the runners aren't actually running. At least this time we know Richard didn't break it. Listen, sometimes scale breaks things or slows them down to the point that they seem broken.
+This is why it helps to have proactive helpers like Cloud Assist to surface issues quickly. Here we are in the Google Cloud console, and Cloud Assist has already run an investigation on our behalf, and it's identified the problem. Our storage isn't loading the model fast enough. GCS FUSE is great for some use cases, but in this case, we need to also scale quickly, and Lustre is a better option for rapid scale. We're going to take the Cloud Assist recommendation to deploy this upgraded storage and let it handle the details. Since this will take a few minutes, we're going to go to another instance where Lustre's already deployed. We're back in our simulation and we just kicked off a run. Now latency should no longer be a problem.
+Here's our upgraded simulation with upgraded runners, and the proof of the upgrade with Gemma 4 is that we'll now be able to see how they're feeling and what they're thinking. Let's check it out. All right, counting stormtroopers, I'd probably be doing the same thing. Vegas send music. Look, I don't know about you all, but my thought bubble would probably say something like, "Running today, crawl into the mailbox tomorrow," because I'd be feeling that. Anyway, let's recap a little bit about what you saw. Number one, our intent quickly turns into action, even for existing brownfield systems. Number two, we're proactively notified about issues with specific resolutions. Number three, we can focus on outcomes, not products or features that constantly change. Here's the point.
+We see a world where agents work with you to take action within the guardrails you set, not just answer questions you have. Don't chat with me about change, partner with me to safely implement change. This is our vision of an autonomous cloud. Thank you.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+All right. Give it up for Bobby. I don't think even he can make vibe clouding happen, so let's not use that.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+No, he can read my internal thoughts when I'm running a race, though.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+I have internal thoughts after hearing that phrase.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Okay, I don't know if we're actually at fully throwaway architectures yet.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Our value as developers is taking the learnings from each version that we build and applying them to the next version of our apps. Gemini Cloud Assist helps us with many of the specifics, even autonomously. We can focus on the use case and building a great app.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Speaking of use cases for all builders, let's talk about how the Agent Platform powers up developers and builders wherever they are. First, with Gemini Enterprise, you can create insights from your data sources using pre-built agents from Google, like the Data Insights Agent or my personal favorites, NotebookLM. Next, your team of users and developers can build rich agentic experience using high, low, no-code interfaces to get value from agentic behavior. You can share all these agents securely and at scale with Agent Platform's built-in governance controls.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah. Richard, we're all developers here. We all flip from low code to no code and back to low code, right?
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Is that what you're doing? Well, that is one of your powers.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+This is the power of the Agent Platform. I know two people can help show their power and build and share all types of agents. Please help me welcome to the stage, Ines Envid and Jason Davenport.
+## Jason Davenport | Area Technical Lead, Google Cloud
+Let's see those towels.
+Yay!
+## Ines Envid | Senior Director of Product Management, Google Cloud
+All right.
+## Jason Davenport | Area Technical Lead, Google Cloud
+All right.
+## Ines Envid | Senior Director of Product Management, Google Cloud
+Here we go. We've built, so far, a fully functional simulation. We can do even more with the agents we've built. Let's show you why, as developers, no-code agents can be really a powerful tool in your tool belt. We'll show you how low and no-code agents work together.
+## Jason Davenport | Area Technical Lead, Google Cloud
+All right. First thing we're going to do is share the Marathon Planner agent in Gemini Enterprise. We'll show how all types of users can create their own no-code agents to make work easier, like for me, getting out of meetings at work. Actually doing serious things also, like logistics work, ordering all the water, bananas, and porta potties.
+## Ines Envid | Senior Director of Product Management, Google Cloud
+All right. Jason, let's pull up all of our Gemini Enterprise-enabled agents. All the agents we've created in Agent Runtime are automatically registered in Agent Registry. They're discoverable by other agents and apps, included here in Gemini Enterprise.
+## Jason Davenport | Area Technical Lead, Google Cloud
+That's pretty cool. Now let's actually see where they're at, right? Here we are in the Gemini Enterprise app, and we can see that the Planner Agent is available for us to use. Let's go ahead and give it a shot. Here, I have a test session where I'm planning a marathon for 10,000 runners in Las Vegas. When we use Gemini Enterprise with our agent, we still get dynamic interfaces back with A2 UI. Our low-code agent features work on both custom apps and standardized surfaces here in Gemini Enterprise.
+## Ines Envid | Senior Director of Product Management, Google Cloud
+This is cool. All right, so now let's say that we're ordering things for the race, so water and food and even music to keep people entertained. We usually just use a very long Google Doc to track all the steps. But-
+## Jason Davenport | Area Technical Lead, Google Cloud
+It is so long.
+## Ines Envid | Senior Director of Product Management, Google Cloud
+Planning marathons as well is a team sport, so our committee usually needs to get many people involved for all the different steps, and it's a lot of thankless work. Let's create an agent to handle the planning and ordering, and we'll give this document as context to the agent. Go ahead and open the Gemini Enterprise Agent Designer.
+## Jason Davenport | Area Technical Lead, Google Cloud
+All right. Here we are in Gemini Enterprise's Agent Designer. We've given a prompt to Gemini Enterprise to create an agent that is an expert at planning and ordering for a race using this prompt here. Since this takes about a minute for Gemini to create our team, we pre-populated it, and Gemini's design that it created is over here on the right. If you remember from earlier, agents that you create in Gemini Enterprise are automatically registered back in Agent Registry, so you could use those elsewhere if you want to also.
+## Ines Envid | Senior Director of Product Management, Google Cloud
+With that one prompt, Gemini Enterprise created a whole team of agents for us. We have the main agent, which coordinates all the planning and ordering with a team of sub-agents that are experts in their specific area. All right, let's click on the main agent. Notice that Gemini created a detailed set of instructions for the agent we could choose to customize further. Jason, let's give the agent access to our document about ordering supplies as context. We just need to provide it with the Google Drive link. You see that users don't need to know how to codify this document. Here, we simply give the document as context to the agent and always has access to the up-to-date information. All right, let's update it.
+## Jason Davenport | Area Technical Lead, Google Cloud
+All right. Now the moment of truth. Let's come back to our conversation that we have with the marathon planner agent. What we can do is we can actually change the focus of our discussions, in this case, to the supply chain agent, then ask it to make a comprehensive plan, including the logistics we need for the race. What's cool is that now the agents will work together to actually create our plan. We have water and food, we have things like the mileage that things need to be in place, we have entertainment, and most importantly, we have porta potties.
+## Ines Envid | Senior Director of Product Management, Google Cloud
+Very important. All those porta potties.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Important.
+## Ines Envid | Senior Director of Product Management, Google Cloud
+All right, this is low-code and no-code agents working together for us to make race planning easier. Great work, Jason. Back to you, Richard and Emma.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+How great was that? This whole keynote is camels and porta potties. Who wrote this? What is important to take away is that teams of any size, people of any skill level, can actually use agents via Gemini Enterprise. How great is that?
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah, they can. Now let's talk about security and governance.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+It keeps getting better.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+It does. Agents give users and other agents new ways to intentionally or unintentionally expose data and behaviors in ways that we may not want. For example, users shouldn't be able to change financial data. Richard, we already got rally towels for everybody at the race, but this is a race at night and I want to do more. Let's see if we can actually increase the budget to get glow sticks and maybe some of those really cool nighttime LED sunglasses.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+I love spending Thomas Kurian's sweet OpEx money, but I don't feel like we're supposed to. Yeah, that's not supposed to work.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+Yeah, we did, though.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Yeah. Not great. Our planner agent should not be able to change the budget. That's obviously some sort of security bug by our developers, and we always talk about shifting left for development, but that's hard and security is never a lot of fun for devs. Let's be honest, shift left is often code for developers should just do more. It's not sustainable for developers to be responsible for all layers of the stack. We need to shift down instead. That means smarter platforms. We need to provide better ways to give conditional access from agents to humans and agents to agents.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+We do. Agent Identity gives agents well-defined policies to help ensure that agents can access only what they need, only when they really need it, and nothing more. Agent Gateway, which gives teams a centralized place to manage all of these policies together.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Platform engineering, we know, is a team sport. We've got to work together. To show how an engineering team can be empowered to help build and govern more secure applications in this era of MCP and agents, let's welcome to the stage my friend, Ankur Kotwal. Hey.
+## Ankur Kotwal | Head of Global Developer Relations and Strategic, Google
+G'day, everyone. As a developer, shifting security down on a multi-agent system has felt like trying to navigate the Vegas Strip at midnight, blindfolded. You don't always know what vulnerabilities are critical or how an attacker might manipulate your planner agent into routing 10,000 marathon runners straight through a Vegas casino. I'm going to show you how to govern agents with easy-to-understand policies. You'll also see how to identify exploitable risks in your code and how to fix them. Our agents have been deployed to Agent Platform. Agent Gateways are proxies between agents. We already have a gateway in place for our simulation. Agent Gateway enforces identity and access management policies, or IAM policies, to help ensure that agents are only accessible by approved sources. This is the Agent Registry. Our planner and simulator agents are already listed here.
+Each agent instance has an identity, which is automatically generated when the agent is deployed. Now, unlike broad-purpose service accounts, agent identities provide a unique and immutable credential for each individual agent. Think of service accounts like a single all-access hotel key that's shared by the entire marathon event crew. What a bad idea. Agent identities are like having a biometric scanner at every door and are fully auditable. Here we see our policies. These egress agent policies govern outbound traffic from an agent to resources like tools, models, and other agents. Egress policies are the guardrails for our agents. Our gateway is already configured with a strict policy in place, blocking the planner from accessing the open internet. When you're feeding an agent 10,000 live runner profiles and our production API keys, what happens in the planner needs to stay in the planner. We still have a problem.
+Emma showed us how she's able to change our budgets. While I appreciate the agent's generous spirit, we can't have it treating our budget like a high roller suite. We're going to add a policy to our planner agent. We're going to hit create. We'll select our planner agent from this list here. There we are. The planner agent calls an MCP server with tools for reading and writing to the financial database. Let's go ahead and select our Finance MCP server here from this list, and then we're going to go and add a condition. We'll name it Read Only Finance, and we'll set the read-only value here to True. We'll hit save and we'll hit create. Now, this can take about five minutes to propagate, so I'm going to switch to a version that I deployed earlier. Now let's try the same prompt that Emma entered.
+The planner agent is communicating through the Agent Gateway, and thanks to our new policy, it can no longer call write-enabled tools on the Finance MCP server. There we have it. Sorry, Emma, I'd love to approve the glow sticks and sunglasses, but our zero trust architecture comes with a zero budget policy for impromptu spending. In just a few steps, Agent Platform has enabled us to implement role-based access control for our agents using agent identities and policies. Let's switch gears. Thanks to all of these agentic developer tools, I'm writing a lot of code. How can I be sure that my code is secure? To show us how to help keep all of our code secure, all from within our developer tools, please welcome to the stage Founder and Vice President of Product at Wiz, Yinon Costica. Give it up for Yinon.
+## Yinon Costica | Co-founder and VP of Product Wiz, Wiz
+Thanks, Ankur, and for the opportunity to present to the amazing development community here at Next.
+## Ankur Kotwal | Head of Global Developer Relations and Strategic, Google
+Whoo.
+## Yinon Costica | Co-founder and VP of Product Wiz, Wiz
+Wiz is a unified cloud security platform that helps organizations secure everything they build and run. Wiz scans your code and infrastructure to build the security graph that's a living map of your cloud and AI applications. We use rule-based, but also the latest AI models to understand risks and vulnerabilities to the environment. On top of the graph, Wiz uses context and a layer of security agents that accelerates the security work. In yesterday's opening keynote, we showcased the Wiz Red Agent. The Wiz Red Agent is our friendly pen tester that exploits issues from the outside. Next, we showed the Wiz Green Agent that's a fixer that suggests root cause remediations and starts the dev workflows even directly to our coding agents. Look, we can see our marathon planner agent, the model it runs on, and the tools it can access. Yes, exactly.
+This is a full architecture, so while you were building your app, security can easily see what you've built, understand it without you having to actually explain it to them. We can see also not only the agent is here, but also there is a full attack path from the internet through this internet exposure, all the way to sensitive data behind it. Now, the Red Agent looks at this attack path and validates that the risk is actually exploitable from the outside. You can see that it found an authentication bypass vulnerability, and more than this, you can actually see all of the steps it took in order to find this authentication bypass. In general, the AI attacker, the Red Agent, is the best AI attacker probing your environment, and it goes far beyond code analysis to focus on real risks to your deployed apps and APIs.
+Now, with our cloud to code inference, we can actually identify the source repo to actually fix it.
+## Ankur Kotwal | Head of Global Developer Relations and Strategic, Google
+Now, as a developer, I want security to meet me where I work in my dev tools without going to a security portal. With Google Cloud and Wiz, I can use any AI tool I want to help with security work.
+## Yinon Costica | Co-founder and VP of Product Wiz, Wiz
+Perfect. Here we have Cloud Code with Opus and with Wiz. We want to enable your choice of tools and models as long as you fix and prevent real risks in your applications. Now we just saw a critical risk to our planner agent that Wiz says we should fix right away. We can use a Wiz skill. You can see here the Wiz remediation that basically I ran earlier to pull all of the risk deployed from this repo. Now, you can see that we've found a toxic combination that's a critical risk. You can see seven distinct security risks that actually created this attack path. Now, the Wiz Green Agent looks at this attack path, and it actually suggests three priority fixes to break the attack chain. The first one is to downgrade the IAM privileges.
+Second is to patch the authentication bypass vulnerability, and the third is to enforce the AI guardrails.
+## Ankur Kotwal | Head of Global Developer Relations and Strategic, Google
+Now, as the human in the loop, I love the control and practical sequencing. Let's go ahead and apply these changes, Yinon.
+## Yinon Costica | Co-founder and VP of Product Wiz, Wiz
+Okay, now this takes a couple of minutes to run, so I'll switch to one that we've already run just before, and it looks like Claude Code has already applied all of the fixes. You can see the changes, but you can also see a summary here that it actually found the Terraform to remove the excessive access. It actually found the application code to patch the authentication bypass vulnerability, and it enforced the AI guardrail. Et voilÃ . Basically, code findings turned into actionable code fixes grounded in runtime exposure and actual attack path context. Now we can commit the code. Wiz does the rescan, we can see that it passed, and we're good to go. This is what it means to build faster and safer than ever before.
+## Ankur Kotwal | Head of Global Developer Relations and Strategic, Google
+That was amazing. Thanks, Yinon. That's great. Yeah, give it up. In this demo, you saw how Agent Platform enables fine grain governance of agents with Agent Gateway as a proxy, role-based access control, identities, and policies.
+## Yinon Costica | Co-founder and VP of Product Wiz, Wiz
+You also saw how Wiz can proactively scan your code for risks, then identify if they are actually exploitable and guide you on how to fix them, all from your own developer tools.
+## Ankur Kotwal | Head of Global Developer Relations and Strategic, Google
+This is true secure development. We no longer have to choose between developer velocity and security.
+## Yinon Costica | Co-founder and VP of Product Wiz, Wiz
+Let's do magic.
+## Ankur Kotwal | Head of Global Developer Relations and Strategic, Google
+Take us to the finish line, Richard and Emma. Great.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+Let's give it up for Ankur and our special guest, Yinon. That was terrific. Loved it.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+It was. It's exciting to see how Gemini Enterprise Agent Platform can empower developers to build production-ready agents. Richard, you know I work in open source, so I'm so excited to share that we've open sourced every line of code that we shared today.
+## Richard Seroter | Senior Director and Chief Evangelist, Google Cloud
+How awesome is that? 100%. Yeah. Let's give it away. I am so excited every developer in this audience can try out the app we built right now, but check out the developer solution we've created for this project. It actually guides you through the architecture, how we built the various pieces of this using Google Cloud, and we even provide links and cloud credits to all the labs that we've built so you can try it yourself. You can clone that repository, try it out right after the show. If you remember nothing else, though, our Agent Platform makes the process of building and running these agents the best in any cloud. From the runtime with Agent Cloud, to giving our agents memory and context with our Data Cloud, and the code and frameworks with ADK, and Agent Platform's built-in AI services for tracing and eval.
+It really is an exciting, awesome, amazing time to build agents with us.
+## Emma Twersky | Developer Relations Engineer, Google Cloud
+It is. With all of that, thank you to everyone for joining us here in Las Vegas and on the live stream. Now let's go build.
+Data Source: Quartr Last updated: Apr 23, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (15) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

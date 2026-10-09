@@ -1,0 +1,395 @@
+TITLE: Morgan Stanley's 14th Annual Laguna Conference
+DATE: 2026-09-16
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay, let's keep flying high. Sorry, I'm going to work all the airline analogies in. With United Airlines next, and very happy to welcome back to Laguna, CFO Mike Leskinen. Mike, welcome back to Laguna.
+## Mike Leskinen | CFO, United Airlines
+Thank you, Ravi, and good morning. It's a great time in the airline industry. This industry is continuing to de-commoditize. You're seeing the winners in this industry really create a value proposition for the consumer that's differentiated, and that's creating healthy financials through cycle. We're starting to see that in the valuations for our stocks, and I'm thrilled to talk a little bit more about it today.
+## Ravi Shanker | Analyst, Morgan Stanley
+That's awesome. We will get to the long-term value prop in a second, but if you can just start with maybe a lay of the land as you see it. Obviously, a lot going on in the space. The airlines had a very strong summer. Obviously, transitioning from summer to fall, how do you see the world today?
+## Mike Leskinen | CFO, United Airlines
+Let me start with demand, because demand is incredibly resilient. This is an industry that historically has priced to the lowest common denominator. But the American consumer is becoming a lot more sophisticated, and they care about the quality of the product, the resiliency through irregular operations, whether you have Starlink or not, etc . The consumer has disposable income and wants to spend that on experiences.
+So, the industry, to maintain profitability, has had to push through some price to offset rising fuel prices. I wouldn't say to our surprise, it was our expectation, but it's proven out that demand is incredibly resilient. We have not captured price as an industry for the last five, 10, 20 years relative to other categories in the travel spend bucket. I think we have finally put together a product and a service that is demanding some recapture of that. It is nice to see that resiliency in this business.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. I will say that Scott Kirby was spot on when he said that you guys thought that fuel prices would remain elevated for longer. How has having that longer-term view that this is going to be a sustained issue helped you with planning capacity, planning yields, and maybe given you an advantage over your peers?
+## Mike Leskinen | CFO, United Airlines
+Look, I think at United, we have a philosophy. It is a no-excuses philosophy, and we have a business plan, a culture of driving profitability in all environments. When the world changes, we change. We don't stick our head in the sand. You saw that as fuel prices spiked, we expected them to be higher for longer. We made some adjustments to our schedule because every airline has a bell curve of profitability if you look across the routes, and there are some routes that were on the lower end that get pushed into not profitable when fuel spikes like this. Not a lot, because as I said, the consumer's been incredibly resilient.
+There's some marginal routes that don't make sense in a higher fuel environment, so we cut them. You should see us continue to behave that. You will see us continue to behave that way. As you look into the fourth quarter, there'll be some flights in December that we won't fly that we thought we were going to fly. If fuel remains high, we'll make some adjustments into the first quarter and beyond into 2027. You always will see United do that. We are not flying to maximize market share. We're flying to maximize profitability and free cash generation. So we'll make those adjustments.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. As you look into the fourth quarter as well, do you have a sense of what demand shaping up as you said demand being very resilient through the third quarter, do you have a sense of what holiday season booking curve is looking like, and how much are you booked so far?
+## Mike Leskinen | CFO, United Airlines
+It is really strong. In the third quarter, there has been some calendar items, the Jewish holidays, when Labor Day fell.
+## Ravi Shanker | Analyst, Morgan Stanley
+Sure.
+## Mike Leskinen | CFO, United Airlines
+I think when you look at the TSA data, it caused a little bit of a false indicator.
+## Ravi Shanker | Analyst, Morgan Stanley
+Sure.
+## Mike Leskinen | CFO, United Airlines
+As we look into the fourth quarter, bookings are tremendously strong. We talked about that on our conference call. Bookings have continued as we expected. So that piece of the equation is resilient. Very little evidence of demand destruction. If you squint at some of the lower-priced tickets, you might be able to find something there, but very small for United Airlines. In the premium cabins, just humming along very nicely. Corporate business has been ticking up a little bit. We're still 4.5 points back from what we think trend line is-
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay.
+## Mike Leskinen | CFO, United Airlines
+...but we've seen a little bit more of an uptick in corporate and premium, but economy also very strong.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. Just a couple of follow-ups there. Just on the yield curve, obviously, you guys had a very strong first half of the year. You have been able to, both as United and industry, pass through the jet fuel. With getting back up to close to the high-water mark on fuel prices, is there room for further jet fuel pass-through, do you think, for yourselves?
+## Mike Leskinen | CFO, United Airlines
+Absolutely. Jet fuel price gets passed through with a lag. Period.
+## Ravi Shanker | Analyst, Morgan Stanley
+Sure.
+## Mike Leskinen | CFO, United Airlines
+We were talking about 100% recovery in the fourth quarter. Fuel prices have spiked pretty rapidly.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+We've got about 35% of our tickets booked already in the fourth quarter, so you can't go back and reprice those tickets, so there's a lag.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+You all should think about that when you run your models. But there is nothing that is changing that causes us to not be able to pass through 100% of fuel with that lag.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. You briefly mentioned corporate. If you can unpack that a little bit, you said still 4.5 points below what you thought would be baseline. There are many baselines here. So is that a pre-pandemic baseline? Is that where it should be given GDP? Is that where it should be given where fuel is?
+## Mike Leskinen | CFO, United Airlines
+It's a pre-pandemic baseline, and the point of sharing that is, while corporate has been very, very robust-
+## Ravi Shanker | Analyst, Morgan Stanley
+Yeah.
+## Mike Leskinen | CFO, United Airlines
+...and we're seeing volumes pick up, there's plenty actually more room to run there.
+## Ravi Shanker | Analyst, Morgan Stanley
+Right. Got it.
+## Mike Leskinen | CFO, United Airlines
+That's the point you should take away, but incredibly robust. In fact, the premium cabin in corporate has been very strong for quarter, after quarter, after quarter. It's economy that has caught up-
+## Ravi Shanker | Analyst, Morgan Stanley
+Yeah.
+## Mike Leskinen | CFO, United Airlines
+...to that with some really strong pricing in the economy cabin as well. But I would say it's just kind of caught up to parity. It's not like it's getting on top of premium.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. On main cabin, that has been a source of weakness for some time now for the entire industry. Very encouraging to hear you say it's kind of caught up on the yield side. How are load factors in main cabin and do you guys have a sense of why and how that's catching up? Because I think one of the themes of this conference has been just how resilient the customer's been.
+Clearly, it seems that you're seeing that as well. So any color you have on how and why that's catching up?
+## Mike Leskinen | CFO, United Airlines
+I think that it has to do with differentiating the product and consumers really choosing to fly on United for what we're bringing.
+## Ravi Shanker | Analyst, Morgan Stanley
+Right.
+## Mike Leskinen | CFO, United Airlines
+It is not just that we are making the premium experience better. We are making the experience better from nose to tail. I think it is also a secular trend in society where customers care a lot more about experience than hard product.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+More of their wallet is shifting in that direction. I talked about it a little bit earlier, but if you look at what consumers pay for hotel nights, frankly, this conference, you cannot even get a room here right now.
+## Ravi Shanker | Analyst, Morgan Stanley
+No.
+## Mike Leskinen | CFO, United Airlines
+Even hotels, I understand the Marriotts, you are paying $1,000 a night for the Marriott. Uber prices to and from the airport often cost more than the airfare. The percentage of the trip cost that is dedicated to airfare has shrunk over the years because this industry has often competed in irrational ways, and you've got players that have been willing to lose money, almost permanently lose money.
+I think that the industry structure is moving in a way that as that low-hanging fruit, as those kind of worse actors are forced to produce at least a positive return, certainly not their cost to capital, but a positive return, that's creating this opportunity to get a return, not just a pre-tax margin, but a return on capital. We're determined to do that at United Airlines. We've made great progress and as I said, as we pass through fuel with a lag, we're completely on track.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. Three months ago, when you guys were doing your 2Q calls, we thought the biggest debate at Laguna would be we would see evidence of how resilient pricing was going to stay in a lower jet fuel environment. That obviously didn't happen. If we were to eventually go back to that debate again, you guys said about 90% of the recent pricing improvement is structural cost inflation and harmonization rather than short-term capacity actions or jet fuel. Can you give us a little more color on how that thinking has evolved since, and how confident you are that this is a new baseline for pricing?
+## Mike Leskinen | CFO, United Airlines
+I love the question, Ravi, and as I think about the setup, there's two ways we can win. You could see fuel prices rapidly stabilize, and hopefully fall as we start to see traffic move through the Strait of Hormuz. I've got no special insight into when that-
+## Ravi Shanker | Analyst, Morgan Stanley
+Absolutely.
+## Mike Leskinen | CFO, United Airlines
+...may or may not play out. I think in that environment, we'll be able to maintain a heck of a lot of the price and our margins expand. That could happen three months ago, it could happen three months from now, I don't know the timing. But that is absolutely a path to getting to the double-digit margins we've been talking about for so long. By the way, double-digit margins for United, really, I think right around 9% margin is when we get to investment grade as well.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+So it really is the key to a whole lot of goodness financially for United Airlines. But the second path is actually pretty favorable as well, and the second path is if fuel prices stay higher for longer, maybe go higher from now in the short term. If that plays out, you're going to see more and more structural change in this industry.
+## Ravi Shanker | Analyst, Morgan Stanley
+Absolutely.
+## Mike Leskinen | CFO, United Airlines
+You are going to see there is such a bifurcation between the players that have positive margin and the players that have negative margin, and the balance sheets between those two players is becoming more and more stark. The longer this difficult environment with fuel price plays out, the more structural change that plays out, and the stronger our margins are on the other side. Because we will be in an even more differentiated position versus those weaker players. I think it is kind of a situation where heads we win and tails we win.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep. That sounds like a good setup. On that note, I have said this a few times so far this conference already, but I am going to be a greedy sell-side analyst and say that, hey, you just pointed out that there is so much room to normalize on yields for yourselves and as an industry to real adjusted inflation levels. This is not just about keeping jet fuel costs low that you have already done because you need to offset structural costs and such. There is more room to come on yields over time. Let us assume that jet fuel goes back to something in the high 2s, low 3s, and stays there.
+## Mike Leskinen | CFO, United Airlines
+There is more room for the airlines that are providing a differentiated customer experience.
+## Ravi Shanker | Analyst, Morgan Stanley
+Absolutely.
+## Mike Leskinen | CFO, United Airlines
+You have to invest in the customer.
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay.
+## Mike Leskinen | CFO, United Airlines
+This is not getting something for nothing. This is providing a better product, a better service, a more reliable airline, Starlink internet.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+Better segmentation, etc .
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+I'm sorry, I didn't mean to interrupt you.
+## Ravi Shanker | Analyst, Morgan Stanley
+No, no, that is exactly where I was going. Yep.
+## Mike Leskinen | CFO, United Airlines
+It is key to it.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+This is not just pushing price and giving nothing back to the consumer.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. Let us talk about giving back to the consumer. You introduced base fares in premium cabins. You are doing the segmentation there earlier this year. in 2Q, you said that the buy-up rate on standard Polaris was significantly higher than you initially expected. What have you learned from that rollout so far? Is this bringing the, if I want to say the middle of the plane to the front of the plane, or how is that shifting dynamics within the cabin?
+## Mike Leskinen | CFO, United Airlines
+Yeah. I love your questions this morning. Thank you for that question.
+## Ravi Shanker | Analyst, Morgan Stanley
+Madison came up with all of them.
+## Mike Leskinen | CFO, United Airlines
+When I left Wall Street to come to United Airlines, I was very cost-focused. You win by having low costs. What this most recent iteration of segmentation with a basic Polaris fare has proven is that customers love our clubs. They love our clubs. By the way, the club's pretty expensive and take a long time to build. We have a huge head start on much of the competition in that.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yeah.
+## Mike Leskinen | CFO, United Airlines
+But the buy-up is an indication to me, it's not an indication, it's a proof point that the customers love the club experience-
+## Ravi Shanker | Analyst, Morgan Stanley
+Right.
+## Mike Leskinen | CFO, United Airlines
+...and they're willing to pay for it.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+It shows that we're not done with segmentation. Segmentation, in the end, it helps us drive yield, but it's customers paying for what they want.
+## Ravi Shanker | Analyst, Morgan Stanley
+Right.
+## Mike Leskinen | CFO, United Airlines
+It's giving the customer choice, and the customer is choosing to have that full premium experience.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. So you're saying buy-up within that premium cabin as well, with post segmentation, it's not a case of people are saying, "Hey, I'm just okay flying the front of the plane, I need the club, too.
+## Mike Leskinen | CFO, United Airlines
+That's right.
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay. That's incredible to know.
+## Mike Leskinen | CFO, United Airlines
+And in fairness, it continues to surprise me. But it is what the customers want.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it.
+## Mike Leskinen | CFO, United Airlines
+So we're going to provide it.
+## Ravi Shanker | Analyst, Morgan Stanley
+I want to say that you guys have been one of the most, if not the most, innovative airlines in terms of new products out there. You mentioned Starlink, but also the main cabin product where you can put the three seats down and make it a flat bed. That was insane. I want to experience that at some point, but-
+## Mike Leskinen | CFO, United Airlines
+Great for families.
+## Ravi Shanker | Analyst, Morgan Stanley
+...great for family, right?
+## Mike Leskinen | CFO, United Airlines
+Great for families.
+## Ravi Shanker | Analyst, Morgan Stanley
+A, what is the product ideation process within United like? How do you come up with ideas like that? And how much more runway do you have to do innovative things within the cabin?
+## Mike Leskinen | CFO, United Airlines
+Well, we've got just an incredible commercial team. Starting with Scott Kirby, we've got this culture of having a five-year startup within a 100-year-old airline. We are encouraged as the entire officer corps and down through managing directors and directors, encouraged to be creative and try new ideas. If the idea works, great. If it doesn't, we fail fast.
+## Ravi Shanker | Analyst, Morgan Stanley
+Sure.
+## Mike Leskinen | CFO, United Airlines
+I think nowhere do you see that more than in what we've done with the hard product. As I said, it's from nose to tail for the aircraft. What we're doing in the economy cabin is pretty incredible and differentiating for United, and I don't think that's going to end. We've proven that. We've proven that. Starlink, I'll use that as an example. When we first started to think about Starlink, look, it was more expensive than the other options.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep. Mm-hmm.
+## Mike Leskinen | CFO, United Airlines
+But we thought about what customers, especially on long-haul flights, what could really differentiate the experience. We took a little bit of risk, and that has been an incredibly reinforced, incredible bet for United to make. You've seen a lot of the industry trying to catch up. They'll be a few years behind. But a lot of loyal customers coming to United, and once we get those customers and put them in our loyalty ecosystem, I think that they're going to be permanently United customers. So more and more bets like that to come.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. Another big change from your fleet and premium perspective was the A321XLR Coastliner elevated 787 coming in the fleet. What does that mean? Obviously, probably the first time I think you're flying a narrow body, but a full cabin, a full suite product to a transatlantic as well. How has the customer reaction in the early days to that announcement been like? Just overall, if I can ask you a bigger picture premium question, it feels like the entire industry is becoming more premium, which I think is a- I don't even know if it's a high quality problem, but it's a good trend for the industry to have. Do you think there's room for this much premium across the industry?
+## Mike Leskinen | CFO, United Airlines
+All of society is becoming more premium.
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay.
+## Mike Leskinen | CFO, United Airlines
+This is not just an air travel experience. This is hotels, cruise lines, car service, etc. We are just jumping on to that trend. Andrew Nocella, Patrick Quayle, brilliant in bringing the A321XLR into the United ecosystem.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+You have got to see it. If you have not seen it, you have got to get on board and see the experience. The Polaris suites on those aircraft are incredible. If you think about living on the East Coast, it is such a special competitive advantage for United Airlines to be able to fly direct to so many cities in Western Europe. It is going to be high margin, and it is going to be a unique opportunity for United because we order those aircraft, and we are configuring them a way to fly those routes. You do not have to fly to Paris and have a connecting flight.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+Goes straight to these destinations. They are going to be incredible for these new cities on the map, too. I think yet another example of the creativity or a team-
+## Ravi Shanker | Analyst, Morgan Stanley
+Yes, the destinations.
+## Mike Leskinen | CFO, United Airlines
+...in driving a differentiated network to match the differentiated product. It is going to lead to continued strong financial results.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. You mentioned high margins there. With your CFO's hat on, how do we think about the margin profile of these aircraft versus a more traditional transatlantic product or a more traditional long-haul premium product? Obviously, new planes, so it should be cheaper to operate, more fuel efficient, et cetera. Overall, do you have a sense of how the profitability changes?
+## Mike Leskinen | CFO, United Airlines
+Well, for these smaller cities, you need to have a lower trip cost-
+## Ravi Shanker | Analyst, Morgan Stanley
+Sure.
+## Mike Leskinen | CFO, United Airlines
+...to make it work. This A321XLR is just a special machine for those missions. If you compete head-to-head with the same routes, with the same hard product, that is a commodity.
+## Ravi Shanker | Analyst, Morgan Stanley
+Commodity. Yep.
+## Mike Leskinen | CFO, United Airlines
+That is going to devolve into commodity-like returns. That is not the strategy you are seeing from United Airlines.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. Understood. Let's switch gears and talk about co-brand here. I think you said that new co-brand accounts increased 22%, card spend increased 14%, MileagePlus enrollment increased 9% in 2Q, all kind of incredible numbers off of not the easiest comp in the world. You made a bunch of changes to the card program. How much runway have you already made before you consider a new agreement in the coming years?
+## Mike Leskinen | CFO, United Airlines
+We've got a ton of runway in front of us.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+The team's doing a great job. We made some tweaks to the program. If you are a loyal United customer, you should have that United card in your wallet.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yes.
+## Mike Leskinen | CFO, United Airlines
+There are some alternatives that get you some of the benefits of the United card, and we need to make sure that those loyal United customers have a United card. Those tweaks are paying dividends. You've seen a lot of customers shift to the United card and bring that United card to the front of the wallet. So those results you just cited are evidence of that.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+We are on the right path. But we have so much runway because if you benchmark our program versus some of our competitors, we've got a lot more opportunity. Now, a lot of that is on United. Some of that is the relationship with Chase. We've got a strong partner in Chase.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+We need to figure out how to make the pie larger.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+And get a larger slice of it at the same time. We're going to work on that over the next couple of years. There are hundreds of millions of dollars of opportunity and upside into our loyalty ecosystem. The foundation of that is running a better airline, a differentiated airline. It's a loyalty program after all, and you want to be loyal to a company that has a product and service that's differentiated.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. I think you've described the existing contract as in the sunset phase. Obviously, you're going to be coming to the end of it. What can we see in terms of potential changes? You alluded to the economics here. So changes, timing, what does that look like for the short term?
+## Mike Leskinen | CFO, United Airlines
+Well, the contract is in the sunset phase.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+But after every sunset, there's a sunrise.
+## Ravi Shanker | Analyst, Morgan Stanley
+Absolutely.
+## Mike Leskinen | CFO, United Airlines
+The sunrise is going to be really special, I think, for United. The opportunity is to drive more card acquisitions.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+We have a gap in our acquisitions if you look back in time over five years where our acquisitions didn't keep up with the level that I think that our business deserves. So that means that the flywheel of number of customers that have the card in their wallet, in the front of the wallet, is smaller.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+That means that I've got all those customers to go out and capture and entice with a great product. Part of that is going to be new contract to drive card acquisitions. Part of that is going to be the rate we make on the spending. I think there is a big opportunity there. It is going to be a combination of a new contract and making sure that we make our card really attractive to the customer, and that will spool up. That takes a few years. But a big opportunity as I think about taking our top of industry margins and making it absolutely industry leading. This is one of the biggest levers we have.
+## Ravi Shanker | Analyst, Morgan Stanley
+Makes sense. Let us switch gears, talk about the network a little bit. Scott Kirby has been one of the most vocal over the last several years about the need to make air traffic control changes and throttle takeoff landings at key airports. Obviously, you guys had some disruption in Newark last year. You have lapped that brilliantly this year. There was a cap announced at O'Hare. But again, it seems like these changes may actually be benefiting you rather than the other way around. Can you talk about how you guys have built that into the network, what the net changes to economics have been at these hubs? Are there any other hubs that you see these changes potentially coming at?
+## Mike Leskinen | CFO, United Airlines
+Well, firstly, let me compliment the administration, Sean Duffy, Brian Bedford. They have done so much to try to improve air traffic control for this industry, and they have really made great progress. There is a lot more progress to go and a lot of work to do. It is kind of a simple math equation. If you have an airport that the physical facility allows for 80 operations per hour, and you schedule it for 85 or 90 operations per hour, and there is weather on top of that occasionally, it is not going to be a great experience for the flying public. I think common sense reform to bring airports and limit the amount of scheduled flights to match the physical capacity. That is what has happened at Newark.
+That is what is happening in Chicago. I think it is not just about United Airlines, it is about the experience for the flying public to minimize preventable delays. I think the teams have done a really great job. They have made smart decisions. There is more to come. There is a lot more work to do. But really pleased with some of the progress. That does help profitability for United without a doubt.
+## Ravi Shanker | Analyst, Morgan Stanley
+I was going to say, it may kind of limit your frequency, but at the same time, potentially gives you fewer IROPS, better pricing opportunities, so the net is a positive change.
+## Mike Leskinen | CFO, United Airlines
+Especially when you're a connecting hub.
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay. Got it. Maybe switch gears a little bit again, and apologies for a couple of short-term questions here, but with what fuel is doing, obviously fuel has moved since your initial 3Q guidance. How are we thinking about the range today? Is it just a case of plugging in $6 jet fuel per month, or how do we think about some of the moving parts there?
+## Mike Leskinen | CFO, United Airlines
+Yeah. We'll update guidance in the normal course.
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay.
+## Mike Leskinen | CFO, United Airlines
+If there was something around our bookings, there was something around costs, we're not going to be shy, and we're going to update you very quickly. With fuel, it is very public.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+You can look at the price. You should make adjustments. Make no mistake, fuel does get passed through with a lag, so we are going to work hard to do that. That is going to bolster revenue trends over time, but with a lag. You all can see the fuel price just as easily as I can, so you are going to want to make the adjustments appropriate for what is a very public fuel price.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. You guys are very famous for including one, if not two, acts of God in your guide. Is fuel an act of God?
+## Mike Leskinen | CFO, United Airlines
+Fuel moving higher by $1 with the speed that it has moved-
+## Ravi Shanker | Analyst, Morgan Stanley
+Probably.
+## Mike Leskinen | CFO, United Airlines
+...is a big act.
+## Ravi Shanker | Analyst, Morgan Stanley
+Fair.
+## Mike Leskinen | CFO, United Airlines
+I will just leave it at that.
+## Ravi Shanker | Analyst, Morgan Stanley
+Fair enough. I think you had also said that 3Q represents peak CASM pressure and reiterated 2%-3% core CASM ex-fuel for 2027-
+## Mike Leskinen | CFO, United Airlines
+Yeah.
+## Ravi Shanker | Analyst, Morgan Stanley
+...held by the gauge that we have discussed already today. How much of the improvement next year? First of all, is the 2026 CASM ex-fuel, to your point just now, still running on track? Second, how much of the improvement next year is simply a denominator given idiosyncratic gauge opportunity versus other actions that you are taking?
+## Mike Leskinen | CFO, United Airlines
+Yeah. Firstly, costs are on track. We do an incredible job at United of managing a very efficient airline.
+## Ravi Shanker | Analyst, Morgan Stanley
+Right.
+## Mike Leskinen | CFO, United Airlines
+We are also investing in the product, as I've talked about. That's very deliberate, and that adds to cost, but it is margin creative to do that.
+## Ravi Shanker | Analyst, Morgan Stanley
+Right.
+## Mike Leskinen | CFO, United Airlines
+You're not going to see us change anything around that. Q3 remains the peak for as far as I can see, for CASM ex-fuel. We'll see a peak in Q3. It'll come down in Q4, and I think in 2027, as we're building the budget, it'll be lower as well. We continue to target the core CASM ex-fuel to the 2%-3% range.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+There will be things that ebb and flow.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+As you pull out capacity closer in, there is a headwind there, but again, profit accretive when you make decisions like that. So I feel really good about the cost trajectory at United, the efficiency at which we are running the airline, and what that means for long-term profits.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. So maybe to tie this all together, given all the levers you have, let us assume for the moment a normalized jet fuel environment, again, high 2s, low 3s. What is the ultimate margin opportunity that you guys see over time?
+## Mike Leskinen | CFO, United Airlines
+We have eyes on 10% margin plus with a stabilization of fuel. I don't actually care if it stays high.
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay.
+## Mike Leskinen | CFO, United Airlines
+I just need it to stabilize.
+## Ravi Shanker | Analyst, Morgan Stanley
+That's a good start.
+## Mike Leskinen | CFO, United Airlines
+We'll move towards that double-digit level. Longer term, absolutely still believe in the mid-teens opportunity. We've got work to do. That'll take some years to achieve, b ut I think that is where this business model is headed. If you look at United, you did not ask this, but I will offer it. Look at United. For us to justify the CapEx we spend in this business, I think a return on invested capital exceeding our cost of capital is something we are going to work towards. Something around 8% or 9% pre-tax margin gets us there.
+## Ravi Shanker | Analyst, Morgan Stanley
+Okay.
+## Mike Leskinen | CFO, United Airlines
+So we are right on the cusp of very strong returns on capital exceeding our cost of capital. For some of the have-not in the industry, you need 5 or 10 points of yield just to get to a break-even-
+## Ravi Shanker | Analyst, Morgan Stanley
+Sure.
+## Mike Leskinen | CFO, United Airlines
+...operating margin. And so I think that must happen. You cannot continue to borrow money to fund operating losses. It is shocking to me how long the capital markets have patience for airlines that burn the furniture to keep the lights on. So I do expect that to resolve itself. When that resolves itself that's a big piece of what drives us to mid-teens.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+I don't have a lot of control over that.
+## Ravi Shanker | Analyst, Morgan Stanley
+Absolutely. Understood. Any questions from the audience? Anyone? Madison, want to go first?
+## Speaker 3 | 
+Hi. Thanks, host time. I was just wondering, with United, it's been one of the more visible airline backers of eVTOL through its investments in Archer and Eve and conditional aircraft orders. As those platforms move closer to commercialization, how has your thinking evolved on the role of eVTOLs could ultimately play in United's network?
+## Mike Leskinen | CFO, United Airlines
+Yeah. How amazing is this technology? What Archer's done in particular is pretty incredible. If you guys have not seen some of the test flights of this aircraft, go and get on YouTube and check them out. It is an incredible aircraft. United in particular operates hubs in very congested airports, in very congested ground traffic. It can take upwards of an hour to get out to Newark or to get out to JFK from Manhattan. So in the long term, that is where I see this being very special for United and want to make sure that we are front-footed on providing that opportunity for our customers to create a much more predictable trip.
+A seven, 10-minute trip to the airport instead of what could be half an hour or an hour and a half, depending on traffic. So I think that is where it heads eventually. The air traffic control is a really difficult problem. So in those congested places where you are going to get the most utility for the customer from eVTOL, those are also the most difficult places to bring eVTOL into a congested air traffic control system. So we are going to work with the companies. We are. There are some very clever solutions and some good ideas around how to do that.
+I do think initial adoption is going to be in less congested airspace. So how has it evolved? We want to look for some less congested airspace where there is also good consumer utility for these aircraft. But we are right on the cusp of these aircraft flying and being a product that we can offer to consumers. Then how we evolve that into congested airspace is something that is going to take a few more years, b ut our excitement and enthusiasm has only increased for what this does for the flying public.
+## Ravi Shanker | Analyst, Morgan Stanley
+Mike, you mentioned excitement and enthusiasm. United has a history of being a leader in making investments here. I think you personally as well have directed some of these, almost running like a VC if you will, eVTOL, Supersonic, SAF. I think this morning you had an announcement there. Do you still have the, I do not know, time and bandwidth to look at this stuff, this long-term stuff, with everything going on? Or how do you not lose track of that?
+## Mike Leskinen | CFO, United Airlines
+I think a lot of folks in my position, they take up hobbies like golf. My hobby is the venture capital team. I love this stuff. I was an investor for 20 years, and I love it. It gets me excited, so I make the time for it. We are very thoughtful about how much capital we allocate and we are nimble. We try to create options. We have had a portfolio where this is not just about creating strategic knowledge for United, which it does, but we make money off of these investments as well. We have got a great team. They are doing a great job.
+Right now, spend a lot of time thinking about air traffic control modernization because we know we have got some good investments in eVTOL, but to integrate that into airspace, you have got to modernize airspace as well. That is part of our DNA. It is baked into United. We are going to see more of it. We got a couple of pretty cool ones in the works that I am not ready to announce today, but I have less time than I used to, but I love it.
+## Ravi Shanker | Analyst, Morgan Stanley
+Understood. That is great. Any more questions from the audience? Anyone? If not, let us talk about free cash flow, which is typically not a question airlines used to get in the past, but you do now. Obviously, you have talked about 50% free cash flow conversion over the next few years, pushing to 75% towards the end of the decade. What are the potential targets for free cash flow and capital usage? Can we talk about the CapEx score over the next four or five years, and also, what are you going to do with the excess cash?
+## Mike Leskinen | CFO, United Airlines
+Wow, a whole lot in there. First of all-
+## Ravi Shanker | Analyst, Morgan Stanley
+I have a minute, so I'm just packing it.
+## Mike Leskinen | CFO, United Airlines
+...healthy companies generate free cash flow. The best measure of earnings quality is free cash conversion. I feel passionate about that. We can sit as an industry and we can gripe about our multiple. What's going to drive the higher multiple is free cash conversion. I will recommit today that we're on this path to 75% free cash conversion.
+## Ravi Shanker | Analyst, Morgan Stanley
+Yep.
+## Mike Leskinen | CFO, United Airlines
+We do have heavy CapEx investments, but that's because all these investments are driving returns well in excess of our cost of capital.
+## Ravi Shanker | Analyst, Morgan Stanley
+If you're getting yield for it, why not?
+## Mike Leskinen | CFO, United Airlines
+It makes sense. 50% going to 75%, I'll recommit to that today. But I'll also say that if you break our CapEx into maintenance CapEx and growth CapEx, maintenance CapEx delivering something like a GDP growth in ASMs, and you take the CapEx above that, we're not headed to 75%. It's above 100%.
+## Ravi Shanker | Analyst, Morgan Stanley
+Sure.
+## Mike Leskinen | CFO, United Airlines
+It should be for a healthy company. As you ramp up profitability in the loyalty ecosystem, that's capital light. We've got plenty of levers to continue on that path to a higher free cash conversion. Again, adjusting for growth CapEx- it's not 75%, it's above 100%.
+## Ravi Shanker | Analyst, Morgan Stanley
+Got it. So maybe really quickly to bring us home here, outside of refreshing our fuel chart every five minutes, what can we look forward to in 2027 from United?
+## Mike Leskinen | CFO, United Airlines
+I think that we've got to prove the case. You ought to, all of you in this room and anyone on the webcast, you ought to think about this industry and what has made it kind of cyclical in the past, the financial return cyclical in the past, kind of boom to bust. You should see that this massive spike in fuel, how this industry has handled that differently. That tells you that the industry is different. If we can continue to prove that, you should continue to be willing to pay a higher multiple for the business, because it's a healthier business, and it's proof not promise-
+## Ravi Shanker | Analyst, Morgan Stanley
+Right.
+## Mike Leskinen | CFO, United Airlines
+...in that regard. So let us continue to prove it. I think there's tons of opportunity for earnings expansion as our margins expand, and I think that what is special about this investment opportunity is on top of that earnings expansion, you're going to see multiple expansion as well. So lots of opportunity in the industry and I think even more in United Airlines stock.
+## Ravi Shanker | Analyst, Morgan Stanley
+Let's just hope macro cooperates in the near term.
+## Mike Leskinen | CFO, United Airlines
+All that would be is a pause. It doesn't change the trajectory.
+## Ravi Shanker | Analyst, Morgan Stanley
+Sure.
+## Mike Leskinen | CFO, United Airlines
+It changes the timing only.
+## Ravi Shanker | Analyst, Morgan Stanley
+Sounds good. Mike, thank you so much for the talk today.
+## Mike Leskinen | CFO, United Airlines
+Thanks, Ravi.
+Data Source: Quartr Last updated: Sep 16, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

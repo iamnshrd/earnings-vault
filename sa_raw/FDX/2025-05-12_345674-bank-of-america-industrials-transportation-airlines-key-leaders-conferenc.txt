@@ -1,0 +1,593 @@
+TITLE: Bank of America Industrials, Transportation & Airlines Key Leaders Conference 2025
+DATE: 2025-05-12
+## Ken Hekster | Analyst, Bank of America
+Everybody, we're going to go ahead and get started. Welcome to our 32nd Annual B of A Industrial Transportation and Airlines Key Leaders Conference, the 24th one that I've hosted. I'm Ken Hekster, B of A's Air Freight and Surface Transportation and Shipping or Marine Analyst. I'm here along with my teammates, Adam Roskowski, Tim Chang over there. Thank you, everybody, for taking time out of your evening and joining us. We will, of course, delineate next time that we're talking Eastern Time, not Central Time. We kick off our event with dinner with FedEx. It's really a nice tradition for us to start the conference over the past dozen or so years. Joining us from FedEx on the day is we've got John Dietrich, EVP and CFO.
+This is John's second time joining us for the conference, as well as Brie Carere, EVP and Chief Customer Officer for her first time at the event. Thank you very much for joining.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+First invite, Ken.
+## Ken Hekster | Analyst, Bank of America
+What's that?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+First invite.
+## Ken Hekster | Analyst, Bank of America
+Originally from Ontario, we've got a lot to talk about. I want to interview her on if the Leafs, now that they've made it past the first round, if they're going to keep going or if the Jets or Oilers are going to do well, since I've been to all three arenas in the past month. It was a fun trip. We're also joined by FedEx's IR team here tonight. Jenny Hollander is on stage. We've got Steve Hughes and Matthew Berry in the audience. Steve's there. Matt is over there in the corner. We welcome FedEx here for the 11th time in our 24 years hosting the event. Steve, this is your seventh time here, so only three more times. You get the nice jacket. Matt and Jenny, second time at the conference. Again, thank you.
+We've got a lot to unpack tonight. At the company, you've got Drive, Network 2.0, Tricolor Achievements, One FedEx Progress, and more. If the end of de minimis was not enough, then you've got last night, the tariff agreement with China. If that was not enough to shake it up, just over an hour ago, we saw that FedEx is now taking Amazon back as a customer for the first time since 2019. Hopefully, Brie will talk to us about that. As UPS sheds 50% or $5 billion of the Amazon freight over the next six quarters, we look to get your thoughts on the negative GDP growth, ISM sub 50, but overall, a really good discussion. With that, before we jump in and get started, I know Jenny's got a quick Reg FD intro.
+While you've got the floor, I'll just turn it over to you guys if you want to just, John and Brie, if you want to just do a few-minute overview intro and then include three things you want us to take away from tonight, and then we'll jump into questions.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Thanks, Ken. I'll just kick off with a quick disclaimer. Certain statements may be considered forward-looking statements as defined in the Private Securities Litigation Reform Act and are subject to factors that could cause actual results to differ materially from those expressed or implied. For additional information, please refer to our press releases and filings with the SEC.
+## John Dietrich | EVP and CFO, FedEx
+Great. I'll kick it off just very briefly. Ken, thank you so much for having us. We really appreciate this opportunity to talk about our company and meet with all of you. I will say on the drive down, though, Brie was talking about, I do not think she cares if it is the Leafs or the Jets, but she just wants a Canadian team to finally come talk, right?
+I can understand that. For me, you know where we are in our journey and all the idiosyncratic benefits we have and levers that we have to pull is really what I see as one of the key themes to take away from today. You mentioned several of them in your introductory remarks between Network 2.0 tied in with One FedEx, as well as Tricolor and all the Drive initiatives we have going on.
+It's really generated a lot of positive momentum for us and really helped us to kind of secure our earnings over the last couple of years. We will talk more about Drive, I expect. From my standpoint, all those initiatives taken together makes our story, in my opinion, very exciting. I know Brie from a commercial standpoint, we cover the landscape in terms of volumes and so forth.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+We do. Ken, to answer your question, I think one of the top three we would like you guys to take away, I think the first, to John's point, in the last three years, we've done something with Drive that we've never done, which is improve OI as revenue was down. I think it's really important for everyone to recognize how proud we are of the execution that we've had over the last three years. The pressure on the domestic parcel market and the COVID reset was greater than 2008, 2009 for us. Our ability to focus, discipline, both on the cost side, as John mentioned, but also commercially is incredibly important too. John just covered. We are really excited about our idiosyncratic opportunities in the near term. Network 2.0, still the majority of benefit is coming.
+Number two, Tricolor, we are going to disrupt a market ripe for disruption profitably. Number three, Europe is upside for us relative to the market. We feel really good about the traction. To John's point, the piece that I am the most excited is about what's next for FedEx. We have a pretty remarkable business, and the moat that we have built is just profound. We cover 220 countries. We have real estate everywhere you need to have real estate to operate the global network that we have. That is not something we think people can replicate overnight. As a result, we have about 2.5- 3 million customers. What do I say about it? It changes depending on the frequency of shipping. Let's say 2.5 million customers. These customers generate $2 trillion of GMV.
+While the number of customers sometimes when compared to a CPG company or a consumer brand seem low, we do business with every major industry and those who generate the world's value. That moat of a customer penetration is just really, really profound. We believe, and I know we were going to talk about this from a future of logistics perspective, we have a physical moat. We have now built a digital twin. Our ability to help those 2.5 million customers define their future growth strategy with the most flexible, efficient, and nimble supply chain in the world is pretty profound. I have 24 years at FedEx. I would not be here if I was not excited about the next 20.
+## Ken Hekster | Analyst, Bank of America
+I want to get to today's news really quick. What is the backdrop heading into this economically? What was your look at B2B, B2C growth just to set the stage on kind of the backdrop that we're dealing with?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah, the backdrop's not great from a B2B perspective. Pre-tariff announcements, or actually even pre the revision now, we were not predicting a technical recession. The consumer, you've all seen this, the consumer is strong. Our economic forecast had a reasonable growth. The challenge, of course, is the B2B business we did think was in recession. What we've seen over the last year is you've all seen the pressure from an LTL business. I guess I should give this context from a FedEx Corporation perspective. Our LTL business is 90% B2B. Our FEC business is 60%-65% B2B. We have not seen the recovery in the B2B base in our business. From a B2C perspective, actually, we see consumer sentiment showing up, in particular here in the domestic market. We'll talk about that. Happy to go into more detail.
+We still saw strong consumer confidence coming in the way from our biggest B2C customers throughout the last quarter. We are feeling pretty good about consumer sentiment. The backdrop from a B2B perspective has been pretty tough.
+## Ken Hekster | Analyst, Bank of America
+Let's jump into the weekend news, right? Let's talk big picture for a minute on the tariffs change with China. I know you were just talking in detail kind of, we'll get into the de minimis leaving that off, just talking about what changes quickly for you in the volumes and what does this mean?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+This is good. I think we all know that that was that. We all were excited. There is so much media around potential trade deals. This is the deal that matters. Yes, of course, we would love to see. We were excited about the U.K. deal. Of course, we are rooting for all trade deals. We believe in trade. We believe that we are better from not just a business perspective, but from a societal perspective. We believe in the advanced productivity that globalization has given us over the last 50 years. The deal that matters is the China deal. Yes, our customers are looking at China plus one, China plus two, forward stocking. Our customers are pulling every lever they can. With China being about approximately 30% of manufacturing, this is the deal to watch. We were very pleased this morning.
+Our government affairs team, I think, has done an outstanding job of working with the administration and really helping guide what we think would make sense from a trade perspective and a tariff perspective. The news this morning was good. It and me, I believe what we will see, and you tell me if you want me to stop and you can come back to this, but I believe what we will see is you will see near-term reactions. The noise, so from an international volumes perspective, March looked reasonably good. April softened. Now we also have to remember that we have Easter falling in different months. Easter, from a year-over-year perspective, Good Friday was in March last year. We knew that April would be a little softer. We knew trans-pack volume would be impacted in May.
+The sharpness was surprising, how quickly customers paused shipping to, I believe, wait and see, quite frankly. I was just telling my table when I was in China in January, there was a lot of sentiment of, this is not sustainable. It is not sustainable for the U.S. economy. There was a lot of hedging. I think you also saw some customers pause. They had some inventory that they could use here in the U.S., see if they would get relief. Now what do I think you're going to see in the next 90 days? I think you're going to see a lot of forward stocking for peak. That was the biggest kind of conversation we were having with our customers is they were good from an inventory perspective. That is a very general, not technical term.
+Our customers were starting to get worried about the holiday season and being able to react. I think that you will see folks take advantage of the 90-day reprieve.
+## Ken Hekster | Analyst, Bank of America
+Do we actually, because of the shipping stall that occurred that we're now seeing hit our shores now, do you have a catch-up via air that needs to be made? Or were they, as you mentioned, pre-stocked, ready for this, and then they can start pre-shipping holiday?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+At this point, it's a little difficult to tell. I don't think you're going to see, I don't think it would be prudent for us to plan for an air surge as a result.
+## Ken Hekster | Analyst, Bank of America
+Okay. Not to plan, but if I could just add a little bit to that, just given my past experience in the aviation side. Generally speaking, when there is some motion disruption, that usually bodes well for air freight when that demand returns for the speed and the reliability to get kind of the flywheel going again. I agree with Brie, it's a little too soon to tell what's actually happening right now.
+You need lead time on the orders to get going, or there was not stuff at the dock ready to go in terms of that process?
+## John Dietrich | EVP and CFO, FedEx
+I think it's a little bit all of the above.
+## Ken Hekster | Analyst, Bank of America
+Okay.
+## John Dietrich | EVP and CFO, FedEx
+Right? One of the terms I hear in talking with the various modes is uncertainty. Now we can have this 90-day reprieve, but how long is that going to continue on beyond that? It takes some time to get all that reactivated again and make some key decisions from a business standpoint. Some of the shippers making these key decisions from a shipping standpoint, they're loo king for certainty.
+## Ken Hekster | Analyst, Bank of America
+Does 90 days give them that certainty?
+## John Dietrich | EVP and CFO, FedEx
+It may for some, but I do not know for all.
+## Ken Hekster | Analyst, Bank of America
+To Brie's point, within that 90 days, you now think there's going to be a hurry up and get stuff done within that 90 days, not take the risk that anything goes lower afterward. Where do you think we settle in with tariffs?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Where do I think we settle in? Oh, wow. What I will tell you is we've done some analysis. If you were to optimize for tariff or tax revenue, you would settle in between 20% and 40% in the short term. Now, again, long term, our company believes deeply that you remove as many trade barriers, any friction as possible. That is what's best for not just the U.S. economy, but the world's economy. In the short term, if you wanted to optimize for tax revenue, you would definitely come in around 20%-40%. You would not go back to, and our math says that at its peak, if you were a de minimis shipper using a retail value, the tariff was 168% for low-value e-commerce shippers out of China.
+## Ken Hekster | Analyst, Bank of America
+Going back to 30%, though, you think that keeps the flow moving if that's not prohibitive to the cost?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Our math says it's not 30%. It's closer to 50%. I think this is really important is when you read these executive orders, they are incredibly complex. We were on a call this morning at 7:00 A.M. trying to decipher what exactly was the reprieve. Initially, government, and this is hot off the press, so I will reserve the right to correct, but our initial team was that it was closer to 50%, not 30% for the most impacted shipments coming out of China, which would be somebody selling at a retail price previously using de minimis coming into the United States.
+## Ken Hekster | Analyst, Bank of America
+We're talking about de minimis type products going in. Okay.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah, absolutely.
+## Ken Hekster | Analyst, Bank of America
+Okay. Because as we talked about before, there were 37 pages of exemptions.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Exactly.
+## Ken Hekster | Analyst, Bank of America
+Were you going to?
+## John Dietrich | EVP and CFO, FedEx
+That just goes to the complexity. Your question earlier about what are our shipper and our customers going to do, they need to sort all this out as well.
+## Ken Hekster | Analyst, Bank of America
+Yeah.
+## John Dietrich | EVP and CFO, FedEx
+Brie hit the right theme. We're working very closely with our customers. What are they seeing? How can we help them leveraging our capabilities, our clearance capabilities, which we believe are superior to make them successful during this very challenging period as well?
+## Ken Hekster | Analyst, Bank of America
+So Brie, level set, just before we keep going over, John, what percent is, so the room, right? What percent of your business is international versus domestic?
+## John Dietrich | EVP and CFO, FedEx
+From an international standpoint, roughly 75% of our revenue is U.S. domestic base, so a very large percentage. Then after that, roughly another 15% is interregional outside the U.S. The remaining balance is within the international space with no one market really more than 2.5% of revenue.
+## Ken Hekster | Analyst, Bank of America
+Okay. And then now let's jump into, you brought up de minimis, right? Let's jump right into the end of de minimis exemption. What does it mean? Can you tell us what % of the business is Chinese e-commerce, TMUC and others, whatever you want to box it into? What does the end mean in terms of volume, aircraft? If you want to bring in Tricolor into the discussion and the financial implications as far as you want to educate us.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah. I think in the short term, as we've talked about, and John just mentioned, no one trade lane is more than 2.5%. It is the China-U.S. trade lane that is our largest trade lane. I think honestly, we're proud of that. As we just covered, China is the world's manufacturing. For us not to have a strong presence, that would mean that we've done something wrong. Again, we do believe that over the long term, markets will be rational and that China still will be the world's manufacturing center. Yes, of course, we're supporting customers everywhere they are to diversify. That's at the top of our commercial list is as customers evolve that we're going to evolve with them. From an overall e-commerce perspective, this is the majority of our e-commerce business coming out of China.
+I think there's a perception that just large customers were using de minimis. It was the easiest way for a small business in China to ship goods in the US. You don't need to have a U.S. entity. You didn't need to use formal clearance. This was not only just from a cost of goods, which was very impactful, from an ease and a facilitation of trade. This made small businesses be able to enter the U.S. with ease. It is going to be a significant impact to trans-pack lane. I'm not going to get into exactly what percentage of our trans-pack business, but it is a significant portion of the e-commerce coming out of China. Not just for large customers, it's for all size customers coming out of China.
+## Ken Hekster | Analyst, Bank of America
+Has it completely ceased?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Has it completely ceased? No. Was the impact in May significant? Yes.
+## Ken Hekster | Analyst, Bank of America
+Okay.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I think I should say, and John, jump in here, equally so, we were really impressed with the AirOps team. Their pivot, and again, we were on at 7:00 A.M. this morning, their pivot back to respond to customers who are going to move is the fastest I've ever seen it in the company history in 24 years. Our ability to agilely respond, we are flexing white tail. We are also flexing purple and orange very, very rapidly. We are changing some of our airline platform. What do I mean by that? We are centralizing where some of the flights will take off so that we have more control and can move quicker. I'd also say our pilots have been really, really responsive. We feel good about our response.
+## Ken Hekster | Analyst, Bank of America
+You feel.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Do you want to add anything?
+## Ken Hekster | Analyst, Bank of America
+No, I think.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+You're the aircraft guy.
+## John Dietrich | EVP and CFO, FedEx
+You're spot on. I think to your introductory comments, FedEx serves over 220 countries, and we're very adaptable, and we can pivot and divert. We have a very flexible network, and we can adapt to where the traffic patterns will flow. Ken, you talked a little bit about Tricolor, and we expect the e-commerce volumes will continue, but Tricolor is all designed to put the right assets with the right products, with the purple being our organic purple fleet tails focused on our express business. Our orange, that's what we use for our international air freight business. It's a little bit of a slower network, and it's focused on tapping into the general freight market, of which we're not a big player right now, but it's roughly an $80 billion business opportunity out there. We're going to go after that.
+The orange network is designed to not only capitalize on that market, but also to relieve some of the pressure that our express business thrives on, like the hub and like the purple tails. As Brie mentioned, the white tails, that's really commercial belly capacity. That's designed to accommodate some of the lower-yielding e-commerce type freight, matching the right cost structure with those lower-yielding products. That's really what tricolor is all about. We're constantly focused on adjusting and adapting, but just to your question on tricolor's role in this.
+## Ken Hekster | Analyst, Bank of America
+Yeah. Brie, just to clarify, the de minimis is dead in terms of the terms, and the 50% is in terms of all freight, or were you throwing in that 50%?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I was including the de minimis. Yeah.
+## Ken Hekster | Analyst, Bank of America
+You can now move down to 50% of de minimis product.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+That's what we believe from this morning. Yes.
+## Ken Hekster | Analyst, Bank of America
+They're bringing the capability of de minimis shipments back.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+The 168 is, they're not bringing de minimis back. No, let me be clear. It is still excluded. The language in the executive orders are additive. De minimis still will not be in place. However, we know that some customers who were previously de minimis, they now have less impact because of our estimates of what they're actually shipping. Does that make sense?
+## Ken Hekster | Analyst, Bank of America
+Yes. They do not have to ship whatever the de minimis charge was, $168. You can now ship what you want at about a 50% rate.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Still formal clearance.
+## Ken Hekster | Analyst, Bank of America
+Formal clearance versus getting in under the $800.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yes. Again, we have to separate. There is a literal cost from a tariff perspective, and there is a complexity of a shipper who has basically had to say nothing other than one line description of their goods. They now have to tell us, which is where you were going with some of our clearance capabilities. They now need to formally clear what the good is, where it was manufactured, and exact composition, and the level of granularity that is expected is quite high. We were talking about aluminum steel. As an example, the minimum requirement was 1%. If you had a good with 1% with aluminum and steel, you were going to be impacted by the tariff. If you are shipping sunglasses and you have a bolt, you have to determine, is it 1% or no, it is not, I do not need the tariff.
+That's the level of granularity that is required. There is not just an immediate financial barrier. There is an audit, a compliance barrier. We will help customers through that. We are just launching some new technology right now. The early response has been outstanding. We feel good about that.
+## Ken Hekster | Analyst, Bank of America
+They'll be able to move it. It's just now more complex. They have to file, but it's not a death knell to them. It's a charge. It's a significant charge.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Exactly. I think the other thing when we got into the EO that is really important is the international postal operators. It does not apply to them. From the original executive order on de minimis, it only applied to China Post and Hong Kong Post. One of the unintended consequences is we did see some volume impact in Asia, but we have also seen customers looking, and I am sure you have read some of the media on this where they are tariff washing or origin washing. They are moving goods, number one, to a different place, but also they are looking to use postal operators. We are working with the administration to close that. That will be a near-term headwind if postal operators outside of China are allowed to use the de minimis exception still.
+## John Dietrich | EVP and CFO, FedEx
+There is a bit of an irony to that too. There is a bit of an irony given that the integrators like FedEx are better suited in terms of kind of safety protocols and the investment in protecting the shipments from the kind of things that are looked to be protected against. There is a bit of irony in the outcome of those unintended consequences.
+## Ken Hekster | Analyst, Bank of America
+Are you saying Canada Post could fly it to Canada and then it could come cross border without the.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+That's exactly.
+## Ken Hekster | Analyst, Bank of America
+Without the tariff. Okay. Understood.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+For our customers, we're working with them. We feel really good about our relationships. They're asking for counsel. We're working every day. To John's point, we're pivoting with them, but we're working equally as hard to get these down.
+## Ken Hekster | Analyst, Bank of America
+Okay. Let me jump over to, we got a lot to cover. I hope I'm going to touch on some of these things. Amazon tonight, right? Just before we all walked in the room, I'm sure everybody saw a couple of things stuck out, right? The cost benefits that you've got lower price points than what UPS provides, indicating Amazon saves money on the deal. I do not know if you want to, maybe you want to just start out with what the agreement is, and then I can check on some of the questions.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Okay. I think we have to put some context in this. We were disciplined in 2019 when we did not renew the deal. I think that has to set the foundation, we only want deals that are financially accretive to FedEx. We would not go back and open a deal after walking away five years ago if it did not make financial sense. Let's start there as a premise. I think, too, there was a whole lot of drama in 2019 that it was a breakup. No, it just did not make sense financially. We have had a relationship with Amazon since then. We have always supported their seller-fulfilled prime portion of their business. We have always been in conversations, I will admit, at lower levels of the organization. About a year ago, we reopened those conversations. We have now just struck a new deal.
+A couple of things. The first one, because this will be visible, is the yield will be accretive to our system average in the domestic market. We have a very unique capability that we cover all ZIP codes in the U.S., and we also move heavy, hard-to-handle packages better than anyone at all. You can speculate why others might struggle to do difficult things, but this is a very unique part of our business. You will see that this business is predominantly large package. It is not the average weight that Amazon and UPS have. We feel really good about this deal. It is positive.
+## Ken Hekster | Analyst, Bank of America
+Is this big and bulky? Is it in freight, or is it still?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+It's going to move in their surface network. It will be part of the FedEx Ground portfolio. It's not quite that big. It will be parcel, but it is heavier weights. It's going to push up our average weight per package, and it will push up our yield. I can't comment to why UPS, I have a hypothesis, I suppose. I think our cost structure is moving one way, and I think theirs is moving the other. I didn't get to see the document that was referred to in the media.
+## John Dietrich | EVP and CFO, FedEx
+I think if I could, one of the themes to take away from everything Brie just said, which I agree with everything you said, is mutually beneficial.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yep.
+## Ken Hekster | Analyst, Bank of America
+Are you talking to the size of the contract, right? We all know that UPS is losing $5 billion.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+This will not be our largest customer. Period.
+## Ken Hekster | Analyst, Bank of America
+Okay.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+It will not be anywhere near the size of.
+## Ken Hekster | Analyst, Bank of America
+The size of the post office?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Oh, the post office or UPS's deal with Amazon?
+## Ken Hekster | Analyst, Bank of America
+You tell me.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+It will not be our largest customer. It will.
+## Ken Hekster | Analyst, Bank of America
+Your largest customer is?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+It will not be our largest customer. It is a good deal for us. We feel good about this. We want all profitable business. I think that.
+## Ken Hekster | Analyst, Bank of America
+Do you break out your largest customer in terms of revenue?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+We do not.
+## Ken Hekster | Analyst, Bank of America
+No.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+We do not need to because it's not material.
+## Ken Hekster | Analyst, Bank of America
+Okay. This won't be the largest customer?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+It will not be.
+## Ken Hekster | Analyst, Bank of America
+Is this big and bulky? Is this rural? Is it everything? People ask me, UPS was known for getting rid of unprofitable lanes. It was rural. Is this everywhere? Is this?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I think we have to maybe dispel a couple of myths. One, we like rural business. We like any business priced right. And business that is more difficult to move is where we get more value. I really do not understand our primary competitors' need to pull back from rural. We have actually won business, very profitable business as a result. I know that there is a perception, but again, we have done this for a bit. We have all of the controls needed to make sure that we have approval on peak volumes. We have peak caps. We have distribution approvals. It is not just large package, but that is definitely how we started the conversation because they had a need and we had an ability to help them.
+## Ken Hekster | Analyst, Bank of America
+Just to clarify the largest customer comment, I'm just trying to think of different ways. I'm going to get asked this over the next few days.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+This might get boring.
+## John Dietrich | EVP and CFO, FedEx
+Ken, my old lawyer days, asked and answered. I'm just kidding.
+## Ken Hekster | Analyst, Bank of America
+If they're giving up $5 billion of revenue, you're saying it's not that it's all coming to.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+It is not that. I am sure that there is lots that did not make sense. We started with where.
+## Ken Hekster | Analyst, Bank of America
+What makes sense?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+What made sense.
+## Ken Hekster | Analyst, Bank of America
+Just so I understand that sentence, in terms of you're in the midst of blending Ground and Express, which we'll talk about, does that process matter in terms of this or just your Ground capabilities now as they stand?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+That process matters for everything, right? It lowers our cost of serve. It will make this deal even better.
+## Ken Hekster | Analyst, Bank of America
+Okay. All right. Let's put it on FedEx Drive. I think I.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Can you see Ken?
+## Ken Hekster | Analyst, Bank of America
+Okay. Yeah, I'm getting. So Drive, you targeted $2.2 billion this year, total of, what, $4 billion over the last couple of years. How does it shape up in terms of actually seeing it to the bottom line? John, we talked about this a lot last year, right? And everybody just wanted to know the net number, not the gross number, right? How do we as investors see that move to the bottom line? How do we think about it? I think you've got, what, only $625 million- $650 million left in the last quarter. Then we're now on to Network 2.0, right? So we're coming up to the end of the program, but there's always been this debate about the gross number, net number. Any way you can kind of talk to us about that?
+## John Dietrich | EVP and CFO, FedEx
+I think if I could, Ken, the debate started was, what could you meet that $4 billion number? That is where it started. I feel very good about the fact that both FY 2024 and the 1.8, we delivered what we said we were going to deliver, and we are going to deliver on the 2.2 for FY 2025. I want to put that out there because there were some very rigorous programs in place to make sure we achieve that. To your question, how much flow through to the bottom line, I think it is important to remember that there were some pressures as well. In the meantime, we lost the U.S. Postal Service business. The IE yields were under pressure. Inflation for a good part of that was significant. We had two fewer operating days, just to name a few.
+There was a lot of pressure on that. We feel really good about the results. There is going to be some additional benefit into FY 2026. I think we said $400 million. Drive is going to be here to stay for us. It is not kind of a destination. It is a journey for us, so constantly feeding the pipeline with more and more ideas. With regard to the flow through the bottom line, you see it in our earnings with all those offsets and pressures I just talked about.
+## Ken Hekster | Analyst, Bank of America
+All right. So then next up is Network 2.0, right, which jumps in next month or at this end of this month. Wow, we're there. That's amazing. You target an additional $2 billion of savings. Let's talk about kind of where we are in that process, right? I think you had five markets that were going to be integrated last quarter, 45 coming up this quarter, right? Is that by end of May? You would finish Canada, I think, by the end of April, right? Is that done now? Talk to us about the progress and maybe potential plans to accelerate, right? Have you been successful at it? What have you learned? Does that mean we go faster or is it on target?
+## John Dietrich | EVP and CFO, FedEx
+I'll say it's on target. There's a lot behind that question in terms of accelerating or not accelerating. I think from a Network 2.0 standpoint, what we've said is roughly by the end of this fiscal year, 12% flow through will have been achieved. We're looking at 40% by the end of FY 2026, with the majority finishing off in FY 2027. These are very detailed plans. There's a lot of, again, rigor that goes behind this. Trust me when I say I hear from Brie on a constant basis and Raj, we have to be mindful not to disrupt service. This is not a speed race for us.
+This is a journey that we intend to get right, and we want to be sure we get it right to line up the 2.0 facilities in a way that are delivering the results we want them to deliver. To the extent there are opportunities to accelerate, of course, because we get the benefit of that. We are not going to prejudice our service. We are not going to disrupt our customers. We are going to work closely with them. We know there are people out there saying any kind of there's one level of disruption. See, we told you so. They can't do it. They can't deliver. We are delivering. We are seeing the benefits of that. We are not going to hurry up on the deadline just for the sake of hurrying up.
+We're going to want to be sure we get it right and continue to not only meet and exceed our current levels of service, excuse me, meet our current levels of service. We want to exceed them and get the financial benefits of that.
+## Ken Hekster | Analyst, Bank of America
+Is there any example you can just walk us through in terms of how do you determine the ground contract or the express driver? How does that work in a city where you've got, as far as I understood it when I was coming into the business, right, you talked a lot about sorting at the airports. Ground was done near the downtown business districts for speed. Now you've got two different sort centers. How does that mesh? As far as I understood it, there was a different software at express and ground. How did that blend together and be able to keep that service level while you were doing it?
+## John Dietrich | EVP and CFO, FedEx
+Sure. Similar to the example I gave with Tricolor, kind of designing our assets and our network to the most efficient use and purpose, Network 2.0 is very similar to that. Our facilities are going to be designed to have our Express assets used in the way they were intended to be used. That is for our Express products. With Network 2.0 redesigned facilities, we'll be able to utilize those facilities to also accommodate some of the non-Express business and take advantage of the Ground network that Brie talked about as part of that, rather than having them in separate facilities and carrying that overhead. There is a lot of art and science to that, but that's our ultimate objective, to be able to utilize those assets for their intended purpose, similar to what I described with Tricolor.
+There are roughly a million express packages, just using some general numbers, that can be segregated out from roughly 1.6 million that can be absorbed into the ground network. All that is part of our planning process. Some of that takes time. The express products are largely going to be courier-based. We are still working through all those details kind of on a station-by-station basis as we go forward. Leveraging technology, part of your question was technology, Brie. I do not know if you want to talk at all about some of the technological advances, but IT is a big part of it. Allowing us to segregate and manage those flows relies on technology. That is a big piece of it too, which is more difficult in the more populated areas.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah. So I would think about technology in a couple of different ways. One, from a Network 2.0, we have what we need to implement and execute the Network 2.0. The next wave of technology enhancement from our fundamentals is what we're calling our tech simplification. So when we think about One FedEx and we brought all the operating companies together, prior to One FedEx, we had different P&D, different line haul, different sort, different clearance systems, not just for the domestic operating companies, but there was a lot of, I guess, allowance within the international regions for separation. A big part of what will be Drive 2.0 is tech simplification. There is no reason that you should have separate, well, first of all, applications. You do not need applications anymore. We're moving everything to a data-first technology stack. We are simplifying the entire operational IT infrastructure.
+That is a big part of what will be the next wave of Drive. There will be some cost savings there, but more importantly, speed to market. Because previously, every time we built a product around the world or had a change-pitch or proof of delivery, we had to interface with regional and operating company systems. It was not as efficient as it could be. That is a big part of what Sriram is working in that, of course, the digital twin and some of our digital innovation is layered on. Tech simplification, we are going to have one dispatch system, one sort system. It sounds obvious, but when we look back at the last 50 years, how did we get as big as we were? We let everybody run. It worked. Now from a technology perspective and a pace, we have some cleanup to do.
+It made sense previously because it was.
+## Ken Hekster | Analyst, Bank of America
+That'll be done by the end of Network 2.0 or is that a different?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+No, it's a different piece of work. It is additive. We don't yet have a date. That is one of the things that we are working on for the next commitment for Drive.
+## John Dietrich | EVP and CFO, FedEx
+Got it. If I could just pile on just a little bit on that because this is something that we're all passionate about, Raj is particularly passionate about taking us to the next level from a digital technology standpoint, starting with enabling our capabilities, differentiating our capabilities, and then adding value for our customers and for ourselves. The amount of data that we collect and generate is incredible. When you look at $2 trillion worth of goods moving a year and the multiple scans those packages go through per shipment, we're able to gather a lot of very valuable data that can help our customers and figure out ways how it can add value to us as well. It is a really important part of our next generation journey.
+## Ken Hekster | Analyst, Bank of America
+All right. Your competitor talks a lot about focusing on SMBs, right, to get up to 30% of the business. You started off with how much is B2B already. How do you direct your sales in that environment where somebody's going to chase that SMB customer? How is your focus on the customer?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+How is our focus on the customer? I think it's pretty good. We have the largest, actually, we have the only small business loyalty program in the industry. In addition to that, you're not hearing exactly what the DAP program means. At FedEx, our SMB strategy is a direct relationship with more than 90% of our revenue is sales supported. I know that some of you are probably thinking in 2025, do you really need a salesperson for that much revenue? Yes, you do. We have a renewal rate of more than 91%. We have grown market share for the last 20 years. We're really proud of our SMB share. As a percentage of revenue, we're about two points. Two and a half points is our best estimate versus, and again, we have to listen to the same calls you do. We have to do the same math.
+This is our best estimate using their definition of SMB. We think we're about two points behind, but not all SMB revenue is created equal. Our SMB revenue is direct, the vast, vast majority of our revenue is a direct contract between me and John Dietrich tennis rackets. Our primary competitor's growth is between them and a platform, and the platform has the relationship with John Dietrich's tennis rackets. That is a really important distinction. Yes, we do business with the platforms. We are opportunistic. The cost of acquisition with platforms, you'll notice our primary competitor never talks about that. Ask them. It is shocking what they're paying for those positions and that growth. We're working really hard. Our sales team, we've just benchmarked. McKinsey did some work for us in the United States.
+Our cost of acquisition and our sales and marketing costs were top right quadrant for the industry. There is no doubt in my mind we have the better commercial engine. It's not close again.
+## John Dietrich | EVP and CFO, FedEx
+They're the best tennis rackets out there.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah. We just talked about it. We do not make tennis anymore.
+## Ken Hekster | Analyst, Bank of America
+All right.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yes, we're focused on small business. We have the better value proposition. We have a loyalty program. We have sticky relationships direct with customers.
+## Ken Hekster | Analyst, Bank of America
+Is there a Salesforce number that you use? I know you're talking about building up on a freight, which we'll talk about in a minute. Is there a number of salespeople?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I don't know that number right off the top of my head, but specific to small business. I also don't know it with their definition of small. Our metrics and the way that we segment is far more nuanced. No, I don't have it right off the top of my head.
+## Ken Hekster | Analyst, Bank of America
+All right. Jumping out before we leave Drive altogether, I get a lot of questions still on FedEx Europe, and I'm not sure how many people in the room would still remember TNT as a standalone company. You talked about being on track for $600 million of savings. How much further does Europe have to go to be break-even in terms of beyond the $600 million? Does it get to break-even? What's left to achieve after that?
+## John Dietrich | EVP and CFO, FedEx
+Sure. First of all, one of the things I identified pretty quickly is all the challenges that Europe had with the TNT Express acquisition, the cyber event, and we had some facilities challenges. Notwithstanding all that, Europe is a top priority of ours. We feel really good about the progress we have made on the $600 million of Drive savings. Again, that fits into the bucket I talked about earlier. Perhaps some folks not believing we could achieve it, we are going to achieve that. We are also going to continue to focus on the efficiencies that we can gain out of Europe. We have been improving our service levels and gaining profitable share in Europe. We like the fact that we are pivoting more to a truck-fly truck environment in Europe, bringing our cost to serve down. A lot of opportunities for us.
+As we go forward here too, it's been in place a little bit now, but we have a change in leadership that not only includes the leader, Wilder Rose, who's out there in Europe, but we also brought a lot of capabilities from the U.S. over to Europe to leverage our ground capabilities that we do extremely well here in the U.S. to help us continue to prove in Europe. A lot of opportunity there. I'm not going to talk much specifically about product because we don't report out that way, but we're very pleased with the progress we're making.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I think the thing that people do not spend enough time thinking about from a Europe business perspective is the market is a ground-based market, right? It is, yes, to John's point, we are very confident in the $600 million of improvement, but this should be a market that looks a lot like your FedEx service history from a margins perspective. There is upside here. The two core growth engines for Europe because we are still undershared are going to be ground, parcel, intra-region. I think that is really important. We are not focused on the domestic markets in Europe and LTL. We are the only provider, sounds a little familiar to the U.S., that has both the parcel and the LTL capabilities. The flywheel is moving to John's point, seven consecutive quarters of profitable market share growth on international business. We feel really good about the momentum in Europe.
+## Ken Hekster | Analyst, Bank of America
+I'm going to deviate a little bit. I remember post the acquisition, you had the cyber attack. It seemed like you didn't know who the customers were, so they would still go out there. Then obviously the customer was saying, "I'm not going to trust you with my high-value stuff, but we have a good relationship." More LTL type freight, right? It became more freight. Has that transition, maybe can you talk about how the mix has changed over time in terms of how you get to that profitability? Is that now a small package network, a good blend network? Does it still have a way to go? Just where are we in that evolution back to what it was pre the cyber attack?
+## John Dietrich | EVP and CFO, FedEx
+I'll speak from my perspective. Brie, you have a lot of experience here as well. From my perspective, our service quality has improved exponentially, and we're recapturing a lot of that business. This is taking share. One of the things I observed is I think we were a bit of a victim of our own customer service. What I mean by that is we were so focused on not disrupting the orange TNT customers that from the purple, the FedEx customers, that it created a lot of dyssynergies for our operation and our cost structure almost to our detriment, right?
+Now, as part of our focus on bringing this all, there's a lot of streamlining taking place, a lot more technology that's being used, the engineering and the parcel flows and the freight flows to make us better so that we're not going to leave our customers vulnerable. At that time, we did not have those capabilities. We kind of trudged along. Even though we were integrated in many ways, we were still very separate in many ways. It led to a lot of customer disruption. I think we're in a much better place now.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+This is the best. We have seen continued quarter over quarter improvement in sentiment from just market studies perspective. We're seeing it show up in the numbers. We're seeing it show up in customer confidence. We also put in a brand new sales leader. He is doing a very good job. To John's point, I think it's also important to know we have a new president. We have a new head of operations. PAT Super grew up in our service network here in the United States. He is an incredible operator. As we've talked about, we had a team that was very focused on the airline. That was kind of the core business from a Europe perspective. We started to integrate TNT Express, and I think we lost our focus on what is the core business, which is a ground-based business.
+We have the right leadership there. We've put in a new head of sales. We feel good.
+## Ken Hekster | Analyst, Bank of America
+If I caught it right, I'm going to completely keep jumping around. You added surcharges. Maybe it was back in April. Is that gearing up for this shortage of freight in anticipation? Was that preparation for peak season? Can you run through what was the goal of the surcharges?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I'm assuming you're talking about the export surcharge?
+## Ken Hekster | Analyst, Bank of America
+Yes.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yes. From an export surcharge perspective, as we just talked about, things are more complex for our customers. They are also more complex for us to operate. We had significant volume flowing through de minimis, and that did not require the same amount of brokerage oversight. Yes, we had to put in a new surcharge to make sure that we were covering some of the incremental costs. I will say that the work that our clearance operations team is doing from an efficiency perspective, they have a pretty significant Drive target. We saw last week that they are on track for their target as well. That is what that was.
+## Ken Hekster | Analyst, Bank of America
+Export into imports into the U.S. or export?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yes.
+## Ken Hekster | Analyst, Bank of America
+Yeah. Okay. Update on the freight spin separation, still target for May?
+## John Dietrich | EVP and CFO, FedEx
+Yeah.
+## Ken Hekster | Analyst, Bank of America
+Anything about current valuations that have really changed in the freight market that gets you to reconsider and keep the asset? Is it still on target?
+## John Dietrich | EVP and CFO, FedEx
+Current valuations changed pretty much today.
+## Ken Hekster | Analyst, Bank of America
+That's good. This question was written before today.
+## John Dietrich | EVP and CFO, FedEx
+Right?
+## Ken Hekster | Analyst, Bank of America
+Right.
+## John Dietrich | EVP and CFO, FedEx
+I mean, and it goes to the comment I was making earlier, just the uncertainty out there until things settle down. No rash decisions until things settle down in so many aspects of the business. For us, we're staying the course. There's a tremendous amount of value to be unlocked with our freight spin. We have in-depth project plans in place through our separation management office. We're going to be announcing the leadership in the very near term here. We're on track. We look forward to unlocking that value and keeping you posted as we go.
+## Ken Hekster | Analyst, Bank of America
+I'm sorry. Leadership for freight will be announced in the near term?
+## John Dietrich | EVP and CFO, FedEx
+Yeah.
+## Ken Hekster | Analyst, Bank of America
+With results or before near term. Got it.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Near term.
+## John Dietrich | EVP and CFO, FedEx
+Near term.
+## Ken Hekster | Analyst, Bank of America
+Near term.
+## John Dietrich | EVP and CFO, FedEx
+Near term. I can put it this way. No later than results.
+## Ken Hekster | Analyst, Bank of America
+Okay.
+## John Dietrich | EVP and CFO, FedEx
+Potentially sooner.
+## Ken Hekster | Analyst, Bank of America
+From the industry, from FedEx?
+## John Dietrich | EVP and CFO, FedEx
+I'm sorry?
+## Ken Hekster | Analyst, Bank of America
+From the industry, from FedEx?
+## John Dietrich | EVP and CFO, FedEx
+I'm not going to comment on that. What I can tell you is we're looking for the best candidate for the role. We're going to find that person. We're going to build a great board of directors, and freight's going to be ready to run.
+## Ken Hekster | Analyst, Bank of America
+Okay. Last quarter, you lowered your EPS target about 6% to the midpoint, $18-$18.60, indicating kind of a fiscal fourth quarter, $5.83-$6.43, a fairly wide range. I presume you're going to tell me just given the volatility of what we're seeing in the market. You noticed weakness and uncertainty in the U.S. economy, and that was only March when we last talked before Liberation Day or tariffs, whatever you want to call it. What are your latest thoughts in terms of bottom end of range, top end of range? What gets us there? Not where we are, but unless you want to tell us where we are.
+## John Dietrich | EVP and CFO, FedEx
+Yeah. No, I think you're right. We went out with our earnings and our updated guidance on March 20, and that was pre-Liberation Day. That's not to say there weren't some discussion on tariffs on March 20, but we based our guidance on what we knew at the time. We put a lot of thought into that. Since then, Liberation Day has occurred. Depending on how things settle, it absolutely will put some pressure on flows out of China, for example, as we talked at length about. We're monitoring it closely. We look forward to updating you at our next earnings call. It's just one of those things where the world is a different place now.
+Today was, if I were to have had this conversation two days ago or the end of last week, I'd be thinking a lot differently than I do as what happened over the weekend. You're right. Different time, different place.
+## Ken Hekster | Analyst, Bank of America
+Given what we saw in terms of almost the complete suspension of some of that freight, the need to figure out how it flows, was there any commentary in terms of should we expect negative volumes at Domestic Express?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+From a domestic Express or domestic packages perspective, honestly, the domestic volumes from an e-commerce perspective are resilient right now. I will say that we have seen some of our largest retailers pull levers, extend sales. It is a little hard to decipher how much of that is pulled forward. I definitely think in May, we are seeing a consumer pre-tariff shopping. That is definitely, it appears, a consumer trend more than just a normal seasonality because May domestically is stronger than our normal seasonality up until this point. That was encouraging. As we talked about internationally, the end of April and the beginning of May, from a transpac perspective, that was worse than we anticipated.
+## Ken Hekster | Analyst, Bank of America
+International was worse. Domestic was holding strong.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Domestic was holding on the e-commerce side. On B2B, on the parcel side, it's about what we thought. LTL looks a little softer in May than we thought it would be at this point of the year.
+## Ken Hekster | Analyst, Bank of America
+Okay. Anything on the LTL side driving that?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Honestly, there is not a single customer geographic. There are no outliers. When we looked at the seasonality, I looked at it this morning knowing I was coming to talk to all of you. May is softer from a seasonality perspective.
+## Ken Hekster | Analyst, Bank of America
+That's more IP.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Exactly. It's 90% of it's B2B. So this is a reflection of.
+## Ken Hekster | Analyst, Bank of America
+Not a reflection of stuff that needs to come in, just domestic movement of the freight.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yes.
+## Ken Hekster | Analyst, Bank of America
+Okay. Okay.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Now, part of that might be a lack of inventory. It's hard for me to tell, but April looked about what we thought.
+## Ken Hekster | Analyst, Bank of America
+You would not have had the stuff not hitting the shores yet because that is just happening now, right? That would have been not.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+It feels like this is an industrial indicator.
+## John Dietrich | EVP and CFO, FedEx
+Just a sign of the weakness of the industrial economy. Very much aligned with our truck shipper survey, which is weak.
+## Ken Hekster | Analyst, Bank of America
+Okay. FedEx Express margins, FedEx. FEC, what are you guys doing?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I know. It's hard.
+## Ken Hekster | Analyst, Bank of America
+Made it tough. FEC margins, yeah, it's an acronym. Expected to be in the mid-9s, right, for the fiscal fourth quarter, up about 220 basis points sequentially. Given the combination, the express combination, is that a fair level to be thinking about? Are there other things we need to toss in there just given the integration?
+## John Dietrich | EVP and CFO, FedEx
+If you reflect back to April 2023 time period during Drive Day, we put a number out there at the $100 billion mark, we should be at 10% margins. Now, some things have happened since then, the announcement of the freight spin, and you're taking roughly $10 billion out. That's somewhat higher margin. From my perspective, we're going to be focused on margin expansion at FEC. Feel really good about the programs we have in place. That $100 billion mark seems to me to be still a reasonable number. However, my goal is to achieve the 10% margin as soon as possible. That's a goal of all of us here at FedEx.
+## Ken Hekster | Analyst, Bank of America
+For thinking more fiscal fourth quarter, if we're talking year-end, is that kind of the range to get to your numbers, right? Is that in your outlook?
+## John Dietrich | EVP and CFO, FedEx
+Yeah. I'm not going to comment on that. Look forward to updating you when we get together in June.
+## Ken Hekster | Analyst, Bank of America
+Understood. Brie, average yields have stepped up in the fiscal fourth quarter, February, March, April. Why is that? I mean, you were talking about the new revenue stream will be even more yield-decretive. Is there something that drives that as you go through the quarter?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Honestly, from a pricing perspective, as you know, we've talked about this, we are being really disciplined. We're proud of the execution from a yield growth in the immediate term. I think, I guess, if I could back up, maybe the most important thing when you talked about what do I want this group to think about is yield matters. Capacity utilization matters more. You're going to see some pivots in our pricing strategy over the next couple of months to lean further into capacity utilization. Historically, the industry has been very focused on simplification because that mattered a lot for our small customers. For the majority of our buyers, they are already making very complex decisions. As a result, you're going to see us move to a pricing strategy that better reflects total cost. What do I mean by that?
+We might be looking at headhaul and backhaul pricing strategies that we do on a customer-by-customer, but that is not, if you look at our zone-based pricing and our distance-based pricing, it does not purely reflect trade lanes, even in the domestic market. From a yield perspective, we are looking at a couple of things. One, capacity utilization. It matters if trucks are full. It matters if planes are full. Headhaul and backhaul, we are not going to change the market. I love all my finance peeps, but I love every time there is a new finance analyst who is like, "You know what you should do? You should sell more in backhaul." Thanks. What we need to do is to make sureâsorry.
+## John Dietrich | EVP and CFO, FedEx
+That was the most polite insult I've ever received.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+We're not going to change the world's trade lanes. What we need to do is to make sure that those that drive the headhaul pay for the headhaul. That is where the demand is going to be. We do that really well internationally. Domestically, the industry has some opportunity. From a pricing strategy, I want you to be looking at yield, of course, but we're very focused on capacity utilization. We're very, very focused on making sure that we are compensated where things are more difficult, heavy-hard to handle, rural. It's not just about absolute yield growth. We need to have different conversations.
+## Ken Hekster | Analyst, Bank of America
+My first thought of that, I could see the room kind of light up on that, is that we're back to pre-2019, and therefore you're going to chase price. How do you alleviate that we're not? And then how much capacity do you think is out in the market that you need to fill?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+From a capacity utilization, I think the good thing is that, in general, capacity is coming out of the market. Obviously, Network 2.0, we will reduce facilities. I think we've seen some other players in the markets who are also reducing. I think that's it. No, nothing I said assumes that we're chasing volume. Volume is our friend, but volume always at the right price. Unfortunately, our business is nuanced. I cannot say with the exception of small customers, all other volume matters at what price and what mix and what direction. We have the world's, I think, or the industry's best pricing team that will help guide us through that. No, this isn't about chasing volume, but we do want to grow, just grow profitably.
+## John Dietrich | EVP and CFO, FedEx
+Our comparative yields are stronger.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah. We get more in each one of our product segments than our primary competitor.
+## Ken Hekster | Analyst, Bank of America
+UPS, at their analyst day, what, about a year and a half ago or two yearsâI forgot how long ago it was nowâsaid there was about, what, 12 million average daily packages, about 12% excess capacity. What would you think that is in today's environment?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Honestly, I do not know. I do not know how they got to that number, to be really honest. We have looked at it to define capacity. Are they talking about store capacity? Are they talking about P&D capacity? Are they talking about line haul? I guess you could go and say, how much could we be flexed up during COVID and come to that number? I do not think it is relevant because there is a difference between fixed and variable. Obviously, I think everybody has taken their variable out. From a fixed perspective, you are seeing a lot of that come out.
+## Ken Hekster | Analyst, Bank of America
+As I recall, that also included postal service capacity, I think, was a large component of it.
+## John Dietrich | EVP and CFO, FedEx
+Half of it. Yeah.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Change.
+## Ken Hekster | Analyst, Bank of America
+Okay. I want to come back to freight for a second. Your shipments were down 8%. Sorry, moved from down 8% in the second quarter down 5% in the third. So got better. I think the industry was down a little bit more. It seems like a little bit outpacing the market. Your thoughts on the freight market?
+## John Dietrich | EVP and CFO, FedEx
+Yeah. We think it's going to continue to moderate and be better than it was last quarter, but still probably down year over year.
+## Ken Hekster | Analyst, Bank of America
+Okay. Amazon has been mentioned as moving into the freight market. Is that something you see? Or I know they've talked about doing inbound freight. Is that something you, as the largest provider out there, you see them coming into the market?
+## John Dietrich | EVP and CFO, FedEx
+I personally don't see that anytime soon. We have a tremendous amount of infrastructure already in place. I think Amazon probably doesn't have too many barriers to entry. We just don't see that happening in the near term.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+No. I think we have to go back to 90% of our business is B2B, which requires a pickup. They are not in the business of picking up freight. They are a last-mile provider. Also, I think I am hypothesizing that if I am over there, I am looking at my ability to just use my excess capacity in my own network. You have no ability to respond to peak. If you are just selling excess capacity, that is not what our customers want. I will tell you, I have not lost a customer to Amazon from an LTL perspective. That is not the conversation that our commercial teams are having.
+## Ken Hekster | Analyst, Bank of America
+John, you talked about new leader being appointed soon at Freight. How about the progress on building the sales force?
+## John Dietrich | EVP and CFO, FedEx
+Yeah. I think we're making great progress here. We appointed a leader, someone who knows the business quite well. Our focus, as Brie has talked about, our focus is on the specialized sell for freight. It's different than the express. We're pleased with the hires we've made thus far, making great progress on that, to focus on that specialized sell for LTL freight. I know some area of opportunity for us is on some backhaul lanes in LTL. When you have a specialized sales team, in my opinion, you're able to develop those relationships, connect customers, and just generate freight. I'm excited about our refocus on that and look forward to it yielding results.
+## Ken Hekster | Analyst, Bank of America
+Brie, on pricing for the LTL, we've had some carriers talk about moving into transactional pricing, some that are lowering GRIs to keep business. What are your thoughts on the underlying pricing within freight segment?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Honestly, from an underlying perspective, we think for the most part, the industry is still being quite disciplined at the freight side. I have not seen any kind of dramatic, and I think you have seen us. I think we are being the most disciplined. That has had some pressure on shares, you have noticed, over the last year. We are trying to make sure that we are really focused on that. I think we do have some opportunity on weight. You might see some changes in the weight pricing strategy. If you guys have spent any time talking about LTL pricing, it is a little archaic. I do think that you will see some shifts in some of the cap load movements and the focus there on weight. At least our focus is on weight and getting the weight stuff because it is more profitable.
+## Ken Hekster | Analyst, Bank of America
+Why is your weight so different than the industry?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I think one thing is that we were very and are conservative. We want to make sure that we protect ourselves from any truckload getting in and that we optimize all the utilization in the trailers. I think we've gone a little too far, to be honest. I think that we've got an opportunity to do a better job of attracting weight. It's definitely my top priority for the commercial team.
+## Ken Hekster | Analyst, Bank of America
+John, freight margin was 12.5%, deteriorated 300 basis points year over year in the third quarter. You noted you expect the pace to decline or to decelerate in fiscal fourth quarter. Is that still reasonable given the demand backdrop or drying up that you were talking about earlier?
+## John Dietrich | EVP and CFO, FedEx
+Yeah. I think we're going to see some modest improvement, actually.
+## Ken Hekster | Analyst, Bank of America
+Modest improvement.
+## John Dietrich | EVP and CFO, FedEx
+Yeah.
+## Ken Hekster | Analyst, Bank of America
+Year over year, sequentially?
+## John Dietrich | EVP and CFO, FedEx
+Not year over year, but sequentially.
+## Ken Hekster | Analyst, Bank of America
+Sequentially. Okay. Okay. Labor, given the blending of Express and Ground, how has that panned out for distribution for employees in the cities?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I think what's important to note is the vast majority of our business today is the FedEx Ground portfolio, so the previous FedEx Ground operating company. The majority of our business will continue to be delivered by contractor. We are being very strategic in supplementing from a courier perspective where it makes sense, where we need overlay, where we have stem time. We are really looking at couriers to offset the stem time and some of the challenges in theâmaybe not challenges is not the right word. The FO and the PO product are our most highest yielding domestic services with the highest expectation from our customers to continue to deliver that. They are also always bundled with the ground business. When you look at trying to hit a 10:30 A.M. commitment from a PO perspective, you have very little wiggle room.
+You need to have a model that is incentived for that route to be able to flex to any delay in dispatch, any delay in aircraft arrival time. I think you will see that we are going to supplement the contractors with couriers specifically for those FO and PO. The majority of the volume will be delivered by contractors in the future.
+## Ken Hekster | Analyst, Bank of America
+All right.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+That is the case today. I just want to make that really clear.
+## Ken Hekster | Analyst, Bank of America
+Your competitor blended in SurePost into their core network. You did it years ago with SmartPost. Is that back in 2019 also? Somewhere, it was a while ago.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah. 2020, maybe?
+## Ken Hekster | Analyst, Bank of America
+Yeah. When you did it, do you remember? I know.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+No, 2019, I guess it would have been.
+## Ken Hekster | Analyst, Bank of America
+You took all of it onto your network. Did you have to do pricing actions to get that to align? Did you say, "We're going to keep only 75% of it because it blended"? Is there a general understanding of how that market went when you brought it all on board?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Ours is a little different because COVID hit. If you'll remember, we had to optimize, and we actually had to shed a big portion of the volume. I can't comment on what they're planning. What I can tell you is it's now our FedEx Ground Economy product. It is a far more competitive product to the alternative. It has picture proof of delivery. It does not have the guaranteed time delivery that the Home Delivery product has, but it is very efficient. John Smith has done an outstanding job of keeping costs down by using rail. We feel really good about the positioning of this product. It's growing. As we've talked about many calls, it is always with an HD package. The vast majority of Ground Economy customers are bundled with our higher Home Delivery product.
+## Ken Hekster | Analyst, Bank of America
+Remember, it took you guys forever to use the rail. That was like aâ.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+What are you saying?
+## Ken Hekster | Analyst, Bank of America
+The postal service contract you had for 20 years went from making money to break even at the end as they moved to minimum volume commitments. Talk about how has this freed up your network in terms of, are you done pulling the excess costs out? If not, what's left to do? How many flights did you end up going to? I think you had, what, 110 at the peak. I think you had 30 before you brought it on board. Maybe anything to understand what's happened with FedEx's network post?
+## John Dietrich | EVP and CFO, FedEx
+Yeah. The team has done an excellent job of executing on the transition. While we were in negotiations, as you can appreciate, we were planning for both scenarios, one where we would keep the contract and one where we would not keep the contract. Just from a flying standpoint, we have taken down 30% of our total domestic flying, which translates into 60% of our daytime network. The team executed fantastically on that and all the other expenses that came out as part of that contingency planning. You will recall on our last earnings call, I also mentioned that from kind of a total headwind standpoint, we brought that down by about $100 million, from $500 million to $400 million. I feel really good about our transition away from that contract.
+Now, we'll still have some headwinds from an earnings standpoint for the first four months of FY 2026 before we lap the termination. From an execution standpoint, the team did brilliantly.
+## Ken Hekster | Analyst, Bank of America
+I think you reiterated your $4.9 billion CapEx target for the year, about 5.5% of revenues. I think there was a mention of either some new aircraft included. I know you had always included about $1 billion-$1.5 billion, if I remember right, in terms of the number. It seemed like you were exercising options, which seemed a little odd to me given what you're talking about, about trying to decrease freight. Maybe just walk through your thoughts on CapEx and then your thoughts on the aircraft within that.
+## John Dietrich | EVP and CFO, FedEx
+First, with regard to CapEx, one of my goals was to reduce the amount of capital intensity, focus on that capital we were spending on the highest ROI. The team's done a great job coming together as we continue towards one FedEx. We had separate operating companies in the past that had capital budgets, and many of them were spending capital without regard to what some of the other op companies were doing. I'm not being critical. I'm just saying that from a centralized standpoint, not as much coordination as I felt there could have been, not as much perhaps rigor as there could have been. It's possible that Express was investing in a facility in Ground a block away when perhaps they could have joined forces, joined buying power. Bringing that centralized focus on our capital spend has yielded a lot of results.
+We're also finding that some of the budget we had for Network 2.0 facilities is coming in better than we thought. That all together withâI will get to the aircraft in more detail in a momentâall together allowed us to bring our total capital spend down considerably from where it was. Now, with regard to aircraft, there was a point in time where the company was running about $2 billion or north of $2 billion a year in CapEx on aircraft and related spend. I think the company did an amazing job of investing in the best assets out there, particularly the 777. Over time, we are rationalizing our fleet. We have retired a number of aircraft. We have currently a number of aircraft parked. We have a plan to retire the MD-11s over time.
+We extended that out a little bit to allow us the flexibility to take advantage of the lower yielding e-commerce because those aircraft are almost fully depreciated. So the asset itself isn't really costing us. It's the variable expense we need to cover. Could we, if we need to, accelerate those retirements if the demand falls off? Yes, we could, and we can do so efficiently. Which leads me then to the recently announced 777s. We announced that we're going to stay within that $1 billion range and achieve that by FY 2026. We're going to achieve that. These aircraft fit within that budget. And for the following years, for the near term, we also committed to that neighborhood of a billion dollars. These aircraft will not cause us to go beyond that budget. I can tell you, coming from the air side, these are extremely attractive assets.
+I've never said FedEx is not going to order any more airplanes. FedEx's strength is in its modern fuel-efficient fleet, the best assets, and youngest assets in the business. We get tremendous operating leverage by doing so. Importantly, these were also the last 777s that are ever going to be delivered in this configuration, this design, before the next generation of what's called the 777-8, which is several years out. In my prior life, I bought the last four 747-8s that were ever to be produced. They will continue to be extremely valuable assets. It was one of those opportunities for us that we did not want them going anywhere else because they're very attractive, very attractive pricing. That is what went into that acquisition. It may allow us to retire some other aircraft sooner as well.
+## Ken Hekster | Analyst, Bank of America
+I'm surprised, given the aircraft background, you couldn't just go ask somebody to give them to you for free because I hear that's a thing now.
+## John Dietrich | EVP and CFO, FedEx
+Free is an interestingâI want to know the terms and conditions of that Qatar 747.
+## Ken Hekster | Analyst, Bank of America
+Sorry.
+## John Dietrich | EVP and CFO, FedEx
+There's a lot of news flow coming in.
+## Ken Hekster | Analyst, Bank of America
+Don't worry. We're almost done, and everybody, you can make the Knicks-Celtics game real soon. We used to hear about UPS and FedEx would mention, "We're faster in this % of lanes than the other guy." We haven't heard that for a while. Yet you're focused on combining the network and keeping speed and efficiency. They talked about fastestâI want to make sure I use the right termâthe fastest network ever or the brand.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+For them.
+## Ken Hekster | Analyst, Bank of America
+Yeah, for them. Where are you on that process? Is that a competitive thing still, or is that not?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Shame on me. Yes, we are still faster. By Friday, we have 53% speed advantage from an e-commerce perspective. Speed matters. We are faster. Maybe we should have been more clear when we talk about our Saturday and our Sunday coverage. We are talking about it because it enables speed for all of our e-commerce customers. We know there is a correlation between checkout cart conversion for all of the world's retailers that we serve and speed to market. Yes, for e-commerce on Friday, I think the numberâfact-check me laterâI think it is around 50% faster for zip codes across the country on Friday. That is pretty powerful.
+## Ken Hekster | Analyst, Bank of America
+Yeah. No, just something we used to hear on the road a lot from you in terms of the.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Stephen, I'll make sure you hear it again.
+## Ken Hekster | Analyst, Bank of America
+It used to be a slide you had in your road show, so it's not his fault.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Will be again.
+## Ken Hekster | Analyst, Bank of America
+All right. What's on Amazon's third-party service? They took that down during COVID, right, in terms of they had to use their network for them. They've come back out. They've said, "We're here, open doors to provide service." Haven't heard much about it since then. Where does that stand?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Look, I think first and foremost, we see Amazon as a great retailer. We do not see them as a pure competitor. What have they built? They have built a last-mile delivery service. I am not discounting that. It is a very important part of their strategy. From a competition perspective, they do not do pickups. You need to do pickups.
+## Ken Hekster | Analyst, Bank of America
+Have they not launched a trial to do pickups?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Oh, maybe there's a trial somewhere. I have not seen any scaled pickup capabilities in either Parcel or LTL, as we were talking about earlier. I do not believe they have the sortation capabilities to offer the Express portfolio. As we've just talked about, they don't have the ability to do extended or large package. Right now, no, I don't see them as a pure competitor. I'm not trying to be dismissive or defensive. When we think about who I have to compete with, they're not at the top of my list.
+## Ken Hekster | Analyst, Bank of America
+Even with the 100,000 delivery vans or whatever, they can't have those drivers go out and pick up?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+They have not. Again, when we think about the complexities of a pickup and the delivery side, it is a far more efficient operation, right? You get up in the morning, especially if you think about what Amazon does for last-mile delivery. For the most part, those drivers get up in the morning, and they run a straight optimized route. Trust me, putting pickups in your routing capability is very difficult. You also then have to be prepared to wait and manage the customer expectation. Pickup and delivery, these are not the same thing. Right now, no, this is not something, when I think about what are the complexities of our business, that's at the top of my list. We will continue to prepare for that moment, but it is not imminent from my perspective.
+## Ken Hekster | Analyst, Bank of America
+All right. I'll give you two last ones, long-term and a short-term because I have to give you the short-term stuff. Long-term, what does the industry look like? What's the success at the end of this overall?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+That's your best question. You want to start?
+## John Dietrich | EVP and CFO, FedEx
+Oh, please. Ladies first.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+From a long-term perspective, the way that we are thinking about logistics is first, as we have seen in the last four years, and Raj has talked about this so much, is supply chain is now a boardroom conversation, right? We think that the world's supply chains are going to get more complex. We think the geopolitical environment will not ease anytime soon. We think that the world's manufacturers and retailers are going to have to have redundancy and resilience like they've never had. It is not just geopolitical. Look at what we've seen from a port strikes perspective. Look at what we've seen from a weather perspective. We've had more weather challenges in the last year than ever before. Supply chain will get more complex. Who's going to win?
+We think that what matters the most in the future is, first of all, scale, as we've talked about, is you need to be able to pivot. You need to be able to support a customer who is thinking about standing a new line in Guadalajara that was previously dependent on their line in Guangzhou. That matters. Scale, not just from a physical perspective, but from a commercial perspective, that as a customer is moving or setting up a new partner, who are they going to think to call? Number one, we think scale matters. Number two is digital. You cannot manage this complexity as it was in the last 10 or 20 years. We have built our new Atlas data platform. We've built a digital twin of our network. The future supply chain decisions will be not only automated, but all ML and AI-based.
+We do not think that a lot of the smaller players that are in the industry will survive the next 10 years. They will not have the digital prowess that we have. From that, we think that the world's supply chain companies, in particular FedEx, are going to move from talking about transit times and price to talking about facilitating trade. What do I mean by that? We are working on sustainability insights. We are working on fraud. We are working on free trade zones. How do we help customers leverage them? We think scale, we think digital, we think reach matters, and we think complexity will increase dramatically, and so too will our value. What did I miss?
+## John Dietrich | EVP and CFO, FedEx
+No, no. I echo everything you just said with an emphasis on leveraging the technology piece. I think it's just going to make us better, faster, and more reliable in everything we do. It's going to be a focus as we go operationally, but then strategically as well, how can we leverage our capabilities and all the great data we have access to?
+## Ken Hekster | Analyst, Bank of America
+I think as an outsider, I mean, that's one of the most exciting things to see in terms of Network 2.0, and as you blend a network, how you get that one technology to integrate without interrupting customer service, which you can't interrupt customer service.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+We cannot.
+## Ken Hekster | Analyst, Bank of America
+You are. Earnings, John, can earnings be positive in 2025 and any initial read on 2026?
+## John Dietrich | EVP and CFO, FedEx
+In the short term, look, in times like these, we're focused on those things within our control, helping our customers, minding our cost base, and all those things that go into what we talked about, Drive and advancing the ball in our strategic initiatives. We feel really good about the progress that we're making. We look with regard to FY 2025, we look forward to talking to you in June on that. And FY 2026, as I talked about, we're notâI talked about this in the last earnings call. We're going to have some carryover benefit from Drive, roughly in that $400 million range. We're not expecting the macro environment to improve materially, although that goes to the wait-and-see certainty. Again, an underlying theme is to focus on those things within our control during this period.
+is still going to be, as I mentioned, the four months of postal service headwind, inflation still a factor, but we are encouraged by some of the things we are seeing on the yield side and the pricing environment and just overwhelming our customers with great service. We think that is going to distinguish us from the competition.
+## Ken Hekster | Analyst, Bank of America
+Are you excited to go back to a calendar fiscal year?
+## John Dietrich | EVP and CFO, FedEx
+Oh, I've been excited about that since the get-go, right? It'll make a lot of these comparisons a lot easier, right? It was one of the things I had focused on since I started. The freight transaction gives us an opportunity to kind of bundle that all and wrap that all up in one kind of transition. Yes, I am excited.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+No earnings in peak.
+## Ken Hekster | Analyst, Bank of America
+For '26.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Will be nice too.
+## John Dietrich | EVP and CFO, FedEx
+That will be our first full mid-year FY 2026, but our first full calendar year reporting will be Q1 2027.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+'27 is when we'll be on a calendar year. There will be a transition period at the end of FY 2026, which will end at the end of May until we get to that actual calendar.
+## Ken Hekster | Analyst, Bank of America
+We've run out of time. I'm going to summarize what kind of our key takeaways were, but do you have time for two or three questions from the audience or?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Sure.
+## Ken Hekster | Analyst, Bank of America
+Can we do that? Okay. While we wait for the question, I guess if I just summarize, kind of seems like volume's decelerating, but now things have changed, right? Maybe what we'll see from here. You've gotâI wrote so quick, I can't even read my handwriting. You've got the Network 2.0, right? It's really theâyou can really see that integration really kick off here. You know what? I'll go to the question. I'll try and organize my handwriting a little better. What happens when I'm writing on my knee?
+## Speaker 4 | 
+Sure. Thanks for taking the question. Brie, just I wanted to get some clarification on when you said maximizing your capacity. What sort of items are you thinking about to try and achieve that outside just pricing?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah. Like I said, we are putting more nuance in the pricing. To John's point, we are alsoâI think some of the conversation, some of the work that we've done from an LTL perspective has been important from a commercial perspective. We are continuing to refine our commercial strategy for specialization. One of the things that we've talked about is our healthcare. We did not even talk about our healthcare strategy. We are so proud of the work that the team has done prior to UPS's announcement a couple of weeks ago on the acquisition. We believe that we were about to be the largest transportation healthcare company in the world. We have onboarding $400 million. From a capacity utilization, specialization matters. We are looking at revenue per flight. Getting denser, right? Double using our sort. Looking at customers who can come into a sort off-cycle.
+are all kinds of things that we are doing, but pricing will matter. Focus, to John's point, from a commercial perspective will matter. We really did not even talk about it, but we are doubling down on our B2B strategy. E-commerce will be the growth engine, of course, in parcel. We think both from an airfreight and a parcel perspective, doing an even better job on a vertical approach for commercial willâwe are taking the healthcare work and we are standing up an automotive vertical. We have already had a couple of wins right out of the gate. Specialization within our commercial strategy will be really critical.
+## John Dietrich | EVP and CFO, FedEx
+If I could, on top of that, I mean, the Tricolor network, particularly the orange, is all focused on improving density and utilization of our assets as is Network 2.0. Operationally, those two initiatives are focused on maximizing asset utilization.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yeah.
+## Ken Hekster | Analyst, Bank of America
+Go ahead.
+## Speaker 4 | 
+LTL had a shared owner for many years that had high union costs. They've exited. Those capacities are coming back to market, and there are now more than one, maybe three growth stories before you come to market. Volumes on my Bloomberg tell me LTL volumes are flat relative to 2006. Maybe just spend a second. How do you think about you're going to balance volume growth and price costs in an environment where costs are growing significantly and the people that aren't discounting price are losing share, it looks like to me.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I think a couple of things. One, we've done a really good job, and again, parked the last year or so of profitably taking share. When I look at our segment analysis, however, we are under-penetrated relative to our share position in small business. Number one at the top of theâI keep calling it SpinCo, but FedEx Freight's list is we actually have not done a good enough job in acquiring small customer. From an overall mix perspective, you're going to see us invest, and you're going to see the freight company invest in technology to the shipping experience, our billing experience. The transparency in pricing is not where it needs to be from a FedEx Freight perspective. We think we fixed those three things. Why haven't we fixed them?
+It actually goes to a little bit of the prioritization issue that we had, is that from a FedEx Freight perspective, we did a really good job, but it was competing with FedEx Ground for a lot of investment on the IT side. In hindsight, we probably underinvested. We are going to fix that, give them a better experience. We are going to improve SMB. We have also, from a FedEx Freight Direct perspective, e-commerce, although it is only 10% of our existing base at FedEx Freight, will grow faster. We have done a really good job with our FedEx Freight Direct. It is actually our highest NPS score within the company outside of FedEx Office. It is an outstanding service. We are going to grow faster than market there. Grocery is an under-penetrated market for us. We have never really been focused on grocery.
+You need a technical term, a lumper, a second driver to really serve grocery. We have made some inroads there as well. We have a pretty good handle on where we can kind of profitably take the next couple of points of share. To John's point, having a dedicated sales team and focused commercial strategy, we think will give us a real boost.
+## Speaker 4 | 
+Do you have a thing targeted or FedEx friend of what you should achieve at some point in time? What would normal look like in FedEx?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yes, we have a business case.
+## John Dietrich | EVP and CFO, FedEx
+One other thing I'd like to add, and it's tough to acknowledge areas where you don't do as well as you'd like to do. One of the things that came as a bit of a surprise to me is on our billing, our invoicing capabilities, and some basic blocking and tackling, because we were so integrated with the other side of the house that it wasn't as efficient as some of the competition. It's certainly not as efficient as I would like it to be. If you're not billing properly, you got some work to do. All the things that Brie talked about, our process improvement, we're just going to continue to add more and more value than we already do today. We're already the biggest with the broadest network today.
+There's going to be a tremendous increase in the value proposition to our freight customers that's going to allow us to grow and get share.
+## Ken Hekster | Analyst, Bank of America
+All right. With that last question, go ahead, Corey.
+## Speaker 4 | 
+Close that down. All right. Just to clarify on the de minimis, is when it was at 168%, what were the customer shippers doing? Were they not shipping at all?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Yes.
+## Speaker 4 | 
+They were not shipping at all. What would you expect at the 40%-50% range? Is that enough? Is also Ocean an option for these customers?
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+I would say for the customers that are using us or our primary competitors, they've evaluated Ocean. They have different business models. Again, a lot of our customers, it's an and, right? Most businesses have some Ocean, especially if you're thinking about an e-commerce. You've got some Ocean business, and then you've gotâyou are flying it for a variety of reasons. Either it's specific lines, it's shortages. You do not want to lose that momentum from a commercial perspective. You've got a hot item. There are some e-commerce customers who have built their entire model on speed. Shein is a great example of that. They are winning in the market because of speed. They've taken a lot of the Amazon playbook and applied it. There are some nuances there, obviously. I think in the short term at 168, as we talked about, we saw immediate impact.
+We saw those customers pause, use inventory wherever they could. They raised prices to adjust those prices for sales. It was demand destruction. I do think you're going to see those customers come back. Some of them have looked at postal, as we've talked about. In the near term, I think in the 30%-40% we'll see volumes come back.
+## Ken Hekster | Analyst, Bank of America
+Great, Summary. Thank you so much for your time. Just to summarize, I can now read what I wrote. Volumes decelerated. We talked about acceleration, Amazon profit. We did not even touch on Amazon profitable revenue that you are going to absorb. You were very crystal clear on what you are taking.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Profitable, yes.
+## Ken Hekster | Analyst, Bank of America
+It's profitable, but it's not revenue. Profitable revenue. Drive, really successful. John was talking about the details of Drive and how you do that. I think Network 2.0, do it with precision, is the most important part to protect the service. That was clear. Thank you very much for all the details tonight. I got through virtually every question. I truly appreciate you taking the time for joining us again for the conference. Thank you.
+## Brie Carere | EVP and Chief Customer Officer, FedEx
+Thank you. Thanks for having us. Appreciate it.
+Data Source: Quartr Last updated: May 12, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (4) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

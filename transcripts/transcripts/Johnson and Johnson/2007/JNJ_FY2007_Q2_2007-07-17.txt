@@ -1,0 +1,7 @@
+Company: Johnson & Johnson
+ROIC Symbol: JNJ
+ROIC Name: Johnson & Johnson
+Year: 2007
+Quarter: 2
+Date: 2007-07-17 08:30:00
+Executives

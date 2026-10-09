@@ -1,0 +1,310 @@
+TITLE: 46th Annual William Blair Growth Stock Conference
+DATE: 2026-06-02
+## Arjun Bhatia | Analyst, William Blair
+We'll go ahead and get started. Thank you everyone for joining us. Thank you, Michelle, for being here.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Michelle's the CFO of Zoom. Before we get started, some disclosures. My name is Arjun Bhatia. I am the research analyst here at William Blair, who covers Zoom. For a full list of disclosures and conflicts, go to our website at williamblair.com. All right. Let's get started.
+## Michelle Chang | CFO, Zoom
+All right.
+## Arjun Bhatia | Analyst, William Blair
+Zoom, I think you've been on quite a journey as a company. I think maybe a lot of investors here that still think Zoom is just-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Arjun Bhatia | Analyst, William Blair
+meetings company. There's maybe an updated version of what you do.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Just talk about how the company has changed since the initial sort of hockey stick in 2020. What's different about the platform, and how it's sort of broadened out from just meetings to everything that you do today.
+## Michelle Chang | CFO, Zoom
+Sure.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+Awesome. Is this on?
+## Arjun Bhatia | Analyst, William Blair
+Yeah
+## Michelle Chang | CFO, Zoom
+Everyone can hear me? Okay. It's such a good question, and such a good way to start the day because, look, it's a blessing, and I guess a little bit of a curse when you have such a strong brand that everybody associates with the meetings. Really if you think about it, Zoom went through just enormous growth in the pandemic, and then went through years of what I would call reinvention and differentiation. Really diversifying our product set, taking a moment to say, "Where are natural adjacencies that we can go?" Really what you're seeing, I would say in the last year and a half, is us fully stepping into, and the rest of the world getting to see a little bit of all that we've become.
+This picture kind of describes it, but let me maybe breathe a little bit more life into it. If you think about how this core in meetings, we move naturally into Phone, which is another big business for us. There were natural adjacencies of webinar. Then came this AI era, and we've moved more into Contact Center, and new AI revenue streams. All of this sort of a way to say, if you think about all that Zoom can see of what happens inside the organization. When you're on that meeting, you're having the conversation, be it a sales call, internal call to try and make some decisions. There's so much unstructured data and so much context and decisions that can be easy to get lost.
+It's the power of all that Zoom knows about what happens inside an organization, as well as now a much more diversified product portfolio that also expands beyond the boundaries of an organization, and products like Zoom CX. Really if you think about it, where we are going is about reinventing the modern workplace into a system of action . We used to be just about conversations and having a great quality conversation. For us now, the journey going forward is far more about that context of what we can see inside and outside the organization, and how we can help bring together really into meaningful action.
+We call it conversation to completion for our customers, because ultimately completion is what drives business value. I'm sure we'll get into different pieces of that. At high level, moving far more from the meetings to more of a platform, diversified product set, all in service to this concept of reinventing the modern workplace into a system of action.
+## Arjun Bhatia | Analyst, William Blair
+Is there a real-world sort of practical example-
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+-of what this system of action looks like once it's-
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+-implemented?
+## Michelle Chang | CFO, Zoom
+Yeah. We were laughing last night because I'm like, "Sometimes these things are like corporate word salad." Let me give two tangible examples of what I mean. Maybe I'll give a inside organization one, and then outside organization.
+## Arjun Bhatia | Analyst, William Blair
+Sure.
+## Michelle Chang | CFO, Zoom
+Think about inside the organization. You're a seller, right? You're having a meet with a customer, but you meet with customers all day. You don't remember last time when you met with the last customer, what the heck you talked about? Well, all of a sudden with AI, you can query all your meetings. You've had various conversations with them over the year. Maybe other people in your organization have had conversations. All of a sudden you're preparing for the meeting with far more context and richness of information than you've ever had before. You go to the meeting, right? It goes in all sorts of different directions, right? Conversation wanders. Customer has various needs.
+All of a sudden you have a very easy package summary of what happened in the meeting that can just automatically be sent off in the way that you want to recap what in the meeting happened. Let's say you're a seller who hates updating Salesforce afterwards. It's listening to your entire conversation of your meeting, and it's updating Salesforce in the background. Let's say you decided that you wanted to have a follow-up meeting. It's listening in the background, it's matching your two calendars, and it's figuring out when you can meet next. Let's say the conversation was a long one and there's a lot going on with the customers, and there's a million tasks that you need to follow up on. It's capturing all of those in the background.
+That can go into the meeting summary, or it can just be for you and your personal context, so that you don't forget because you've got five more customer meetings afterwards. That whole concept is you can begin to get a sense of how that meeting's life cycle gets a lot more rich and becomes much more of a system of action, where you're taking that action in the context of kind of where the work is getting done. Let me give you another one outside the organization, and it'll go into inside as well.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+Let's say you're an agent in a contact center. You get a call from a customer. Let's say it goes even to a virtual agent before. They have some quick, simple needs that just get addressed without even having to involve an agent. Let's say there's a more complex problem. It goes to an agent. The agent is new. The agent, there's a lot of turnover in contact center, has never dealt with this problem. All of a sudden, AI is assisting them in solving the problem and using the richness of all the things that have happened before, and it knows how to solve the problem, even though the agent might not have been aware previously. Let's say the third problem that the customer had when they called in is extra complex. They need to talk to manufacturing, or they need to talk to engineering.
+Let's say it even is complex where they need to show them the problem with video. All of a sudden, you have the richness of being able to turn on a camera, show the problem, route the call back into the inside of the organization to get it resolved, to go back and serve the customer. Let's even take it a step further with AI, because all of a sudden you can see how this system of action that we're talking about is already delivering much more value for the customer. Let's say now with a product that we just released in the spring, let's say you're the head of engineering, and you don't want to just know about that single customer. You want to know what are the top problems that people are calling in.
+Let's say you're the CEO who wants to know what are the top three things, and are they changing? Let's say you just want to get this update daily. You can essentially have an agent that is looking across the richness of your contact center organization, feeding it up to you, and you have that richness of that system of action and intelligence in new and cool ways that we think are really, frankly, going to develop new value for our customer. Gone are the days where we just have excitement for AI for AI's sake. It's about can you prove real-life business value? We're excited about-
+## Arjun Bhatia | Analyst, William Blair
+Very interesting.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+-in that first example, you're essentially taking all this unstructured data from conversations that are happening on Zoom.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+In some cases, you're even feeding it into third-party systems.
+## Michelle Chang | CFO, Zoom
+Yes.
+## Arjun Bhatia | Analyst, William Blair
+Those systems can then take action-
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+-based on a conversation that you've had with
+## Michelle Chang | CFO, Zoom
+Yeah, it's such a good point because, look, those conversations don't just have to be on Zoom. They can be on Meet, they can be on Teams, they can be in person. We have a new product called My Notes, where it's basically like a virtual personal note-taker, so you can just turn it on. In any scenario, we're there to meet the customer and have that conversation so that you can experience that, and you don't just have to be on Zoom.
+## Arjun Bhatia | Analyst, William Blair
+Yeah. Okay.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Very interesting.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+I think yesterday you announced-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Arjun Bhatia | Analyst, William Blair
+-sort of a-
+## Michelle Chang | CFO, Zoom
+ZoomMate.
+## Arjun Bhatia | Analyst, William Blair
+Yeah, that's right.
+## Michelle Chang | CFO, Zoom
+-the AI Productivity.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+Which is in ZoomMate, too.
+## Arjun Bhatia | Analyst, William Blair
+Okay. I got you. Okay, perfect. How do those add on to this-
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+-value proposition, sort of your own personal assistant.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Maybe you can talk a little bit about that, yeah.
+## Michelle Chang | CFO, Zoom
+For those, you guys are all busy, that may have missed the headline, basically, you know how I talked about this concept of a conversation to completion? Zoom Mate is really this completion part. If you think about where Zoom started their AI journey, it was a lot of conversation and recording the conversation, summarizing it, capturing the key decisions, the actions, and stuff. What we announced in Zoom Mate, we've been working our way there, but this is sort of the rebranding and the big moment of completion, is really our paid AI office sort of horizontal of our meetings and Phone business. Zoom, just as background, took kind of a differentiated position where we decided that AI value should be in the core of our meeting suite and our Phone suite to our paid customers at no additional cost.
+Zoom Mate is sort of the paid tranche of that, the higher value. You basically get three things in Zoom Mate. One, the ability to search. The ability to search over third-party data, the ability to search over your own company's assets, the ability to search, of course, over web, and then also your personal notes and stuff like that. A really powerful search engine. How many times a day do we all try and find something? Second piece of value is really about orchestration. In this, it's that multi-tier, you need to take an action, writing back to a Jira ticket, writing back to a Salesforce ticket. Being able to, in the flow of your work, take action and go in multi-steps. Sometimes that can be creating tasks and executing them, scheduling a meeting.
+Like the example that I talked about, sometimes it's also third party, like rewriting up to Salesforce or Jira. The third part is really about this concept of completion, and it's where you get back into the AI Productivity Suite. Look, we announced things that would be sort of like a document writer, a spreadsheet, and sort of a slides concept. This is really not about productivity suite for productivity suite's sake, because I think we're in a different era with the AI, where again, everything in an AI world is kind of getting rethought. This is about in the flow of the work. Take that meeting example with the sales that we talked about earlier. We went in different directions.
+I heard things unique to the customer. I have some kind of canned decks that I like to share after the fact about how we can meet their problem. Now all of a sudden, I can say, if I have ZoomMate, create a personalized PowerPoint for my customer that's an RFP, right? Look, you're always going to want to have human in the loop and all those things, but all of a sudden, I can walk out of that meeting, take action, not just to summarize the meeting and do the actions like we talked about before, but actually to turn it into a customized presentation that you can leave the customer with in case there were other people that weren't able to attend or they want to think further about it.
+## Arjun Bhatia | Analyst, William Blair
+Yeah. Interesting.
+## Michelle Chang | CFO, Zoom
+It's really that completion of the circle, if you will-
+## Arjun Bhatia | Analyst, William Blair
+It becomes very end-to-end versus-
+## Michelle Chang | CFO, Zoom
+100%.
+## Arjun Bhatia | Analyst, William Blair
+Yeah. Okay.
+## Michelle Chang | CFO, Zoom
+Right.
+## Arjun Bhatia | Analyst, William Blair
+Maybe let's talk about monetization.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+ZoomMate-
+## Michelle Chang | CFO, Zoom
+Yep.
+## Arjun Bhatia | Analyst, William Blair
+-will be monetized.
+Maybe talk about where you are just generally on the AI monetization journey today?
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Because this is an evolution, right?
+## Michelle Chang | CFO, Zoom
+Yeah
+## Arjun Bhatia | Analyst, William Blair
+-of things that you've had. Yeah, talk about that and then how you see that sort of changing in the future?
+## Michelle Chang | CFO, Zoom
+For ZoomMate in particular or Zoom at large?
+## Arjun Bhatia | Analyst, William Blair
+ZoomMate in particular. Start with that.
+## Michelle Chang | CFO, Zoom
+Okay. Yeah.
+## Arjun Bhatia | Analyst, William Blair
+We can go other directions, yeah.
+## Michelle Chang | CFO, Zoom
+Look, I guess broadly, and we'll get back to this, to me, AI monetization, the true barometer has to be does it inflect your revenue growth all up, right? These concepts of just putting out big stats I think are a little dated.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+They can be good for flashy stuff, but ultimately what matters is does it inflect the overall revenue growth of the company. That's how we think about it. To answer the headline at a high level, yes, it's already inflecting our revenue growth. It's an important point of what's driving sort of Zoom's revenue growth inflection. I talked about how we put AI Companions. Think about that as that's the summary of the conversations in the meetings. That's the stuff that's included in our paid SKUs at no additional cost. That's our indirect monetization. ZoomMate is the horizontal play on top of that.
+It's a $20 SKU with some AI credits in it, meaning you have it per user per month, so you get that predictability with a certain amount of consumption to experience it, and then you'll have packs on top of it.
+## Arjun Bhatia | Analyst, William Blair
+Okay.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Interesting. I think your point on just it has to inflect the revenue growth.
+## Michelle Chang | CFO, Zoom
+Yes. Yeah.
+## Arjun Bhatia | Analyst, William Blair
+like that's the barometer for success. I think it's an important one. AI Companion has been included in your free plans.
+What has that done just from a competitive perspective?
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Is it driving more customers to the platform? Is it reducing churn? What are the positives that you see-
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+-from adding that value to customers?
+## Michelle Chang | CFO, Zoom
+Yeah, I think, look, we think about it on a couple of different lenses. Let me hit the competitive and then get back to why Zoom.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+Look, I think, at the time, Zoom took a differentiated position in putting it in our paid SKUs at no additional cost. That's things like meeting summaries, capture my actions, send the notes out afterwards. Those kind of, I join a meeting late, I can't join a meeting, I have access to be able to query with AI all the sorts of things that I would want to know. Look, that was differentiated at the time with the intent of really, look, Zoom is a very customer-focused company. Wanting our customers to really get in and understand what AI in a meeting scenario would look like.
+We're pleased with our results, but I think competitively, let me hit that, you've seen some in the market move to that, try to monetize and then move, and then I think there's others that have large CapEx bills that are hanging on more so to trying to monetize from step one. From our standpoint, we've taken much more like we want to get that virality of use in our customer base. We want them to be out there experiencing it. We want to start to create that meetings life cycle, in part because of some of the indirect monetization elements that you talked about.
+Like it will bring in new customers. We have quite a large free base at Zoom. We'll have some of that that may come into a monetization SKU. There's sort of the free conversion. Certainly creates more sticky and reducing churn. We've certainly seen a lot of this AI value bring in new customers.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+For us, we look at as barometers to success, indirect monetization, but also just getting that virality of usage. In our last earnings, we announced that our MAU was up 184%, been up 2x to 3x for many years or quarters since we've had it out. Something that we're excited about. We also announced this concept of My Notes. Think of this as your personal note-taker, granola-ish. You can have it even if the host doesn't want to turn on a note-taking capability. You have the ability to take notes at the same time, and we announced that My Notes, even four months into its introduction, has hit 1 million or 1.5 million.
+## Arjun Bhatia | Analyst, William Blair
+Interesting.
+## Michelle Chang | CFO, Zoom
+We're excited about a lot of the new scenarios coming to light.
+## Arjun Bhatia | Analyst, William Blair
+This all becomes searchable under one sort of-
+## Michelle Chang | CFO, Zoom
+Yeah
+## Arjun Bhatia | Analyst, William Blair
+-umbrella, which is, I think, a challenge.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+I mean, I personally have a lot with my current-
+## Michelle Chang | CFO, Zoom
+Well, we have this concept.
+## Arjun Bhatia | Analyst, William Blair
+Yeah
+## Michelle Chang | CFO, Zoom
+We call it Canvas, right. Think of it as, again, third-party meetings in person. Let's say you and I were just having a conversation. I could turn on My Notes, have it listen to the full context of our meeting. Teams, Google, Zoom, no matter how or where you meet because a lot of our customers meet on various platforms, even in the context of a day. Then all of a sudden, it's writing back to Canvas. You have literally every meeting that you've ever participated in. You have the meeting summaries as well as you have other things. All of a sudden, you have the richness of an AI dataset to be able to search over. I'm sure you meet with oodles of investors and clients and think about the power of what that can unlock.
+## Arjun Bhatia | Analyst, William Blair
+I think that sounds very valuable.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Okay. I want to touch on monetization-
+## Michelle Chang | CFO, Zoom
+Yep.
+## Arjun Bhatia | Analyst, William Blair
+-of now the sort of the upgrade path, right? Customers come in, you're saying AI sort of what you've embedded into the platform is driving new customers. It's driving a free to paid sort of conversion. Then you have this premium SKU with Zoom AI. What is getting customers to sort of upgrade? I would love to hear just maybe I hear about this, customers they're dealing with a lot of AI from a lot of directions.
+They're trying to figure out how to implement AI to get sort of practical value. Where are customers sort of in that readiness journey to upgrade from the free embedded Zoom AI capabilities to then a premium SKU? Are we still early on, or is this sort of even taking off?
+## Michelle Chang | CFO, Zoom
+I think the AI journey is still at a meta level early on.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+Look, there's some customers that are all in and embracing it and fully into that, and then there's others that are maybe more at like, "Okay, I want to try the My Notes SKU. I want to try the summaries. I want to try that-
+## Arjun Bhatia | Analyst, William Blair
+The experimentation.
+## Michelle Chang | CFO, Zoom
+-really our whole land and expand is about kind of providing an entry point, no matter where you are in sort of the maturity. If you want to go all in and we haven't talked a lot about Contact Center, but that's another huge-
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+-huge AI inflection point for us. We have that full platform suite, and then we have everything down to, "I just want to turn on Note Taker." I think at a meta industry level, we're early on. Look, it is, to just reemphasize my point earlier, it is inflecting our revenue growth all up already.
+## Arjun Bhatia | Analyst, William Blair
+Okay.
+## Michelle Chang | CFO, Zoom
+So-
+## Arjun Bhatia | Analyst, William Blair
+Let's talk about some of the other drivers, because you have also broadened out the platform quite a bit from just meetings to Phone, contact center, even internal sort of employee experience type use cases. Maybe we'll start with phones, since I think it's the biggest. You've announced it's past 10 million seats.
+It's sort of sustaining growth in the mid-teens. Where are we in the journey of sort of penetrating the Zoom Phone TAM, and how much more runway is there left for growth-
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+-in that product?
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+It seems like a big contributor.
+## Michelle Chang | CFO, Zoom
+Yeah. Our Phone business, you gave all the stats, so I won't reiterate. It's a great area of growth for us in mid-teens, and one where we're clearly taking share. Let me talk a little bit. I could give you the market stats, right?
+Like our cloud seats, they estimated something like $130 million+. On-prem, $150 million+. We're winning on both fronts, right? Let me maybe talk a little bit about why I think we're winning and seeing such continued share.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+There's all the traditional Zoom, a fast pace of innovation, strong quality, security, kind of all the customer ethos and innovation. Setting those aside, even though they're great. I think increasingly what you're seeing in Phone is winning on kind of three vectors, and I think you see this on a lot of the customer examples in our earnings remarks. We spend a lot of time doing kind of last-mile engineering to opening up some verticals, right? Which is really just you've got those scenarios. There are unique for those that maybe don't spend all their day on the Phone, there are verticals where this is a critical component. We've done some last-mile vertical engineering that's really opening up new markets. Second one is AI.
+If you can imagine if, and maybe for us that spend our day in front of a computer, it's a little hard to realize, but there's a ton of people that spend all day on the phone, right? Imagine having to summarize that with AI and all the voicemails and that. There's some really powerful AI examples that are turning out to be big wins for customers. Then the third vector is we're one of the only players in the market that has scale in UCaaS and CCaaS. This concept of the system of action is better together, and having that is a clear win. We're seeing a lot of our large Phone wins print in our largest Contact Center and vice versa
+## Arjun Bhatia | Analyst, William Blair
+Okay. Contact Center, you're actually, I think it was a year ago that you announced you've passed $100 million in ARR.
+You're actually seeing sort of displacements. I think you're seeing legacy, but also modern sort of CCaaS players.
+What's the sort of the edge there that you have? It's UC and CC together, but I'm sure there's others from, like, a product perspective there. Yeah.
+## Michelle Chang | CFO, Zoom
+Yeah. You gave the stat about the crossing 100 million. We've also continued over several quarters to grow at high double digits, meaning closer to 100, right?
+Even in the last two quarters, inflecting further.
+## Arjun Bhatia | Analyst, William Blair
+Yeah.
+## Michelle Chang | CFO, Zoom
+What is driving that? It's this concept of AI. Unlike a legacy player, this is, I think, one of the things that maybe we're continually out there talking to investors about. They look at like a NICE or Genesys, and they say, "Well, aren't you going to lose seats?" with agents. Zoom is coming at this in a very different chapter, with a fresh, modern AI perspective, where we don't have either the legacy tech debt or the legacy business models, and we come at it where it's, in essence, all creative. That's why we're taking shares. If you look at our top 10 deals, eight out of 10, and it varies, it's usually somewhere in between eight and 10 per quarter, are legacy CCaaS providers. You tend to not have the modern in the top 10s.
+We're winning in both. We're winning, as you said, on the sort of the UCaaS and CCaaS strength, and that's really a differentiator. Look, we also win on just the fullness and the strength of our platform. Our customers constantly say, "What we put on a list and ask a legacy player to provide, they tell us will be ready in a year or two, and you're able to deliver in three to six months." That fast pace of innovation, as well as that full concept of we've got a virtual agent. That virtual agent for Zoom is a relatively new entrant. It's an area where we spent a lot more time, so that's part of what is inflecting that high double-digit growth.
+We got a virtual agent, an AI-assisted agent SKU, now we've got this intelligence layer that I referenced earlier across the top. Look, we think it's that fullness of that platform as well as the UCaaS, CCaaS, as well as just strength in the product in general.
+That's really a differentiator for Zoom.
+## Arjun Bhatia | Analyst, William Blair
+Okay.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+I want to sort of bring it all together a little bit, because you have all these different growth vectors that are driving the business. You've said growth is already inflecting. I think in the past it was low single digits, now it's getting closer to mid-single digits. What are your aspirations for the business over time? What can the growth rate be? What do you aspire to
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+-get the business to operate at?
+## Michelle Chang | CFO, Zoom
+Maybe I'll do a little bit, because we haven't really hit on this before, but just some grounding in Zoom's business. 40% of our business is our online business. Think of that as solopreneur, SMBs. 60% is enterprise. Think of that as SMB all the way up to full Fortune 10. I separate this in our growth story because I think they have two different stories of growth. In online, this is the area where post-pandemic, we were declining. Right? We've worked very hard on stabilization. Right? We've taken it from declining 8% to flat to now last year, we took it to growth. I think that's a lot of that platform value.
+Some of it is just sheer distance from the pandemic. Close to 75% of our customers have been with us for over 16 months. It's a very different base. Now I'm getting super excited, and we'll start talking to investors more, but I think that path to land and expand in online is getting clearer.
+Bringing down products that already exist in enterprise and bringing them to online. We made a cool acquisition in Bonsai that's sort of like an all-in-one package for solopreneurs to get started on. That's CRM and billing and things like that. Adding with acquisition, stabilizing the base, and then bringing in AI value. Things like My Notes. When was the last time beyond a meeting limit that we had something kind of new and differentiated to sell that pre-base?
+I'm getting excited about a lot of the routes that we'll see in online. For right now, it's moderate, kind of low single-digit growth. That's how I'd think about that. Look, it's our enterprise business that's really going to be the differentiator for growth. That's where that full suite, if you will, of product differentiation comes in. That's where the fullness of our AI platform, the fullness of this vision that we talk about, comes in.
+Growth really comes from product diversification, AI monetization, and new routes to market. We haven't talked as much about channel. Zoom has been working very much to build out a channel. Essential when you're in sort of phone and contact center businesses. I think we're seeing great fruits of labor there.
+## Arjun Bhatia | Analyst, William Blair
+All right.
+## Michelle Chang | CFO, Zoom
+All right.
+## Arjun Bhatia | Analyst, William Blair
+That is all the time we have. Michelle, thank you so much.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Fascinating conversation.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Arjun Bhatia | Analyst, William Blair
+Thank you everyone for joining.
+## Michelle Chang | CFO, Zoom
+All right. Take care.
+Data Source: Quartr Last updated: Jun 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

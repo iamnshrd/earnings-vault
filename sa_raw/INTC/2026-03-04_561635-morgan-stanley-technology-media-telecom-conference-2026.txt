@@ -1,0 +1,269 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-04
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Great. Welcome back, everybody. I'm Joe Moore, Morgan Stanley Semiconductor Research. Very happy to have with us today Dave Zinsner, CFO of Intel. Before we begin, on behalf of Intel, please note that today's discussion may contain forward-looking statements that are subject to various risks and uncertainties and may reference non-GAAP financial measures. Please refer to Intel's most recent earnings release and annual report on Form 10-K and other filings with the SEC for more information on the risk factors that could cause actual results to differ materially and additional information on non-GAAP financial measures, including reconciliations where appropriate to the corresponding GAAP financial measures.
+## David Zinsner | EVP and CFO, Intel
+That was awesome.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah. Thanks. Welcome back.
+## David Zinsner | EVP and CFO, Intel
+Thanks.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+I guess it's been a little more than one year since the CEO transition, and it seems like there's a lot of style differences, and a little bit of substance in terms of the way you're approaching some of these opportunities, but still basically sort of this very similar strategy to where you've been. You know, can you just talk about the big picture, you know, is this major course corrections or small changes?
+## David Zinsner | EVP and CFO, Intel
+Yeah, I think you've got it right. I think it's, mainly it's, course correction. Although, I would just say, Lip-Bu is pretty focused on making sure we're not getting ahead of things in terms of our investment. He wants to see real signals that, you know, we can count on from a demand perspective before we're putting investments in place. You clearly saw that in the last couple of calls with investors.
+In addition, what he's done is he's really simplified the organization in a lot of ways, you know, obviously, we reduced the headcount, but we also significantly reduced the layers within the organization. He is closer to the lowest levels, and I think that's better. Decision-making is obviously better, but he also has more access to, you know, what's going on in the field, and that's helped out a lot.
+The third thing that he's done that has been, I think, really helpful is he. You know, Intel's, I think, traditionally has been a company that kept everything within the four walls of Intel, did not expose a lot of data and information to partners. You know, of course, you do that because you wanna, you know, maintain some confidentiality around things that are proprietary. What you lose is the ability for those partners to help you improve the whatever, in the case that I'm talking about right now, more like the process.
+He has opened up a lot of data to our partners, and I think that has really been one of the key factors in getting yields to start to improve meaningfully on 18A. You know, we've got, you know, several partners that help us in terms of improving yields, and yet they were dealing with, like, little to no data. I think that was a big improvement he's made.
+He also, you know, obviously, since he has spent a lot of time investing in the space, and in particular, more recently investing in the AI space, he has a unique view in what AI workloads look like across the ecosystem and, you know, what we could do that could be helpful that isn't directly competing with, you know, those that are entrenched competitors, but really things that are orthogonal or, you know, that really would make a big difference that really only Intel could do. Our AI strategy, I think, is forming in a way that, you know, perhaps is significantly different than it might have without him.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah. Interesting. Yeah, it seems like you've put a lot of focus back on the core business a little bit with AI's kind of more in the future, Foundry's a little bit more in the future and you're really focused on kind of the core product.
+## David Zinsner | EVP and CFO, Intel
+Yeah. Well, I mean, we clearly have work to do to get our product portfolio to where it needs to be. We've got work to do to get our processes to where they need to be. That is the most significant thing that we need to accomplish, you know, Lip-Bu is very focused on that. Like I said, he's very into the details, very. He has a kind of a style of kind of open communication that I think has allowed us to get more insight into where are the issues and how we can improve them.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Great. On the topic of process technology, Panther Lake being out on 18A looking like a good part seems like a really important proof point after, you know, the sort of five nodes.
+## David Zinsner | EVP and CFO, Intel
+Yeah, for sure. Like I said, I, you know, there's kind of a glide path you kind of move along that you would expect to move along from a yield perspective. You know, we're now at or even slightly better, on that glide path, across our 18A process. If, you know, things look good, we're also, you know. There's a lot of volatility, even though you have a yield like some wafers are yielding a lot less and some are yielding a lot more. He's actually focused a lot on trying to minimize the volatility of wafer to wafer, and we've made good improvement there.
+The process looks good, and I think, you know, we would expect a pretty steady yield progression as we go through this year, probably a bit ahead of schedule, quite honestly. Then, you know, Panther Lake as a part has been well-received, obviously. P articularly around battery life in particular. You know, band has been robust there. In fact, I think our bigger challenge is making sure we get all the supply to the customers. That's a great proof point to customers out, you know, external customers that 18A is a good, is a good process.
+While Lip-Bu was, I think, thinking that, you know, we probably should focus on 14A as a foundry node and make 18A really just an internal node, now that we've seen some real progress there, I think he's now starting to recognize that this is actually a good node to offer to external customers as well. We've been getting some, you know, kind of inbound interest in 18AP as a foundry node. So that--
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+That's great.
+## David Zinsner | EVP and CFO, Intel
+I think that's pretty positive.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Well, it's great to see that progress with Panther Lake. Maybe talking about the demand side, start with servers. I know it's tricky 'cause you've had some supply challenges, it's always hard to assess demand. It seems like there's a growing consensus that CPUs are really benefiting from AI, and that agentic things, once they're crafted with GPUs, the agents are run on CPUs.
+There's a lot of workloads. You know, how durable are you seeing that incremental demand?
+## David Zinsner | EVP and CFO, Intel
+Yeah. I think it's, I think that's, you know, the CPU has become cool again this year. We long believed that CPUs needed to kinda stay along with the GPUs in these data centers, and yet, like, a lot of the spending was, had moved towards GPUs and, you know, CPU on a unit basis was even coming down. We knew--
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Lisa Su may have used the exact same words about it.
+## David Zinsner | EVP and CFO, Intel
+What's that?
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Lisa Su said.
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+CPUs are cool again.
+## David Zinsner | EVP and CFO, Intel
+Yeah. Did she really? Yeah. Anyway, so I think that, you know, that, you know, this back half of the year of last year where we really started to see the pickup in demand really showed that, hey, you know, actually, as you move into, like you said, agentic, as we're looking at, you know, better orchestration, away from just, you know, running the LLM into the orchestration aspect, you know, all of that has to be run on CPUs. And, you know, we're seeing the benefits now of that. Units are up. I think units were up last year something like, from a TAM perspective, something like mid-20%.
+Year-over-year. You know, I think it's gonna be up again pretty meaningfully this year. We're starting to see customers come in in that space, asking for long-term agreements. That should tell you that, you know, there's legs to this. You know, they're looking at this over a, you know, three to five-year basis and wanna lock in supply with us.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Your strongest position server tends to be with more enterprise-centric cloud, you know, enterprise-centric or enterprise-centric
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+On-prem. Are you seeing also demand side from the traditional kinda cloud hyperscalers, and how do you sorta juxtapose that with Arm starting to encroach in that nose?
+## David Zinsner | EVP and CFO, Intel
+Yeah. Yes, I think across the board, the demand is strong. You know, I guess I would say, x86 is a really strong ecosystem and, you know, the customers and those are the users on the other side of this generally have spent a long time, you know, maturing their, you know, their networks with an x86 architecture. I feel very good about our opportunity. You know, there'll be other competitive technologies that make progress, I'm sure, mainly because the demand is gonna be so high and supply will be constrained. I feel really good about, you know, the x86 position.
+In fact, you know, if you look at the recent announcement we had with NVIDIA to partner between our CPUs and GPUs, that really was, in a lot of ways, an endorsement around the x86 ecosystem.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah. Maybe if you could talk about that deal. It seems really important to NVIDIA as well. You know, they've talked about bringing rack scale to ecosystems that aren't comfortable with Arm. That's a big part of why they're doing that deal. I mean, how big an opportunity is that for you guys?
+People sort of focused on that as like, "Oh, there's definitely a foundry thing coming." It seems like it's really around the product.
+## David Zinsner | EVP and CFO, Intel
+No, no, this was a really. This was a product focusing.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+The CEO said it, but
+## David Zinsner | EVP and CFO, Intel
+Yeah. It was a product-driven engagement between the two CEOs. It was, as you say, a lot of customers looking for an x86 solution and, you know, I think NVIDIA wanted to be able to offer that. Of course, for us, it's great to marry our CPUs with their GPUs. They're the best in the business for sure. That opportunity, you know, I think gives us a, you know, pretty good option to be able to capture, I think, meaningful growth from that business. you know, it's both a data center and a client product that we're talking about.
+You know, obviously, it's, you know, a couple years out before those products come to market, but so far the progress has been great.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah. Okay, great. Competitiveness within server, you know, Lip-Bu, I think, has actually done a good job of bringing a lot of humility to those conversations, and I mean that sincerely, that, you know, I think building credibility with the channel is really important w ith the cloud guys.
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+But he's also sort of been open that Diamond Rapids didn't do everything that he wanted it to do, and we need Coral Rapids next year to sort of retake share. Does any of that matter right now? I mean, you're coming out of such a supply-constrained situation that you should have a nice rebound as we get through that. You know, how do you think about market share in the server space?
+## David Zinsner | EVP and CFO, Intel
+Yeah. I mean, I think from a perspective of, you know, what we can capture, supply is going to be our greater challenge, certainly this year and probably even next year. You know, that said, we wanna bring out products we're proud of. You know, I think Lip-Bu, when he came in, he looked at the Diamond Rapids roadmap, didn't like that it wasn't capable of multithreading.
+You know, there were reasons those decisions were made. You know, Lip-Bu I think spends a ton of, you know. This is probably another thing that I think he's really good at, is listening to customers and taking that back and, you know, developing a roadmap based on that. He, you know, felt really strongly that we needed to be able to provide that. We'll have this hole in Diamond Rapids, but it's actually Coral Rapids, not Coral Rapids.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+I'm sorry.
+## David Zinsner | EVP and CFO, Intel
+Coral--
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Many Rapids.
+## David Zinsner | EVP and CFO, Intel
+Yeah, no kidding. Coral Rapids will, you know, we're gonna look to try to, you know, bring that in as early as we possibly can. There's only so much we can, we can do about that. In the meantime, there are parts. It's not like everything shifts over to a given product anyway. You know, we're still selling some of our products that we've introduced, you know, five years ago. We'll have plenty of opportunity to, I think, address the market with our portfolio.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Great. You talked about the supply constraints, which have been severe. I know you've gone through this a lot, but just to help us understand why they're so severe right now when the growth is not that high?
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+It seems like Q1 is the worst of your undershipping relative to demand and improves from here. Can you talk about that path?
+## David Zinsner | EVP and CFO, Intel
+Yeah. Well, I mean, first, the, you know, we build our plans based on, you know, the demand we get from customers and, you know, we started this obviously, as others did, see the signals in the back half of last year. That demand was going to be stronger. The challenge is the lead time. You know, by the time you start wafers and get those through, it's a couple of quarters before those products come out. You know, there's a time lag to it. In the meantime, you know, we were operating off of inventory that we had, but we've leaned that inventory out to the point where the first quarter really there isn't much in the way of finished goods.
+Lots of whip in the inventory level, but not much in the way of finished goods to be able to support that demand. You know, as we come out into the second quarter, things will improve. I would say, you know, wafers is part of the challenge around supply, but the industry is suffering shortages all over the place. You know.
+Memory, of course, you know about. Substrates, they're short. T-glass, it's short. I mean, there's a lot of things that are short across the board that all have to get caught up as we progress through the year. We feel pretty good that we'll be able to bring more and more supply online every quarter and things, you know, should have a relatively rapid improvement as we get through the year.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+You do feel like you're supply constrained for a while?
+## David Zinsner | EVP and CFO, Intel
+Certainly this year.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Oh, yeah. Yeah. Okay. That view that Q1 is the kind of worst undershipment.
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah. Okay.
+## David Zinsner | EVP and CFO, Intel
+I think we're good.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Then with regards to client--
+## David Zinsner | EVP and CFO, Intel
+By the way, maybe one other thing I'd just say is. You know, it's not like we're sitting on our hands. Yeah. We're operating these fabs at, you know, above 100% in terms of what they're spec-ed to supply, but there's an ability to get it even more above 100% if we can and that's what we're focused on, is squeezing o ut every wafer we can, from the system this quarter.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+I mean, there was a bit of a transition where it seemed like Intel 7 was kind of coming down, and then it became Intel 7 became the binding constraint for a lot of your business. Is that part of this as well, that you sort of there's more demand on the Intel 7?
+## David Zinsner | EVP and CFO, Intel
+Yeah. I mean, there's demand on. Okay. You know, things are tight of our foundries or processes. Keep in mind, you know, we're ramping two processes at one time. Basically, which is not typical for Intel. We have Intel 3 and 18A both ramping, and trying to catch up on the yields and so forth. That clearly is driving, you know, some of it. That said, you know, Raptor Lake, for example, which is an Intel 7 process, has great demand on it.
+You know, you gotta play the algebra here of, you know, what, you know, how much capacity you wanna add on that node, given that it's an older node and you're really trying to migrate customers into Intel 3 and 18A. We're, you know, kind of managing the shell game there. It will probably, as we've talked about, we are gonna be required to increase our wafer capacity on Intel seven ten, but we're gonna try to push customers also to take products that are on those newer nodes to smooth things out. The other thing is the more we can drive Panther Lake on 18A, since it's only client, that does free up the other nodes a bit.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay.
+## David Zinsner | EVP and CFO, Intel
+You know, obviously, we have more demand than we have supply on Panther Lake, but the more we can ramp that, the better we will be across all nodes.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Great. On the topic of client, I mean, you guys did talk about memory being something of a constraint to market growth this year. That seemed like at the time it was kind of more applying common sense to what's happening rather than something that you're seeing. Like, just can you update us on that? Does memory continue to be a concern for end demand?
+## David Zinsner | EVP and CFO, Intel
+Yeah, I think it, you know. My expectation is that memory is going to be short all through this year and probably all through next year.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah.
+## David Zinsner | EVP and CFO, Intel
+You know, given the importance of memory into data center and in particular into AI workloads, you know, it is going to create a more significant constraint in the client space for sure. You know, we talked about this on the call. Our expectation is that, hey, you know, in the back half of the year, you know, they're gonna suffer probably from the lack of memory. We've built that into how we're planning the year and what capacity we wanna bring online on given products.
+You know, we talked that we were gonna kinda, you know, kind of give up some of the small core in the client space, push into the mid and high end of the client space, but then, you know, try to push as much as we can into data center to make sure we can alleviate the constraints there.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay. you're sort of working through these constraints, but they're still a factor probably in all the businesses 'cause you're gonna build less for the client business as well.
+## David Zinsner | EVP and CFO, Intel
+Correct.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah. Okay. Then I wanna get to the external foundry prospects, just if we think about the foundry losses that are kind of weighing on you, a lot of the path to break even is not external foundries. A lot of the path to break even is just internal. Can you update us on that? How do we get those losses down? If it's just because you're charging this product group more for wafers, are we sure we're gonna see the improvement that implies?
+## David Zinsner | EVP and CFO, Intel
+It's a meaningful improvement in margins in 2026 versus 2025 for Foundry.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay.
+## David Zinsner | EVP and CFO, Intel
+You know, we-- Part of that is that, you know, we had a lot of like startup costs that we were running through the P&L, and now we're at a point where, you know, we're just ramping like, you know, kind of fabs that we've built out. Our expectation is that, you know, we should see some pretty good improvement in what we call our other cost of sales line, you know, this period cost line where a lot of those startup costs show. That should help, meaningfully in terms of gross margins for Foundry.
+On top of that, as you point out, you know, the newer processes, yeah, they get a better AC, but mostly it's around their cost structure is better for their performance. you know, the notion is that, yes, they'll be charging more for those wafers, but it's because it's worth to charge more for those wafers and the product company, part of the business, you know, gets that benefit. That will also help a lot in terms of margin.
+Obviously, you know, we're in the really early innings of 18A ramping in the fab. Those margins are negative right now and, you know, as they become more of the mix, it actually pulls the margins down a bit. As we progress through this year, certainly as we go into next year, those margins get better and better, which will also help. I think we still feel good about our original guidance, which is we expect to exit 27 at break-even operating margins for Foundry.
+The only caveat to that would be we're planning a certain level of external Foundry wins in that number. If it's stronger, it actually could count against us on the profitability side because we need to invest more, which would push the profitability out a bit. It'll be a good problem to have because that means w e're gonna have more demand in the out years beyond that.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+On that kind of process, you've seems like you're still committed to the potential of being a major foundry supplier, but you're not gonna spend the money until you have the customer commitments. Is that a fair statement and where does all that stand?
+## David Zinsner | EVP and CFO, Intel
+Yeah. To be clear, we are spending the money on all the R&D development associated with 14A, and that includes the CapEx investment for the R&D in 14A. you know, there's a pilot line that's gotta be put in place. We're investing in all of that.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yep.
+## David Zinsner | EVP and CFO, Intel
+What we're holding back on is the high volume and when to put that in place based on what we do in terms of customer wins on 14A. The engagements have been good you know, I think we're cautiously optimistic that this will be a successful node. We also have internal demand on 14A. Even still, I think we gotta think about that as part of the CapEx cycle. In addition, we have seen more engagement from external customers on 18AP as well. We're starting to see some demand there, which also could go hand in hand with this.
+The likelihood is we'll start to see some of this stuff fall into place in the back half of this year, maybe some of it into early next year, and then we're gonna have to, you know, make a assessment as to what that means from a CapEx perspective.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+The timing has always sort of been risk production 2028, volume 2029. I know there was confusion maybe around the call, but that's still the--
+## David Zinsner | EVP and CFO, Intel
+That's still the case. Now, that's more a function of what customers want.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay.
+## David Zinsner | EVP and CFO, Intel
+We can pull it in. For our internal, demand there, we have the ability to go risk production in 2027, which is likely what we're going to do. I guess if a customer wanted to do that at the same timeframe, we could do that.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Risk production can have useful output.
+## David Zinsner | EVP and CFO, Intel
+True. you know, right now from what we hear when customers. Remember, they gotta spend a lot of money when they're moving to a new node, you know, they're going to want to make sure that they're layering that into their product roadmap in a way that generates the best ROI. When they do that seems to suggest that it's more a 2028 to 2029 timeframe that they really need these kind of wafers.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+There was no delta around the quarter like that.
+## David Zinsner | EVP and CFO, Intel
+We haven't seen it. In fact, when you look at, you know, we plot out, yield and performance e ven as early as, you know, now on 14A, and we look at it relative to where was 18A at this timeframe. Where was Intel 3 at this timeframe, and we're actually ahead.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay.
+## David Zinsner | EVP and CFO, Intel
+Good news is that actually we could be seeing. Y ou know, one would hope, better performance for yield, than we have in the prior nodes.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+It kind of comes back to the execution's good, but there's more like humility about timeframes.
+## David Zinsner | EVP and CFO, Intel
+For sure, we've gotta make sure that, you know, these customers have unique requirements that go above and beyond just the process in terms of deal terms and so forth. We've gotta get all that pulled together to make it work.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Can you talk about EMIB-T and the advanced packaging technology as a Foundry offering?
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+It seems like that's a lot bigger than you originally thought it would be.
+## David Zinsner | EVP and CFO, Intel
+Yeah. Good point. You know, ironically, you know, this is probably the more interesting part of the Foundry business today, quite honestly.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah.
+## David Zinsner | EVP and CFO, Intel
+You know, there's of course, there's supply shortages. EMIB is actually great from a technology perspective relative to what's out there competitively. you know, you can get, you know, 30% more reticle limits. On EMIB, or EMIB-T. This looks like a great offering for us, and we've gotten, I think, really good engagement from customers on this business. Originally, when I was thinking about it and talking to investors, I was calibrating everybody to, "Hey, this is like a. You know, think about these wins in the hundreds of millions versus, you know, wafer wins, which would be in the billions. You know, that's the way you should think about it."
+Now I've since revised that because we're actually, you know, at the close to closing some deals that are in the billions of dollars per year in terms of revenue on packaging. Lo and behold, this is gonna be a, I think, a really good business for us.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+In that size, we're clearly talking about AI ASICs.
+## David Zinsner | EVP and CFO, Intel
+Yeah, of course. That's what's driving a lot of this, you know, because of the advanced packaging, this is what makes this so interesting in terms of an offering. You know, I think we'll, we're, you know, likely to see some announcements potentially even before that back half of the year in this part of our business. The gross margins for the overall foundry, we were targeting at about 40%. You know, that's kind of where we wanna have our run rate, gross margins land. You know, I think a lot of people think about, okay, wafers get better margins than packaging, and, you know, that's the way we should think about it.
+In reality, you know, of course, You know, you gotta get the technology up, and you gotta get the scale up, and so forth. You know, when it's running at kind of, you know, kind of normal state, the margins in this business should be just as good as the wafer margins.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay. You used to have some sort of lower end, lower margin packaging business.
+## David Zinsner | EVP and CFO, Intel
+We did. You know, that was a little bit like COVID driven, you know t hat wasn't about business we were looking to get in. We did a solid for some customers. You know, this stuff is, you know, got real capabilities and real advantages to customers that they're willing to pay for.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Billions of dollars in what timeframe?
+## David Zinsner | EVP and CFO, Intel
+It'd be out in that same timeframe that I talked about, potentially a little bit earlier the wafer business.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay, cool. gross margins overall, it seems like you have a lot of things going in the right direction over the course of the year to the extent that revenue can rebound, you get through these capacity constraints. You talked about startup costs coming down. any update and thoughts on gross--
+## David Zinsner | EVP and CFO, Intel
+Yeah, I think we should expect to see gross margins improve through the year. You know, my current thing is, A, we gotta get gross margins to start with a 4%.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah.
+## David Zinsner | EVP and CFO, Intel
+Once we're there, we can talk about where the gross margins go after that. There's no reason when you look at these businesses, if they're competitive, if the cost structure's in the right place, you know, with our margin stacking advantage, there's no reason why the margins shouldn't be significantly higher than they are. We've got, you know, near-term issues, obviously.
+What's it called, near-term headwinds that are, you know, because we're driving so many nodes through at the same time, we've got a few products that, you know, aren't at a competitive cost structure at this point that we have to improve. I feel pretty good. I mean, I think that's one thing. Another thing that Lip-Bu has really brought is a lot more focus on balancing, you know, bringing out products that have performance with products that actually have a cost structure that can be competitive as well. You'll see that in the roadmap as we progress. Wildcat Lake has got a great cost structure that's part of a Panther Lake offering.
+Nova Lake's cost structure is significantly better than prior prior products on the client side. On the data center side, you know, I think if we look at the Coral Rapids, you'll start to see a much different cost structure for that that will help drive better profitability.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay. In that timeframe, Coral Rapids is more second half next year?
+## David Zinsner | EVP and CFO, Intel
+Coral Rapids is out beyond this year.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah.
+## David Zinsner | EVP and CFO, Intel
+I don't. Yeah. This year, it's about, you know, kind of just getting Panther Lake up in terms of yields. Wildcat Lake is margin accretive, so that should help out, meaningfully as well. Obviously, the revenue drive, you know, we get fall-through, so the revenue improves, gross margins as well. We have a few things that kinda will work against us. We're selling a lot of Raptor Lake and some of the older server products that had better cost structures, so we'll our mix probably won't be as good, this year, which will be the headwind to gross margins. Beyond this year, I think that starts to improve as well.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Okay. Then puts and takes with regards to CapEx, given everything that's going on. You have a decent amount of tool spending this year. You have a lot of shelf space if you need it. Just how do you think about all of it?
+## David Zinsner | EVP and CFO, Intel
+Yeah. Exactly. We guided flat to down, you know, call it flat-ish in terms of capital spend. You know, we have a pretty big step off of spend on the clean room side, the space side, and we're actually increasing our tool spend this year versus last year, not surprisingly. You know, we got all the space, now we're tooling it out. I think we're pretty locked in, quite honestly. I mean, most of the POs had to be put in place already to drive the CapEx dollars for this year. You know, depending on when tools turn on and so forth might influence a little bit the CapEx, but for the most part, I think we have pretty good line of sight where CapEx will land this year.
+Right now, we're in the throes of trying to figure out, okay, now, you know, what does the CPU demand that we're seeing on the data center side look like over a multi-year period? What can we expect from a client perspective? What sort of wins are we going to get on the foundry side? That, you know, we'll layer all that in and build out a CapEx plan over the next few years that manages the capacity.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Great. I have one more question, and then I'll open it to the audience. OpEx, I think you talked about a $16 billion a year. you know, where are you investing more from an R&D perspective? What are the focus areas?
+## David Zinsner | EVP and CFO, Intel
+I mean, not surprisingly, you know, Lip-Bu kind of went back to let's make sure we get the core working appropriately. You know, a lot of the allocation is to the core products, and data center and client, making sure that, you know, they're performance driven, have the right cost structure. We are also obviously investing in the AI space in solutions that we think can be unique and competitive in the marketplace.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+That means kind of finding an area where you're sort of competitive rather than trying to take on NVIDIA directly.
+## David Zinsner | EVP and CFO, Intel
+Exactly. You know, we talked about the fact that we have our own now ASIC business, which actually, you know, we had actually a set of products that were ASIC products, we pulled together and, you know, kind of built the business around that. That business is gonna grow significantly this year versus last year.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah, you talked about $250 million a quarter. Is that more of the traditionally, I think of you guys, that's around the comm infrastructure space and stuff like that?
+## David Zinsner | EVP and CFO, Intel
+Comm infrastructure is part of it, but, you know, we have IPU selling into the hyperscalers. That I think is gonna be a good product this year. I mean, you know, we have a foundation. Now, is it down the fairway, you know, directed at AI? Not yet. I mean, we still have to work building out the IP, making sure we understand what customers really want us to do, and building products that solve those problems. I kind of like where that business is going to go just in the year that we've kind of reformed it.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Great. Well, let me see if we have questions from the audience. If not, maybe we could just touch on the board changes last night. It seems like you've sort of developed a board that has a lot over time, a lot more semiconductor expertise than what you had two or three years ago. Can you just talk about the change and anything that that may signal to us?
+## David Zinsner | EVP and CFO, Intel
+Yeah. Our most recent hire into the board, Craig Barrett , you know, obviously well-known in the semiconductor space, and, you know, brings a significant technical capability along with-- I mean, I've worked with him now for a few months, and it's been pretty amazing the depth of his understanding about the markets and so forth. I think that was a great addition. Frank, the Chairman is, you know, stepping down. Been at the company for 17 years, led a lot of changes that needed to happen. You know, it's not, I think after 17 years, not unusual that somebody would like to, you know, hang up the saddle there.
+You know, excited for Craig to come on to be the Chairman. I think he's going to be great. He had a strong relationship with Lip-Bu in the past. That's also I think helpful that, you know, they kind of see the world in a very similar way. I think can work together to, you know, to make the company successful.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Yeah. That's great. We do have a question up in front. Wait, can you wait for the mic to come this one time?
+## Speaker 3 | 
+In addition to the yield comments you've made, you've talked about increasing throughput. Could you elaborate on that and what the opportunity is there?
+## David Zinsner | EVP and CFO, Intel
+Yeah. And there's actually two parts to the throughput. There's a front end and a back end kind of aspect of the, of the throughput. As you might imagine, you know, when you're, when you're trying to like lock yields down and get on a kind of a steady path, you somewhat give up on the throughput a little bit to make sure that you're delivering yield. Our days per mask layer, kind of how we measure it, you know, has kind of eked up a little bit, just to get the yields to start to follow along the right progression. Now that we're there, I think looking at days per mask layer and trying to shrink that, I think makes a lot of sense.
+When you look at our number competitively and even year-over-year, it's not, it's not where it should be. There's certainly clearly opportunity there and I think that's one of the ways, you know, hopefully we can, you know, improve the supplies as we progress through the year is just by improving the throughput. So that's on the front end. The back end also, quite honestly, isn't, you know, at peak performance. You know, as we, as we build out, you know, what we need, across our network, we have, you know, maybe allowed some of that to atrophy a little bit.
+You know, Naga and Lip-Bu are very focused on how we can improve the back-end cycle times to get product out once it's through the wafer portion more expeditiously.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+I think we had another question. Just a really quick one, if we could.
+## Speaker 3 | 
+Yeah, a really quick one. Sorry. Perhaps I was a little late into the presentation. Perhaps you have already commented on that. Could you please comment a little bit about your 14A process, and especially when do you expect the PDK to be out? Thank you.
+## David Zinsner | EVP and CFO, Intel
+Yeah. We have, you know, obviously, less mature versions of 14A out today. Customers are working with it using, you know, running test chips through 14A. Our expectation as we get towards the end of the year will be at a maturity level for 14A that we'll get actual customer, yay or nay on the process. You know, we'll go from there.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+All right. We're out of time. We'll wrap it there.
+## David Zinsner | EVP and CFO, Intel
+All right. Thanks.
+## Joseph Moore | Semiconductor Industry Analyst, Morgan Stanley
+Thank you so much.
+## David Zinsner | EVP and CFO, Intel
+All right. See you later. See you. Bye.
+Data Source: Quartr Last updated: Mar 4, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

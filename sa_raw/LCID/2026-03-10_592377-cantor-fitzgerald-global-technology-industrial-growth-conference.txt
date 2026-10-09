@@ -1,0 +1,178 @@
+TITLE: Cantor Fitzgerald Global Technology & Industrial Growth Conference
+DATE: 2026-03-10
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Good morning, everyone. I think we're right on time, so we'll go ahead and get started. For anybody that doesn't know me, my name is Andres Sheppard. I'm the lead equity analyst here at Cantor covering mobility. I'm a little biased, but we have an incredible panel ahead of us, upcoming. We are joined today by Marc Winterhoff, he is the Interim CEO at Lucid, and as well as Taoufiq Boussaid, Chief Financial Officer. For the purpose of today, I'll lead the conversation. I'll ask some questions, but I ask of the audience, let's try to make this interactive. The less I talk, the more fun it is for me. I may call on the audience to ask some questions. If we don't have any volunteers, then I will be calling blindly on people. Consider this your warning.
+All right, with that, maybe we get right into it. Thank you so much, first of all, for being here. Good morning. Thank you for joining us. I know it's been a hectic week as we have the Lucid event as well later this week, so really appreciate you both being here. You know, Mark, maybe to start with you. Last year, Lucid produced about 18,000 vehicles. For this year, you recently guided that production to increase to between 23,000 and 25,000. Just maybe talk to us about what kind of improvements you're seeing in production and what kind of gives you confidence to continue to ramp up.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah, I mean, first of all, thanks for having us here. We're excited to be here. I mean, when you look at Q4, what we produced or how we increased the production last year, just from one quarter to the other, over 100%. The rate that we were producing in Q4 is actually on the level that we would need to get to between 25 and 27,000. That makes us very confident that our production system can actually deliver what we guided for. I mean, if you go back to last year, I mean, we all know it was a very challenging year for the automotive industry, particularly because of, you know, new tariffs coming in and then, you know, shortages.
+First it was magnets, then it was aluminum, then it was chips. You know, everything that you can think of happened, and therefore it's really about the supply chain that you know needs to work out. I said it a couple of times last year, at the end of last year saying, "Hey," when I was asked, "What do you wish for 2026?" I said, "Not another 2025." Well, when you look out the window, it's challenging, let's put it that way. We're confident that we can make what we guided for.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Excellent. I guess, you know, last year you unveiled your second vehicle, right? The SUV Gravity, which has gotten some great feedback.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+from both investors and consumers. As we think about production for this year, how are you thinking about kind of that unit mix between the Air and the Gravity?
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah, I mean, mainly what we see with the Air is, you know, it's almost like relatively flat. I mean, we're expecting a little bit of increase, but that's more because we go into new markets, new international markets. But when you just look at the segment, it's not growing. The large sedan segment is not growing. It's actually contracting in some areas. We're expecting this to stay flat. The vast majority of our additional production and then ultimately deliveries we expect to be Gravity, which already happened end of last year, in the fourth quarter, where the majority of our vehicles were actually Gravities.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Got it. You know, so I think Gravity, the SUV, that represented not a change, but maybe an improvement in the business in that you expanded into the SUV segment. How critical is Gravity for Lucid over the next 12-18 months, would you say?
+## Marc Winterhoff | Interim CEO, Lucid Group
+Well, you wanna take that one?
+## Taoufiq Boussaid | CFO, Lucid Group
+Yeah. I mean, Gravity is very important. I mean, for a very simple reason. I mean, it comes with a significantly higher ASP. The mix contribution in our overall performance is very significant. That's why, I mean, we will keep pushing the numbers in terms of production for the Gravity. The market and the segment where it belongs is much bigger, as Mark has explained, than the sedan. We see the potential there. It's about capturing additional customers. We have some good catalysts coming from the fact, as you said, that the feedback and the way the product has been received so far has been great.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Mm-hmm.
+## Taoufiq Boussaid | CFO, Lucid Group
+Yeah, we do see a positive momentum.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Mm-hmm.
+## Taoufiq Boussaid | CFO, Lucid Group
+to achieve the target that we have.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Excellent. Well, thanks, Taoufiq. I wanna maybe now switch gears to what I believe it to be a kind of a core focus for Lucid going forward and something that's very topical in the industry now, which is autonomy.
+## Taoufiq Boussaid | CFO, Lucid Group
+Mm-hmm.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+You know, Lucid recently disclosed a partnership with both Uber and Nuro to kind of ramp up autonomy. Can either of you maybe just tell us a little bit about that? What led to that partnership, and kind of what are you excited about there?
+## Marc Winterhoff | Interim CEO, Lucid Group
+What led to it is basically that, Uber, you know, scanned the market. You know, who are the automotive manufacturers that they can help them to stand up a robotaxi within 18 months? That was basically the North Star, you know? What can we do in order to make this possible from starting mid of last year until the end of this year when we plan to actually provide a vehicle that then can go into commercial service? That was the starting point. They scanned the market and then they in the end, you know, chose us, said, "Hey, you know, we have a L4-ready vehicle where most of the underpinnings are already there." Almost like you put this tiara from Nuro on top and off you go. It's a little bit more complicated than that, obviously.
+All of the things that are in the car, you know, how you know, the actuation and then the failover redundancy, all of those things are already in the car, so there was not much to do on that, on that side. After seven weeks when we aligned on the collaboration, we had the first car running already driving autonomously in a testing site in Las Vegas. We have just delivered all of the engineering testing vehicles. We're well on track to achieve what we said we would.
+Yeah, I mean, in general, it is really about the capabilities of the vehicle, the luxuriousness as well, you know, and to provide a different offering than what is already on the market. Last but not least, the efficiency, because in the end, when you think about it, this is all about utilization and uptime. It's not so much about only the joy of driving. I actually wanted to mention this. I hope everybody gets the chance. Here in the big tech industry, there is a studio. Do the test drive in the Gravity, because the Gravity is not only an efficient car for the size and the segment, but it's an awesome car to drive. It's a lot of fun, and I think that is an important piece as well.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+I wanna maybe add to that. For any ICE vehicle fanatics here, or maybe EV skeptics, you know, anybody that has maybe that range anxiety concern, Lucid made, you know, a record of about a year ago, I think it was, a year and a half ago now, with 520 miles of range in a single charge. Kind of squashing any range anxiety skeptics that we may have here. Taoufiq, I wanna maybe come back to you. Help us quantify further this partnership with Uber and Nuro. I think it's for roughly 20,000 vehicles. Over what time period, and how will it work? Is Lucid essentially selling the vehicles to Uber, and they will then integrate them into the fleet? Just maybe a few more details there.
+## Taoufiq Boussaid | CFO, Lucid Group
+No, no. Yes. It's 20,000 units over a period of 6 years, but I think there's just a small caveat. Obviously, 20,000 over 6 years is a drop in the bucket for us. I mean, we do believe that this is a first. It's a start. The first 20,000 units will be serving a very limited number of cities. It's a reasonable expectation to assume that this figure will grow in the future. The way the setup currently works is that we provide the vehicle part of the integration as well. And as Mark has said, I mean, the cars are already fit for purpose, so the level of integration is minimal.
+That's the setup as of today. Things might evolve in the future.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Maybe I can add to this because, regarding the 20,000 and, you know, this being a start, when you think about it, you know, quite honestly, and I said that actually before, we probably wouldn't have done it if it would only be about 20,000. We looked at the whole robotaxi market. Is it now finally becoming real? I think there is a growing consensus that, you know, we're now at an inflection point where the technology is finally there. By the way, we think it takes a little bit more than a camera, but that's, you know, a different story. Now it is, you know, really starting to make sense. We made the decision to go into that market, which is my.
+I always frame it as an extension of what we always did before. Because remember, we talked about licensing and offering our technology to others. When you look at it, what that is right now, this particular arrangement, it is doing exactly that on the largest scale we can. It's a full car. It's not only that, it's also the car is completely built on our production lines, so there's not an upfitting done afterwards. It comes off the line, software update afterwards by Nuro, and that's it. There's nothing else that needs to get done. We really see this as a starting point, and our plans with Uber and with others go much further than that.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+I think maybe then to build on that, it sounds like this 20,000 partnership with Uber is just the start. I guess my question is how important is autonomy for Lucid? What is maybe your longer term vision? Maybe, if I may, how would you say it's different from, say, somebody like Rivian?
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah. For us, autonomy is very strategic, and actually in two dimensions. One is personally owned vehicles, because we also will go towards autonomy with personally owned vehicles. That is a market that is already there. Pretty sure that, you know, if somebody would be able to provide that in their vehicles tomorrow, many people will buy and pay a lot of money for that. Yeah. That's one area, and we're doing that as well. Obviously not with Uber and Nuro. We have another partnership with NVIDIA for that. The other piece is the robotaxi market. This is also, as I just mentioned, this is now becoming strategic for us. It's basically another leg to stand on, so to speak.
+It really increases also our addressable market, because before we were in basically, you know, personally owned vehicles in the luxury segment, which is a relatively small market. Now with the upcoming midsize, it will be significantly larger. Then you add robotaxis to it, then it becomes even larger. It's really a strategic topic for us, and that's why we wanted to be among the first, and that's why we also designed the cars the way we're designing it, in order to make it ready to be among the first.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Very helpful. I wanna maybe switch gears, again if we may, and talk a little bit about midsize. I think that's obviously gonna be a key focus for Lucid going forward. For the audience, midsize is yet to be unveiled, possibly this week at Lucid's event. We don't yet know what it looks like, but we do have some details around it. I guess, what can you tell us about it today that you've disclosed to the public before, and how, you know, how material is that, would you say, for Lucid's near term to medium term growth?
+## Taoufiq Boussaid | CFO, Lucid Group
+Yeah. Obviously, I mean, I mean, midsize is a pivotal time for us. I mean, we are talking about a platform which is meant for scale. The philosophy of the design for midsize is radically different from what we have done so far. It's a car which is leveraging Lucid DNA, while at the same time being designed for cost. This is really one of the key component and the key differentiator. It's a car which is meant to be done for cost, more easy to produce, and that we can scale with a high level of certainty, de-risking some of the learnings that we had from the Air and Gravity. That's the philosophy for the midsize. Why it's pivotal?
+Because it represents a market and it's meant for a market which is radically different from what we have been dealing with so far. That's why we're very excited and yeah, we're really looking forward for the start of the production.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Oh, go ahead.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Let me add to this because it's. I mean, it comes down also to the price point. The price point will start below $50,000. When you think about where, you know, the market, the average price of a new vehicle right now in the U.S. actually has surpassed $50,000 a couple of months now ago. So it's right in the middle of the market, and it's opening a much bigger addressable market and customer segments for us. I think the other important point is midsize is a platform. It's not just one vehicle. We're trying. We're not trying to solve, you know, world hunger with one car.
+It is really, we think that with more vehicles coming into the market, we actually have to be more focused on the various tastes or preferences of customers. That's why we designed it as a platform where we can build different top hats, that's how it's called on top of it. With very limited change. I mean, between the first two, most of the parts are actually the same, the first two variants that we have. That allows us economies of scale, and it allows us also to do things relatively quickly.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+I think that's a great point. I guess as we think about the midsize now, Taoufiq, I wanna maybe go back to something that you said which, you know, resonated, which is talk a little bit more about how Lucid can maintain its performance status with a midsize platform, which as Marc just said, will be priced around $50,000, while at the same time improving margins. Have you found some secret sauce that somehow works?
+## Taoufiq Boussaid | CFO, Lucid Group
+I think we did.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Okay.
+## Taoufiq Boussaid | CFO, Lucid Group
+I think we did. I will not go here today in the details. I mean, we will be discussing the unique economic rationale during our events. Starting with the philosophy of designing a car, having the cost in mind, and leveraging the thing that we do well, the efficiency, the great engineering that we have, simplifying the way we design the car, has really led us to a very sweet spot where we're confident that at the $50,000 or below price mark, we can deliver very good level of margin. Add to that the effects that it does in terms of scale, fixed cost absorption, and so forth. Yeah.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Would you say is it fair to think of the midsize platform as kind of Tesla's Model 3, Model Y, in the sense that that'll be your high volume, lower priced vehicle tailored to maybe a bigger target audience? Is that kind of a-
+## Taoufiq Boussaid | CFO, Lucid Group
+Well.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+With better performance and longer range and.
+## Taoufiq Boussaid | CFO, Lucid Group
+Well, we kind of pride ourself in being a kind of anti-Tesla Model Y and things like that. Yes. I mean, to answer your question in a simpler way, I think that if you think about it in terms of size, segment, and things like that, price points, yes. Again, with what makes Lucid DNA, that's probably the key differentiator.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Do you foresee integrating autonomy into midsize maybe initially or eventually? How are you thinking about combining autonomy with the midsize platform?
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah, absolutely.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Okay.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yes.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Absolutely.
+## Marc Winterhoff | Interim CEO, Lucid Group
+I actually can say a little bit more than that. Because again, in both directions, for personally owned vehicles, the midsize is actually the first platform that we want to bring completely to L4, to full autonomous driving. Why is that with the midsize? Because it requires some changes on, you know, camera placement and sensor placements. And if we would do this now, you know, with the Air or with Gravity to get completely to L4, that is quite an investment. We want to do this now because now we have the level of freedom with the midsize to still do that. The midsize will actually be the first one that we're driving all towards L4. It's already pre-prepared for that.
+That's the personal autonomy topic. It's a perfect platform actually for robotaxis. Because as you think about it, you know, from an MSRP point of view, cost point of view, it's much less expensive than the Gravity. You know, we have conversations, obviously, when we talk with people out there in the market. We're not talking about, "Hey, can you build another Gravity at scale?" A robotaxi, we always talk about what can you do with the midsize. The midsize platform is so flexible that we can do different things. We can, you know, shorten the wheelbase, we can make it even lighter. Those kind of things we are working on right now in order to make it even better fitted.
+When it comes to what is in the car and how it is prepared, everything is ready to go in the midsize L4.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Makes sense. We have a little over 10 minutes left. I will ask maybe two or three questions, and then we will turn it over to the audience. Do prepare some questions. I guess let's switch into maybe I think one of Lucid's biggest differentiators is your relationship with the PIF, right? With the sovereign wealth of Saudi Arabia. Talk to us a little bit more about that. How is that relationship going? What do you see as the biggest benefits from it? Maybe if we can just tie into that, the fact that you are building your second facility in the region, the fact that you also have a contract with the government in the region.
+Just tell us a little bit, kind of at a high level, how that relationship is and then we can expand from there.
+## Taoufiq Boussaid | CFO, Lucid Group
+Yeah. PIF is a strategic and financial investor. In that aspect, I mean, it's great to have someone who belongs to the financial aspect, has also a shared common vision, and has the same ambition in terms of technology, and so forth. We have a great working relationship with them. We are a financial priority for them, but we are also a domestic priority for them, because as you said rightly, I mean, we have a manufacturing facility in the kingdom, which is strategic. It will create jobs, it will bring new technology to the kingdom. Obviously with the PIF being behind it's a very strong catalyst to make things happen. It's a great relationship.
+They have been very supportive, so far. We share the same vision, and I don't want to speak on their behalf. We spoke with them actually recently, so.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Yeah, that's right. We did actually have a chance to speak to the PIF directly and, you know, as it pertains to the relationship with Lucid, a big core focus based on our conversations is their mandate to diversify the kingdom beyond oil. It does help that they're fanatics of the vehicles as well. Maybe just give us an update on where are you on your AMP-2, your second manufacturing facility. Remind us what is the timeline for that and what will that do to your production capacity?
+## Marc Winterhoff | Interim CEO, Lucid Group
+Well, AMP-2 is on track to be ready to go for the SOP of our first midsize model by the end of this year. It's all still on track. I mean, you might now ask, okay, what are the current, you know, events in the region, you know, change on that? So far everything remains the same. Obviously, we don't know how things are developing, but so far the impact I mean, it is on the other side of Saudi Arabia, you know. In Jeddah, it's not necessarily closer to Iran. Right now we don't see a lot of impact there. We're confident that, you know, we can just continue with getting everything ready. The capacity that we're planning to build there is 150,000.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Say again? 150-
+## Marc Winterhoff | Interim CEO, Lucid Group
+150,000. Yeah. It will always all the vehicles being built there will be actually the midsize, different versions of the midsize. We're not planning to have full production. We actually have a so-called SKD production already for the Air and Gravity there, where kits that we are building first here in Arizona go to KSA and then are being reassembled. That's already in production since 2 years. Full build up will be midsize only.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Got it. Taoufiq, maybe, one more for you. Remind us the Lucid contract with the government of Saudi Arabia, what is that contract for? How many vehicles? What's the timeline? How's that going?
+## Taoufiq Boussaid | CFO, Lucid Group
+Yeah. Over time, the contract is expected almost to deliver 100,000,
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+100,000 vehicles.
+## Taoufiq Boussaid | CFO, Lucid Group
+100,000 vehicles. The deliveries have already started obviously with the Air and the Gravity. The big bulk of the deliveries will be with the midsize or the different iterations of the midsize. It's fair to assume that there will be a ramp up of these deliveries once the midsize is out.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Midsize is a big part of this contract. Is that fair? Midsize and Gravity, is that maybe more so than Air? Is that fair?
+## Taoufiq Boussaid | CFO, Lucid Group
+Yes. I think it's fair to assume that.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah. I actually need to correct that. Signed is 50,000 with the option to 100,000.
+## Taoufiq Boussaid | CFO, Lucid Group
+Yeah. That's correct.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+50,000 with the option-
+## Taoufiq Boussaid | CFO, Lucid Group
+Plus option of 100,000, yes.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+All right, so we've covered production, we've covered midsize, we've covered Gravity, we've covered the PIF relationship. With that, we're gonna open it up to the audience. Let's see if we have any volunteers for questions. As I said before, if we don't, I will call out on. I know a lot of you, so. All right, we'll start here.
+## Speaker 4 | 
+Yeah. Going from a low volume ultra-premium vehicle to now a mass-market vehicle, that's sort of a big change in the supply chain. What have you guys done in order to kind of, ensure that that roll-out is efficient?
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah. First of all, I would caveat the term mass market because we still will be a premium product, if you are in the below $50,000, but it's still compared to, let's say, what I would call mass market, is still in a premium sector. The volumes are significantly higher. You're totally correct with that. The main thing, what we have done is not only on the supply chain, but also on basically simplification of the vehicle. Yeah. The Air and the Gravity is really our engineers put a lot of thought and a lot of technology in those vehicles, with also a lot of parts. When you look at the part numbers of the midsize, even versus, you know, current competition, you will be surprised.
+I'm not revealing this today because we're going to talk about this at the Investor Day in two days.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+2 days.
+## Marc Winterhoff | Interim CEO, Lucid Group
+In New York. It's a completely different concept to make things much more simple to procure but also to produce. We really started with the midsize platform with a blank sheet of paper and not a lot of carryover from Air and Gravity, because then you would have not been able to get down to the level of the bill of material cost and the unit cost as we are right now. Again, we are sharing more information about that at the Investor Day in two days.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Other questions. No. I call you again. Anybody else? Yeah.
+## Speaker 4 | 
+You guys talked a lot about how the midsize will incorporate a lot of autonomy and different partnering with NVIDIA and everything along that. Can you talk a little bit about the partners that you might incorporate on the ADAS to push this to consumers? Because midsize is a pretty large commitment to make without high autonomy. How do you imagine that playing out?
+## Marc Winterhoff | Interim CEO, Lucid Group
+I mean, first of all, a lot of things on the technology side when it comes to autonomy have changed. Right now the plan is to have, again, still one lidar. Yeah. Not more than that. Maybe the question relates to, you know, the cost for all this. It came down drastically. We have also our arrangement with NVIDIA helps us with actually reducing the BOM costs on the compute side. It is something that is now in an area or in a cost point that actually makes sense to roll out to the personal vehicles as well. Yeah, all in all, I think, you know, it really.
+We still use lidar, several radars and cameras, so we really believe that this is necessary to be a full, safe, level four vehicle. Yeah, other than that's mainly what I can say. Yeah.
+## Speaker 4 | 
+Jalen Brunson is buying a Gravity or is he driving one?
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Pardon me? Jalen Brunson. What was the question?
+## Speaker 4 | 
+Is he buying a Gravity or is he driving one?
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+The basketball player for the New York
+## Marc Winterhoff | Interim CEO, Lucid Group
+I know. I know who he is.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Yes, I hope so. Yes.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah. Otherwise, I don't know. I shouldn't know what we're doing in marketing.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+You know where we are. Yeah.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Yeah.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+You know, maybe with the last minute and a half here, I want to turn it back over to you, Mark, and to you, Taoufiq, just for any closing remarks. Anything you're looking forward to, anything to share with investors. You know, obviously some big catalysts coming this year with midsize, with robotaxi. Just any closing remarks you'd like to share.
+## Taoufiq Boussaid | CFO, Lucid Group
+I think that there is currently a bear case when it comes to EV. I think that same as with our company, I think that the overall sector is also going through a pivotal moment. I think that some of the assumptions, bear assumptions attached to the EV probably it's the right time to reassess them. I think that there is stronger every day evidence that the growth potential for EV, not as, you know, a segregated product in opposition to the ICE, but more as something which is a complementary technology bringing completely differentiated competitive advantages, value and so forth versus ICE. I think that we need to reassess probably a bit more in detail the case when it comes to EVs.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Excellent.
+## Marc Winterhoff | Interim CEO, Lucid Group
+Maybe I can add a few words on that. Well, first of all, I would like to really double down on what Taoufiq just said, because if you look at, I always look at the EV market as a typical new technology adoption curve, so-called hype cycle. We are now in the trough of the hype cycle. From here, even if you look at the projections, we will continue to grow. EVs and everybody in the industry, even the incumbent OEMs are saying that it's a long-term future. We think doubling down on it is right now the way to do it. Even today, if you compare particularly our vehicles, a little bit of marketing here to internal combustion engines, and I posted yesterday something about that.
+If you compare the specs and the capabilities of the vehicle, you actually get more for less money. If you look at our Gravity and compare it to the real comparable vehicles, it's a bargain. I think that is something that we actually need to make clearer, that because right now everybody thinks, you know, EVs are so expensive and they have a downside. It has more range than any of the other comparable ICE vehicles have in the tank. Yeah. Granted, you can obviously refuel faster with an ICE vehicle. I fully understand that. After 45 miles, chances that somebody needs a break is pretty high. I'm really wondering why this is such a big topic.
+We are very bullish on EVs in the mid and long term, and we will get through where we are today. You know, everybody expected that. On top of this, now we have autonomy as a big topic, which is also a big catalyst for EVs, because they are basically, you know, made for being a robotaxi, whereas with ICE vehicles you can't really do that. We are very bullish and I hope, you know, people start thinking about it that way.
+## Andres Sheppard | Senior Analyst and Managing Director, Cantor Fitzgerald
+Excellent. Well, thank you very much, Marc. Thank you very much, Taoufiq. That concludes our podcast.
+Data Source: Quartr Last updated: Mar 10, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (4) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

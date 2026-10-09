@@ -1,0 +1,301 @@
+TITLE: MoffettNathanson's 2026 Media, Internet & Communications Conference
+DATE: 2026-05-13
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Well, I'm excited to have Dan Jedda with us. I said before it's first time, long time. First time Roku's been here. Thank you for being here.
+## Dan Jedda | CFO, Roku
+Yeah, thanks for having us.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+I appreciate that. Yeah.
+## Dan Jedda | CFO, Roku
+We're very excited to be here. It's my first time.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+It's great.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Well, well, you know, I don't usually offer praise, but I have to. This is my first question, right? You joined Roku in May of 2023, and three years in, your impact on the organization has been tremendous. It really has been. We've been skeptical of the company. You've proved us wrong in terms of the way you've operated it. Thanks for being here. Given all that's changed for the better at Roku over this timeframe, can you share now your biggest opportunities and priorities? Like, now that you've done what you've done, what are you focused on to improve, and what are your priorities?
+## Dan Jedda | CFO, Roku
+First of all, thank you for the nice introduction. Very thoughtful. It's been an amazing three years. I just hit my three-year anniversary; I'll answer that question. Let me just quickly give me a minute to talk about the migration of Call It over the last three years because it really has been transformational. Like, Roku is a fundamentally different company today than it was three years ago. Not because of me, because the whole company. I've only been there for three years; I want to just give me a minute to talk about that transition, and then I'll answer that question directly.
+If you go back to the second half of 2023, which is when I started, as I came in, you know, Roku was a very device-centric company, still is, with a growing scale of, at that time, I believe it was around 80 million streaming households. Now we're 100 million streaming households. The focus on scale was there. There was less of a focus on monetization at that scale, and that is the pivot that the company has undertaken over the three years. I'll give you a couple examples. Like, in the advertising business, like, Roku was very focused on its top, call it 200 big advertisers. It was directly Salesforce-led. It was focused on getting more from the top brands, as many companies were.
+The M&E space, the media and entertainment space, is the space you're very familiar with, also as a vertical. That was the focus; that is a relatively small number of advertisers. Fast forward to today; we're very diversified. We added more ad product. We diversified by integrating with demand-side platforms. In 2023, we had our own demand-side platform called OneView at the time. If an advertiser wanted to come via a DSP, we forced them to come through our DSP, which, again, was very limited. We basically said, Hey, let's open this up. Let's bring in more advertisers. Let's skate to where the puck is going, meaning programmatic, the shift to programmatic.
+Like, Let's be the best at both the programmatic pipes as well as the direct sales led. We added more ad product focus on this. We integrated with all the DSPs. We tapped an entirely new market, entirely new TAM, through the Ads Manager focused on SMBs. I'm sure we'll talk about that. We basically really focused on where this market was going. From that standpoint, we're fundamentally different now. We did the same thing on the subscription side. It was not heavily focused on subscriptions in 2023. As we exited 2023, now that we right-sized our cost structure, we said very clearly externally, We are going to focus on subscriptions. We're going to make this a real revenue stream that's going to grow tremendously. We added new subscription product. We focused on premium subscriptions.
+We brought in the leader of subscriptions to do just this, and we included it in our home screen changes. We put personalization that drove subscriptions. Fundamentally, we're just a very different organization. I'll just end by saying we reallocated capital to invest in these areas to grow them, not went out and hired a lot more people. We said, Listen, we have plenty of capital. Like, we really just reallocated to what we thought was our highest ROI initiatives. Now, to answer your question, we're still focused on all that. Increasing diversification of demand, going deeper within demand-side platforms, adding new ad products, like on our home screen, looking at our new home screen and how it can drive both engagement and monetization, new subscription product, new countries. We just launched premium subscriptions in Mexico.
+We'll eventually launch more countries. We're building that now. Basically, we are focused on all these initiatives across the company, and that is where a lot of our, a lot of our allocation of capital goes, which, again, is just fundamentally different than three years ago.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Okay. Another fundamental difference, which I think was really important, is improved transparency on revenues. You've given us now advertising and subscription revenues. You eliminated or made it more easier to understand ASC 606, you know, revisions. Why'd you make those decisions? There are other changes you see coming that you're focused on to make it more transparent and easier to understand company from the outside.
+## Dan Jedda | CFO, Roku
+Right. First of all, the ad business is complicated enough. Like, you want to actually make it simple and easy to understand for our investors. Some of the changes: We talk about this internally a lot, specifically within my org, but even across the companies. How do we make it easier for advertisers , so for investors to understand our business? One of the reasons we did adjust ASC 606 'cause it was extraordinarily complicated, and excuse me, we were able to simplify that. On the segment reporting side, we've been working on that for about a year. Very excited that we rolled that out. Even that we took to the next level. Like, we even debated, should we just give revenue out?
+No, we said no, like, we want to give revenue and gross margin out because it's gonna help our investors understand not only how we've diversified our revenue streams, but also there's fundamental differences between these two new segments. We are constantly asking ourselves, how can we give our investors and potential investors the information to understand our company but also not give out too much competitive information.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+which I'm very sensitive to as well. We drop a lot of data points along the way. We're always talking about what more data points that we can drop so people can understand our business, and the segment reporting is something I was very excited to do. You know, it was not obvious, but I did feel that people didn't understand how big the subscription business was.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Dan Jedda | CFO, Roku
+We thought it was important to tell everybody, and so rather than just drop a data point on it, we said, Hey, let's just break this out and let's start reporting on it. Similarly on the margin side, I constantly would say, Hey, ad margins are not going down," you know, because we're blending out to 51%-52%; that's down from 56%. The common thought was, you know, lower CPMs are driving ad margins down. Integrating with DSPs is driving ad margins down, despite my telling everyone that's not what's going on.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+Within the platform business. Ad margins are doing very well. Integration with DSPs does not drive margins down. Lower CPMs for us do not drive margins down. Now we're showing that in the advertising business, of course. We just reported just over 60%, which is up 450 basis points.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right
+## Dan Jedda | CFO, Roku
+From a year ago.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Is there anything that you want to tease that potentially is coming down the road in terms of changes? Anything?
+## Dan Jedda | CFO, Roku
+The only thing I'd say on this is we optimize very effectively for gross profit dollars and gross margin. Within advertising, we're getting very good. Not all impressions are created equal, not all DSPs are the same, and so we optimize our floor pricing across our inventory. We optimize our floor pricing across demand -side platforms.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Okay.
+## Dan Jedda | CFO, Roku
+Basically maximizing the demand and the gross margins. We fill our highest -margin inventory first. We have algorithms built to do this. We're very good at optimizing for both revenue and gross profit.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Okay. I focus on this because there are so many companies we cover that have taken a disclosure away from us in the past year or two. We love companies that actually will tell us more and not less, so thank you for doing that. We also love companies that focus on free cash flow, and that's something that you've really honed in on since you've gotten there, right?
+## Dan Jedda | CFO, Roku
+Yes.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Can you talk a bit about the low capital intensity of your business? You also have an NOL that's benefiting you. How long will that NOL last and kind of your You know, you've talked about $1 billion by 2027, if not 2028, if not sooner? Give us your bridges on cash flow and why it's such a strong number for you versus maybe other companies?
+## Dan Jedda | CFO, Roku
+Yeah. That's also was a change that we really focused on: making our absolute North Star free cash flow and free cash flow per share, which we've stated many times over the last three years. We are very focused on free cash flow. What does that mean? Well, it means that, you know, first of all, we are CapEx light, which we're very fortunate to have a company that's CapEx light. Doesn't mean we don't invest, by the way. Our investment is in R&D. We don't capitalize R&D; we fully expense R&D. We are very CapEx light. You know, we are single -digit millions in CapEx.
+I don't anticipate that changing anytime soon, unless we, you know, put in an ERP or something significant, but even then it would be one time; it wouldn't be ongoing. We're very CapEx light. We are one of the few companies, and this is why I'm okay focusing on EBITDA versus operating income. We do focus on both; we are one of the few companies that actually generate more free cash flow than EBITDA because we're so CapEx light. Our conversion of free cash flow, of EBITDA to free cash flow, is well over 100%. We have; we're very effective at managing working capital, and we're also very effective now at managing dilution.
+It is a North Star for us . You're right, thank you for bringing up the NOLs. We have about $1.2 billion that's been impaired because accounting purposes on our balance sheet. We'll write that up now that we're profitable, probably sometime in H2. The point is, we get to utilize a $1.2 billion net operating loss as an asset for us to offset cash taxes. How quickly are we gonna use it? As quickly as we can, because that just means we're generating a lot of profit. I think it'll be a couple of years, but for a couple of years we will have EBITDA; we'll have free cash flow above EBITDA.
+Even once we utilize it, that will be a great day for us because that just means we're having a lot of profit flow through our business. The only difference between EBITDA and free cash flow would be cash taxes in that case.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Okay. Priorities for cash flow, right? You've done a little tuck-in acquisitions, don't have much CapEx. When you sit there and you have the benefit of this cash flow coming in, how are you prioritizing where you're gonna use it?
+## Dan Jedda | CFO, Roku
+Yeah, capital allocation in the form of OpEx and capital allocation in the form of cash is something I spend a lot of time on. What we've been focused on, and you're right, we've done some tuck-in acquisitions. We're focused on, of course, anything that can help us from a monetization standpoint; from a scale standpoint, we look at. There's nothing to talk about imminently in the form of acquisitions. We're very disciplined in how we focus on acquisitions. We're only gonna do acquisitions that really make sense for us, both strategically and from a positive ROI, NPV perspective. We also did, you know, two years ago; we basically changed our vesting of RSUs to be net share settlement.
+That's where, instead of paying cash taxes in stock, we pay them in cash. quasi stock repurchase program. That offset a third of dilution. Last year we had a share buyback. We authorized a share buyback and approved a share buyback, and we've been utilizing that to fully offset dilution. I think Q1 was the first negative dilution.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+In the company's history.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah. Sequentially.
+## Dan Jedda | CFO, Roku
+Yes, sequentially.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Dan Jedda | CFO, Roku
+Sequentially, correct. You know, my goal, I stated this, my near -term goal is to fully offset dilution with cash, as you said. I said publicly, like, I believe we can do $1 billion of free cash flow by 2028, if not sooner. When you're generating $1 billion of free cash flow, you know, we can use, you know, some of that to offset dilution. We'll continue to do that. I might even go beyond that at some point. We'll wait and see just what's the opportunity is from a cash application perspective.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+What I also appreciate is that you're old school, focusing on GAAP, EPS, GAAP, EBITDA, right? Historically, Roku had been a big issuer of SBC, right? How do you think about the right balance of stock-based comp and, you know, and why not pivot to more GAAP -based targets, right? Not adjusted EBITDA, but GAAP. There's no GAAP EBITDA definition.
+## Dan Jedda | CFO, Roku
+Yeah.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Moving to include SBC and kind of all the key metrics that are communicated.
+## Dan Jedda | CFO, Roku
+Yeah. We do that now internally. We treat stock-based comp as a very real expense. It is embedded throughout everything we look at from a P&L ROI perspective. We look at stock-based comp. It's something that we've Again, you know, coming in, I just thought it was high on a relative basis.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+It was.
+## Dan Jedda | CFO, Roku
+It was, you know, driving a lot of dilution. We've right-sized. Now when we right-sized our cost structure, we right-sized our stock-based comp. We made some other changes to manage our stock-based comp. I believe stock-based comp in 2024 was just north of $375 million. We improved it $25 million in 2025. Our guidance implies another $25 million improvement in 2026. That's despite adding headcount. We feel like stock-based comp is now well managed. It's always considered a real expense to us. We do focus on operating income in addition to EBITDA. We do focus on net income in addition to operating income, in addition to EBITDA.
+Of course, all this equates to how free cash flow and free cash flow per share, which stock-based comp dilution is, that's why we say per -share dilution is a part of that. Every metric that we look at is across all those financial metrics.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right.
+## Dan Jedda | CFO, Roku
+Which again, is a change from, let's call it three years ago.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Which is, yeah, we're in favor of. You touched on it before. I think one of the areas of the company that seems less discussed is the international opportunity. I know it's relatively new. What have you learned as Roku has garnered more scale outside the U.S., right?
+## Dan Jedda | CFO, Roku
+Yeah. Let me talk a little bit about international. International is a huge opportunity for us, and we're at different stages in different countries. Let me just give you a couple of examples of countries. Like in Mexico, we have nearly as much scale in Mexico as we do in the U.S. I mean, it's very impressive what Roku has built in terms of scale in Mexico. The ad market is nowhere close to where the U.S. ad market is in the shift to digital. CTV ad market still has a way to go. It will go more to digital because all the hours are shifting. Just like in the U.S., all the hours are shifting to CTV and to digital. The ad dollars will eventually follow.
+It's just taking time, but we're in a great position. Where we are, where we're starting to monetize very effectively as we wait for, we are doing well in the ad market. It's just not where I think it should be on a relative basis. The market, the ad market needs to catch up to where the hours have gone. Where we are really focusing now is on subscriptions, again, which is relatively new for us to really focus on subscriptions. We've always had the subscription business. Roku Pay has been around for a long time. We've not had a huge focus on driving the monetization via subscriptions, and we're doing that now in Mexico. We launched premium subscriptions this year in Mexico. It's doing well.
+We launched with Apple, for example, and we have other, we have other premium subscriptions, and we're adding more all the time in Mexico. We launched Howdy in Mexico, doing very well with a great content offering at a relatively inexpensive price. I believe that the equivalent is around $2.60 in the U.S. We are driving the subscriptions part while we continue to wait for the ad market to shift, and we're getting better and better at ad market. M&E has always been there.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+The in-stream video has taken some time to move over. Transition over to Canada, we have less scale. About half the scale in Canada that we do in Mexico, the ad market's doing very well. We really have been focusing on driving advertising and subscriptions in Canada. We don't have premium subscriptions yet in Canada. That will happen. We do have a robust ad market, so we put feet on the street, people physically located in Canada. We're driving that. The ARPU looks great. It's, you know, it's 4x the ARPU of Mexico with less than half the broadband penetration, just because of the ad market.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+how it's driving. I think there's incredible opportunity. The rest of the countries, you know, U.K. and Brazil and the rest of Latin America, we're just still building scale. You know, there's the U.K., we are monetizing that. We just don't have a lot of scale yet. The rest of Latin America and Brazil, we're building scale. The good news is because we're first, we're a first mover in many of these Latin America countries, the scale that we're building, it's just not an expensive CAC, and I love that. We're getting ahead of the game, just like we did in the U.S.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right. Can I get the North America strategy, LatAm? What about like Asia-Pac? Is that just too hard because you have a lot of incumbents over there?
+## Dan Jedda | CFO, Roku
+Yeah. We constantly look at countries outside of our focus countries.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Dan Jedda | CFO, Roku
+These are the countries that we're launched into. I don't have much to add. We are looking at it. We look at Europe a lot. We look at Asia. We look for the opportunities. I don't have much more to add on that, except to say it is on our radar. That really is about distribution. It's not so much the operating system. That's fairly easy and not a big investment to convert the operating system to be compliant to what we'd want to do in Europe or Asia. It's about distribution.
+What is the cost gonna be. You don't wanna be a number 5 player in this space. You, you know this, right? Being a number 5 or a number 4, you need to be a number 1 or 2 or 3 player to get massive scale as an operating system to really drive the monetization. We're constantly asking ourselves, like, how do we get significant scale in these countries?
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Got it. Okay. Let's turn to advertising. You mentioned this before, too. Can you help us frame what's under the hood of the ad business? You have so many different types of products and now so many ways to go to market. What are the KPIs that you think are the most important that you can share with us, and any kind of metrics against those KPIs?
+## Dan Jedda | CFO, Roku
+The KPIs. That's a great question. One, we focus on controllable inputs first and foremost, not the output. The output is what it is. We have a relentless focus on what we can control, and I'll give you 2 examples on how we think of that. For example, like, if you look at just broad brand-based advertising, reach matters. A KPI is reach within The Roku Channel and reach across the platform. We focus on both. We've really started to focus on that again as we entered into 2024. We said, what are the KPIs that are gonna drive the monetization of the ad business and the subscription business? Reach was one of the important metrics that we could control that we wanted to drive, and we've seen tremendous improvement in reach.
+TRC is the number 2 app on the platform, as you might notice. We used to call it a top 5 app, then we called it a top 3 app in the U.S., now we're saying it's the number 2 app. That just tells you how much reach, and we look at daily reach, of course.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Reach has declined in the linear world tremendously except for broadcast-.
+## Dan Jedda | CFO, Roku
+Of course.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+which still has come in.
+## Dan Jedda | CFO, Roku
+Of course.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Reach is no longer available.
+## Dan Jedda | CFO, Roku
+Yes. Yes
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+In the linear world.
+## Dan Jedda | CFO, Roku
+Reach has grown significantly for us. Again, not just in The Roku Channel, although that's critical for us, but across the platform because we get a share of inventory from others.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right
+## Dan Jedda | CFO, Roku
+that we can serve our ads on. We've really focused on reach within the, call it the brand marketing budgets. You flip all the way down to the SMB market, very different market. You do not really focus on reach. What you're focusing on are traditional KPIs of the number of advertisers that start an account with us all the way down to the conversion to a paid advertiser and the repeat rates of a paid advertiser because these are SMBs. These are things we control. We control the UI. We control the funnel. We can get improvement in conversion rates. We have other ways, of course, for how we bring advertisers in. You know, there's a CAC involved with marketing, et cetera. We'll sign agreements with larger companies or medium-sized agencies to drive volume.
+Ultimately we want to control the KPIs that within the funnel of conversion. By the way, performance, because it is a performance-driven market, is one of the most critical inputs. That's something we control, like the performance of our platform. We are constantly working on integrations. Maybe we'll talk about Ads Manager. The KPIs are what we can control to bring more SMBs and get them to stay with us.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Dan Jedda | CFO, Roku
+Those are the KPIs we'd focus. That is the exact opposite end of the ad market. We've talked about the largest 200 brands.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right
+## Dan Jedda | CFO, Roku
+all the way back down to the SMBs and then everything in between.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right. I think a major pivot was you embracing third-party DSPs; you again mentioned that upfront. Was the Amazon tie-up or tie-in the most meaningful, given the leveraging of Amazon's first-party data? Was that a major unlock, you know, from the outside looking in? What do you think?
+## Dan Jedda | CFO, Roku
+Yeah. It's a great question. Yes, it was a major unlock. I was so excited when we could announce the Amazon deal because for the prior year we had heard a lot about the walled gardens going to rule everybody else: game over. I cannot tell you how often that was repeated. We were certain that the industry was wrong on this, that the walled gardens are not gonna stay walled, that they're going to open themselves up. If they do that, the best way to open yourself up is come to the platform that has the most scale, and not by a little, by a lot. In the U.S. with our, you know, over 50% broadband penetration. Amazon was a walled garden. There was others. People said YouTube was a walled garden.
+You fast-forward now, you know, DV360 is getting more into CTV. We just signed an agreement with DV360 to adopt their unique identifier. It's a hashed email, so our first-party data can be matched up with their first-party data. The Amazon deal, which we announced about nine months ago, was utilizing our first-party data with their first-party data. It's a win for Amazon. It's a win for Roku because now, you know, they can recognize that it's me, match me to my purchase profile on Amazon. This is all done in an anonymized clean room, very safe for Roku. Our data's very safe. We ultimately can help Amazon expand their demand -side platforms.
+In the meantime, we benefit from the media side and The Roku Channel, and we benefit from a platform -level side as they pay us at the platform level.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right.
+## Dan Jedda | CFO, Roku
+It's a huge win for both organizations. That relationship is going incredibly well.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Clients love it too because you can use first-party data from Amazon.
+## Dan Jedda | CFO, Roku
+100%.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Without paying a huge toll.
+## Dan Jedda | CFO, Roku
+Yes
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+to a third party.
+## Dan Jedda | CFO, Roku
+Correct. They would not come through it if they did not see the performance on their side. We give Amazon instant scale. They give us a way to monetize our platform. 1P data plus 1P data, huge win.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+One of the questions that people had at the time was, how do you make sure that the DSP doesn't undermine your go-to, your first, you know, your go-to-market direct relationship you have with the brands or the advertisers? How do you manage, you know, potential conflicts in the channel?
+## Dan Jedda | CFO, Roku
+First of all, we have ways that we protect our data first and foremost. Our 1P data is fully protected. I won't get into the details. They're complicated, but this is something we take very seriously. That's one piece. Second, to your point, though, it's not so much cannibalizing. It's meeting the advertiser where they want to transact, and Charlie's really good at discussing this. Essentially, our thought is, like, we don't want to force an advertiser to come through a specific DSP or directly to us if they don't want to. What we want is the most performant media out there, and because we have 100+ million logged-in users with all the data behind it, we are a very performant platform.
+We've solved and will continue to get better even, but we've solved this idea of knowing who our users are. We have the data behind it. We say to, you know, the advertiser, like, some of the top 200, they want to transact through a single DSP.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right.
+## Dan Jedda | CFO, Roku
+Like, we're not gonna come in and say, No. We're gonna say, Okay, we'll partner with that DSP, because we know our media is very performant, and we know the advertiser wants to run on our media. We know we're integrated with the DSP. We've integrated as deeply as the DSP is willing to go with us, and we're always looking to go deeper. It's not a cannibalistic function at all. It's a meeting with the advertiser where they wish to transact. We have seen no indication of cannibalization on Roku by advertiser or by vertical, every which way we've looked at it. There might be cannibalization within the competition of demand side platforms.
+That's out of our control. That is a function of the demand-side platform. That's why we're integrating with all of them. We want to go as deep as we can with all of them.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Got it. Another question came up on the post -call call with you : look, as you add DSPs, is that a one-time bump, or, you know, that we worry about a comp, or is this gonna be just an unlock of a higher revenue stream into the future? How do you think about maybe the comping of some of these big DSP additions to your system?
+## Dan Jedda | CFO, Roku
+I think the DSP. It's not a one-time step up. These are all gradual because the way these DSPs work is they're all focusing on whatever their unique character is. Some of them are focused on top 200 brands. Some of them are focused on the next 200; some of them are focused even on, like, app installs, which I would say is the lower CPMs. They're not one-time bumps. What happens is you plumb into the integrations; you're constantly optimizing across the DSPs. Also, we're always becoming more performant because we're using our 1P data. We're having new ad product. We're trying to ingest more data. We're getting more signals.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+to become more performant, whether it's the auction, whether it's a one-to-one deal. We're always trying to be the most performant platform. This all means that as the shift to programmatic happens, and it is happening, whether it's top brands, SMBs, and the torso in between, as the shift goes to programmatic, we're gonna play at every piece of the CPM demand curve. By the way, huge difference from three years ago.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Dan Jedda | CFO, Roku
+We were only at the top of the CPM demand curve, in in-stream video. Now we play along the whole aspect of the CPM demand curve.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+As someone who's covered linear for a long time and now digital for more than a decade and you guys and The Trade Desk, you realize the value of SMBs, right? Talk to us.
+## Dan Jedda | CFO, Roku
+Yes.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+You've hinted at it. You know, what do SMBs want from you or they need from you to bring that money? That's the differentiator on Meta and YouTube and Google; it's just the vast size of that advertiser pool.
+## Dan Jedda | CFO, Roku
+Yeah, yeah. It's huge. It's we've looked at some of the TAM on this, and we've stated, like, there's a market out there that says SMBs spend $600 billion on total advertising.
+The digital piece of that is a subset, call it $180-$200. I'm not sure exactly how much. Imagine if 10%, 15%, 20% of that can get carved out and moved over into CTV. You mentioned this, Mike. You already have linear shifting to digital.
+The total linear plus digital is $90 billion. About $33 billion has shifted to CTV; that CTV piece is growing double digits even though the total TAM is growing low single digits at most. The CTV piece growing double digits. That's $33 billion. You have this entire new TAM that's shifting over into CTV. Why are they shifting over? Why didn't they shift over sooner? Two reasons. One, the performance capabilities weren't there because this is a very performance-driven. They're not trying to reach.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right.
+## Dan Jedda | CFO, Roku
+They have specific KPIs, site visits, conversions, calls to my call center, et cetera. That has been solved, not fully solved but greatly improved with CTV. The second reason was it's very difficult to create a 15- 30 -second video. Gen AI has removed that impediment as well. By the way, if you didn't do it before, you had to go to someone, say, Hey, I need a video. That's going to cost $30,000. I don't have $30,000. I wanna spend $30,000 on media, not on creating a video.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Dan Jedda | CFO, Roku
+Gen AI has not only made the creation doable, but it can also be done very inexpensively. You've got the two largest impediments fully removed. The shift is happening on CTV. We have a product called Ads Manager, which is a self-service. We have some inside sales folks on it, but by and large it's a self-service click-through where it takes 5 clicks, where you can create an account, say how you want your KPIs that you want to advertise, and say where you want to advertise. Do you want to do it just on the Roku Channel? Do you wanna do it across the platform? We let them choose. Then you can upload a video or we will help you create a video. You hit publish, and you're off and running.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Dan Jedda | CFO, Roku
+I'll give you an example of where this has been very successful, and it's just gonna get better and better and better. Like, we had some recent success with insurance companies of putting a 1-800 number on, where we would, you know, run a video. The 1-800 number would show up, and they could track who saw the ad and then who actually called, because of the way we can API and pixel sites. Their performance was, We want to track how many calls we get.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right
+## Dan Jedda | CFO, Roku
+Based on our ads. We can now do that in a very effective way. We can do conversion data through integrations with Shopify. We can pixel sites and do site visits. If you want to actually measure site visits, we can do that.
+It's getting better and better. I'll end by saying this way: This product is only going to get better on performance and the ability to create a video. I was just looking at the funnels that we have. You know, we start with a huge funnel of people who start an account to people who actually say what their KPIs are. They say where they want to advertise from a publisher's perspective. The biggest falloff we still have in that funnel is upload or create your video. as Gen AI improves thisâ
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+It will improve; it's just gonna get better and better. You know, our goal , as a KPI, is how do we get that conversion higher and higher and higher through having more templates and more integrations with other Gen AI companies to help the SMB create the Gen AI video.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Got it. I have to pivot to subscriptions. I think you teased it. We were surprised by how large the business was, and also how fast it's been growing, right? I think if you sat in the office of MoffettNathanson, we would debate whether or not subscriptions are mature as an industry, but they're growing mightily fast. What are you doing ? Basically, I know it's a relatively new sector, segment for you, but what are you doing to tap into that demand?
+## Dan Jedda | CFO, Roku
+Yeah
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Accelerating.
+## Dan Jedda | CFO, Roku
+A couple of things going on. First of all, we've always had a subscription business. We have said in the past we don't. This is before premium subscriptions became a really important strategic initiative, is we monetize tens of millions of subscriptions. That's true. It's growing. It's growing very well. The focus, the pivot that we've done, is really focus on premium subscriptions because premium subscriptions are very strategic to us because you can embed the content throughout the user interface. If you have what we call direct to consumer or D2C subscriptions, you have basically two ways to get to the content. You either go through the app tile or maybe you have a button; you can go through the button.
+You might show up in personalization, but if you are a premium subscription, you are gonna show up throughout the UI. We ingest the content, we put it throughout the UI. We're driving ingress into that content partners app throughout the UI, whether it's the personalization row or whether that's the left nav; it could be through a Roku Sports Zone, or it could be through other zones that we have. It could be embedded in content tiles that we have to drive traffic to the sites we monetize. The ingress is all over the place. It's not just the app or if you have a button, the app plus a button. It's throughout the UI. That's very strategic for our partners.
+It's very strategic for us. We are getting more and more partners who come in on premium subscriptions. I'll also say that there's a thought that there's more consolidation in the subscription place where, I'll call it the mega apps-
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah
+## Dan Jedda | CFO, Roku
+are where most subscriptions are consumed. Think of that mostly for, yes, Tier 1s, and there'll always be Tier 1s who will not do that. There'll be a lot of tier 1s and then the whole torso and tail, of which there are many; they do not have the ability to show you what their apps are and what their content is. It's gonna be done in these, what we call , like, premium subscriptions or Amazon Channels.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right.
+## Dan Jedda | CFO, Roku
+That's what we're focused on. That business, we're actually gaining share in . We're growing in direct -to-consumer as well, but specifically in premium subscriptions, we are gaining share of the overall channels business because we're focused on new ad product personalization, driving subscribers into that content throughout the UI.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Okay. You also basically bought a company and you created a company. Why did you? When you think about Frndly and Howdy, which you built from scratch, what drove those decisions, and how are those new assets faring under your management?
+## Dan Jedda | CFO, Roku
+Both are doing very well. We're really happy with the Frndly acquisition. We're very happy with Howdy. It surpassed our expectations in terms of growth. The reason why is, again, because we have the UI, because we have the platform, we feel that we can drive subscriptions. If there's a subscription that we can own and operate, we will take a look at that. Now, Frndly is both on and off Roku. Now, Howdy is both on and off Roku. With Howdy, we felt there was a niche of a low-priced, ad-free content offering that many streamers would love to watch. We basically built the product and launched it, and it's doing very well.
+As soon as we learned a lot on Roku, we launched it off Roku. It's available on Amazon Channels and doing very well there. It's also in Mexico; that's a product where we can launch in many countries, including countries we don't have the platform in.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right.
+## Dan Jedda | CFO, Roku
+We believe that there is this offering. Also, we believe that AI content, long form, could change the trajectory, could change the business dynamics of SVOD services.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right
+## Dan Jedda | CFO, Roku
+Offering that can take on long -form AI -generated content when it's ready, and we can monetize that.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah, really disruptive. Gross margins are lower than we thought; there are some reasons why. The trend has been against us. What's going on with gross margins? That's just gonna be a structurally lower business on average?
+## Dan Jedda | CFO, Roku
+Are you referring to platform gross margins?
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah, yeah.
+## Dan Jedda | CFO, Roku
+Platform gross margins, one of the reasons we bifurcated subscriptions and advertising down at the margin level so we could say very clearly what the margins are on our subscriptions, which is, you know, is a bit of an annuity stream, and then what it is on advertising. On the subscription side, it's right around 40%, just north of that. Premium subscriptions, with slightly lower gross margins being the biggest driver, is what's driving that down. It's a lot of incremental revenue. It's a lot of incremental gross profit. Those margins I think will be around 40% for the rest of this year. We also have some high margin business in our subscription business like D2C.
+On the ad side, again, this notion that all these activities that we're doing are driving margins down. Despite me saying it all the time, now we show it. Ad margins at 60%, just north of 60%, up 450 basis points year-on-year. I think it's going to stay there. I think there's an opportunity to potentially grow it. We've got a lot of new ad product. We've got the home screen, which is very high margins, that we're coming out with the redesign. There's opportunity to drive more higher -margin ad products on the home screen. We're very efficient at optimizing all our inventory. The highest inventory that we have, we optimize first.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right.
+## Dan Jedda | CFO, Roku
+Of course, you know, we focus as much on managing the economics of it. We always optimize for campaign completion, campaign goals. After that, we optimize for gross profit dollars.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Okay. I have a minute. I have to ask you about devices. I have two questions for you. One is, what do you see as your moat versus others in the space? Do you worry that some, especially those with growing ad businesses, will lose lead TVs even more in the future?
+## Dan Jedda | CFO, Roku
+Yeah, the moat is, First of all, we have a brand that streamers actually love. That is the moat is streamers love the Roku OS. They love the simplicity of it. They love the remote. They love the functionality. It's an amazing product that the team has built. That's one moat. The second moat, which is less known but equally important, is our BOM cost that we have. We have a very low memory footprint relative to everyone else.
+in the OS space, our memory footprint is lower. That was intentionally done by Anthony to basically facilitate an advantage to our players and our OEM partners and our first -party TVs when we're the hardware manufacturer. The BOM cost has always been there. In a rising memory cost environment of which we are in, the BOM cost gets more and more. We are seeing more OEMs coming to us, saying, Hey, you know, in addition to having this awesome OS, you provide a BOM cost advantage that no one else can provide to us. Can we do more units-
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Right
+## Dan Jedda | CFO, Roku
+with you? That also is a very effective moat for us, and something that I think the team had the foresight to be very smart on. Remember, it's a purpose-built OS.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Yeah.
+## Dan Jedda | CFO, Roku
+Not taking other types of OS' and making it available to CTV. We purposely, Anthony purposely built this operating system for CTV.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Okay. We ran out of time. Dan, thank you so much for being here. Really appreciate it.
+## Dan Jedda | CFO, Roku
+Appreciate the time.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Thank you.
+## Dan Jedda | CFO, Roku
+Thanks everyone for coming.
+## Michael Nathanson | Senior Research Analyst, MoffettNathanson
+Thank you.
+## Dan Jedda | CFO, Roku
+Thank you.
+Data Source: Quartr Last updated: May 13, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

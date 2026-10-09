@@ -1,0 +1,214 @@
+TITLE: Mizuho Technology Conference 2026
+DATE: 2026-06-09
+## Siti Panigrahi | Analyst, Mizuho Technology
+All right. Hi, everyone. Welcome you to this Mizuho Technology Conference. It's a pleasure to host Intuit. We have Mark Notarainni, EVP and General Manager, Consumer Group. Those who don't know, Consumer is the big one. It's TurboTax and Credit Karma. Mark leads both the one.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+That's right. Yeah.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Welcome you to the conference.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Thank you. Thank you for having me. I appreciate it.
+## Siti Panigrahi | Analyst, Mizuho Technology
+You know the topic du jour is TurboTax. That's what we're going to focus on, but we'll do cover Credit Karma.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Okay.
+## Siti Panigrahi | Analyst, Mizuho Technology
+All right. In your recent Q3 results. Just came out, you talked about weakness in the tax business, TurboTax business. In terms of your expectation for the fiscal year, you lowered it to 7%, from 7.5%-8% previously. Let's start with your puts and takes o f the tax business.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Sure. Maybe I'll start with what worked, then maybe I think the takes are what didn't work well for us this year. What we're really excited about right now is our continued growth in our assisted category. We grew 38% in customers, 36% revenue growth, that's a really critical category for us. It's the category that we're newest in, it's the largest category in all of tax. It's 7x larger than a DIY category itself. We're very excited about our progress there. Two, we're really starting to emerge as a consumer platform. We grew our TurboTax customers that started in Credit Karma 54% this year. That's 25 points higher than the year before.
+The reason why that's very important for us is because Credit Karma and that platform gives us an opportunity to serve and grow with our customers year-round versus the two times a year that we get to interact with them on a tax business. Finally, there are two other things that we're really excited about. One, our growing and continued focus on money. Money is at the core of the whole tax product, right? It's the largest refund for many customers, and we continue to see growth and adoption of our fast money products. That also starts to establish a bigger relationship with our customers year-over-year. We're very excited about AI. AI has truly changed our product from the way that our customers start and to how they use the product throughout the course of filing their taxes.
+I'll give you one example of that. Our digital assistant this year was 100% generative experience that drove 15 million interactions with customers, had a contact rate that indexed down in the mid-70s. Customers are engaging, filing their taxes, and not having any friction in having to stop and call our call center to get help. We're very excited about what AI is doing for us. Now, the takes side. I'll start with the biggest challenge we had this year is the IRS category did not materialize the way that we have seen historically. Historically, the longtime CAGR of the IRS category is about 1% growth each year. This year, we believe it's going to contract 30 basis points.
+## Siti Panigrahi | Analyst, Mizuho Technology
+30 basis points. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Underneath that, the e-file growth is about half of what we normally see. Our longtime CAGR on e-file growth is about 2%, and this year we expect the e-file growth rate to be about 1%. Both of those things combined really impacted the DIY business more than any business. We're the category leader in DIY, so it was a big impact on our year this year. The second thing, and more in our control, is how do we serve customers that are under 50,000, and specifically the value seekers within that category, where they're very sensitive to the pricing of tax. That area is a very high churn area in the industry itself, and it was high churn for us, and we need to reestablish our experiences there across our platform to make sure that they get their best tax outcome, but they stay with us long term.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Okay. That's a great detail. We'll definitely talk about the part that worked well, TurboTax Live. I want to go through the part that didn't work. First, you talked about, let's go to the IRS filing. It was down 30 basis points usually 1%. I think you talked about this is like 2 million units. That is the most significant industry-wide contraction p robably post-COVID. To start with, why did you see, from an industry perspective, this past tax is like, why do you think this happened, this occurred?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. We're still researching and ensuring. The season's not over yet. The season ends actually October 15th, so we need the whole season to mature, and we need to spend the time between now and then really researching why this happened. We just don't have that answer yet. It was definitely an impact that we saw across the category.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Okay. Then other part is the e-filing business, I think which you say 1% growth. I think that's another area investors are thinking that is a good growth, kind of acceleration there. What's your exposure there, in terms of total returns including, I think there is manual part also there which you can do manual and do e-filing. Help u s understand that part of it.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. Over the years, there's been a shift out of paper returns, manual returns, and into e-file, and e-file did grow this year, or we expect it to grow even one point by the end of tax season. Historically, that growth rate has been two percent. What we anticipated was a reduction in paper returns that would shift into software, DIY, and that just did not materialize this year. There were some regulatory changes on how funding gets done, et cetera. We're exploring all of those. We just need to see the season fully materialize to understand the full impact. Our projections right now that we look at is a contraction of 30 basis points overall.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Only one point growth in e-file versus two that we expected.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Okay. If I switch to the TurboTax Live, that's a pretty strong growth, 36% revenue growth against 47% growth year before. Now it's almost 51% your TurboTax revenue. That's a solid, that's a growthier part of the business. Help us understand what's helping you seeing this kind of momentum i n the last year. What are the drivers, what's working, and what still you need to work on?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. There are three things that are really working for us right now in assisted. One, it's a really great product for people that want the assurance and the confidence of an expert. That shows up with our current customer base in DIY that have a life event and require the help of one of our certified experts to help them through this tax year, or it's a fully assisted experience, and that manifested itself this year in our local distribution. We opened up about 500+ service centers around the country. What that unlocked is the digital footprint to be able to match customers locally. Can you guys hear me? No?
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+All right, there we go. The local expansion that we drove allowed us to attract previous year assisted customers that we had not historically won before, because the decision on taxes for the assisted category is very much driven by who's next to you, and who's close to you, and understands your tax in your area. That expansion really helped us acquire more customers and we saw a significant new acquisition through that channel. The third piece in assisted is because we are built on a technology platform. We have AI+ our artificial intelligence, plus our human intelligence actually on the same platform, it allows us to scale m ore efficiently, which in turn lets us have a very aggressive price point. When we started this journey last year, we said there were three things that we wanted to do. We wanted to compete on an experience.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+We wanted to be faster than anyone, and we wanted to do it at the best price point. Faster was not just actually finishing the return, but actually getting people money fastest as well. Those three things came together, and gave us a really good foundation to start to be more disruptive in the assisted category.
+## Siti Panigrahi | Analyst, Mizuho Technology
+You guys always talked about this, branding, local strategy, product, these are the things you have to do t o get into the market. When you look at the TAM for Live or the assisted part, that's a massive market compared to DIY 87 million tax filers in that space.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Still file, yeah, in assisted. Yeah.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah. That still you have to penetrate. 15 million probably out of that go to tax tool.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yes.
+## Siti Panigrahi | Analyst, Mizuho Technology
+If I may ask, where do you see the traction right now? Is it within that 15 million tax tool where people are, that's an easier one to capture, or is the 87 million in other segment?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+It's a great question, I would say there are really two answers to that. One. In the assisted category overall, there are about 14 million people that switch every year. Whatever form they were in, whether they were in a tax store or an independent tax professional. Those are opportunities. That's really a big area for us, those 14 million. The rest is a little bit of a mix of tax stores as well as independent pros. It's much more, what we're seeing is the idea of our experience, our price point, and our local presence. That's unlocking us serving both tax stores and independent pro customers. The third area for us is the expansion into business tax. It's opened up a whole new category to serve customers where we haven't been before.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Those small business customers that we're attracting right now tend to be at the small end of the small business, either newly formed or small. They file their business tax and their personal tax together. When they make that decision of who's going to file their business tax, the personal tax comes along with that as well. It's another area for us to grow.
+## Siti Panigrahi | Analyst, Mizuho Technology
+If I look at your TurboTax Live, it has live full service, business tax and l ive itself. Is there a way to discuss, or you can talk about the growth of each of that within that segment?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+We usually don't. We talk about it live at the overall category.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Just could try.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Could try, though. Yeah. The reality is we're growing across all three.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Each one provides a distinct value to the customer that's looking for that type of service.
+## Siti Panigrahi | Analyst, Mizuho Technology
+You still feel comfortable with your strategy that, I think you talked about 17%-20% TurboTax Live growth at the investor day, you still feel comfortable?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+We're not changing long-term growth rate.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Okay. If I look at the business, 51% of that Live growth growing at this point, let's say 17%-20%, you are not changing. The question next comes is that how can you at least stabilize the DIY other part of the business?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Siti Panigrahi | Analyst, Mizuho Technology
+If you can maintain that business, right now in our estimates probably decline 14%-15%. What are the things you can do to at least minimize that churn or at least stabilize that part of the business?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. Our DIY business is a great business for us, and there's a little bit of distinction on the 14%-15%. A lot of our costumers in DIY h ave these life events and r equire the assistance or are searching the services that we have within our Live product. Many of them trade up into our Live product. That's a big area for us to be able to serve those customers and not have them defect. On the under $50,000, those value seekers, that customer base churns a lot in the industry. The way that we'll be able to solve that is, one, we have to make sure that we're delivering a model that delivers value to them beyond taxes. Because they shop for the lowest price on tax only.
+We believe we're uniquely positioned because of the consumer platform that we have, to be able to be aggressive with our tax business, but monetize through value-added services. Some of those value-added services may be a fast money product where you can get access to your refund fast. That's very important to that customer base. We also know that the customers that we have that are in TurboTax and in Credit Karma consume services at a higher rate across the platform, and we're uniquely positioned with Credit Karma with a suite of financial products, from loans to credit cards to insurance, where we can actually add value to that customer every year. We can save them money every day.
+During the year, which will then create loyalty in the tax product when it comes to tax time. They're 80% done with their taxes, and they won't go anywhere else, and they'll stay within the franchise. At the heart of our DIY business is really getting and connecting price and value and creating the flywheel within our platform so that we can actually engage with those customers every year. Every day during the year in those critical financial decisions that they make throughout the year.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Okay. There is a price value mismatch that you're trying to.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+At the low end. Yeah.
+## Siti Panigrahi | Analyst, Mizuho Technology
+At the low end. In terms, I think this is a question we're getting, have you started seeing that towards the end of the tax season, beginning, throughout that, or basically the question is that the issue you saw on the top of the funnel, or it's the conversion, retention, like where exactly the weakness you saw when you saw the data f or the low end DIY?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+under 50K?
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+It's at the top of the funnel when they're shopping. We see some, so in our shopping experience, and that's where we have to connect the value and t he price better together.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Generally, when they get into the product, and they're in the right product, they will finish and file with us.
+## Siti Panigrahi | Analyst, Mizuho Technology
+The other question we're getting is where do you believe those customers, the low end, who leave TurboTax, where are they going? Is that a lower priced paid providers, free filing options, or do you see. Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+This business is incredibly competitive, the customers have a lot of choice to go to either another DIY. We also see customers that leave and go to Assisted as well, right? Because of a life event or something that. They've lost confidence in themselves being able to file their return. We see it kind of going in those directions. We have an opportunity to ensure that those customers know. We're still new in the assisted category. We're known to be a software company, so we still have a lot of work to do to build our brand and the knowledge that our customers have of our full suite of products.
+We saw progress there, but we can do better. The second is we really need to ensure that we're providing more value beyond taxes, and that's an area where no one else can really do that in the industry other than us. No one else can actually get you access to the fast money, help you make better decisions with that refund, get you into investment vehicles that, savings accounts or pay off debt like we can. That's where we have to really focus our efforts, is making sure that those customers that are searching for assisted know that we're there and we can help them. Good progress. We can always get better. Really connect our ecosystem and our platform together so that we're constantly providing value beyond tax for those customers that are looking for value beyond tax.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Just to clarify that value beyond tax now that Credit Karma and TurboTax under you that's where the potential is, where you can bring value t hose customer with Credit Karma.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Absolutely. That's where we saw really great momentum this year. We had 54% growth in customers that actually started their tax journey in Credit Karma. That's 25 points higher than the year before. We see the power of the consumer platform actually starting to come together.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Right. Other topic on AI displacement concern, like Sasan always been saying that Intuit is an AI beneficiary, not a victim of that. Did you see any kind of filers switching to any DIY kind of solutions, or did they use ChatGPT, file somewhere else? Any kind of data you think you have seen?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+I think we see the traditional players, that's right now where they're going. We do see some of the new AI startups, but not at scale right now. Our customers, we believe that we need to be where customers are going. We see people interacting with ChatGPT, we see them interacting with Claude, asking their questions, either when they're in session with us or they start there. We've embedded our experiences into both Claude and into ChatGPT. We're excited about what we learned there. We will continue to do that. The other piece that we've shifted, and we have seen the shift from SEO to GEO.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+We were early on in that migration, and we really saw great momentum there in terms of our content being referenced, and being able to also do some work within those LLMs. For instance, in ChatGPT, you could actually find one of our service centers and actually schedule an appointment with a tax professional right in the embedded flow of ChatGPT last year. We're meeting customers where they are. We're enabling them within the product also to connect. We also have our own digital assistant that we deployed last year, and it drove 15 million interactions, and over a trillion tokens consumed there, and drove a higher conversion rate as well. It drives confidence within the embedded product.
+What's really important in tax, and I think in personal finance, is you have to be very deterministic. Compliance is important. Your money, and your outcomes for that money is very important. We believe that we're uniquely positioned to both engage and embed as well as deploy those capabilities directly into our products and help customers make the right financial decisions.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Right. I want to drill a little bit deep into this integration with OpenAI. It was, I think, middle of the taxes y ou announced that. Help us understand, what you achieved so far, as you think about in the future, I'm pretty sure your team must be working on, do you see ChatGPT as another funnel to get more, or it's the experience that at the ChatGPT, you can get your tax done, and when ChatGPT is doing that, it can leverage your Intuit LLM or SLM you can say. What's your strategy? How you're thinking about that evolving, this ChatGPT-
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. It's definitely going to be a funnel, right?
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+GEO is here to stay. Customers are going to start there and ask questions. We want to make sure that our content is showing up, that we're referenced, and that they can easily connect into our products. We did deeply embed certain components of our product into OpenAI and Claude this year, and we learned a lot. It did not provide a lot of outcomes for us, right? It's still super early customers struggled to connect accounts within the LLMs. That's not unique to Intuit, I think that's just in general. We're exploring and continuing to iterate with them. We're very pleased with all of our partners across Gemini, and our relationships with Gemini, ChatGPT, and Claude as well. We are very much embedded and working through different iterations for both personal finance and for tax.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah. One question I always get here is that, yes, OpenAI or ChatGPT or Claude, they don't file taxes. They just can answer your question on that. There is another breed of tools they're building on top of this OpenAI or ChatGPT with the API. As you see those kind of emerge, what will be their business model? Are they going to charge? Are they going to pay? Because you also use AI too. What do you think in our next two, three years? This year we didn't see that many, but as we see next few years, let's say more AI-based tools evolve. What will be the monetization strategy?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Well, I think.
+## Siti Panigrahi | Analyst, Mizuho Technology
+They have to pay for tokens.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. I think the monetization strategy right now for us is we have to focus on what drives the best experience what drives efficient experiences, and then how does that lead to conversion and consumption of our products. What we see right now with that digital assistant, as an example is it consumed a lot of tokens it made us more efficient in our call rates into our call centers, and it drove conversion impact. It's worth the investment for us to help our customers navigate confidently not have to call, and have a higher conversion rate. That's how we're thinking about it. When you look across our assisted category.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+We believe it's an incredibly large opportunity to drive more efficiency and transform that experience away from data entry into advisory. Where the systems do most of the work, ingest the data, apply their content to the tax return, and then provide advisory recommendations to the expert to talk with the customer through. That's a big shift and will allow us to actually serve more customers and drive better efficiencies in that experience, which will then allow us to be aggressive on our pricing.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Since you lead the TurboTax group, I want to ask this question. How is your product changing with AI? You have been. I have seen TurboTax change a lot rule-based. Are you leveraging AI, so your next future TurboTax product will be as good as some of the competitors, maybe on top of LLM?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. TurboTax historically has been built on an interview, right? The interview was the big breakthrough that we invented, and that was just a workflow. This year, we enabled about 90%, it's actually 93%, of forms consumption and application, automatic application through LLM-based models. We would go get the document, translate all the information, and apply it to the return t hat allowed us to remove the interview.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+That's really by the end of tax season, our new customers were not really seeing an interview process. They were seeing an AI-first experience. Data was collected, applied, next best actions were recommended versus forcing a customer, and I say forcing, but giving a customer an experience of a very long interview. We've embraced AI, and we had to change our whole product underneath that in order to enable it. We did that by first peak last year, by the end of tax season or by April 15th, it was an AI-first experience. Our digital assistant was there as a sidecar.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+We loved what we saw with our digital assistant. You can start to see how we will explore opportunities for us to be even more conversational in our experiences with our customers. Will enable us to truly go to the next level. The interview, for the most part, is behind us. That's a b ig change. The interview launched our business in TurboTax.
+## Siti Panigrahi | Analyst, Mizuho Technology
+The reason I ask that question is if you offer AI-based solution somebody else, but it comes with a cost, how can you monetize that? I want to dig into your opportunity because now Credit Karma is with TurboTax under your leadership. Where do you see the opportunity? Let's say you try to address this low end, offering free competitive solutions like that, but it's ultimately the output that matters for you. That's what drives your growth.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Siti Panigrahi | Analyst, Mizuho Technology
+One part is you talked about last year, early.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Refunds. Yeah.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Early refunds. That one. First of all, how was that this year versus last year?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah, we delivered $25 billion of early refunds to customers this year. It was very successful for our customers.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Okay. What are the other opportunity that you can monetize this base? That's a story. I think Center for Consumer Finance . That was the vision when you acquired Credit Karma.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. We think of it as really jobs to be done across the consumer platform. For, let's say, the under 50,000 customer base, a large part of those customers are just starting in their credit journey. This year, we've launched an early thin file, no file product within Credit Karma. Where customers can actually start their credit journey. That's usually where your financial journey starts. "I need to start building my credit." We have that. That's one job to be done, is building and managing your credit. Another job to be done is your money in and money out, right? We have Credit Karma Money, which is allowing customers basically a banking experience all digitally.
+Delivered, that enables them to get fast access to money through their paycheck advance type products. That's also starting to get traction. The reason why I start there is those jobs are happening every day, all year round, for that customer segment. When they do and start their credit journey with us, and we engage with them year-round, we will have the data and information for them to complete their taxes during tax time. It will be more natural for them to stay within our product. We see that where our credit customers, they've consumed one or more products within Credit Karma, their loyalty within the tax product is higher. Building those onboarding opportunities through credit, through money, through personal finance decisions like debt consolidation.
+Those are all capabilities now that we have within Credit Karma. We engage with those customers, solve a big problem that they have, build a relationship with them, and then when tax time comes around, it's a very natural progression to get their taxes done within our consumer platform.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah. That sounds like the strategy of your competitors, who probably took away some of your low-end customer. That's how they're monetizing offering free tax.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. We see that emerging more. That's just still early, but we definitely see that as an emerging competitive play as well.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Okay. Another question, going back to the live site, which is doing well. How do you think this AI is going to change, whether it's monetization, whether the ARPU. Even improving your margin or efficiency? How are you seeing that?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. I think it's all the above. It definitely will help us scale our business. No question about that. It's going to change the way that service is delivered. Service, up to this point, has been workflow oriented, not advisory oriented. That change is happening where workflow is being automated, data in, data attribution or content attribution, completion of a tax return, all being automated. You throw the human element to drive the confidence and the advisory services, and that's how we see our assisted business. That allows us to be very disruptive from an experience standpoint, from a pricing standpoint, and from an outcome standpoint as well. We can start to shorten the cycle from a customer starting their return to finishing their return and getting their refund, pretty significantly, and that time to money is very important for consumers.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Okay. Probably last question. Under your leadership, Credit Karma, I think 19% growth against such a tough comp. Phenomenal job. That's doing well.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Thank you.
+## Siti Panigrahi | Analyst, Mizuho Technology
+TurboTax side, you have challenges as well. Like next one year until the tax season start, what your focus going to be?
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah. I think it's going to be in three areas. One, we've got to continue our momentum in assisted tax. That's the $88 million that you referenced before. We're still very early in that stage, and we need to continue to grow share there. You'll see a lot of focus on that. You will see us focus on our DIY business and building new ways for us to serve customers in the consumer platform, which connects into the Credit Karma. What we're really focused on now is creating the services and products that allow us to engage through our consumer platform, to allow us to engage with our customers every day. They're making decisions on where to spend their money, on how to save their money, or how to invest their money. Our platform right now can do all of those for a consumer.
+You will see us driving much more engaged experiences, which will help solve money problems or the money questions and jobs, the personal finance jobs, and then ultimately lead to a done-for-you tax experience that is less stressful and better outcomes and faster for you.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Yeah. We always think fear and greed drives people pay for tax.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Siti Panigrahi | Analyst, Mizuho Technology
+You want to maximize your tax return, and you don't want to get audited by IRS.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Exactly.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Hopefully you'll continue to do that.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+We will. Absolutely.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Customer keep paying you.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Yeah.
+## Siti Panigrahi | Analyst, Mizuho Technology
+Thank you so much for joining us.
+## Mark Notarainni | EVP and General Manager of Consumer Group, Intuit
+Thank you. Thanks, Siti. I appreciate it.
+Data Source: Quartr Last updated: Jun 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

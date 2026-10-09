@@ -1,0 +1,7 @@
+Company: Procter & Gamble
+ROIC Symbol: PG
+ROIC Name: The Procter & Gamble Company
+Year: 2007
+Quarter: 3
+Date: 2007-05-01 08:30:00
+Executives

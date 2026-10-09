@@ -1,0 +1,403 @@
+TITLE: Status update
+DATE: 2026-07-01
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Great to see you all. I know many of you traveled far and wide to be here today. Who here is local? All right. Who traveled from overseas? Great. Well, wherever you're from, thank you for making the trip to the Old Royal Naval College here in Greenwich, London. Steps away from the Meridian Line, the center point for measuring time and place on Earth.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Our timing was pretty good, wasn't it?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Yeah. Starting this live stream just at 2:01 after England won, really well timed. Tell me, Vlad, how was your journey here?
+## Vlad Tenev | Chairman and CEO, Robinhood
+I'm going to be honest with you. It was rough seas. Very stormy out there. Brutal winter.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+I'm glad you made it anyway. I have to ask, do you really think the world is flat? Especially you, as a former mathematician?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Indeed, I do. You're very kind to call me a mathematician. You see, most people adopt the beliefs and rely on the observations of others. Unfortunate, but it's true. Those who make history possess an almost irrational self-belief. What others deem impossible, they make possible. You know how they do that, Johann?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+I don't know. Hard work, maybe?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yes. Also by declaring it so. As one example, for a long time, we believed that ownership of a financial asset was only possible if validated via central bank or authority. We needed a giant building with big, sturdy columns and baroque art on the ceilings and walls to create trust. Someone, or some group of people, perhaps a guild, wrote a nine-page white paper that said we didn't need any of this. A peer-to-peer agreement validated by mathematics was enough to establish ownership. 18 years later, here we are.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+I can tell you, Vlad, that white paper changed my life. I was literally working at McDonald's in France when it was written.
+## Vlad Tenev | Chairman and CEO, Robinhood
+McDonald's in France, you say? Tell me, is it really called Royale with Cheese?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Well, it's actually a Royal Cheese.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Metric system.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right. I remember reading that white paper and thinking, "This is a solution to everything." I got into Bitcoin mining, and now I'm here with you.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Well, the two of us, Johann, we come from different corners of the Earth, our shared ideology has brought us together.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Okay. Well, if you're saying that the world is flat figuratively, yes, I agree with you. If you're being literal, when I was watching your ship arrive through the spyglass, I saw the mast appear before the hull. Doesn't that prove the actual curvature of the Earth?
+## Vlad Tenev | Chairman and CEO, Robinhood
+A common misconception. You don't just rely on the spyglass, Johann. Our tools, be they forged in brass or logic, often cloud the truth.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right, you're a mathematician and now a philosopher. All right. You're always surprising me, Vlad.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Well, not to worry. I'm not here to talk about epistemology. What we're here to discuss may be a bit simpler, but no less important on a macro scale. I'm here to talk about ownership. You see, a future owned by the few is inherently very fragile. Robinhood exists to make everyone an owner, because ownership of high-quality, real-world assets is essential to a free, stable, and prosperous society. Our quest here, as you know, good sir, continues to be to expand it all over the world. You might remember this blackboard from last year. I brought it with me on the ship for one very specific reason.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Between you and I think you're getting a little obsessed with this chalkboard, go ahead.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's very nice, Johann. It's very tactile.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Sure, true.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yeah. Very disappointing that we've moved to whiteboards. You might have noticed I haven't erased it. Pretty amazing, right? This is a map, in a way, a map we've charted of a new world where crypto and TradFi become one through a process we call tokenization, which opens up real-world productive assets to anyone. At our event last year in the south of France, we launched phase one of Stock Tokens, unlocking exposure to U.S. equities. That's this part of the map right here. To give you a preview, we're going to be significantly upgrading them. You'll see a brand-new version. A brand-new version that completely reimagines them and how they work. The rest of the map was a vision for the future. One of those declarations that I was talking about earlier.
+I've traveled here today, along with some distinguished guests, to see if that future has arrived.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+For once, I don't think you will be disappointed.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay. Good to hear. You and I have also been discussing expanding Robinhood's global trade routes.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+That's right. I sent our most trusted leader to every corner of the world to accomplish this.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Aha. You do admit the world has corners.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right. I sent them around the world on these missions.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Spoken like a true Roundie, Johann.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Today, they will present their results to you. We have five speakers and over 12 big announcements to share with you.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Vlad, I hope you find them to your liking.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Well, I shall take my seat and listen intently to what they have to say.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Great. Let's start tonight's proceeding. We are gathered here today not to celebrate a story, but to consider what would a new age of global innovation look like if it included everyone equally?
+## Vlad Tenev | Chairman and CEO, Robinhood
+You're calling me a philosopher.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+True. First up, Rear Admirals Jordan Sinclair and Seong Lee have just returned from a year-long voyage democratizing finance across three continents. Gentlemen, please come forward. The floor is yours.
+## Jordan Sinclair | President of Robinhood UK, Robinhood
+Thank you. We do find it interesting you chose to come and visit around the time of Wimbledon and Formula One. I presume just a coincidence?
+## Vlad Tenev | Chairman and CEO, Robinhood
+I'm not here to discuss trifling matters of sport and entertainment, gentlemen. Show me your progress.
+## Seong Lee | Senior Director of Product Management, Robinhood
+Yes, of course. Well, we return with the news that we've broken a major threshold with over 1 million funded customer accounts outside the U.S. This brings the total of Robinhood's customers to nearly 28 million, spanning 38 countries and three continents.
+## Vlad Tenev | Chairman and CEO, Robinhood
+You have my attention for now.
+## Jordan Sinclair | President of Robinhood UK, Robinhood
+Great. We have a number of global updates for you, starting right here at the Greenwich Meridian line. It's incredible to see so many familiar faces from our U.K. community. I even see one person who's been at every single event. We made a lot of progress here in the U.K., recently adding ISAs with a 2% match. Even with this extensive list on screen, what's missing? That's right, crypto. You have been loud and clear that you want to keep crypto alongside your stocks and options. I'm happy to announce that we plan to finally roll out crypto on the Robinhood U.K. app.
+## Vlad Tenev | Chairman and CEO, Robinhood
+This is not nearly enough for our distinguished guests here. What else do you have?
+## Seong Lee | Senior Director of Product Management, Robinhood
+Well, we do have something that our advanced crypto traders in the U.S. are going to be very happy about. That's a new professional trading experience with maker orders. This enables customers who want to offer liquidity on the platform to do so with fees as low as 0%, with no added spreads. With this, you're getting one of the most competitive offers out there for pro crypto traders. It starts rolling out today across our mobile app and our advanced desktop experience on Legend.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I mean, Johann. It's a start, but I've traveled a long way to come here.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Wait a minute.
+## Jordan Sinclair | President of Robinhood UK, Robinhood
+I know what you're thinking, Vlad. Still not enough. I'm happy to deliver with two new expansions. On Canada Day, I'm excited to announce that today we are bringing home something that is long overdue, Robinhood. Thanks to our acquisition of WonderFi earlier this year, Robinhood is available to download in Canada. Just scan the QR code on the screen here and get started with a special offer of zero trading fees for 90 days. I hope zero fees meets your approval, Vlad.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I have had my eye on Canada for a while.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Exactly, they delivered.
+## Jordan Sinclair | President of Robinhood UK, Robinhood
+While this is great for our friends in North America, we're also breaking ground in Asia. I'm excited to announce that Robinhood Singapore has received its Capital Markets Services license from the Monetary Authority of Singapore.
+See Vlad? T's a significant step towards offering brokerage services to our customers in the future. This is a really big moment for our growth across the region.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's not big enough in my book.
+## Seong Lee | Senior Director of Product Management, Robinhood
+Well, we do have one last update. I can't promise that you'll like it, but I know our customers will. It's been over a year since we launched Robinhood in 30 European countries under our MiCA and MiFID licenses. Customers on Robinhood Europe have access to 90+ cryptocurrencies, tokenized exposure to thousands of stocks, 5% yield on your euros, and last but not least, crypto perpetual futures. I have to say, our customers love perpetual futures. The only problem is that perps on Robinhood and most other platforms in Europe are only supported for crypto. It was clear from talking to customers, they want perps on far more asset classes. As of today, oil, gold, silver, ETF, and FX perpetual futures will be available on Robinhood Europe with up to 10x leverage and tradable 24/7.
+This is just the start of what you can access with perpetual futures on Robinhood. Before we go, there's one more thing. We're offering a 5% boost on qualifying cryptocurrency deposits into Robinhood Europe before July 30th.
+## Jordan Sinclair | President of Robinhood UK, Robinhood
+5%.
+## Seong Lee | Senior Director of Product Management, Robinhood
+That's it from us. Five announcements, three continents, and 38 countries. I hope that met your expectations, Vlad.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Well, I think there are four more continents and countless more countries. Are there not?
+## Seong Lee | Senior Director of Product Management, Robinhood
+There are, and we'll get right on it.
+## Jordan Sinclair | President of Robinhood UK, Robinhood
+Come on.
+## Vlad Tenev | Chairman and CEO, Robinhood
+What do you think of that, Johann?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Vlad, thank you for tearing apart my Rear Admirals once again. I think it's a real morale boost for everyone.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Not to worry, Johann. To further improve morale, I would be happy to take over this presentation and share some knowledge from the new world, where we are at the forefront of artificial intelligence innovation.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Hey, don't forget that we have Mistral here in Europe.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Oh, the Mistral. Please don't remind me. Its gusts made the crypto winter especially brutal around the Mediterranean. Fortunately I brought with me on my ship not just gifts and high expectations. I've also brought Gina Pasqua-Abeles to introduce you to the world of agentic trading. Are you ready?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Gina. Watch this, Johann.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood
+Thank you, Vlad. Thank you for taking me across the Atlantic to show Johann this exciting technology. Let's start with Cortex, our personal financial assistant. We've given it a major upgrade to rely more heavily on core model reasoning, which allows Cortex to go far beyond what it was capable of before. This makes Cortex one of the only AI tools that can scan the web for the latest world events, pair that with real-time pricing data alongside trading insights to help you uncover new strategies. There's a lot more it can do, but I'm going to show you just three of my new favorites. First, we launched Cortex Digests last year to help keep you informed. Now you can turn those insights into a live conversation here with Cortex.
+Here, I can pull up any symbol I care about, ask whatever I need to know, and then decide if I want to take a trade. Very cool.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Interactive digests are incredible. For my own investing, I've been relying exclusively on Cortex.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right. Interesting.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood
+Okay. Well, second, Cortex can make your tax planning easier as well, which I think we all likely need. Here, I asked it to show my current lots for Bitcoin, and it quickly found unrealized losses, helping me to uncover opportunities I did not even know I had for harvesting. From here, I can go directly into the tax lot sell flow to take action on these opportunities. Finally, you can now see summaries of what other Robinhood traders are asking Cortex right here in our trending question section.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Check this out, Johann. Truly magnificent right here.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood
+Okay, it looks like a lot of people are interested in stablecoin adoption. Let's dig in from here with Cortex and find out more. I'm sure you all want to start exploring this for yourself, Cortex with advanced reasoning will start rolling out this month to U.S. Robinhood Gold members.
+## Vlad Tenev | Chairman and CEO, Robinhood
+World-class. Simply world-class.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Yeah. If you say so.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Shh. Watch and learn. She's building to a crescendo.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Oh.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Go on, Gina.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood
+That's right. Thank you, Vlad. Our AI journey is just starting. We are not stopping here. Last year, we announced a feature that everyone was excited about, multiple brokerage accounts, giving users the ability to create separate accounts for different use cases. Just last month, we expanded support to crypto. Today, we are going one step further, and we're announcing the launch of agentic accounts for crypto trading. Why is this important? As I'm speaking, on the screens, you're seeing just an example of the pricing data, news, order book for Bitcoin that could happen over the course of just a few minutes. Institutional giants have the ability to use algorithms and rooms full of analysts to scan all of these data points 24/7.
+The reality is, no single trader has the bandwidth to process this volume of data and have the same advantage. Where humans drown, that's where agents thrive. With the launch of the Robinhood MCP and Agentic Accounts, your agent can act on patterns you would have otherwise missed. As you may know, we recently launched support for equities and options in the U.S. We've already seen over 70,000 Agentic Accounts open in just the first few weeks, today I'm excited to share that soon we will introduce agentic trading for crypto as well.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Amazing.
+## Gina Pasqua-Abeles | Senior Director of Product Management, Robinhood
+Let's take a look at some of the things you can do once you've set up your Agentic Account and selected your agent of choice. To start, let's have our agent build a watchlist of stocks that specialize in crypto mining. As the agent is working, you can see your account update in real-time as your watchlist is created. Awesome. Okay, now let's ask it to invest $1,000 in that list. There you go. See, you can see your positions open and your real-time PNL all in your account. Now let's say I want to invest another $1,000 in that same list. I want to wait until these stocks drop 3%-5%. Perfect. Our agent will be keeping an eye and reinvesting based on these parameters moving forward.
+What I love about this is you can work with an agent to create a strategy with specific guardrails and not need to be constantly monitoring your account. If while you're out, your agent does identify an opportunity based on the strategies you've set up, you will receive a push notification alerting you of the action, ensuring you never miss a thing. This is another big step towards giving retail investors every advantage that institutions have enjoyed for decades, it's available at no additional cost with plans to bring it to the U.K. in the near future. That's it for me. One presentation and two agents.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Incredible. Incredible. Johann, amazing, isn't it? The capability of the admirals that we have in the new world.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+You know, Vlad, it's not really fair. I think you are quite a little harder on my admirals than your own.
+## Vlad Tenev | Chairman and CEO, Robinhood
+You're just making excuses. Thank you, Gina. You may return to the ship. Johann, I have something that will truly knock your socks off, a third agent, one that I think you'll find very useful. Robinhood has just entered the agentic commerce space. We see a world with billions of agents paying each other and paying merchants. As you continue to expand our global trade routes, much of this activity will be across borders. There's been a flurry of rushed stablecoin solutions coming to market over the past two years. Let's face it, not a lot of merchants accept stablecoins yet. If you want your agent to transact, here's what you need. Number 1, ubiquitous merchant acceptance worldwide. You need fraud protections because it's dangerous out there. A lot of pirates in the open ocean.
+Third, if you want to be competitive with other payment methods, you need transaction rewards, not fees. We think stablecoins will eventually get there. We're betting big on that future. You'll hear more about that later tonight. In the meantime, while everyone is using the right buzzwords but doing nothing, we've launched what to our knowledge is the world's first consumer Agentic Credit Card, and also the first agentic commerce product that you'll actually want to use. You may have seen our video online where we showed an agent buying a domain, creating a website, and setting up hosting autonomously by itself, three minutes start to finish. Quite amazing. This morning, we tried something new to push the limits even further with our agentic card. First thing we did, in the app, we turned off automatic approvals.
+We do want it to operate autonomously after all. We upped the spending limit to $10,000. We wrote this prompt that I think you'll find interesting. "I'm speaking to 250 people at the Old Royal Naval College in London today. Many of them have supported what we're doing for a long time, and I'd like to get some gifts for them. Nothing too fancy, just interesting items that they might enjoy. I have to prepare for my presentation, so figure out all the details yourself. Make sure you get at least one gift for each person." That's the constraint. "Make no mistakes." Okay. After thinking for several seconds, hopefully we can see it thinking here, the agent leapt into action. Okay. It started adding small, thoughtful gifts to the cart here. You can take a look.
+We've got some fancy chocolates. Always thoughtful. There's perfume and some champagne glasses that I can see there, for that special trader in your life. Some serum for aging skin. I don't know if any of us really need that. From here, the agent actually went ahead and purchased your gifts for delivery today. I thought that was pretty impressive.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right.
+## Vlad Tenev | Chairman and CEO, Robinhood
+A historic first, you might say. I can't be certain about that. Some of you who have been following Robinhood for a long time may know that I have a particular fascination with the Guinness World Records. We were the first major brokerage to offer commission-free trading of stocks, options, and crypto. More recently, again, to my knowledge, we were the first to offer exposure to thousands of U.S. stocks through tokenization. Not to mention private stocks like OpenAI and SpaceX at the time. We were also the first to hold an outdoor earnings call. That was very nice weather. I have no doubt that there are many other firsts, and there will be in the future. I don't know for sure because Guinness wasn't there to certify them officially. Today, starting right now, that officially changes.
+I'd like to introduce you all to Pravin Patel, who is one of the official adjudicators, come on up, for Guinness World Records. Guinness is located in London, just a stone's throw away from here. We had to invite Mr. Patel here in person.
+## Pravin Patel | Adjudicator, Guinness World Records
+Good evening. Absolutely delighted to be invited by Robinhood Markets to verify the record for the most purchases by an AI agent in three minutes by a single credit card. With any Guinness World Records title, the secret is always in the title itself. Most purchases by an AI agent in three minutes by a single credit card, we have to check that. This is a brand-new record, and we love new records. You must have approached us. We want to do this. We like the idea. We didn't tell you, "Oh, go ahead and break the record. Make up your own rules." No, we took the idea, we developed it with you, and then we came up with some rules and some minimums. This is a first record, right?
+We didn't say, "Oh, come with 10, 20, 30, 50, 100, 150." We set you a challenging target of 200 purchases in three minutes. That's the minimum. Again, it's not just about the numbers.
+## Vlad Tenev | Chairman and CEO, Robinhood
+No.
+## Pravin Patel | Adjudicator, Guinness World Records
+It's also very important that you follow the guidelines we have set you. These are very, very strict, so that no matter where you are, whether you're in London here, in Tokyo, in Beijing, or in New York, you have to follow the same guidelines. Absolutely essential. Remember the number 200? I will ask somebody later to remind us what that minimum was.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Amazing.
+## Pravin Patel | Adjudicator, Guinness World Records
+The key points are, the AI agent serves as a decision maker, while a credit card provides a controlled method of payment. An AI system monitors the marketplace, compares available options, and automatically purchases the items. All purchases must be made using the AI agent. We checked that. The AI agent may buy from a single seller or from multiple sellers. It doesn't matter. There can be multiple items purchased in a single transaction. However, all items have to be unique. You can't just buy one item 200 times.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That'd be far too easy.
+## Pravin Patel | Adjudicator, Guinness World Records
+No. Absolutely not. A detailed breakdown of the Agentic Credit Card must be provided. We checked that. Every purchase must be fully completed transaction. We checked that. We didn't want you to just say, "Oh, we've ordered it. Thank you very much. Can we have the record?" No, we actually checked that you actually paid for what you bought. That was important.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Holding us accountable.
+## Pravin Patel | Adjudicator, Guinness World Records
+Absolutely. Pending orders, abandoned shopping carts, pre-authorization holds are not counted. Every purchase completed must be provided in a logbook, and the logbook must be verified by an independent witness. We were lucky enough to have Professor George, thank you very much, of Greenwich University, a real expert. I'm no expert on AI agents. I learned a lot. Thank you very much, Professor George, for providing that expert support in verifying what's underpinning this actual attempt. Thank you very much.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Thank you.
+## Pravin Patel | Adjudicator, Guinness World Records
+Just one more thing. I must mention a crew member from your engine room. He was absolutely brilliant this morning because we went through the attempts, as everything, you practice, we practice, but when it comes to the starting line in a competition, things don't go quite so well. I'd like to thank Arjun and his team.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Arjun.
+## Pravin Patel | Adjudicator, Guinness World Records
+His team, because he was here and his crew were up at 2:00 A.M. somewhere in the U.S., and they're all there providing the support, and they did their work. Can I ask, what was the minimum set? Can I ask somebody? 200. How much? 200. Oh, absolutely, right. With a total of 250, Robinhood Markets-
+## Vlad Tenev | Chairman and CEO, Robinhood
+Wow
+## Pravin Patel | Adjudicator, Guinness World Records
+you are the Guinness World Records title holder for the most purchases by an AI agent in three minutes by a single credit card. Congratulations. You are officially amazing. Let me take a picture. There you go, sir.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Thank you.
+## Pravin Patel | Adjudicator, Guinness World Records
+This is yours.
+## Vlad Tenev | Chairman and CEO, Robinhood
+You know, this has been a dream of mine for a very long time, and this is one of those records that may never be broken. It's like Wilt Chamberlain's 100 points in a basketball game. If it is broken, I hope it'll be broken using our Agentic Credit Card because our team is already hard at work making it faster and more performant. Thank you, Pravin.
+## Pravin Patel | Adjudicator, Guinness World Records
+Thank you.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That was a lot of fun, wasn't it? If you turn and look behind you'll see that your record-setting gifts have been delivered and are being laid out for you to pick up at the end of the event. A gift from our agent to you. Enjoy these as a thank you. You're all part of this record now, immortalized in the annals of Guinness. Of course, breaking this record is just one of countless things that you can do or your agent can do with our Agentic card. You can tell it to procure tickets for the theater or opera the moment they're released.
+Johann, you can ask it to buy that vintage timepiece that you've had your eye on as soon as it's listed below a certain price, or you can have it plan your trip to join us at our next Robinhood Summit in September, transport, lodging, rations. If you want, you can turn on approvals to validate and approve transactions on a case-by-case basis. You can change spending limits. You can revoke access at any time if you feel like it might be going rogue. The Robinhood Agentic Credit Card is available now for all our cardholders. Johann, what do you think?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+You know, that was pretty impressive, I have to say. Very theatrical. Too bad you have to get the credit card only if you're a U.S. customer.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Yep. You've got me on that one. You'll have to get your Royale with Cheese the old-fashioned way. Sorry, Royal Cheese.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right. Well, you may think you've won the day with your agentic announcement, I feel we're all a bit tired of hearing about AI in the news lately. If you will allow me to resume the report you came here for, let's get into what we really care about and the reason we are all here today, crypto.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Well said. The floor is yours, Commander.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Well, last year, we briefly announced something that got a lot of people very excited, the Robinhood Chain. In February, we partnered with Offchain and launched a testnet on the Arbitrum stack and have seen nearly 200 million transactions since. We got to work teaming up with some incredible partners to help us make the chain the best platform for real-world assets.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay. Partners.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+I'm excited to announce that we're officially launching the chain today. All right. Thanks for the applause. Let's be honest, this is nothing to write home about. Every day there's a new chain being launched. It's not special because we did it. It's special because of what this chain now makes possible. I would like to bring up our Vice Admiral, Hillary Skeffington, to tell you more. Hillary, welcome. I'm going to put all the pressure on you. What do you think makes this chain different?
+## Hillary Skeffington | Product Manager, Robinhood
+Thanks for quite the intro, Johann. You don't get to be Vice Admiral by doing the easy work. Let's get into it. A lot of people build chains to launch a token. That's obviously not what we're here to do. We built the Robinhood Chain because we believe decentralized trading should be as intuitive as the Robinhood experience millions of people already know and trust today. What does this actually mean in practice? We put accessibility, fast execution, and security first. In addition, both Lido and Arkus, a new exchange by the team behind dYdX, are launching perpetual and spot trading exchanges on the chain itself so that anyone can access it with their own wallet. That's just the beginning.
+On top of this, the Robinhood Chain is optimized for the world of crypto today, which has changed quite a bit in the past few years. I know, Johann, you said you're pretty tired of AI. As an example, most chains are working on legacy technology that didn't anticipate this development. We designed the Robinhood Chain from the start to be AI native. Already, Uniswap and Privy have deployed their skills directly on the chain. This means developers can easily build agents that act on behalf of users who want to swap a token at the best rate or find the best liquidity pool. They can do everything from connecting a wallet, choosing a DEX, and even sign a transaction. The user just sees the end outcome. That's not all.
+As you may know, our vision is that most of the world's assets will eventually move on-chain. Think real estate, private markets, art, and beyond. Most importantly, we've designed the chain for tokenized real-world assets, for institutional integration, and for a future where TradFi and crypto merge. I'm sure some of you are excited to start exploring what's possible. We've compiled all the necessary information you'll need to connect at the QR code on the screen.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Very promising, Vice Admiral. I hope with a robust chain like this, you have a robust wallet to match.
+## Hillary Skeffington | Product Manager, Robinhood
+We do. We definitely do. We've actually been upgrading the Robinhood Wallet to exist side by side with the chain.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Good. Can we see it?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Actually, if you haven't seen it before, the Robinhood Wallet includes something most decentralized wallets don't have. The same simple UI and UX that made us famous. On top of that, we're bringing over more of our most popular features, including perpetuals. We're rolling out access to this in the Robinhood Wallet now. You will find a first-class experience focused on fast execution and security. Lido will be powering the native perpetual on the wallet as well, and we'll continue to deepen our collaboration with them.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Very nice.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Let me show you how this works. This is what the wallet looks like from the perspective of an international user opening the app for the first time. You will notice this new tab at the bottom with all the perpetual available. To start with, let's choose a contract. What company are you all most excited about besides Robinhood, of course?
+## Hillary Skeffington | Product Manager, Robinhood
+SpaceX.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Right. I heard SpaceX, no surprise there. It was a big IPO. You can see all the contract details right here on the detail page. Of course, you can open a position. Let's say we are going to open a long position. You will be able to change the margin very easily with the slider, you can change the leverage. Let's say we are going to do 6X. Of course, you have a review screen to make sure that everything is right, and you can confirm just by swiping up. Voila, a new order placed in a few taps directly on the Lido exchange, settling on the Robinhood Chain.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Good speed on that.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+That's not all. Lido has committed $11 million worth of LIDO token to the Robinhood community. Here's how you earn your share. Starting August 1st, every perp trade in eligible jurisdictions earn points, and two times in the Robinhood Wallet, and those points will convert directly into LIDO token from that pool. We're not stopping here. Let's talk about global ownership.
+## Vlad Tenev | Chairman and CEO, Robinhood
+My favorite topic. I truly believe broad ownership can change the world.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+I think you will be pleased with what we are doing.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right, let's see it.
+## Hillary Skeffington | Product Manager, Robinhood
+For a lot of people outside the U.S., stock trading is harder to access than it should be. Markets are global, and stocks shouldn't feel locked behind borders, limited to inconvenient time zones, or buried in interfaces that were never built for how most people actually invest. Last year, we did something about it, and as you saw in Vlad's infamous chalkboard, we launched over 2,000 classic Stock Tokens to give our EU customers a shot at getting exposure to companies like Tesla or Apple, all using crypto rails. That was just the beginning. The plan has always been to unlock Stock Tokens, taking them out of our walled garden and into the open world of DeFi. Introducing our new Stock Tokens. Now, to clarify, we're not just taking our old tokens and putting them on DeFi.
+We actually completely changed the structure. The new Stock Tokens are still backed one to one, and now your interest is secured no matter what happens to Robinhood.
+## Vlad Tenev | Chairman and CEO, Robinhood
+That's right, Admiral. Our enterprise rests on a foundation of safety and security. Always
+## Hillary Skeffington | Product Manager, Robinhood
+It does. Next, we're looking to enable institutions to redeem tokens directly for shares.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Brilliant.
+## Hillary Skeffington | Product Manager, Robinhood
+Most importantly, they're built DeFi first, which means you can move them on-chain, hold them in your own wallet, trade them 24/7 globally, and most importantly, put them to work right alongside the rest of your crypto.
+## Vlad Tenev | Chairman and CEO, Robinhood
+All right. Vice Admiral Skeffington, are they available in international waters? My crew was frustrated that they were only in Europe last year.
+## Hillary Skeffington | Product Manager, Robinhood
+Great question. Yes, they are. This time, these Stock Tokens can travel actually much farther. They're now available directly to use in the Robinhood Wallet in over 120 countries.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Over 120 countries. All right. Very good. Very important work. Perhaps one of you can briefly demonstrate how they work.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Yeah, I got this. Let's go back to our wallet that I just introduced you to. Let's search for the stock token of the company that we care about. You mentioned SpaceX earlier.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Oops, not that one.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+search for it. This is a detail page of the SpaceX stock token that will look the same for all the assets that we support. Like any other asset, I can buy it through one of our decentralized exchange connected to the Robinhood Chain. I'm going to use USDG for this demo, but we've also started to roll out easy funding of your Robinhood Wallet with fiat. It supports Apple Pay and Google Pay.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Clean.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Let's say that I'm going to spend about $1,000 to buy the tokens. You're going to get the quotes in real time, updated constantly, and once you're satisfied with your order, you can confirm the purchase by swiping again. It is based on the Robinhood Chain, everything is going to update pretty quickly, and you will be able to see your balance changing right after.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Wow.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Now, like any crypto asset, you can transfer this token or use them on DeFi as collateral. This is where it gets even more interesting. Let's travel 3,100 miles south of here, directly along the Prime Meridian, where a friend of ours, Abu, lives. He works with Beast Philanthropy in Ghana, he's helping build an education fund to give young people in cacao-growing communities more opportunities. They are a great organization, we made a donation recently. In addition to that, let's say I wanted to send him a Stock Token to start investing. It will usually take two to four weeks minimum, so much paperwork and bureaucracy, it's almost not worth it. Unfortunately, this is true of sending stock to most countries. On crypto rails, it only takes a second to send a Stock Token around the world.
+All he has to do is to download the Robinhood Wallet, send me the QR code, I can get him the tokens immediately. No red tape, no intermediaries, no four-week nightmare. To show you what I'm talking about, let's send this SpaceX Stock Token to Abu, who is in Ghana right now. Abu sent me his QR code, all I have to do is to open the send flow, scan the QR code, then get this to him. Of course, there is security, always. That is that quick.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Wow.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+They should already be in his wallet. Let's check in and see if he got them.
+## Speaker 8 | 
+Hi, Johann. We just got them. We are super excited for receiving something like this. On behalf of the students and their families across all our 11 partner communities, we say a very big thank you to Robinhood and everyone who has contributed to this great effort. This support will help many young people to stay in school, continue their education, and build a brighter future for themselves, their families, and the community as a whole. I hope you visit us soon to see the difference this makes in the lives of the community members. Thank you. We really appreciate this a lot. Thank you so much.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Obviously, we would have loved to have Abu call us in live, I really hope that I can take him up on his offer if Vlad allows me to take a vacation.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Team, the idea that ownership of stock tokens for such innovative companies could be extended so far across the world would've seemed like science fiction just one year ago. I'm excited for this to become commonplace and hopefully lead to a massive expansion of global wealth and opportunity.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+You're-
+## Vlad Tenev | Chairman and CEO, Robinhood
+I heard what you said about vacation.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Okay. I will try to do a very small one, though. You are right. This is one of the biggest steps we've taken in terms of our mission to make everyone in the world an owner. As you just saw, wherever you may be in the world, the Robinhood Wallet is one of the best way to get exposure to U.S. stocks, perps, and more. To celebrate all this, we're picking up the tab. For the next 90 days, we'll cover gas fees in the wallet for anyone transacting on the Robinhood Chain. That means your gas fees for swaps, crypto and Stock Token alike, and any bridge transaction into the chain are on us. Of course, no fees on perps using Ladder. Is that up to your standard, Vlad?
+## Vlad Tenev | Chairman and CEO, Robinhood
+I must say, Johann, I think you've succeeded in opening up infinite new paths to ownership. Pravin, what do you think? One more?
+## Pravin Patel | Adjudicator, Guinness World Records
+Yeah, absolutely.
+## Vlad Tenev | Chairman and CEO, Robinhood
+One more record?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Speaking of records, I should add, if you are one of the viewers of last year's event who received the first-ever private SpaceX token a year before the IPO last month, they will be fully tradable as soon as the standard lock-up period expires in December.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Truly. You've surprised me, Johann. I must admit, I feel a little bad. I was a bit hard on the rear admirals earlier, was I not?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+You were, sir. A little discipline is good for product velocity, after all.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I'm glad you said that. I feel much better.
+## Hillary Skeffington | Product Manager, Robinhood
+Actually, we're not done yet, Vlad. Before you go, we have a tribute just for you, something special that we want to bring back to the new world.
+## Vlad Tenev | Chairman and CEO, Robinhood
+A tribute for me? All right.
+## Hillary Skeffington | Product Manager, Robinhood
+That's right. We have something we've been working on for our U.S. customers, our first DeFi lending product. First, though, let's talk about the way things used to be in crypto. Johann, I hear you lived through quite a few hardships.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Yes. I have many. Exploring new frontiers in the financial world can be dangerous. Last year, I shared my tragic Mt. Gox story. This year I would like to talk about the incredible yield I was making on my UST on the Terra blockchain.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Ugh.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+I was not the only one, apparently. We all know how that ended, and that's why I'm still working at Robinhood.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Wait, you don't mean it's not because of the ambitious mission and visionary leadership?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Yeah, that too. There used to be a trade-off. You stick with TradFi and you make less yield, but your money is safe. You take a risk for a higher reward and go with crypto, but you're in the open ocean. Anything can happen, and no one is there to protect you but you. That's why we're excited to launch Robinhood Earn, the first decentralized lending product available through the Robinhood app. We've spent the last year searching for a way to give you the best of both world, higher rewards and higher protection, powered by the Robinhood Chain. Of course, that means using not just the Robinhood Chain, but also the stablecoin that powers it, USDG. USDG is our native dollar-backed stablecoin, which has already grown to a market cap of almost $3 billion in less than two years.
+Of course, you can mint and redeem USDG on Robinhood for free. Hillary was the lead on this, so she's probably more qualified than me to show you how it all works.
+## Hillary Skeffington | Product Manager, Robinhood
+Thanks, Johann. Really, anyone can do this. That's kind of the whole point. In order to access these higher rates, you usually have to set up your own non-custodial wallet, navigate a new protocol, figure out all kinds of permissions, and then finally connect multiple applications to track your performance. Not today. Now, you'll be able to access these rates in a self-custody wallet that's embedded directly into your main Robinhood app. You can put your crypto to work and start earning rewards instantly with everything visible where you already manage your portfolio today. Okay, what is the rate?
+## Vlad Tenev | Chairman and CEO, Robinhood
+The question on all of our minds.
+## Hillary Skeffington | Product Manager, Robinhood
+Yes. Before I show you, when we looked at other products, we saw they would lead with a really impressive hero rate. Within days, or actually in my case, literally within the same day, that rate would drop by as much as 100 basis points. That's why Robinhood Earn is launching at a 7% APY.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Good rate.
+## Hillary Skeffington | Product Manager, Robinhood
+That's not all. The APY moves in step with the volume of loans, an approach we believe will result in a more predictable rate over time. Now let's discuss the second problem with higher rates, safety. I definitely don't want to end up like Johann. We searched the globe to find the best insurance we could, and we found exactly that. Two insurers, one shared mission. We've partnered with the venerable Lloyd's of London, who bring three centuries of strength, and Relm, whose expertise are built for the digital asset economy.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Vlad, this will actually be one of the largest ever insurance program across the crypto industry.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Quite possibly, rumor has it, the largest, right?
+## Hillary Skeffington | Product Manager, Robinhood
+Potentially. Underneath this, the lending itself runs on Morpho, one of the most established protocols in decentralized finance, all accessible via the main Robinhood app. I'm actually going to show you how easy it is to lend my crypto and earn the 7%. Fair warning, the 7% was just too good, so I actually deposited about $20,000 a few days ago. As you can see here, it's doing pretty well. I'll lend a little bit more, and I'll lend about $1,000 so you can see the full experience at scale. This product uses USDG, but you can actually start with your own cash balance. Rather than buying USDG and then separately starting a deposit, we've made it a seamless flow, so that you can both buy and lend within the same experience.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Very good.
+## Hillary Skeffington | Product Manager, Robinhood
+All right. I'll start by lending. I'll input $1,000. I'm going to confirm my USDG purchase. By submitting, I'm actually authorizing this transaction on chain. That's three taps, and faster than swiping my credit card.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+It's definitely faster than the agentic credit card purchase you just demonstrated.
+## Hillary Skeffington | Product Manager, Robinhood
+The deposit will settle on the Robinhood Chain within a few seconds. As you can see, just like that, the earnings are accumulating right now, live. Now let's say I'd like to use a portion of these funds for a vacation, say right after this, hopefully.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Vacation. What's up with all these vacations?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+It's the summer, after all.
+## Hillary Skeffington | Product Manager, Robinhood
+It's as easy as clicking withdraw, inputting an amount, review, submit, again, in a matter of seconds, the USDG will be available back in my Robinhood crypto account. As far as I can tell, this is the first time DeFi is reaching mainstream customers at this scale with this much simplicity and launching at a 7% APY. Traditional saving rates top out well below that, and DeFi has offered high yields for years, but without the safety mainstream customers expect. What's new is the combination, a competitive rate, but now with more protection and simplicity than DeFi has traditionally offered. Today, we'll be rolling out to 1% of U.S. customers, including everyone here in the audience that is eligible, and ramping up to all qualified customers over the next few weeks.
+Don't forget, if you're moving your crypto over to Robinhood, we're offering a 3% match on eligible cryptocurrencies. While I'm no mathematician like Vlad, 3% when you deposit, some 7% when you lend sounds pretty good to me. We've been working really hard on this for the last year, I'm very excited to finally get this into the hands of customers. Back to you, Johann.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Thank you, Hillary. Thanks to Hillary, for the first time, Vlad is speechless.
+## Vlad Tenev | Chairman and CEO, Robinhood
+It's pretty good. Pretty good.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Tell us, how are you feeling about tonight's report? Do you think we accomplished the mission?
+## Vlad Tenev | Chairman and CEO, Robinhood
+Well, Johann, I don't intend to be ungrateful, for a tribute, I was expecting a bag of gold or some valuables, not exactly a product launch. Do you have nothing else for me?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right, Vlad. We all know your net worth, and 7% of yield on your existing net worth, that's way better than a bag of gold.
+## Vlad Tenev | Chairman and CEO, Robinhood
+I'm not going to lie, I was doing the math in my seat there.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Well, send it over.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Okay. I love that confidence. Anyway, you had asked earlier whether I really believed that the world was flat. You yourself have just proven it so, and expanded ownership to every corner of the globe.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+All right. I see what you just did there. I think we have enough. You can finally erase your chalkboard now.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Well, I don't know about that, Johann. You see, I'm an explorer at heart. We never erase our maps. We push further into the unknown, and we add to our maps. You see, there are always new regions where ownership is less common. There are important discoveries to be made. There are incredible possibilities of this technology that we're building to be shared with customers and, of course, with the world. What do you think, Johann? Do you think you and the team can handle all this?
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+Well, if you didn't make them all quit today, I'm sure they can.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Great. I've got to admit, Johann, I am pleased with your progress, and I'm also pleasantly surprised by the innovative spirit you have here in the Old Continent. I think it's time for me to leave you to your business because you're doing just fine without me being here. Keep an eye on those admirals, though.
+## Johann Kerbrat | SVP and General Manager of Crypto and International, Robinhood
+I will.
+## Vlad Tenev | Chairman and CEO, Robinhood
+Thank you also to everyone here for coming from all corners of the earth to be with us tonight. Godspeed, and see you at Hood Summit
+Data Source: Quartr Last updated: Jul 1, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (8) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

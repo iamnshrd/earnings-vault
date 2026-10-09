@@ -1,0 +1,610 @@
+TITLE: J.P. Morgan 54th Annual Global Technology, Media and Communications Conference
+DATE: 2026-05-19
+## Mark Murphy | Executive Director, JPMorgan
+Awesome. Welcome, everybody. Thank you for joining. Brannin, you know how to draw a crowd. For those who can't see, there's a lot of people standing here, so I'll give all that credit to you. Quite an extraordinary 14 months for the team. IPO'd last year. Full year FY 2025 revenues, $5.1 billion. Two weeks ago, nearly $100 billion in backlog, $40 billion new bookings in a single quarter. For the one or two people who don't already know you, could you introduce yourself, what you do as, you know, a co-founder and Chief Development Officer?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah.
+## Mark Murphy | Executive Director, JPMorgan
+Just a little about CoreWeave.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah, absolutely, t hank you. Brannin McBee, CDO, one of the co-founders. I lead all things capital markets for the business, so that's capital formation, M&A, venture investing. Basically, whenever you see one of these DDTL deals convert high yield, that's my team leading those processes. Our responsibility is keeping the business funded and being able to grow at the pace of AI.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah, yeah. We'll hit on one of the items in the in the news for you guys, which is that Blackstone Google deal. Anything you wanna riff on there, let investors kind of noodle on?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah, yeah. Look, I think, you know, first and foremost, it's just yet another demand signal.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That's out there. I don't think that this room really needs more signals and more conviction that there is overwhelming and insatiable demand for AI. You know, that's our takeaway that's there. I think as everyone knows as well, this is a TPU cloud that's being built. I mean, to me, it makes sense that Google's gonna want to empower others to go build TPU cloud, much as Nvidia has empowered others to go build GPU clouds.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Our business is not TPUs. Our clients come to us asking us to build GPUs and explicitly, Nvidia GPUs. I think the last thing I'd say is Blackstone and Google are both massive and fantastic partners of ours.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Blackstone did our first DDTLs. I think they participated in every single transaction that we've done. I was speaking with one of the partners this morning, they're gonna be participating on our upcoming transactions.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? Like, that relationship doesn't change. Google is a large GPU client of ours as well. They're a multi-billion dollar client consumer of our GPU platform. Look, just comes back to this is another demand signal, and we wish those guys the best of luck in the TPU space.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+Yeah. Yeah, I think you guys have kind of emphasized this, and we've tried to as well, which is this is a obviously very rapidly growing pie. There's a lot to go around for everybody, it seems like.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+There is, and that pie for us kind of sits across three clients or three client types. I would say it's hyperscaler demand, like traditional cloud, coming to us because we offer a differentiated product to them, and, like, they keep coming back over and over and over again. It's AI labs, which I think everyone knows well what that cohort looks like. We were very excited to announce Anthropic as a customer last quarter. That got added, I think, nine of the top 10 global non-China AI labs are on our platform today, which is incredibly exciting from a diversification perspective, incredibly exciting from a, like, just verification of we have the best performing product in the space for all these entities, and it's just become kind of de facto mandatory to work with CoreWeave.
+The last customer segment is one we don't get to talk about very often.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That's enterprise, right? You know, the great indicator for enterprise is inference demand. A great indicator for enterprise, I think, is famously just, you know, following what Anthropic has done in this space, right?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Their client base is predominantly enterprise. They've grown so much. I mean, I believe, you know, the questions I was getting from this room six months ago is, Where is enterprise demand?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Is it gonna show up? Is enterprise adopting AI? I think that answer today is overwhelmingly yes. If the question is, are they working with CoreWeave? That's also overwhelmingly yes. It's just we don't get to talk about those deals as much because those are eight and nine-figure deals. They're not 10 and 11-figure deals.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+like our huge banner contracts that have culminated in $100 billion in backlog. Make no mistake, you know, in Q4, we added more than double the number of logos that we had ever added in any preceding quarter.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Those logos are coming from enterprise.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Enterprise is rapidly growing on our platform. Across those three segments, we're incredibly excited to have such a diverse set of clients out there.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah. A lot of threads we're definitely gonna pull on, I think to start off with the one area we can't miss is you guys are very clear about the demand environment.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah
+## Mark Murphy | Executive Director, JPMorgan
+More than anybody else out there. Just a couple quotes here. "Demand is insatiable. We're turning customers away at the door." I think Nick said, "I'll give my unborn child for 100 megs of contiguous power in 2026.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+He's pregnant now too.
+## Mark Murphy | Executive Director, JPMorgan
+He's got to follow through on that.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yes. Yeah, he has to follow through if we find that.
+## Mark Murphy | Executive Director, JPMorgan
+I think, especially right now, it's a little bit rare to hear about, you know, that level of demand. If we just go one level below that, and I'm sure it's all of these, but maybe hit on them. Is it the new cycle of chips, agentic workloads, enterprises kind of crossing that threshold for AI adoption? What is kind of coming together here all at once?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah. I think it's inference, right?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That is really kind of pushing this next lurch in demand. Training was obviously a massive part of establishing the AI product. Well, now it's monetizing the AI product that's out there, and i f you don't have the infrastructure, you do not have an ability to monetize AI as a revenue stream. I think one of the clearest indications of that maturation of the monetization of AI is moving into these other components, right. It's moving into CPU. It's moving into storage.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+It's using agentic workloads. Like, this is all an evolution of an already existing demand base where it was all just like, frankly, kind of simplistic LLMs. Well, now we're moving into truly empowering workforces to work with this agentic platform.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+To do that, it requires different components to work with now. Like, these things that, like, start resembling the cloud that everyone in this room is familiar with from the 2010s that relied upon lots of peripheral components to serve different elements of the workload stack.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Demand stack. That's something that we are purpose-built for. It's something that our clients have been telling us that they need for quarters at this point. Like, it's sort of an underappreciated fact. Like, having such a diverse client base, we are directly supporting the leaders in the AI space every day.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That direct support is a dual-way dialogue, right? They're telling us what they need, and we are then able to be proactive in market. We're able to be proactive in supply chain with these components and ensuring that we are moving our technology, our engineering teams, our procurement teams in the right direction to support where these guys are going over the next 12-24 months.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah, maybe just one aspect of that. I mean, how much of that pull forward and, you know, what specification customers are wanting also figures into that software layer of it. Is that kind of increasingly becoming a big factor as more of this inference is coming in?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah, I think it's that software layer for us is Mission Control. It's SUNK. It's how do you provision and operate these clusters at scale.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+At the end of the day, you know, there's a handful of companies that have delivered over 1 gigawatt of billable compute.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+It's a massive number, right? like, people just throw around gigawatts today like it's, like it's nothing.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I think a lot of the time when people are throwing around gigawatts, it's they have security gigawatt of power.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+They bought land that has a gigawatt of power associated with it. There is a chasm.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+of execution risk between contracting for power and delivering billable GPU hours.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That's where our software stack sits.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That's where our supply chain and procurement sits. Like, that is the magic of CoreWeave, that we can build supercomputers at scale.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Maintain them and keep them online and operate them. You know, it's a little bit of a tangent, but, like, you know, doing this in space is gonna be an entirely different thing. I struggle to see how that's a near-term reality given just how hard it is to do on the ground. CoreWeave is simply best in class.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+At doing it on the ground, and we're recognized by not only the most demanding AI clients in the world, we're recognized by the most demanding AI suppliers in the world.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+relationships across the supply chain. I mean, these GPUs aren't just going to anyone. They're going to the people that can bring it.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+online and have a demonstrated track record of execution.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah. Yeah. I think one very important topic touched on is inference. I remember at the beginning of this year, I think you guys were at a conference saying, "Hey, you know, keep an eye on this. It's coming.
+You know, there's observability players who have been calling it out as well. A lot of subtle signals. I think it might be an underappreciated part of, you know, what the downstream impacts of that are. If we just kinda dig into it, you guys had said on the Q1 call that it's materially in excess of 50% of your power draw based on what you guys can see. You've been saying that it's been picking up. You referenced it earlier. Are these workloads Like, how should we imagine they're percolating across your install base? Is this customers who are transitioning from training to inferencing? Is it people coming net new just for inferencing? What does that look like from your perspective?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Great question. I would say it's both. Let me start on the architecture side and moving from training to inference. For the most part, in an infrastructure's or in an architecture's life cycle, the first 12-ish months are focused on training, right?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+'Cause that's your opportunity to advance your models beyond the rest of the competition.
+## Mark Murphy | Executive Director, JPMorgan
+Right.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+After that, it's largely fine-tuning and inference.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Thereafter, right? What we build is AI infrastructure, meaning it's infrastructure that we use for both training and inference. We don't build explicitly for training.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+or inference.
+## Mark Murphy | Executive Director, JPMorgan
+Okay.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Our clients seamlessly use their infrastructure with us for everything.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? It crosses both training and inference. When we qualified 50%, I would say that that's reflective of Hopper maturing.
+I would say that's reflective of also new clients coming in who want only inference.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Like, they're not training foundation models. That's like financial services-
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+for example, which I think, financial services, out of my notes, they're over $10 billion.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Of our backlog today, right? Like, that's a massive number that I don't think many people in this room.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That our backlog has that much financial services associated with it, and they are heavily relying on Hopper, Blackwell, Ampere even for inference. That does bring up another question that is just coming up less and less frequently now, which is what is the appropriate depreciation or life cycle of GPUs?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+We use six years. Our peer set uses six years. I think at the end of the day, that might end up being conservative.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Frankly, I wouldn't expect, you know, any change in, anytime soon. But from what we're seeing, I mean, Hopper prices are going up, Ampere prices.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Are going up. Blackwell prices are going up across the board. This isn't a people only want the latest generation in technology. They want the technology that's the best fit for their workload.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Surprise, surprise, that's not just the latest generation GPU.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+It reaches all the way back to Ampere, and that's on our platform, right? You can look at the broader cloud, and you're gonna see Tesla and Volta GPUs.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That are late 2010 SKUs, and those are still running online. They're not running for free and for fun.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+they're running because they're profitable.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Interestingly, you know, those are well past their six-year depreciation curve, that is the single largest input cost of running our infrastructure is depreciation. You know, for us, our focus has been signing these five and six-year long-term take or pay agreements to fully de-risk the depreciation period, to fully handle the CapEx interest operational expenses, kick off a 25% contribution margin up to the parent co.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+After that, man, we have a pretty interesting asset class to work with.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+We've paid the GPUs, after the depreciation has run off, and demand looks like it's just gonna continue to be insatiable.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah, maybe one framing that might be helpful is when you have these customers that are transitioning from training to inferencing, what does that life cycle look like? I mean, is that within the six-year contract, like you're gonna do three years training, three years inferencing? 'Cause I've heard from, you know, contacts in the field, sometimes it's, "Hey, it's four years training, four years inferencing." All of a sudden you have this data.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Sure
+## Mark Murphy | Executive Director, JPMorgan
+center kinda being used with the same, you know, CapEx you put into it for quite a while.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I would say it varies.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+For our clients, it's seamless. Like, literally, it can be hours later. They can be using the exact same infrastructure for training a next-gen foundation model across hundreds of thousands of GPUs.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+The next hour, they're running inference.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+On it, right? Like, that's how seamless it is.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That's because of not only how we build the infrastructure, but how we operate it from an infrastructure management, infrastructure orchestration perspective.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah. Is there any future where there are inferencing dedicated facilities, or you have I mean, it's a bit of a myth that inferencing.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Like data facilities.
+## Mark Murphy | Executive Director, JPMorgan
+needs to be at the edge, right? Obviously some of that will be. Is that in the cards or it's, kind of doesn't make sense at this point for you guys?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+We are client led.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+In what we build, what type of data center capacity we procure. Clients aren't asking.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+For that, right? They're not too latency sensitive, right? Like, I don't know about you guys, when I use ChatGPT or Claude, I can't tell a difference if it's a 10 mil or a 20 mil response time.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+It's And accordingly, our clients really aren't emphasizing that too much. Like financial services probably emphasize that a little bit more...
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+...in location of the site. Overall, we're not getting client demand to build something that is edge, or client demand that is inference only, and we're not getting client demand for, frankly, chips outside of Nvidia's infrastructure either.
+It's just been consistent of A- and it might be a little bit self-selecting just 'cause we're known as the best operator.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+of Nvidia's infrastructure on the planet. At the end of the day, we're, that's not, like, a question in the pipeline.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? The pipeline isn't full of clients saying, like, "Well, here's my TPU pricing. Can you match that on GPU?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Like, no one asks that.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That doesn't come up. I think the client has already made a decision what they want to do. There isn't fungibility between those two architectures.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? That's a very fundamental decision.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+between the two of them.
+## Mark Murphy | Executive Director, JPMorgan
+I know I've heard you say this, but just to put a finer point on it, if you did have clients coming to you saying, "Hey, we wanna use XYZ, you know, semiconductor technology.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah
+## Mark Murphy | Executive Director, JPMorgan
+You would do it.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah, look, I think we would absolutely consider it. It would need to be at a pretty large scale.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I think the main point there is our operational stack, like how we provision and operate compute, is not dependent on the underlying hardware.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Meaning we can operate really anything we want. I think we've demonstrated that even within Nvidia of moving from Hopper to Grace Blackwell. Those are entirely different architectures, right? It's a completely different compute platform between those things, and we were first to market with that infrastructure because of our provisioning and operational solution that we have. It's not just us plugging things in quickly. That's us having such a malleable operation stack to run and incorporate new pieces of infrastructure, CPU, storage, like, all these other peripheral components that are starting to come into market right now. The CoreWeave solution is the best solution in the market to run workloads for artificial intelligence.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah. You hinted a bit earlier, you know, this kind of large tail of enterprise customers coming in.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah.
+## Mark Murphy | Executive Director, JPMorgan
+I'd love to hear your perspective. Does that change how you're going to market with those? Are those customers like, you know, a lot of the others who just come into your door, knocking on your door and, you know, asking you for your solutions, or are you guys kind of doing that outbound as well there?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+We do that outbound. We certainly get a lot of inbound as well. We recently brought in Jon Jones to lead our revenue organization. He's building that and has delivered a very enterprise forward sales mechanism that's out there. Those clients, I mean, they've been flooding our platform since last year.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I think the enterprise demand is robust. I think that that's really indicative of just how differentiated our platform is as well. I mean, it's a heavy lift.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+To exit or split your workloads from a hyperscaler platform to moving somewhere else. There has to be a lot of reason for you to do that, and that reason isn't just supply and the market. I think that reason is product differentiation, and we're really proud of the client base we've been able to pick up on the enterprise side.
+## Mark Murphy | Executive Director, JPMorgan
+Beyond the fact that I would assume they do a little bit more inferencing versus training, right? These enterprise customers. Is there any difference in how they kind of contract, utilize your platform? I mean, like you said, they're not as big commitments in terms of pure dollars individually.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Correct.
+## Mark Murphy | Executive Director, JPMorgan
+Do they have similar kind of dynamics of 6-year contracts? Are they a little bit shorter? Is there any on-demand there?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I'd say our contracts are four to six years in duration. That's inclusive of enterprise as well. Like, they're wanting to sign longer term commits on those contracts. It's all similar margin profiles as well. As I mentioned, and we have materials on our website, we target a 25% contribution margin of operating these clusters at the SPV level.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+back up to the parent. We target that regardless of what the underlying SKU is, right?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+We have margin targets at the launch of each next, each generation of architecture, and, then we bring that into market, and that kind of sets pricing, et cetera. I wouldn't say material contract difference is between enterprise, AI labs, hyperscalers. Not that much of a duration difference either.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Use inference.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+We see enterprise pretty heavily leaning into inference relative to training.
+## Mark Murphy | Executive Director, JPMorgan
+Do you think there's any chance some of these enterprise customers kind of upscale their contracts before they run out? I mean, it feels like they're.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah
+## Mark Murphy | Executive Director, JPMorgan
+Very early innings. I assume they're not, you know, kind of projecting 10 times, 20 times growth in that. Do you think there's any chance they're undershooting how much demand they'll have just 'cause they're still experimenting with it, or in early innings? However you think about it.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I think so, and I think that's what you're seeing out there as well. I mean, we've all seen the reports of, you know, engineers using 10X-
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+The credits that they had been budgeted, but it's driving productivity, so management teams are allowing for it. That, and I would say that that's the exact same cadence we saw with our AI lab clients, our hyperscale clients, when we were really growing within those sectors over the past few years, is you get onto the CoreWeave platform with your first contract, you get some, you get used to operating with us. You say, "Wow, this is fantastic," and then you go sign your expansion contract, an expansion contract. To us, it's less of, like, renewal cadence, right? Renewals sound like kind of stable market.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Meaning that it's not in hypergrowth anymore. Everyone kind of knows what they need and what their demand profile is, et cetera. It's just not the cadence that we're in right now.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+When renewals do come up on our platform, we are seeing clients take advantage of that.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+We typically work with that as well. They get renewed, like our Hoppers, Amperes are being renewed into new one-three year contracts right now. I would say our business plan was for that infrastructure to kind of roll off into on-demand pools instead, after its initial contracting period, but it's really hard to say no to 100% utilization rates, in firm economics.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+for a multi-year period.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? Like, sure, margins are more attractive in an on-demand environment today, but we don't know what that looks like 3 months, 6 months.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Nine months from now. What we're trying to play is the longer game of how do you de-risk a business with so much capital consumption and deployment in such a high-velocity technology market? You do that with long-term take or pay contracts.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+in a way that fully de-risks the infrastructure.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah. I think that's a great segue, you know, talking about the contract structure, contribution margins earlier. Let's just talk about margins at a whole. Q1 is supposed to be a trough for you guys. You've reaffirmed that you're gonna exit the year at, like, a low double digit pro forma operating margin.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yep.
+## Mark Murphy | Executive Director, JPMorgan
+Long-term target, I think still is 25%-30%. We're in mid-May. You got a lot of deployments coming up in the back half. What's giving you that confidence in that you'll be able to exit the way you want to exit?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah. I'd say last year when we were presented with kind of a similar scenario, we had so many deployments that were coming online in December.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+like, that's really tough to kind of cram it in in December.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+In Q4 at the end of the year. This year, those deployments are coming online right now, right? Like, this is all verifiable information. If you go look at our data center providers, you can look at their capacity ramp schedules for us and just directly translate it to our platform. The bulk of our capacity is ramping today in Q2 and in Q3. You're seeing that show up in our numbers as well from an OpEx, CapEx perspective. I think that just kind of like a small learning curve for the market was that investment precedes revenue within the infrastructure space.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+What you've seen with our margin compression, and agree that Q1 was the trough.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+We're expanding out of there, and everything that we gave in the guide I think is absolutely correct. You're watching that investment period with lots of infrastructure that's-
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Coming online, that infrastructure is coming online right now. That, I think that's what really offers my confidence in the H2 numbers that we've given into the market is, like, we're watching all this come online. All these deployments are coming online for contractual commitments, right? We know the economics.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+of them. We have all the infrastructure for these deployments. We know the costs of the infrastructure for all these deployments, and thus we know what the margin profile.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+is for them accordingly.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah, for you guys, it's a.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+It's just execution.
+## Mark Murphy | Executive Director, JPMorgan
+math problem, kind of.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah.
+## Mark Murphy | Executive Director, JPMorgan
+Just working through it.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah, execution is. You know, we've delivered a gigawatt of billable GPUs.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I think there's maybe four companies on the planet who have done that. It's an unbelievable amount of infrastructure that we've brought online. I could not be more proud of our team to have done so. Execution is what matters. Execution, by the way, is I think what's allowed for us to drop our cost of capital.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Aggressively, right? Like two, three years ago when we were doing our first DDTLs, that was being done at plus 850.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Microsoft offtake.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? I think that same contract today, all variables being held equal, we're getting done at S plus 200, S plus 225. That gap, that massive decrease in cost is all execution, right? That we have a proven track record of being able to participate in the credit markets and deliver billable GPU hours, and I don't think that we're kinda second to none in the market for doing so.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah. Again, great segue. Let's talk about financing. A big topic for you guys, to say the least. You know, I think there's two parts for it, right, which is the cost of it and the access to it.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yep.
+## Mark Murphy | Executive Director, JPMorgan
+Both of those are pretty important to you guys. You've talked about how that cost has come down pretty substantially. You've got a lot of investments coming in, debt, equity, all sorts of mechanisms, and you closed, I think, the DDTL 5 today officially, right?
+Maybe just talk about where you see that cost side going. I mean, is there a floor you kind of reach as, is there execution, then whatever your customers are, and how do you see your path towards investment grade?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah, our thesis on financing has been this is a debt finance business.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? If this was an equity finance business, we would just be raising tens of billions of dollars of equity, many tens of billions of dollars of equity every year, and that would be a pretty tough case to the equity market. Look, at the end of the day, like, it makes sense to use credit to fund this infrastructure, right? You have a physical asset, you have take or pay agreements. It's a concept that's not unfamiliar across the credit market.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? We kind of think about the financing flywheel in two ways, right? There's parent co financing, there's asset co financing. Asset co is where all of our large contracts sit. It's where all the infrastructure associated with those large contracts sit. That's the DDTL sell facilities that we've been doing. Those facilities are being done at 90%-100% LTCs for investment grade offtake, 70%, 75-ish percent LTCs for non-investment grade offtake. That's the leverage-
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+profile that we're able to bring to market there. Then parent co is responsible for funding any of that, like, kind of delta in gap.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? That's where parent co financing sends back down to asset co. Parent co will continue to be a mix of convert instruments, high yield instruments, equity issuance.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+whatever kind of sits there, but I think it'll be a diminishing percentage on a relative basis because we will keep ratcheting up the LTCs.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+down at asset co, and then also asset co is kicking off net proceeds to parent.
+## Mark Murphy | Executive Director, JPMorgan
+Parent.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? Like asset co is profitable from that sense. Like, it is margin accretive up to the parent, and parent will get a larger and larger stream of these, like, kinda clean net proceeds from asset co that it just turns around and sends back down into asset co. That will reduce our reliance on issuing these parent level securities-
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+over time.
+## Mark Murphy | Executive Director, JPMorgan
+Related, but maybe we can hit it quickly, like, there is sometimes the question of, like, how are you guys gonna raise all that debt, all that capital? It seems like your access to capital is pretty substantial. Maybe just touch on it.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I think we've done a pretty good job. Yeah. The DDTL 4 was our first investment grade rated instrument.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+That's a massive milestone, right? Like, being able to get there, it opens the world to be able to participate in our credit instruments. That was just a phenomenal deal for us. You know, within that deal, we introduced some technology. We actually had a 90% LTC transaction in, like, the construction phase, but the revenue phase, we have an additional, I think it's a 14 percentage point unlock.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+For an ABS style financing that takes it to 104% LTC. Like, that's fantastic for us, right?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Like, that's just a further enablement of asset co to be able to self-finance.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Not require these parent level financings. That facility, again, was for investment grade. I don't think we're quite there for non-investment grade counterparties.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+yet, right? The best example of non-investment grade deal is what we just completed, announced today, which was DDTL 5. That was done at S + 450, think, like, kind of 70%-ish LTC.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+on that deal. The advancement of that transaction we really liked is it was a publicly syndicated security.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I mean, that's a traded asset now. That's the first time that's really been done, and it was met with overwhelming demand.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I mean, that was a $3.1, $3.5 billion facility. It had $19 billion of demand.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+It was the largest ever, TLB, demand book.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Pretty wild, right? I think that just goes to show you how much demand there is for exposure to AI within the credit world, even if it's non-investment grade, right? Like, that was OpenAI and Cohere.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+The demand is there for it. I think You know, headlines, media will say one thing about the market's appetite of demand, when you have $20 billion worth of demand for these credit instruments showing up in the market, I mean, that speaks for itself. That's the reality.
+## Mark Murphy | Executive Director, JPMorgan
+Wanted two things. I'm a little short on time but, you know, let's talk about supply. It's not just energy. You have electricians, transformers, all sorts of stuff, but can you talk about where you're seeing the most tightness right now? When you look forward to 2027 or any time in the future, when do you see that loosening up? 'Cause, you know, you have a lot of push and pulls, and it takes time to train electricians, right? Do you see that loosening up at any point?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I feel like we've been asked this question for the last four years. Every time we've said it's a ways out.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+I think it's still a.
+## Mark Murphy | Executive Director, JPMorgan
+It's always five years from now.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah. That's the reality, right?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Like, we are I struggle to see a kind of supply-demand balance before the end of the decade.
+It Truly, I don't know how that gets resolved. I think today it's on powered shell. It's not electricity, right?
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+The electricity is accessible. It is there. It's the ability to consume electricity at the rack level that's not there, and we refer to that and the industry refers to that as powered shell capacity. What is powered shell bottlenecked by? You're absolutely correct. Electricians. Massive bottleneck...
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+...within powered shell delivery timelines. You have transformers, you have backup batteries. Like, you have all of these components where these are global supply chains that were not built to scale and react at the pace of AI, and it's going to remain constrained. For us, how do we navigate that? We have over 43 sites in operation today. Like, we've been navigating this for years. We know how to deal with supply chain disruptions. We know which partners to work with. We know how to solve problems when they pop up. I don't believe that that is gonna change...
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+...in the near term.
+## Mark Murphy | Executive Director, JPMorgan
+One question we love to ask, and I think for you it's probably more relevant than other companies, is, you know, when we're sitting here a year from now, what do you think the audience is kind of gonna appreciate, that they maybe don't appreciate now, right? What do you see on the horizon?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Yeah
+## Mark Murphy | Executive Director, JPMorgan
+that others probably aren't giving enough weight to?
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+It's a point I hammer on a lot, and we touch on it briefly, but it's this concept that, like, signed power-.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+...like, or signed leases, does not translate to revenue.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah.
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+Right? I think, again, that there is an oversimplification in the market of, well, this company has 500 MW of signed power. That must mean that they're gonna be able to easily translate that to 500 MW of GPU-associated revenue. It's just not the case, right? We really have not seen execution across the rest of the sector enough to confidently say that it's easy to deploy.
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+GPUs. I think in my seat I can confidently say it's intensely difficult...
+## Mark Murphy | Executive Director, JPMorgan
+Yeah
+## Brannin McBee | Co Founder and Chief Development Officer, CoreWeave
+...to build and deliver this infrastructure. You have to do it at scale, right? You do it at gigawatt scale. It's just unbelievable physical feats of engineering that are being accomplished, I think that CoreWeave is simply best in class at doing that.
+## Mark Murphy | Executive Director, JPMorgan
+That's what we're here to. Listen, Brannin, thank you very much. It's been a pleasure having you here, and I think everybody's enjoyed that. Thank you.
+Data Source: Quartr Last updated: May 19, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

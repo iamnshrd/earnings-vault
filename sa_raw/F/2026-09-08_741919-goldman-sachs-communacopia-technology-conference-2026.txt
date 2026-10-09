@@ -1,0 +1,262 @@
+TITLE: Goldman Sachs Communacopia + Technology Conference 2026
+DATE: 2026-09-08
+## Mark Delaney | Company Representative, Goldman Sachs
+Okay, great. Thank you everybody for joining. My name is Mark Delaney, and I have the pleasure of covering Ford for Goldman Sachs. I am very pleased to have with me again this year, Mike Aragon. He is the President of Integrated Services. Thanks for joining us.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. Thanks for having us back. Appreciate it.
+## Mark Delaney | Company Representative, Goldman Sachs
+Well, as many of you know, Ford is one of the leading auto companies globally, about $190 billion of annual revenue. Ford's auto business reports in three segments, Ford Blue, which is the segment for consumer ICE and hybrid vehicles, Ford Model e, which is Ford's consumer EV products business, and then Ford Pro, which is the company's business for commercial and government customers across powertrains. Mike, of course, leads the integrated services effort, so wanted to start there. Mike, you have been in that role for about a year. How has the software and digital services strategy evolved over that time, and what have you learned that has shaped the strategy?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. So I would say that there is two big shifts in terms of how we have been thinking about our digital products across Ford, and the first shift was really around moving from a collection of individual products to more of a connected system.
+When I got to Ford, the way we had structured our go-to-market and our product teams is we all focused on specific products to go to market. BlueCruise had a team, FPI, Ford Pro Intelligence had a team. That made a lot of sense at the time because these products are obviously very different from each other and we wanted to build a ton of momentum to get there. But there were a couple of things that I was pretty excited about when I got to Ford a year ago that, just from coming from the consumer product side, that were real tells for potential success.
+One was an install base of active customers that was growing. That was great. An app that was gaining a lot of usage on a daily basis, not just for simple features, but customers were using it more and more as a daily habit, which is a benefit. We were getting a lot better with vehicle health data and being able to take those learnings and apply it to help our customers' experiences get better over time. I felt by not looking at it more as a cohesive system, we were leaving a lot of value on the table for our customers. That's the first step, is connecting those dots for our customers so that the product feels like it's getting better for them over time, and that it feels like one cohesive thing.
+The second shift leans into one of Jim Farley's edicts around no boring vehicles. For us, that means building no boring digital products as well. The philosophy that we brought in when we think about this is we look at customer behaviors and how they use our products, and there are four main pillars of how our customers interact with the Ford ecosystem. That would be hardware and software together, and that's build, thrill, adventure, and elevate. Just to give you a sense of what that means in plain English, a couple of months ago, I was out in the middle of nowhere. I was in Quartzsite, Arizona, doing a Gemba, which is just being with our customers and learning about the processes and how they use our services, and was there with F-150 Raptor enthusiasts and Ford Bronco enthusiasts.
+The conversation wasn't around hardware or software specifically. It was around using our mapping application, onX, so that we can trail map and connect with friends and make sure that we are flagging potential issues in the trail. It was about the importance of connectivity, especially out in the middle of nowhere for this adventure cohort that we were talking to. It's also about how we were using Pro Power Onboard and using it for all the equipment that we had with us on the site. For us, it's not about generic products. It's really about building a software layer on top of the vehicles that our customers already love and that they do amazing things, and it's making that feel like it's one system.
+## Mark Delaney | Company Representative, Goldman Sachs
+Very interesting. Well, you talked about a recurring flywheel for this business.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yep.
+## Mark Delaney | Company Representative, Goldman Sachs
+Can you talk more about Ford's flywheel for those that may not be familiar?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. So for us, the flywheel's composed of four components. It's scale, activate, engage, and monetize. There's a lot of different definitions that companies use for flywheels. For us, it just means a series of actions that you can take that should compound over time. It starts with scale, and that's scaling the amazing hardware base of 14 million vehicles that are connected and customers are using on a daily basis. It's about making sure that we have the right hardware, digital hardware, to enable digital solutions like BlueCruise or connectivity, and making sure that it's for the right customers at the right time.
+The second piece of that is activation. One of the important elements that we've seen in our data is that you've got to leverage that opportunity when the customer's at the dealer to get them activated into the service, get them on the app. Because that app is becoming a much stronger conduit for us to be able to connect hardware, software, and then the service platform through our dealers. It's about getting them the education that they need to know that they've got all of these great digital products and to use them, because we know that early usage leads to a lot higher engagement, which is the third part of the flywheel, engagement. The philosophy we have with that is we want to make sure that we are delivering indispensable experiences. We're upgrading a lot over time.
+OTA is becoming a much more important part of what we do and focus for us because we want the products to feel fresh to our customers and to engage them. We focus a lot on engagement because my team is focused mostly on leading metrics, and we see engagement as a leading metric into the future. If we just focused on subscriptions, that's more of a rearview looking thing. It's great because it generates revenue. But the mentality that we have is let's focus on leading metrics, and if we focus on those right leading metrics, it's going to lead to the outputs like revenue and subscriptions that we want.
+I think we talked a little bit about this last year, but you know that I spent a little bit of time at Amazon. I was at Twitch. We were an important part of the Amazon ecosystem. The reason why I am bringing that up is just because at Amazon, we knew with mathematical certainty that if you were a shopper and your shopping started to taper off, and you were only using the two-day shipping, that you were probably going to churn out. But if you were a shopper, you were using that entitlement, but you were also using your Twitch entitlement to get Fortnite loot for your kids, or you are watching movies on Amazon Prime, that you tended to be a lot stickier. On top of that, you spent a lot more money. Your LTV went up.
+It is early innings, but we are starting to see a similar behavior and pattern at Ford. You do not use BlueCruise early on, high likelihood of churning out, use it early and often, you do not. If you start to use other parts of our ecosystem, you become more sticky. We have really focused on how do we make this feel engaging and driving that across our platform. The last piece is monetization. The monetization piece is important for us. Obviously, the more we learn about our drivers' behaviors, the vehicle health data, maybe we can upsell you to digital products that you do not have.
+Another important element of this is from the integrated services perspective, the indirect revenue that we can drive as well. If we can take a vehicle health alert, translate that to service, that is revenue for FCSD, our customer service division, which is great. It is about driving that lifetime value for Ford, and building the economics from there.
+## Mark Delaney | Company Representative, Goldman Sachs
+Anything in particular that you guys look at when you are trying to assess that early engagement? Is it usage of these features, app downloads? What are you watching?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. It's usage. Yeah. We look at how quickly time to a specific action. So time to your first BlueCruise engagement, time to your first connectivity engagement. And what we're trying to do is figure out what are all the bottlenecks in that, what are all the complications, how much friction is in the process, because, again, if we can get you to that thing as quickly as possible, then we know that we've at least got you engaged on the product that you've purchased, and then hopefully that leads to longer term engagement over time. But it's time to whatever product that you've subscribed to, and we're trying to always make it as seamless and take out as many unnecessary steps as possible.
+## Mark Delaney | Company Representative, Goldman Sachs
+You said when you were at Amazon, if people only used free shipping-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+-they were at risk of dropping out. There are similarities.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+If your shopping tapered off, yep.
+## Mark Delaney | Company Representative, Goldman Sachs
+If it was shopping.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Any similarities you're seeing with Ford is like, oh, if they're using two of the digital services, they're sticky, but only one.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. If you do not get engaged, so you have BlueCruise, and we just did not do a great job at the dealer side. People tend to forget about it. It is fresh. You have all these other great bells and whistles in your vehicle. And it is just not there. It is not interesting to them. But we can see a correlation between really, really good training at the dealership side, early activation and usage, and then engagement that leads to a much stickier customer.
+## Mark Delaney | Company Representative, Goldman Sachs
+Okay. Traditional auto OEMs historically struggled to create large software and digital services businesses.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Maybe help us understand why you think Ford's strategy will be effective.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. I agree with the premise that we've struggled with that, and I think maybe one of the root causes, at least from my perspective, is that we've treated it like a separate add-on or an accessory, rather than one ecosystem that should all work together more seamlessly. For us, the mindset that we bring into this is we have this, again, 14 million vehicle install base that if you're any other consumer product company with a customer that keeps this thing for a long time, uses it almost every day, that's a huge asset, so why aren't we building on top of that? The three things that we build on top of that are indispensable experiences. BlueCruise has got to feel like it's continuously getting better.
+Since I've been there, we've had several upgrades to BlueCruise that's gone from a good feature to now a really great feature with auto lane change. We spent a lot of time, again, on the app, which might not sound like the most exciting thing to do, but what the app has enabled us to do is connect that hardware experience with the software experience, with the dealer experience to make it feel like one. The last piece is, let's lean in more in terms of all the great vehicle and driver behavior health data that we've got so that we can flag issues, anticipate issues, and solve real problems for our customers. Because one of the strengths that we see, Mark, is if we can close that hardware-software service loop, that's going to drive a lot of benefit for us, but also for our customers.
+## Mark Delaney | Company Representative, Goldman Sachs
+Are there differences in your approach to building this business in the U.S. compared to internationally?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. What I would say, our general philosophy for digital product management is we build for global, we want to scale for global, but we execute go to market locally. Part of the reason why we do that is because in Europe and Asia, there is regulatory differences. The vehicle mix is very different. The driver usage behavior is very different. You cannot copy exact the U.S. or North America strategy there. But we try to build our products to be as scalable and global as possible. That is number one. I would also say that just to give you a sense of the business, because we are driven by install base and our install base is strong in North America, our business tends to gravitate towards that as well. But what I can tell you is that our most mature business internationally is Ford Pro Intelligence.
+The reason why is if you think about the customer problem, what are we trying to solve? We are trying to make sure that the fleets, there is uptime, right? We want to guarantee uptime. Total cost of ownership is really important. Our fleet customers want their drivers to be safe and the people around them to be safe. Those problems travel really well. It does not matter if you are here or if you are in Asia. Those are problems that customers have across the board. That one has been the most, I would say, mature of the integrated services portfolio internationally.
+## Mark Delaney | Company Representative, Goldman Sachs
+Very helpful. Maybe we can dig more into the opportunity with autonomy.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+I think the company said BlueCruise-equipped vehicles on the road increased 70% to 80% year-on-year in 2025, to about 1.2 million globally. Maybe help us understand, out of the 1.6 million total subscribers the company talked about as of last quarter, is coming from those BlueCruise users.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. So let me start with the install base. So the install base was 1.2 million, as you said, last year. It's now grown to 1.5 million as of right now. So it's continuing to grow. The 1.6 million customers, and I'll just be clear, because different OEMs report this differently, that is just customers who are paying after the purchase. So these are not included with duration. These are not free trials. This is, we've decided to pull out our credit card for a retail customer. If you're a Pro customer, you're paying for it after the vehicle purchase. So, we have 200,000 BlueCruise customers out of that 1.6 million after paid subscribers. An interesting point about that 200,000 is that's grown 170% year-over-year, and we like that number, and we track that number.
+Part of the reason why we look at the 1.6 million number differently than other OEMs is because that's a good signal of, at least we think it's one good signal of product market fit. Meaning, if you're deciding to purchase this product after the fact, that's a pretty good sign that just bundling it in the vehicle may not have as much meaning. But this is a good, clear signal on product market fit, which is why we look at it that way. That 200,000 BlueCruise number is out of a total customer base, BlueCruise subscriber base of 530,000. That 530,000 has grown 40% year-over-year. So hopefully that gives you a big picture of autonomy and how all the numbers work together.
+## Mark Delaney | Company Representative, Goldman Sachs
+That 530,000 would include people who buy it as part of their initial-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Included with duration. Yeah. It doesn't include, no trials.
+## Mark Delaney | Company Representative, Goldman Sachs
+Right.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+I know other OEMs kind of bundle the whole thing. That is just customers who are paying, either through your credit card after the purchase, or it's included with the duration of the vehicle.
+## Mark Delaney | Company Representative, Goldman Sachs
+Makes sense.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Well, we're hearing a lot more about how important this feature is to vehicle purchasing decisions.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Some of the OEMs in the industry have now started to say that this is the main reason they think they're seeing people choose to buy their cars, or maybe not.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Right.
+## Mark Delaney | Company Representative, Goldman Sachs
+Can you tell us more around what Ford is seeing? Are there certain digital features that consumers are saying, "This is why I bought from Ford," or, "Maybe I didn't buy from Ford"?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+We're seeing similar behavior. I think the stat I just gave you on BlueCruise growing at 170% year-over-year is a pretty good indicator that that's a powerful purchase decision for the retail customer. On the Pro side, I've seen, in my little over a year here, an evolution in the conversations that we're having with customers, and it's shifted from, "Tell me about the cargo bed size. Tell me about the towing capacity, horsepower." Those are all still really important, and it's that plus, "Help me understand what the fleet management software portal looks like. Because you're so deeply embedded in the vehicle with data, tell me about the controls that we're going to be able to have that no software-only company's going to be able to do." "Tell me about total uptime that we can drive." It's those types of questions that are important.
+On the Pro side and retail side, what we are seeing is that hardware is going to continue to get people in the door. They love the Ford brand. This is what they want. That is great. But software is becoming a much more important factor in actually closing the deal and maybe tipping the scales, depending on how we do it.
+## Mark Delaney | Company Representative, Goldman Sachs
+Maybe this speaks to your approach around offering the products as a compliant solution rather than disparate offerings, either as digital services-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Exactly
+## Mark Delaney | Company Representative, Goldman Sachs
+-specifically, or even kind of at the point of sale.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+How are you working with the dealers to kind of drive those software sales? I mean, it sounds like they're the ones having some of these conversations rather than coming from your team.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+I spend a lot more time with the dealers than I ever thought, in a good way. They are starting to see it. When I first got to Ford, there was a little bit of skepticism. I mean, this is a new muscle. It wasn't a ton of money in the grand scheme of Ford, right, for them. But the spiffs that we've been paying out, the money they've been able to earn because of our growth, it's become a much more important part of the business, and they're very excited about it. We work with them in multiple ways. We try to figure out, how do we motivate the salesperson to do the right thing? We've built technical tools.
+Not to get too technical, but we have a digital delivery day tool that is a component or a companion for the salespeople, so they can go through the checklist and make sure that you're touching off all the key points of what the customer's subscribing to. But now that our app is becoming even more valuable to our customers, there's a lot of education tools we can build right into there. We want to hit them in multiple spots. The dealer's important because there's a trust factor that's been built up with the salesperson. But we have this app that's growing in terms of daily usage with a lot of people that we have another opportunity to sort of, two bites at the pie, right, to get that right education with them. But it is about motivation. It's about the coaching.
+We're starting to scale a lot of our education tools for them, and so, the dealers have been a very important part of our journey.
+## Mark Delaney | Company Representative, Goldman Sachs
+As the included purchases of some of these features roll off, maybe it's autonomy, maybe it's something on the Pro side and comes time to kind of drive that follow-on-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+-subscription, that 1.6 million number we were talking about-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+-is that something that comes from Ford, or is that coming from the dealers?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Well, good question. Right now, it is mostly coming from Ford, but we want it to be a team effort, right? This is the reason why we spend a lot of time on the unsexy back end stuff, like connecting the dots between our data and the dealer data. Because we think we can do a great job capturing that customer, but if you are going in for an oil change and you flagged in the dealer tool that your BlueCruise is up for renewal, Mark, would you like an offer here and extend that? We want to make sure that they have that capability as well. We see it as a team effort because they are building that trust relationship with the customer, and so we want to make sure that we give them the tools to do that.
+## Mark Delaney | Company Representative, Goldman Sachs
+Very helpful. Maybe talk about Pro. I mean, subscribers there grew about 20% to over 900,000 last quarter. What are some of the key applications underpinning the 900,000 that you are seeing really lead to that adoption?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. We have four main underpinnings, starting with data services. Think of data services as raw data that we feed to our partners through an API. They can put it in their own systems. They can do whatever they want with it. The next level is telematics, and that is the raw data plus insights, so vehicle health data, the driver's driving behavior. Think of that more as insights or a dashboard into what is happening. Then we have fleet management, and this is a portal where we enable our customers to manage their fleets, manage their drivers. It is a bit more robust of an offer to help them manage the overall fleet. Then we have managed maintenance, which is us going in and proactively finding potential issues through our telematics data, scheduling it for them, actually bringing out the mobile units to help fix the problem.
+If you think about our customers, that is not their core competence. Their core competence is probably plumbing or home building or whatever that is. But that is our core competence, so it takes a pain point off of their plate and allows us to do what we do best, which is let us manage this fleet and keep it up and make sure that they are able to drive revenue from it.
+## Mark Delaney | Company Representative, Goldman Sachs
+Helpful. 20% obviously a good number, so I am not trying to pick on 20% year-on-year growth.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+But the rate of subscriber growth in Pro has been moderating-
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yes.
+## Mark Delaney | Company Representative, Goldman Sachs
+-somewhat over the last several quarters. Are you seeing any constraints that is limiting the growth rate of Pro subscribers? And anything you see that could cause that number to re-accelerate?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yes. We have a new Pro president. Her name's Alicia Boler Davis. She and I both started around the same time. Prior to us both getting to Ford, Pro had a hardware sales team, and then my team had a software sales team. That worked, got us to 900,000 subscribers. Customers would go in and buy a vehicle. We would come in after the fact, most of the time, and sell software. That worked up until a point. But the shared vision and problems that Alicia and I both saw was, gosh, we have this amazing hardware. We have brands like Super Duty that our customers love. We have a service platform through our dealers that covers large swaths of geography around the world. That's another strength that a lot of other people don't have. Then we have this growing software base.
+From my perspective, I was thinking, "Why are we battling it out in the SaaS sales space against software-only companies?" Why aren't we leaning into the fact that we have hardware, software, and service, and we can close that loop for our customers? A couple of months ago, Alicia and I just affected a reorg where I took my sales team, put it under her, with the strategy of going in once to a customer and, yeah, we're going to talk about hardware, we're going to talk about software, but it's really about what problems are we trying to solve. Uptime, total cost of ownership. Do we want to take some pain points off your hands, like managed maintenance? Well, we can do all that for you. These software-only companies can't do it.
+Other companies that don't have as broad of a service base can't do it. Let's sell a problem, and let's solve problems that only we can solve in a differentiated way. Market's still early innings, but I have a lot of hope for that because it makes total sense for us. It's a moat that we have that others don't have. I think that's going to unlock a lot of value for us over time.
+## Mark Delaney | Company Representative, Goldman Sachs
+I guess another example of the benefits of bringing a combined hardware, software, services solution rather than one-point product.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Exactly.
+## Mark Delaney | Company Representative, Goldman Sachs
+It's not like autonomy or something like that that unlocks more. It's just how you go to market as a solution.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. I think it's also indicative of the team that Jim has built, where he's really instilled in us, let's think enterprise first. Sometimes I have to give something up to another team to make it better, but our main goal is lifetime value of the ecosystem. If that goes up, we're willing to take a hit as long as the overall pie grows, and we're able to drive a bigger business for Ford and to solve real problems for our customers.
+## Mark Delaney | Company Representative, Goldman Sachs
+Well, speaking of the business, let's talk ARPU.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Over the last couple of years at this conference, we've spoken around ARPU of the Pro business, and we talked about that approaching $10 per month at one point. Maybe we could get an update there, broaden out the conversation as well.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+How should we think about ARPU overall, and how would that maybe split out between commercial and retail?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. We talked about $10 ARPU for Pro. The blended ARPU for both Pro and retail is now $14. That's a number we track, Mark, very diligently. It's a number that's important to us, and we're going to continue to keep looking at it. To just keep jumping on the LTV piece, that's a number that I'm actually even more excited about over time, especially as we evolve and get smarter about it. The reason why is, let's take an example. We've sold a customer a $10 telematics software subscription. Now we're able to see a potential brake issue, alert the customer, schedule the service with a dealer, fix the brake, fix the part, capture that revenue and service revenue. We just turned a $10 product into a several hundred dollar, higher margin revenue stream in other parts of Ford.
+That's the force multiplier for me is if we can keep doing that, yeah, this is great, and ARPU's really important, but I'm really focused on, all right, how do we now start to connect the dots to other parts of the business so that it can grow?
+## Mark Delaney | Company Representative, Goldman Sachs
+Very interesting. The $14 that you said blended, any big differences across commercial versus consumer, or are they both sort of in that ZIP code?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+They're both in that ZIP code.
+## Mark Delaney | Company Representative, Goldman Sachs
+Okay.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+And then just to make sure we're kind of talking apples to apples, that's relative to that 1.6 million number of people paying after the fact?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Correct. Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Okay. All right. Very helpful. What drove that increase from $10 to $14? Was it new features, just kind of general increases in price per products?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. New features. On the Pro side, it is increased. As we move up the chain, obviously you go from data services to managed maintenance. Those are higher ARPU numbers. As BlueCruise has started to take a little bit more weighting in the ecosystem, that is also driving up the retail side as well.
+## Mark Delaney | Company Representative, Goldman Sachs
+Okay.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Well, it is a TMT conference, let us talk AI.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Mike, you had a blog post on the AI assistant that Ford unveiled at CES last year.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+That was great. Thanks for having me in your CES session. Maybe talk more about why Ford decided to build its own AI assistant, and what are the key features of this offering?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. It goes back to that engagement piece of the flywheel. We launched it in our app first, for both Pro and retail, just because it is starting to become a utility that customers are using on a daily basis. That's a great start. We will launch it in-vehicle eventually. But I think for us, the reason why we did this is if you think about LLMs, of course, they all do great things. But what do we have that they don't have? Well, we have all the vehicle health data. We know the trim, make, model of your vehicle. We know who you are as a driver.
+To just give you an example, I saw on Reddit, gosh, it was a few weeks ago, somebody was talking about this, and they went into, it was either a Costco or an IKEA, they were going to buy a couch, and they had an F-150. They weren't sure if it was going to fit. So they took a picture of the tag, said, "Is this going to fit in my F-150?" ChatGPT wouldn't be able to answer that because it doesn't know your specific trim. But they were able to answer that, and it ended up fitting perfectly.
+If you're a Pro dealer, one of the cool features that you can do or just questions that you can ask is questions like, "I've got a 50-van fleet. Tell me which ones are the most egregious offenders of just raw idling, because I'm wasting a lot of fuel. Who's the safest driver?" Then it'll actually be able to take those insights and drive something towards it. So it'll give those drivers coaching. It'll help them understand exactly what they need to do to save money. You can ask it, track it over time. Tell me if the metric is getting better for me. We've turned an LLM and made it more relevant and contextual for our customers, and that's the reason why we did it.
+You asked about monetization. Right now, it's all part of the packages that we sell with our customers. There's no specific extra incremental cost right now. Maybe that'll change over time, but right now, we're really happy with getting people more engaged, because if you use that, if you think back to the use cases that I've talked about in this session so far, we think that there's probably really good indirect ways we can monetize this, which was, you trust us. Every time we send you a notification in the app, you're going to believe us. You're going to feel good about it, and you're going to take your service back to and keep it within the Ford family. We're looking at, there's direct monetization and indirect, and that's how we're looking at that piece of it right now.
+## Mark Delaney | Company Representative, Goldman Sachs
+Very interesting.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+I think you talked in that blog post, and at CES, about potentially launching a Pro-specific AI assistant.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Any update on that?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Well, we have launched the Pro. Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Okay. Got it.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+We have launched it. Yep.
+## Mark Delaney | Company Representative, Goldman Sachs
+Okay.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+It is available. It is embedded in the telematics platform, and so yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Got it. Okay. Maybe talk about how big you think integrated services can be over the longer term, maybe as you look out over, say, three to five years in terms of revenue potential.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. Unfortunately, I cannot disclose our integrated services revenue today. I am not going to do it. What I can tell you is, between our business and the physical service business, it is a $15 billion business, and it is expected to grow at 8% through the end of the decade. So good growth for the whole service, physical, and digital. I would say that there are three lenses that we look at in terms of how big integrated services can potentially be. One is, are we doing our job driving activation of digital services? Are we doing our job with all of these concepts that I have talked about, bringing in more of that extensive aftermarket, which most OEMs do not even capture a vast majority of that. Are we able to bring that back into Ford?
+The third piece is, if we do a really, really good job, is this a factor in keeping people in the Ford family? Are they just going to keep buying Fords because they love the ecosystem, they love the fact that we know them, they feel like they know us, and we make their lives easier? That is going to be a key component. If we can do those three things, this business is going to be a force multiplier across Ford, we believe.
+## Mark Delaney | Company Representative, Goldman Sachs
+I think you guys have spoken about that to some extent over time in terms of, especially on the Pro side, people come back again and again and again because you offer that full set of products. Are you able to measure people who have been integrated services customers are more likely to come back and buy next from Ford, or is it too soon to say?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+We are starting to see early positive signals. I would say it is still a little too soon to come out with anything definitive. I have built a whole data science team, with the mission really of going out and starting to think through the attribution of our features and what that is driving across the ecosystem. Because what I want to do is I want to be able to make sure that we can attribute those actions to it, and if we find that there is attribution, we start to double down on all those areas. But it is really getting smarter about the data and using it in the right ways to make the right product decisions.
+## Mark Delaney | Company Representative, Goldman Sachs
+It makes sense. As you think about where this business goes over the next three to five years, and not putting specific revenue figures to it, but maybe talk about some of the bigger incremental drivers as you try to grow that business, and maybe put it in terms of, you have 14 million connected vehicles on the road.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+1.6 million people subscribing after the fact.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+As you drive the growth, is it coming from better penetrating that 14 million vehicles, or is it more about as new vehicles hit the road and capturing those new buyers?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+It's a mix. I think we are going to see our install base continue to grow. We need to capture more of that. I think there's low-hanging fruit in terms of activating even more of that install base, right? We can capture that. As we move towards with UEV and our own in-house ADAS, there's incremental. The cost is going to be the same, but it's actually going to be a lot cheaper, so the margins could go up. So there's margin expansion as well as we move to an in-house ADAS.
+But yeah, for us, it's about that direct revenue piece, but we are spending a lot of our time trying to think about this aftermarket world and the loyalty space and building on all the positive data, app, install base products that we've built so far and make that a much more robust part of the business.
+## Mark Delaney | Company Representative, Goldman Sachs
+Interesting. Maybe talk about growing the portfolio. Ford has previously discussed potentially wanting to do some creative M&A to further its strategic objectives. Are there opportunities to deploy capital to build out software and services?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. I spent a lot of years as a former corp dev guy in the past, and that is sort of a natural, it's in my DNA to think about that. I don't have any acquisition opportunities to talk about today, but we do look at it from the lens of build, buy, and partner. It depends on where the value's coming from. It depends on the speed at which a partner or an acquisition could get us to our goal. One example of a very recent partnership, it wasn't a buy partnership, but it was a partnership, is with Apple Maps. As you know, Apple spent a lot of time and resource making their Apple Maps even better over the initial start. And one of the things that was great about that partnership is they were excited about working with Ford.
+They leaned in terms of our vision of connecting ADAS and the IVI systems so that it all feels like it's one system, not just these separate things that people are operating in. And so that was a good example of a win-win, where we take their best-in-class mapping, we take what we do really well, which is we know our customer, we have the great IVI platform and ADAS platform, and start to bring these two together, in a way that is a great win for them, but it's also one for us and for our customers.
+## Mark Delaney | Company Representative, Goldman Sachs
+Makes a lot of sense. Maybe can close out with one around the demographics of the typical integrated services customer, t o the extent you're able to measure it. Any differences around the typical user of those features from a demographic relative to the typical Ford buyer? Do they skew younger, older, or any other trends to play?
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. It's interesting. There's nothing abnormal about any of the demographic work. I would say that what's interesting about it is, it is by trim, or maybe it's not as interesting. It's kind of what you would assume. The higher the trim, the more likely you are to use. The split between EV and Lightning, our Lightning products and our non-EV products obviously skewed more heavily towards the EV products, although that gap is starting to close. It's starting to close pretty quickly. Nothing sort of out of the norm in terms of the demographics and how they're used. It's kind of typical what you would expect.
+## Mark Delaney | Company Representative, Goldman Sachs
+Well, unfortunately we have run out of time.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah.
+## Mark Delaney | Company Representative, Goldman Sachs
+Mike, really appreciate you coming yet again this year.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah, of course.
+## Mark Delaney | Company Representative, Goldman Sachs
+Really enjoyed the conversation.
+## Mike Aragon | President of Integrated Services, Ford Motor Company
+Yeah. Thanks so much, Mark. Appreciate it. Thanks.
+Data Source: Quartr Last updated: Sep 8, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

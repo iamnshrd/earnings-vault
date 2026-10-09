@@ -1,0 +1,618 @@
+TITLE: GTC Taipei Financial Analyst Q&A
+DATE: 2026-06-02
+## Operator | 
+Hi, everyone. Good afternoon. Thank you so much for joining us today. Before we ask Jensen to come on stage and speak to you all, I do need to read a disclaimer. As a reminder, the content of this presentation may contain forward-looking statements, and investors are advised to read our reports filed with the SEC for information related to risks and uncertainties facing our business. With that, please join me in welcoming our Founder and CEO, Jensen Huang.
+## Jensen Huang | Founder and CEO, NVIDIA
+I'm coming. Give me a second. Nice to see you. Did you see all the products we announced this week?
+Unbelievable. Okay, before we start, I have an announcement. A very exciting announcement. It's not a secret, so you could tell everybody. Tell all your friends. It's not an announcement about me. Okay, I'll read it to you. At earnings, we announced an $80 billion share repurchase program. You guys remember that? .
+A 25x increase in our dividend. You remember that? We also told you that we would review our dividend on a regular basis. Today, I have a very exciting announcement that today we're announcing that we plan to return 50% or more of free cash flow to our shareholders this year, next year, and beyond.
+To infinity and beyond. If you do some simple math, that's a lot of money. We plan to increase our stock repurchases and our dividend over time. Okay? That's our announcement. If you have any questions, we'd be happy to take them. This week, of course, yesterday, we announced some really exciting news. The big idea, and I've been talking about it for two years, is that the computing pattern of AI is agentic. The computing pattern, I'll talk about that. The computing pattern. How are the agents the modern applications? They can reason. They can use tools. They can access long-term memory. The long-term memory can be structured, unstructured. They could use tools. Those tools could be on your PC. It could be in the cloud. It could be design tools, software programming tools.
+It could be, of course, database retrieval, database processing. It could be used for designing chips, using tools of all kinds. This computing pattern we call agents are going to run everywhere, just as applications ran everywhere in the past. This computing pattern called agents will run in the cloud. It'll run in the PC. It'll run in workstations. It'll run in the car, or even run in a humanoid robot. I've been describing this, of course, piece by piece by piece over a long period of time. If you watch our GTC keynotes, you will see Jensen has been talking about this moment for two years, maybe longer, putting all the pieces together. Okay? This computing approach, this computing pattern, is distributed and disaggregated. Disaggregated and distributed.
+Which means, of the agent computing pattern, each part of that workload is running in different parts in the data center. Maybe sometimes that's the reason why we built Vera Rubin. Hopper was built for pre-training. Grace Blackwell introduced, in addition, inference. Grace Blackwell was designed for pre-training and post-training, as well as inference. NVLink 72 made it possible for us to generate the lowest -cost tokens in the world. Not by 20%, by 20 times. We are now the lowest -cost way to generate tokens. The goal is not to have a low-cost data center. The goal is to produce products with low cost. NVIDIA's Grace Blackwell generates
+Tokens at the lowest cost of anything in the world. We invented the NVLink Scale-Up Switch. As a result, between NVLink, InfiniBand, and Ethernet designed for AI, we're now also the largest networking company in the world. That's what happened with Grace Blackwell. Vera Rubin was designed for pre-training, post-training, and inference, but also for running agents. Running this pattern, this computing pattern that I showed you over there yesterday. Rubin was designed to run that whole thing. That pattern, as I said earlier, is disaggregated and distributed. Disaggregated means different parts of that workload is running on different parts of Vera Rubin. Some part of that, the heavy part, the part that makes the money for the AI, is the token generation. That's the heavy part. That's why you want to maximize the number of GPUs you have, because what you sell is tokens. Does that make sense?
+You don't sell everything else. You buy a lot of networking from us, but that's not your goal. You're going to buy a lot of storage, but that's not your goal. Your goal is to generate as many tokens as possible. That's the reason why GPUs will continue. You will start by saying, "I have one gigawatt data center. How many GPUs can I put in there? That maximizes my revenues? Okay? Now, the middle is all thinking, and the thinking is very heavy computation. Thinking, reading the context, which is reading all the documents, reasoning about it, thinking, coming up with a plan, thinking, acting, which is generating commands for tools. That's thinking. Does that make sense? The tool feedback comes back. You look at it, you say, 'Does that make sense? Is that the best outcome? Is the answer right?' You're thinking again.
+You come, Not quite right. I had to adjust my plan. Use the tool again. Back and forth, back and forth, back and forth. That's why you need the tool use to be very fast, because the AI is waiting. The AI is saying, Here's the tool. I want you to use this tool. Now I need the answer back as quickly as possible. Which is the reason why we're working with the entire software industry to accelerate their applications. Adobe has accelerated their applications. They announced it yesterday. Completely re-architected Adobe Photoshop and Premiere for the first time in decades. We're accelerating Cadence, we're accelerating Synopsys, we're accelerating Ansys, we're accelerating Dassault, and we're accelerating Siemens. We're accelerating everything. Because the agents are impatient. Because the agents, if they're waiting, 1 GW data center of GPUs . You cannot wait.
+The CPUs cannot just be easy to rent or cheap to rent. It has to be fast to respond, which is the reason why single-threaded performance is important, super important. Single-threaded performance, not multi-threaded, not multi-core, but one CPU doing one job for one AI. Does that make sense? Has to be super fast. Because it's disaggregated, we also thought about how to design the right CPU and where to put it. How do we design the right CPU and where to put it, and how do we integrate that into the Vera Rubin architecture? We also created Vera Rubin so that it's a world-class, the world's best data processor for memory systems. Remember, an AI has to have long-term memory. It has to have short-term memory. Memory is data.
+Moving data around all over the data center requires a lot of bandwidth, which is the reason why Vera is also the first CX6. Vera has the most IO bandwidth. Vera also has the most CPU-to-CPU bandwidth because when you're doing data processing, the CPUs have to talk to each other. No chiplet tax. Completely on one giant die. We could make it into four of the little dies or six little dies, but every time you cross the die, there's a chip tax, there's a chiplet tax. We don't want a chiplet tax.
+That's the reason why CPU-to-CPU bandwidth is 3.5x higher. The cross-sectional bandwidth inside our chip is absolutely the best in the world. The IO bandwidth is absolutely the best in the world. Not by 15%, by X factors. Grace was the first CPU we decided to do this. Vera was the second generation.
+Our CPU core in Vera is completely custom because we wanted the CPU core, the CPU, to have the world's highest instructions per clock, IPC. 10 instructions at the same time per clock. We fetch 10, we decode 10, and we execute 10, all the way through the pipeline. No CPU in the world would do that. You could see the performance. It's off the charts. Vera was not designed for humans. We're quite slow. Vera was designed for agents, very impatient. Accelerated computing is designed for agents, very impatient. Okay? This entire system was designed not just for pre-training, not just for inference, but to run agents, which is that schematic over there. That's the future. That's my attempt to take a very complicated system and turn it into a cartoon. That pattern of computing is going to replicate everywhere.
+It's going to run in the cloud. That's what Vera Rubin's for. It's also going to run on a little desktop computer. Several years ago, about three years ago, I talked to Satya, and I said, In the future, AI wants to run on a device too, because we want to have assistants running with us all the time. Right now, well, for you, all of your laptops are here. My laptop is in the room. If I want to talk to my laptop today, I got to wait until I get back to my room. In the future, if I need my laptop to do something, I just text it with WhatsApp. I said, whatever, R2-D2. There's this thing with the PowerPoint slides, slide number 17; that image is scaled or titled wrong. It should not say CX9; it should say CX10.
+R2-D2 opens up PowerPoint, modifies it, puts it in PDF, sends it to me. Can you imagine that? Easy. That's a future where your AI is not just a laptop, not just a tool, but your laptop becomes an AI, becomes an assistant all day long. You don't want to necessarily run everything in the cloud, because if you can run it locally, it's free. Just like laptops, just like phones, just like in your house. Why rent a television? You're going to use it every day. Why rent the washer-dryer? You're going to use it, well, hopefully, once a week. Okay? Why rent your refrigerator? You're going to use it every day. Why rent your assistant computer? You're going to use it every day. Of course, we can also connect to a very powerful cloud, which is what Vera Rubin in the cloud is going to do.
+You now have the benefit of assistants. You don't need to have just one assistant. You can have assistants of all kinds, and this assistant will orchestrate all of the other assistants. Of course, it would run on your desktop; it would run on your laptop. Satya and I, Microsoft, and NVIDIA, we decided to create a whole new line of computers. This entire line of computers, the first in the world, that has tensor processing, that has parameter compression, that has an operating system that allows for a sandbox that's secure because you want to put your agents in a sandbox. Give it permission. You cannot use everything in my laptop. You can access these files. You can use these tools. You can communicate with these people. Give your agent permission. You need an operating system to provide that sandboxing.
+Of course, we imagine the whole line of computers. In the past, we had workstations, we had desktops, and we have laptops. Of course, we need to have workstations, laptops, desktops, and the entire line. We worked with Microsoft to make everything compatible. In the last three years, we've been working around the clock. Everything is now compatible. If it's not compatible, let me know. Okay? Everything that's important, every application that's important, we test it, performance benchmark it. It is an incredibly good experience. We invited the entire PC industry, the entire computer industry; not one person was left behind. Everybody's going to join us to reinvent the computer. This is the first reinvention of the PC, literally in 40 years. The behavior of your PC is going to change.
+It will do everything that it used to do better, and then it will do something else. It will also be your assistant. That was our announcement, starting with the agentic computing pattern running in the cloud, in the data center. We call it Vera Rubin. It is in full production. It runs on a PC. Okay? One of the most important parts of our new Vera Rubin, Vera, I'll be happy to talk more about that. Just remember, this agentic computing pattern here is going to run everywhere. It's going to run in satellites. The base station today is dumb. It's just a wire. In the future, that base station will be smart.
+It will be smart about how to move the beams, how to adjust the signals, and how to move the traffic and the workload so that the spectral efficiency of the whole network is so improved. There should probably be a 10x - 100x improvement in spectral efficiency and energy reduction for cell phones and cell towers in the world. We have to put AI into it. We have a big partnership with Nokia to do that. Okay. Of course, not to mention, we announced some foundational models, the world's frontier physical AI models. We are the frontier of physical AI models for robotic systems, for physical AI foundation models, and for autonomous driving. We made those available to our ecosystem. Okay. The same idea.
+Once you have that model, you put an agentic work pattern, a workflow agent , in there and then, of course, just run it everywhere. That's the future. We are reinventing computing as we know it in every single respect. Today, at GTC Computex, was the unveiling of how we are going to reinvent everything. Okay? That's it. Questions?
+## Joe Moore | Analyst, Morgan Stanley
+Joe Moore, Morgan Stanley. Can you talk about the $20 billion target for CPU this year that you talked about on the earnings call? Give us a sense for how much of that is the head node versus standalone racks and just your long-term market share aspirations and thinking about data center CPU.
+## Jensen Huang | Founder and CEO, NVIDIA
+First of all, Joe, I appreciate the question. Before Vera, every CPU was built for humans. The characteristics of CPUs of the past and the characteristics of CPUs going forward are going to be very different. Vera is the first one with such extraordinary IPC, such extraordinary bandwidth per core, such an extraordinary number of cores with bandwidth between them, and such extraordinary energy efficiency. You can, of course, cheat on IPC or cheat on single-threaded performance by overclocking the CPU, but you can't do that when you have hundreds of thousands of CPUs in the data center. Energy efficiency is too important; if you overclock the CPUs, it takes away energy from everything else. Okay? So the CPUs of the future for the agent world is very different than the CPU of the past. Every data center that has NVIDIA GPUs in it will likely just use Vera.
+That's my guess. As you know, we sell millions of GPUs. Divide that in half; that's the number of CPUs in the head node. That gives you a sense of how many CPUs we'll ship in the head node. We price them all properly. The head node is basically that middle column. That's the head node. Outside the head node are CPUs to orchestrate the workload and also storage servers. This is the storage server. This server, this storage server, and the CPU is very high performance. It's usually one of the highest -end CPUs. That's obviously going to be Vera because the software stack is very sophisticated. The IO bandwidth is really important.
+I think in the world of NVIDIA data centers, the CPUs and GPUs, in the world of NVIDIA GPUs, the CPUs will likely be NVIDIA's in all three configurations. Does that effectively double the number of CPUs? Probably. Okay? The question is this. It turns out NVIDIA's CPU share is likely to be higher than our GPU share because we have 100% GPU share, and we'll sell more CPUs outside of NVIDIA GPUs. The reason for that is because we have NVLink Fusion. When I partner with somebody on NVLink Fusion, we sell them our switches, we sell them our NICs, we sell them our Right? We sell them our CPUs. Does that make sense?
+NVIDIA Vera will sell beyond NVIDIA GPUs and then for data processing, which is the number one workload in the world in the cloud, the number one workload, a single workload is data processing, Spark, or some SQL processing or Starburst or Okay, so I think 10 out of the 15 largest financial services companies use Starburst, and you guys saw some of the results. It's X factors higher than the fastest. Three times faster, six times faster. My sense is that we're going to sell a lot of CPUs for data processing. We're also going to sell a lot of CPUs for EDA and simulation and things like that because single-threaded performance is so important.
+We're not going to go after every segment, but there are some segments of the CPU where NVIDIA has a really strong position already, and we could add a lot of value. We'll probably sell CPUs in those markets. What does it all translate to, Joe? I'm not sure, but all I can tell you is this. The CPUs of the past and the CPUs of the future: the design center is different. It's reasonably different. It's arguably different. We're going to go after this $0 billion market we call agents. Agents is a $0 billion market because six months ago, it didn't exist. Today, agents have made it possible for us to have useful AI, and now it's driving enormous demand. Vera was built for that, and its time has come. These computers here are built for the future.
+I just happen to think that this future is pretty extraordinary, and it's worthwhile for us to re-architect everything for it. I am not exactly sure how big it's going to be, but my sense is that it's much, much bigger than any number that we can put on right now. Okay. Such an adorable chip. The software stack that sits on this chip is incredible. NVIDIA's entire body of work for CUDA, our entire body of work for AI, our entire body of work for imaging and computer graphics and ray tracing and everything runs on this chip. No computers in the world can do that, and we put it all into this one chip. The software alone for RTX Spark is a miracle. It took NVIDIA some 30 years to build this body of work, and now everything works here. Purdy, [Non-English content] .
+## Speaker 13 | 
+Thank you. Thank you, Jensen. Thank you for taking my question. Yesterday you were showing that the Vera CPU is going to be the most formidable competition to Intel and AMD's x86, right? Just now you also mentioned that the CPU market is probably going to be bigger than the GPU market. I guess my first question.
+## Jensen Huang | Founder and CEO, NVIDIA
+No. Every NVIDIA GPU, they'll probably be Vera CPUs.
+## Speaker 13 | 
+Right.
+## Jensen Huang | Founder and CEO, NVIDIA
+Even if you don't use NVIDIA GPUs, we will still sell Vera CPUs. That's what I meant.
+## Speaker 13 | 
+Cool.
+## Jensen Huang | Founder and CEO, NVIDIA
+In terms of ASP, obviously the two cannot compare. I don't want to leave you the impression that NVIDIA CPUs will be what they are. The GPU, the networking is still quite large. Yeah.
+## Speaker 13 | 
+Sure. Okay. Thanks a lot.
+## Jensen Huang | Founder and CEO, NVIDIA
+You guys, don't get confused. I don't want to lead you guys.
+## Speaker 13 | 
+Sure. I guess my first question is what's your take in terms of the ratio of CPU to GPU, since some of your peers have been talking about it, right? Going forward, because you mentioned NVLink Fusion, do you think that the existing data center business model, where CPUs and GPUs are separately purchased from different vendors, is becoming obsolete? Going forward, what's your vision in owning this entire platform?
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay. Let's just reason about it. The ability to predict the future is about reasoning, not about guessing, not about hoping. If I want to start from hope, I would like to hope that we sell a lot of everything. The question is what is the reasonable thing to do? You come back to the most important thing : what would I advise my customers to do? What I would advise them to do is, number one, whatever power you have, remember, you're only making money on tokens. An AI company cannot rent a CPU core to you. They don't want to rent a CPU core to you. They want to sell you tokens. Your business model is tokens. You want two things. You want to increase the ASP of your tokens, which means to make it as smart as possible.
+Large models, right? Because the ASP goes up. Number two, you want to make this token, the throughput, as high as possible. You want to produce as many as possible. This factory is only valued for tokens. The first thing that I would do is I would advise that my customer maximizes the amount of Vera Rubin NVLink 72s in the data center, number one. Number two, you put as many CPUs as necessary and as few as possible to support the GPUs. I just gave you the equation. It's very sensible and logical. Hope is not the right answer, right? Guessing is. I hear all the guesses. It's kind of funny. How would they know? I'm the only person who's running the workload. I can profile the workload, and other people can't even build it yet.
+I can tell you that, one, you want to maximize the number of Vera Rubins. You want to buy as many as needed, as few as possible. Here, you want to buy as many as possible to fit into the data center. Does that make sense? Because that allows you to generate as much money as possible. You're going to spend $50 billion, $60 billion on the data center; you might as well make a lot of money. CPUs won't make that money back. Impossible. You don't rent it. You're not renting it like the cloud, and the CPUs don't generate tokens. Why would you want a whole lot of them? Why would you want $30 billion of CPUs that do nothing? I love Vera, but I'm not trying to sell as many Veras as possible. I just sell as many Veras as necessary.
+Does that make sense? Okay. Where are the agents running? Are they all running in the cloud? Today, yes. Where are they going to run in the future? Everywhere. They all have CPUs. That's the reason why we have great CPUs everywhere. Makes sense, right? Today, you have no choice but to run the agent in the cloud. Okay? At NVIDIA, we have an agent, the OpenShell. That's OpenShell, that is the sandbox, and we put CloudCode and Codex and Hermes, and they're all currently running in the cloud. We're trying to bring them all back. They should run just on your laptop, and then they can call the AI models in the cloud or otherwise. The CPUs would distribute. We're still going to sell a lot of CPUs, okay? The reason for that is very simple.
+We have 1 billion users of computers today. Tomorrow, we're going to have tens of billions of agents using computers. By definition, this entire new population of intelligence needs computers to operate. They're going to need a lot of CPUs. They're going to need a lot of laptops. They're going to need a lot of workstations. They're going to need a lot of Vera Rubins to think. I'm not saying the CPU market is going to be smaller. The CPU market is going to be much bigger, but it can't reasonably come close to a GPU. Doesn't make sense. Yeah
+## Operator | 
+Jim Schneider, go.
+## Jensen Huang | Founder and CEO, NVIDIA
+Kind of growing along with our company. This enterprise stack here, this is how we're going to help every enterprise software company become agentic companies. I showed one example, a fantastic example, yesterday, Cadence. That's basically that. You're going to take that computing pattern. The four things we offer are model, harness, tools and skills, and runtime. It's all completely captured there. These four things are the ingredients, the operating structure, and the operating system of agents. We've been working with all of the SaaS companies. Everything is open except for the NVIDIA AI Enterprise layer, which is the runtime layer for enterprise. We charge, I think, is it $1,000, $1,500? Something like that. Don't quote me. It's something like that per GPU, per year. Okay? That software license is obviously growing.
+When companies run it, when SaaS companies run it in the cloud, that's the software license. I think that's a fairly large business opportunity for us. Do some simple math. It should be billions and billions. Okay? The other thing, what did you ask?
+## Jim Schneider | Analyst, Goldman Sachs
+Just the PC-
+## Jensen Huang | Founder and CEO, NVIDIA
+Jim, I'm partly walking in my sleep.
+## Jim Schneider | Analyst, Goldman Sachs
+Just asking about the PC opportunity and how that unfolds , sort of.
+## Jensen Huang | Founder and CEO, NVIDIA
+Let me tell you why we're doing this. We've been in the PC industry a long time. We're not clamoring to build another commodity device. That would be very outside our character. Would you guys agree? We don't just build a CPU for CPU's sake. We build a CPU because the world has changed, or we want to change the world. A long time ago, when I came into the graphics industry, the ASP of a graphics card was $49. The high end was $100. Obviously, we have $1,500 version graphics cards, $2,500, $5,000, and $8,000 graphics cards. We reinvented altogether what graphics means and what graphics does. Okay? We therefore turned it from a graphics card into a GPU. Well, we're going to do the same with PCs. We didn't get in here to build a PC. We're going to reshape what a PC is.
+A PC today is like a typewriter now. Just take a moment. Think about what that PC is. That PC, you type and click into it. It is a typewriter. In the future, it's going to become an assistant that's running all the time. What does that mean when that world changes? When that PC is a smart typewriter , now it's actually an agentic system; it's a smart AI assistant, and it's running in the background all the time. It's always available for you, always at your beck and call, and oftentimes it's calling you, letting you know that something's finished. I think that way of thinking about an assistant, maybe today you think that it should be $1,500, but the idea that you have a $10,000 assistant that you use every single day doing things for you is not illogical to me.
+Just as back in the old days, it was sensible to have a $99 phone, but now we're spending $2,000 on smartphones. It's a sensible thing, but you have to reinvent the category. What Satya and I are doing, what Microsoft and NVIDIA are doingâwe're reinventing this category, taking along everything that people love about PCs, making it better, but reinventing the whole concept of a personal computer altogether. It's now a personal AI. That's the reason why we're here. Not because we want to drive down that PC and compete with it into a commodity. That's a silly thing that NVIDIA never does. You guys know that. We have an imagination about what we're trying to do. Think about 10 years ago.
+I went into the car industry, and the embedded controller of a car, literally the computer in the car, was something like $29. I said, No, wait. We're not trying to compete for those $29. What we want to do is reinvent that car into a robotics car, into an autonomous driving car. The first thing we have to do is make it software programmable. We have to redefine the chassis, the architecture of it, and now Hyperion is everywhere. There's no such thing as a $29 Hyperion. We reinvented what a car can be. Each one of these categories, I think, we're just reinventing it. Is that sensible? Does that make sense? It's the NVIDIA way.
+## Operator | 
+Jensen, to your left.
+## Terry Tse | Analyst, Morgan Stanley
+All right. Hey, Jensen. Thanks a lot for taking my question.
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank you.
+## Terry Tse | Analyst, Morgan Stanley
+Terry Tse, Morgan Stanley. Back at GTC U.S. 2025, you highlighted the power-saving potential of optics in the data center. NVIDIA has done an incredible job squeezing life out of copper for scaling up NVLink domains. When do the physics of copper finally run out? When do you foresee optical NVLink or CPO entering the scale of architecture commercially?
+## Jensen Huang | Founder and CEO, NVIDIA
+A couple of meters. Copper, you should use copper as long as you can, as much as you can. You should use optics whenever you must. Copper initially started with very short distances. Because of the SerDes we invented, we can now go, in the case of NVLink, it's the longest-running SerDes in history. We ran the entire backplane of a rack. Nobody thought that was possible. As a result, we took copper. We turned copper into sexy copper. You guys know that, right? I want you guys to just pretend for a second. What other CEO had to answer questions about copper in the history of chips? Nobody ever asked. I made copper sexy again. We brought sexy back to copper, yeah. Okay.
+Because of the copper, because we made copper sexy, we also made the connectors, these microconnectors that we worked with Amphenol on, we made those sexy. We should keep copper. We're going to run copper for as long as we can. It's reliable, it's extremely cost-effective, and it's reliable. Of course, we should do that as long as we can. However, we should use optics wherever we must. One meter or so, that's the limit. We think we might be able to go a little further, but not 10 x further. We can go further, but not 10x further. However, you guys know that the data centers we're building are going from, in the case of the first OpenAI system, 18,000 GPUs. That was Hopper. Excuse me. The first Ampere was the OpenAI supercomputer. That was 18,000 GPUs.
+In the era of Hopper, it was 100,000. In the era of Blackwell, it's, at the limit, about 250,000, 200,000. Now in the era of Vera Rubin, it's at least half a million. Half a million GPUsâyou're going to need some pretty fancy networking. That's what Spectrum-6 is designed for. Spectrum-6 is the world's first 800 Gigabit CPO, and it's designed to scale out for AI factories that are hundreds of thousands or a million giant systems. Copper has no chance of doing that. We scale up with copper, we might scale up further with silicon photonics, with optics, and then we scale out with optics, and we scale across with optics.
+The bottom line is we're going to need a lot of copper, a lot of connectors, and a lot of optics, which is the reason why we partnered with and invested in Coherent, Lumentum, and Corning. Our partnership with Marvell really is about preparing the world to be able to scale up with us, scale out with us. NVIDIA's supply chain is pretty cool. Pretty good stuff.
+## Louis Miscioscia | Analyst, Daiwa Capital Markets
+Thank you, Louis Miscioscia, Daiwa Capital Markets. When we think about inference, maybe give me some thoughts as to where you think you are now with inference in the data center versus training. Maybe more specifically with the announcement of your RTX Spark laptop. Inference on the edge hasn't really caught on yet. How long do you think it's going to take for it to really start to kick in in high volume, and what needs to happen there? Do we need to see a lot more applications come in in order to make the announcement that you had really be very exciting?
+## Jensen Huang | Founder and CEO, NVIDIA
+Cool. The answer is inference is going to come into PCs when RTX Spark gets to PCs. Very logical. The reason for that is this. Remember, what is an agent? Agent is equal to a useful AI. This useful AI is not designed to rewrite all of the software on the PC. Somebody said, Isn't the agent just going to rewrite the operating system? Come on. The agent's going to use the operating system. The agent's going to use DirectX. The agent's going to use Adobe Photoshop. The agent's going to use Autodesk. The agent is finally smart enough, that compute pattern is finally smart enough to use the tools on my computer to help me and assist me in doing my job. Now, most people, even the experts, know only a fraction of the actual features of Adobe Photoshop, Adobe Premiere, and Lightroom.
+Does that make sense? With their agents, their agent will learn the skill files, the manuals, basically, the operating manuals of all these tools just by reading it, and these agents are now going to be experts at every tool. All you have to do is ask the agent, "Help me do this." You don't have to know the actual commands. The agent will help you do it. All of a sudden, all of our PCs are going to be more useful. Our PCs are going to be agentic. What's happening? All of that I was just saying just now, it's all inferencing. Every time it's thinking, it's inferencing. Whenever it's thinking, inference equals thinking. Okay? Just in order to do, it has to think first. In order to do something, it has to come up with a plan. He has to inference.
+That's why I say when agents come in, that's when inference takes off. When agents came in, useful AI arrived. Useful AI arrived, inference took off. In terms of our data center, I would say if I were to guess, I don't know exactly, NVIDIA systems, one, today, you use it for training, but later, when we come up with Vera Rubin, they take all of the Grace Blackwell systems and use it for inference. That's one of the beauties of our system. As a result, the researchers are jumping. They're factoring their performance for training every single year. Instead of using a data center that was just built for inference or just built for training, you're stuck with it forever. NVIDIA's system is completely fungible. We built it so it's fungible for good reasons. When something is fungible, its utility goes up.
+When something is fungible, the utility goes up. When the utility goes up, the TCO comes down. When the utility goes up, the lifetime extends. When the lifetime extends, the TCO comes down. I am certain NVIDIA's platforms are the lowest TCOs in the world. The reason for that is this. A100, I can prove it. A100 has been written off for how many years now? They are minting coins at, what is it, $3 or $4 per hour? Here's a chip; it's free, making $3 an hour, 24 hours a day. That's better than I did when I was a busboy.
+## Operator | 
+Thank you. Jensen, to your left, way in the back.
+## Randy Abrams | Analyst, UBS
+Yeah, thank you. It's Randy Abrams from UBS.
+## Jensen Huang | Founder and CEO, NVIDIA
+Hi, Randy.
+## Randy Abrams | Analyst, UBS
+Sorry to be a downer on this question.
+## Jensen Huang | Founder and CEO, NVIDIA
+Oh, God.
+## Randy Abrams | Analyst, UBS
+Wanted to ask your view. A couple of months ago, we were getting worried about the very high oil price and risk of a recession. There was even a little bit of a spook in the markets at that time. I'm curious about your view on the AI infrastructure and how strategic it is. How do you view it in terms of being recession-proof?
+## Jensen Huang | Founder and CEO, NVIDIA
+That is not a downer at all. Randy, you have asked the most optimistic question today. You have asked the most optimistic question today. Do you want to finish it, or do I?
+## Randy Abrams | Analyst, UBS
+Yeah
+## Jensen Huang | Founder and CEO, NVIDIA
+I already got it.
+## Randy Abrams | Analyst, UBS
+I figuredâ
+## Jensen Huang | Founder and CEO, NVIDIA
+I got it. My AI already predicted all the rest of it.
+## Randy Abrams | Analyst, UBS
+We're recession resistant or recession proof in terms of the spending, or do you see risk in the deployments if we were to go into a hard landing?
+## Jensen Huang | Founder and CEO, NVIDIA
+First, instead of me explaining it to you, I'm going to first give you a proof point, and then we'll reason together. How's that?
+## Randy Abrams | Analyst, UBS
+Sounds good.
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay, here's the proof. The single largest body of employees in dollars in the world is what? Software engineers. $3 trillion-$4 trillion. $3 trillion-$4 trillion, not including all the marketing people who code or supply chain people who code or, does that make sense?
+## Randy Abrams | Analyst, UBS
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Just coders. Okay? We created one of the largest pools of labor, okay? We sit in front of a computer; it looks like we're typing every day, and that's about $3 trillion-$4 trillion a year. This $3 trillion or $4 trillion a year of labor was contributing, in 2023, 300 million submits. You submit the software. I'm done programming it. I've tested it. Now I'm going to submit it, okay? You submit it. You commit it to production. 300 million submits, then 400 million submits, then 500 million submits in 2005, 2025. Last year was 500 million. The way to think about that is $3 trillion of OpEx contributed 500 million submits of software. Are you guys following me so far? $3 trillion, 500 million.
+In the first few months of 2026, in the first few months, it went from $500 million per year to $1.4 billion per year. It tripled in size. What just happened? The productivity of $3 trillion just tripled. We produced an excess of $6 trillion of productivity. Are you guys following me? I don't mean $60; I mean $6 trillion. It is an insane productivity generator. Meanwhile, people keep talking about how software engineers are going to get laid off. Well, if I have a software engineer who could use an agent at $3 trillion of OpEx and can generate an excess of $6 trillion, I'm not going to lay that person off. I'm going to hire more. It makes no sense to lay that person off. I'm going to hire more so I can generate even more.
+The world has a lot of code that we have to generate. The reason for that is code equals problem-solving. Code equals GDP growth. Code equals innovation. There's absolute evidence now that there are a lot of things you could save money on, but the one thing you don't want to save money on is software coding. That's what NVIDIA does for a living. That's what the machine does. It generates code, generates tokens.
+## Randy Abrams | Analyst, UBS
+Good.
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay, next question. Excellent, very optimistic question. What an upper. Thank you. Thanks for that, Randy. I'm now fired up. Just kidding.
+## Ken Ho | Analyst, Bocom
+Hi, Jensen. Thanks for taking my question. Great to see you again. I'm here. Hi. Hi, Jensen.
+## Jensen Huang | Founder and CEO, NVIDIA
+Oh, yeah. [Non-English content].
+## Ken Ho | Analyst, Bocom
+Great to see you again after.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah
+## Ken Ho | Analyst, Bocom
+CES.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Ken Ho | Analyst, Bocom
+It is Ken from Bocom. I have a question regarding your Vera CPU's performance. You highlighted that actually it could be 3 x better than and faster than x86 architecture.
+## Jensen Huang | Founder and CEO, NVIDIA
+No, I said 1.8 x.
+## Ken Ho | Analyst, Bocom
+1.8 x, sorry.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Ken Ho | Analyst, Bocom
+Sorry.
+## Jensen Huang | Founder and CEO, NVIDIA
+Because-
+## Ken Ho | Analyst, Bocom
+Yeah, there are so many figures.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, yeah. If we're just Yeah, no, there was actually only one figure.
+## Ken Ho | Analyst, Bocom
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+1.8 x.
+## Ken Ho | Analyst, Bocom
+1.8 x faster
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Ken Ho | Analyst, Bocom
+Yes.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Ken Ho | Analyst, Bocom
+x86-
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, I'm just.
+## Ken Ho | Analyst, Bocom
+architecture.
+## Jensen Huang | Founder and CEO, NVIDIA
+You're doing fine. I'm just kidding.
+## Ken Ho | Analyst, Bocom
+Yeah, yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Go ahead. You're Yeah.
+## Ken Ho | Analyst, Bocom
+You pinpointed it.
+## Jensen Huang | Founder and CEO, NVIDIA
+There are people in here who take numbers very seriously.
+## Ken Ho | Analyst, Bocom
+Yeah, yeah. I agree.
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay?
+## Ken Ho | Analyst, Bocom
+Yeah. Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+This crowd is the only crowd that can predict the world's economy seven years from now.
+## Ken Ho | Analyst, Bocom
+Yeah, I cannot do that.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Ken Ho | Analyst, Bocom
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Did you say $4 trillion or $4.137 trillion?
+## Ken Ho | Analyst, Bocom
+Yeah, yeah. Actually, I continue my question.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Ken Ho | Analyst, Bocom
+Actually.
+## Jensen Huang | Founder and CEO, NVIDIA
+You know everybody writes it down, and they pull it back up. Hey Jensen, you said in 2023 that this was going to be a very large market, but you did not say it was going to be $1 trillion this year. You underestimated. Okay, go ahead. I'm sorry.
+## Ken Ho | Analyst, Bocom
+It's okay. Yeah. Actually, you also highlighted that for a single thread, that would also be very important for inferencing. Because based on my understanding, x86 would be better in terms of single threads because Arm-based architecture would be better in multitasking.
+## Jensen Huang | Founder and CEO, NVIDIA
+No.
+## Ken Ho | Analyst, Bocom
+So I would-
+## Jensen Huang | Founder and CEO, NVIDIA
+No, no. You said something just now that's just completely wrong.
+## Ken Ho | Analyst, Bocom
+Oh, okay.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, yeah.
+## Ken Ho | Analyst, Bocom
+Can you walk me through?
+## Jensen Huang | Founder and CEO, NVIDIA
+Oh, yeah.
+## Ken Ho | Analyst, Bocom
+Yeah
+## Jensen Huang | Founder and CEO, NVIDIA
+We're not using an off-the-shelf Arm core.
+## Ken Ho | Analyst, Bocom
+Okay.
+## Jensen Huang | Founder and CEO, NVIDIA
+We completely designed this ARM core ourselves, called Olympus.
+## Ken Ho | Analyst, Bocom
+Oh, I see.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah. You might be right about somebody else's Arm core, but you're not right about my Arm core.
+## Ken Ho | Analyst, Bocom
+Okay, actually, the reason I ask this question is I want to see.
+## Jensen Huang | Founder and CEO, NVIDIA
+The rest of your question remains the same?
+## Ken Ho | Analyst, Bocom
+Not exactly. Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+I just changed your assumption completely.
+## Ken Ho | Analyst, Bocom
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Have you guys changed somebody's premise completely, the rest of the question's still the same.
+## Ken Ho | Analyst, Bocom
+Yeah. Actually, I would like to ask.
+## Jensen Huang | Founder and CEO, NVIDIA
+Go ahead and change it.
+## Ken Ho | Analyst, Bocom
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+We're going to let you finish that question. That's not your fault. You didn't know that we literally took three years to completely redesign an Arm core, Arm architecture. There's nothing wrong with the Arm instruction set. The Arm instruction set's a really good one.
+## Ken Ho | Analyst, Bocom
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+And so-
+## Ken Ho | Analyst, Bocom
+Yeah, I agree.
+## Jensen Huang | Founder and CEO, NVIDIA
+We completely changed the architecture. It is the first CPU architecture in the world that has 10 instructions per clock. It's scalable fabric inside. Every single CPU core can talk to every single CPU core at the same time, at 3.4 TB per second. No chiplet tax. It's incredible. We had to design this whole thing completely from the ground up. We spent, wow, unbelievable amounts.
+## Ken Ho | Analyst, Bocom
+I see.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah. That's why it's such a good CPU core. Now the question, of course, is if you build a CPU core, how do you know people can accept it? Which is the reason why I took this strategy, Vera, while I was designing a full custom CPU core. I used an off-the-shelf Arm CPU core, and I built the chassis of the CPU called Grace. I used that opportunity because Grace is connected to Blackwell. I used that opportunity to convert every single data center to Grace. It's not the same as everybody's. Arm is a little bit different, everybody's system's a little different, and everybody's BIOS is different, okay? We converted everybody in the world because NVIDIA's in every data center now. Every single cloud, every single OEM, we converted everybody with Grace Blackwell onto the NVIDIA architecture. Now Vera just, boop, plugs right in.
+That's why launching Grace, I did not launch Grace separately. Grace was only launched with Grace Blackwell. Vera, everything is ready. The entire world came out to support Vera. Everybody now sees it. The reviews are coming out. It is completely groundbreaking.
+## Ken Ho | Analyst, Bocom
+Yeah, thanks for your answer, yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Ken Ho | Analyst, Bocom
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+I-
+## Ken Ho | Analyst, Bocom
+I've got my answer, yeah. Thanks a lot. Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yep. Good question. Dylan, I'm not taking you. Are you just going to be naughty for naughty's sake?
+## Dylan Patel | Analyst, SemiAnalysis
+I need you to explain something to me.
+## Jensen Huang | Founder and CEO, NVIDIA
+Are you going to be naughty for naughty's sake?
+## Dylan Patel | Analyst, SemiAnalysis
+Why wouldn't you guysâ
+## Jensen Huang | Founder and CEO, NVIDIA
+I'm just kidding. I love you, man. Come on, ask. Come on. Let me call Dylan. I just want to let you know, nobody would've gone to you but me.
+## Dylan Patel | Analyst, SemiAnalysis
+Oh, for sure. Everyone else is scared. Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+All right. All right, Dylan.
+## Dylan Patel | Analyst, SemiAnalysis
+Jensen, thank you so much.
+## Jensen Huang | Founder and CEO, NVIDIA
+What's going on? Yeah. I'm happy-
+## Dylan Patel | Analyst, SemiAnalysis
+Dylan, SemiAnalysis.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+My question is, I want you to explain this to me because I don't get it. The PC-
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah
+## Dylan Patel | Analyst, SemiAnalysis
+I just don't get it. Why do I need local models on my computer?
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah
+## Dylan Patel | Analyst, SemiAnalysis
+When I currently use Claude Code or Codex, I can tell my phone to get it.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah
+## Dylan Patel | Analyst, SemiAnalysis
+from my computer, send it to the cloud.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+It updates the file; it updates everything.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+When I talk about the models that are running.
+## Jensen Huang | Founder and CEO, NVIDIA
+Everything you said just now is not wrong. That's how I use it.
+## Dylan Patel | Analyst, SemiAnalysis
+When I look at Google, OpenAI, and Anthropic.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah
+## Dylan Patel | Analyst, SemiAnalysis
+Meta, these are the companies that have the best models. They don't care about my laptop.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+They don't care about running locally.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+When I look at your chip, Spark, it's got about 280 GB a second of memory bandwidth. I can't run any really good models at 50 tokens a second.
+## Jensen Huang | Founder and CEO, NVIDIA
+No, that's not true. DGX Spark Look, see, there you had a weird premise, and you're going to lead to the question. The premise is wrong. I put DGX Spark out there for a good reason.
+## Dylan Patel | Analyst, SemiAnalysis
+I tried running InferenceX on it. None of the models can get 50 tokens a second.
+## Jensen Huang | Founder and CEO, NVIDIA
+No, it's super responsive. It's fine. It's only got a batch of one. It's only you to deal with. The cloud has to deal with millions of people.
+## Dylan Patel | Analyst, SemiAnalysis
+Right. Exactly. Why would I want to use a dumber model, a 50 tokens a second one user, or less than 50 tokens a second one user, when I can go to the cloud, this massive amazing model?
+## Jensen Huang | Founder and CEO, NVIDIA
+70 billion parameters, NVFP4. You don't have NVFP4 yet on your model. 70 billion parameters, Nemotron-3 Super, and NVFP4, it's going to rock.
+## Dylan Patel | Analyst, SemiAnalysis
+Why do I want to use that model when I can use a multi-trillion parameter model, sharded across?
+## Jensen Huang | Founder and CEO, NVIDIA
+Because it's going to be running all the time.
+## Dylan Patel | Analyst, SemiAnalysis
+hundreds of chips.
+## Jensen Huang | Founder and CEO, NVIDIA
+Because it's going to be running all the time. You're going to have agents that are literally running all the time, and it's going to call that model in the cloud whenever it needs it. We're going to keep using Claude Code, but I'm going to have my agent running here constantly, just looping continuously. I don't want to have a meter. I don't want to be metered on that. The concept of computing didn't change. You're not going to put a game console in the cloud. You don't do that, do you? We have GeForce now, but there are still 100 million gamers who download games and play it on PCs. There's distributed computing; disaggregated computing is not everything running on PC, everything running in the cloud. Dylan, you're smarter than that. It's insane. It's an argument that doesn't make any sense. You're going to compute everywhere.
+You're going to compute everywhere, and you're just going to do the right amount of computing where it makes sense. If you're asking me this, if your premise is this, if your premise is, Well, Jensen, the Cloud AI models are always going to be smarter." What? This model is going to get smarter and become smart enough. It's going to become smart enough to do the stuff I want it to do every single day. Look, Nemotron 3 Ultra. Nemotron Ultra is basically near the frontier, as good as something that was six months ago at the frontier. Open models, free models, are going to become better and better and better and better, and we're going to make them tighter and tighter and tighter, more and more efficient.
+There's no question that models today, like a 70 billion parameter model today, is way smarter, way more efficient, and way faster than a 700 billion parameter model two years ago. These things are called computer evolution. It's just going to happen. Why do you care where people run it? Why do I have to ask Dylan's permission to have this at home? See, that's what happens when you can talk to your brother. Dylan, why do I need your permission to run AI models at my house? What has that got to do with you? Why do I need your permission to have a super -efficient, super -tight model that's sitting in my laptop? When I want to talk to it, when I want to talk to my laptop, what am I going to call Claude to control my laptop? Are you insane?
+It doesn't make any sense. I want to talk to my laptop. R2-D2, I wanted you to do a few things for me while I'm gone. I'm here giving a keynote. There's some code that I want finished. Hey, I got an idea. I'm going to call R2-D2. All the files are on my laptop. All the tools are here. Get that done. You can't do that with Claude Code in the cloud. There are a lot of things we can do that you can't do with one; it's distributed and disaggregated anyways. Two, computing is done everywhere. Three, there are things that you want to do on-prem, on the device, that you can't do otherwise. That's it. That's the answer. That's computers.
+## Dylan Patel | Analyst, SemiAnalysis
+Jensen, little last bit that I want you to sort of explain to me is, okay, these laptops costâ
+## Jensen Huang | Founder and CEO, NVIDIA
+Just first concede the point.
+## Dylan Patel | Analyst, SemiAnalysis
+I agree.
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay, brother.
+## Dylan Patel | Analyst, SemiAnalysis
+These laptops, though.
+## Jensen Huang | Founder and CEO, NVIDIA
+First, concede you were wrong.
+## Dylan Patel | Analyst, SemiAnalysis
+I am wrong more than anyone else out there, just to be clear.
+## Jensen Huang | Founder and CEO, NVIDIA
+Especially when you're talking to me. Look, you guys, you get to enjoy Dylan's and my friendship. Go ahead. Finish up, brother.
+## Dylan Patel | Analyst, SemiAnalysis
+These laptops are $3,000 or something on that order of magnitude.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+The power user is the one who has to buy the first generation of it.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+The power user is okay spending all this money on cloud tokens or Codex tokens.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+Why is this first gen going to be one that people actually want to buy if it's predicated on you releasing models all the time?
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+Nemotron Ultra. There was no good 70 billion parameter model before you released one that I could use.
+## Jensen Huang | Founder and CEO, NVIDIA
+Qwen's pretty good. Kimi's pretty good. There are a lot of good models out there.
+## Dylan Patel | Analyst, SemiAnalysis
+Well, Kimi's way bigger, but yes.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, but there's a lot of good models, and their smaller versions are really good.
+## Dylan Patel | Analyst, SemiAnalysis
+Yeah.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Dylan Patel | Analyst, SemiAnalysis
+Regardless, the power user, wouldn't they just use the very expensive model? If that comes, it needs to come down.
+## Jensen Huang | Founder and CEO, NVIDIA
+No, power users will do both. Yeah, power users like me, we don't have to. Why choose? Do both. Why don't I want my computer to be smart and also use a smart model in the cloud? Yeah, why choose? There are things like, for example, right now, try to call your PC and ask it to do something. Well, if you have an agent running on your PC, just say, Hey, Honey. My PC would be called Honey, and I would just say, Hey, Honey, could you make that modification in that Word document and send me
+## Dylan Patel | Analyst, SemiAnalysis
+All right. I'll leave the MacBook behind. I'll buy one of these.
+## Jensen Huang | Founder and CEO, NVIDIA
+No, you should use your Mac.
+## Dylan Patel | Analyst, SemiAnalysis
+No, I'll try it.
+## Jensen Huang | Founder and CEO, NVIDIA
+No. You should use the Mac. Look, I'm a big fan of Macs, and I'm a big fan of Apple. They have a great ecosystem, as you know. They have a really excellent roadmap. They build great chips, and that's not going to change. This is really about reinventing Windows. Every system's going to be robotic. Your car's robotic. You go to an autonomous vehicle, and you go, Hey, honey, come over here. It pulls out of the parking space, comes, and picks you up. Now, if the car can do that, and everybody grows up knowing the car is robotic, how can you come up with a PC? You're going to be like Scotty, Satya. Satya and I, we're going to walk up to our Windows PC from Satya's and go, Hello? Do something. It's like Scotty talking to that mouse.
+You guys know what I'm talking about? Star Trek? No?
+We're going to say, Hey, Satya, it's not going to do it. In the future, this computer is going to be an AI. Everything's going to be an AI. Your vacuum cleaner, you're going to talk to it, and, Go mop that up." In the future, of course, everything that moves will be an AI. How could this one not be? People won't even understand it. Okay. All right, good. Good question.
+## Operator | 
+Our pre-game co-host, Bruce Lu.
+## Speaker 14 | 
+Jensen, thank you for inviting me to be the pre-game show host. I do learn a lot, but it's a lot easier to ask questions off the stage. Okay?
+## Jensen Huang | Founder and CEO, NVIDIA
+It's not easy being me. I'm just kidding.
+## Speaker 14 | 
+I did learn a lot yesterday, but we do see that agency is taking over. We do see that I would love to have a PC at my house, but at the end of the day, we won't bring the PC around, right? We will not bring my PC everywhere.
+## Jensen Huang | Founder and CEO, NVIDIA
+Which is exactly the reason why, in the future, when you want that PC to do something for you, tap on WhatsApp. Or what else do you guys use?
+## Speaker 14 | 
+LINE?
+## Jensen Huang | Founder and CEO, NVIDIA
+LINE. Yeah, LINE. Just, Honey, could you do that? But just like you're talking to your honey.
+## Speaker 14 | 
+I also remember-
+## Jensen Huang | Founder and CEO, NVIDIA
+I also remembered that you say that the PC is no longer a PC. Today, these days, I say, Honey, can you do that for me? Then my honey is going to say, No way. I'm going to get the other honey to do it. Same text. She'll just invite the other honey into the same text. Do you guys understand what I'm saying? I'm not saying something ridiculous. It's true. Yeah. This is actually what's happening at work. You guys know this is actually what's happening at work for us right now. On Slack channels, we're talking to the agents. The agents are fixing bugs, just literally from a phone. Could you fix that bug? It's blah blah blah blah.
+Okay, take care of that ticket first." The agent goes, Got it. It works on this bug ticket first, then when it's done, it sends us a text back. If the agent texts back that the fix was unsuccessful, then the human goes, Well, tell me about it. Oh, hey, another agent could do that. They get another agent into the same text.
+## Speaker 14 | 
+Are you going to see that the Edge device is going to be AI-enabled? If you are you going to reinvent the Edge devices as well?
+## Jensen Huang | Founder and CEO, NVIDIA
+Every Edge device, like I showed there, increasingly, every Edge device will be agentic. In the future, oh, man, I just saw on the camera my dog tipped over all the food and it's a mess. I'm going to, Hey, Mr. Vacuum, could you go mop that up? You just text the vacuum from here. The vacuum cleaner goes, "What's the problem? He goes, Go to the kitchen. It's by the And then it goes to the kitchen. That's the future. Can you imagine a dumb vacuum cleaner? People won't even know what to do. That's the future. This is the agentic future we're talking about. This is the future of AI. Everything will become agentic. Everything that moves will be robotic. Every Edge device will run that agentic system, just like that.
+## Speaker 14 | 
+The personal agent hub is going to be at your home, on your PC instead of your mobile phone.
+## Jensen Huang | Founder and CEO, NVIDIA
+It's going to be everywhere. It's going to be in the cloud. I'm not trying not to sell that. Guys. Look, Dylan's going, Jensen doesn't want to sell any Vera Rubins. He only wants this. You crazy person. I want you guys to buy the living daylights out of that. I've got a giant supply chain set up, twice as large as Grace Blackwell. We're ramping up Vera Rubins. I'm not telling everybody, Don't buy that, buy this. Are you crazy? They're different things. AI's going to run everywhere, including a vacuum cleaner. Here, look. AI's going to run in this thing. I love this thing. Caterpillars. That agent pattern's going to run right here. I already put it in the car. I even showed it to you. My car can reason. It can talk. It can think out loud. Did you guys see my car think out loud?
+It sees so many things, it's so fast, and it's just boom, boom, boom, boom. It's thinking out loud, just like that. Just like that. It's just using a different model. That model in the middle is a large language model. That car model is a vision -language action model. Different architecture. The model's different, but the loop is very similar. Perceive, reason, plan. Perceive, reason, plan. Perceive, reason, plan. Keep in that loop.
+## Speaker 14 | 
+Thank you.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah, it's so simple. It's actually so simple. Simple, so hard.
+## Frank Lee | Analyst, HSBC
+Hey, Jensen. Frank Lee from HSBC. I wanted, Jensen, just to ask, given what you've talked about with this focus on CPUs, especially at this COMPUTEX, you also have invested in Intel and talked about the x86 relationship. Has any of that changed now given this big shift now that you're doing CPUs?
+## Jensen Huang | Founder and CEO, NVIDIA
+No
+## Frank Lee | Analyst, HSBC
+across the board?
+## Jensen Huang | Founder and CEO, NVIDIA
+No, no. As you know, NVIDIA, we're lovers, not fighters. We're not shirkers. I love that we're creating a future where everybody's a part. I really believe that that agentic platform, that agentic compute pattern, doesn't exist in the past. It didn't exist in the past. It's going to be pervasive in the future. Somewhere between the past and the future is where we are, and we need to prepare for this, and everything we're building is to enable that future. My entire mission is not to take anything from anybody, not to disrupt anybody's market. I hate the word "disrupt." I hate the word "market share takers." I hate all that. We are always just about being in service of creating that future. I didn't wake up in the morning to go repeat what everybody else has done. It's kind of nuts.
+Could you imagine? I hire some of the world's brightest computer scientists, and I tell them this: Hey, come work at NVIDIA. Come work at it. You know why? We can kick their ass and take their share." That's a weird motivation statement. That's why, NVIDIA, we never show, not one time in the history of our company, do we show share gains. Never. Every single market we serve is $0 billion. Here, you want to see some $0 billion markets? Look at that chart over there. Everything we talk about at GTC is a $0 billion market, and then one day it becomes very big. I love that. That's how you inspire people. That's how we make a contribution to the world to do something that the world has never seen before. Vera is unlike any other CPU.
+The first time we went to the memory vendors was, Guys, listen. We're going to design a CPU. It's going to be crammed in with a whole bunch of GPUs, so it's got to be super energy -efficient. Can we use LPDDR? Everybody goes nuts. They go, What? It's for cell phones, not data centers. All the other CPU vendors, they picked on us and told us we were stupid, and now, looks who's the genius now? It doesn't make sense looking backwards; it makes sense looking forward. Does that make sense? You see? To me, everything looks right because you're looking into this future. Looking into the past, yeah, all those things don't make sense. Why don't you use chiplets? The yields could be better. The chip could be lower cost. Why don't you use DDR5? Cheaper, easier to add into.
+There are a lot of reasons why we chose what we chose. Yeah.
+## Operator | 
+Jensen, to your left, way in the back.
+## Jensen Huang | Founder and CEO, NVIDIA
+Agents are going to need a lot of CPUs, though. Gotta love that.
+## Speaker 15 | 
+Hey, Jensen. Great to see you.
+## Jensen Huang | Founder and CEO, NVIDIA
+We created a giant market for everybody to enjoy. It's good.
+## Speaker 15 | 
+Yeah. My question is about the talent supply chain. By the way, very impressive products. Very impressive.
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank you. Thank you.
+## Speaker 15 | 
+Yeah. You just talk about how you're building a massive supply chain. I'm not sure how's your meeting with C.C. Wei. First of all, do you feel like you will get sufficient foundry capacity next year? You said that you don't agree with these kinds of market share debates, right? Would you agree that TSMC's capacity allocation will impact your market share? How are you going to influence C.C. Wei to give you more capacity next year?
+## Jensen Huang | Founder and CEO, NVIDIA
+Well, he has the business he has to run. TSMC, they have a business they have to run, and we've been long-term partners. My job is to inform him about our needs and to explain to him why, to explain to all of my partners, not just him, but I'm constantly explaining to the supply chain and all of our partners why NVIDIA can serve that need and why NVIDIA can create that future. The first time I came to Taiwan to talk about CUDA, nobody believed me. 0%. I came to talk about CUDA. I left, acknowledging that I spent a whole week talking about CUDA. Not one person knew what I was talking about; not one person believed it, but everybody believes it now. Everybody understands that computing has changed.
+Look, before I explain all of this to you, I explain all of that to you to explain that computing has changed. This computing pattern we call agents is new. There are some behaviors about this computing pattern. Therefore, we built all of this. Does that make sense? I start from the first reason. I start from the principled reasons. I don't start from, Oh, yeah, our CPU's better than their CPUs. We're going to kick their butt, take their share, and drop their price That's crazy. That's crazy talk. Not to mention it makes a bad keynote. It's not very entertaining. Angry, so angry. We just want to show people what's different, not that it's better. x86 has a place for x86. I buy a lot of x86s. x86 has a great place, but we're trying to solve something very differently.
+My job is to help my supply chain understand why it's going to be bigger. The reason why I spend so much time talking about what AI is and what the implication is to the world's industries is I'm trying to explain to the whole supply chain that this new world is going to affect you, too. I show Caterpillar there for a good reason. We put Caterpillar into the world of AI, and they loved it. The reason for that is because Caterpillar makes heavy equipment, but they also make power generators. I had to go reach out to Joe and say, Hey, Joe, listen, you are a part of the AI stack. I know you build Caterpillars, but you're an AI company. He goes, I am? I said, Damn right you are. You're going to be rich. Look what happened.
+I talked to Wendell. Hey, Wendell, listen, you're going to be an AI company. I am? We have to help the world understand their place in that future. Does that make sense? It's partly my job, too. It's inspired them to build for that future and inspired them to come with us, and so I do a lot of that at TSMC. A long time ago, C.C. will tell you that nobody advocated more for CoWoS than I did. I explained to him why CoWoS is necessary for first -principled reasons. He's very happy about it today. Very happy about it. Okay? Ask Sanjay. Somebody had to explain to him that HBM memory is not going to be a niche memory, that it's going to be in every single data center. I contributed to helping Micron with their roadmap.
+Look how happy they are. Go ask NJ and Tony at SK. Look how happy they are. I got a lot of happy friends. I got a lot of happy friends. All of that, it's about partnership; it's about creating this future together. It's not about disrupting anything or taking anything. It's about creating this future, which is what we're supposed to be here to do. Yeah.
+## Operator | 
+Okay, we'll take one last question.
+## Jensen Huang | Founder and CEO, NVIDIA
+Come on, we're just starting to have fun. I'm just kidding. Yes.
+## Speaker 16 | 
+Hey, Jensen. This is C.J. from Radical. I agree with you that the open models are getting better and better, especially with better chips on PC, people use them more.
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay, here it comes. That first part is, I agree with you, but
+## Speaker 16 | 
+Nope, this time you're wrong.
+## Jensen Huang | Founder and CEO, NVIDIA
+No.
+## Speaker 16 | 
+I want to ask, how do you think the split between open models on device versus models in the AI Factories are going to go? Secondly, my-
+## Jensen Huang | Founder and CEO, NVIDIA
+No, let's just go one at a time. The answer, first of all, I don't know, but we need both. I don't know, but we need both. The reason for that is because do you prefer to have a new college grad be super smart, the most genius human on the planet produced by the world's best university? Or do you feel that you could also have a very smart, not the most genius Einstein on the planet, but very smart person that you could teach, fine-tune, and focus on super skills for, but just one narrow domain? Which one? Do you believe in a future where AI that is generally incredibly smart at everything, or someone who is very efficient, can't do everything but is incredibly genius at one thing? Which future do you believe in? I believe in both. Which one did you believe in before you asked me the question?
+## Speaker 16 | 
+Both.
+## Jensen Huang | Founder and CEO, NVIDIA
+I believe in both.
+## Speaker 16 | 
+The more, the better.
+## Jensen Huang | Founder and CEO, NVIDIA
+The answer is this one, this artificial general intelligence, is likely to be from the cloud, and it's the reason why I'm investing in OpenAI and investing in Anthropic. I support the living daylights out of both of them. I think both of them are incredible. In the meantime, we're also creating open models that people can fine-tune, that Cadence can turn into super agents for chip design, and that Synopsys can turn into super agents for chip design. So on and so forth. Does that make sense? So I believe in both of these two ideas simultaneously. I have the ability to think, to simultaneously believe that the cloud is going to be incredible and your personal device is going to be incredible. My brain is big enough to hold both thoughts at the same time.
+## Speaker 16 | 
+My first-ever smartphone was.
+## Jensen Huang | Founder and CEO, NVIDIA
+I love you, Dylan. He's back there going, God, he's still picking on me! One bad step, one wrong step. It's like his legs got blown off. Okay, go ahead.
+## Speaker 16 | 
+My first-ever smartphone had a Tegra 3 inside. It's an HTC.
+## Jensen Huang | Founder and CEO, NVIDIA
+I'm sorry about that.
+## Speaker 16 | 
+It's fine.
+## Jensen Huang | Founder and CEO, NVIDIA
+No, Tegra 3, not HTC, was great.
+## Speaker 16 | 
+Indeed. As AI goes to the edge, do you expect NVIDIA to be strategically interested in also entering smartphone chips again?
+## Jensen Huang | Founder and CEO, NVIDIA
+No. The reason for that is because it's not necessary. I think Apple's doing a fantastic job. I think Qualcomm's doing a great job. I don't think it's necessary. Yeah. I also think that in order to build chips for smartphones, the software stack is very different. Nobody has a better software stack than NVIDIA on PCs, period. I can go toe-to-toe with anybody. We offer something very unique, and we're quite specialized in that. For mobile devices, the software stack's very different. The peripherals are very different. We're incredibly good here. I don't think we're incredibly good at mobile devices, and I don't think it's necessary. I think they're doing such a good job. Buy their stock. It's good. I spent the whole day selling other people's stock. Yeah. It's good. It's good to help other people. We should be happy other people succeed.
+## Operator | 
+Jensen, one last one?
+## Jensen Huang | Founder and CEO, NVIDIA
+We're going to keep on going until there's a good question.
+## Speaker 17 | 
+Hello, Jensen. My name is Guilherme. I'm an institutional shareholder from Brazil. Thanks for taking the question.
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank you.
+## Speaker 17 | 
+We've seen some surveys showing that AI is more unpopular than nuclear power was at its worst moment, a few decades ago. My question is, how to win over the American public to support AI and the infrastructure build-out?
+## Jensen Huang | Founder and CEO, NVIDIA
+You're asking a really good question. For example, in Asia, AI is loved. In Asia, AI is loved. In the U.S., AI's hated. The reason for that is because many people use words that are intended to position their company and intended to cause regulatory capture. I think that they have to be smart about that because it's harmful to the country. If the U.S. or South America or Europe doesn't use AI and they compare it to nuclear bombs, which is, as you know, completely ridiculous. Everyone should have AI. No one should have a nuclear bomb. That comparison is ridiculous, is nonsensical, it's hyperbolic for no good reason, and it scares people. If we end up scaring our countries, our communities of not using AI, we have done our community, our country, a huge disservice.
+That is my biggest concern, and so I really appreciate you raising that. Of course, we have to build AI safely. Of course, we need to have policies in the end markets to keep it from being used improperly. Of course. Safety, security, functionalityâall of these things have to be all true. It is the responsibility of the technology industry, the product makers, and the service makers to ensure that is true. The idea that somehow that one company is the only company building safety is nonsense. It's like only one car company building safe cars. All the other cars are just kind of randomly killing people. It's the entire industry's job. It is the entire industry's responsibility to make great products, safe products, and secure products. The car cannot be hackable. You can't just randomly hack somebody's car.
+That's not appropriate. You have to have the right technology in it. All of these things have to be simultaneously true. It is possible for us to be safe and to be concerned and optimistic. These are not conflicting ideas. I have no idea how so many people in society have to choose one or the other. Why do you have to choose to be successful? Do you want to be successful or generous? Do you want to be successful or kind? As if they can't exist at the same time. We have to build for safety, security, and an optimistic future at the same time. Both of those two ideas are possible. It takes a lot of work. We have to be very serious about it.
+I appreciate the question. One thing we should not do is to scare the community into thinking that this technology is dangerous and therefore their children don't engage with it. Here's a very simple question. I don't know, do you have children? I have two children, okay? I tell both of them to use AI. The reason for that is very simple. I don't want them to be left behind. I don't want my children to be left behind. My advice to my children is the ultimate test of how I feel about the technology. Do you guys agree? My question is this: How many of you are advising your children, Whatever you do, don't touch it. It's a nuclear bomb. How many? Raise your hand. I know. It's a rhetorical question. Don't. Nobody is going to advise their children not to use AI.
+Don't let them be left behind, okay? I appreciate the question. As you go around the U.S., remind people. All of you are analysts. You write things people read. Everybody should have AI. The industry must take it seriously, build it properly, build it safely, and build it securely. Do you guys agree with that? Okay. All right. One more question. This is the last question, you guys. My clock said zero two hours ago.
+## Jay Goldberg | Analyst, Seaport
+Thanks for taking one last question. I'm Jay Goldberg from Seaport. Yesterday in the keynote, you talked about cost per gigawatt going up from $50 to
+## Jensen Huang | Founder and CEO, NVIDIA
+There was a question I almost didn't answer. Can I do that real quick? There was a supply chain question. Listen, we have the support of this entire ecosystem in our supply chain to provide for very robust growth. We grew nearly 100% year-over-year from a base that was already very large. We have the ability, with the support of our supply chain, to grow very robustly. Okay? We don't have enough supply. The reason for that is because the world's supply chain is supply constrained. We have the support of our ecosystem to have very robust growth and are well in support of whatever guidance we've provided. Next question.
+## Jay Goldberg | Analyst, Seaport
+Yesterday, you talked about cost per gigawatt going from $50 billion-$90 billion. That's a big number.
+## Jensen Huang | Founder and CEO, NVIDIA
+Oh, it's very simple. What's better, for a ``1 GW data center to hold $50 billion worth of computers, or let me pick another number, $1 trillion worth of computers? Which one's better? $1 trillion. The reason for that is because it's staying 1 GW . In order to get support for $1 trillion worth of computers, that $1 trillion worth of computers better be very productive, and its energy efficiency must be off the charts. I was simply projecting goodness. The alternative, it's dumb. This year, we could put $50 billion worth of computers in one gigawatt. Next year, we can only put 10 in there. When somebody tells you that their dollars per gigawatt, their compute per gigawatt, is low, you have to ask yourself, Hmm, I don't know. Is that good news? Do you understand my point?
+## Jay Goldberg | Analyst, Seaport
+I understand. It's a fair point.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah.
+## Jay Goldberg | Analyst, Seaport
+I'm just wondering; it's getting harder and harder for a lot of these companies to afford it. Google and Microsoft-
+## Jensen Huang | Founder and CEO, NVIDIA
+Oh, no. Just build 100 MW at a time. If our efficiency is that incredible, build 10 MW at a time. There you go.
+## Jay Goldberg | Analyst, Seaport
+Thank you.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah. I stopped you, not because I didn't want you to have to say the rest of that stuff out loud. Yeah. I'm simply projecting out good engineering principles. Okay, one more question. That's, by the way, just so that I'm selling all the time, okay? That's what NVIDIA's incredibly good at. We are incredibly good at perf per watt. Perf per watt is the only thing that matters, and the reason for that is because it is possible to have 3x the perf per watt. Very possible. It is not possible to reduce your cost by three times. The reason for that is very simple. Net of gross margins, you still have memories and cables and power generators and MLCCs. Does that make sense? You can't cost -reduce everything away.
+What you can cost-reduce is some percentage, but it is not unusual that our perf per watt is 3x or 10 x. Therefore, perf per watt is utterly vital. NVIDIA's extreme co-design capability, the fact that we design across the entire rack and all the software stack, allows us to squeeze literally everything out of it to smartly architect it away so that our energy efficiency is incredible. Perf per watt is world-class. I continue to believe that that's going to be our shining capability and the most important characteristic of an AI factory going forward. Is it necessary to have another question?
+## Nick Griffin | Shareholder, Munro Partners
+Sorry.
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay.
+## Nick Griffin | Shareholder, Munro Partners
+Just here.
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay. All right.
+## Nick Griffin | Shareholder, Munro Partners
+Want to come for one last one or no?
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah. Sure.
+## Nick Griffin | Shareholder, Munro Partners
+Last question.
+## Jensen Huang | Founder and CEO, NVIDIA
+Okay. The pressure is on.
+## Nick Griffin | Shareholder, Munro Partners
+Hopefully, this is good. My name's Nick Griffin from Munro Partners, one of your institutional investors from Australia.
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank you.
+## Nick Griffin | Shareholder, Munro Partners
+Thank you for all your work.
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank you.
+## Nick Griffin | Shareholder, Munro Partners
+Question is, you recently resegmented your financials.
+## Jensen Huang | Founder and CEO, NVIDIA
+Yeah
+## Nick Griffin | Shareholder, Munro Partners
+for the financial community. I suppose I was just wondering what the motivation was for doing that.
+## Jensen Huang | Founder and CEO, NVIDIA
+Oh, great.
+## Nick Griffin | Shareholder, Munro Partners
+What are you hoping to show us in the future out of doing that?
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank you.
+## Nick Griffin | Shareholder, Munro Partners
+That we can understand your company better?
+## Jensen Huang | Founder and CEO, NVIDIA
+Thank you. Okay. Excellent last question. It goes like this. What is the purpose of disclosure? To explain how our business works. When everything got lumped into one giant data center, does it show how our business works at all? It's just one big number. We might as well just show one number, just NVIDIA's revenues. The question is, how does our business work? That's really the question. I wanted you guys to know, and in fact, if you look at the keynote, you will see our business kind of works like this. One, there's the hyperscalers. Our business works in three ways inside the hyperscalers alone. One, we bring customers to the hyperscalers. That's the reason why we're in every cloud. We're, in a lot of ways, distributing our compute because we bring them customers, and we bring them big ones.
+Number one, they keep us in their cloud because we bring them customers. The fact that our ecosystem is so rich allows us to bring them a lot of customers. Number two, we run their internal workloads, search, data processing, SQL queries, and a ton of stuff. Speech, transcription. NVIDIA's transcription models are the world's best. Okay? We run a ton of stuff. Computer graphics, remote PCs. That's all NVIDIA. Let's say another third is all of that: internal workloads, non-AI stuff, and classical accelerated computing stuff. There's a third that is AI. It's Anthropic. We're really pleased that we're growing with them. It's OpenAI. Does that make sense? Okay. Our business with CSPs is kind of described in that texture. That alone is plenty for people to think about.
+There's a second category, which is OEMs like HP and Dell and Lenovo, and they sell to industrials and OEMs, or they sell to many of our, we call them NCPs, the neo clouds or AI native clouds or AI clouds. Okay? You guys all use different phrases. CoreWeave of the world relies on us; Nebius relies on us for many things, including helping them stand up their entire data center. They don't want to buy in pieces. They literally want to buy it like that. Do you see what I'm saying? They want to buy it like that. They want our reference architecture. The reason for that is because that entire software stack is so complicated, and they just don't have enough engineers, nor do they want to have that many engineers. They want to move fast.
+Agility is their skill; it is their secret sauce. They can secure land, power, and shells, they find, and they're all over the world. Sometimes they're in Australia, for example. They're in Australia; they're in Europe. They're all over the U.S. They're super smart about finding land, power, and shell because they're regional. Land is regional. Land's not in the cloud. Now they can find land, power, and shell. They need our computing reference architecture. They need our software stack. They need us to bring them the customers. After that, they need financing. We make a small investment in them to secure, if you will, for them, their reputation, to anchor their investment, and then they can go raise 90% of it themselves. We bring customers to them, and they tie that whole thing together, and boom, you get a CoreWeave.
+Boom, you get a Nebius. Boom, you get an Nscale. Firmus, an incredible one is coming. Really, really great. We're seeing these. That whole second category, they're not really designers of architectures. They're not architecting new ASICs. They don't want to do that. Their purpose is not to design and build a computer. Their purpose is to operate a computer for a service. They don't want to design a computer. They want to operate a computer. That entire second segment, as it turns out, is 50% of our business. It's growing 100% a year, and long -term, it's likely to be even larger. The reason for that is not because the CSPs are going to decline. It's because there's too much stuff at the edge. You can't. Every single factory is going to have a factory brain.
+That agentic workload is going to run inside every single factory. That computer can't sit in the cloud. There are many companies that want to, because of industrial reasons or telco reasons, or just because it has to be regional or sovereign or data protection reasons or whatever your favorite reasons are; they need to build the data centers and control them. That marketplace is going to be quite large. Then the third segment is the last slide. The third segment is the last slide. You've got to ask yourself, do you believe in the future of robotics? Do you believe in physical AI? If you do, NVIDIA is not going to be in all of them, but we're going to be in many of them. Ladies and gentlemen, I'd like to introduce a whole new line of edge systems. Does that make sense?
+Those are the three categories: cloud service providers, AI clouds, and enterprise and industrial, and then the third is robotics edge. Was that helpful?
+## Nick Griffin | Shareholder, Munro Partners
+Very.
+## Jensen Huang | Founder and CEO, NVIDIA
+That helps you understand the company's business, and I thought that by disclosing it in that way, it could really help you with the granularity of our business, and you could decipher yourself how you want to project each one of these segments, and that led me to the conclusion. The conclusion is NVIDIA is gaining share, and that is weird. Not because we're taking it from anybody, but because the future of AI is growing in all these different ways. When you think about the world of AI, we started out what people think is a very large position. We're now growing with Anthropic and all of the AI models, OpenAI, and so on and so forth. There are whole other segments of AI that people don't talk about. It's underserved.
+It wasn't until recently that Michael Dell just blew out their quarter, and look, none of them were CSPs. Completely blew it out. It's all in that one segment. I just want people to see the big picture of our business, and it could help all of you be better investors. All right, you guys. Thank you very much. Thanks for coming.
+Data Source: Quartr Last updated: Jun 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (17) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

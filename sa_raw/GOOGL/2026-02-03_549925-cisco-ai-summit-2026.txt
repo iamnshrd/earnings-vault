@@ -1,0 +1,368 @@
+TITLE: Cisco AI Summit 2026
+DATE: 2026-02-03
+## Moderator | 
+All right, so next, we have up is Amin Vahdat. Amin is the Chief Technologist for all of AI infrastructure for Google, works for Sundar, and is someone that you can unendingly listen to. So Amin, come on up. How are you, buddy?
+## Amin Vahdat | Chief Technologist, Google
+Good to see you.
+## Moderator | 
+Good to see you. Have a seat.
+## Amin Vahdat | Chief Technologist, Google
+Thank you.
+## Moderator | 
+How's life?
+## Amin Vahdat | Chief Technologist, Google
+Life is exciting. I mean, it's actually never been more exciting, I think. I know you feel it. I know you all feel it in the audience. I'm just thrilled, actually.
+## Moderator | 
+Gemini 3 is kind of, crazy times at Google, huh?
+## Amin Vahdat | Chief Technologist, Google
+Gemini 3 has been awesome. I mean, I think it's been, yeah, you all know, it's state-of-the-art across essentially all the benchmarks. We're really proud of that. But I think for us, you know, we've been on this three-plus-year journey at Google. Gemini 1 came out two-ish years ago. I mean, I think that for me, I'll just speak for myself, I'm always rooting for the underdog, and it was great to be at a place where Google was the underdog.
+## Moderator | 
+You're always?
+## Amin Vahdat | Chief Technologist, Google
+Rooting for the underdog.
+## Moderator | 
+Rooting for the underdog.
+## Amin Vahdat | Chief Technologist, Google
+It was great to be at a place where Google was the underdog. All of us believed internally. Actually, all of us believed internally. But for us to come to this journey, the race is not. I mean, the race is like inning one, right? We're proud of where we've come over the past few years.
+## Moderator | 
+You should, you should be very proud. It was actually. By the way, you proved the naysayers wrong in some pretty profound ways because people had almost given up on Google in certain areas, and then all of a sudden, they're, they're back, and so it's a wild success, and congratulations to you.
+## Amin Vahdat | Chief Technologist, Google
+Thank you.
+## Moderator | 
+And hiring better people, what kind of group of people. So talk to us about your, i f I think about one of Google's superpowers, it is probably the most full-stack company that exists in the market, all the way from the TPUs that you build, to distributed systems architecture, to the, you know, and every layer of the stack, all the way to the applications that touch the user and the consumer at scale.
+## Amin Vahdat | Chief Technologist, Google
+Yeah.
+## Moderator | 
+T o billions of users. How much of that is, is actually a massive compounding contributor of your success?
+## Amin Vahdat | Chief Technologist, Google
+It's a great question, Jeetu , and I think that this is actually one of, if not the biggest parts. In other words, if you look at our stack, of course, we're proud of our TPUs, we're proud of Gemini, we're proud of our distributed systems architecture, we're proud of our data center architecture, our power delivery mechanisms, et cetera. But the real, I would say, secret weapon that we have is that we get to work together across the stack at the company to solve the end problem. That's what is actually most gratifying. So if you look at TPUs, they're not designed in isolation. They're co-designed with DeepMind, but also taking input from all of the different use cases: Search, Ads, YouTube, Cloud.
+## Moderator | 
+Do you work very closely with Demis on this on a regular basis?
+## Amin Vahdat | Chief Technologist, Google
+I, you know, one of the best parts of my job is working with Demis very closely. And if you look at it, the infrastructure and the models, I mean, we're in this great, challenging, but great place, where we wind up being the limiting factor in terms of what the company can deliver.
+## Moderator | 
+You being your team because of the infrastructure that, and how fast you can?
+## Amin Vahdat | Chief Technologist, Google
+Of course, I hope that we're also appreciated.
+## Moderator | 
+Yeah, yeah, yeah.
+## Amin Vahdat | Chief Technologist, Google
+But it is, I mean, in other words, if we, if we had more, it would be a positive. It would be a big positive. So yes, Demis and I work, speak regularly. Our teams engage deeply. So it's this co-design process that is so important for hardware in particular, but also for software. I mean, the kinds of software that we're building today, they have two to three year lead times. The hardware has, as you well know, two to three year lead times. So the ability to predict the future, working hand in hand with the research teams that are developing the models and say, ask and be able to answer, where are things likely to go?
+Of course, no one can predict the future that far out, but if we know what the probability distribution function looks like, what the Pareto frontier outcomes looks like.
+## Moderator | 
+Yep, yep
+## Amin Vahdat | Chief Technologist, Google
+T hen we can actually evaluate designs relative to one another, looking at what must, might be most likely.
+## Moderator | 
+And so let's talk about TPUs, because I think it was, it's the first kind of massive success of XPUs that has happened, and you folks have done a fantastic job on making sure that you're changing the scarcity model of GPUs to some degree, and especially on the inference side. So walk us through what happens on the. Firstly, do you sell TPUs to the open market, or are you gonna keep it within the GCP domain?
+## Amin Vahdat | Chief Technologist, Google
+TPUs are a GCP product offering entirely, but I do wanna note that NVIDIA and GPUs are a huge GPU GCP product offering.
+## Moderator | 
+Yep.
+## Amin Vahdat | Chief Technologist, Google
+In other words, for us, what we're focused on is solving customer problems. And, deep partnership with NVIDIA, a lot of our success at Google has been as a result of that partnership with NVIDIA and GPUs. So what we're focused on is solving customer problems, whether internal or external. And there may be situations where one product is more appropriate than another for a particular use case. So that sort of vertical integration, that whole stack solution that you talked about, starts with: What problem is the customer trying to solve? And then we work our way up and down in order to deliver, ideally, of course, the best solution with whatever it is that we put together. So for me, actually, the most exciting part of this is how we're able to specialize.
+In other words, for me, whether it's GPUs, TPUs, product offerings from many, many other companies, and actually, it's exploding, as you well know. The real phase change here is actually, now we don't have to have general-purpose, one-size-fits-all architecture anymore.
+Now we're able to specialize for the individual use cases and even invent new, wholly new architectures, hardware or software for it.
+## Moderator | 
+Do you see that for every class of model and for every variation, that you could actually start to etch different silicon that's optimized for that over time, or is that?
+## Amin Vahdat | Chief Technologist, Google
+It's a fantastic question.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+It's a fantastic question, and as we know, the more you specialize, the more efficient you can be.
+## Moderator | 
+Yeah
+## Amin Vahdat | Chief Technologist, Google
+For a particular workload. Now, actually, the biggest thing that I'd. The answer to your question would be yes, if we could only cut down the lead time of hardware design to delivery by a factor of 10.
+## Moderator | 
+Mm-hmm.
+## Amin Vahdat | Chief Technologist, Google
+Like, right now, today, from the time we say, "Hey, here's an amazing new piece of hardware," to the time where we have it at scale in the data center, not quite speed of light, but really fast, would be three years.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+Predicting.
+## Moderator | 
+And what do you think that gets to be in a 10-year period?
+## Amin Vahdat | Chief Technologist, Google
+Yeah, so in a 10-year period, I think it. I don't know where it gets to be, but if we could, in a 10-year period, get that down to, let's say, three months.
+## Moderator | 
+Wow, that's.
+## Amin Vahdat | Chief Technologist, Google
+Three months.
+## Moderator | 
+That's aggressive.
+## Amin Vahdat | Chief Technologist, Google
+Yeah. Well, it's. I don't know how to do it. And
+## Moderator | 
+Yeah, yeah.
+## Amin Vahdat | Chief Technologist, Google
+Right? I don't know if anybody does. But if we could get it down to three months, actually, from an efficiency, capability, change the world perspective, it would be a radically different place.
+## Moderator | 
+But would that make consumption really hard? At a three-month cycle of chips, how would you... Because the entire value chain has to shift, right? Because the way-
+## Amin Vahdat | Chief Technologist, Google
+Right
+## Moderator | 
+I n which you actually incorporate the chips in the data center, your capacity planning, how you actually get that to the next. Because your shelf life, and the amortization of those chips still needs to be, you know, three, five, seven years.
+## Amin Vahdat | Chief Technologist, Google
+Well, so this is. It may need to be three, five, seven years. I don't think that six years or five years or whatever we have encoded right now is a law of nature in terms of what the depreciation cycle would be.
+## Moderator | 
+Are you saying that that'll be programmability based, or is it gonna be actual, you know, like, you'll have different tape outs every three months?
+## Amin Vahdat | Chief Technologist, Google
+Well, so that, that's the key question. I would imagine that you would need different tape-outs.
+## Moderator | 
+You'd need to figure out.
+## Amin Vahdat | Chief Technologist, Google
+If it's programmable, then it's not gonna be specialized.
+## Moderator | 
+Right, right, right.
+## Amin Vahdat | Chief Technologist, Google
+If it's not specialized, it's not gonna be optimized for a particular workload.
+## Moderator | 
+That optimized.
+## Amin Vahdat | Chief Technologist, Google
+But so three months is radical.
+## Moderator | 
+Yeah, yeah.
+## Amin Vahdat | Chief Technologist, Google
+I don't know how to do it. Two years? Seems achievable.
+## Moderator | 
+That's a third of the time, yeah.
+## Amin Vahdat | Chief Technologist, Google
+Right. And then now, okay, 18 months. Okay, probably many people in the audience are starting to get nervous. Maybe that's impossible. 12 months seems not doable. But the point here is, the more we can pull it in, the more we can specialize. The more we can specialize, the more efficiency we can deliver. And so in other words, if you think whether it's power, if I can deliver something that is 2x, 5x more power efficient because I've specialized it for a particular workload. In other words, whether it's GPUs or TPUs or your other favorite accelerator, for a particular workload, power efficiency is at least the factor of 10. Now, okay, what if I had something that was even more specialized?
+I would imagine, actually, a factor of 10 is achievable, but then I'd have to predict the future three years out.
+## Moderator | 
+So how do economics change with XPUs?
+## Amin Vahdat | Chief Technologist, Google
+So again, I think it's this factor of 10.
+## Moderator | 
+Factor of 10.
+## Amin Vahdat | Chief Technologist, Google
+Factor of 10. And again, the picture of XPU, by the way, I include GPUs. To me, and I know there's different terms, et cetera, but to me, specializing the way that we have right now.
+## Moderator | 
+Yeah
+## Amin Vahdat | Chief Technologist, Google
+G ets you a factor of 10 at least. And whether that might be cost, that might be scale, that might be power across all dimensions, I get that massive uplift, but I give up generality. I, I wouldn't go run a database on an XPU correctly.
+## Moderator | 
+Space.
+## Amin Vahdat | Chief Technologist, Google
+The final frontier.
+## Moderator | 
+Talk about data centers in space, and we talked about it with Matt Garman earlier. Talk about your point of view on that.
+## Amin Vahdat | Chief Technologist, Google
+It's really exciting, actually, and as probably you're aware, Google is looking into this space. A number of companies are looking into this space from, no pun intended, from a first principles perspective, it holds a lot of appeal. I mean, a Sun-synchronous orbit with 24/7 solar power-
+## Moderator | 
+Is cooling figured out in space?
+## Amin Vahdat | Chief Technologist, Google
+Yeah. So I'll get, I'll get to it. I'll get to it.
+Power, part of that, by the way, three-year hardware perspective, is actually being able to deliver the building and the power necessary to hold that chip. So we can talk about, hey, if I can go build the chips in 3 months, how am I gonna house it all? So removing a bottleneck, which is perhaps, if we can solve all the issues, to be able to put XPUs, GPUs, TPUs, whatever it is, in space with 24/7 solar power, no need for batteries. I mean, no, no cloud cover, right? No sunset, et cetera. Now, okay, cooling.
+## Moderator | 
+You're 30% more efficient than?
+## Amin Vahdat | Chief Technologist, Google
+30% more efficient. Networking, like, actually assuming that we're gonna connect these satellites together in space, you get a 50% reduction in latency for, for speed of light, not having to go through fibers, et cetera. Now, there are many, many problems to, to solve. Cooling is one of them. Maintenance is another one.
+## Moderator | 
+Maintenance.
+## Amin Vahdat | Chief Technologist, Google
+Right. In other words, these computers, accelerators are wonders of nature, and at least on our side, we're certainly expending effort in maintaining them. But I view this.
+## Moderator | 
+You would think robotics in space would be the way to do it.
+## Amin Vahdat | Chief Technologist, Google
+Yes. So if you look at the scale at which we're growing, whether it's terrestrial or in space, I do believe that the current way that we're going about deploying and maintaining our infrastructure is unlikely to scale, and it's unlikely to get to the level.
+## Moderator | 
+Likely
+## Amin Vahdat | Chief Technologist, Google
+O f reliability, velocity, and everything else that we need to do it. In other words, I think the way that we're deploying infrastructure today is not radically different from how we did it when, let's say, Google's built its first data center in 2002 or so. And that was a 10 MW, like.
+## Moderator | 
+Right.
+## Amin Vahdat | Chief Technologist, Google
+I remember when this happened, people said, "10 MW?" Right. That now, of course, is. People are talking about 10 GW like it's a done deal-
+## Moderator | 
+Yeah
+## Amin Vahdat | Chief Technologist, Google
+E t cetera.
+## Moderator | 
+Like something, yeah.
+## Amin Vahdat | Chief Technologist, Google
+So, yeah, a factor of 1,000 really means that you have to reconsider how you do everything.
+## Moderator | 
+Do you think a gigawatt in space is a decade away?
+## Amin Vahdat | Chief Technologist, Google
+Huh, this is a good question. I think that's, it is greater than five years away, at this scale. But it is too early to put a
+## Moderator | 
+Timeframe.
+## Amin Vahdat | Chief Technologist, Google
+Timeframe on it is what I would say. I think that it is an idea that is absolutely worth investing in and going after with gusto, right? Because, we're gonna learn a ton from it, and I think that it's gonna advance the state-of-the-art no matter what.
+## Moderator | 
+What do you worry about the most right now?
+## Amin Vahdat | Chief Technologist, Google
+It changes by the week. It changes by the week, and it's.
+## Moderator | 
+Velocity is what you worry about?
+## Amin Vahdat | Chief Technologist, Google
+Velocity is the generic one that cuts across everything in terms of how we're able to do things, how we're able to deliver, how we're able to iterate. Energy will be on the list in many cases, in many weeks. Supply chain, I mean, that the rate that we're all looking to grow, the number of things that we discover-
+## Moderator | 
+What do you think of memory prices?
+## Amin Vahdat | Chief Technologist, Google
+Yeah.
+## Moderator | 
+Cheap, you think?
+## Amin Vahdat | Chief Technologist, Google
+Yeah, so that's been on my list of worries in certain weeks, as well. Very, very exciting times in terms of, especially as you know, the split between DRAM and HBM.
+## Moderator | 
+Yep
+## Amin Vahdat | Chief Technologist, Google
+A nd how that affects.
+## Moderator | 
+Do you see a light at the end of the tunnel? Or Lip-Bu was saying it's gonna be until end of 2028.
+## Amin Vahdat | Chief Technologist, Google
+Lip-Bu would know more about it than I do.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+I think that I hope he's wrong. But he knows more than I do, so I think we might have to pencil that in.
+## Moderator | 
+Where, where are the constraints and the bottlenecks gonna be in the next couple of years? And by the way, actually, let me take a step back. Things that are absolutely held beliefs of truth right now that you fundamentally disagree with.
+## Amin Vahdat | Chief Technologist, Google
+You know, I think that one of the things that a lot of people are counting on right now is efficiency winning the day, whether that's software efficiency, model efficiency, hardware efficiency. We're investing hugely in all these domains. Power efficiency. The amazing thing right now is as our capabilities grow, as these models become more and more powerful, people are doing more with them. So in other words, every efficiency we deliver, and it's the rate of improvement on the efficiency side, I've never seen anything like it. But it gets consumed and more instantaneously. Because the capabilities. I know you had, Mike, a very interesting conversation earlier. The capabilities that these, not just the models, but now the orchestration around them, agents, coding, so much more are delivering, instantly consumes the efficiencies.
+So I mean, I think that a belief or a hope, depending on how you look at it, is the efficiencies are gonna save the day. They will eventually, but I'm maybe with Lip-Bu on that might be further out than some people think.
+## Moderator | 
+Then, if you think about original insights that we don't have in the human corpus of knowledge, that AI starts to generate, becomes the force multiplier, rather than just doing something that we do today, but doing it slightly better. Are we now generating meaningful, original insights from AI that you feel are gonna start to solve really complicated problems, or you feel like we're still a little ways away from that happening?
+## Amin Vahdat | Chief Technologist, Google
+It's a great question, but I think that to me, it's the more impactful a question right this moment is, as a former professor, a relatively long-time professor and academic, the question I would always ask myself, and in academia, you get judged on the originality of your idea.
+## Moderator | 
+Yeah
+## Amin Vahdat | Chief Technologist, Google
+W hich always used to drive me nuts, because for me, it was always standing on the shoulders of giants.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+Was I really original or was I.
+## Moderator | 
+Consumerization of the idea that might be more.
+## Amin Vahdat | Chief Technologist, Google
+Right.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+Did you put the right set of ideas together in a way.
+## Moderator | 
+Aggregated them.
+## Amin Vahdat | Chief Technologist, Google
+E t cetera.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+So I, I think that for me, the most exciting thing about this moment with AI and GenAI is, even for people like me, who are super privileged, super lucky to have access to information, to have access to experts, I'm able to get near instantaneous insights for relatively advanced questions, not original insights. In other words, if I were able to instantaneously contact world-leading experts or top one percent experts, I'm sure I'd get equal or better. But it's at the point now where across so many different fields, I'm able to access incredible information near instantaneously. And so in other words, even if you look at it from a business impact, I might ask a question at work, and I'm fortunate to have amazing teams. It might take many, many days to answer my simple question.
+They're, they're the smartest people, they're working super hard. And, but now being able to get that same answer in seconds, minutes, without having to consume the time of many.
+## Moderator | 
+Right
+## Amin Vahdat | Chief Technologist, Google
+S mart people, is that original? No.
+## Moderator | 
+No, but it's.
+## Amin Vahdat | Chief Technologist, Google
+Is it a game changer?
+## Moderator | 
+M assively.
+## Amin Vahdat | Chief Technologist, Google
+It's a game changer.
+## Moderator | 
+A dditive.
+## Amin Vahdat | Chief Technologist, Google
+Right. So, to me, I'm not so worried about is AI going to now be able to outdo humanity with original ideas that we couldn't do on our own? Maybe that's gonna happen, maybe, that's not, but when is it gonna happen?
+## Moderator | 
+You stitch them well together, you'll actually have meaningful answers.
+## Amin Vahdat | Chief Technologist, Google
+Right this moment, and having access to them.
+## Moderator | 
+Yeah
+## Amin Vahdat | Chief Technologist, Google
+R ight? In other words, I might have a PhD in computer science, very fortunate, I might understand concepts in computer science, but I don't have a PhD in biology, in chemistry, in finance, in medicine, et cetera. But having access to, to that myself, that I think is the game changer.
+## Moderator | 
+This is actually a very interesting use case because if I were to think about what is the most additive use case in my life, it's been research and learning.
+## Amin Vahdat | Chief Technologist, Google
+Yes.
+## Moderator | 
+Right? We talk a disproportionate amount about coding. We talk a lot about customer support. We talk a lot about a lot, a lot of those use cases. Research and learning is one that is actually least talked about. It is actually the most used. It is the most prolific in humanity.
+## Amin Vahdat | Chief Technologist, Google
+Exactly.
+## Moderator | 
+We have actually somehow gotten so used to it that we've stopped even giving it credit.
+## Amin Vahdat | Chief Technologist, Google
+I think that that's, I mean, the way I like to cast it, when I talk to my team, is we have the opportunity. We're not there, and there's lots of challenges. I also heard the discussion on safety, but we have and security. We have the opportunity to deliver a doctor for every patient and a teacher for every learner, and be able to specialize it to the needs of the individual, the business use cases we talked about as well. So, I mean, this will be a game changer. In other words, as you said, for you, you're learning-oriented. You want to learn, you're very good at it, et cetera. Being able to open this up to everybody, and I think we're actually at the cusp of that.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+And then similarly, being able to proactively deliver-
+## Moderator | 
+Isn't it already opened up at this point?
+## Amin Vahdat | Chief Technologist, Google
+I think that it is very, very close.
+## Moderator | 
+If you have the internet, you've got it.
+## Amin Vahdat | Chief Technologist, Google
+If you have the internet, and if you. Now, I think the last bit that is missing is the s-, personalization.
+## Moderator | 
+Mm.
+## Amin Vahdat | Chief Technologist, Google
+To, in other words, and it's already, we're seeing hints of this.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+Right? Where, okay, Jeetu , he likes information presented to him like this.
+## Moderator | 
+Yeah.
+## Amin Vahdat | Chief Technologist, Google
+Amin, more or less the same, but a little bit differently.
+## Moderator | 
+Yeah, yeah, yeah.
+## Amin Vahdat | Chief Technologist, Google
+I think we're almost there, and then similarly, if we could do it for health, if we can do it for business intelligence, et cetera. And it's not as far away as some might think.
+## Moderator | 
+So if you were to get people excited about the next few years and what's happening in Gemini 4 and Gemini 5, without revealing roadmaps, but go a little bit more specific than they're just gonna get better as models.
+## Amin Vahdat | Chief Technologist, Google
+Mm-hmm.
+## Moderator | 
+Which we all know. What do you think we could expect, and what turn of crank can we expect? Is it 10x better with every model? Is it 25% better? Is it 100x better? And does that, does that improvement compound over time?
+## Amin Vahdat | Chief Technologist, Google
+Yes
+## Moderator | 
+O r does it actually start to flatten as a curve?
+## Amin Vahdat | Chief Technologist, Google
+At this point, I don't see any slowdown, and so what I would say is, I mean, the capability of the models, it's hard to put numbers on them. But I would say that it definitely feels the same as it did in the heyday of CPUs, Moore's Law. We have Lip-Bu in the audience, where, you know, every 18 months, you couldn't wait to get your hand on the latest CPU because everything got twice as good for the same cost. I think that where we are with models, every three to six months, I don't have a quantification around it, but things feel like they're getting twice as good, even faster than Moore's Law.
+## Moderator | 
+Do you think the evals are getting better proportionately to actually gauge whether or not the models are, in fact, improving at the level that we.
+## Amin Vahdat | Chief Technologist, Google
+The evals are getting really good.
+## Moderator | 
+They're really, they're really good?
+## Amin Vahdat | Chief Technologist, Google
+The evals are getting really good because I think they're increasingly focused on real-world use. Actually, we have enough data where the models didn't do well in the past.
+And so we can actually now say, "Hey, you know what? For these, hard cases, the ones where the models maybe struggled, some before, they generally do well for many, many use cases. How much improvement do they deliver?" So it's hard to say, "Okay, across all evals, the model is twice as good," but, I mean, I can tell you and it's the same... By the way, it's an amazing time because whether it's Claude, whether it's ChatGPT, whether it's Gemini, they're all getting better, and they're all making one, and I would say, the competitive environment is also making everyone better. And this is fantastic to see, where release after release, you're now feeling like you're gaining more insight, you're gaining more capability, and it's able to go further, deeper, faster.
+## Moderator | 
+What question did I not ask you that I should have, and what advice would you give to this audience as well?
+## Amin Vahdat | Chief Technologist, Google
+I mean, you asked fantastic questions. What I would say is that.
+## Moderator | 
+Oh, Gemini.
+## Amin Vahdat | Chief Technologist, Google
+Yeah. Well, no, no, no, I wouldn't say that actually. But I mean, for me, of course, I love Gemini. I love what we're doing there, but this is, very sincerely, this is not gonna be a winner-takes-all environment. This is going to be, you all have heard it, the biggest revolution since the internet. I remember the internet. You remember the internet very well. It was a pretty big deal. Like, in other words, I think we're at the point now where, those of us who have children, they wouldn't be able to recognize how the, those of us born before the internet exploded lived, right? The world is just a radically different place. This is going to be that, but much, much, much bigger.
+In technology, there's never been a better time to be working, be contributing, to be making an impact, whether you're working at the top of the stack or whether you're working in infrastructure, like, like myself, like, of course, all the amazing things that Cisco is doing. The great thing about infrastructure is, whether it's the internet or whether it's AI, it's high in demand. So, well, maybe you didn't ask this, but what I would say is the opportunity to write the book for how we support this revolution from a technical perspective, I mean, it's singular, right? And we're, we're going to literally be inventing the future in terms of how these services, how these agents are gonna be delivered.
+## Moderator | 
+Amin, I have to just thank you. I think it'd be remiss if I didn't thank you for all the great work that we've done together as two organizations.
+## Amin Vahdat | Chief Technologist, Google
+Absolutely.
+## Moderator | 
+And I want to see that partnership just flourish over time, and it wouldn't have happened without your support. And thank you for your entire team and how they work with our Silicon team and our kind of our networking team. So really appreciate it. Thank you for being here, and hopefully you'll come back again.
+## Amin Vahdat | Chief Technologist, Google
+Absolutely. Would love to. Yeah.
+## Moderator | 
+Thank you.
+## Amin Vahdat | Chief Technologist, Google
+Thank you very much.
+## Moderator | 
+Thanks so much, man.
+Data Source: Quartr Last updated: Feb 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

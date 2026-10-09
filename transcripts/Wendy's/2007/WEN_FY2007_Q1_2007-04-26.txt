@@ -1,0 +1,7 @@
+Company: Wendy's
+ROIC Symbol: WEN
+ROIC Name: The Wendy's Company
+Year: 2007
+Quarter: 1
+Date: 2007-04-26 13:00:00
+Executives

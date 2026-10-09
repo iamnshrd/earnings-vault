@@ -1,0 +1,181 @@
+TITLE: Bank of America 2026 Global Technology Conference
+DATE: 2026-06-02
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Welcome to this session at our Bank of America Global Technology Conference. I'm Vivek Arya from BofA Securities, Semi Cap Equipment research team, really delighted to have the team from Intel join us this afternoon for this fireside discussion. David Zinsner, Executive Vice President and CFO. Just wanted to make sure, not ex-Executive Vice President and CFO. John Pitzer, Corporate Vice President, IR, and Treasurer. As always, I'll start with actually a disclaimer statement, then go to my questions. Please feel free to raise your hand if you have a question. I'll just start with the disclosure. Before we begin, please note that today's discussion may contain forward-looking statements that are subject to various risks and uncertainties and may reference non-GAAP financial measures.
+Please refer to Intel's most recent earnings release and annual report on Form 10-K and other filings with the SEC for more information on the risk factors that could cause actual results to differ materially and additional information on Intel's non-GAAP financial measures, including reconciliations where appropriate to the corresponding GAAP financial measures. I'm glad I didn't have to remember all that. Okay, wonderful. With that, really warm welcome to you, Dave and John.
+Really glad that you could join us. Before we get into all the exciting stuff about CPUs and IFS, Dave, you've been on this almost a 14-month journey, when Lip-Bu joined the company. Maybe just walk us through what are the strategic directions that you thought about at that time. What are the actions? One thing that we have been surprised as from the outside is when Lip-Bu joined, we thought Intel would go to a more product-focused company versus a manufacturing company. It's actually been, one could debate more of the right mix versus being more manufacturing focused than before. Walk us through your perspective right at that time.
+## David Zinsner | EVP and CFO, Intel
+Yeah. I think when Lip-Bu started, or maybe before he started, as he's making the assessment around why does Intel exist? I think he saw two things. One, a legacy of building CPUs over decades in x86, a prowess, to call it, in manufacturing, both in terms of front end and back end. Those are the things that we have done over the course of the history of Intel. Obviously, execution issue's prevalent, but it's kind of the core underpinnings of the company. As he comes in and looks at that, you look at if you're largely just treading along on those two aspects, you get a GDP plus level revenue growth, you get pretty good margins, that's how you live off of. By the way, that's how Intel operated, at least for the prior decade.
+There's two dynamics that are going on as he comes into the seat. One, one felt earlier than the other. One is on the manufacturing side. There is this clear need for a resilient and more secure supply chain, and there's a need for a company that can provide that for logic that is based in the U.S., that does development and does the manufacturing in the U.S., which we have that position. As we progressed, going through the earlier months of Lip-Bu's tenure, it became apparent that the CPU market, which ordinarily would be this kind of bumping along growth kind of business, is actually going to have explosive growth as a result of AI, and I know we'll go into those two things. The market is now moving in the favor of Intel.
+This becomes, well, okay, why is Intel not being successful? It's really an execution issue at its core. If you step into, okay, it's an execution issue, why is there an execution issue? There's a number of different aspects of it, but at its basic element, it's a cultural thing. We had a cultural problem at Intel. I think more than anything, that's what Lip-Bu addressed early on while he was there. While he was still learning a lot of the things about how the business is run, he was working on culture from day one. You can kind of see it in the things that he did early on. We had 12 layers of management. He collapsed it into six layers of management. We had over, I think, at our peak, over 400 vice presidents. He collapsed that to 200.
+We had over 100,000 employees. He collapsed that to under 80,000 employees. When he came in, he made a comment, which I think was maybe the biggest issue around culture at Intel, which is he said, "Hey, if we have a problem and you come to me, we have a problem. It's something we have to work out. If there's a problem and you keep it to yourself, you have a problem and you're going to get fired." That combined with this restructuring of the organization and the collapsing the layers and so forth, really drove a level of transparency that we just didn't have before. Of course, when you're dealing that in the early months of that activity, it sucks because you are finding out a whole lot of information about stuff that's going bad that you never realized was going bad.
+It allowed us to kind of work through a lot of the issues early on that has improved our execution dramatically, as exemplified by the results of last quarter and our guide for this quarter. On top of that, the other thing I think he really wanted to drive is a financially disciplined company. Of course, music to a CFO's ears that started with the balance sheet. We strengthened the balance sheet significantly in his early months in the company. On top of that really worked the financials of the company to improve the cost structure, improve margins. We took a bunch of expense out on operating expenses. That also built it.
+Now we're actually in a little bit more of the blocking and tackling, quite honestly, of the business, which is just drive relentless execution on the product portfolio, whether it be in terms of products coming out in client and data center or that's delivering process and improving yields at the right clip, bringing out the next process, improving those yields at the right clip. Maybe one last thing I think he did, and actually quite honestly, he hasn't even put the finishing touches on it, but we're close, is he was looking for the best out there in everyone's individual discipline to come onto the company. I'm sure early on it was a challenge for him to get recruiting. As the stock started to perform that helped out a lot.
+We have put a number of new people in seats at the CEO staff level, let's call it, people that are world-class in their specific area. A lot of them, obviously, coming from the outside with a unique, fresh perspective. That said, there are plenty of talent inside, and he identified the ones that had the talent inside, elevated those people into positions that allowed them to improve execution, improve the company, and so forth.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. Big kind of cultural.
+## David Zinsner | EVP and CFO, Intel
+Yeah
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Change.
+## David Zinsner | EVP and CFO, Intel
+On the mix, I think it's pretty balanced, by the way, between products and manufacturing or foundry. In fact, I sit in on a lot of the meetings that Lip-Bu conducts. I would say it's probably 50/50 as to what we spend our time on. 50% of the time we're spending on things related to the products business. 50% of the time we're spending on things that are related to the foundry business.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. Let's first talk about the product side. As you mentioned, the CPU growth has kind of caught this industry, I guess from the outside caught us by surprise.
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+What I'm also surprised by is just the pace of how the TAM expectations have been upgraded. Like 60 - 100 - 120, and now the latest is 200. Where does Intel fall in this spectrum? More important than that, Dave, how does one conceptually? Is it a simple unit time ASP maths so we can understand that number?
+## David Zinsner | EVP and CFO, Intel
+Yeah, I think I would say we have scenario planning that we do, we have a few different possible scenarios as to how things play out in the CPU space, in particular in the data center space, which I think you're talking about. I think probably the easiest answer to that is probably hard to articulate exactly which number we're going to hit. I think it's going to be a big market. Obviously, the ratio of CPUs to GPUs is growing meaningfully as we get from training to inference, to inference to agentic and multi-agent and reinforcement learning. It's just going to drive a lot of CPU requirements. Quite honestly, big is enough. We've got enough demand out there that if we can do a good job executing on the ramping of supply, we should have no issue with growing our revenue meaningfully in the data center space.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. One thing that there seems to be at least some consensus on is that if one were to segment that server CPU market, there is your traditional enterprise type market. You have the head node, what I would describe as within the AI cluster, and then you have the standalone agentic CPU racks.
+## David Zinsner | EVP and CFO, Intel
+Yep.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Is that the way you think about? Is there a simple way to [inuadible] How would you segment, even if there isn't an absolute number, whatever it happens to be, $100 billion-$200 billion, is there a kind of X%, Y%? S egmentation?
+## David Zinsner | EVP and CFO, Intel
+Probably not something I want to double-click into at this point. I would say, as you look at it from an enterprise to hyperscale level, it used to be enterprise was above hyperscale, obviously that shifted meaningfully with what hyperscalers are doing in terms of AI workloads. As it double-clicks probably difficult to make the percentages, or I should say, predict good percentages for the individual pieces. All of those markets are going to be big markets. There's no question about that. We're not segmenting it that way. We just want to sell CPUs into as many of those markets as possible. I would say what we are really good at is single-threaded performance. Things that operate better in terms of single-threaded performance are areas we're going to have, I think, a good position and a good participation in.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. The CPU to GPU ratio, without going into the technical aspect of it, would you agree that the biggest part of the CPU growth might be in places where it is bundled with the accelerator, whatever that accelerator happens to be? Whether it's a GPU or TPU or whatever. Unless Intel has a competitive accelerator, is that a right pushback, you feel?
+## David Zinsner | EVP and CFO, Intel
+Yeah. Well, we are bringing out Crescent Island, so we are in the accelerator business. We're also partnered with Nvidia to operate with them. I think that will clearly be a significant market, and we think we have a good position to participate meaningfully in that area. There's a lot of work that CPUs have to do besides just what's going on in the core rack system around storage and orchestration that sits away from all of that workload, and that's also going to be a significant market. It has to be, because CPUs, in most cases, are the only way to efficiently manage that activity.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. One thing, Dave, just because you were in other companies where shortages really played a big part of showing the growth, but then over a longer period of time, as soon as the shortage went away, pricing and other factors changed very quickly. From what we are seeing in the CPU market, today, if you can make a CPU, you can sell it, right? At least that's how we perceive it. Do you think it's easier to resolve shortages in server CPU? We're not talking about different kinds of products, right? We're just talking about capacity allocation type decision. If, let's say, your foundry competitor were to make a different capacity allocation decision, does that impact your CPU opportunity? How much of this is just the here and now of a shortage phenomena versus a large secular growth market?
+## David Zinsner | EVP and CFO, Intel
+In terms of demand or in terms of pricing?
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Yeah. In terms of demand and pricing.
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Also that matters.
+## David Zinsner | EVP and CFO, Intel
+Well, I think demand, I talked to all the CFOs of the hyperscalers and look at, A, what they think in terms of their overall CapEx, what they think of their CPU percent of that total CapEx. One, it's clear over a multi-year period, they see demand going up meaningfully, and two, they also see the percentage of CPU of that CapEx going up. I feel pretty comfortable that this year, next year, the following year, the demand is going to be strong. I'm not worried about that. On the ASP front, what we try to do is we want to give the customer a product that performs to a level that they give us commensurate pricing.
+goes along with that. That's mainly our focus. This isn't the memory market, my last company where supply understrips demand, and pricing spikes, and it goes the other direction. That's not this market. I'd say, we do see some inflationary pressure, we are seeing ASP increases. That is obviously going to impact the top line over the course of the near term. Largely, we're not driving our ASP decisions off of supply-demand imbalances. What we are doing is trying to drive more long-term agreements with customers. We're locking in a price for sure, we're locking in a volume commitment, that enables us to do a better job of planning out our capacity and making sure when we're investing in capacity, we're going to see customers take that supply when it comes off the line.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. In Q1, what we saw was your server CPU business grew, I think in the 20%-25% kind of range. Mostly through ASP, at least. That's the data we got. Some of these LTAs and other discussion, do you think that kind of goodness and pricing, that is still to come, or have we already seen it?
+## David Zinsner | EVP and CFO, Intel
+Yeah, there will be price. I would say, keep in mind on the data center side, core count is going up. ASPs, by virtue of that, go up. If ASP per core is roughly stable, you're going to see ASPs go up in data center regardless, just because of core count. That said, even on an ASP per core basis, that had generally been a dynamic of falling pricing. It has certainly stabilized. In certain cases, we are seeing like for like ASP per core pricing going up. I think that has a solid path towards realizing that over the longer term.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. The competition first within the x86 side, I think your competitor has outlined a growth rate of almost 70% for this year, and they're saying that almost 2/3 of that is units rather than pricing, and they're talking about preferential allocation from their foundry. On the Arm side, and I realize you can participate in Arm through IFS, and we'll come to that question. How do you think about the competitive landscape, Dave? Does Intel have a good competitive part that can withstand competition in x86 and Arm, or do you think that is still under?
+## David Zinsner | EVP and CFO, Intel
+No, I think you said it best. If you just stamped something and called it a CPU right now, it probably would sell. In the near term, it's all about supply. We are ramping supply as we speak. There'll be a meaningful increase in supply of Intel 3 and Intel 18A over the course of the next, call it 12 quarters or so, that will ramp up to meet what we're seeing from a demand perspective. We're even actually this year going to see Intel 7 go up in terms of wafer starts, at least initially, then probably next year, I think we can start to wind it down a little bit in 2027 and allow Intel 3 and Intel 18A to pick up the slack.
+Longer term, it's going to be about products. We have to deliver products that are performant. On client, I think we're in a stellar shape. You could argue right now maybe we're a little bit weaker on the desktop side. 18A on the notebook side is ramping. It is ramping I think it's the fastest ramping product we've had, at least in the last five years.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Five plus years .
+## David Zinsner | EVP and CFO, Intel
+On the client side. It's selling as much as we can produce. Our ramp in general has been quite good, mainly because Intel 18A is now making really good progress on yields month to month, which is helping a lot. We also are ramping in two facilities now, both in Oregon and in Arizona, which is helping us a lot. What was the other part of the question?
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Yeah, just competition versus Arm.
+## David Zinsner | EVP and CFO, Intel
+Oh, yeah.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Right.
+## David Zinsner | EVP and CFO, Intel
+Yeah. On the data center side, I would say in certain cases, we have a very strong product. In other cases, particularly in multithreading, not as good. When you look at Diamond Rapids, which is the product after Granite that will come out, that does not have multithread, SMT, basically. We will have it back in Coral Rapids, which will be the next product. This was back to cultural changes. This was in Lip-Bu listening to customers, hearing what their needs were, and then adapting the product portfolio and product roadmap to what he was hearing.
+This is an example of that. We've made steady progress in terms of improvement. I think Granite is certainly better than prior products. Coral will definitely be better than prior products. Diamond in its swim lane, not counting the SMT, will be better than Granite. We'll make steady improvement. I think we have a really good roadmap. We've brought in a new person from the outside, what was it, like six months ago or something like that? Kevork.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Right.
+## David Zinsner | EVP and CFO, Intel
+He's doing a good job tearing things down and making sure that we're back to executing at a high level. It helps that we have leveraged our own nodes in that area. And now those nodes are becoming more performant too. 18A's, what they call PPA, price performance area, or power performance area, is much better than Intel 3. So, as we migrate our process nodes, we should see continually better performance.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Recently we saw Nvidia also announced their client portfolio at Computex, right? With the N1X that they are designing with MediaTek.
+Do you think of that as competition at the high end of the market? I know a lot of it was well advertised in advance, so it should not have been a surprise one way or another. Do you see that as incremental competition in the client point?
+## David Zinsner | EVP and CFO, Intel
+Of course, we always look at Arm-based solutions as competition in the client space. I think we've shown we can do pretty well against those solutions, given our share and performance. I feel really confident about our portfolio, but we take all competition seriously and we aim to always bring out the next product to be better than the product before.
+## John Pitzer | Corporate VP, IR, and Treasurer, Intel
+If I could just might add on that.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Yes, please.
+## John Pitzer | Corporate VP, IR, and Treasurer, Intel
+Remember last fall, Nvidia validated the x86 ecosystem with their collaborative agreement with them across both client and data center. As we made that announcement last fall, we told the investment community, "This isn't going to stop us from wanting to bring our own discrete GPU to market, just like it's not going to stop Nvidia from wanting to bring their own discrete CPUs to market.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it.
+## John Pitzer | Corporate VP, IR, and Treasurer, Intel
+You should really think about it as an additional arrow in their quiver. To Dave's point, we feel pretty confident about not only the value of the x86 ecosystem, but our roadmap there as well. I think the other really important point as you think about the client market is all of the buzz that we've been talking about today is really around server CPU. Client is going to have a big statement to make in the AI infrastructure as well, because on the last earnings calls, we talked about CPU density. We stopped at agentic and multi-agent. Beyond agentic and multi-agent, you're going to have physical AI, and you're going to have AI at the edge.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Right.
+## John Pitzer | Corporate VP, IR, and Treasurer, Intel
+A lot of that demand is going to be serviced by client-based CPU platforms, and that's going to be a significant growth, a new growth opportunity for us. We would expect that because it's such a great growth opportunity to see additional competition over time.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Thank you.
+## David Zinsner | EVP and CFO, Intel
+By the way, we're already strong in the edge. We've been doing edge for a while, so that obviously gives us an advantage. I would just say Panther Lake's already in physical AI.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Yeah
+## David Zinsner | EVP and CFO, Intel
+Solution.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+You recently made a hire from Qualcomm.
+## John Pitzer | Corporate VP, IR, and Treasurer, Intel
+Alex.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Alex. Alex from that market. Okay. Let's talk about IFS. If you could just help us set the record straight, David, which is where is Intel 18A in terms of its yield on an absolute basis? Is it comparable to where your foundry competitors are? If not, when can it get to that level where you can say, "No questions asked, this is as competitive as you can find.
+## David Zinsner | EVP and CFO, Intel
+I would say it this way. I don't know. Early last year, I think the challenge around 18A was two things. One, we tried to do too much at once, and it took a while to get that settled out. We heard that from customers. I think second is we were trying to play performance and yield and trying to improve both at the same time. It was like trying to fly the plane and fix the wing at the same time, basically. When I was king for a day, I took Naga and I put him over TD and manufacturing. They really just focused on first stabilizing performance. They stabilized performance. Once you've got your performance stabilized, then all you do is you work yield every month.
+The second thing that we did when Lip-Bu joined is we really opened up our data to our vendors to really help us learn things that we could do to improve yield. That made a dramatic difference. Surprisingly, it seems like 101, but back to the culture thing, there was a cultural resistance towards providing significant amount of data to vendors. Once we fixed that, we really started to get some feedback into what we could do to improve. Then it was just our team just grinding it out every month. Probably was a little bit up and down in the first couple of months.
+After that, we made basically what industry standard improvement month-over-month would look like. We were seeing that improvement. Then of course, we extrapolated that to, "Okay, at the end of 2025, we want to be here. At the end of 2026, we want to be here. At the end of 2027, we want to be here. I would just say, Ultimately, the goal is to get to the yields that generate great margins.
+Which is kind of out in this end of 2027 timeframe. I would tell you that based on the progress we've made to date now, we are likely going to pull in some of those milestones by at least a quarter, potentially even a little more. That I think is a testament to, hey, things are actually going better than planned and have been over the course of the last several quarters. That said, there's more in front of us, and we've got to do more to drive the right level of margins.
+Right now, when you look at Panther Lake kind of on a consolidated basis, those margins aren't to the level that they're at least neutral, if not hopefully over time accretive to gross margins of the total company. More work to be done, but the progress to date has been very good and the yields are actually at a respectable point at this point.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. Just to understand, pull in by a quarter means that if in the past your yield progress would have let you achieve breakeven in IFS by the end of 2027, now you can pull it by a quarter. Is that?
+## David Zinsner | EVP and CFO, Intel
+Yeah, relative to the milestones we set forth. Right. Exactly. I would just say we have a more aggressive plan for 14A than 18A. This is obviously early in its maturity, but when you look at kind of yield and performance measures at this point in time and maturity of 14A and compare it to that same moment in time for 18A, we're ahead. We're already ahead on 14A.
+This is way more an industry standard PDK that we're bringing out for 14A. Now, the advantage is that all the stuff that I said that we bit off more than we could chew on 18A, and it really took some time. Now it's just a little bit of rinse and repeat. Engineers are going to hear this and go bonkers on me. It will be a lot easier to do 14A because it's just using a lot of the Gate-All-Around and backside power and so forth that we implemented in 18A.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Understood. One thing I heard recently is apparently the thought of targeting Intel's financial model to the Rule of 45. Did I hear that accurately?
+## David Zinsner | EVP and CFO, Intel
+You did, yeah.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+If I were to look at just where consensus expectations are, right, for this and next year. It's low double digit kind of growth and kind of high single digit, low double digit kind of operating margins.
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+My simple math suggests you're-
+## David Zinsner | EVP and CFO, Intel
+You're not getting 45.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+At half of that. You're not getting.
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+What is the right timeframe in which Intel can strive to hit those kind of, or is it aspire?
+## David Zinsner | EVP and CFO, Intel
+Look, it's a multi-year aspirational goal. I'd start with that. There are a number of things that we should see that improve the profitability of the business. Already, I think we've got OpEx to a level where we can grow revenue at a faster rate than OpEx grows. Maybe we can even hold it more flattish, and that should drop leverage. Of course, as you grow revenue in a business that's largely fixed on the cost of sales, we have an opportunity to improve margins over time. On top of that, I would just say that as we execute better and products come out on time performant, we have an opportunity on the pricing side to drive better margins. We've talked about this on the foundry front that we'd like to get to breakeven as we exit 2027.
+The only reason at this point we see that we would not get to breakeven on the foundry side is we're just so more wildly successful than we expected on foundry, and that just drives a whole bunch more fixed for startup costs to the business that could impact it. I think there's a great opportunity to drive this Rule of 45, and we have the advantage of having both the manufacturing and the product margins and margin stack those in a way that should give us a real opportunity to hit that. Lip-Bu's been pretty focused on this measure, and his expectation is those that are doing these longer range plans have a credible path towards getting to this Rule of 45.
+## John Pitzer | Corporate VP, IR, and Treasurer, Intel
+Vivek, I just might add, I think the important part of the Rule of 45 is I think Lip-Bu's philosophy on creating value for owners is growing profitably with stress on a growth profitably. If you look at our long-term CAGR, and I'm sure you've looked at it from 1990 - 2020, we were a 3% CAGR.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Right
+## John Pitzer | Corporate VP, IR, and Treasurer, Intel
+Top line company. If you look at the opportunities that we have in front of us today, not only with the resurgence of the CPU TAM, but quite frankly, the opportunities we have in ASIC, the opportunities we have in advanced packaging, the opportunities we have in foundry, we are going to be a solid double-digit growth business structurally going forward as we execute. I think that's sort of the key point of thinking around the Rule of 45. It's not just about the profitability you can drop to the bottom line, but I think Lip-Bu is really intent on driving a much better growth profile for the company.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got you. The last question, I'll actually try to jumble in two questions. Let's see if I can. First, Dave, is that most successful kind of foundries have capital intensities that could be in the mid-30s or even higher. That's kind of one part of the equation, because if your operating margins get into the 30s, CapEx intensities might be there.
+That's one aspect of the question. The second is that with the fab buyout, your leverage ratio has now gone back up to, I think, close to 4 x. How are you managing these different trade-offs where you would like to grow faster, but that it involve much higher capital intensity and takes you away from free cash flow. Right? You, John, mentioned.
+## David Zinsner | EVP and CFO, Intel
+Yeah.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+How are you kind of balancing all these factors?
+## David Zinsner | EVP and CFO, Intel
+Yeah. It could be in those intensity levels. I actually think we should probably longer term operate more in the 20s in terms of CapEx intensity. That's what we talked about in the last two years as we were looking at it. In the near term, CapEx intensity could rise. Again, it'll be a high-class problem because it'll mean that we have a lot of growth opportunities, particularly on the foundry side, that would drive that level of CapEx intensity. We do have the advantage as a company of, again, with this margin stacking, that gives us an opportunity to generate good cash flow, irrespective of the fact that we have to have a significant amount of CapEx outlays.
+That's different than many other companies that have to fund their CapEx through just the wafer revenue. Again, in the near term, could it be affected because we're successful and we're winning more customers on the foundry side that require more CapEx? Yeah, possible. I would say the one thing that we have coming into this, what is hopefully a really good growth period, is we've already made a lot of the investments on the space side.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Nice.
+## David Zinsner | EVP and CFO, Intel
+We have multiple clean rooms that are within a year or two of being ready. That felt like a boat anchor there a year ago and now feels like glad we have that.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Right
+## David Zinsner | EVP and CFO, Intel
+Because now all that we're talking about is equipping it. We've done, I think, a pretty good job of giving suppliers on the equipment side good line of sight as to what kind of range we might be looking for in terms of equipment. We're in our right place in line to make sure that we get all the equipment we need to manage upswings that we might experience on the demand side.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Got it. We'll have to close it there. I could have gone on for another 45 minutes, but thank you so much.
+## David Zinsner | EVP and CFO, Intel
+Thank you.
+## Vivek Arya | Senior Semiconductor Analyst, Bank of America Securities
+Very appreciated.
+## John Pitzer | Corporate VP, IR, and Treasurer, Intel
+Thank you.
+Data Source: Quartr Last updated: Jun 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

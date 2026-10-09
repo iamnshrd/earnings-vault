@@ -1,0 +1,532 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-05
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+All right. Welcome, everybody. We're gonna have a great act to follow here with CrowdStrike. I'll read the disclosures first. If any research disclosures that you're interested in, please see morganstanley.com/researchdisclosures or reach out to your sales representative. Delighted to have CrowdStrike here. Burt Podbere, CFO. Maybe to kick off, you know, we just had Sam on stage. You know, how do you think about everything that Sam said and how it relates to kind of all the security we're gonna need to protect against then?
+## Burt Podbere | CFO, CrowdStrike
+Mina, you said it right. They're gonna need security. We're here to help. Look, we have a partnership with, you know, OpenAI and others, and we're really excited about what we can do together. You know, we don't comment on, you know, who our customers are, but, you know, certainly we have a lot of interactions with Sam and the team. We're excited to see what the future holds.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+All right. Perfect. All right.
+## Burt Podbere | CFO, CrowdStrike
+Okay.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+We're gonna put on as good of a show. All right.
+## Burt Podbere | CFO, CrowdStrike
+I'm here to help.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Exactly. You know, you reported very strong fiscal Q4 earnings on Tuesday this week. There were a lot of highlights. We saw EDR re-accelerate, continued strong growth across multiple growth pillars, strong traction with Flex. What were some of the most encouraging signs for you versus kind of expectations you had coming into the quarter?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. First, let me start off by saying that, you know, last year was one of the greatest years in our company history.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Super proud of the team, super proud, you know, of being part of that team and really proud to have the customers that we have to make us who we are. Then if you dig down a little deeper, it really all starts with net new ARR. You know, in Q4, $330.7 million, you know, that's our biggest net new ARR number in company history. For those who aren't familiar exactly with what net new ARR means for us, it's the one metric that's forward-looking that we give out, and it really talks to the health of the business. That's our metric, that's what we focus on, that's what the company rallies around.
+There are other things that are important too, you know, we had a couple of other records that stand out for me and for many. non-GAAP operating income or our profitability, that was a record, right? You know, we did $326 million. Again, we're known for a company that does not grow at all costs. We grow profitably. Our Free Cash Flow. You know, as a CFO, you know, that's a number that I look at all the time. You know, for a record, $376 million of Free Cash Flow, really proud of the team, really proud of, you know, how we all rallied together. Everybody in the management team is focused on, you know, those three metrics for sure.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Got it. I mean, you were confident enough to raise your fiscal 2027 ARR guidance, from the 20% set at the Analyst Day. You know, what were some of the drivers there? You know, a question we've gotten from investors is just would you have raised it without some of the acquisitions?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. it would have been the same without those acquisitions.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Uh, it would have been the same number. Um, we, we disclosed what, uh, the acquired ARR was, and it was very small, five to eight million. Um, and so but for, uh, SGNL and Seraphic. And so, um, we were really, uh, confident in being able to give out that, uh, that guide for, uh, net new ARR for, um, for fiscal twenty-seven. I think it goes to and it speaks to the momentum of the business.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+It starts there.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Right? With the records, you know, across the board, you know, from all different sizes of companies, we have broad-based demand. It started there, and then you saw, you know, they talked about, you know, Q1 pipeline. Your record Q1 pipeline, 49% year-over-year. Those are two things that give us confidence as we look into the future. It goes beyond that. Look at the numbers that we provided with respect to our emerging products.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Next-Gen SIEM, Next-Gen Identity, cloud, you know, over $1.9 billion at growing at 45%.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+I mean, those are some of the signs to me that says, hey, you know, our customers are really looking at things other than, you know, what we were known for, you know, the Next-Gen AV. It says that, hey, we're going beyond what we've and doing well.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah
+## Burt Podbere | CFO, CrowdStrike
+... on products that, you know, were, you know, essentially the older products that we had brought out. That gives me a lot of confidence...
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm
+## Burt Podbere | CFO, CrowdStrike
+... in terms of being able to put out a guide like that. As some of you may not realize, but that's the first time we've ever guided-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm
+## Burt Podbere | CFO, CrowdStrike
+... you know, a specific guidance to Net New ARR.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+I think that, you know, goes and talks to the fact that we really are trying to be more transparent with our results and how we think about the business. Between, you know, the momentum of the business, the product, you know, performance, and also our Flex.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? Flex licensing, you know, If you think about it's not, it's not a new product, it's not a new TAM. You know what? It really matters.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Right? To be able to, you know, offer a customer the ability to acquire our technology easily, seamlessly, you know, that really matters. It takes out the friction in the, in the sales process, which is huge. When we came up with the Flex licensing, the success is also driven. We can see it with everybody else here coming out with all these other companies coming out with their versions of Flex.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right
+## Burt Podbere | CFO, CrowdStrike
+because it's working.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Really proud to see all those numbers, and then you look at within Flex, and you see you have a person or a company will, you know, engage with us, and they'll do a first Flex license.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+What we've been tracking is, well, how long will it take before a customer comes back to the well and says, "Hey, we want to reflex"? We've given some data, you know, on that, and the data is strong, right? We gave out a stat on companies that are reflexing multiple times. Almost 100 customers have reflexed multiple times within that same original contract period.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+All those signs gives me a lot of confidence, to be able to give a guide the way I did.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Okay, perfect. We'll dive more into Flex in a second, but maybe to just kind of talk about some of the bigger thematics that have been going on within cyber right now. You and George addressed this on the earnings call, but just can you talk about how you have seen this AI disruption of cyber kind of, you know, come through discussions and how you guys think about where that misjudges kind of the market?
+## Burt Podbere | CFO, CrowdStrike
+Yeah, it's a great question. For us, when we think about it, there are really two different types of companies.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+One type of company would be the ones that have an existential vulnerability to AI, and the other one is companies that are gonna thrive. Those are the companies that have data moats. Those are the companies that can use AI to accelerate. We've been thriving with AI. You saw our results for last quarter. You don't have to go further than that. You know why? Well, we're a net data creator. We create data. We collect data, we curate data. We're the folks that use that data as a backbone of our business, and certainly we can use AI to accelerate what we do.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+You know, when you think about, you know, AI is created with GPUs. CrowdStrike secures that AI.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+The big picture for us is that, hey, AI is great for a lot of things. You heard Sam up here. There's a lot of things that AI can do. AI is really good for reasoning, right? You can do incredible reports, really quickly gathering all this information, and it's fantastic for that.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+When you're thinking about cyber, you need to be completely accurate.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+You need speed. If you don't have both, you don't get a second chance.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Right? For us, it's more than just the technology. It's the support systems, it's the testing, it's the trust, right? You've gotta trust your cyber professionals.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+For us, we've been in the business a long time. We've been able to curate an incredible team to be able to work with our customers, build that trust. Tough to build trust with AI when sometimes you're, you know, you get a lot of insecurity for security purposes when you're thinking about false positives.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? You, false positives, the name that you're probably all familiar with is hallucinations. You can't ask AI to something, and you get three different answers, right? It's just. That's not what it was built for.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Right? We have been able to benefit from, you know, other changes in the environment, like the hyperscalers. Remember when they all came out and they were talking about security within within the hyperscalers? Well, look at our cloud business.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Right? It actually was a huge opportunity for us.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Our cloud business, $800 million growing, you know, 35%. Those are fantastic numbers. It was generated from, you know, something that was gonna change the world.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+It has.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+At first it was, we were running against the same things that we're seeing with AI.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? you know, AI's gonna, you know, dismantle a lot of, you know, SaaS companies. They said that with the hyperscalers.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+It was like an accelerant for our business. We draw the parallels between the two, so as we give people an understanding of how we think about it.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Got it. Just the other question that we've been getting is just the, well, when does it become material, you know, that we can see it? I know you guys had a number of strong stats within the quarter in terms of what you were seeing as far as AI security, but when do you guys think about it being a material catalyst for the business?
+## Burt Podbere | CFO, CrowdStrike
+Yeah, you know, today it is from the standpoint of the following. Number one, we use AI and agentic AI even in our product set today. For example, you know, in our exposure management. If you are running, you know, Windows pick one, 10, and you wanna know if that version has the latest patch, you can use Charlotte, which is one of our AI tools, it's an orchestrator, to identify how many of the machines have the latest patch, and it'll tell you. Then if you want to go beyond and say, "Hey, Charlotte, can you patch this?" Charlotte, along with some of our, you know, other technologies-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+for example, Falcon for IT and others, can patch it for you. You can see that it's already built into the product set. And then you have specific things that we look at in terms of, you know, how's the adoption going for some of our, you know, AI tools? Charlotte. Last quarter we gave out the fact that Charlotte has 6x the utilization year-over-year. It's also 3x the ARR year-over-year. We're seeing signs that, you know, even on specific products that things are, you know, moving in the right direction. As well as AI DR, which is our AI Detection and Response product.
+We just had it in the market for, you know, just a few weeks. We saw, you know, a 5x quarter-over-quarter.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+growth rate. We're already seeing the momentum
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+ourselves with our AI tools, and I think a lot of people don't realize that. You know, CrowdStrike was built on AI. In my day, it was called machine learning, right? Then we were doing agentic AI years ago. We were on the front edge of doing all this work with AI, and it's really helped our business.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Got it. Okay. I wanna go back to just another tailwind for the industry, which is just kind of this platformization, you know, versus best of breed. Just how do you think about companies consolidating down to a right number of vendors? How is that discussion going on with customers in terms of what you can bring to them in that conversation?
+## Burt Podbere | CFO, CrowdStrike
+Yeah, I love this question, right? Since the dawn of time, what do customers want? They want the best outcome at the cheapest price. Yeah, that hasn't changed. What our platform has been able to enable is just that.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Right? We feel, you know, we're the, you know, only pure play, cybersecurity company with, you know, the singular platform, right? We have one sensor, we have one console, and we have one platform, right? We don't have, you know, any integration tools. We do it all for you, and that's our customer promise.
+We would go to our customers and say, "Hey, look, we have this opportunity to, not only give you the best outcomes, but help you know, consolidate, you know, on us for a variety of things." That matters, right? If you have disparate different technologies and they all have to work together, guess where the adversaries go? Right there. They're gonna look for those weak links. They're gonna look for those stitching that you're putting together.
+They're gonna go right to that stitching and go attack.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm.
+## Burt Podbere | CFO, CrowdStrike
+If there is no stitching, my arm is attached to my body, there's nowhere to attack, right? We feel that that's the right approach.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm.
+## Burt Podbere | CFO, CrowdStrike
+Clearly it's been successful.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+The consolidation tailwinds for us, I think, are gonna continue for quite some time, and I think they're gonna win. I mean, you know, if you've got a crystal ball, maybe I think there's gonna be maybe three or four, you know, full security platforms that exist, of which, you know, endpoint would be, you know, the center. That's how I think about it and, you know, customers seem to be gravitating to it.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Then you throw on, you know, the ability to purchase, you know, our technology, you know, easily with a Falcon Flex, and it just it goes hand in glove.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+We're seeing the momentum, you know, when we talk about our platform, being, you know, the platform of choice. It's because of all these things that I've just described.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right
+## Burt Podbere | CFO, CrowdStrike
+that make it work.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+You know, we you mentioned Flex being a reason why you have kind of more confidence in the business. It grew ARR 120% year-over-year. Can you just talk about, like, when customers are coming back to Flex, just what is it, you know, where is it that they just start experimenting with more products? Is it that they're getting tons of usage? Just what is kind of bringing them back? How do you think about the, you know, why not just kind of convert everybody to a Flex model?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. Great stuff. you know, a big accelerant to the reflexing is Next-Gen SIEM.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Right? They've used it. They want more of it. It's the backbone for companies in terms of their data. You know, we bought something to the market, which has just been so well accepted, so well received 'cause it works, it's fast, it's less expensive than some of our competitors. You know, all those things matter. That's a big part of it. You know, it's about how we flight-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm
+## Burt Podbere | CFO, CrowdStrike
+... our products. We have 33 different products that somebody could buy. Basically what Flex is able to do is it's like a, "Hey, look, you have the whole, you know, book ready for you.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+You just pull it down how you, however you want, when you want. When you've got... It's like anything else, when you bought a suite of things-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right
+## Burt Podbere | CFO, CrowdStrike
+... it doesn't have to be technology. I bought a suite of different things and you've paid for it. You wanna make sure you're getting the maximum value out of what you paid for.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+You're gonna try this, and you're gonna try that, and like, that really helps and that really helps, and then you get the viral effect of three things, you know, being able to do the work of five.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+For us, we've made it, we flighted it in such a way that it allows customers to, in the apps, try other things.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Why are we seeing such great results from our reflexes is because they are doing that. Exactly that. They're trying different things. They're recognizing that, "Oh, I didn't realize you had that.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+This is today one of the biggest fights I have. It's not fights. One of the things I'm on a crusade with all our customers to educate all of our customers about some of the things that we have.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+We have 33 different modules, so granted, you know, that's a lot of modules. Oftentimes when I'm meeting with customers, I get the look, "Oh, you actually have that?" And I'm like, "Yeah, we've had it for two years." Right? Because they were only focused over here. What I try to do, and what the sales team is trying to do, is to educate our customers with respect to all the different features and functionality that we have. That's also aided-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right
+## Burt Podbere | CFO, CrowdStrike
+in the ability to see the reflexing. In terms of flex and where it's going, look, we've told, you know, we've told the street, we've told, you know, our own sales team, "Look, flex is the future.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Starting this fiscal year, fiscal 27, if it's not a flex deal, you need to actually get an exception from management. There has to be a specific reason why you don't have a flex deal. We built it into our processes so that, you know, it's gotta be someone like myself or George or our President Michael Sentonas, that's gonna have to give, you know, authorizations, or a few others that have to give authorizations.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+If you're a sales rep, you're gonna go, "Okay, I don't wanna, I don't wanna go through that.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? "That's not something I wanna do. I'm gonna go after flex." By the way, my colleagues are making a bunch of dough, right, on selling flex, and by the way, my customers love it, so it's a win-win-win, and that is a recipe that's really hard to create.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah. Okay. Perfect. I mean, maybe just going to the core for a second, or not the core, but just, you know, the center of endpoint. You've talked about endpoint security has seen re-acceleration in past couple quarters, driven by AI demand. Can you just talk about kind of some of the underlying trends and where you're kind of seeing this re-acceleration take place?
+## Burt Podbere | CFO, CrowdStrike
+Yeah, well, AI is a big fundamental shift.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? It's, you know, using AI at the edge. You know, one of the things that, you know, I've seen in this year is we've had customers that are still big customers that are still on legacy AV. I'm out of my mind, right? You're a, you know, Global 2000 whatever, and you're using that? Are you kidding me? Right? It's just a matter of time. It's a time bomb gonna go off. You're gonna get hit. The amazing stat is that for modern endpoint, you know, there's still 50% out there that with legacy AV. We're scratching our heads going, "How can that be?" On the one hand. On the other hand, "Let's attack.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Okay, we're gonna go after those, and we've been super successful with that. Now with AI, obviously, the attack surface has completely changed.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Right? There's so many new, you know, attack surface areas using AI to be able to attack that the old legacy technology just can't keep up.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Right? The speed of which attacks are coming in, is in multiples from what it was because of AI. You gotta think about the adversaries. They're gonna leverage every single piece of technology the technology to be better, stronger, faster than any company can prevent. You need to stay ahead of that. If you're on a legacy technology, it's only a matter of time before you're gonna get hit, for sure. That's why we've invested so heavily in AI, that's why our, you know, our product set is laced with AI everywhere. For us, we see that as the future and an accelerant.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Got it. I mean, just how have you seen competitive dynamics shift over the last year? You know, competitors are not standing still. Everybody has a platform, everybody has a flex now. You know, just how is that changing the competitive landscape?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. you know, we announced this partnership with Microsoft, right.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm
+## Burt Podbere | CFO, CrowdStrike
+... to be on the Microsoft Marketplace. This is amazing to me.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+You know, being at the company now in my 11th year, I never thought I'd see the day when Satya will be up and talking to my sales team, right, about how to use the marketplace? Today, we have zer going through Microsoft. We have $1.5 billion going through AWS, right? We've done a lot of work with AWS to flight it to make sure it's used appropriately. With Microsoft, they have this Microsoft Azure consumption commitment, right, that you can use for CrowdStrike. I never really thought I'd see the day that that would happen. Here we are, you know, it's better together, ultimately, who wins? The customer, right?
+Between Satya and George, they've been able to, you know, work through the competitive aspect of it in certain areas to carve out what's best for the customer.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+How do you think that Microsoft relationship kind of ramps?
+## Burt Podbere | CFO, CrowdStrike
+Yeah, I mean, you know, I got $1.5 billion going through AWS. I think the Microsoft folks who are running the Microsoft Marketplace.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah
+## Burt Podbere | CFO, CrowdStrike
+they're gonna wanna see that as well. Not only Microsoft. Like, you think about all these, you know, GSIs, right? They're looking at that number and going, "Wait, we have an opportunity to go do something like that?
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+It's a lot of tailwinds with respect to, you know, the partnerships. I talked about, you know, Sam, who was up here earlier, and others, and we feel that that dynamic is really changing the competitive landscape about who's going with who's associating with who. They're just becoming, for us, they're becoming less and less competitors that we're seeing.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Okay.
+## Burt Podbere | CFO, CrowdStrike
+Right? Now, you know, obviously, we talked about Microsoft. By far, they're our biggest competitor.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+It's not close. You have others who are kind of in our space. You have Palo is doing some things, and you have some others, but that's pretty much it. There's not much else out there.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Okay, perfect. I mean, Next-Gen SIEM has been a home run for you guys. It grew 75% year-over-year, over $500 million in ARR scale. Just how are you seeing, being able to improve that product, being able to differentiate that product, and kind of give this kind of SecOps solution that customers are looking for?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. It's been a home run, and I was involved in the transaction way back when we bought this company, Humio, and saw the potential-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm
+## Burt Podbere | CFO, CrowdStrike
+... that rested in that, and we built our Next-Gen SIM based on that technology. You know, I think when you look at a technology, and you're scouring the world, and we got great folks who understand technology, we saw something, you know, a little different there. We saw, you know, a company that can really do what it does at scale. The speed was incredibly fast.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm.
+## Burt Podbere | CFO, CrowdStrike
+Just the way it was designed, the architecture was very different than anything that was in the market. We said, "Okay, well, if we can, if we can get to a faster response for asking queries, and if we can do it at a cheaper level, this is a home run for our customers." We were able to do that. A big piece of the architecture is that it was index-free, right?
+The timing was incredibly fast versus some of the legacy, you know, SIEM vendors. For us, we've been able to showcase, you know, why it's faster, cheaper, and you can log everything. Like, if you're using one of the legacy technologies, it's expensive to log everything. Really expensive. Customers were not.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+There are a whole bunch of logs falling on the floor. At first, we were out there gonna go, "Okay, well, the 20% that's falling on the floor, we'll take that. We'll log it for you.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+It worked. It's like, okay, well, we're doing the 20%. Let's go for the rest. When you think about, when you think about SIM, and you think about where the data, security data comes from, you know, 80% of our SIM, the security data comes from us, comes from Falcon.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+First party. You've got 20% for the third party. We've made it really attractive on pricing for the first party.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Like, sometimes it's free. You pay for third party.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+That competitive advantage has really helped in terms of the cost structure.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Got it. I mean, you had the Onum acquisition. Just how do you see this kind of convergence of SIM, observability, security, analytics? You know, we've seen Palo do acquisitions as well, but kind of around this convergence.
+## Burt Podbere | CFO, CrowdStrike
+You know, it's really funny. You know, their acquisition of Chronosphere, the Humio technology that I talked about, that was the backbone for Chronosphere back then, right? You know, we have, we have what it takes to, you know, do a lot more in observability...
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm
+## Burt Podbere | CFO, CrowdStrike
+...because of the technology we have. We're just being really thoughtful about, you know, how and when and all that kind of stuff that we, you know, before we bring it to market. It's also gotta, you know, stand up to the, you know, customer promise.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Which is we're only ever gonna have, you know, one sensor, right?
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+that all takes work.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah
+## Burt Podbere | CFO, CrowdStrike
+to flight it and make it, you know, in, you know, in enterprise grade. For us, we have that ability to do it, and so we're excited about what we can do in that space. For us, I think the Onum acquisition, you know, was really, really significant in that, if you're not familiar with what Onum is, it's basically a highway, and it delivers data from depot A to depot B.
+For us, we saw technology that not only did that, but also did a detection en route. By the time it got to the SIEM, you've already filtered out so much data and understanding to make your SIEM, again, more cost-effective. Onum is an accelerant to our Next-Gen SIEM, and that's why we went after it.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+Now not only do we have the data, but now we control the routes of where the data's going.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+It's been a really powerful combination, you know, adding Onum to our Next-Gen SIEM, and you're seeing the results.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+I mean, cloud security, another strong area for you guys, $800 million ARR in the last quarter, growing 35% year-over-year. I think you mentioned that earlier. Just, you know, we've had the acquisition of Wiz by Google, or pending acquisition. Just how do we see kind of opportunities for, you know, competitive displacements in the market?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. When you think of cloud security, I'll break it down in the simplistic form. One is you've got runtime, which is Cloud Workload Protection, which we have. You need a sensor for that. You have, you know, you have cloud. You have non-agent, right? Where you can do things like reporting compliance. This is where companies like Wiz and others-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah
+## Burt Podbere | CFO, CrowdStrike
+...have kind of made their forte. Our belief and our strategies, you need both. You need the runtime, and you need the compliance side, and we have both, and we're investing in both. Over the years, we've invested in ASPM and DSPM, and we've got a lot of technology around cloud. That's why you're seeing, you know, the $800 million is because we have all these different cloud technologies that work as one. Again, it's our brand promise.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? Customers are getting a tremendous amount of value from, you know, what we're able to provide, from visibility in the cloud to detection in the cloud, response in the cloud, runtime, real time. These things actually matter.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+In security, nanoseconds matter. If you're not built for it, you're not gonna stop it.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+We feel pretty good about our strategy. We feel pretty good about how we're able to do, work with both the sensor and the non-sensor.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+We're gonna continue to invest in that area.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Got it. Just rounding out all the different categories you guys have. On the identity side, you know, again, over $500 million of ARR growing 30% + year-over-year. Just where does that fit in? You know, we're gonna have other identity people up here later on in the day. Just how are you thinking about building out that kind of fuller identity platform? You know, does it expand beyond identity to kind of a more fulsome platform?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. I love what we've done with identity.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+I was there when we purchased our first identity product, Preempt. That was a home run for us, not only from the technology, but from the people. We still have the founders in our company all these years later. That was the foundation, right? We said, "Hey, you know, there are three parts to identity. There's the identity creation. That's, you know, Microsoft. We're not gonna do that." You have the identity brokering.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+Right? That's the Okta and Pings and. That's not our, that's not in our focus area. Then you have security and identity.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+That's us. Preempt was our first, and then we started adding other different pieces. We've got a PAM offering just in time credentialing, right? Which is the modern PAM. You know, we're not, you know, we didn't build this thing on vaulting, which is actually fairly easy to do. But you can see where we're going with that. We also, you know, acquired Falcon Shield. We call it Shield now. You know, that's identity for the applications, you know, the machines and the non-machines. What we've done with our identity protection is, you know, enterprise grade and a big piece-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm
+## Burt Podbere | CFO, CrowdStrike
+...you know, of our technology. When you think about it, right, when you think about, you know, our earlier discussion on AI.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah
+## Burt Podbere | CFO, CrowdStrike
+...and where AI is going, you know, when Anthropic announced their, you know, AI tool, it was talking about vulnerabilities. Even if you took out all the vulnerabilities in the world-
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm
+## Burt Podbere | CFO, CrowdStrike
+took 'em all out, and it wasn't an issue, companies are still gonna get breached. There are many other ways that adversaries are gonna get in. Identity is another one.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? If you have a strong identity platform, you've now taken off another, or reduced the risk in another area of attack. You know, you can't. You need identity for security.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+You absolutely do. It's a fundamental pillar and, you know, we're gonna continue to invest in our identity products to make sure that, you know, we're on the front lines of this thing, right? For us, you know, obviously there's the vulnerability, sure. But that's a small piece of what you have to protect to stop the breach.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+I mean, maybe a question on the AI security portfolio that kind of wraps into you guys wanted to have this one platform, no stitches, as you were kind of describing earlier. That's led to a lot of kind of smaller acquisitions. Just how do you see kind of the AI security piece of the portfolio growing and just how do you see kind of the acquisition strategy of CrowdStrike evolving?
+## Burt Podbere | CFO, CrowdStrike
+You know, number one, I think you're all seeing that the velocity-.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah
+## Burt Podbere | CFO, CrowdStrike
+... of our acquisitions has increased, and I love that. I think that we've got a war chest of cash, and I think the highest and best use of that cash isn't sitting in a bank getting whatever, 3%, 4%. It's definitely, you know, applying it to investment in R&D and certainly in inorganic activity.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+We've been really successful in buying great tech and great people.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? Then putting our distribution on top of that, you see the inflection. We've been really, really successful at that. You know, to deviate from that would take something exceptional, right? We're doing so well, why would we go and buy something that's.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah
+## Burt Podbere | CFO, CrowdStrike
+... you know, completely, you know, transformational when we're already transforming everything in what we're doing?
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+It would have to be kinda like I look at it as the deal of the century. I rely on our CEO, George Kurtz, and our president, Mike Sentonas, to kind of bring, you know, thoughtful, you know, enhancements to our platform. I have the money for it. I can go, you know, raise a bunch even through your bank to help me do whatever we need to do. Right now I love our success in buying great tech and great people.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Maybe just, you know, we've mentioned a whole suite of products. You have Flex. Just how you've made some investments kind of in channel to kind of better sell all of these products. Just how are you finding the most effective way to sell these products through the channel or just channel optimization that you've needed to do?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. You know, we've got a great leader in our channel, our Chief Business Officer, Daniel Bernard. He's just transformed how we think about the channel.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+We're a channel-first company. You know, part of it is incenting the channel in the right way. You know, we had, we had a CCP program in place.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+The CCP program was basically incentives for customers, and it really worked. We did it for partners, too.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+We saw the success. We're gonna continue with that, with some of those programs and, making sure that the channel, when they're seeing a customer, the first product out of their bag is CrowdStrike. That's our mission.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? Unless they're exclusive and there is no other cyber products, which we always want.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+For those that are, you know, some of the larger ones that are not exclusive, it's about how do we make sure that CrowdStrike is the first out of the bag?
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right. Okay. We spent, you know, 95% of our time talking about kind of ways to enhance the top line. Just we'll end with a CFO question of just what does this all mean to the bottom line?
+## Burt Podbere | CFO, CrowdStrike
+Yeah. You know, we've got that long-term target that we have there, and it's my kinda, you know, North Star. What are we doing to make sure that we are able to hit those targets? We are well on our way. It starts with gross margin, right?
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+We had a record gross margin quarter in Q4, 81% on subscription non-GAAP. You know, that's hard. Moving the needle on gross margin is really hard. What have we been able to do? We've been able to optimize, you know, some of the public clouds that we leverage, as well as our own.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Right? We've migrated certain things over, that made sense. Our scale.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Burt Podbere | CFO, CrowdStrike
+When you're able to consume as much as we do, you're gonna get a better deal when you're talking to some of the hyperscalers. You're gonna get a better deal. We look at ways within some of the hyperscalers, what's the most economical way to do it? For example, in AWS, they have something called us-west-1 and us-west-2. us-west-2 is in different geo, a little less expensive. Okay, let's put more of our customers over to us-west-2.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+It's little things like that that add up.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+Look, I'm looking for 0.1% at a time.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right.
+## Burt Podbere | CFO, CrowdStrike
+You know, 0.2%, 0.3% would be fantastic in a quarter. That's where I'm going. If I continue to do that, I'm gonna get to where I need to be.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+I'm not far from my long-term model, by the way.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Burt Podbere | CFO, CrowdStrike
+I only need a few of those.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Right
+## Burt Podbere | CFO, CrowdStrike
+... to get me there.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+Okay. All right, perfect. Well, Burt, congratulations on a fantastic quarter and a fantastic story.
+## Burt Podbere | CFO, CrowdStrike
+Thank you so much, Mina.
+## Keith Weiss | Equity Research Analyst, Morgan Stanley
+All right.
+## Burt Podbere | CFO, CrowdStrike
+Thanks, everyone.
+Data Source: Quartr Last updated: Mar 5, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,1027 @@
+[
+ {
+  "company": "Abercrombie & Fitch",
+  "ticker": "ANF",
+  "symbol": "ANF",
+  "folder": "Abercrombie_Fitch_ANF",
+  "series": [
+   "KXEARNINGSMENTIONANF"
+  ]
+ },
+ {
+  "company": "Advance Auto Parts",
+  "ticker": "AAP",
+  "symbol": "AAP",
+  "folder": "Advance_Auto_Parts_AAP",
+  "series": [
+   "KXEARNINGSMENTIONAAP"
+  ]
+ },
+ {
+  "company": "AeroVironment",
+  "ticker": "AVAV",
+  "symbol": "AVAV",
+  "folder": "AeroVironment_AVAV",
+  "series": [
+   "KXEARNINGSMENTIONAVAV"
+  ]
+ },
+ {
+  "company": "Air Canada",
+  "ticker": "AC",
+  "symbol": "AC.TO",
+  "folder": "Air_Canada_AC",
+  "series": [
+   "KXEARNINGSMENTIONAC"
+  ]
+ },
+ {
+  "company": "Airbnb",
+  "ticker": "ABNB",
+  "symbol": "ABNB",
+  "folder": "Airbnb_ABNB",
+  "series": [
+   "KXEARNINGSMENTIONABNB"
+  ]
+ },
+ {
+  "company": "Alphabet (Google)",
+  "ticker": "GOOGL",
+  "symbol": "GOOGL",
+  "folder": "Alphabet_Google_GOOGL",
+  "series": [
+   "KXEARNINGSMENTIONGOOGL"
+  ]
+ },
+ {
+  "company": "American Express",
+  "ticker": "AXP",
+  "symbol": "AXP",
+  "folder": "American_Express_AXP",
+  "series": [
+   "KXEARNINGSMENTIONAXP"
+  ]
+ },
+ {
+  "company": "Apple",
+  "ticker": "AAPL",
+  "symbol": "AAPL",
+  "folder": "Apple_AAPL",
+  "series": [
+   "KXEARNINGSMENTIONAAPL"
+  ]
+ },
+ {
+  "company": "Applied Optoelectronics",
+  "ticker": "AAOI",
+  "symbol": "AAOI",
+  "folder": "Applied_Optoelectronics_AAOI",
+  "series": [
+   "KXEARNINGSMENTIONAAOI"
+  ]
+ },
+ {
+  "company": "Aritzia",
+  "ticker": "ATZ",
+  "symbol": "ATZ.TO",
+  "folder": "Aritzia_ATZ",
+  "series": [
+   "KXEARNINGSMENTIONARITZIA",
+   "KXEARNINGSMENTIONATZ"
+  ]
+ },
+ {
+  "company": "AST SpaceMobile",
+  "ticker": "ASTS",
+  "symbol": "ASTS",
+  "folder": "AST_SpaceMobile_ASTS",
+  "series": [
+   "KXEARNINGSMENTIONASTS"
+  ]
+ },
+ {
+  "company": "AutoZone",
+  "ticker": "AZO",
+  "symbol": "AZO",
+  "folder": "AutoZone_AZO",
+  "series": [
+   "KXEARNINGSMENTIONAZO"
+  ]
+ },
+ {
+  "company": "Avis Budget",
+  "ticker": "CAR",
+  "symbol": "CAR",
+  "folder": "Avis_Budget_CAR",
+  "series": [
+   "KXEARNINGSMENTIONCAR"
+  ]
+ },
+ {
+  "company": "Berkshire Hathaway",
+  "ticker": "BRK",
+  "symbol": "BRK.B",
+  "folder": "Berkshire_Hathaway_BRK",
+  "series": [
+   "KXBRKEM"
+  ]
+ },
+ {
+  "company": "BlackBerry",
+  "ticker": "BB",
+  "symbol": "BB",
+  "folder": "BlackBerry_BB",
+  "series": [
+   "KXEARNINGSMENTIONBB"
+  ]
+ },
+ {
+  "company": "BlackRock",
+  "ticker": "BLK",
+  "symbol": "BLK",
+  "folder": "BlackRock_BLK",
+  "series": [
+   "KXEARNINGSMENTIONBLK"
+  ]
+ },
+ {
+  "company": "Boeing",
+  "ticker": "BA",
+  "symbol": "BA",
+  "folder": "Boeing_BA",
+  "series": [
+   "KXEARNINGSMENTIONBA"
+  ]
+ },
+ {
+  "company": "Cal-Maine Foods",
+  "ticker": "CALM",
+  "symbol": "CALM",
+  "folder": "Cal_Maine_Foods_CALM",
+  "series": [
+   "KXEARNINGSMENTIONCALM"
+  ]
+ },
+ {
+  "company": "CarMax",
+  "ticker": "KMX",
+  "symbol": "KMX",
+  "folder": "CarMax_KMX",
+  "series": [
+   "KXEARNINGSMENTIONKMX"
+  ]
+ },
+ {
+  "company": "Carnival",
+  "ticker": "CCL",
+  "symbol": "CCL",
+  "folder": "Carnival_CCL",
+  "series": [
+   "KXMENTIONEARNCCL",
+   "KXEARNINGSMENTIONCCL"
+  ]
+ },
+ {
+  "company": "Carvana",
+  "ticker": "CVNA",
+  "symbol": "CVNA",
+  "folder": "Carvana_CVNA",
+  "series": [
+   "KXEARNINGSMENTIONCVNA"
+  ]
+ },
+ {
+  "company": "Chewy",
+  "ticker": "CHWY",
+  "symbol": "CHWY",
+  "folder": "Chewy_CHWY",
+  "series": [
+   "KXEARNINGSMENTIONCHWY"
+  ]
+ },
+ {
+  "company": "Ciena",
+  "ticker": "CIEN",
+  "symbol": "CIEN",
+  "folder": "Ciena_CIEN",
+  "series": [
+   "KXEARNINGSMENTIONCIEN"
+  ]
+ },
+ {
+  "company": "Circle",
+  "ticker": "CRCL",
+  "symbol": "CRCL",
+  "folder": "Circle_CRCL",
+  "series": [
+   "KXEARNINGSMENTIONCRCL"
+  ]
+ },
+ {
+  "company": "CLEAR Secure",
+  "ticker": "YOU",
+  "symbol": "YOU",
+  "folder": "CLEAR_Secure_YOU",
+  "series": [
+   "KXEARNINGSMENTIONYOU"
+  ]
+ },
+ {
+  "company": "Coca-Cola",
+  "ticker": "KO",
+  "symbol": "KO",
+  "folder": "Coca_Cola_KO",
+  "series": [
+   "KXEARNINGSMENTIONKO"
+  ]
+ },
+ {
+  "company": "Coinbase",
+  "ticker": "COIN",
+  "symbol": "COIN",
+  "folder": "Coinbase_COIN",
+  "series": [
+   "KXEARNINGSMENTIONCOINBASE"
+  ]
+ },
+ {
+  "company": "Constellation Brands",
+  "ticker": "STZ",
+  "symbol": "STZ",
+  "folder": "Constellation_Brands_STZ",
+  "series": [
+   "KXEARNINGSMENTIONSTZ"
+  ]
+ },
+ {
+  "company": "CoreWeave",
+  "ticker": "CRWV",
+  "symbol": "CRWV",
+  "folder": "CoreWeave_CRWV",
+  "series": [
+   "KXEARNINGSMENTIONCRWV"
+  ]
+ },
+ {
+  "company": "Cracker Barrel",
+  "ticker": "CBRL",
+  "symbol": "CBRL",
+  "folder": "Cracker_Barrel_CBRL",
+  "series": [
+   "KXEARNINGSMENTIONCBRL"
+  ]
+ },
+ {
+  "company": "CrowdStrike",
+  "ticker": "CRWD",
+  "symbol": "CRWD",
+  "folder": "CrowdStrike_CRWD",
+  "series": [
+   "KXEARNINGSMENTIONCRWD"
+  ]
+ },
+ {
+  "company": "Deere",
+  "ticker": "DE",
+  "symbol": "DE",
+  "folder": "Deere_DE",
+  "series": [
+   "KXEARNINGSMENTIONDE"
+  ]
+ },
+ {
+  "company": "Dell",
+  "ticker": "DELL",
+  "symbol": "DELL",
+  "folder": "Dell_DELL",
+  "series": [
+   "KXEARNINGSMENTIONDELL"
+  ]
+ },
+ {
+  "company": "Delta Air Lines",
+  "ticker": "DAL",
+  "symbol": "DAL",
+  "folder": "Delta_Air_Lines_DAL",
+  "series": [
+   "KXEARNINGSMENTIONDAL"
+  ]
+ },
+ {
+  "company": "Disney",
+  "ticker": "DIS",
+  "symbol": "DIS",
+  "folder": "Disney_DIS",
+  "series": [
+   "KXEARNINGSMENTIONDIS"
+  ]
+ },
+ {
+  "company": "Dollar General",
+  "ticker": "DG",
+  "symbol": "DG",
+  "folder": "Dollar_General_DG",
+  "series": [
+   "KXEARNINGSMENTIONDOLLARGENERAL"
+  ]
+ },
+ {
+  "company": "DraftKings",
+  "ticker": "DKNG",
+  "symbol": "DKNG",
+  "folder": "DraftKings_DKNG",
+  "series": [
+   "KXEARNINGSMENTIONDKNG"
+  ]
+ },
+ {
+  "company": "Duolingo",
+  "ticker": "DUOL",
+  "symbol": "DUOL",
+  "folder": "Duolingo_DUOL",
+  "series": [
+   "KXEARNINGSMENTIONDUOL"
+  ]
+ },
+ {
+  "company": "eBay",
+  "ticker": "EBAY",
+  "symbol": "EBAY",
+  "folder": "eBay_EBAY",
+  "series": [
+   "KXEARNINGSMENTIONEBAY"
+  ]
+ },
+ {
+  "company": "Electronic Arts",
+  "ticker": "EA",
+  "symbol": "EA",
+  "folder": "Electronic_Arts_EA",
+  "series": [
+   "KXEARNINGSMENTIONEA"
+  ]
+ },
+ {
+  "company": "Eli Lilly",
+  "ticker": "LLY",
+  "symbol": "LLY",
+  "folder": "Eli_Lilly_LLY",
+  "series": [
+   "KXEARNINGSMENTIONLLY"
+  ]
+ },
+ {
+  "company": "eToro",
+  "ticker": "ETOR",
+  "symbol": "ETOR",
+  "folder": "eToro_ETOR",
+  "series": [
+   "KXEARNINGSMENTIONETOR"
+  ]
+ },
+ {
+  "company": "FedEx",
+  "ticker": "FDX",
+  "symbol": "FDX",
+  "folder": "FedEx_FDX",
+  "series": [
+   "KXEARNINGSMENTIONFDX",
+   "KXMENTIONEARNFDX"
+  ]
+ },
+ {
+  "company": "Ferrari",
+  "ticker": "RACE",
+  "symbol": "RACE",
+  "folder": "Ferrari_RACE",
+  "series": [
+   "KXEARNINGSMENTIONRACE"
+  ]
+ },
+ {
+  "company": "Figma",
+  "ticker": "FIG",
+  "symbol": "FIG",
+  "folder": "Figma_FIG",
+  "series": [
+   "KXEARNINGSMENTIONFIG"
+  ]
+ },
+ {
+  "company": "Ford",
+  "ticker": "F",
+  "symbol": "F",
+  "folder": "Ford_F",
+  "series": [
+   "KXEARNINGSMENTIONF"
+  ]
+ },
+ {
+  "company": "Futu",
+  "ticker": "FUTU",
+  "symbol": "FUTU",
+  "folder": "Futu_FUTU",
+  "series": [
+   "KXEARNINGSMENTIONFUTU"
+  ]
+ },
+ {
+  "company": "GameStop",
+  "ticker": "GME",
+  "symbol": "GME",
+  "folder": "GameStop_GME",
+  "series": [
+   "KXEARNINGSMENTIONGME"
+  ]
+ },
+ {
+  "company": "GE Vernova",
+  "ticker": "GEV",
+  "symbol": "GEV",
+  "folder": "GE_Vernova_GEV",
+  "series": [
+   "KXEARNINGSMENTIONGEV"
+  ]
+ },
+ {
+  "company": "General Mills",
+  "ticker": "GIS",
+  "symbol": "GIS",
+  "folder": "General_Mills_GIS",
+  "series": [
+   "KXEARNINGSMENTIONGIS",
+   "KXMENTIONEARNGIS"
+  ]
+ },
+ {
+  "company": "Goldman Sachs",
+  "ticker": "GS",
+  "symbol": "GS",
+  "folder": "Goldman_Sachs_GS",
+  "series": [
+   "KXEARNINGSMENTIONGS"
+  ]
+ },
+ {
+  "company": "Grab",
+  "ticker": "GRAB",
+  "symbol": "GRAB",
+  "folder": "Grab_GRAB",
+  "series": [
+   "KXEARNINGSMENTIONGRAB"
+  ]
+ },
+ {
+  "company": "Hims & Hers",
+  "ticker": "HIMS",
+  "symbol": "HIMS",
+  "folder": "Hims_Hers_HIMS",
+  "series": [
+   "KXEARNINGSMENTIONHIMS"
+  ]
+ },
+ {
+  "company": "Home Depot",
+  "ticker": "HD",
+  "symbol": "HD",
+  "folder": "Home_Depot_HD",
+  "series": [
+   "KXEARNINGSMENTIONHD"
+  ]
+ },
+ {
+  "company": "J.M. Smucker",
+  "ticker": "SJM",
+  "symbol": "SJM",
+  "folder": "J_M_Smucker_SJM",
+  "series": [
+   "KXEARNINGSMENTIONSJM"
+  ]
+ },
+ {
+  "company": "Kratos",
+  "ticker": "KTOS",
+  "symbol": "KTOS",
+  "folder": "Kratos_KTOS",
+  "series": [
+   "KXEARNINGSMENTIONKTOS"
+  ]
+ },
+ {
+  "company": "Levi Strauss",
+  "ticker": "LEVI",
+  "symbol": "LEVI",
+  "folder": "Levi_Strauss_LEVI",
+  "series": [
+   "KXEARNINGSMENTIONLEVI"
+  ]
+ },
+ {
+  "company": "Lowe's",
+  "ticker": "LOW",
+  "symbol": "LOW",
+  "folder": "Lowe_s_LOW",
+  "series": [
+   "KXEARNINGSMENTIONLOW"
+  ]
+ },
+ {
+  "company": "Lucid",
+  "ticker": "LCID",
+  "symbol": "LCID",
+  "folder": "Lucid_LCID",
+  "series": [
+   "KXEARNINGSMENTIONLUCID"
+  ]
+ },
+ {
+  "company": "Lululemon",
+  "ticker": "LULU",
+  "symbol": "LULU",
+  "folder": "Lululemon_LULU",
+  "series": [
+   "KXMENTIONEARNLULU",
+   "KXEARNINGSMENTIONLULU"
+  ]
+ },
+ {
+  "company": "Macy's",
+  "ticker": "M",
+  "symbol": "M",
+  "folder": "Macy_s_M",
+  "series": [
+   "KXEARNINGSMENTIONM",
+   "KXMENTIONEARNM"
+  ]
+ },
+ {
+  "company": "McCormick",
+  "ticker": "MKC",
+  "symbol": "MKC",
+  "folder": "McCormick_MKC",
+  "series": [
+   "KXEARNINGSMENTIONMKC"
+  ]
+ },
+ {
+  "company": "Mercado Libre",
+  "ticker": "MELI",
+  "symbol": "MELI",
+  "folder": "Mercado_Libre_MELI",
+  "series": [
+   "KXEARNINGSMENTIONMELI"
+  ]
+ },
+ {
+  "company": "Meta Platforms",
+  "ticker": "META",
+  "symbol": "META",
+  "folder": "Meta_Platforms_META",
+  "series": [
+   "KXEARNINGSMENTIONMETA"
+  ]
+ },
+ {
+  "company": "Micron",
+  "ticker": "MU",
+  "symbol": "MU",
+  "folder": "Micron_MU",
+  "series": [
+   "KXMENTIONEARNMU",
+   "KXEARNINGSMENTIONMU"
+  ]
+ },
+ {
+  "company": "Morgan Stanley",
+  "ticker": "MS",
+  "symbol": "MS",
+  "folder": "Morgan_Stanley_MS",
+  "series": [
+   "KXEARNINGSMENTIONMS"
+  ]
+ },
+ {
+  "company": "Nebius",
+  "ticker": "NBIS",
+  "symbol": "NBIS",
+  "folder": "Nebius_NBIS",
+  "series": [
+   "KXEARNINGSMENTIONNBIS"
+  ]
+ },
+ {
+  "company": "New York Times",
+  "ticker": "NYT",
+  "symbol": "NYT",
+  "folder": "New_York_Times_NYT",
+  "series": [
+   "KXEARNINGSMENTIONNYT"
+  ]
+ },
+ {
+  "company": "Nike",
+  "ticker": "NKE",
+  "symbol": "NKE",
+  "folder": "Nike_NKE",
+  "series": [
+   "KXEARNINGSMENTIONNKE"
+  ]
+ },
+ {
+  "company": "NIO",
+  "ticker": "NIO",
+  "symbol": "NIO",
+  "folder": "NIO_NIO",
+  "series": [
+   "KXEARNINGSMENTIONNIO"
+  ]
+ },
+ {
+  "company": "Nvidia",
+  "ticker": "NVDA",
+  "symbol": "NVDA",
+  "folder": "Nvidia_NVDA",
+  "series": [
+   "KXEARNINGSMENTIONNVDA"
+  ]
+ },
+ {
+  "company": "Oklo",
+  "ticker": "OKLO",
+  "symbol": "OKLO",
+  "folder": "Oklo_OKLO",
+  "series": [
+   "KXMENTIONEARNOKLO",
+   "KXEARNINGSMENTIONOKLO"
+  ]
+ },
+ {
+  "company": "ON Semiconductor",
+  "ticker": "ON",
+  "symbol": "ON",
+  "folder": "ON_Semiconductor_ON",
+  "series": [
+   "KXEARNINGSMENTIONON"
+  ]
+ },
+ {
+  "company": "Oracle",
+  "ticker": "ORCL",
+  "symbol": "ORCL",
+  "folder": "Oracle_ORCL",
+  "series": [
+   "KXEARNINGSMENTIONORCL"
+  ]
+ },
+ {
+  "company": "Palantir",
+  "ticker": "PLTR",
+  "symbol": "PLTR",
+  "folder": "Palantir_PLTR",
+  "series": [
+   "KXEARNINGSMENTIONPLTR"
+  ]
+ },
+ {
+  "company": "Paramount Skydance",
+  "ticker": "PSKY",
+  "symbol": "PSKY",
+  "folder": "Paramount_Skydance_PSKY",
+  "series": [
+   "KXEARNINGSMENTIONPSKY"
+  ]
+ },
+ {
+  "company": "PayPal",
+  "ticker": "PYPL",
+  "symbol": "PYPL",
+  "folder": "PayPal_PYPL",
+  "series": [
+   "KXEARNINGSMENTIONPYPL"
+  ]
+ },
+ {
+  "company": "PepsiCo",
+  "ticker": "PEP",
+  "symbol": "PEP",
+  "folder": "PepsiCo_PEP",
+  "series": [
+   "KXEARNINGSMENTIONPEP"
+  ]
+ },
+ {
+  "company": "Progressive",
+  "ticker": "PGR",
+  "symbol": "PGR",
+  "folder": "Progressive_PGR",
+  "series": [
+   "KXEARNINGSMENTIONPGR"
+  ]
+ },
+ {
+  "company": "Qualcomm",
+  "ticker": "QCOM",
+  "symbol": "QCOM",
+  "folder": "Qualcomm_QCOM",
+  "series": [
+   "KXEARNINGSMENTIONQCOM"
+  ]
+ },
+ {
+  "company": "Reddit",
+  "ticker": "RDDT",
+  "symbol": "RDDT",
+  "folder": "Reddit_RDDT",
+  "series": [
+   "KXEARNINGSMENTIONRDDT"
+  ]
+ },
+ {
+  "company": "Robinhood",
+  "ticker": "HOOD",
+  "symbol": "HOOD",
+  "folder": "Robinhood_HOOD",
+  "series": [
+   "KXEARNINGSMENTIONHOOD"
+  ]
+ },
+ {
+  "company": "Rocket Lab",
+  "ticker": "RKLB",
+  "symbol": "RKLB",
+  "folder": "Rocket_Lab_RKLB",
+  "series": [
+   "KXEARNINGSMENTIONRKLB"
+  ]
+ },
+ {
+  "company": "Ross Stores",
+  "ticker": "ROST",
+  "symbol": "ROST",
+  "folder": "Ross_Stores_ROST",
+  "series": [
+   "KXEARNINGSMENTIONROST"
+  ]
+ },
+ {
+  "company": "Royal Bank of Canada",
+  "ticker": "RY",
+  "symbol": "RY",
+  "folder": "Royal_Bank_of_Canada_RY",
+  "series": [
+   "KXEARNINGSMENTIONRY"
+  ]
+ },
+ {
+  "company": "Salesforce",
+  "ticker": "CRM",
+  "symbol": "CRM",
+  "folder": "Salesforce_CRM",
+  "series": [
+   "KXEARNINGSMENTIONCRM"
+  ]
+ },
+ {
+  "company": "Snowflake",
+  "ticker": "SNOW",
+  "symbol": "SNOW",
+  "folder": "Snowflake_SNOW",
+  "series": [
+   "KXEARNINGSMENTIONSNOW"
+  ]
+ },
+ {
+  "company": "Sprouts Farmers Market",
+  "ticker": "SFM",
+  "symbol": "SFM",
+  "folder": "Sprouts_Farmers_Market_SFM",
+  "series": [
+   "KXEARNINGSMENTIONSFM"
+  ]
+ },
+ {
+  "company": "Starbucks",
+  "ticker": "SBUX",
+  "symbol": "SBUX",
+  "folder": "Starbucks_SBUX",
+  "series": [
+   "KXEARNINGSMENTIONSBUX"
+  ]
+ },
+ {
+  "company": "Strategy (MicroStrategy)",
+  "ticker": "MSTR",
+  "symbol": "MSTR",
+  "folder": "Strategy_MicroStrategy_MSTR",
+  "series": [
+   "KXEARNINGSMENTIONMSTR"
+  ]
+ },
+ {
+  "company": "Talen Energy",
+  "ticker": "TLN",
+  "symbol": "TLN",
+  "folder": "Talen_Energy_TLN",
+  "series": [
+   "KXEARNINGSMENTIONTLN"
+  ]
+ },
+ {
+  "company": "Tesla",
+  "ticker": "TSLA",
+  "symbol": "TSLA",
+  "folder": "Tesla_TSLA",
+  "series": [
+   "KXEARNINGSMENTIONTSLA"
+  ]
+ },
+ {
+  "company": "Toast",
+  "ticker": "TOST",
+  "symbol": "TOST",
+  "folder": "Toast_TOST",
+  "series": [
+   "KXEARNINGSMENTIONTOST"
+  ]
+ },
+ {
+  "company": "Toll Brothers",
+  "ticker": "TOL",
+  "symbol": "TOL",
+  "folder": "Toll_Brothers_TOL",
+  "series": [
+   "KXEARNINGSMENTIONTOL"
+  ]
+ },
+ {
+  "company": "Truist Financial",
+  "ticker": "TFC",
+  "symbol": "TFC",
+  "folder": "Truist_Financial_TFC",
+  "series": [
+   "KXEARNINGSMENTIONTFC"
+  ]
+ },
+ {
+  "company": "TSMC",
+  "ticker": "TSM",
+  "symbol": "TSM",
+  "folder": "TSMC_TSM",
+  "series": [
+   "KXEARNINGSMENTIONTSMC"
+  ]
+ },
+ {
+  "company": "Uber",
+  "ticker": "UBER",
+  "symbol": "UBER",
+  "folder": "Uber_UBER",
+  "series": [
+   "KXEARNINGSMENTIONUBER"
+  ]
+ },
+ {
+  "company": "UiPath",
+  "ticker": "PATH",
+  "symbol": "PATH",
+  "folder": "UiPath_PATH",
+  "series": [
+   "KXEARNINGSMENTIONPATH"
+  ]
+ },
+ {
+  "company": "Ulta Beauty",
+  "ticker": "ULTA",
+  "symbol": "ULTA",
+  "folder": "Ulta_Beauty_ULTA",
+  "series": [
+   "KXEARNINGSMENTIONULTA"
+  ]
+ },
+ {
+  "company": "United Airlines",
+  "ticker": "UAL",
+  "symbol": "UAL",
+  "folder": "United_Airlines_UAL",
+  "series": [
+   "KXEARNINGSMENTIONUAL"
+  ]
+ },
+ {
+  "company": "Urban Outfitters",
+  "ticker": "URBN",
+  "symbol": "URBN",
+  "folder": "Urban_Outfitters_URBN",
+  "series": [
+   "KXEARNINGSMENTIONURBN"
+  ]
+ },
+ {
+  "company": "Vail Resorts",
+  "ticker": "MTN",
+  "symbol": "MTN",
+  "folder": "Vail_Resorts_MTN",
+  "series": [
+   "KXEARNINGSMENTIONMTN"
+  ]
+ },
+ {
+  "company": "Verizon",
+  "ticker": "VZ",
+  "symbol": "VZ",
+  "folder": "Verizon_VZ",
+  "series": [
+   "KXEARNINGSMENTIONVZ"
+  ]
+ },
+ {
+  "company": "Victoria's Secret",
+  "ticker": "VSCO",
+  "symbol": "VSCO",
+  "folder": "Victoria_s_Secret_VSCO",
+  "series": [
+   "KXEARNINGSMENTIONVSCO"
+  ]
+ },
+ {
+  "company": "Visa",
+  "ticker": "V",
+  "symbol": "V",
+  "folder": "Visa_V",
+  "series": [
+   "KXEARNINGSMENTIONV"
+  ]
+ },
+ {
+  "company": "Vistra",
+  "ticker": "VST",
+  "symbol": "VST",
+  "folder": "Vistra_VST",
+  "series": [
+   "KXEARNINGSMENTIONVST"
+  ]
+ },
+ {
+  "company": "Walmart",
+  "ticker": "WMT",
+  "symbol": "WMT",
+  "folder": "Walmart_WMT",
+  "series": [
+   "KXEARNINGSMENTIONWMT"
+  ]
+ },
+ {
+  "company": "Webull",
+  "ticker": "BULL",
+  "symbol": "BULL",
+  "folder": "Webull_BULL",
+  "series": [
+   "KXEARNINGSMENTIONBULL"
+  ]
+ },
+ {
+  "company": "Wingstop",
+  "ticker": "WING",
+  "symbol": "WING",
+  "folder": "Wingstop_WING",
+  "series": [
+   "KXEARNINGSMENTIONWING"
+  ]
+ },
+ {
+  "company": "Winnebago Industries",
+  "ticker": "WGO",
+  "symbol": "WGO",
+  "folder": "Winnebago_Industries_WGO",
+  "series": [
+   "KXMENTIONEARNWGO"
+  ]
+ },
+ {
+  "company": "Yeti",
+  "ticker": "YETI",
+  "symbol": "YETI",
+  "folder": "Yeti_YETI",
+  "series": [
+   "KXEARNINGSMENTIONYETI"
+  ]
+ },
+ {
+  "company": "Yum! Brands",
+  "ticker": "YUM",
+  "symbol": "YUM",
+  "folder": "Yum_Brands_YUM",
+  "series": [
+   "KXEARNINGSMENTIONSYUM"
+  ]
+ },
+ {
+  "company": "Zscaler",
+  "ticker": "ZS",
+  "symbol": "ZS",
+  "folder": "Zscaler_ZS",
+  "series": [
+   "KXEARNINGSMENTIONZS"
+  ]
+ }
+]

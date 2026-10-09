@@ -1,0 +1,247 @@
+TITLE: Citizens JMP Technology Conference 2026
+DATE: 2026-03-02
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+We'll go ahead and kick it off 'cause I know, standing between us or this, you guys in happy hour is probably not a good thing to keep-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+No, thanks for the spot.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... to keep going. No, it's a good spot though 'cause everyone's gonna be in a good mood. Thanks all for joining us today. Hope you've had a good first day of the Citizens Technology Conference. I'm excited to kinda move this maybe to from the digital to more of the physical realm, with the Executive Vice President and Chief Financial Officer for AeroVironment, Kevin McDonnell. I'm Trevor Walsh, the Senior Equity Research Analyst for Aerospace and Defense, and we're gonna run through a good little fireside chat here, and then we'll kick it over to you all for questions from the audience. Thanks Kevin for being here. Really appreciate it.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, I appreciate it, Trevor. Thank you. Thanks to Citizens.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Let's just maybe with the more, the most recent news, from last week, your retirement, from the company.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+That's right.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Congratulations first. Maybe just give us a sense of how you're thinking about or the company's thinking about when they take, you know, replacement. You know, obviously, you know, you've been there for a while. What is the kind of next person taking the reins of CFO kind of, you know, experiences, qualities in that leader, do you think that Wahid and team-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, I mean-
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... are looking for?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+... it's definitely gotta be somebody who's experienced in growth. I mean, we feel like this is only the beginning. You know, there's really strong growth prospects for the next five years, going from $2 billion to $5 billion is a challenge. You know, I feel pretty proud of where we got it so far, the next person's gotta be able to take it from that $2 billion to $5 billion in a very dynamic defense market where things are changing and has to be adaptable to the situations and being able to take. I just look at the capabilities of the company and they're immense. I don't even think we've even really begun to fully tap into everything that we have.
+That'll come. This person has to be adept at understanding that, identifying that, shaping a culture that's innovative, continues to be innovative but at a scale, at scale.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Perfect. You took my kind of next question about kind of first-order priorities. Maybe anything that you expect to kind of remain consistent or unchanged kind of that you know, that you either, you know, already implemented, et cetera, that they can just, you know, expected to sort of run with, I guess?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, it's still a work in progress. I mean, with this, the combination of BlueHalo, we went from under a $1 billion-dollar company to a $2 billion-dollar company, and the types of infrastructure and processes you need at $2 billion versus $1 billion are actually pretty different. We, you know, I think there's still work to do there. I'm not gonna sit here and say everything's hunky dory. You know, just basic stuff. How you prepare for a conference call when now you have 15 business units versus three, you know. These types of things are things we're all still trying to work on improving. We just throw some new systems in the mix for this year.
+That's the one thing that I think that is, gonna be a positive for, my successor, is we've done, we've made a lot of progress on the system front. We're on all, on platforms that are, you know, world-class platforms of Workday, Oracle Fusion in the, in the government cloud, Salesforce, and I think ServiceNow soon. We have a world-class infrastructure, which is great, but I think the big part of that is it, we're gonna be able to take advantage of some of the AI tools and things that all those vendors now offer to automate things, better analysis and things like that. I would say that's the one thing I'm most proud of, is that I was there to start the effort to lay that foundation for it to be a big, big company.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Great. Perfect. Yeah, I got to hear Mr. McDermott speak from ServiceNow earlier. It sounds like you've picked a good kind of solid partner there for sure. Exciting. Great. I'll switch gears a little bit if the, if I can. You mentioned BlueHalo. Can you... There's obviously a lot to talk about there and whether it's capabilities, you know, how the, how the company and the models change, which you've alluded to.
+Could you maybe just walk us through, you know, the history of, from a margin perspective specifically, kinda where, you know, just remind us kinda where you saw legacy AV before kinda acquisition and merger, and then kind of, you know, bringing in the Blue Halo piece, what that sort of, you know, how that changed margins and then what should we kinda expect or kinda look for, from that standpoint, kinda on the, on the go forward?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah. I mean, today the Defense Department talks about companies having a commercial model where they would invest in products and bring them to the government and they would select them and not do these massive RDT&E projects to get. The commercial products has been the AV model for a long time. We, you know, I think we invented that model for defense somewhat. So we had great EBITDA margins, 18%, always double-digit growth. BlueHalo, I would characterize as more of a traditional defense contractor in much of their business. The pieces that were more commercial, like Titan, or their underwater vehicle, these types of things were commercial, and those end up being in the AxS segment.
+The, the space segment, the cyber intel, our mission solutions business in Dayton are all more traditional time and material-type businesses. Those come with the, with the traditional defense contractor type of margins. I'll have to say that the BlueHalo team is extraordinary at government contracting and subcontracting, which is important even in a commercial model. The, the real value creation here comes as we move some of their core products like, you know, the ground station known as BADGER today, to a commercial model. The LOCUST laser Counter-UAS system to a commercial model. A product called Wasp, which is a derivative of BADGER for existing, upgrading existing ground stations.
+A product called Gunsights, which is a pointing and tracking technology on traditional ground-based weapon systems or vehicle-based weapon systems. All those are ripe for commercialization and taking more of a product margins. I feel like as I stand here today that it's about gonna be a one to two year process to get those more commercialized, global markets, and increase the EBITDA margins. I mean, fundamentally, it's not a good business model to have one customer who's telling you what to do and you're beholden to them because if they fall out of favor, or they don't get funding, then you're stuck there.
+A commercial model is a much better model to say, "We have this technology, here's the specifications," and sell it to multiple customers than try to have one or two customers. The U.S. government probably has to look at that and say, "We have to be better at allowing those companies to sell their technology globally." Again, that helps scale and helps improve the capital for these companies to even do better and sell more products to the U.S. government, so I think that's the part of the model that needs some work from the U.S. government standpoint.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Got it. Over that kind of one to two year timeframe then, do you see kind of company margins returning to that legacy, kind of where it was, you know, 18%?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah. I think so.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Is that sort of a reasonable, like, you know?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+I think so.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Target?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+That's what I think, so.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay. Great. another great segue.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+We're right on the cusp of these products becoming, you know, moving from basically the experimental, we're trying to see if this works phase, to the full adoption phase. By that nature itself will help your margins, but even more accelerate those margins if you get them to a commercial model.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Perfect. Since we're kind of on that topic, or at least touched on it, why don't we move to SCAR and to BADGER? Obviously some news came out today, so I just want to give you a chance to just, you know, just not that it was necessarily new news, per se, but any initial thoughts just broadly on kind of, you know, where that, what's happening around BADGER and maybe all just setting the record straight?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah. I mean, from my perspective, you know, we had the satellite ground station, you know, the phased array ground station that was gonna capture multiple signals at a time from multiple satellites out there and communicate back and forth. Just over time, the spec got such that when we quoted and won two new systems back in the fall, the price tag was a lot higher than the government expected. So they asked us to look at ways we could reduce the cost, which we did. We came up with a version that's less expensive because basically they looked at it and go, "We don't have enough money." It's a pretty simple thing.
+We didn't have enough money to get all the ground stations that we need with our mission set." They said, "Can you make something less expensive, maybe it not as exquisite and do as much capability?" We said, "Yeah. Here's an idea." We gave them that idea.
+We tested it, and we proved that that worked, and, you know, on a test situation. That's when we said, "Well, that's the version they wanna go to because we can get the units we need to cover the mission set." At the same time, they wanna go to a more commercial model, which we're totally fine with, and have a fixed price and a set delivery schedule and all the things that comes with that. That's the process we're in now of negotiating that go forward contract. We didn't cancel the contract. We're still on the program. We still have the contract.
+They've indicated, I think there was our news article today, that, you know, maybe they'll have some other people take a bid at it, but I would say we're multiple years ahead of any particular competitors in the market. That's, it's a little bit of a game of them trying to make us go faster, I think.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Do you think they've already felt like they've gotten the sort of the win or they've gotten what they needed from you from a price point perspective, so it's now more just like the maturity of the contract?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, we're negotiating that.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+We're still in the middle of that.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+it's still going. Okay.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, if it's a good negotiation, they're unhappy and we're unhappy, so.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Sure. On that note of competition and you being ahead, do you think that you're ahead, in with respect to BADGER and SCAR specifically, technologically, or-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... capacity and manufacturing? Both of those things or-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Both of those things. I mean, you know, one of the competitors is a startup that's getting a lot of news. They're a software model, recurring subscription model, but from what I've been told, they don't have the hardware yet, and they haven't been able to prove upward communication. Those are big hurdles to overcome. Nonetheless, I think that this, the new product will have wider, more ubiquitous use cases, so I think that it can become more of a commercial product. It, you know, because if it is too exquisite and too overpriced, then the commercial market shrinks. For us, we look at it as a long-term good thing to have a product that is more useful to many customers versus one, so.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Great. Let's dig in there maybe a little bit more, I think you've talked about it in the past and recently with us. As far as more commercial kinda, you know, non-defense or non-space, for non-primary customer type customers, international, et cetera, what can you just give us a sense, maybe not of actual specific customers, but just a flavor of what those customers might look like and what the use cases might be for them?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+I could just say generically, anybody who's communicating with multiple satellites would want the capability of, it isn't gonna be called BADGER, so we call something else, for that new product, you know, over time, you know, whether they're defense or non-defense.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Got it. That could be anyone from someone just operating a constellation of-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Right.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... communication satellites. It could be-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Correct.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... electro-optical and, you know-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Right.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... more imagery. It could be any of those things really.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Right.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Exactly.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Got it. Great. Any changes to give... I mean, does the facility that you have in New Mexico to churn the BADGERs out, does that need to have any major overhaul or changes to it given the new specs on the thing, or is that essentially business as usual?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+No, we see that as a positive that we don't really have to make any major, you know, capital investments. Potentially some more R&D investments given the nature of the contract. You know, at this point, we don't believe that that's significant. But we're, you know, we're very proud of those who've been to our Albuquerque facility, very proud of the facility, the testing bed we have, the state-of-the-art equipment, and the capabilities we have there. Like I said, that all gives us kind of a... I mean, the government needs these systems. They want them as fast as they can. Somebody that can provide them sooner is gonna be, have a tremendous advantage over a new, a newer company.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Got it. Great. I'll switch gears a little bit. Can we talk about Red Dragon?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Love to.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay, cool. What do you think is just the art of the possible in terms of pricing and quantity for a again, not specifics, but just a hypothetical customer that would want to have Red Dragon? What does that look like from just a, kind of a deal perspective?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, I mean, you know, this, how these technologies go, in the beginning, it's all very mission-focused. You know, they want this capability for this mission, this type of stuff. We're kind of in and, you know, we need to try it here and there, that type of thing. We're still in that phase a little bit. You know, as I look forward, I, you know, I just kinda put it this way, make it simple for myself, you know, that, you know, if I was a country, you know, I was Korea, you know, South Korea, you know, and I wanted to buy 500,000 something, that's what they've said, I'd buy hundreds of thousands of Red Dragons and tens of thousands of Switchblades.
+You have the, you know, en masse swarming type capability, fairly low cost, but could do some massive damage as a group of, say, 50 or 100 shot at a target. We're very bullish on the future of Red Dragon. The one-way attack got a lot of publicity with the Iran invasion. We're familiar with that one-way attack drone. You know, our view is it's not as capable at the hitting the target as a Red Dragon would be.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Got it. I think, correct me if I'm wrong, but that, the Red Dragon price point as of now that you're thinking is actually less than, I think, all the Switchblade models.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Right. Correct.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Correct.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+All right.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+It was, I remember the beginning two or three years ago. This is how long things take, you know? Two or three years ago, there was this notion like Taiwan, they need something that's low cost, easy to assemble, that people can make in their garage, and they could make hundreds of them and shoot them off. That was kind of the notion, and then eventually this idea of Red Dragon, something that's easy to assemble, easy to store. It has a zipper pouch for the kinetic effect, so you don't have to store it with the kinetic effects, was born out of that idea. Here we are, you know, three more plus years later at least, but we feel like we're right on the cusp of full-scale adoption. Yeah.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Great. Thank you for level setting around like kind of an initial purchase of what that might look for-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... you know, for a country. How much, and I think we've seen this a little bit with LMS and Switchblade, where there's almost like a recurring type of spend-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... because they either get used, you know, or even, you know, training or otherwise, these are not necessarily meant to be exquisite system that just comes back, right?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Right.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+They're like effectively munitions. How does that look for Red Dragon? Does this have a similar type of feel where they're not just, customer doesn't just buy the $100,000, but there's kinda more orders kind of-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Oh.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... as they come because they're just gonna get depleted over time?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah. Anytime you have a, so a weapon like this, you're gonna have a recurring business 'cause they're gonna be firing them off for training. You know, there's probably a notion that, you know, these things improve over time, that maybe you just wanna deplete 20% a year or something like that for that reason. In, you know, Switchblade type products, Red Dragon, we're just so early on this. These countries have not got to a point where they're gonna buy thousands yet, that's, that'll happen the next two or three years. We're early days.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay. That was one of my my last questions is, so two or three, so should we think FY 2027 as a possible contributor, do you think, or more?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Red Dragon?
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+For Red Dragon specifically.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Oh, absolutely.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Absolutely.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay. Final question too then on Red Dragon, then I'll, we'll, we can switch to a new topic. You mentioned what's kinda happening in Iran now, you know, as in real time around, you know, these one-way attack type munitions. Do you think in terms of just broadly that as a category, what factors do you think customers are evaluating kind of most between, you know, the cost, autonomy capabilities, manufacturing at a scale that can get it done, something else? Like how do you think they're balancing all those things as far as making a decision around a final-?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Hit the target.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Hit the target.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+I mean-
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Okay.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+... they gotta work. They gotta hit the target. They gotta find the target. you know, this is where we, you know, have strong capabilities.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+And would you put-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Completing the mission, getting the mission done. Cost is, you know, everybody always says they want. I mean, I haven't met somebody buying a product that want it cheaper. I mean, you know. You know, so the cost is always the element. This was designed to be a high value weapon system, you know. Everything has its day, you know. There's a myriad of weapons the U.S. have that have different ranges, different payloads, different use cases. There's no, you know, end all be all. There'll be many different products in the kinda the lethal drone category. We think between this and Switchblade, we've covered a nice part of the market.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Great. Perfect. Okay, well, let's go from the stuff that goes boom to maybe the stuff that prevents the boom from happening and talk a little bit about counter-UAS if we can.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+When we had you out for investor meetings a few weeks back, you talked about two different Counter-UAS site implementations by FY 2027. Can you maybe just give us a sense of, like, I mean, are those essentially the type of installation that's most likely going to be in terms of?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, as we said, we're pitching, kind of part of the Golden Dome initiative, which is to protect the critical infrastructure, that we actually have the capabilities that you need to protect critical sites. We're, you know, it's just like any type of sales process. We're trying to make that pitch. We have our LOCUST laser weapon systems, we have our RF defeat systems, we've got the software, we've got the detect systems and the Titan-SV product. We can put that together on a site. You know, the goal is in the next, you know, 12 months or so to get the government to agree to have us put it on a couple sites and see how it works. I think no matter what, laser Counter-UAS, we're definitely the most important player.
+You would think that an analyst would pick up on that as more important than a little contract issue with SCAR. I mean, look at all the just the little publicity we've gotten lately in the border. Not that it's massive, I mean, that's. People don't understand, that's, like, amazing, you know? The U.S. government is using counter-UAS lasers on U.S. soil that are made by us. They wouldn't use it if they didn't really fully believe this is capable. We believe this has big opportunity in the short run for us. You know? This is, again, There's multiple products that came over from the BlueHalo portfolio that are in this kind of coming out of the let's test it, let's see if this works phase.
+You know, after many years, starting way back here at, you know, this is going to be the awesome-most thing, to reality, to now, to full adoption. There, there's multiples hitting at this. Counter-UAS RF for public safety purposes, counter-UAS, counter drone laser technologies. On the AV side it's one-way attack drones. Long haul laser communications from the AV side. Again, we just got a $500 million contract for I mean, nobody else. If you think, if you believe that, you know, laser communications is important for military purposes and long haul, then you got to believe in what we're doing. We have, multiple products are kind of just hitting this adoption phase.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Great.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+That's what's super exciting about the story.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Yeah. Do you think that the, whether it's for the one to two sites you think you'll have online, you know, kind of in the, in the near term, versus just broadly with the opportunity, is selling the full package of, you know, kind of layered defenses that you guys have just internally on, you know, within your portfolio is a, is a key differentiator? Or are you okay to just, you know, just sell LOCUSTs to a, you know, to the laser weapons and then someone else can do the RF? Or like how do you from a, you know, BD kind of go to market, how are you thinking about that type of, those pursuits?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+We traditionally have not taken on the system integrator model. We are doing this here. I personally would love to see it successful from this purpose, 'cause I do think we do have a variety of capabilities that as Proposing solutions might be the best way for us to grow those products, you know? It has not been our traditional route. I mean, we've done some stuff here and there, but more and more we're seeing the you know, improving our capabilities and expanding our capabilities in that kind of system integrator model with mostly our product and some other people's products.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+As you have success on more, what you'd probably call, you know, kinda classic, you know, critical infrastructure, military bases.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+DOD type installations, and that's probably gonna be the, I think probably the most likely first candidates just given Golden Dome.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Right.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+That naturally leads you to more, you know, public critical infrastru- you know, like utilities.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yes, yes.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Other things. Is that something that you guys will also pursue eventually? Will that create, like, a new kind of BD type motion for you guys that you haven't necessarily exercised before? How does that work?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, it definitely would be new.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Yeah.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yes, those are things that are under consideration. How do we go to market, you know, if, you know, every, you know, power plant in the United States needs some type of protection, that type of thing. you know, we do In the Titan product we do mostly today sell through resellers. and, you know, that would be a question. You know, how should we do more of the, be the, more the reseller ourselves than other people.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Got it. Great. Oh, man. Time flies. I've been chatting-
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Wow.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+... the whole time. I'll make sure there's not questions from the audience before I continue on.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Are there any questions from the audience?
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+No? I can keep going. I have a list. Okay, Ethan, go ahead.
+## Speaker 3 | 
+With the Titan you just mentioned, like, you're going through resellers. Like, how much of a margin, you know, enhancement would that be if you're selling directly to customers?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Well, it's already the best margin product in the company. You know, I, you know, I don't know. I mean, in some way it could be close to the same or maybe a little bit better, but, you're probably gonna be taking on a little bit lower kind of integration work as part of that. Maybe overall, you know, if you said that business was, goes from $100 million-$200 million, the margin might be the same or a little down because now you're incorporating more services in it. I don't know what that looks like. It's, it's a great margin product as it is.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+All right, I'll do one more. International business. You guys had a great kind of, I think, motion around that, even before BlueHalo, and put a lot of work in there. Now with BlueHalo you've got, like we've talked about, a whole host of new products that you can now take to those international, kind of strongholds you've already established. What do you think you could be doing better, though? As well as you've done there, what, especially with all the, you know, just the new dynamics, let's say, around just company, other countries really taking, you know, more of their own destiny into their own hands. What do you guys think you should be doing in, you know, just better on the international front?
+What might we see in FY 2027 kind of in the story as well?
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Yeah. We're definitely adopting a strategy that gets us more in-country resources. You know, either, you know, BD or business development or technical resources. You know, some of these countries want some type of, you know, manufacturing, at least assembly type of operation in country. We're exploring all those alternatives. It wasn't as imperative for us before, you know, because, you know, we really had one main product we were selling internationally, Puma. Over the last couple years we've been able to sell Switchblades. Now we have a host of products we can sell into these countries, it makes sense for us to have a more localized at least sales and support operation versus a reseller network in the country.
+you'll see more of that in the next 12 months.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Great. All right. We're in the kind of red zone time, again, if there's any other questions. Otherwise, we'll let everybody head out.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Thank you, Trevor.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Thank you so much, sir.
+## Kevin McDonnell | EVP and CFO, AeroVironment
+Thank you.
+## Trevor Walsh | Senior Equity Research Analyst, Citizens JMP
+Appreciate it.
+Data Source: Quartr Last updated: Mar 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

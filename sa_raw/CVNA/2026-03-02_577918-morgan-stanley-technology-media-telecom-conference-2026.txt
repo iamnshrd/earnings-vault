@@ -1,0 +1,175 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-02
+## Speaker 2 | 
+Good. Everyone can hear us okay? All right. Welcome back, Ernie.
+## Ernie Garcia | CEO, Carvana
+Thank you.
+## Speaker 2 | 
+Thank you for joining us out here. Last time you were here was March 2024. Your stock price was around $70. Your units were growing 16% year-over-year. Fast-forward today.
+## Ernie Garcia | CEO, Carvana
+Exact same relative position today.
+## Speaker 2 | 
+Um.. To keep give us a little bit of sense of, you know, what was that turnaround like, and how do you keep that momentum going?
+## Ernie Garcia | CEO, Carvana
+Oh, wow, that's a big picture opening.
+## Speaker 2 | 
+Big picture.
+## Ernie Garcia | CEO, Carvana
+We could talk for hours and make everyone bored. It was... I think the most important takeaway from that, I think we've worked for the last, what has it been now? 13 years, 14 years to build a customer offering that's really different, and I think it's been a ton of work, and I think there's been a ton of good days, and there's been several bad days, and those were some of the good days along the way, but there were certainly bad ones that preceded it. I think, um... we've built something that we think is really, really different, that there's no, you know, obvious, um... comp to, and that, you know, if we keep doing a good job, we're gonna keep having really great results.
+I think we also are growing fast, and we've got a big operational business, which I think has good things and bad things, and sometimes along the way it means there's gonna be little bumps um... B ut yeah, in general, I think we're in a very similar spot to where we've always been, and we're just gonna keep going.
+## Speaker 2 | 
+All right. All right. Love the momentum. On the industry, what are you seeing in the used car market year to date? Have you seen any changes in supply or competition? How has consumer demand evolved? Delinquencies are high, but not rocketing and, yeah, any shifts that you'd like to call out?
+## Ernie Garcia | CEO, Carvana
+I think I'm gonna be a boring interview on this one too. I think nothing too notable. I think the way that we always try to define our market is that it's a huge market that's, I think, pretty static on average, and we think the reason for that is just massively fragmented, suppliers of, you know, dealers that are providing the service of selling cars to customers that have a very similar cost structure, no ability to absorb losses. I think there can be macro changes, but those macro changes tend to be relatively small 'cause people need cars. We see things, you know, maybe 6 months ago, I think credit was, like, a big topic. Today it's less of a topic.
+I think, you know, if we look over the last 15 years, I think, you know, supply has been a topic, demand's been a topic, credit's been a topic. There's all these different topics, but I think they tend to be relatively short-lived, and it just comes back down to how well we're re-executing and what's our customer offering, because the industry itself is so stable. I think we probably spend a lot less time super focused on macro than many other companies probably do. We just try to make our offering better.
+## Speaker 2 | 
+Great. And more... more near term, can you help us think through potential headwinds from the winter storms and then potential tailwinds from the tax refund season? Just any kind of commentary on how um... you're seeing that trend over the past month or so.
+## Ernie Garcia | CEO, Carvana
+I think as a general matter, like, we're probably a little more impacted by storms because we have logistics. If you have a storm in one market, you know, it like impacts cars passing through those markets. That's usually kinda more week-to-week impact with maybe like a tiny actual persistent conversion impact um.. I don't think there's anything too interesting there. I think like at the level of even month or two, I think you're unlikely to see huge things that result from the storm. It's a little bit of a headwind. It makes like operations a little bit tougher. Sometimes there can be extra expense 'cause we gotta move snow around, people have a couple inefficient days, I don't think those are things that end up being huge topics.
+## Speaker 2 | 
+Got it. And this is a big topic that I'm sure you're hearing a lot about, with your meetings today, but retail GPU, right? That was the big focus area coming out of the quarter. Can you unpack what's driving that? What are the main issues driving the managers not being able to control those reconditioning costs, and kinda talk through...
+## Ernie Garcia | CEO, Carvana
+Yeah
+## Speaker 2 | 
+What you've seen there.
+## Ernie Garcia | CEO, Carvana
+I mean, I think this is another one that I always think is, like, useful to put in perspective. I think if you go back and just like ask GPT or whatever you use to go summarize like the last, how long we've been public now? Nine years of us being public, there will be several moments where we have very similar conversations where I think we run into operational hiccups in different groups. I think the most common one historically has been recon. The next most common has been logistics. We've run into little hiccups, you know, all over the place, and I think, like I said, I think that's part of having a big, complex business where we have lots of people and things we're moving around.
+I wish that we had no bumps in the road ever, but I think we have, and we probably will again in the future. I think this is an example of that. I think investors are right to ask questions about is there something structural or is there something fundamental or do you cross some threshold where now this is like the new normal. I think there's several reasons why we don't believe that's the case. We believe it's kind of a down the middle operational issue. I think, you know, we had a number of sites that just didn't perform quite as well as we'd like and, you know, Q4 is a period of time when we're accumulating a lot of inventory. It's a period of time when there's a lot more holidays.
+There was some weather that, you know, matters a little bit. I think most importantly, we just had a couple sites that didn't, you know, execute as well as we would like as we were expanding number of sites.
+## Speaker 2 | 
+Mm-hmm
+## Ernie Garcia | CEO, Carvana
+... moving management around. You know, that is what it is. I think in the grand scheme of things, that probably won't be a huge central story, and I think our goal is to turn that into energy, which I think that team's doing an excellent job of today. I think there's no doubt in my mind that the last, you know, whatever, couple months have been the best couple months for that group in the last year plus. I think that's just because when you have a little miss that's, you know, clear, it gives you a little extra energy to go figure out what you can do better. They're, I think, handling it very well, and I think we're optimistic we'll resolve it pretty quick.
+## Speaker 2 | 
+When you speak to, you know, what specifically was driving that and how do you turn that around, what are the tools you've put in place? You've talked about software um... And w hat kind of timeline do you think about for getting that back up and running?
+## Ernie Garcia | CEO, Carvana
+I would say it's things that happen at a level of detail that I think is sometimes maybe like, not as exciting to talk about. Like, you know, for example, let's say like, Tolleson is the nearest inspection center that we have to Phoenix. That's like the one where if I'm going down there, I'm most likely to spend the most time there. In that center, our constraint has tended to be the paint booths. If in the morning, you know, a couple people who are assigned the paint booth don't show up, you know, ideally what you wanna do is you wanna find people that are downstream of the paint booth, and you wanna move them into the paint booth, and you wanna rebalance the whole system.
+You know, if there's too many people prior to the paint booth, you might wanna offer time off for those people. That's like a normal management, you know, process that just happens every day, I think that can be executed incredibly well or it can be executed in a way that is a bit imperfect and that causes bubbles to form and for us to get further out of balance. As bubbles form because you're, you know, accumulating cars prior to paint, you get more and more out of balance, all of a sudden you have, you know, less and less utilized labor and then people try to make up for it and push cars through, you have more stuff that, you know, fails QC or whatever else.
+I think it's stuff like that is basically what can start to happen in a facility. We're building tools now. We built tools for a long time to try to make all of the line level operators in any given functional area of the inspections that are more efficient. We've kind of relied on managers to basically, you know, make all of these game time adjustments inside the facility, kind of interline. I think now we're building more of that data into the system, and we're just starting to scratch the surface of taking more of the kind of logical part of that decision-making and pushing it into systems. A manager can kind of come in in the morning and get four bullet points of, like, this is exactly what you should do right now.
+The goal of that is to just kind of bring the floor of execution up. Whereas most of the line level stuff is about building the kind of ceiling up.
+## Speaker 2 | 
+So it's integrating into Carly, getting the managers up to speed on using that system.
+## Ernie Garcia | CEO, Carvana
+Yeah. building manager modules in Carly.
+## Speaker 2 | 
+Got it. Love it. Okay, financing.
+## Ernie Garcia | CEO, Carvana
+Yeah.
+## Speaker 2 | 
+Like you said, the auto credit fears flare up every now and then. Financing business had a great result in the quarter. gain on sale has been quite stable the past several quarters. How should investors be thinking about the opportunities and the risks with that business, and how does Carvana insulate that gain on sale and that financing margin from potential future volatility in auto credit?
+## Ernie Garcia | CEO, Carvana
+So I think financing is, I think it is inherently more volatile than other line items. I think it is less volatile than people think. I think when it is volatile, it tends to be, like, paired with, like, narrative moments that make it extra impactful. I think that looking at the historical actual results is a good way to evaluate what that volatility actually looks like. I think that volatility across time has been pretty low. I think that, you know, we did a deal immediately post-COVID when there was, like, real concern of, like, structural market breakdown in that kind of immediate moment post-COVID. I think our finance GPU that quarter was around half of what it was the preceding quarter and the quarter after it.
+I think, you know, many finance businesses went through 2008. You can look at, you know, what that looked like. I think for businesses that didn't hold a big credit book, like we don't hold a big credit book, you know, there was generally a reduction in the yield of originating finance assets, but it wasn't a massive reduction. I think in the, in the financial position that we're in now and where our business model is and the way it produces, like, contribution margin relative to our peers, we can absorb those moments, and still, you know, be in a really good cash position.So I think from our perspective of, like, business builders, the question is, do you wanna be in the finance business at all?
+I think for us that feels obvious for lots of reasons. Then I think it's how do you manage it as best you possibly can, and what matters is the average finance environment. So I think we're building the business to be the best it possibly can be across those or in the average environment. We think that we've got tons of cushion to be in a good spot in tough environments. I think there's still room for lots of fundamental gains, some of which are, I think, very straightforward and easy for investors to buy into, and some of which are less straightforward, but we'll be working on both types.
+## Speaker 2 | 
+Great. And so, last quarter you added a third financing partner on that other whole loan sales segment. Can you help quantify how much finance receivables are now guaranteed in offtake? And how do investors essentially think about those different channels, how you flex those channels as you continue to grow?
+## Ernie Garcia | CEO, Carvana
+Yes, we've got 3 agreements that are basically $4 billion each over 2 years, so $2 billion per year for each of those agreements. And then we have 1 $6 billion year-long agreement. So that gives us a lot of capacity. Then I think, generally speaking, the way that we are trying to manage that is I think, as we add these partners, first order, I think the simplest way to think about it is that they're basically structured to be market deals, but they're market deals that are recurring. They're doing the same work every quarter. We're doing the same work every quarter. We're kind of, you know, getting accustomed to working together, and it just makes it easier to kind of keep moving things along.
+We still have access to and access the securitization markets. And then, I think over time, there's room for us to add additional partners as well. I think there's been a recurring question since day one. It's like another one that's fun to go back and just kind of like look at all the transcripts and like, you know, evaluate the past as potentially prologue to the future, where people have asked all these questions about, you know, will finance GPU go down as you have to grow this and you have to sell it to, you know, more finance buyers? Is the residual market large enough to support you and everything else?
+As a general matter, what we've seen is as we keep getting bigger, we're able to work with more counterparties, who enter the market, and we've seen our cost of capital go down. I think that, you know, there's reason to be hopeful that those sorts of trends can continue over time.
+## Speaker 2 | 
+Yeah. We've gotten questions about do you ever saturate the ABS market with the level of growth that you see?And I think you continue to prove out that you do add these alternative sources of funding. Is there any difference in profitability across these channels?
+## Ernie Garcia | CEO, Carvana
+There's little variation, but not materially. Yeah. Generally speaking, I would say it's all very similar.
+## Speaker 2 | 
+Shifting to more medium term, longer term on your guide, 3 million units, 13.5% Adjusted EBITDA next 5-10 years. Now it's 4-9 years. On the unit side, how do investors think about bridging to that 3 million? Are there any gating factors logistically, labor-wise? Essentially, what controls your level of growth until once you get there?
+## Ernie Garcia | CEO, Carvana
+I think the way that we think about it is we've got to. On the demand side, we gotta make sure we keep delivering high-quality customer experiences, and as long as we do that, we think the demand will be there. I think on the supply side, we've gotta make sure we grow the system, and I think that's really hard because you've got all the reconditioning, and all the logistics, and the last mile, and all of the other kind of labor-intensive customer care things we have to do. I think we put a ton of effort into just making sure that we're scaling that system economically and efficiently and at high customer experience quality.
+But we think that's the number one gating factor and that will be something that will be effortful the entire time through.
+## Speaker 2 | 
+And on the EBITDA margin guide, how do we think about bridging those extra 200 basis points of margin expansion? Is there room for gains in GPU? Is it all fixed cost leverage? What are the levers you can pull to get there?
+## Ernie Garcia | CEO, Carvana
+I think.
+## Speaker 2 | 
+Is there upside to that, I guess?
+## Ernie Garcia | CEO, Carvana
+Yeah. I think so from where we are, you know, right now, I think um... if you just take reasonable fixed cost leverage assumptions, you can get close, but probably not quite there, depending on how much leverage, you know, you're assuming. Then I think um... if we look at things that we've shared in the past, like our marketing spend in more mature markets relative to less mature markets, um... if we just had kind of marketing spend that's the same in all markets as in our more mature markets, that would get you the rest of the way. Then, we still think that we've got, you know, lots of fundamental gains in every GPU line item, in every expense line item.
+I think our plan and our goal is to go unlock those fundamental gains, some of which has come from scale, some of which come from product enhancements, some of which come from things that are sort of related to scale, like adding more inventory pools. Go unlock those fundamental gains and then pass that value back to customers, which will just be additional fuel for growth. I think what's exciting about that is pretty much all of the growth that, you know, we've seen in Carvana basically across our life, but certainly, you know, for the public period, has been happening with, like, a, an offering quality that is pretty consistent. We haven't really changed our, just our competitive stance relative to market.
+I think, if we execute the way that we hope to and unlock the fundamental gains that we hope to, I think we have the ability over the next several years to actually improve our economics relative to market. We're already in a great spot, but I think we can even get better. Ideally, you know, that separates us further. I think in real life, there will be execution, will be, like, another variable in that equation. Our goal is gonna be to make linear progress and keep getting better everywhere.
+## Speaker 2 | 
+On that ad spend, you spoke to, you know, it varies across markets. If you made it like for like with your more mature markets. I guess, how do you think about customer acquisition costs, and growing your advertising spend on an absolute basis as you continue to scale? Is it brand awareness or any other decisions that go into that?
+## Ernie Garcia | CEO, Carvana
+More recently, we've leaned more into brand awareness. I think like the, the unit economics of marketing work, just like the, the variable customer cost is low relative to the contribution margins that we see. You can economically defend a decent amount of spend, but I think we've also, generally speaking, we've been more constrained on the supply side, so we haven't, like, fully leaned into just, like, what the math would tell you to do there. Then I think more recently, we've invested a little bit more in brand with the idea being that it's. Brand is, I think, inherently much harder to, like, reduce to an ROI calc than kind of like direct marketing. It's also something that has like a long tail and probably a bigger potential payoff.
+We've invested more in that 'cause we think. Like I said earlier, our view is if we deliver great customer experiences over and over again, and you just get people to a place where they're confident that if they buy from Carvana, they're gonna get a good experience and a good car, and they don't have to worry that they'd make a mistake, that there's gonna be a lot of demand. I think, you know, generally speaking, the most important thing we can do is deliver great experiences. Another thing we can add on top of that is tell our story through trusted voices. I think we've done a little bit more in brand spend.
+## Speaker 2 | 
+On capital intensity, you spoke to being somewhat supply constrained, right? Your level of growth is contingent on how quickly you can grow logistics and fulfillment and reconditioning. You have real estate capacity for 3 million units. As we get to that 3 million unit mark, you have to think about growing beyond that. You are quite capital light now in terms of your CapEx as a percentage of sales. How should investors think about once you get to that stage of adding capacity? Whether it's greenfield CapEx, brownfield, buying something like an ADESA, just helping frame what are the guardrails to add more capacity beyond the 3 million?
+## Ernie Garcia | CEO, Carvana
+I think the return on capital is gonna be really, really good. I mean, so like if we think about like a large-scale facility being able to produce, you know, on the order of 60,000+ cars per year, and then you think about the contribution margins that come out of that on an annualized basis, and then you compare that to the cost of building those facilities, like, math is not gonna be the issue. The question is just gonna be, you know, can we build the rest of the machine out to sustain, you know, that kind of volume? Can we do it while delivering good customer experiences? I think the good news is we've kind of already laid half the tracks for our path to $3 million in CapEx.
+## Speaker 2 | 
+Mm-hmm.
+## Ernie Garcia | CEO, Carvana
+The CapEx has even higher return until you get there. The return is gonna look very good. As long as you believe that, you know, our economics are in a similar spot to where they are today on a contribution margin basis and demand is present, I don't think that's gonna be like a math problem. That's gonna be an execution problem.
+## Speaker 2 | 
+To that point, I guess there are inefficiencies or efficiencies when you think about acquiring an existing site versus building, let's say, an IRC from the ground up. Are there different levels of capital intensity that you think about there, or is that not something you really looked at this stage because you still have a lot of runway?
+## Ernie Garcia | CEO, Carvana
+I think there is. The more a facility is ready to go, the more that there's already... You'd be surprised, there's a lot of cost in just putting down the asphalt and you know, building out buildings. You can build a lot inside of an existing building. The more that's already built, the easier it's gonna be on, like, an incremental CapEx perspective. The sum total probably doesn't vary by enough to matter in that equation either. I think it's more about do we execute well, is the demand there, and can we find sites? It's less about the math afterwards.
+## Speaker 2 | 
+The short report. I have to give you another opportunity to address the room.
+## Ernie Garcia | CEO, Carvana
+You make it more effective every time you bring it up.
+## Speaker 2 | 
+It's something we still get questions on.
+## Ernie Garcia | CEO, Carvana
+Yeah.
+## Speaker 2 | 
+I know you've addressed it, but just giving you another opportunity to clarify. Related party transactions, Carvana does not sell to who?
+## Ernie Garcia | CEO, Carvana
+We don't do anything manipulative. We don't do anything that's not disclosed properly. I don't know how to say it. It's like, I've got 3 kids, and their arguments oftentimes reduce to, "You're a liar." "No, you're a liar." That's basically where we find ourselves in these things is like, I don't know what to do because there's not words we can say that fix it. I don't know. We're gonna keep doing our thing. You know, please keep paying attention. If you think we're doing those things, you should definitely sell the stock. If you don't, when other people do, maybe check it out.
+## Speaker 2 | 
+I had to ask.
+## Ernie Garcia | CEO, Carvana
+Yeah, no, we're good.
+## Speaker 2 | 
+Okay, another big topic is AI, right? We're at our tech conference. We have a lot of big players here. There's been a lot of market concern around Agentic AI disintermediating these e-commerce winners. Carvana seems to have been bucketed in that category. Why is that wrong? Why should Carvana not be considered as one of those kind of incumbent players that lose that in-information advantage?
+## Ernie Garcia | CEO, Carvana
+Oh, man. Incumbent? Oof.
+## Speaker 2 | 
+Incumbent.
+## Ernie Garcia | CEO, Carvana
+I was kind of okay with, like, the theoretical, conceptual market-doesn't-like-you thing, but calling us an incumbent, that really stung.
+## Speaker 2 | 
+Winner. E-commerce winner.
+## Ernie Garcia | CEO, Carvana
+I mean, I think investors are smart, and you guys are well positioned to figure these things out. I think the way that we try to think about it is we think that we exist in a very large market where away from us, there aren't deterministic systems that are well-positioned to benefit from AI. We think that we exist in a very big system where away from us, there's not many cultures that are well-positioned to rapidly adopt these different technologies. We think that, you know, many of the conversations we've had over time that end up being limiting conversations and much of what we've talked about so far in this conversation are, like, real physical world problems where you've got people and things you gotta move around. We think we're really well-positioned.
+I think, the last thing I would say is that our market is very, very big, even relative to our dreams. Even in worlds where, like, there is an imagined outcome of like, a couple hyper-competitive players, you know, competing away some meaningful portion of the margins that exist, there can't be that many winners in that game, and it's a 40 million a year, you know, a year unit market. I think in all the, like, reasonable cases that we can think of, we feel like we're in a good spot, but that's for investors to decide, and over time, it'll get figured out.
+## Speaker 2 | 
+All right. Autonomous, another big topic. We're here in SF. There's Waymos on every other block. How does the evolution of autonomous driving impact your business, right? There's two angles you can kinda go about it with it. There's the idea that you have this physical infrastructure and reconditioning capabilities that can make you a fleet manager partner. There's also the argument that we've heard a few times that the growth in shared autonomy can then limit the need for buying a car over time. That 40 million per year used car TAM no longer being the TAM is that argument. How do you think about that future?
+## Ernie Garcia | CEO, Carvana
+We've got a dog in the fight, but, like, I think our view is that that future is, maybe less likely than people presume. I think several reasons for that. One reason is it seems increasingly likely that, A, autonomy will come to pass, and B, that it may not be that expensive, on like a per unit basis because, the underlying, like, set of, sensors you need are not that expensive, and there may be many people that have technology that is above the bar as we move forward. It's not like there's a market concentration, issue that arises.
+I think when you start to think about, you know, consumers consuming miles and you start doing the math of like, what does it cost to own your own autonomous car versus to rent a mile out of a fleet? At least in all the modeling that we've done, it doesn't look like it's very expensive to own your own car. We think, you know, personal ownership will still be a major part of this for a very long time. I think you get to a spot where I think even in like really, even in very tangible early steps of that game, that I think are easier to place like higher conviction bets on today, things like, long leg transport.
+If logistics get relatively less expensive, our business model had a big trade net that is logistics for real estate. You know, 98% of the market is on the real estate side of that bet, and we're on the logistics side of that bet. That's like a relative win in like a very tangible, easier to extrapolate near-term way. We'll see how it all plays out, but I think that's at least a subset of our views.
+## Speaker 2 | 
+You have the capability to recondition an electric vehicle. You've put out a lot of work on how much higher your penetration is in selling EVs relative to the used car market. I guess, how do you invest in recondition and machinery and tooling?
+## Ernie Garcia | CEO, Carvana
+Yeah.
+## Speaker 2 | 
+for those advanced vehicles?
+## Ernie Garcia | CEO, Carvana
+I think we already are making those investments, but I think a decent amount of the work doesn't vary across EVs and ICE cars. Like, there's most cosmetic things that happen, you know, windshield replacements, tire replacements, et cetera. There's a lot of the work to just get a car in great shape that doesn't even change across, you know, the two, you know, types of cars. I think a lot of it we don't have to necessarily change, and then a lot, you know, we are making investments in making sure that we've got the ability to charge cars rapidly, and we're building out um... the capacity to monitor, you know, or we have the ability to monitor, um... charge across all these cars 'cause that's something that comes up as well when you start selling more EVs.
+Is like, you know, EVs, the battery runs out if you leave it parked, whereas, like, you know, a tank of gas stays full if you leave it parked. You have to build out different monitoring techniques, but nothing too deep that we have to invest in.
+## Speaker 2 | 
+TAM expansion. A lot of people do the 40 million used cars versus what share does Carvana get of that used car market. um... But a s you've grown so rapidly and proved out your technology and logistics and vertical integration capabilities, are there natural adjacencies you might consider, whether that's new cars, you've acquired a few dealerships over the past year, you know, reconditioning or servicing, any other areas that you would think about getting into?
+## Ernie Garcia | CEO, Carvana
+I think, I think the opportunities around us feel really, really big, and I think part of where we try to apply some discipline is just thinking through what is the most efficient thing for us to work on. I think we're in a place right now where we're 1.5% of the 40 million unit market. I think even that market, it's not clear that 40 million is, like, the number that we should be thinking about in the long run. If we can make things more efficient and more fun, people can turn over cars faster. If, like, we enter a world, you know, that has benefited, you know, in all these ways by AI and people are relatively wealthier, there's a chance people wanna, you know, turn their cars over more.
+I think, and we've got enormous, you know, contribution margins at this point per unit that we produce. I think trying to stay focused on that and just scaling quickly is part of what we're trying to do. There's clearly opportunities for TAM expansion, for vertical integration, but we're trying to pick places there and not do too much at once, just 'cause we've got, I think, such a simple and clear and scalable opportunity right in front of us.
+## Speaker 2 | 
+Absolutely. Any final remarks or messages you have for investors? What are you most excited about for this year or for the business in general?
+## Ernie Garcia | CEO, Carvana
+Oh, man. I think if we don't win in a major way, it's 'cause we messed up. We're supposed to win. We're in a winning position, and then we just gotta go do it.
+## Speaker 2 | 
+All right.
+## Ernie Garcia | CEO, Carvana
+Cool.
+## Speaker 2 | 
+All right. Cool. Thank you.
+## Ernie Garcia | CEO, Carvana
+Awesome. Thank you, guys.
+## Speaker 2 | 
+All right. That's it.
+## Ernie Garcia | CEO, Carvana
+Appreciate it.
+## Speaker 2 | 
+Thank you.
+Data Source: Quartr Last updated: Mar 2, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,181 @@
+TITLE: Citiâs 2025 Global Technology, Media and Telecommunications Conference
+DATE: 2025-09-03
+## [Analyst] | Company
+Dan Jedda, CFO of Roku, with us here today. Dan, how are you?
+## Dan Jedda | CFO and COO, Roku
+Great. Thanks for having us. Happy to be here.
+## [Analyst] | Company
+Thanks for coming. Yeah.
+## Dan Jedda | CFO and COO, Roku
+Love coming to New York.
+## [Analyst] | Company
+Yeah, New York's great. Weather's not bad.
+## Dan Jedda | CFO and COO, Roku
+Weather's not bad. The U.S. Open's going on.
+## [Analyst] | Company
+That's right. That's right. I want to start with just, this is maybe a dumb question because you guys have been around so long. You play in a pretty unique space. I would just love for you to start with a high-level overview of how you would describe Roku's strategy and how you're currently executing against that strategy.
+## Dan Jedda | CFO and COO, Roku
+Yeah. What a great question because I agree, we are unique. There's like no real peer that we point to that's out there. Let me talk a little bit about the strategy because I do think the strategy is really important to understand and then where we are on that strategy. We have a strategy of get scale, get engagement, and then monetize. Let me just spend 30 seconds on what that means. With scale, it basically means become significant in broadband penetration, which we've done. We're over half of all broadband households in the U.S. We have incredible scale in Mexico and in Canada, and we're growing scale in Brazil and Latin America and in the U.K. Once you have scale, and as you get scale, you focus on engagement because you want people to be engaged with the operating system, with the product.
+The second prong of our strategy is engagement. With that, we're also very far down the line. We just put out a press release today that talked about that over a fifth of all TV viewing is on the Roku platform. Over a fifth. That's combined linear plus digital is on Roku. Within the digital, you see the gauge reports, we're 5% of overall streaming. Over 100 billion hours, incredible engagement on our platform. We have scale, we have engagement. That stat I gave is for the U.S., like I said, a fifth of all viewership happens on the Roku platform. That's incredible. No one else is close to us in that. Now that we have scale and engagement, the focus is on monetization. I would say that that's really been the focus over the last two years.
+The monetization piece of the strategy is now that you've got broad scale, broad penetration, you have engagement with the platform. Now we focus a lot on monetization. That's where we're in early innings of our strategy. That's what you've seen happen throughout last year and this year. As we exited 2023, we got our cost structure in order. We right-sized our workforce. We got rid of a third of our footprint. We really honed in on cost.
+## [Analyst] | Company
+Footprint, you mean real estate footprint? Sorry.
+## Dan Jedda | CFO and COO, Roku
+As we exited 2023, we made it very clear we're now focusing on the monetization, the platform revenue growth, which is the monetization of our overall operating system. With that focus, we have two main activities within platform. It's advertising and it's called content distribution or streaming services distribution, which is by and large subscriptions and content distribution agreements. Our focus over the last two years has really been on that monetization. That's where you're seeing the overall growth in platform. That's where you've seen our pivot to profitability. We exited 2023 just barely profitable for the full year on an adjusted EBITDA basis. I believe it was $4 million. We're now on track. We just guided to $375 million of adjusted EBITDA. In two years, we've really been able to grow our platform. Our cost structure is right-sized.
+Our margins are strong, and we're generating a lot of positive adjusted EBITDA and free cash flow. I'm sure you'll get into more questions, but that's the overall strategy. Like I said, we're very far along on scale and engagement, and we're really in early innings of overall monetization, which makes it a very exciting time to be at Roku.
+## [Analyst] | Company
+Can I go back to those engagement numbers? Just so I understand what you said, the 20% of all viewership happening on Roku, that is a measurement of, I have a Roku device, but I might be watching Netflix or I might be watching YouTube. That's like the umbrella term.
+## Dan Jedda | CFO and COO, Roku
+That's the overall engagement of us as a platform in terms of our streaming on our platform. We have multiple ways that we monetize on our platform. We don't only monetize through ads on TRC . We have multiple other ways that we monetize, including with our content distribution partners.
+## [Analyst] | Company
+Understood. When people look at the gauge and they see that 5% number, that number includes both The Roku Channel tile and other engagement. Fill in the pieces for that.
+## Dan Jedda | CFO and COO, Roku
+That 5% number is The Roku Channel now. The reason why The Roku Channel is so significant in terms of, in this case, the Nielsen gauge rating is because we ingress into it in multiple fronts from our homepage into The Roku Channel. Less than 20% of actual ingress, the entry point into The Roku Channel, is through The Roku Channel app. We have so many different ways to enter The Roku Channel, which shows the power of our platform. I get asked this question, what is the big asset that Roku has? It is the power of the platform. When you turn on your TV for that over 20% number I just gave on overall engagement in TV viewership, you start basically 99% of the time on the Roku home screen.
+## [Analyst] | Company
+Sure.
+## Dan Jedda | CFO and COO, Roku
+We control that UI, so we can nudge people in certain directions based on the content we show. We have a left nav that has multiple sports, multiple zones, a sports zone, a home and garden zone. When the Olympics are on, we have an Olympic zone. We have a content tile at the top, which is a machine learning-based content row that is personalized, so we can push people into subscriptions that we monetize or The Roku Channel based on content we think you'll like. We have so many different ways to ingress into The Roku Channel and into subscription products that we monetize.
+## [Analyst] | Company
+Okay. On the monetization part of your strategy, you talked about advertising and streaming were the two high-level categories. I want to talk about advertising. Over the last few years, I think you've expanded quite dramatically the number of DSPs that you're willing to partner with. Can you talk about that? I think you've said in the past it doesn't hurt margins. It feels like all upside. Can you just talk about what this, I mean, many years ago, I think you bought your dataxu, I believe it was called. This is a pretty big shift in your strategy in terms of embracing these demand partners.
+## Dan Jedda | CFO and COO, Roku
+Correct.
+## [Analyst] | Company
+Talk a little bit about that. How is that integral to your monetization?
+## Dan Jedda | CFO and COO, Roku
+It's a great question. It goes back to that focus on monetization. Again, as we focus on this overall monetization, we said back in, we said, you know, we could drive a lot of volume through our own DSP, which is through the dataxu acquisition. It was a product that we called OneView. We felt, as we looked at that, and that was the only way you could, in essence, come in and buy off Roku media, was through our own DSP. We were not integrated with other DSPs back in 2023. As really a strategic pivot, we said, you know, if we want to be really open and interoperable across the media network, we need to be more open to other integrations with other third-party demand-side platforms and supply-side platforms as well, SSPs.
+We changed strategy and we said, rather than forcing advertisers to come through our DSP, let's meet advertisers where they want to transact in whatever way they want to transact. It was a big pivot internally. In hindsight, it was really a no-brainer. At the time, there was some discussion on it, but it was a really smart thing that we did because we ultimately then said, hey, let's integrate not with one, not with two, not with the biggest, not with certain ones that specialize. Let's integrate with all of them. Let's be open and let the advertiser decide where they want to transact and be as deeply integrated as the DSP is willing to go with us. Every DSP has different areas that they're trying to integrate.
+With The Trade Desk, it was adoption of UID 2.0, which is a hashed email, to make sure that they can recognize the customer and, of course, push as much media our way as possible. With Amazon, it's a different integration, which I'm happy to talk about. We're integrated with all the DSPs. Everyone says, are you going to integrate with more? We're integrated with all of them. Now we'll go deeper with many of them. We're integrated, as I mentioned, The Trade Desk, Amazon, with AppLovin's world. We're integrated with Yahoo. We're integrated with the SSPs. We'll continue to be integrated because we want an open and operable platform of which the advertiser can transact on any point of the CPM demand curve. The ultra-premium down to the lower-priced CPMs, we're going to operate across the entire demand CPM curve, which is really different and unique.
+Most don't do this. We do do it. We have the inventory to do it. We have the inventory to operate at all prices. When I hear a lot of CPMs are going down, that doesn't concern me because that'll just mean more demand comes our way and we have plenty of inventory to sell.
+## [Analyst] | Company
+I've heard you use that phrase before in terms of, you know, set your pricing so you capture the entire demand curve. Why do you think others have not pursued that strategy? What is it that makes that right for Roku but might be wrong for others?
+## Dan Jedda | CFO and COO, Roku
+Yeah. First of all, I do believe that there's a supply constraint for some publishers out there. They'll just run out of inventory during peak times. I don't have actual data on that, but from what I can tell and the way we look at internal demand, I'm pretty certain I'm right on that. There are supply constraints. Others play so much in a premium space. They want to protect CPMs at all costs, so they're going to try to hold CPMs higher.
+## [Analyst] | Company
+Is that because they have, like, a linear business they're trying to protect?
+## Dan Jedda | CFO and COO, Roku
+It could be that. It could be that they just have ultra-premium, that the bulk of their content is ultra-premium CPM. That's how they're going to play. We have the whole board. We have, again, the whole gamut across the demand curve that we can and do play in. If you want an ultra-premium type experience, you can come and advertise on Roku City, for example. So many viewers look at Roku City, or you can be on our homepage. I'm going to go all the way down to the low end of the CPM demand curve. Maybe you're an app install and you want, you know, you're only willing to pay $4 or $5 CPMs at the low end based on an app install. We're going to play in that space and then we're going to play, we play in every place in between.
+A lot of it is based on what signals you get on the exchange, how the auctions work. This is where measurement comes into play. This is where signals come into play. This is where our first-party data helps us out a lot. It allows us to play in all these different aspects of the CPM demand curve.
+## [Analyst] | Company
+Okay. Presumably, the pricing into that sort of, you know, being flexible on the price must be, the goal must be to get your utilization rates up or your fill rates up in terms of unsold inventory. What can you share with investors, if anything, about what your fill rates were once you started pursuing some flexibility on CPM pricing, where your fill rates are now, and where could they go?
+## Dan Jedda | CFO and COO, Roku
+Yeah. It's a great question. One of the benefits of, as I mentioned, having so many entry points or ingress points into The Roku Channel means our hours in The Roku Channel are growing. I think we stated that they're growing in excess of 80%. They're growing very strong. They probably won't stay at 80%. That's a very high growth rate, but they're going to be significant double-digit growth rates. At least I believe that when I look at the numbers. Remember also we're the number two app on the platform in the U.S., The Roku Channel. Not number five, not number four. We're the number two app on the platform.
+There is an incredible amount of impressions that we have available to sell through TRC and then, of course, what we call our media network, which is outside of TRC on our platform that we can sell ad inventory against. Because we have such high growth, we are not sold out. Quite frankly, it's not that difficult to create more inventory because we control the UI. I don't need to go spend a ton of money on content to go get more inventory. I can use the UI to direct people because we have great content in our FAST channels, in our direct license business. We even have Roku Originals, which do very well. It's not difficult or expensive for us to create more supply. When you talk about sell-through rate, no, we've said in the past we're roughly half sold out. It tells you our sell-through rates.
+We're very specific on how we optimize. We fill the highest gross margin impressions first. We have campaign goals that we have to hit, of course. We have algorithms that basically maximize the campaign performance and the gross profit of the ad campaigns. I mentioned we're in that around half sold out. We're growing very fast on supply. Good news now, we're growing very fast on demand. What's the theoretical max? I suspect it's somewhere 70%- 80% is a theoretical max on sell-through rate. I've really never done that math, but I've never had to do it. My point on this is I don't focus so much on sell-through rate as I do on, of course, the overall demand that we're driving because, again, it's not that difficult for us to create more supply.
+## [Analyst] | Company
+Understood. Can I ask another question on advertising where I get a little bit confused? I hear a lot of investors on the buy side say, oh, look at all these linear dollars, you know, that's really good for CTV ad trends. Everyone's watching the growth in social media, right? I get a little bit confused about how marketers think about what CTV advertising is. Do they view it as an internet channel and therefore it's performance-based and they put it in the social media bucket? Or do they put it in the linear TV branded advertising? I don't need, you know, someone to install an app or take an action and it's really more brand-based. Where do you think we are today and where would you like it to go?
+## Dan Jedda | CFO and COO, Roku
+That's a great question and that's one we discuss a lot because I do think it matters. You're right, of course, linear was all brand-based, very difficult to measure despite the MMM models and the attribution models. It's very difficult to measure true-on performance. CTV at first was probably more branding, more big, but it's become more measurable. I think the DSPs have become really good at this. I think Amazon as a DSP will be very good at, of course, that measurement. When we match our first-party data up with external sources of measurement with companies that we integrate with, companies like iSpot, we can actually measure performance on it. I do believe this whole market is shifting to primarily be a performance-driven market.
+## [Analyst] | Company
+You think it's shifting? Okay.
+## Dan Jedda | CFO and COO, Roku
+I do. I think that the programmatic side of it, whether it's one-to-one, one-to-many, whether it's an actual campaign goal of reach, will still have a performance or the auction itself where people are willing to bid up to a certain amount because they know how the impression is going to perform. I think this whole market shifts to primarily performance. I think you'll have the ultra-premium space, the football games and the original content, or in our case, the Roku City or home screens that will primarily be for those brand budgets, don't get me wrong. With that will be required media spend, but I think the bulk of this market shifts, I think 75% of it shifts to programmatic with a measurement component within the programmatic space.
+## [Analyst] | Company
+Interesting.
+## Dan Jedda | CFO and COO, Roku
+I actually kind of think that 75% is very close. I think it's going to be soon.
+## [Analyst] | Company
+You think of all the advertising sold on Roku, you think 75% of that relatively in short order will be performance-based advertising?
+## Dan Jedda | CFO and COO, Roku
+Not just on Roku. I think in general.
+I think in general that 75% of the market is going to be being sold through programmatic pipes that have a measurement component to it.
+## [Analyst] | Company
+Okay. You're including all advertising just sort of writ large.
+## Dan Jedda | CFO and COO, Roku
+All digital advertising.
+## [Analyst] | Company
+All digital advertising.
+## Dan Jedda | CFO and COO, Roku
+There's no way to do that with linear. I think because of that shift, the switch from linear to digital is going to become even more prevalent and possibly even speed up. It's not just that. It used to be, you know, live sports were the last holdout of linear. I was just thinking about this the other day, probably three years ago, maybe three years ago, the bulk, all you had to, all of NFL was available on linear. Now, I think almost every game is now available on digital. I think something like 20% of the games are only available on digital. Think about that. That is a huge shift from three to five years ago where only a certain amount was only available on digital. If you think of Thursday Night Football and then the exclusive games.
+That is a big positive to shift the linear, to continue to shift the linear advertisers over into CTV. You add on performance where you can measure and/or have campaign goals that you either hit or don't hit. I think the winners in this space from a publisher standpoint are going to be the ones who are the most performant.
+## [Analyst] | Company
+Right. Okay, that makes sense.
+## Dan Jedda | CFO and COO, Roku
+I think Roku is in a great position given our first-party data and our overall scale.
+## [Analyst] | Company
+Okay, great. I'm going to shift gears. I'm going to still stick on ads, but I want to talk about Roku Ads Manager, your self-service tool. It seems to have gained pretty good traction with small and medium businesses. I'm assuming that SMBs represent a very small portion of your advertising customers, but maybe I'm wrong.
+## Dan Jedda | CFO and COO, Roku
+You're not wrong because we literally have launched this six months ago.
+It's already picking up steam. I'm personally very excited about it, and let me tell you why. The SMB market has been really shut out of the overallâI can't say linear because there are localâbut the broader linear and much of, I mean, it was pretty much shut out of all CTV. What you had is all those budgets being focused on performance, which is really social and search for all intents and purposes.
+You know, different, there's different studies that have the markets at $60 billion or $100 billion. I'm just going to say it's somewhere between $60 billion and $100 billion in the U.S. Now for the first time, those budgets are available in CTV. How are they available? It's actually very cool because now there's self-service products like Ads Manager out there where in a couple of clicks, you are running a video campaign. It's very specifically geo-targeted for you with campaign goals similar to what you could get in the performance market, which is very, by definition, performance-driven.
+## [Analyst] | Company
+Sure.
+## Dan Jedda | CFO and COO, Roku
+You can get that same level of engagement and performance metrics. The holdout was the reason why you couldn't do it is one, you either didn't have access to an agency, you were too small, or you didn't have access to a DSP and you can't, and you certainly can't make a video commercial out of it. Now, because of Gen AI, you can do that in seconds. I mean, you can be up and running in minutes on CTV now because of these self-service products that do the same thing on performance-based. That is very exciting. It is really about making sure the UI is super easy and super simple to use. Of course, marketing to make sure you're aware of this because the performance is there. I mean, we have incredible ways to measure these performances. We can cookie sites.
+We can do APIs with measurement companies to do causal lift analysis. We can do amazing things for these SMBs. It's just getting them to try it. Once they try it, I've read some studies. We're doing our own research on this, but I've read some studies on this that once a small and medium-sized business does come and try, 15%- 18% of share wallet stays. Imagine that that budget shifts over if that were to happen.
+## [Analyst] | Company
+Interesting.
+## Dan Jedda | CFO and COO, Roku
+You're having a significant shift of the performance budget come over into CTV. That is another tailwind in addition to the linear budgets for the big advertisers coming over. No longer is CTV going to be about the top 200 advertisers. It's going to be about 100,000 advertisers.
+## [Analyst] | Company
+Do you think this is, should investors think of this as some ad dollars that would compete with local TV station dollars, or think of this more as I'm just a small business, I'm putting an ad targeting people, but I'm not trying to target a particular DMA or geo?
+## Dan Jedda | CFO and COO, Roku
+It's going to be, it's exactly what you're going to do. If you are a, if you have a, you know, several regional car dealerships, you might want to target a geo, you know, a geo-targeted location. You may want to measure site visits and/or, you know, emails and all that. You can be up and running in terms of doing that. That is likely not going to be the local TV. It could be, that's likely going to be the marketing that they were doing in the performance market with, you know, keyword bidding and/or social media, you know, those sorts of things.
+## [Analyst] | Company
+Okay.
+## Dan Jedda | CFO and COO, Roku
+They're still going to do that, of course, but now we've put out an entirely new way for them to market that showcases what everybody wants, meaning video.
+## [Analyst] | Company
+Yep.
+## Dan Jedda | CFO and COO, Roku
+Gen AI can create this video in seconds now. We have a Gen AI product that does it. You can also use third-party companies that do this. It's so simple to do.
+## [Analyst] | Company
+Okay. I'm going to shift from advertising and go over to subscriptions for a second if that's okay. Last quarter you closed on Frndly.
+## Dan Jedda | CFO and COO, Roku
+Yes.
+## [Analyst] | Company
+Can you just remind investors what Frndly does and why is that integral to your strategy? Because I certainly, it wasn't on my bingo card that you were going to acquire Frndly at the end of the year.
+## Dan Jedda | CFO and COO, Roku
+Yeah. So Frndly is, you know, what you call a virtual MVPD or a skinny bundle of channels. It's got, it's over 50 channels for a very good price point to enter into. It's like, it's got Hallmark, it's got History Channel. I think we just added A&E. It's this bundle of channels that's at a, it starts at a $7 or a $6.99 price point. It's very inexpensive for those who don't want to pay for the full cable bundle but want to see Hallmark Originals around the holiday or anytime for that matter or who want to watch the History Channel or who want to watch A&E. The reason why we liked it is that one, it's a growing business. It's not in decline. It was growing.
+We think we can accelerate that growth for the same reason we talked about on The Roku Channel is our control of the UI, our power of the platform will allow us to accelerate that growth because we can integrate Frndly into our search results, into the home screen, into the left nav, into The Roku Channel experience where all the content is embedded within TRC. Then you can go subscribe. It's basically using the same power that powers TRC or the same assets that power TRC to power owned and operated subscriptions and non-owned and operated subscriptions. Now that we own and operate one, we can actually, you know, integrate in multiple different ways. Like I said, imagine where it's embedded all throughout the search experience Frndly will.
+Again, like Hallmark pops up, you know, you sign up for Frndly on our platform and now you're subscribed at a really reasonable price point.
+## [Analyst] | Company
+Okay. I'm going to shift gears and I'm going to go back to your original point about first we want to build scale and ask you a question about international. This is something that I've never really understood. You guys were the innovator in this whole space, leading market share. I always thought the dominant market share that you have in the U.S., Canada, Mexico, that we would have seen five years ago, seven years ago, just release after release after release of Roku expanding into Germany, expanding into Japan, expanding. You mentioned in your opening remarks you're making progress internationally. It just feels like this isn't really a globally scaled platform, but it should be.
+It feels like I always feel like I'm missing something either in the tech stack or just something that I don't understand about the industry that makes it more difficult maybe to expand internationally than I would have thought.
+## Dan Jedda | CFO and COO, Roku
+Yeah.
+## [Analyst] | Company
+Can you unpack it?
+Okay.
+## Dan Jedda | CFO and COO, Roku
+Great question. First of all, we are number one in the U.S., Mexico, and Canada. I do believe we'll get there in Brazil. We're doing certainly very well in Brazil. Those are areas where we, like the U.S., could take advantage of the first mover, you know, first move, first market mover.
+## [Analyst] | Company
+Yep.
+## Dan Jedda | CFO and COO, Roku
+Simply because, you know, Anthony and the team were very quick to realize this market when no one else was talking about it.
+What an operating system could do. We've spent a lot of money to become number one in the U.S. I've said this, like we've spent billions of dollars to become number one in the U.S., and we'll stay number one in the U.S. I have complete confidence in that. Some of these other countries are just much more entrenched. It's not as simple as going out and just getting started in those. We'll look at that, and we may launch new countries. I'm certainly not saying that's off the table. Our focus right now is on growing these countries where we already are well down the path of scale.
+## [Analyst] | Company
+Okay.
+## Dan Jedda | CFO and COO, Roku
+Because we've got, like in Mexico, we've got scale, we've got engagement. TRC is in Mexico. Subscriptions are starting to do well in Mexico. What we don't have is an ad market that's really pivoted from the traditional way over into the digital, and that's going to take some time. We're working on that piece. Canada, very different. Canada, the market is there. We have less scale than in Mexico, but we still have significant scale in Canada. We have feet on the ground now in Canada selling advertising, and it's doing very well. These are all these countries that are at different stages of the scale, engage, and monetize strategy. I would never take a country off the table, but our focus, we see so much opportunity in the U.S. and then in Mexico, in Canada, in Brazil. That is our focus right now.
+## [Analyst] | Company
+Okay. I'm going to talk about the operating system. Anthony, in the past, I think made the parallel between other operating systems coalescing around two, right? Android, iOS, Windows, Mac. I think your firm has a belief that we might be migrating in the terminal year to this sort of two operating systems, two dominant operating systems. When I look out on the landscape, one of the things that I think is going on is we have Walmart acquiring VIZIO, and I think maybe Amazon moving from a forked version of Android to a sort of organic build where they're doing their operating system sort of de novo. Is the second part of my question, is that true? Do you agree that Amazon's building their own tech stack? What does that mean for your market share, if anything, in the countries where you are dominant?
+## Dan Jedda | CFO and COO, Roku
+Yeah, I don't know the answer on Amazon. The forked versions are never good, and it wouldn't surprise me if they got away from that. Let me address the OS, the operating system market, because it's not surprising that now people are realizing that this is an incredible space to be in. This is how capitalism works. They see how powerful the UI experience is. Now you have a lot of large companies saying, hey, I want to play in space. That's not surprising at all. We expect that. We were not surprised with the acquisition of VIZIO. We've known this for quite some time. Quite frankly, companies are just coming around to what Anthony and team have known for a long time, which is you want to control the operating system. The good news is we have that first mover advantage.
+We're over half of broadband households, as I mentioned. We spent billions of dollars to get there in building an awesome OS that is really a premier operating system. Our streamers, our customers absolutely love it. We hear it every day. They love the simplicity of it. They love the functionality of it. We're very focused on making it the best operating system out there. That's just not easy to do. That's very challenging to do. That being said, we also spend hundreds of millions of dollars on distribution with our distribution partners. While I don't expect that to grow, we'll continue to spend roughly the same amount on distribution. I have a lot of confidence that we're going to continue to not only maintain our scale in the U.S., but grow it as we have. We're still growing in the U.S. It's great to see.
+I think I've mentioned before, we will surpass 100 million streaming households in the not too distant future. We'll say when that happens. That will happen likely in 2026. With that come all the benefits of having an incredibly powerful operating system. The movement from Walmart's acquisition of VIZIO and the movement to SmartCast is something we've known about for a long time. It doesn't overly concern me because we have this number one position because of what we built and how our customers absolutely love the operating system.
+## [Analyst] | Company
+Okay. In your opening remarks, Dan, you talked about the improvement that you've made to EBITDA and EBITDA margins and hitting profitability. How should investors think about the long-term EBITDA margins in this business? If I went out, you know, five to seven years or something, what does that look like?
+## Dan Jedda | CFO and COO, Roku
+That's a great question. It's something that I think about a lot. Maybe sometime I'll give some targets on how I'm thinking about it or how we're thinking about it at Roku, but I will answer your question on this. As I mentioned, in 2023, we basically eked out a $4 million adjusted EBITDA profit. We weren't expecting that. As a matter of fact, I think we announced at the start of 2023 that we would do it in 2024, and we did it a full year early. We had a very strong 2024, I think it was $260 million of adjusted EBITDA. Now we're guiding in 2025 to $375 million of adjusted EBITDA, which is, I believe, around 9% EBITDA margins. We've gone from zero two years ago to 9% EBITDA margins.
+We're going to hit double digits very soon on EBITDA margins, and we're going to grow from there. The reason I'm confident in saying that is we've said we do see sustained double-digit platform revenue growth. I've made the point that OpEx will continue to grow below our revenue. I basically said it's going to continue to grow in the single, mid-single-digit range on an OpEx basis, and I believe that's still valid. We mentioned about being operating profit positive in 2026, and based on our guide, there's a good chance we hit that in Q4. I'm very excited about that. From there, we're going to continue to see margin improvements. Longer term, people say, hey, are you going to get to double-digit EBITDA margins? Yeah, in the short- term. Longer term, I expect double-digit operating profit margins. That's just where we're going on this.
+We are very focused on operating margin profitability and free cash flow, and free cash flow per share is our ultimate North Star Metric. It's free cash flow per share, and that starts with very strong operating margins.
+## [Analyst] | Company
+That's great.
+## Dan Jedda | CFO and COO, Roku
+Great working capital and then limited CapEx.
+## [Analyst] | Company
+Okay. Last question. You announced a $400 million buyback authorization in the second quarter of this year. That's about our estimate of your free cash flow this year. At least based on our numbers, you're going to have about $15 of cash on the balance sheet at the end of this year. That seems like a lot of cash to me. What are you guys sort of on the hunt for, sort of tuck-in acquisitions like Frndly ? Could it mean that, you know, you end up, this becomes a real capital return story and the buybacks become bigger once this current authorization is exhausted?
+## Dan Jedda | CFO and COO, Roku
+Yeah. First of all, we're always looking at acquisitions and we're very selective. We focus on acquisitions where we can take an already growing company and accelerate that growth based on powerful. We did that with Frndly. We didn't acquire, but we announced how it's very, very small and very early days. That's another area where we think the power of our platform can serve, can grow an underserved market. To your answer, yes, we did announce a $400 million share buyback. We also do net share settlement. I'm executing on the buyback. My goal, we're not, it's going to take a little bit of time. My goal is to not have any dilution. That is a goal I have. We're not, again, I'm not saying we'll get there right away, but I do think eventually we'll get there. We're going to selectively look at acquisitions as well.
+The great news is we have over $2.2 billion of cash. We're free cash flow positive. We expect to continue to be free cash flow positive. It's a great position to be in. I'll have more to say on capital allocation as the opportunities come up.
+## [Analyst] | Company
+That's great. Dan, thank you very much for your time.
+## Dan Jedda | CFO and COO, Roku
+Thanks, everyone.
+## [Analyst] | Company
+Fantastic.
+## Dan Jedda | CFO and COO, Roku
+Thank you.
+Data Source: Quartr Last updated: Sep 3, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

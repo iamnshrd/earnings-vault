@@ -1,0 +1,380 @@
+TITLE: Citiâs 2026 Global TMT Conference
+DATE: 2026-09-09
+## Jason Bazinet | Analyst, Citi
+Welcome, everyone. We're super excited to have Will Bardeen, CFO of The New York Times, with us this morning. Will, thank you so much for coming.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Thanks, Jason. Great to be here.
+## Jason Bazinet | Analyst, Citi
+I want to kick off, I really like your origin story. Maybe I have this wrong, but I think before you became the CFO, you were integral in designing the firm's digital strategy. Is that fair?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yes, I think that is fair. I've been in the CFO seat for three years, but had begun as the head of strategy all the way back in 2010.
+## Jason Bazinet | Analyst, Citi
+2010.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah.
+## Jason Bazinet | Analyst, Citi
+And I think your story is interesting just because I can't think of many companies that have been as successful in this digital pivot as you have been, so I give you a lot of credit for being the sort of architect of this. But my question is, as you've watched this strategy unspool over, what are we now, did you say 2010?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah. So, part of the leadership team over the last, say, 15 years, I think at this stage, fair to say, The New York Times has transformed into a digitally native company that's-
+## Jason Bazinet | Analyst, Citi
+Yeah
+## Will Bardeen | EVP and CFO, The New York Times Company
+innovating rapidly. Yeah.
+## Jason Bazinet | Analyst, Citi
+Right. So what lessons have you learned? If I went back and broke into your offices and rifled through your files to see what you said then, what you're doing now, what things have changed? What's exactly the same?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah. That is a great question. I might highlight a few things that were really effective over this period for The Times. The first one, I would say, use the word differentiation. What I mean by that is, in the digital ecosystem, sort of awash in all sorts of content, really a relentless focus on differentiation is critical. What that has meant for The New York Times is continuous investment into original, independent, boots-on-the-ground journalism, actual reporters reporting last year from 150 countries around the world. We have continued to invest in that at a time when, honestly, most organizations have been doing the opposite. To sort of put some numbers on that, 10 years ago, we had about 1,000 people working in our newsrooms. Right now, it is about 3,000. So, continued investment.
+The second thing I would really highlight, maybe a little bit more from the digital product standpoint
+## Jason Bazinet | Analyst, Citi
+Yeah
+## Will Bardeen | EVP and CFO, The New York Times Company
+is habit, and the recognition of designing products around essential habits in people's daily lives.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Recognizing that there are multiple habits that The Times can do better than anyone else. We can focus sort of on surrounding curious audiences and a bunch of essential habits. What are those? Obviously, what should you know in the news every day, but also for sports fans, following your team. For home cooks, what are you cooking for dinner every night? Then for everyone now, young and old, how do you spend a little time having fun every day in a way that is actually healthy for your brain? So our puzzle games, which are going so well.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+That habit's really critical. The last dynamic, which I don't think we say a digitally native company now, but in a transformation period, just the importance of technology and building a scaled digital technology platform, and that means lots of engineers and data scientists.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Not just to ship products, but really embedded across cross-functionally in everything we do. Everything from content recommendation, to pay flow optimization, to pricing.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+That really being a digital company now, and those are three things I'd highlight. That's brought us today to what we call our essential subscription strategy. Be the best news destination in the world, surrounded with leading lifestyle products, and then interconnect all those things into a really compelling bundle. It's been working as designed. Over the last few years, I think our annual average adjusted operating profit growth in the mid-teens. So, working great. You sort of asked, what are you surprised by or what's different? I have to honestly say that if I roll back, I've been doing this for a long time, but if I roll back even five years ago, I never would've expected that the size of the opportunity we see in front of us just keeps getting bigger.
+I think the specific thing I'd highlight there is video. I would not have said, and we're saying it now, that we absolutely believe we're on the path to being the preferred brand for watching, not just reading and listening. Watching, not just news, but around sports and cooking-
+## Jason Bazinet | Analyst, Citi
+Right
+## Will Bardeen | EVP and CFO, The New York Times Company
+and shopping. That is a huge new market for us.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Very exciting. We are doing all this, I think we were chatting about this before, from a position of real financial strength.
+## Jason Bazinet | Analyst, Citi
+Yep.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Generating a lot of free cash flow, a healthy balance sheet. What that means is we have the financial flexibility, we are very disciplined, financial flexibility to be both nimble and ambitious as we pursue that opportunity.
+## Jason Bazinet | Analyst, Citi
+That is great. I have noticed, to your point around daily habit, that Spotify has begun to talk about the best predictor of low churn is not the quantum of engagement, but it is more your propensity to engage with their app every day is the best predictor.
+## Will Bardeen | EVP and CFO, The New York Times Company
+We've always talked about it, we've used the word frequency, and we have essentially active days in a week. Very similar context. Breadth and depth is also important.
+## Jason Bazinet | Analyst, Citi
+Sure.
+## Will Bardeen | EVP and CFO, The New York Times Company
+But it's really that habit. It's the frequency of those things. And our strategy, to your point, has been very deliberate in recognizing all the different places we can build that in people's lives, where The Times can and does, we believe, do that better than anyone else.
+## Jason Bazinet | Analyst, Citi
+Yeah. It's got to be so interesting. I just can imagine in the old paper analog world of The Times, you'd sort of print a newspaper, you'd ship it out, and there wasn't any sort of tactile feedback in terms of What are consumers engaging with? How often? What periodicity? And so it must be great to have all of this digital data to be able to-
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah, that's right. And that's where the technology really comes into play. The ability to understand that and-
+## Jason Bazinet | Analyst, Citi
+That's great.
+## Will Bardeen | EVP and CFO, The New York Times Company
+use it to optimize.
+## Jason Bazinet | Analyst, Citi
+There is this sort of meme that's running out there that I know is not new, but it just sort of gets a little bit louder, I would say, every quarter, which is publishing companies sort of lamenting that their referral traffic is sort of coming under pressure, and some of it is just the algorithmic changes that Google might be making, and I think it's sort of become a little bit louder for investors because of AI Overviews, where people feel like Google just wants to keep you inside their ecosystem as all these AI models want to keep you in the ecosystem. You've said that you're not immune to that, but when I look at your digital ad revenues, you've beaten guidance in five of the last six quarters. So it's this weird situation where investors are angst-ridden about lower referral traffic.
+You've acknowledged maybe it's a bit of a headwind, but you keep beating more quarters than not. So what is driving your ad strength?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah, no, that's a good juxtaposition. Certainly not new for us. Over the last few years, we've been talking about how the ecosystem's changing. We're navigating it. We're putting up strong results, even with all that, and these tech companies are making moves that are shaping that. I think the important thing for The New York Times to recognize within all that is how much throughout this whole period we've been relentlessly focused on direct relationships and subscriber engagement. What that means is getting people to seek us out directly because of the brands and the high-quality products
+## Jason Bazinet | Analyst, Citi
+Yep
+## Will Bardeen | EVP and CFO, The New York Times Company
+that we have in the market. Really developing, as I said, these lifelong, habitual relationships.
+## Jason Bazinet | Analyst, Citi
+Yep.
+## Will Bardeen | EVP and CFO, The New York Times Company
+When we talk about what we're seeing in advertising now, and I wouldn't have said this five years ago, the reason why it's working so well is for the same reasons the subscription and consumer business is working. One, we're in huge spaces of cultural interest. These multiple spaces, news, sports, cooking, games, shopping. We have differentiated products and coverage that continue to get better. We're generating scaled levels of engagement across that whole portfolio. In the case of advertising, our ad products, we have proprietary ad products that really work. Essentially what we're seeing is, across this portfolio, more advertisers than we've ever had before, and because the ad products work, increasing shares of wallet from the advertisers who are running. It's important to say because I talked about the importance of video, we're still very much in the early innings.
+Very little of this ad growth right now has anything to do with video. That is something that is a benefit out in the future for us, and all of this is making us quite optimistic about growth in advertising.
+## Jason Bazinet | Analyst, Citi
+When you say ad product, I sort of maybe naively think of just, oh, there is ad impressions. I do not really think of it as a product. When you say ad product, what do you mean by that?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah. Briefly, the main ad product we have is a beautiful proprietary rich canvas called a Flex Frame.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+It is our own product, and it is a great place visually for advertisers to be, both on the web and in our apps. That is an example. Beneath that, we have huge amounts of first-party data as well as one of the first things we did with AI is create one of the first AI products that enabled us to much more thoroughly target audiences on behalf of our advertisers across our portfolio using AI. We call it BrandMatch. That has been really effective. When you combine great proprietary units with data generated from our subscribers,
+## Jason Bazinet | Analyst, Citi
+Yep
+## Will Bardeen | EVP and CFO, The New York Times Company
+extended through AI technology, it has just been a very effective differentiator in the ad market.
+## Jason Bazinet | Analyst, Citi
+Okay. Ad numbers have been good. You said it's not really a function of video. We're still in early stages. When I go back and look at how you guys have articulated your video strategy, it sort of has these three phases, sort of ramp up production, then drive engagement, and then from that engagement, monetize. I'm sure there's some overlap in terms of those. They aren't discrete, but can you just give us a little bit of color on where we are on each one of those phases today and where they might go?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Sure. Happy to do that. Yeah, make no mistake, I said this before, our ambitions in video are very large.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+The way to think about this is, over multiple years, the phases we've mentioned, ramping up production, generating engagement around the content, and monetization. We're thinking about all three. A successful strategy requires, from the very beginning, conceptualizing all three. But because of the nature of the ambition we have, there is a bit of a phasing in terms of the way we approach this, and we're very much, I would say, squarely in the production phase. Let me say a little bit about more of that. This year has been a year of really ramping up the amount and nature of video, and I'd put those in probably a few categories. One is sort of short-form news clips. The second category being video investigations, sort of native journalism and video. Then the third are our shows.
+Really compelling long-form shows in politics and sports, basically across the portfolio. What's important to recognize about this content production, we're not recreating a global news gathering effort in order to do this. We have, through these 3,000 journalists around the world, we have an infrastructure to actually generate the hardest part of this, and then we're layering on top, essentially video production capability.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+In terms of being able to leverage sort of an existing cost base, if you will, and just already a differentiation, it is really attractive. That then obviously it does not help if you are creating all this content if people are not watching it.
+## Jason Bazinet | Analyst, Citi
+No.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Engagement is very important. How are we thinking about that? Well, first of all, I think anyone who has seen our flagship app has seen how we are continuing to expose this video, in more ways. We now have a Watch tab for short-form watching. Then we just introduced recently a shows tab to be able to see our shows, which many of them starting out as podcasts, now video shows. That is definitely increasing engagement within the app. Then, we also recognize there is a huge opportunity, particularly in video form, given the scaled video platforms to take both our long form and our short form and selectively offer that off platform.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Long form on YouTube, Amazon, short form reels, TikTok, et cetera. This is just a real opportunity to expose many more people to The Times journalism, and ultimately, get the brand out there as The Times is the place to watch. Over time, we have found we can bring people back and get more and more people engaged on platform as well.
+## Jason Bazinet | Analyst, Citi
+Is there any content that you produce that you are sort of not pushing out in a promotional way off platform?
+## Will Bardeen | EVP and CFO, The New York Times Company
+I would say we're always making-
+## Jason Bazinet | Analyst, Citi
+Trade-offs
+## Will Bardeen | EVP and CFO, The New York Times Company
+trade-offs about exactly what to put on and what to put off.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+We're very thoughtful about that and always have been. It's not an either/or for us. We've always seen this as a way of making sure we're enabling sampling, getting new audiences, and new formats, whether it's audio and Spotify, for example.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+The Daily really took off as a sort of off platform and has become a part of essentially the full value proposition of The Times. That brings me to monetization, because the theory of monetization here, and the practice of monetization is not too complicated, given the way that our sort of experience with this. The two obvious things I'd say are, when you get scaled engagement in video, we're absolutely confident in the premium advertising opportunity.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+But also just as you are increasing the value of the product experience, it will, we believe, absolutely continue to fuel the subscription business, both by bringing more people in, new audiences, as well as increasing engagement for our existing subscribers. We believe that this is mostly additive. It is not replacement time. These are new experiences and new content, and that helps with retention and ultimately subscriber monetization. We are very excited about it, and we are imagining all these three things at the same time, but making sure we are building for the long term.
+## Jason Bazinet | Analyst, Citi
+Can I share with you one of the things that surprises me in sort of the digital transition? I am still dumbfounded by this, to be honest with you, and it has to do with book publishers, which is, here we are, a quarter of a century plus into the internet. Everything is digital now. I go look at the book publishers, and I do not know, 75% of their revenue still comes from the physical paper book, only 25% from all their digital products. I just think, okay, there is something about the readers, whoever is a book reader, that just does not really want to go down this digital path. Is there anything in your The New York Times users that resists video or anything that you are seeing where you get sort of a counterintuitive reaction where I would think, "Well, video is great. Everyone likes video.
+No one reads anymore." That would be my knee-jerk reaction.
+## Will Bardeen | EVP and CFO, The New York Times Company
+I mean, short answer is no.
+## Jason Bazinet | Analyst, Citi
+No.
+## Will Bardeen | EVP and CFO, The New York Times Company
+First of all, it's really important to recognize we're not moving people away from text reading and audio listening into video.
+## Jason Bazinet | Analyst, Citi
+Augment.
+## Will Bardeen | EVP and CFO, The New York Times Company
+It's augmented.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+We've always seen this with media generally, but The New York Times specifically, that as we add new things, we just have more reasons for more people to engage with us more frequently.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+That's everything we are seeing about video, everything about what we're building in video, we expect that to be the case here too.
+## Jason Bazinet | Analyst, Citi
+Okay. I'm going to shift to expenses now.
+I was looking at your expense guidance. Third quarter 2025, 5%-6% growth. A quarter later, 6%-7% growth. Then more recently, 8%-9% growth. For investors that are looking at this, they're like, "What is going on?" The expenses are accelerating. What's causing the acceleration? That's my most basic question. What is it that you're investing in that's causing a step-up in cost growth?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah. As a CFO, I very much appreciate this question, obviously. Look, at the core of this, what you're seeing in our expense growth rates is the continued sort of disciplined investing into the strategy, and in our case, into the journalism and digital product experiences that we think will be continuing to drive a great return, healthy long-term revenue growth. Video is one that probably the most notable example that you're seeing in the numbers.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+That's the core of it. It's our strategy, kind of as we've laid it out, investing into journalism and digital products.
+## Jason Bazinet | Analyst, Citi
+One of the observations I had, I think this is true, is that in the last two quarters, your expense growth has been higher than your guidance. I appreciate sort of the deliberate investment that you're making, but it feels like something else is going on in addition to that's sort of causing expenses to come in higher than whatever you thought they would do 90 days before. What's driving that?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah, it's pretty simple.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+I'd say this is a good problem to have, which is simply that we've outperformed our revenue expectations.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+On a sort of marginal basis, haven't predicted the revenue outperformance, and then when that comes in, particularly with things like incentive comp on the margin. In the quarter, you see a little bit higher than forecast expenses. That's been the reason that in those couple of quarters that's happened. I think what I would want to do is step back and say, even with this, overall, we've seen very healthy revenue growth and very healthy adjusted operating profit growth. In the context of our strategy, this is it working as designed. Nothing about what we've seen here and what we're demonstrating changes our overall framework for how we, and we would want our investors to think about our financial framework, which is continuing to grow revenue in a healthy way, and AOP in a healthy way.
+Therefore, sort of being disciplined on our cost growth and making the investments that we believe will continue to drive that, both healthy revenue growth and healthy AOP growth into the future.
+## Jason Bazinet | Analyst, Citi
+Is it fair to say you would be surprised if we entered a period where the expense growth was faster than the revenue growth?
+## Will Bardeen | EVP and CFO, The New York Times Company
+I would say certainly we're on track not to do that this year.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Nothing about our financial framework would expect. We are aiming to continue to drive long-term healthy revenue and AOP growth.
+## Jason Bazinet | Analyst, Citi
+Okay. I am going to shift to revenue here. So in the second quarter, with the higher expenses, you also guided to the third quarter for a deceleration in digital subscription revenues. So can you just unpack that a bit? Why shouldn't investors be nervous? If I am watching the expenses grow faster than the guide, and then you look forward and you are talking about a deceleration on digital subscriptions, it is like a yellow flashing light for an investor. So what would be your counter to that?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah, I think it is always helpful for our business in particular, just break down the basic components of what drives digital subscription revenue.
+## Jason Bazinet | Analyst, Citi
+Right. Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+So I will break that into three components, and then I will get to Q3. So the first component is the obvious one of you look at how much subscriber growth there has been over the last 12 months, right? So, that can fluctuate a bit, but relatively straightforward. The next two components, I will just highlight for a second. For our business, the actual subscriber mix can be playing a role. To some extent, the cohort 12 months prior and what is happening. Because we have got a couple of categories of products. We have got the bundle.
+## Jason Bazinet | Analyst, Citi
+Yep.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Which oftentimes, either six months or 12 months after promotion, you are coming off that, often to much higher prices. You also have the single product subscribers, which are lower priced. Now, all of these are great LTV products. They are all great, but the relative difference in any given quarter is going to play a role.
+## Jason Bazinet | Analyst, Citi
+Yep.
+## Will Bardeen | EVP and CFO, The New York Times Company
+The third piece, which is happening under the surface, is the pricing performance. That is two categories. One is people coming off promotion, how well they are taking the step-ups. The other one is our sort of targeted price increases that we are considering all the time. The timing and performance of those, mostly the timing, because quite frankly, I have said this repeatedly, the actual performance at these pricing step-ups, we continue to be very pleased with.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Both the off promotion and the targeted price increases. So those are the three components. Now-
+## Jason Bazinet | Analyst, Citi
+Can I just repeat that?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah.
+## Jason Bazinet | Analyst, Citi
+Just make sure I get it.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah, sure.
+## Jason Bazinet | Analyst, Citi
+Sub mix, cohort, and pricing, and then pricing has two sub-elements. Did I get that?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Sub-elements and volume, obviously.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+In Q3, what I called out as being part of what was useful to help understand this is, Q3 a year ago, we had a very successful net adds quarter, in part to the paywalling of The Mini, which we are very pleased with and has worked out well. But because of that, there is a bit of a mix impact now this Q3 in that underlying quarter
+## Jason Bazinet | Analyst, Citi
+Okay
+## Will Bardeen | EVP and CFO, The New York Times Company
+that is playing a role.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+I want to step back and say that this kind of variability we have seen in the past, we can certainly expect to see in the future. Overall, the drivers of our digital subscription business we feel really good about and really healthy because fundamentally what it is, it is based on kind of how I started. We continue to add value into these differentiated products. We are continuing to see strong engagement, and subscriber engagement, and therefore, as I have mentioned, we continue to be really pleased with the pricing performance. And when you add all that up, it makes us feel good about the long-term trajectory of digital subscription revenue.
+## Jason Bazinet | Analyst, Citi
+I think this is true. There were periods in the past where your digital subscription numbers decelerated and then re-accelerated again, right? So anyone that thought it was the beginning of the end of digital subscription growth was wrong. Is that true?
+## Will Bardeen | EVP and CFO, The New York Times Company
+I think that is certainly the case, and this is partly why breaking it down into these three categories is useful. Because all three of these categories can fluctuate, right?
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+You are going to see, we have seen, and I think we can expect to continue to see some fluctuation in the rates.
+## Jason Bazinet | Analyst, Citi
+Okay. I think one of the elements you reiterated was the 15 million Total subs by 2027. Is that right? Do I have the numbers right?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Year-end 2027, yeah.
+## Jason Bazinet | Analyst, Citi
+Year-end 2027. Okay. Still comfortable with that long-term target?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Yeah, we're absolutely comfortable with the target. We believe we're well on the path to achieving it. And really important to say, we've always said it's a milestone, not an end state.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+We're obviously, as you hear from me, feel like we're, in many ways, just getting started around huge new market opportunities. What gives me, to break it down a little bit more, what gives me the confidence to say that? The first is the data that we see, just we continue to believe the TAM is just there. What do I mean by that? We stopped talking about this number, but just so many registered users, 150 million plus registered users, tens of million of people coming back every week. Millions we have direct relationships with where we can call them back through alerts, et cetera. All that's to say that with a little over 13.3, as of the end of last quarter,
+## Jason Bazinet | Analyst, Citi
+Yeah
+## Will Bardeen | EVP and CFO, The New York Times Company
+million subscribers, the total number of subscribers we have relative to the audience we're engaging is still a small fraction.
+## Jason Bazinet | Analyst, Citi
+Sure.
+## Will Bardeen | EVP and CFO, The New York Times Company
+The second thing, and this is the advantage of having been at this for 15 years, just the continued investment into leading products that are not only differentiated, but keep getting better relative to what else is out there. The breadth of that portfolio, across news, obviously, but also sports and games
+## Jason Bazinet | Analyst, Citi
+Yep
+## Will Bardeen | EVP and CFO, The New York Times Company
+and shopping and cooking, and we just continue to develop this, just means that the opportunity and even the TAM just kind of keeps getting bigger and we format innovation. We become more differentiated within that TAM. The last, I'll just touch on the importance of technology to continue to help us engage, penetrate the TAM, and also just optimize retention
+## Jason Bazinet | Analyst, Citi
+Yep
+## Will Bardeen | EVP and CFO, The New York Times Company
+acquisition, all these things. I want to bring up, Family Plan is something that I want to bring up, in part
+## Jason Bazinet | Analyst, Citi
+Yeah
+## Will Bardeen | EVP and CFO, The New York Times Company
+because I think underneath Family Plan highlights
+## Jason Bazinet | Analyst, Citi
+Well, can you just remind everyone what Family Plan is?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Oh, what is Family Plan? Yes. Family Plan is, in any subscription business, we weren't first to this idea. In many ways, the original print newspaper was a Family Plan subscription. But it enables multiple members to share the same account, but with their own separate login. So we have one Family Plan subscription, it's our highest priced, most premium product, allows essentially four separate logins.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+It's going great. It's helping us expand our TAM, it's helping with retention, and ultimately when you add all that up, it's the most expensive product, subscriber-
+## Jason Bazinet | Analyst, Citi
+Yeah
+## Will Bardeen | EVP and CFO, The New York Times Company
+monetization as well. But I think what's great about Family Plan is that underneath it is highlighting two things we probably don't necessarily talk about, but are good illustrations of why there's still so much more opportunity. And one is personalization.
+Everything from having your own stats and streaks in games to your own recipe box in cooking. The ability to just keep increasing the value of the subscription and the relationship that is personal to you, and therefore the importance of having
+## Jason Bazinet | Analyst, Citi
+Yeah
+## Will Bardeen | EVP and CFO, The New York Times Company
+these separate logins. The second is sharing.
+## Jason Bazinet | Analyst, Citi
+Right.
+## Will Bardeen | EVP and CFO, The New York Times Company
+13.3 million subscribers, they understand the product, they are our best advocates, and the ability for them to be generating subscribers on our behalf is really powerful. Both of those things are core to the Family Plan concept. We are far from nowhere near over-optimized for either of those across the idea, the amount of personalization we can still do
+## Jason Bazinet | Analyst, Citi
+Yeah
+## Will Bardeen | EVP and CFO, The New York Times Company
+the amount we can use sharing and sharing behavior to continue to drive growth. We are still in the early innings, I think, of both of those concepts. Family Plan is a good example where that is already working.
+## Jason Bazinet | Analyst, Citi
+Okay. That's great. I'm going to shift to AI. Can you remind us about your firm's philosophy as it relates to licensing your content to the AI firms?
+## Will Bardeen | EVP and CFO, The New York Times Company
+Sure. We're very disciplined in how we think about this. We see this as an opportunity. We also recognize some of the risks, given the nature of our strategy. What are the principles that we are focused on as we look at relationships, as we look at deals? The first is, everything we do, we are doing in the context of furthering our core long-term strategy, which is fundamentally having direct relationships with people at scale, with our brands and our products. Every relationship we go into, that's the lens through which we're viewing it, and every deal is ultimately helping to fuel that goal.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+The second is, we want to make sure that we have control over how our content's being used on the platform.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+The third is that we expect fair-
+## Jason Bazinet | Analyst, Citi
+When you say, content used on the platform?
+## Will Bardeen | EVP and CFO, The New York Times Company
+On their platforms.
+## Jason Bazinet | Analyst, Citi
+On their platforms.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Off platforms. We want to be able to control that.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+It's our content.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+We want to make sure that we put in place sort of how that's going to be used.
+## Jason Bazinet | Analyst, Citi
+Okay.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Then the third is fair value exchange. Sustainable value exchange. We're not looking for short-term anything here. This is about building long-term strategic value for us. So those are our principles.
+## Jason Bazinet | Analyst, Citi
+Yep.
+## Will Bardeen | EVP and CFO, The New York Times Company
+We are absolutely open to deals and have found plenty of occasions so far where those principles have been met. We'll continue to be open to those. At the same time, it's critical for us to be also enforcing our rights.
+## Jason Bazinet | Analyst, Citi
+Right
+## Will Bardeen | EVP and CFO, The New York Times Company
+in the court system. And we feel very good about our position there as well. And fundamentally, it's that balance between making sure we're being disciplined and principled in our strategy, protecting our rights. We're optimistic. At the core of this, we're creating more value. It's a really differentiated product, and that doesn't have value just to consumers and to advertisers, but to platforms as well.
+## Jason Bazinet | Analyst, Citi
+Okay, that's great. I'm going to shift to the print business. This sort of reminds me a little bit of the book publishing business, right? Where I look at it and I would think, okay, this print business should just already be gone. Who's subscribing to The New York Times print edition? But the business has been, it's seen some pressures, but it's actually remarkably durable, at least relative to what I would have thought. Do you guys spend a lot of time thinking about shutting off the print business or nudging people more to digital and sort of saving a bunch of printing costs and paper and ink and trucks and all that stuff? Or you just sort of let it sort of leak out at some rate and-
+## Will Bardeen | EVP and CFO, The New York Times Company
+Well, look, there's an amazing team managing that business.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+What I'd say about it is, yes, people are always asking, "Is it going to be around in five, 10?" It's always mischaracterized. There's still hundreds of thousands of people who really value it. It's an incredibly good product. They're paying a lot of money for it.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Partly to your point, it is not a distraction to the digital business. We are able to manage it very expertly and carefully sort of downstream from that.
+## Jason Bazinet | Analyst, Citi
+Yeah.
+## Will Bardeen | EVP and CFO, The New York Times Company
+It is still high incremental margins, right?
+## Jason Bazinet | Analyst, Citi
+Sure.
+## Will Bardeen | EVP and CFO, The New York Times Company
+This is a business that we will be in as long as we continue to get real economic value from it. We do not see that ending anytime soon. I will say it is in secular decline, obviously, and we have no expectation that that will change.
+## Jason Bazinet | Analyst, Citi
+Yep.
+## Will Bardeen | EVP and CFO, The New York Times Company
+It is continuing to manage it.
+## Jason Bazinet | Analyst, Citi
+Okay. Will, thank you very much. Appreciate the time.
+## Will Bardeen | EVP and CFO, The New York Times Company
+Thank you.
+## Jason Bazinet | Analyst, Citi
+All right.
+Data Source: Quartr Last updated: Sep 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

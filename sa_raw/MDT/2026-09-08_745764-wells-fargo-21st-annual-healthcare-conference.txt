@@ -1,0 +1,309 @@
+TITLE: Wells Fargo 21st Annual Healthcare Conference
+DATE: 2026-09-08
+## Moderator | 
+Welcome to the stage, Chairman and Chief Executive Officer of Medtronic plc, Geoff Martha, and CFO of Medtronic plc, Thierry PiÃ©ton, and Managing Director and Senior Equity Research Analyst covering medical technology, Larry Biegelsen.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Okay. Well, welcome everyone to the 21st Wells Fargo Healthcare Conference. I'm Larry Biegelsen, the Medical Device Analyst at Wells Fargo, and on behalf of the entire research team, I want to thank everybody here for helping make this our most successful healthcare conference to date.
+## Geoff Martha | Chairman and CEO, Medtronic
+Oh, great.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+We had about 2,000 people register, over 300 companies attending. A great turnout. Now let's turn to our keynote speaker, Geoff Martha, the CEO of Medtronic, the world's leading medical device company. Geoff is also joined by Thierry PiÃ©ton, Medtronic's CFO. The format is going to be moderated Q and A. We'll spend the first part of the discussion on industry trends, and then we'll turn to Medtronic-specific topics. Geoff and Thierry, thanks so much for being here and agreeing to be our keynote speaker today. Let's jump into questions.
+## Geoff Martha | Chairman and CEO, Medtronic
+Sure.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Geoff, we have seen a rotation out of healthcare and out of MedTech in recent years due to high growth into high growth areas like AI and technology. As the industry leader, Geoff, why is this a good time to invest in MedTech?
+## Geoff Martha | Chairman and CEO, Medtronic
+Well, first of all, Larry, congratulations on that conference. It is great to see it continuing to grow, and thanks for having us. Look, I think it is a great time to invest in MedTech, because we see some really great innovation happening, not just in the traditional biomedical engineering side, less invasive devices, smaller devices, longer batteries, et cetera, but when you take the AI and robotics, they are like force multipliers. And they have allowed us to expand our scope of innovation from not just improving patient outcomes, but to lowering costs over time and also expanding access. I think it is a great time to invest in MedTech right now. We can go through this. When you look at our growth and the growth acceleration at Medtronic, some of it is market share, but a lot of it is expanding the markets and pulling new patients in.
+In some cases, it is brand new segments like renal denervation for hypertension. But in other cases, it is just like lowering the threshold for 75-year-old businesses like cardiac rhythm management, and expanding those markets and pulling more patients in above and beyond any kind of impact from chronic disease, rising chronic disease or aging population. When you even factor that out, we are still pulling a lot more patients into new therapies.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+That is good to hear. Geoff, as you know, a concern right now is the potential impact to procedures and capital equipment spending from some of the policy changes going on. How are you thinking about the impact?
+## Geoff Martha | Chairman and CEO, Medtronic
+Well, the policy change I hear the most about would be like the ACA rollbacks. Look, we've looked at that. A couple things, because we've seen some of that commentary. First of all, our procedural mix is very acute, right? That's one piece of it. We're not into these more elective procedures. We don't have as much exposure to that. When it comes to ACA, linked to that acute nature, maybe two thirds of our payer mix is Medicare, 25% commercial, and less than 10% Medicaid. When you look at our exposure to ACA related programs, it's less than 1% of our revenue globally. So it's just not a lot of exposure to it.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+That makes sense. You touched upon, Geoff, AI, which is transforming many industries. What impact is AI having across the industry and at Medtronic? What does it mean for revenue and for cost?
+## Geoff Martha | Chairman and CEO, Medtronic
+Well, look, I'll start on the revenue side. It's definitely having an impact on our revenue. Again, when we talk about AI, and like I said, especially when you combine it with robotics, but even by itself, it's a force multiplier. When we talk about AI in our products, we're largely talking about, look, we have a lot of access to structured physiological data, structured device data, procedure data. We're not talking about large language models and just general data. We're talking about very precise data, and we're using that more in a machine learning environment, and it's dramatically impacting our ability to diagnose things earlier, better. Here's the big one. To personalize therapy at scale. So whether it's personalizing your DBS therapy, personalizing a surgical plan in spine for one patient, you're able to do that at scale, and that's going to help with clinical outcomes.
+As I said just a second ago, it's helping us expand our aperture on what the benefits of the innovation to talk about access. I just saw this example the other day, our GI Genius for colonoscopy, that's AI in the colonoscopy procedure. In the U.S., it's quickly becoming the standard of care, because we found in our clinical trials that anywhere from 25%-50% of the polyps are missed in the leading centers in the U.S. This has erased that, right? It's fixed that with the GI Genius that we have. Go over to a place like India, I saw a massive hospital with hundreds of people in the waiting room getting colonoscopies.
+Yet here, what we saw is very young physicians, and the CEO of the hospital said, "Look, these physicians are right out of med school, don't have the apprenticeships or the fellowships that you have in the U.S., but they're getting the exact same diagnostic yield as you're getting in the U.S. because of GI Genius." It democratizes good care.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+That makes sense. China, Geoff, as you know, has been very volatile in recent years. I think you've said in the past it's maybe 6%-7% of Medtronic sales. I don't know if that's still the case. How are you thinking about how is your business performing in China, and how are you thinking about that geography going forward?
+## Geoff Martha | Chairman and CEO, Medtronic
+Well, the percentage of our revenue has come down after the VBP, but it stabilized. Look, we view China, it's performing well. It's a growth market for us. The Chinese government's very focused on expanding healthcare to people that don't have coverage, in a more higher-end healthcare that we play in. They're serious about it. There's a lot of growth there, and it's a growth market for us, and it's a good, profitable market for us.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+If it's growing and it's a growth market for you're in the minority right now. I think for most med tech companies, it's probably been less of a growth market in recent years because of VBP.
+## Geoff Martha | Chairman and CEO, Medtronic
+Mm-hmm. Well, look, in recent years, like I said, it has come down as a percentage of revenue. The VBP is more baked into our growth rate.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah, we have come down to between 5% and 6%, but it is still a good contribution for us. The VBP is mostly behind us, so now we are back into a normal sort of environment.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Are you committed to China going forward still?
+## Geoff Martha | Chairman and CEO, Medtronic
+Yes, we are.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Okay. Because I think we've seen some companies maybe pull back in recent years. Geoff, innovation is the lifeblood of the industry. You talked about it earlier. What's the state of innovation in the medical device industry today, and what are the areas you're most excited about?
+## Geoff Martha | Chairman and CEO, Medtronic
+Look, I said before, I think the state of the innovation is strong. I know that there's concerns on procedures and things like that. We're just not seeing it. We're seeing strong procedure growth. You got the rise of chronic disease, got the aging demographics, but like I said earlier, above and beyond that, our markets are responding well to innovation. We're pulling in patients that otherwise would not be treated, like with our Altaviva device for overactive bladder. These patients maybe not seek treatment, but now that you put this just below the skin on the ankle, this is opening up, pulling more patients into Medtronic. There's like 16 million patients in the U.S. that's suffering from overactive bladder. This thing has turned around our public health business. Or you're bringing them in from where they were using a pharma solution, like hypertension. With renal denervation.
+Or AFib, like PFA. That industry, there's a couple players there. PFA pulling people off of drugs and doing more of a procedure. I see more and more of this. Then you've got on top of that, the AI and the robotic. Robotics is, look, we think about it in the context of the United States, and it's clearly a huge trend in the U.S. But outside the U.S., like in emerging markets, robotic surgery is less than 1% penetrated. And I do believe the combination of AI and robotics is going to change the way these countries train their physicians. We're not going to replace physicians anytime soon, but like having a driver assist, the digital platform that's the heart and soul of that robotics ecosystem, is going to, like I said earlier, democratize good surgery.
+That's why I think it's going to be an important part of emerging market growth, where they just don't have the. There's a huge labor issue, trained physician issue.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Other areas that you are excited about that you can share with us today, that you are watching, that you are not in today?
+## Geoff Martha | Chairman and CEO, Medtronic
+Larry, you are going to have to come to our Investor Day to hear more of that in December in Charlotte, North Carolina. We are having it at the IRCAD facility, and one of the main things we are going to get into there is new growth drivers. I would say in general, there is a lot in the neurotech area that we are excited about that is net new to, I think, MedTech. Within the MedTech, we have the broadest and the deepest. We are literally number one in every single area of neuro. We are excited about that. There are a couple areas that we are not in that we still like IVL and these high growth areas that we are not in that would fit in our portfolio, where we are not looking at hips and knees or anything like that. It is not high growth.
+We are looking at these high growth areas in cardiology that we are not in today, so we will continue to look at those.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Got it. That is helpful. I want to talk about the Investor Day later in the conversation. It is the first one you have done in, I think five or six years, Thierry. Is that right? Since 2020.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah, 2020, I think.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah. 2020, yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+But first, maybe let's talk about the start that you had to your fiscal year. You're on a fiscal year basis. You reported the Q1 results last week, I believe.
+Strong growth. I think 7% organic. I think you said something to the effect that Medtronic's at an inflection point. Just talk about the durability of the growth that you saw coming out of Q1.
+## Geoff Martha | Chairman and CEO, Medtronic
+Do you want to take this one?
+## Thierry PiÃ©ton | CFO, Medtronic
+Sure.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Thierry PiÃ©ton | CFO, Medtronic
+Okay, thanks. It was indeed a good quarter. It was 13.7% with the extra week, about 7% if you correct from that element. One thing that you might have noticed in the Q1 earnings release is we talked about the big franchises first, because we got a lot of questions around Cardiac Ablation, around hypertension, et cetera. But we wanted to make a point that, first of all, our three big franchises are growing significantly faster than they used to. You take cardiac rhythm management, one of our biggest franchises in the portfolio. A lot of the competition considers this to be a pretty stable, low single-digit market growth. We were up 15% in the first quarter with the extra week, so about 9% corrected from that. We saw super strength driven by innovation. So EV-ICD was super strong.
+Everything around conduction system pacing was very strong, up strong double-digit. And we saw even leadless pacemaker technology that we launched over a decade ago be double digit. We continue to see strength in CRM. In our CST, in our spine business, large franchise, same thing. Stealth AXiS has enabled us to offer a full suite of products to the customer from navigation, visualization, robotic assistance. It has made the implants a lot more stickier, helped us from a pricing perspective. So that franchise now, big capital efficient franchise, performing super well. And our Surgical business was performed very well, including acute care and monitoring. So the big franchises were strong, and they continued to accelerate.
+On top of that, we have these four super high growth areas between Cardiac Ablation, Symplicity with hypertension, Altaviva in urinary incontinence, and Hugo in surgical, that are, each one of them, multi-billion opportunities going forward. That is kind of the algorithm going forward. Strengthen the base with big, super penetrated franchises in which we protect the position with innovation, and then four large franchises at different stages of development that generate more growth going to that. This, as Geoff said, this will be a key element of our Investor Day in December. We will talk about the dynamics of how that is going to unfold over time.
+## Geoff Martha | Chairman and CEO, Medtronic
+You asked about the durability. Just to build on what he said, everything he just said, I just want to point out that effectively we have doubled the investment in innovation over the last couple of years because we have really ramped up the M&A machine, so venture investments and M&A to go with our organic. When you do the dollars, it is effectively doubling our investment in innovation. I would point, like we have talked about breadth and depth, so to his point, the breadth of the growth through the big businesses and all the businesses, also geographically dispersed growth, now you have the growth drivers. Then we are a mix of organic and now inorganic. So we are not relying on one thing. We are not relying on just inorganic. We are not relying on just one country.
+We have got breadth and depth, no matter how you look at it. Geography, business-wise, growth drivers, inorganic versus organic. It is breadth and depth.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+That is helpful. It is hard not to ask about Cardiac Ablation. It is driving a lot of the growth, 88% growth, I think, a $2 billion business today.
+## Geoff Martha | Chairman and CEO, Medtronic
+Were you one of the ones that said we would not get there in time? I cannot remember.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+No, that was someone else.
+## Geoff Martha | Chairman and CEO, Medtronic
+There's a lot of people that-
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+I won't name names, but-
+## Geoff Martha | Chairman and CEO, Medtronic
+said otherwise. I say, yeah, we said we're going to be $2 billion, and people laughed, and we beat that expectation by a lot, so.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Congratulations.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+How are you thinking of it? At some point, the business slows, law of large numbers. Thierry, you said you are going to grow more than 2.5% the market in fiscal 2027.
+## Geoff Martha | Chairman and CEO, Medtronic
+2.5x the market.
+## Thierry PiÃ©ton | CFO, Medtronic
+2.5x.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Right. Just maybe put a finer point on that. How fast do you think the market's growing? What's more than 2.5 x mean?
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. Look, what we see in the market from a market growth rate perspective is mid-teens, around 15%. You can do the math. The comps get a little bit harder during the year because we're lapping quarters where last year we were already up 70% or 80%, but we'll be up 3x the market, over 3x the market rate in the second quarter and around 2.5 x market rate on the full year. Look, it's early innings. We still have a lot of opportunity, commercially speaking. In the U.S., we're mostly focused on large accounts at this stage, and even those large accounts, they want to grow their install base. So we're growing internationally. We launched in Japan. We're adding indications. We added ventricular tachycardia in Europe this quarter, and we're applying for it in the U.S.
+We're not stopping there from a portfolio perspective. Today, Sphere-9 is our main workhorse, and that's driving a big portion of the growth. As you know, we've got Sphere-360 coming up. It's now launched in Europe, and it's going through clinical trials in the U.S., and that'll be the next stage driving growth. In addition to that, you probably saw us make an investment in ICE. So we're trying to surround the electrophysiologist to have the full pictures. But clearly for us, we're still in very early innings for this business. I think the one thing to keep in mind short term is we grew the install base of capital equipment by 40% in Q4 and by 35% sequentially in Q1. Just in terms of the pull-through of catheters that that's going to generate, it's super good news for us going forward.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Geoff, what can Sphere-360 do to your Cardiac Ablation franchise? Why is that an important pipeline product?
+## Geoff Martha | Chairman and CEO, Medtronic
+Well, look, as you know, the single shot, right now Sphere-9 is in a class all by itself of a dual energy large tip catheter in the point-by-point space. It is by itself. That is one of the reasons. Plus people love the maneuverability of it. Sphere-360 goes right at the heart of all of our competitors. We think on the single shot, and we think it is a better mousetrap. The large tip, the movability of it, we think it is going to be a winner, and again, it is going right at the competition, and as you know, it is very fast. It is very fast. So if you are going for efficiency of single shot, this is going to be your tool. As Thierry said, we realize how competitive the market is. It is a very attractive market. We realize how competitive it is.
+We have fought like hell to get to where we are, and we are not resting on our laurels. Thierry just walked through all the things that we are doing, making these investments. We are looking ahead multiple quarters, multiple years, building around the procedure. On top of all that, in the U.S., we are still in these large centers. We have not really expanded to the medium and smaller centers. To help do that, we have combined our cardiac rhythm and our CAS sales leadership to leverage those relationships. We are everywhere in cardiac rhythm. Our market share is at an all-time high. We are everywhere around the world, and we are going to use that business to help us ease into those relationships around the world. So we have been building for this.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+That makes sense. The timeline for Sphere-360 in the U.S.?
+## Geoff Martha | Chairman and CEO, Medtronic
+Well, we just wrapped up the enrollment in the clinical trial, and I believe that is a 12-month follow-up, and then we will submit.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+That is helpful.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Let us switch gears, talk about the soft tissue robotics or robotic-assisted surgery, as you call it.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+RAS. Big news on the Q1 call last week, $700 million investment and distribution agreement with Cornerstone, based in Hong Kong. It gives you rights in select international markets. Talk about the rationale for that deal, please.
+## Geoff Martha | Chairman and CEO, Medtronic
+It gives us rights in 50 countries. So it is a lot of countries outside the U.S. Look, we are doubling down in the surgical products. We are not outside the U.S., particularly in certain markets. Our customers wanted more choice in terms of various different things. And Hugo, the focus is on developed markets. This offers us more choice outside the U.S. Remember, outside the U.S., our market share is disproportionately higher. A lot of the competitors you hear about here in the U.S., you do not see them outside the U.S. It is really us, and we are dealing with health ministers. It is socialized medicine. It is controlled at the country level, and they want an offering. And we were not going to be there, and we have a big surgery business. Surgery is our biggest business in emerging markets by far. But everyone does surgery, open and lap. Everybody.
+If you are going to have a hospital, anything in healthcare, you are going to have a surgical. Us and J&J are the biggest, and this gives us an opportunity to introduce robotics to these customers. Look, the leader in the space, we have got a ways to go. But we are miles ahead of the next guy, and this extends our lead.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+What is it about Cornerstone Sentire robot that is more amenable to these emerging markets that Hugo doesn't provide?
+## Geoff Martha | Chairman and CEO, Medtronic
+Well, we can have a tiered approach in terms of various things, but that is one, and it is designed for those markets in mind. It was designed in Asia for those markets. There are different preferences, there are different needs. It has got its own set of instruments. It has got real small instruments like 5 mm instruments, 8 mm instruments. And it is a different design than Hugo. There is a preference sometimes for that. It just gives the customers a choice.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+But when you say tiered, you are talking about tiered pricing?
+## Geoff Martha | Chairman and CEO, Medtronic
+There will be tiered pricing, tiered offering, yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Got it. How do you see the relationship with Cornerstone evolving over time?
+## Geoff Martha | Chairman and CEO, Medtronic
+It's early. We will see. We have been with them for a year, first of all. Over a year, we have been working with them. We have seen the robot. They have had thousands of cases. The quality is there. The technology is good. It's really good. The management team is A+. These guys are very professionally run. Sometimes these emerging market companies, it's one founder who is also the lead inventor and engineer. Here, they have got just a great bench. We will see. Right now the focus is on we are both at important moments. In the U.S. for Hugo, we have got new indications coming. We will cross 50,000 cases by the year, 250 unit installations around the world. We got new instruments coming. These two new indications in the U.S. are important, and it will make it more of a workhorse. So that's where we are focused, and Sentire is starting their launch.
+They are going to be starting their launch, and they are more focused outside the U.S. So that's the focus right now. We will see where it goes.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Just last question on this. Hugo is your U.S. surgical robot. The U.S. is still the biggest market for surgical robots. When does Hugo start moving the needle in surgical and for total Medtronic? You gave us some numbers, but we don't know the baseline.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, I can tell you this, it's already having an impact on our Surgical business. You're seeing it accelerate. I don't know if you want to go any further.
+## Thierry PiÃ©ton | CFO, Medtronic
+No, yeah, we haven't given specific numbers on it, but it's already having an impact on the Surgical numbers, for sure. Look, it's super encouraging. As Geoff said, 50,000 procedures in the year. We'll end the year with about 250 installed robots out there and build from that. It'll generate pull-through from our instrumentation perspective. It's, yeah-
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Those numbers are cumulative, though. 250 placements-
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah, correct.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+globally, over 50,000 procedures cumulatively.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yep. But the thing, because we've had a pretty controlled launch here, you do not just launch a robot. Approval is one step that you need. You need reps. You need to be out there and seeing how these things perform in the wild. We learned that in the spine space. The Stealth AXiS is our third generation. Mazor had two generations, and this is our third. You continue to improve performance. In Hugo, we've done a number of software updates, and look, we're getting great. We're at a 99% uptime in the U.S. That's really good. We are very encouraged by the actual performance of the robot, and we've kind of learned along the way and made changes.
+That's why we feel really good because unless you have those, I'd be surprised if some new player comes in, launches a robot, and all of a sudden it's just excellent and everything. It's going to take time. We feel very optimistic where we are on Hugo.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+That's helpful. Let's switch gears to the portfolio. Maybe a question for Thierry. Basically, if you sell the MiniMed stake before the end of the fiscal year, how should we think about the accretion? Is it still maybe $0.01-$0.02 a month?
+## Thierry PiÃ©ton | CFO, Medtronic
+You're talking on 2027-
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+2027, right.
+## Thierry PiÃ©ton | CFO, Medtronic
+I think it's highly dependent on the time that we would do the separation. The way the math works is when we separate fully, then we don't consolidate their profit, so we lose the profit that they generate. But on the flip side, as we exchange the shares, we do a share count reduction, and so mechanically, you get an increase in EPS that comes. It's highly dependent on the timing in which you do it, even within a quarter, because there's a hockey stick in MiniMed sales. At the end, it wouldn't be a very material impact to our guidance. When we do the separation, obviously, we'll disclose exactly what the impact will be.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+The guidance assumes you have it for the full fiscal year.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yes, that is correct.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+And you are saying if you did it, say, three to four months before the end of the fiscal year or 6 months, you are saying it would be fairly immaterial to EPS?
+## Thierry PiÃ©ton | CFO, Medtronic
+The later you do it, the less benefit you get from the share count reduction. The earlier you do it, the less profit you consolidate, so it kind of balances out. Net net, it is not a huge factor, but we did take a conservative option of considering that we would keep it for the full year. And look, it is great to see that MiniMed is doing well from a business perspective. They had a good Q4. Q1 was even stronger. Their volume is picking up in the U.S. pretty significantly. They are on fire from a product schedule perspective. All their innovation is coming out ahead of time, and I think the Street is starting to see that. The stock has been up. It is the best performer in med tech since the 1st of June.
+The stock's now above the price point when we did the IPO, so it's good to see the business performing, and we're encouraged by the way it's going. The intent doesn't change.
+## Geoff Martha | Chairman and CEO, Medtronic
+Right.
+## Thierry PiÃ©ton | CFO, Medtronic
+Part of this improved performance is we can already see the benefits of them running the business separately, and so we're committed to making that change.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, like I said, the intent hasn't changed. We're moving forward with this transaction. He walked through the timing. I remember when I first started as CEO, there was a lot of questions around Diabetes, and we said we're going to fix it and get it humming and then make a decision from a position of strength, not weakness, where we were five, six years ago. Financially, that made sense, but also for the diabetes patients. MiniMed is too big of a player in the type 1 space to not get it back to health, and it's now really in a great position.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Geoff, you can imagine where I'm going with the next question on Medical Surgical. The Cornerstone investment is significant, $700 million. The investments you've made in Hugo are significant. You've disclosed some information about how expensive that program is. Why wouldn't it make sense to also separate that business?
+## Geoff Martha | Chairman and CEO, Medtronic
+It has a lot more synergies with Medtronic, right? I mean, first of all, it's hospital-based, or even as it goes to ASCs, it's a health institution-based business versus Diabetes being direct to consumer. So there's a lot of synergies, like I just said, in the U.S., outside of the U.S., where we're dealing with these governments, right? So we feel like it has a lot of synergies with the U.S. I think, look, robotics is an important component for us. Again, if you take a step back, at Medtronic, we do two things. One is devices, pacemakers, spine implants, et cetera, and the other is surgeries and procedures. Robotics is critical. It's in the early innings to all surgeries, and it's going to move more and more into interventional procedures. You may not have a big mainframe robot.
+You may have smaller, but robotics is a secular, is a trend in MedT ech, and it's important that we become a leader in that space.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+I think the concern is just that it's so expensive, soft tissue robotics, and you're doubling down. That was your words on the Q1 call.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+The concern would be that it's taking capital away from Cardio and Neuroscience, which also require a lot of investment.
+## Geoff Martha | Chairman and CEO, Medtronic
+Well, look, we've also gotten a lot of feedback that you got a healthy balance sheet, use it, right? We have strong cash flow, healthy balance sheet. That was a balance sheet investment. We're not constrained in that way.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Okay.
+## Thierry PiÃ©ton | CFO, Medtronic
+Look, it's good news financially speaking, right? Because through the distribution agreement, we'll do some sales of this Sentire product, get a margin on that. Then it will help improve the financial profile of the Med Surgical department or segment overall.
+## Geoff Martha | Chairman and CEO, Medtronic
+It's accretive to the Surgical business. You got to remember, it helps cement our business. Remember, the Surgical business is our largest. Outside the U.S., it's more or less Intuitive is gaining traction with robotics, but it's outside the U.S., there's a lot of big contracts for the Surgery business that goes between us and J&J . Contracting across open, lap, and now robotics is a big deal. We're the only company that can do that.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Got it. All right. Let's switch gears. We've got about 15 minutes left. Talk about some of the growth drivers. Renal denervation for hypertension or high blood pressure, a huge market. You talked about it annualizing at $100 billion exiting, I think, fiscal 2026. How are you thinking about the ramp going forward? Do you have an important meeting coming up in September for Category I CPT code?
+How important is that? If you are successful, that does not go into effect until 2028, I think.
+## Geoff Martha | Chairman and CEO, Medtronic
+It will be a nice add, because the market development is the piece that we are working on right now. First of all, the product, and we have kind of skated right past that because the product is doing great, clinically. The data we are seeing in the wild is dramatically higher than the trial. The trial was designed a certain way, but out in the wild, we are seeing 18-point drops in blood pressure. It is amazing. Patients love it. Physicians are thrilled because they are heroes to these patients that had this intractable problem. Any kind of procedural concern is behind us, like the anesthesia this. So that is all dialed in. The product is working great, and it is durable. I remember there was a lot of people who thought that, "Oh, well, the ultrasound competitor is not." We are doing way better than anybody thought from a market share perspective.
+The RF is showing durable results where ultrasound is not. So all ultrasound data, not cherry-picked, but every single piece of published ultrasound data, we have more durable. So we feel really good about it clinically, and then we are continuing to invest in the product to make it faster, easier, radial access, et cetera, shorter ablation times, multi-organ investments, so to make it. So the product is in a great spot. The market development is what we are working on, and that is more insurance coverage. We are going to build off that, and we are building off that national coverage decision in the U.S., now getting commercial payers to fall in line, Blue Cross Blue Shield and Medicare Advantage plans are all starting to fall. We just got Highmark recently. It is a big payer. There are some big ones out there that we need to get.
+Building out that referral pathway. That piece, we now have hospitals more coming to us because the doctors are saying, "Hey, look, I saw the clinical data. It was okay, but this, what I am seeing in the wild in my own practice is dramatic." They are pushing their hospitals into it. So they are coming to us. We are working on the payers, we are working on the market development, and we will start doing more direct to consumer here in the fall now that we have a little bit more of a base in the U.S. to build on. We will target a few cities and go from there, in addition to the social media we are doing.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+This is a` billion-dollar product for Medtronic at some point?
+## Geoff Martha | Chairman and CEO, Medtronic
+Absolutely. Yes.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Okay. Maybe we'll get a timeline on that in December. Stay tuned.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah, stay tuned.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Geoff, a couple other questions here. TAVR was a growth driver for you for a long time. That seems to have slowed.
+Can that be a growth driver for you again?
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah. No. First of all, the low-risk data that came out definitely muted our growth the last couple of quarters. That's stabilized now, and it's been stable for how long?
+## Thierry PiÃ©ton | CFO, Medtronic
+Since early Q4 of last year.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah.
+## Geoff Martha | Chairman and CEO, Medtronic
+We feel like we've hit that bottom out there. We're not seeing that dynamic outside the U.S., that low risk is more, so we're performing better outside the U.S. Even without that, I think the bigger opportunity for us is more shots on goal within structural heart. We think it's a growth segment in Med Tech. Obviously, it is. We've made more investments there. To get into balloon expanding, we made the Anteris investment. We just announced this Pi-Cardia deal, and look, that helps in valve and valve procedures. It's another tool in the box of our ARVC. We have a strong commercial presence. We're one of the market pioneers, got a great reputation, and a good product we need to build around it. So balloon expanding, other tools like Pi-Cardia.
+We got plays in mitral and tricuspid replacement, and we're going to continue to make investments in the space.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+That's helpful.
+## Geoff Martha | Chairman and CEO, Medtronic
+With the growth of the rest of the company, we've been able to absorb the slowdown in that.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+I know you've brought Altaviva
+## Geoff Martha | Chairman and CEO, Medtronic
+Altaviva
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+with you.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Just talk about what this is doing for your public health business, please.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah. Well, it was 15%-
+## Thierry PiÃ©ton | CFO, Medtronic
+It was up 15% in the first quarter.
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+So 9% underlying.
+## Thierry PiÃ©ton | CFO, Medtronic
+Sorry?
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+15% including the extra week.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yes.
+## Geoff Martha | Chairman and CEO, Medtronic
+9% underlying.
+## Thierry PiÃ©ton | CFO, Medtronic
+9% underlying, yeah.
+## Geoff Martha | Chairman and CEO, Medtronic
+That would have been flat. You see our competitors flat. The SNM space has been a little sluggish. I think that will bounce back a bit, but this is going to-
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Do you think you have turned the corner in pelvic health? That has been-
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+a slower growth area for you before.
+## Geoff Martha | Chairman and CEO, Medtronic
+Sacral nerve still has opportunities to improve, but the real story is Altaviva. It is just under the skin, above the fascia. It is a very quick procedure. What you are doing is, first of all, you are bringing in a lot of physicians that were not comfortable with a sacral nerve implant. That is an implant. We need to come up with a better name, as like an insertion. The generic name. The procedure is not an implant procedure. It is just under the skin. No anesthesia, no imaging, no trial. It is easy. These guys are doing it in minutes. The patient goes home right away with it turned on. The sacral nerve, you got to test for it. You have to have imaging workup. You have to do a trial when you get the sacral nerve implant, both ours and the competitor, you have to wait 30 days to turn it on.
+There is a lot to it. This is so much easier, and there is a lot of patients out there. It is set it and forget it. We are debating on the business model. You need to charge it like once a year. Would you just go back to the physician once a year for your checkup? You charge it while you are there in 20, 30 minutes. I think this is a great product, and this is an example of us leveraging our breadth technology platforms. This is basically a cardiac rhythm product that we, the hardware, and then we customize the software and built an implant procedure around it.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Spine was good for you this last quarter, and that is an elective area.
+You are not even seeing softness there going back to the procedures.
+## Geoff Martha | Chairman and CEO, Medtronic
+No. Spine would have even been better, quite frankly. You mentioned China. In China, we are not doing as well. That is our own issue, not a market issue. That is on us. Had that not been an issue, you would see even more growth. That business is mainly a U.S. business. It is like 80% U.S., and it is really strong. As you have seen over the last decade, the enabling technology strategy has really changed the competitive dynamics. You have seen a lot of big-name companies get out. It is a lot of investment. It is a lot of expertise to have that enabling technology, and it makes the implants more sticky, and we believe we are getting better patient outcomes.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Capital allocation. We have seen a pickup in M&A activity. Just talk about your willingness to accept dilution, what your criteria are for acquisitions.
+## Thierry PiÃ©ton | CFO, Medtronic
+Yeah. Look, I think clearly Geoff said we have accelerated the investment in innovation, and it has been on the organic side, but also in the M&A side. We used to be running for $400 million or $500 million of M&A per year for the last six or seven years, and we have announced, I think, $2.7 billion or $2.8 billion in the last 12 months. Clearly going back on offense. But it is always with a view of complementing the portfolio in a tuck-in fashion. If you take Scientia, for example, in neurovascular, it is bringing the access part to the portfolio that we did not have, complementing the portfolio in neuromodulation with PNS or BVNA. It is always with this type of size of acquisition where the risk is acceptable, but the perspective of a positive financial outcome is there. We are going to continue to do that.
+Look, with the cash that we generate, the cash generation is getting better and better. We are getting close to an 80% conversion on free cash flow now. We have ample firepower to do a meaningful amount of M&A going forward. From a dilution perspective, look, some of these deals have put some dilution in the P&L, and we embedded that in the algorithm that we have going forward. We have to offset it with our leverage that we get on overhead and improving gross margins over time. It cannot be either/or, acquisitions or EPS growth. We have to reconcile both, and that is what we will do this year, and that is what we plan to do going forward.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Let us talk about the last five minutes here, the Investor Day and the algorithm, the outlook, Thierry, you talked about. Maybe, Geoff, this is your first Investor Day in six years. At a high level, what can we expect, and why did you choose to host a meeting at IRCAD, which is a surgical robotic training facility?
+## Geoff Martha | Chairman and CEO, Medtronic
+Yeah. Look, when it comes to the robotics, both soft tissue and our spine robot, and the ecosystem around it, including the digital piece of it, you have to see it. You have to see it and how that ecosystem works together and to see how the workflow, especially in spine, it is not a collection of products. It is an ecosystem. We branded it AiBLE, and you could see the workflow, you see the digital, and IRCAD is set up to demonstrate this to audiences. You will hear from physicians that work with our competition. You will hear from them. I think that is more compelling than, quite frankly, than hearing from us sometimes. Yeah, I think we have done this with our board and other stakeholders, and really, it is a great way to see it.
+We are going to focus on not just the big growth drivers that you know about, but there is a lot of growth drivers that we have not talked about that we just do not get the air time to do that. We are going to talk more about them, and it is a great environment to do that.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Great. Just in terms of the algorithm. Last Investor Day, 5%+ on the top line, 8%+ EPS CAGR. I think this year it is about 6%, right at the midpoint.
+## Thierry PiÃ©ton | CFO, Medtronic
+That is correct, yeah.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+High single digit EPS growth. Without giving away exactly what the LRP is going to be, why would it be different from that mid-single digit, high single digit, mid-single digit top line, high single digit EPS? Why would it be any different?
+## Thierry PiÃ©ton | CFO, Medtronic
+Look, that is what we are going to talk about during the Investor Day. How are we going to make this accelerated growth sustainable, and how are we going to generate leveraged earnings in a sustainable fashion as well? That will be a key topic.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Anything, Thierry, on like fiscal 2028, some of that you have the extra week. You have a tariff refund. Does that make that high single digit next year tougher?
+## Thierry PiÃ©ton | CFO, Medtronic
+Look, we will talk about the 2028 guidance later on in the year, but there will be an impact of one less week, for sure, mechanically. But we will also have completed the Diabetes deal. We will have sailed past the tariff issue on a consistent fashion. This year we have got some headwind coming from fuel and things like that. So there is puts and takes, and you will get more details as we go in the year.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Okay. Helpful. We have got a couple minutes left. Any questions in the audience we did not get to? Well, I know there has been a lot of traffic at the elevators, so if I give people one or two minutes extra to get to their next meeting, they would probably appreciate it. But Geoff, before we end, love to give you the last word, make any closing remarks.
+## Geoff Martha | Chairman and CEO, Medtronic
+Look, first of all, again, thanks for having us here. We are excited to be here. The company is in a great spot. You could see the accelerating revenue. It is innovation driven. We see healthy end markets. I get some of the concerns, but that is not what we are seeing out there. We have got a uniquely strong pipeline, broad and deep, and really excited to play out the next couple of quarters and get into the Investor Day and talk about how it is durable and how we are going to drive that leveraged earnings. Because I know that is something people want to see, for sure, scale.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Sure. All right. Geoff and Thierry, thanks so much for being here.
+## Thierry PiÃ©ton | CFO, Medtronic
+Thank you.
+## Geoff Martha | Chairman and CEO, Medtronic
+Thank you.
+## Larry Biegelsen | Managing Director and Senior Equity Research Analyst, Wells Fargo
+Appreciate it.
+Data Source: Quartr Last updated: Sep 8, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (4) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

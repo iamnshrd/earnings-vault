@@ -1,0 +1,7 @@
+Company: Target
+ROIC Symbol: TGT
+ROIC Name: Target Corporation
+Year: 2007
+Quarter: 1
+Date: 2007-05-23 10:30:00
+Executives

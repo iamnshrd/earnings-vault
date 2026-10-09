@@ -1,0 +1,662 @@
+TITLE: Bank of America 2026 Global Technology Conference
+DATE: 2026-06-03
+## Tal Liani | Technology Analyst, Bank of America
+Further ado, I'll start. I was asked to present myself. My name is Tal Liani, and I'm the analyst that covers CoreWeave. Here you go. It's for the transcript.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Awesome. No problems.
+## Tal Liani | Technology Analyst, Bank of America
+Nick, thank you so much for joining us. Your stock has been terrific, we have a few questions about your position in the market, your longevity. This is the first time I interview you in this kind of setup, just I want to start with 30 seconds what we think about the space and your company, and then we'll go to our Q&A. That's what I'm doing in all these kind of sessions. We recently launched with a buy rating on all four data center companies. We call them the GPU companies, CoreWeave, Nebius, Oracle, and Microsoft. The reason why we had a buy on all four names is because we have a terrific cycle. This cycle, I don't see, at least at this point of time, I don't see the sign of slowdown. We're going to talk about it.
+We're going to ask about it. Hopefully, this thing is okay. Here we go. What I want to focus in this discussion, I want to focus on the differentiation of CoreWeave. I want to focus on the value you bring to market. I want to focus on the longevity of invisibility of orders and things like that. The first question I have is, what makes you different? What is the difference between the way you are structured and the way that a hyperscaler is structured from a conceptual point of view?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Absolutely, I think what makes us stand out, there are a few things that are absolutely true, and then there are a few things that are relatively true, right?
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+It's okay, are you comparing us to Microsoft, or are you comparing us to a smaller neo cloud?
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? In the context of compare us to hyperscalers, it's the technology stack. It's fundamentally what we did on a first principles basis is rearchitect the way that cloud stack is built. The reason we did so is AI cloud is based on a different type of workload.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+It's based on parallelized compute, which is quite a bit different than the way CPU workloads historically were based, which is serialized compute. Serialized compute the concept is built for redundancy. The workload is small enough, it's going to be run on a CPU over here, and if that CPU breaks, I'll run it over here, and so I'll be able to serve the problem no matter what. Parallelized compute is the workloads are really big. Actually what you're going to do is you're going to have a bunch of GPUs working together on a single problem. The challenge with that is when a GPU breaks over here, it can't be replaced over here. The entire system is down. Right? We built the technology stack geared towards optimizing a few different things, which are, one, the efficiency of the overall ecosystem, right?
+We effectively ripped out the virtualization layer that lives in a hyperscaler's cloud stack. On top of that, we built a proprietary orchestration layer that's gotten uniquely good at provisioning GPUs, of understanding are they healthy or not, of predicting when they might not be healthy, and ensuring the workload remains safe. You combine those two things, and you end up with a cloud stack that is more performant. What that allows you to do is, one, be the cloud partner of choice for virtually every sophisticated user in this ecosystem, and I think we're the only independent cloud company that does service both OpenAI and Anthropic, and Meta, and Google, and Microsoft, and NVIDIA, and the next layer down, whether you want to call that a Cursor and a Cognition and Perplexity or a Cohere and Mistral AI, right?
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Nick Robbins | VP of Corporate Development, CoreWeave
+We're pretty singular in that capacity because of the unique quality of what we can deliver. What it also allows you to do economically is ultimately charge a higher price per GPU hour while still delivering a lower TCO to your customer because you are delivering a much more efficient and performant product.
+## Tal Liani | Technology Analyst, Bank of America
+I interviewed all the companies because I had to launch coverage. I spoke with Microsoft. The first thing they told me when we spoke about this space was this is a temporary solution. When we build enough data center capacity, we'll bring all the capacity in-house. What's the risk of you being a temporary solution versus a permanent solution?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I think highly limited.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I think it's highly limited for a litany of different reasons. One, I think that the hyperscalers were the first large consumers of this infrastructure, but that is not the steady state of this. Already, you have OpenAI and Anthropic, excuse me, rivaling just how much compute they want to consume relative to a Microsoft. Already, you have a long tail of enterprise customers looking to consume directly, right? Oh, had the same issue you did. Already, you are seeing even our reliance. When we went public, Microsoft was 85% of our revenue backlog, right? Today, they're not even our largest customer, right? They're not even our second-largest customer, right? The natural diversification that has come into this industry has diversified away that risk.
+On top of that, the way I think about the renewal problem, because I've been getting this question, particularly with regard to Microsoft, since 2023.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? I got the question as an advisor to the company. I got the question as an investor of the company, and now I get the question as an employee of the company, right? The way I look at it as I try to study the history of the cloud in general. Two observations I've made that no one has really pushed back on yet are, one, I am not aware of any point in time in the history of the cloud when a hyperscaler has chosen to actively reduce their data center footprint of revenue-generating data centers.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+To not renew is to shrink.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+That seems to defy the history of the cloud. The other part of it is using the CPU cloud as the analog. If you look at the Azure portfolio of data centers for CPU, a lot of it is owned and some of it is leased. Right? I think the steady state of GPU cloud or AI cloud looks like a lot of it is owned and some of it is leased. The core difference being when you were building CPU cloud, about 2/3 of your cost was the shell itself and about 1/3 of the cost was what goes in the shell.
+When you build AI cloud, it's the inverse, right? 2/3 of the CapEx goes towards what goes inside, and about 1/3 is the shell itself.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I think it stands to reason that for the portion of a hyperscaler book that is leased, that they probably are going to want to not only avoid the CapEx of the shell, but avoid the CapEx of what goes inside, given it's twice as expensive. You put that all together and frankly, that's not the thing that keeps us up at night.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Let's talk about visibility. Spending CapEx growth has been phenomenal for the last two years, including this year. How confident you are that this spending cycle continues? I know we don't have the answer. I'm trying to get to your thinking process.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Sure.
+## Tal Liani | Technology Analyst, Bank of America
+Meaning what are the drivers?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I do come back to what are the drivers and how we think about it or maybe even slightly different things. What are the drivers are it's adoption and productivity expansion. You're seeing so much of it happen this year, right now. If you look at the growth of the Anthropic's of the world, and the OpenAI's of the world, like you are seeing enterprise adopt, you are seeing AI diffuse. We are seeing it show up in our pipeline with a long tail of enterprise customers who want to consume this technology directly as opposed to indirectly. The how we think about it is directly informed by the pipeline.
+In so many ways, our business benefits from a flywheel that starts with the fact that we uniquely serve and are the trusted engineering partner to virtually all of the sophisticated users and consumers of this technology in the world. We understand where they want this to go, and we build towards it. The anecdotes I would give you are back in 2023 and early 2024, we were building with InfiniBand, and a lot of people were saying, "Why are you spending all this money on InfiniBand? All the hyperscalers just build with Ethernet, and they say it's cheaper, and they say it's just as good.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? Models are going to get quantized down to a single GPU or a fraction of a GPU, and what do you need all this dense network fabric for? What happens in September of 2024? OpenAI o1 comes out, all of a sudden you have inference being run not on a single GPU or even a single node, but across nodes, and you need a denser network fabric to run that efficiently, right? All of a sudden, building so much with InfiniBand almost seemed clairvoyant, right? I would say similar thing about focusing our efforts on procuring liquid-cooled data center capacity back in 2024, right? Building ahead of GB coming out in 2025.
+We've made very similar investments and bets in the portfolio across things like storage and CPU to position ourselves to take advantage of those tailwinds over the course of this year and next. I would say similar, like we're doing that because we know what the customers are going to need. We are working closely with them, and they are telling us because they want more from us because of the quality of what we deliver. What they are telling us is this is not going to slow down, and frankly, they're telling the world that, right?
+In 2023 and 2024, even for a lot of last year, it seemed almost contrarian to believe that this cycle was going to continue and in orders of magnitude larger, even though Jensen Huang and Elon Musk and Sam Altman and Dario Amodei and Satya Nadella and Sundar Pichai and all these people were telling you it would, right? Just believe them, right? They're telling the truth and what is a better data point of that than Google raising $40 billion yesterday, right?
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Who had on their bingo card that Google was going to be raising equity securities this year at tens of billions of dollars of scale? I think that is no one. Why are they doing that? It's not because they intend on slowing down anytime soon.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Another question we're getting a lot is about understanding the business model.
+Meaning people ask me about unit economics. I'll start with a high level question. What's your business model? When you sign up a customer, how do you think about the first period, renewal, other customers? What value can you extract from a GPU?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Yeah. I'll speak to the core business model and how it's evolving over time.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+The core business model, you got to think about where we got started, is you sign longer-dated contracts with customers where they're contractually bound to pay you a fixed price per GPU hour, regardless if they use it or not. It's called the take- or- pay contract for the next four to six years. Why did we start there? We started there because to build a cloud business is equal parts technology and infrastructure. Scaling technology often comes without capital intensity. Scaling infrastructure never comes without capital intensity. To build a hyperscale business, which is our aspiration, and arguably we're there already. We're more than a gigawatt of active power at this point in time. To do that, part of the name of the game is you want to be able to have as much access to capital as possible at the cheapest price imaginable.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Signing these longer dated take-or-pay contracts, taking them to the asset level financing market, has been a way where we could borrow capital at costs that are way closer to our customers than our own.
+Right? That is how you build scale as quickly as we have. I would say we are the only company in the world, in this ecosystem, that has built the scale that we have as quickly as we have. No one is even close, who didn't have an investment-grade balance sheet to begin with. We are singular in that world. You've got to start with that core foundation, with the beauty of it being, hey, a five-year contract is going to pay for all the financing costs and all the CapEx associated with standing up that cluster. It's going to cover all the OpEx during the life of that cluster, and it's going to pay for another five years of data center expense on top of that.
+What you're positioning yourselves for is four years from now, five years from that initial contract, you're going to own infrastructure that is your own to monetize. Every dollar you get out of it is just cash flow accretive to what you paid initially. Being in control of that massive infrastructure that is of critical importance is incredibly valuable.
+That's been the foundation for a while. It will continue to be. What we've been able to do as we've gotten bigger, and access to capital has gone up, and cost of capital has gone down, is we've been able to position the portfolio to include some shorter dated contracts, too.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+We like shorter dated contracts, in that what it exposes you to is a higher margin, a higher ASP. If you're committed for fewer years, you're willing to pay a higher price. What it allows you to do is to take advantage of the increasing demand for this technology such that, hey, a piece of machinery two or three years from now might be more valuable, and you might get a higher price than what you're charging today. That's been our experience with Hoppers. We're selling Hoppers today at higher prices than we were three years ago.
+The reality is, no non-investment-grade business can build a hyperscaler of on-demand product without diluting their shareholders by 80% or 90%. You just can't do that. As you get bigger, you get to twist the dial a little bit, and that positions us to better take advantage of repricing existing infrastructure, of selling more on spot over time.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+That is why in Q1, we announced our spot product. We are getting to the point where we are hitting escape velocity, and we're able to take advantage of those market dynamics better at scale.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah. What happens to the GP? I'm talking about the big contracts. There's an initial contract, let's say five years. What is your margin during that time, and what happens after that with the residual value?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Sure. The margins in that time for that base contract are mid-20s contribution margins.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+We consistently underwrite that for new infrastructure, for that five-ish year deal. If it's a shorter deal, it has higher contribution margin. What's the opportunity after that? The opportunity after that is you go sell it in the on-demand market. You go sell it at spot, which when you're signing a five-year commitment, you are signing at a price that is lower than on-demand.
+## Tal Liani | Technology Analyst, Bank of America
+Right.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+You are selling 100% utilization for every second of every hour of every day of every month of every year for five years. What you can start to do is take advantage of, okay, this is paid for. I don't need to go finance it. What that allows me to do is go sell it at spot where pricing might be higher.
+## Tal Liani | Technology Analyst, Bank of America
+The fact that the technology at that point is going to be five years old, does it mean that you have to find new types of customers, or?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I think it's more likely that you find new types of workloads than new
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Nick Robbins | VP of Corporate Development, CoreWeave
+types of customers. What we can observe is Ampere and Hopper pricing has gone up,
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Nick Robbins | VP of Corporate Development, CoreWeave
+pretty consistently over the past few months and maybe even a bit longer than that. I think it's highly unlikely that Ampere, which for us went up in Q4, ASPs went up, and in Q1, they went up again. I think it is unlikely that a bunch of people are contracting Ampere, which is, at this point now, rapidly approaching six years old. I think it's a late 2020 SKU, for train.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+That is, we have workloads that run very well for this from an inference perspective. We are making really attractive returns,
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Nick Robbins | VP of Corporate Development, CoreWeave
+by buying this, so we are willing to pay more for it. I think the customer might evolve. The customer might be the exact same. They might just match a different workload to it. I almost think of OpenAI's router model. People hopefully haven't already forgotten that six or nine months ago, you got to pick your OpenAI model.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+You could do the, I want o1 or I want o3, or I want GPT-4. I was the person who was like, "Okay, I want the most performant model for everything." It doesn't matter what the query was. That was probably an irresponsible use of compute, right?
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+What they did is they introduced a router model where they said, "Okay, based on the query, I'm going to map this to a GPT-3 that might be running on Ampere, or o4, which might be running on a B200 or a GB200." I think you will also see more of that where customers get more sophisticated about, okay, this workload goes here, that workload goes there.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. I always tell my fiancÃ©, "Don't thank ChatGPT. You're just burning tokens. There's no need.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I remember when Sam Altman said that, but when the machines take over,
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Nick Robbins | VP of Corporate Development, CoreWeave
+you want to be nice to them.
+## Tal Liani | Technology Analyst, Bank of America
+Your accounting, you're depreciating your assets for six years, the GPUs for six years.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+Will they survive six years?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I think every data point that we can observe in the market suggests that the answer to that is, if anything, we're being conservative. Right?
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+The analogs we can point to are Volta Energy and Tesla. Right? Older GPU SKUs are still running in clouds. Those are late 2010 SKUs that are still being monetized today.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? I imagine a similar thing could be said of TPUs that are 6+ years old. Right? Again, we're looking at Ampere. We're getting to six-year-old SKUs, and those things are humming.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? I think it feels to me like this debate part of it has maybe waned a little bit in the last few months as people have seen Hopper pricing be higher today than three years ago.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? They're like, "Oh, I guess it wasn't a three-year useful life." I think it will continue to wane, but fear of the unknown is definitionally unknowable until you get there, and Hopper is a late 2022 SKU, so we'll see two years from now. Everything we see suggests that they will be monetizable. What I would say, if there is true risk from a hardware perspective of will it perform, I feel way, way better about Hoppers running in CoreWeave Cloud,
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Nick Robbins | VP of Corporate Development, CoreWeave
+than any other cloud in the world. Right? Because what our orchestration layer does, what Mission Control does, in large part, is it keeps GPUs healthy.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+The healthier that you keep the thing, it's more likely that it's going to run for longer.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right?
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Yesterday, I hosted, for a keynote, the founder of a company called TECfusions, and they build data centers.
+It's a real estate with power company. He said, "Half of the companies that tell you they're going to build data centers are not going to make it on time.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+The question I'm asking you is, your backlog had grown up tremendously, your revenues, the outlook is great. Talk about the operational risk.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Sure.
+## Tal Liani | Technology Analyst, Bank of America
+Talk about the operational challenges in bringing capacity online to meet your liabilities or your commitments.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+CoreWeave exists because we are excellent at three things, and you need all three to build the business we have in the time period we have. We deliver excellent technology, most performant cloud out there, right? That's ask our customers, ask experts. I think that's the consistent feedback. We're excellent at scaling this infrastructure and delivering cloud, right? We are excellent at navigating the capital markets to permit us to do so. Right? You can't exist and build a business from zero to hyperscale without being excellent at those three things. We feel exceptionally good about our ability to deliver on the timelines that we've agreed to with customers.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I think our track record is, I would argue, wildly underappreciated in the market. What I mean by that is we have close to 50 data centers online. The overwhelming majority of them have been on time, some have been early, a few have been late. We did get on our Q3 earnings call, right, and say, "Look, this is an industry-wide thing." We have one data center development partner who's struggling more than others, and they're delayed, and that's impacting our Q4. It was not an overwhelming impact to Q4, right, but it was an overwhelming reaction from the market because I don't know that they appreciated that things are going to be delayed. I think that what is unique, and my guess about this is in terms of what's going to happen, there are six companies in the Western world who have delivered AI cloud at scale.
+It's Microsoft, it's Meta, it's Google, it's Amazon, it's Oracle, and it's us. I'm not saying there aren't other people who are signed up to do it or who may do it in the future, but the reality is those are the six companies who do it, and five of those companies have gigantic other beautiful businesses that obscure away the economics and what's actually going on quarter to quarter of AI cloud. There's us, who we don't have those businesses to obscure it away. There are going to be more companies, neo clouds, that are scaling real size of infrastructure in the coming quarters. They're going to try to do it multiple times, which is something we've done, like I said, we have close to 50 data centers as of
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Nick Robbins | VP of Corporate Development, CoreWeave
+the end of Q1. I think 49 was the number. I think the world is going to see more delays and more struggles, and the world is going to think that things have gotten worse, not better. I don't think that is true. I think you are just going to see more people attempt to do it who can't obscure things away.
+Do I think working through operational challenges is something that is part of this job? I think it absolutely is. Why do I feel that we're well-positioned to do it? Well, one, we've done it a bunch of times. We have an excellent track record in this regard. Two, one of our real superpowers is we are able to take a PowerShell and turn it into a supercomputer that's part of AI cloud in something like six weeks. It takes most guys three to six months to do that. When you're able to do things as efficiently as we have, and by the way, we think we're going to keep getting better there. We are able to offset some of those challenges that other people face in operational ways.
+We were planning it would take three months to deliver this, well, we only need six weeks, if you're two weeks late, we can still be early.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? I think that is the biggest part of it.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. What about supply constraints? How do you manage the fact that component cost is going up constantly?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+We pass it through to customers, right? Well, the reality is, you do that in two ways. The overwhelming majority of our CapEx is spent on servers, where we're signing purchase orders with our partners. At the same time, we're signing order forms from customers. We're able to say, "Oh, the pricing just went up. Great, we have to charge more for it," and then we lock it in.
+## Tal Liani | Technology Analyst, Bank of America
+That's before you sign the contract.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Correct.
+## Tal Liani | Technology Analyst, Bank of America
+At the time of signing.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+At the time.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Think of those things as concurrent.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+For smaller parts of the business where you have a bit of exposure, like storage, I would think of some of our pricing mechanisms as a bit more cost-plus oriented, where there can be an escalator in price if there's an escalator in cost.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Enterprise customer. Enterprise and we spoke about other types of customers. Talk about your efforts to go after the interesting opportunity of enterprises. Some of another neo cloud company, much smaller neo cloud company, they make it their vision.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Yes.
+## Tal Liani | Technology Analyst, Bank of America
+They only focus on the enterprise. What about you?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I think there's a difference between making it your vision and only focusing on it.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? I actually think those are two disparate things.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? I don't know that there's actually any neo cloud out there that actually only focuses on the enterprise, right, because if you actually look at who's paying them revenue.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I think it's not even research labs, it's hyperscalers.
+## Tal Liani | Technology Analyst, Bank of America
+I'll stop you for a second because I'll define it better. They use hyperscalers in order to fund the build-out, but they say, "Once we build it out for Oracle, for whatever, once we build it out, we're going to shift it and only address the enterprise." They really only want to focus on enterprise.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+What I think I'm hearing from you is you're saying they're going to take a longer- dated contract, use it to pay off the infrastructure-
+## Tal Liani | Technology Analyst, Bank of America
+Exactly
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Then take that infrastructure and sell it to other people.
+## Tal Liani | Technology Analyst, Bank of America
+That's-
+## Nick Robbins | VP of Corporate Development, CoreWeave
+It'll be entirely theirs.
+## Tal Liani | Technology Analyst, Bank of America
+That's their strategy.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+I would say that sounds like the business model that we brought to market in 2023 and defined.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+It seems like a lot of people have adopted it.
+## Tal Liani | Technology Analyst, Bank of America
+What about go- to- market?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+The other parts.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+We've invested pretty heavily in building out that muscle, right. We hired Jon Jones, last year, who was a senior go-to-market leader at AWS, who is now our first CRO. He's been building out that part of the sales force. It is of extreme focus to us. I think the way we think about how we allocate capacity, because it really is an allocation conversation, hyperscalers are really nice in that they also give you a prepayment, right. A lot of the time. That gives you a more effective way of financing. We want exposure to research labs, right. We want to be a trusted partner to OpenAI and Anthropic and Meta, right. The next tier of the list. We also want to be partnering with the enterprises, and we've had real success there. In Q4, we announced folks like Mercado Libre as customers.
+In Q1, we announced that 10% of our $100 billion revenue backlog was financial services companies, right? That's close to $10 billion of enterprise within a single vertical, right? That's not accounting our success in industrials and healthcare, et cetera. I think you will see us continue to add new logos and continue to allocate capacity to those enterprise customers.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah. Great. I used up most of the time. Is there any question from the audience? Raise your hand. Yes. Instead of waiting for the mic, just shout it out.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+When you talk about performance, I guess let's take a step back and maybe I'll hit on two things. One, you're absolutely right. I think what you'll see in the agentic era is more use, the attach rate or the ratio of the CPU- to- GPU will go up. The necessity for storage and keeping data close to the GPUs will go up. I think what you've heard from us in Q3, we started talking about our storage business, how it had eclipsed $100 million of ARR, and it was growing like a weed, and it was a business we were really excited about. Similarly, we started talking about our CPU business in January, and obviously, I think today the world has a better appreciation of why we started talking about it in January.
+When it comes from a performance perspective, what you are doing is making a complex system more complex. You're making it bigger, you're adding more directional data flow and communication. The bigger clusters get, the more complex workloads get, the more differentiated our software stack proves to be. That was true in training. That's been proven true in inference as well. I think that feeds into our competitive advantage and differentiation over time.
+## Tal Liani | Technology Analyst, Bank of America
+Right. Last question, is there a risk of capacity commoditization over time?
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Yes, it's a question of when. Is there a risk of that this decade? I do not think so.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Right? To be clear, this platform, we've been the guys since 2023 when I first met Brian Venturo and Brannin McBee and Mike Intrator and Peter Salanki. They were saying this was a rest of the decade problem, and a lot of hyperscalers were saying this was a six-month problem. In the same way they said, "Oh, neocloud's a short-term thing," and then they go out and sign $80 billion of more neocloud stuff, right?
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Our view has always been, what is your right to survive and thrive as a cloud participant? In a world in which you do hit supply-demand equilibrium. Our simple thesis has been, this is what you need to achieve. Hyperscale, think we're well on our way. Competitive cost of capital, I think we're well on our way. We've cut our cost of debt by close to 700 basis points since the beginning of 2024. You need to deliver interesting technology, I think we're already there. If you can do all those three things, you will have a right to compete and an ability to compete from a cost of capital perspective in a more balanced world.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Understand. Great. Thank you, Nick. We ran out of time. We could have continued another hour. Thank you so much.
+## Nick Robbins | VP of Corporate Development, CoreWeave
+Thanks so much, everyone.
+## Tal Liani | Technology Analyst, Bank of America
+America, that's for the benefit of the transcript, so we can pass this. Jay, thank you so much for joining our conference. I really waited for this session because I read an interview with you that you believe that you don't do a good enough job to explain your company to investors. I want to give you the opportunity to explain your company. The first thing I want to start with is, normally I don't ask about the quarter, but I do want to ask about the quarter because I thought there was a difference between the way you performed financially and the way the stock reacted.
+What is misunderstood by investors in your company's performance?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Okay. First of all, as you saw, the Q3 performance was very good. We beat all metrics that the investors look for.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+I think for going-forward guidance, there are two aspects to it. One was Q4, and second was fiscal 2027.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+The two factors for us to be more cautious about the guidance, one was we had a couple of changes. We had two leaders reporting to our CRO moved for two various reasons. One, for personal reason, understood, and second was an opportunity at a pre-IPO company.
+## Tal Liani | Technology Analyst, Bank of America
+Okay.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+When leaders leave, we want to make sure there's transition involved, and that it'll have some impact. That factored in. Second was the Red Canary customer base. We have built a new product combining Red Canary technology with our technology, and that new solution is getting showcased next week at our annual conference. The uptake of those customers, we still need to understand. Keeping those two things in mind, we set the expectation at what my CFO will call at a prudent level.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+In terms of the external market factors, the market for cyber has never been hotter.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+MITRE has further put fuel to the fire. They're probably the biggest tailwind since COVID for our company. This platform has gotten bigger and bigger. Loyal, happy customers. We have essentially gone through the transitional sales that started about a little over two years ago, and we've gone through most of it, and we look forward to expecting in Q4 and 2027.
+## Tal Liani | Technology Analyst, Bank of America
+Yep. Maybe let's start with if you can articulate your target markets. Meaning, what are the opportunities you're going after? No, I'm not talking about the quarter thing.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+No.
+## Tal Liani | Technology Analyst, Bank of America
+It could be a three-year, five-year.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+What are the opportunities you're going after?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah
+## Tal Liani | Technology Analyst, Bank of America
+Why are you well-positioned for these opportunities?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Right. It also relates to the question you asked, what investors don't understand.
+## Tal Liani | Technology Analyst, Bank of America
+Yes.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Okay. Investors understand mature, established market well. A firewall is a firewall. It doesn't need to be explained much. A router is a router. Maybe the feeds and speeds are better. Okay. When you bring transformation, you bring totally new changes. It takes some time to explain itself. What happens is, the established incumbents fight back because they get disrupted.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+They like to say, "We do that, too." It's like internal combustion engine car companies fighting against electric car, and said, "Forget it. I'm better." Okay. That's the fight that goes on. Take one example. Zero Trust is fundamental. With MITRE, it's becoming more and more important because there'll be more breaches. It's given. You can't be able to patch all the way. Zero Trust will make sure that only certain parties talk to certain parties. The breaches don't spread. The blast radius becomes smaller. Many times, people think that just because a lot of me-toos are trying to say, "Oh, we do Zero Trust , too." This fancy new four-letter word, SASE. We do SASE, too. Okay. First of all, SASE and Zero Trust aren't the same.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+SASE allows SD-WAN lateral movement of light. The second part is, Zero Trust started with users. We made users Zero Trust phase I. We made cloud workload Zero Trust . What's my competition for Zero Trust Cloud? 30-year-old firewall technology, east to west, north, south traffic. We made branches Zero Trust . Each branch is like an island. There's no lateral movement. Device in a branch. We call it Zero Trust Everywhere story. That Zero Trust Everywhere is just beginning to take off. We shared with you at the earnings that now we have over 700 customers doing Zero Trust Everywhere, which means users, branches, cloud workloads, and devices. That same number was 550 last quarter. Big opportunities to make Zero Trust Everywhere, market number one. There's really not a real competition from firewall vendors out there.
+It's only probably on the lower end of the market because the high-end customers generally are more savvy. They get it.
+The second big opportunity is data security. For data security, you need to sit in line as a proxy architecture, inspect the stuff. Firewall vendors don't do data security well. They're not a proxy architecture. We have over half a billion-dollar ARR business. If it were an independent company, it'll be the largest data security company, perhaps, and still growing over 30% year-over-year. We do that stuff very well. Okay. Those are one set of areas. Look at the newer areas. Oh, before I go there. The most important Zero Trust, next area is Zero Trust for AI agents. Search for Anthropic's white paper on Zero Trust for AI agents. It just came out two days ago. I looked and say, "Huh, they wrote what I would have written. Huh." Literally, they understand it.
+Their stuff was agent- to- agent communication must happen through Zero Trust, not through the firewall. We actually have been building that solution. We plan to launch it next week at a user conference, and there'll be millions and millions of user, or agents, and they need to be secured. That's an opportunity. Securing AI infrastructure and applications and models. We have been building that solution. We did an acquisition, and in January, we launched our integrated solution. Our customers want integrated solution, not five different vendors. That solution is taking off quite well. We already exceeded $100 million in bookings for that solution. Big opportunity for us. Agentic SecOps. While there are many players in agentic SecOps, AI actually is useful for building SecOps. There are probably 500 companies, startups in agentic SecOps, maybe more.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Because they think they can build it easily, the advantage will be to vendors who actually have telemetry and metadata to do it. We are in line. We probably have the most valuable data from communication. We are on endpoints. We have endpoint telemetry. All authentication goes through our via identity telemetry. Our customers are saying, "You got the data. I don't need to pass data to someone to build the SIEM. I want really output that can be done directly with us." That's an opportunity for us by itself. There's no lack of products, and we do product carefully.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+We don't go on a buying spree for, I mean to say A, B, C. They're well- integrated. They're part of the story.
+## Tal Liani | Technology Analyst, Bank of America
+What makes you be successful in these areas? Meaning, the current position that you have with customers, what are the parts that can be levered into the new areas?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah. First of all, Zero Trust Everywhere is expanding from what we have.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+It's very, very natural. When customers go from Zero Trust on users to Zero Trust Everywhere, the ARR either becomes two X or three X.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Similarly, we are natural. If you got a user Zero Trust, natural to the nest. Data security, we're sitting in line inspecting traffic. Most of the time, data leaks to the internet. We are the natural player to be able to do that. If you think about for agentic style, it's natural that we do that. If you think about the SecOps was driven by the fact that we got all the telemetry and metadata. We can do that, but one more point. In minutes, I can figure out some of the new threats. I can do a closed feedback system to the inline system to block those threats in near real- time. That doesn't happen otherwise.
+Very synergistic platform expansion.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah. Is there a risk of slow take rate? Meaning, what I'm referring to is the majority of the revenues today are ZIA and ZPA. You have new areas you're going after.
+Is there a risk of a kind of transition period?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+If you look at the ARR or emerging growth or new ACV has been growing rapidly.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+We have been giving some stats, for example. Great to see data security grew so well.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+We have seen in the past couple of years, we used to do emerging products, and some of them already emerged.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+We stopped doing emerging. The emerging went from what? 8% or 9%- 30% in two, three years. That's a remarkable expansion thing. If the products are synergistic and the decision-makers are similar, it becomes meaningful. If decision-makers are very different, it becomes a lot hard. That's why we elect our products. One more thing. As products have expanded, we now do have specialty overlay salespeople who can go deeper in certain areas, but they work with account executives.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+You mentioned data security, and this has been a focus of yours for quite a few years.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yes.
+## Tal Liani | Technology Analyst, Bank of America
+Double-click on this market, meaning what is attractive within data security is a big space. What is attractive, and what are you addressing within data security?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+About five, six years ago, we only used to do DLP, inline DLP.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Our largest customer said, "Doing data security with one vendor is hard enough. If I buy three products from three vendors, it'll be impossible. Zscaler, you should focus on building a complete platform for data security." That's when we expanded to CASB, SaaS security. We added Endpoint DLP, added Email DLP, and we added cloud security, S3 buckets, and all. Recently, last year, we added DSPM, discovery classification data. It is the most comprehensive integrated platform.
+We think we have a big edge. We have very good uptake by our customers.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Very pleased with the performance.
+## Tal Liani | Technology Analyst, Bank of America
+Again, the same question I asked you before. What makes you better- positioned for this market, given that it is being addressed by other players as well?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Not really that much.
+## Tal Liani | Technology Analyst, Bank of America
+Okay.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Think of which SASE vendor does data security very well. Not a whole lot.
+There is a class of vendors coming from the startup side. They call them for DSPM. DSPM, one more four-letter acronym.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Partner. It's called data security posture management. At a simplistic level, it does two things. One, it allows you to discover data. Where is my data? Data center, AWS, Snowflake, wherever. Then it helps you classify the data. That's important. It doesn't do data DLP. Okay. You do classification and discovery, then you combine it with a DLP, then it becomes a complete solution. We came from DLP side, we added DSPM, we have a complete solution. Generally, there's a lot of wording, DSPM is important. It is important. You hear about some of those vendors.
+## Tal Liani | Technology Analyst, Bank of America
+Yes.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+They will have to do DLP to be successful in data security. We are ahead of anyone in this area.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+The customer engagement track record working with us. DLP should only be done with somebody who is already setting the traffic path.
+Some new first vendor to come and say, "Put me in the traffic path"
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+is a big ask.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. I want to go back to ZIA/ZPA just because it's a big portion of your business. How's the growth like, and what are the drivers? When I talk to Cisco or Fortinet. Yesterday, I hosted Ken Xie here, and Ken said, "I'm a third of the price." He said, "That's my thing. I'm bundling it together with my firewall. I'm riding on top of the firewall. I'm a third of the price." What kind of a disruption do you see from companies who are trying to bundle firewall with SASE or SSE?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Two things. First, if you want product functionality A and you get B, I'm not sure in cyber if someone gives it to me free, I won't take it.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+If it doesn't work, so they are all firewall functionality. There's nothing Zero Trust about it. In many product areas, good enough is good enough. Perhaps HR system, no. They are pretty important.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah. Not as important as cyber.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah. I'm okay with a good enough HR system, but I'm not okay with a good enough cybersecurity. CEOs have to think that, "If I get compromised, what's the consequences?" That's point number one.
+Point number two is that customers are understanding more and more the need for Zero Trust .
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+I think the wind is not towards I can give you cheap firewalls.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+It is true that lately, in my view, firewall vendors have been helped from two things. one, the prices have gone up. Heck, if you raise the price 15%, if you beat the quarter by 15%, what's the big deal about it, right?
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+It's external factor that brought you in. Two is I think they're also getting some tailwind from the AI data centers being built.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+We are clearly seeing Zero Trust momentum building up. Our growth should not be looked at ZIA/ZPA for users alone. That's a starting point. It's not a core versus non-core.
+## Tal Liani | Technology Analyst, Bank of America
+Right.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Our product to stay Zero Trust users to branch to cloud. How well is the overall portfolio growing is really important part of it.
+## Tal Liani | Technology Analyst, Bank of America
+Right.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Overall, we're doing quite well.
+## Tal Liani | Technology Analyst, Bank of America
+Is there just because of the fact that there is more competition today on SASE, even inferior solutions.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+Cisco is in the market, and Fortinet is in the market, and Check Point is in the market. These are new players. They were not in this market before. Does it translate into pricing pressure or shorter duration of contracts, or do you see an impact of the new competition?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+On the high end of the market, which we actually do extremely well.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+We don't for two reasons. One, they understand architecture value.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Many times procurement likes to bring someone in, even just to put pressure on the pricing. This is how many times the dialogue goes in. A firewall vendor goes in and say, "You're spending $20 million with me, Mr. Customer. Just you need to expand. Here's $5 million more, and for $2 million, I'll give you what Zscaler has for free." They're probably paying us $5 million in that account. We are able to go in and say, "Oh, you're spending $20 million on firewall, which is becoming like mainframes. The future is not firewalls.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+What if I bring that number down from $20 million to $10 million in 15 months or 12 months, and rather than $5 million, you give me $8 million?" When the customer sees the math, it becomes a no-brainer. I had been many on these pricing pressure calls have come from time to time, say, "Oh, Zscaler, my budget is down 15%. I'm asking every vendor to bring the price down by 15%." That call happens with CIO from time to time.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Generally less pressure on security, but many times they come. I can say, "Mr. CIO or Miss CIO, why do you only want to reduce 15%? Why don't I help you reduce actually $5 million or $10 million?" You say, "Really? How?" "Here are the things we can take out." When that discussion happens, CIO is not worried about saving $500,000. He want to save $5 million-$10 million. We're able to open new areas and new opportunities in the area. Overall, there's not a meaningful change in pricing pressure.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. I understand. Can you talk about new customers versus upsell to existing customers? What are the dynamics of gaining new customers versus the other part?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Our customers are overall very happy customers, very loyal customers, so upsell is a lot easier. In fact, quite a few times, the call comes in, the customer or CIO or CISO moves from company A to B, they call us.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Say, "Hey, I want to bring Zscaler in." In fact, it's probably one of the most effective lead sources for us. We got hundreds of customers where CISOs have gone from company A to B to C. Early on Monday, I got an email from a CISO who just joined a Fortune 10 company. He was in a Fortune 25 company before, another one, he bought us in company 1, company 2, and this company 3 he wanted to connect, and he said, "Hey, I don't even have to do much work. Zscaler's already deployed here, I can probably expand it." Expansion is obviously easier when you have good customer base. New logos do take more effort.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+There have been discussion inside the company over the past few years, do we give more attractive comp plan for new versus old? Part of the discussion was, do I want people to too much focus on new at the cost of upsell? If you are a company with a small portfolio of products, you must get new logos to grow.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+If your platform keeps on growing, you have two ways to grow: upsell and new. We have both of those opportunities for us. If you think about the total customers, about over 45% of Fortune 500, and if you go to the bigger enterprise level, from 2,000 up, 2,000 is our threshold for enterprises, and there are about 20,000 enterprises.
+About 4,500 are customers. That's about 23%. This is a sizable market to go after new. One of the things we're changing going forward this year is, as we add new salespeople, when company is growing, you need to add salespeople. We are more being added between 2,000 to 10,000 space.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Which is largely new logos because our penetration there is limited.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+We're adding new reps for new logo focus. We are making sales comp plan more attractive for new logos, and we're also going to be more targeted with VARs because at that end of the market, you do need to work with VARs to have proper coverage.
+## Tal Liani | Technology Analyst, Bank of America
+I asked you about competition, and I forgot to ask you about Microsoft, so I want to go back to it and see. Do you feel the pressure from Microsoft? They have very disruptive pricing, but product quality is not the same. How do you see Microsoft in the market?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Over the years, Microsoft has been a great partner. We were the one who helped Microsoft 365 local breakout big time. That's when we got the highest level relationship with Microsoft. We're integrated with Endpoint, EDR, identity, Microsoft Sentinel, and about three and a half years ago, they launched a competitive product. I was not kidding, really telling Microsoft, "You guys even stole my name.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Internet Access or Private Access. At that time, as I talked to Satya Nadella, Scott Guthrie, they basically said, "Look, you got a 15-year lead over us. We need to offer the product. Work with my sales team. My sales team's quota is $100 million. Security in a given customer will be $5 million. They're not focused on security. If your product is good, the customer likes it, they'll be fine." Three and a half years later, I don't even recall last time I had to say, "Man, we're competing with Microsoft." My data points are more on the higher end of the market because that's where-
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+I spend more time, but it is not a meaningful factor.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Working on the portfolio is one challenge, and you've done great.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+You have very articulate product strategy.
+The second part of the battle is working on go-to-market.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+Talk about the efforts on go-to-market. The success stories, the challenges. Kind of give us the whole picture of how you evolve your sales organization to address the new opportunities.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah. About two and a half years ago, we made the decision that we need to move from opportunity-centric sales thing to account-centric stuff. We brought Mike, great CRO. He has done a great job in making changes. We made big changes at that time. We wanted leadership and salespeople who knew how to deal with large accounts, borrowing from the ServiceNow model, which was successfully done. Over the past two years, we have actually successfully made all the changes. I mean, if you look at the numbers we have delivered over the past two years, they're pretty impressive. Now, they slowed down. Absolute growth and net new ARR slowed down in 2024. It picked up in 2025.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+In 2026, you saw the numbers, net new ARR growth has gone up. Going from 2024 in the 0%-1% range to 7%. The first half of 2026 was what? 10%. The last quarter was what? 14%.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Doing pretty good. We want to do better. I'm an ambitious person. I have big aspirations. Really need to keep on moving in that direction. We did have a little setback with a couple of sales changes that we are factoring the guidance. The market is good. As we pass through the transition of a couple of sales leaders and changes, everything is pretty well- aligned with that.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+GSIs, we made a lot of good progress.
+They're working, doing some very good deals with us.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+What are your challenges? I want to ask you other questions, but before that, I want to understand where do you put your focus?
+Meaning, what are the things that you think you need to address for the next two to three years, five years?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Okay. In general-
+## Tal Liani | Technology Analyst, Bank of America
+Yes
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+I've only two focus areas, build amazing products, sell and support customers. Okay.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+if you look, I think we got the building product and platform, we got it pretty well under control. We have done very targeted tuck-ins acquisition, which actually had add some differentiation to our platform. The Symmetry Systems acquisition was especially very, very good.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+On the go-to-market side, I think the number one thing I wonder about fixing is the FUD being created by non-Zero Trust companies to confuse the market.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+I know why they're doing it, because they need to protect themselves. In some ways, it's kind of doing disservice to enterprises who believe that this is real security when it's not. That's one initiative. We have a CMO who's very good now. We got a number of initiatives in marketing to create brand and awareness. That's number one. Number two, I think related to market somehow has discounted the role we are playing in AI security.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+If you really think about that, the biggest thing to be done in AI security, among all these things, is securing agent- to- agent communication. Nobody's better- positioned for that.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+A number of other areas. Can you give me visibility into our products? Of course, everyone will do it. It'll become like CASB kind of stuff. Can you do red teaming? Everyone will do red teaming about it. We have it in our portfolio. We have to have it. The hardest problem to solve is communication of agents. That's what we built. We'll be launching it next week. I wonder about why has market discounted us for AI? I know the one thing that comes to mind is this Meta thing, while we have been part of the Glasswing Project from day one, just that when the press release came out at short notice, our name was missing, and we did go, "Hey." Well, they did it on their own time in a short window. We missed out.
+The following week or so, we're able to go to them, get approval to go out there. We missed the window and some of the investors and market felt that only two companies that are listed there aren't actually AI ahead in the market. I think coming quarters will prove that we'll generate some real numbers in AI security to convince investors that we are the real deal.
+## Tal Liani | Technology Analyst, Bank of America
+Got it. Most companies in the space are offering some kind of flex programs. You have your Z-Flex.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Right.
+## Tal Liani | Technology Analyst, Bank of America
+Talk about the importance of it to the customer, to you, and then what's the take rate of Z-Flex?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Z-Flex has exceeded all of our expectations.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+It's probably four quarters or less than four quarters, about three, four quarters.
+## Tal Liani | Technology Analyst, Bank of America
+Maybe we start, what is it? For those that don't know, what is Z-Flex?
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah, thank you. What's a Flex program? As the name implies, Z-Flex. It gives you flexibility to buy certain products and being able to even swap certain products. Otherwise, the customer says, "Zscaler, you got these eight data security products. I'm not sure if I want A or B or C. I'm going to test and test and test." It could take many quarters. We're able to say, "Look, you can select X products, and we'll give you the ability to swap." Swap is linked to similar price ranges, so to speak. They can swap, and that's number one. Number two, they said, "I want six products, but I'm not ready to roll out all six. It'll take me time. I want to be able to do these four and then do two." We gave you staggered, the ramp product. We had done ramps before.
+It just formalizes ramps as they are needed. Number three, if I want to buy a new product, there's a Red Canary already available. This thing removes the procurement cycles back and forth. All that stuff makes it easy. Our program's fairly conservative. We basically are recognizing the revenue for the next 12 months or ARR for the next 12 months.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+It's worked very well. We just got past $1 billion in the Z-Flex booking, which is good. It's good for customers, it's good for us.
+## Tal Liani | Technology Analyst, Bank of America
+Yep.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+The deal size length has gone up.
+## Tal Liani | Technology Analyst, Bank of America
+Right.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Most of the Z-Flex deals are five-year deals.
+## Tal Liani | Technology Analyst, Bank of America
+Is there a risk, and I've seen it with CrowdStrike before, is there a risk that Z-Flex makes it very easy for customers to try and test and systems, et cetera? Upon renewal, though, you'll see a slowdown. Meaning companies are trying it, companies are testing it, but maybe renewal rate won't be as strong. What's the risk that what we're seeing today, some of the growth we're seeing today is really customers trying new products.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+First of all, Z-Flex is a headwind for ARR recognition.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Okay. Because some of that is staggered. Okay. Number two, our focus as a company has been to make sure the products we sold are deployed. I get a personal review on a monthly basis to look for deployed versus undeployed products.
+## Tal Liani | Technology Analyst, Bank of America
+Yeah.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Many of the compensation or product leaders are linked to deployment. Our customer support team, the deployment team linked to it.
+I think companies should be careful, but we are already very focused on making sure products we sell.
+## Tal Liani | Technology Analyst, Bank of America
+Got it.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+get deployed.
+## Tal Liani | Technology Analyst, Bank of America
+Okay.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+We officially ran out of time, and I didn't leave enough time for questions, but thank you very much, Jay. It has been great, and I'm always happy to host you at our conference.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Thank you. I think if I leave the last word for you, Meta will probably drive Zero Trust need faster than anything else that's driven out there. We have the right products, and we intend to do the right execution.
+## Tal Liani | Technology Analyst, Bank of America
+Absolutely.
+## Jay Chaudhry | CEO, Chairman, and Founder, Zscaler
+Yeah.
+## Tal Liani | Technology Analyst, Bank of America
+Great. Thank you.
+Data Source: Quartr Last updated: Jun 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

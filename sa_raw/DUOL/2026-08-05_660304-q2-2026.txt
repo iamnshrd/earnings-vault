@@ -1,0 +1,247 @@
+TITLE: Earnings Call: Q2 2026
+DATE: 2026-08-05
+## Deborah Belevan | Head of Investor Relations, Duolingo
+Good evening, everyone, and Welcome to Duolingo's second quarter earnings webcast. Today, after market close, we released this quarter's shareholder letter, a copy of which you can find on our IR website at investors.duolingo.com. On today's call, we have Luis von Ahn, our Co-founder and CEO, and Gillian Munson, our CFO. They'll begin with prepared remarks before we open the call for questions. Analysts may ask a question by using the raise hand feature. Please note this call is being recorded, and all participants are currently in listen-only mode. Before we begin, please note that we'll make forward-looking statements regarding future events and financial performance. These statements are subject to risks and uncertainties described in our SEC filings and are based on assumptions we believe to be reasonable as of today. We undertake no obligation to update them. We'll also discuss both GAAP and non-GAAP financial measures.
+Reconciliations of the two can be found in our earnings materials. We encourage you to review them when evaluating our performance. Now I will turn it over to Luis.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thanks, Debbie, and thank you all for joining. Q2 was a strong quarter. DAUs grew 23% year-over-year, accelerating from Q1 and coming in slightly ahead of our expectations. We're encouraged by what we're seeing so far in Q3. The vast majority of that growth came from the work we do every day through what we call The Green Machine. We test hundreds of product changes, measure their impact, and double down on what works. Most changes are small, but they compound over time. As I discuss in our shareholder letter, that's also what's driving CURR, a measure of user retention, to an all-time high. Another highlight of the quarter was Streak Revival, a one-time campaign we ran in June. The idea was simple: Give learners who lost their longest streak a chance to earn it back by completing three lessons.
+More than 15 million learners revived their streaks. What's particularly encouraging is that these users are also showing better retention than a typical re-engaged cohort. We brought learners back to a product that keeps getting better at teaching languages, Chess, Math, and Music, and they're staying. We're still early in executing our strategy of prioritizing user growth and teaching better, but Q2 gave us more confidence that we're on the right track. With that, I'll turn it over to Gillian.
+## Gillian Munson | CFO, Duolingo
+Thanks, Luis. Welcome, everyone. As Luis said, Q2 was a strong quarter. In addition to the DAU acceleration Luis just mentioned, top-line results were in line with our expectations, and profitability was slightly ahead of our plan. As we look at the remainder of 2026, I want to reiterate how we're managing the business. We are investing deliberately in the opportunities that we believe can make Duolingo a significantly larger business over the long term. At the same time, our team continues to operate with discipline. We continue to execute to our full year bookings and revenue target ranges of 10%-12% bookings growth and 15%-18% revenue growth. We have increased our target adjusted EBITDA outlook to 26.5% from the 25% we outlined at the start of the year. As for point estimates to help you build your models, please keep in mind the following.
+For the full year, we expect bookings growth of approximately 11% and revenue growth of roughly 16%. At constant FX rates from our last call, the bookings growth rate would be about half a point higher. For gross margin, we now expect to end the year closer to 70% as compared to the 69% we initially expected, as we drive more AI content into our products, offset by AI cost savings. We expect adjusted EBITDA to be approximately $320 million at the margin of roughly 25.5% I just mentioned, and we expect to generate over $375 million of free cash flow this year. While it is not included in our 2026 guidance, we do want you to know that the company has a bonus plan that will trigger if Q4 DAU growth is 25% or higher and would be paid out during Q1.
+Since it's currently uncertain whether that threshold will be met, we have not included it in our 2026 guidance. If it were achieved, we would expect the payout to be roughly $10 million in cash, potentially higher if DAU growth is higher. For Q3 itself, we expect bookings of approximately $307 million, or growth of 9%. Revenue of $302 million, representing growth of 11%. We expect gross margin to be 71% and adjusted EBITDA of roughly $76 million, representing a margin of 25.2%. Our balance sheet and cash flow potential remains strong. We ended the quarter with $1.3 billion in cash and investments and generated $79 million in free cash flow. We repurchased about $44 million of stock during the quarter, bringing cumulative repurchases under our authorization to $72 million, or approximately 700,000 shares. Putting it all together, our user momentum is strong.
+Our business model continues to generate significant cash flow, our team is executing well in an important investment year. We remain focused on reaching 100 million DAUs in 2028, and we believe the path there can create a significantly more valuable business for our shareholders. Now I'll turn it back to the operator, and we're happy to take your questions.
+## Operator | 
+We will now move to our question and answer session. At this time, if you would like to ask a question, please click on the raise hand button, which can be found on the black bar at the bottom of your screen. You may remove yourself from the queue at any time by lowering your hand. When it is your turn, you will receive a message on your screen asking to be promoted to a panelist. Please accept, wait a moment, and once you have been promoted, you will hear your name called, and you may unmute your video and audio and ask your question.
+Your Zoom application may disappear momentarily. This is expected, and your window will reappear. We are allowing analysts one relevant follow-up to their main question. We will now pause a moment to allow the team to gather and assemble the queue. Your first question comes from Wyatt Swanson with D.A. Davidson.
+## Wyatt Swanson | Analyst, D.A. Davidson
+Hey, thanks for the question. Appreciate it.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Hi, Wyatt.
+## Wyatt Swanson | Analyst, D.A. Davidson
+Hi. Given DAUs are now expected to be above that 20% year-over-year growth in the second half of the year, could you maybe give some color as to why the full-year bookings guide wasn't raised more? I realize you're in experimentation mode, but shouldn't a larger amount of users on the platform technically translate to increased bookings, even if you're not pushing for monetization?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah, I think that's a great question. The first thing to note is that our users don't monetize immediately. Some of them monetize, it takes a while for them to monetize because we have this freemium model. We do expect that higher DAUs will imply higher revenue, but it's going to take some time. The second reason is exactly what you said. We said at the beginning of this year that we were going to operate in this box, in terms of revenue, and we are going to continue with this box. Basically, roughly 11% year-over-year bookings growth. The rest of the efforts are in increasing DAUs and in teaching better.
+## Wyatt Swanson | Analyst, D.A. Davidson
+Got it. Okay. That's helpful. You noted with the extension of free trials, it helps improve both engagement and monetization. Could you just talk to some of the underlying mechanics as to how exactly that works, going from one month to two months? Thanks.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. Just to put it into context, our monetization team, their goal this year is to find things that monetize, that are not at odds with user growth. Historically, some of the ways that we have monetized have been by adding friction to the free user product, and that is at odds with user growth. One of the things that has worked the best is longer free trials, and in particular, the main one that we're trying is historically Duolingo, the free trial on Duolingo, when we say, "Hey, you can try it for free," it's been seven days. We give you seven days for free. That's what historically has happened. We are now shifting most of our free trials, not quite all of them yet, to a one-month free trial.
+The way that works is basically significantly more people decide to take that trial because it's just a better deal. Because of that, we got a larger number of people actually converting to payers. The other nice thing is that as soon as they agree to go on the free trial, the experience just gets better because we turn off energy, we turn off the ads. This actually increases daily active users as well. We like it very much, and it's having a lot of good traction.
+## Wyatt Swanson | Analyst, D.A. Davidson
+Cool. Thanks, guys.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you.
+## Operator | 
+Your next question comes from the line of Andrew Boone with Citizens JMP. You may unmute your video and audio and ask your question.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Hey, Andrew.
+## Andrew Boone | Analyst, Citizens JMP
+Hi, guys. Thanks so much for taking the questions. I wanted to ask about just your role in terms of influencers. How do we think about international marketing and kind of the changes that you guys highlighted in the letter? Secondly, as we think about the U.S., Luis understood the strengths in the quarter and kind of resurrected users. Can you talk about top of funnel, though? How do you feel about trends there and the broader opportunity of attracting new users that may be new to Duolingo? Thank you.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. I should say our marketing team, just to put it in historicals, most of our growth has been organic through word of mouth. In fact, for the first several years, it was 100% organic through word of mouth. We added mainly one form of marketing, which was social, our own social media accounts. That's still going really well. We're getting more than a billion impressions per quarter on our own social media accounts, which is incredible. Our marketing team is really starting to expand to having other important tools. One of them is creators, groups of creators. That's working quite well, actually, specifically in certain countries. Countries like China, Indonesia, and India. Something like 2/3 of our total social media impressions come from influencers, and what we're finding is that we are able to not spend a ton of money on this.
+What's nice is that these people have different audiences than us. This really just brings in a lot of new users, and this is something that we're very happy with. We use influencers differently in different countries, some countries more than others. That's working really well. I should also mention that our marketing team has just become significantly more sophisticated on performance marketing. While still the majority of our growth is organic, we're getting good traction on both usage of influencers and performance marketing, and we are seeing that in top of funnel. It is increasing. We actually feel pretty good about our top of funnel. It is increasing. You ask about the U.S. in particular. The U.S. growth has increased quite a bit in the last quarter, and that's something that we're happy with.
+By the way, if you look at our growth, our DAU growth is really broad-based. Basically, all regions are growing, and all regions are growing faster than they were before. Asia is still the fastest-growing, but U.S. has increased.
+## Gillian Munson | CFO, Duolingo
+One thing I might add to that, Andrew, is the top of the funnel is part of the story of the quarter. It got better. As you know, that's been a focus area of ours. We've talked about how we want to get better there. In almost every region, the rate of growth there improved in top of the funnel in the quarter, which is a great accomplishment for the team.
+## Andrew Boone | Analyst, Citizens JMP
+Thank you.
+## Operator | 
+Your next question comes from the line of Nathan Feather. Please unmute your audio and video and ask your question.
+## Nathan Feather | Analyst, Morgan Stanley
+Hey, everyone. Thanks for taking the question.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Hi, Nathan.
+## Nathan Feather | Analyst, Morgan Stanley
+On my end, both on the monetization angle, I guess, interested to hear what the learnings you've seen so far from giving Video Call to new Super Duolingo subscribers, and how is that influencing your plans for Video Call and Max generally as we go from here?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. Video Call is an interesting thing. We love this feature. It's an excellent feature for learning conversation, for practicing conversation. It really works. We have, in fact, research that shows that if you use Video Call, you get better at conversation. It really works. It's really good. When we first started adding Video Call to the platform, the first time that we put a Video Call on the platform, I remember the team that was working on it told me, "Okay, we can give this to users, but it's going to cost, like, $0.30 per call to give to users." That was expensive, and this is why we decided to put it behind our most expensive plan, which is Duolingo Max.
+We said back then, "If we can decrease the cost of this, we're going to try it in different places." It is our aim to give Video Call to as many people as possible, because it really helps in learning a language. The good news is that, through a lot of really hard work, we've been able to bring down the cost of Video Call. It is now under $0.01 per Video Call. The reason for that is mainly a move towards open source models. It's just a lot cheaper to do that, and we don't see a loss in quality in there. We're very happy with that. Because of that, we're able to now give Video Call to Super Duolingo subscribers. The state that we're in right now is most new Super Duolingo subscribers get Video Call.
+If you buy Super Duolingo right now, you will get Video Call as well. We expect that over the next few months, we're going to give Video Call to existing user subscribers. We haven't quite done that to all of them. We expect that we're going to do that as well, and that's really good because more people are going to be able to practice conversation. That calls into question, what are we doing with Duolingo Max? My answer is, I don't know yet. There's a few possibilities, and one possibility could be that while Super subscribers get a limited version of Video Call, like limited number of Video Calls, Duolingo Max subscribers get unlimited. That is a possibility. Another possibility, truthfully, is that we may actually sunset Duolingo Max.
+What I will tell you is that we're going to have an answer to this in the next couple of quarters, in addition to that, we're going to try to do this without a loss of revenue. That's partly why we're not going super fast here, because we're trying to figure out how to do this without losing much revenue. Again, our intent is that we give it to as many users as possible.
+## Nathan Feather | Analyst, Morgan Stanley
+Okay, great. That's really helpful. One thing we've seen reports that you're testing in ad-supported tier. I just help us think through, do you see an opportunity for maybe a lower priced tier or something in between Super Duolingo and the free model? From a user segmentation perspective, what are you really going after there?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+We are testing that. It's called Super Lite. It is being tested. I really want to emphasize the word tested. I don't know what's going to happen with Super Lite in the end. It is cheaper than Super Duolingo. It's about half the price, depending on the geography. It is ad-supported, so you get ads. In addition to that, basically, you don't get unlimited energy. You get twice as much energy. That's the idea. At the moment, it's still a small fraction of our subscribers are in Super Lite, but part of the reason is that we're early in the testing. We're just not advertising it very well. Of course, the goal with a lite plan like this would be, if we're pretty sure that you're not going to buy Super Duolingo, then we should try to sell you Super Lite.
+That's kind of the idea. You're going to see us experiment with that over the next few months. I don't know what'll end up happening, it's something that we're trying.
+## Nathan Feather | Analyst, Morgan Stanley
+Okay. Very helpful. Thank you.
+## Operator | 
+Your next question comes from the line of Bryan Smilek with JPMorgan. Please unmute your audio and video and ask your question.
+## Bryan Smilek | Analyst, JPMorgan
+Great. Thanks for taking the questions. Good to see you, Luis.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Hi, Bryan.
+## Bryan Smilek | Analyst, JPMorgan
+I'm curious. Good to see CURR at an all-time high. Just curious, could you share more color on just overall retention by cohort? Are these new free trial users that are engaging on a daily basis exhibiting higher engagement trends? Just curious anything you can add there from a retention perspective going forward.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. Like we mentioned in the letter, our retention, our user retention, pretty much all metrics of user retention are at an all-time high. The one we look at the most is this one called CURR, which is current user retention rate. We're very happy that it is an all-time high and that it has increased by about a percentage point in the last year, because tiny changes to CURR end up implying pretty large changes in daily active users over time, because it really compounds. This is pretty broad-based. Basically, you see it in every region. You see it across all types of users. The reason for this is just that the product is stickier.
+We have added a number of things. It's hard to pinpoint to a single one because, again, we have a new version of the app every single week. Every version of the app has approximately 350 changes. It's hard to point to something that actually did it, but it's just generally our product is just stickier. We're very happy with that because that's kind of the best type of growth you can expect. That is just pure, it's a better product.
+## Bryan Smilek | Analyst, JPMorgan
+Great. Thank you. That's super helpful. Then also, kind of building on Nathan's question around Duolingo Max overall, more from the speaking angle as well, can you just share more color in terms of overall engagement with more intermediate and advanced learners, which would, in my view, likely start to take on more speaking practice within the app?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. There's two things to say about that. The first one is that if you have access to Video Call, the engagement is very good. In fact, that feature has just gotten significantly better. One of the main metrics that we have for this feature is number of words spoken by DAU, who has access to that. That graph is a beautiful graph because it is entirely open to the right over the last couple of years. It's just every month, it is a little better than the previous month in terms of us getting you to speak more. Ultimately, this will just translate in people learning better and being engaged with it. There's Video Call.
+We're also, in the free tier, making people speak more, just there's more speaking exercises. There's also more ways to answer exercises that before you had to tap on the phone, now you can answer it with your voice. We're pretty happy with that. It's exactly what you said. This is much more important to advanced and intermediate users. We see that as something that will, over time, really help with certainly monetization, but also word of mouth, because if people are learning better, they're going to tell their friends, et cetera. We're very proud of that.
+## Bryan Smilek | Analyst, JPMorgan
+Thank you, Luis.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you, Bryan.
+## Operator | 
+Your next question comes from the line of Ryan MacDonald with Needham & Company. Please unmute your audio and video and ask your question.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Hi, Ryan.
+## Ryan MacDonald | Analyst, Needham & Company
+Luis. Hi, Gillian.
+## Gillian Munson | CFO, Duolingo
+Hi, Ryan.
+## Ryan MacDonald | Analyst, Needham & Company
+Thanks for taking the questions. Maybe just to ask on the bonus incentive comment, sort of at the end of the prepared remarks. Obviously, the team internally is operating towards trying to get to that 25% rate. How should we think about that translating to, let's call it, the pace of new experimentation between now and the end of the year? If that picks up, are there any sort of features or initiatives that you'd call out that you're most excited about? Or is this really about just letting the changes and the experiments you've already made continue to sort of mature within the market and let them produce results?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It's a bit of both. Certainly, our rate of experimentation will continue. It's pretty high this year. If you look at actually number of experiments that we're putting out per week, that keeps growing. Over the last year, that's significantly increased. In fact, it has increased faster than our headcount. That means that per person, we're actually putting out more experiments, every week. You will see that throughout the rest of the year. There's a lot of experimentation that's going to happen. Generally, that's across all the things that we experiment. Teaching better and daily active user growth are where we're spending our focus, but you're also going to see experimentation and monetization, et cetera.
+It's related to the bonus in some way, mainly, it's just this year, our goal as a company was we decided we are going to focus most of our efforts of our incredible experimentation machine to just make it so that we can continue growing daily active users. We think that if, as we said many times, if we can get to a company that is 100 million daily active users, that's just a much bigger business, and that's where we want to get to. You will see experimentation. You'll see a lot, as you usually see from us.
+## Ryan MacDonald | Analyst, Needham & Company
+Excellent. Then maybe on Duolingo Max. You obviously are sort of working on a lot of things with Max right now, one being sort of Super Duolingo or Video Call, sort of being rolled out more to Super Duolingo. Is there any sort of, I would call it, new feature product development that's sort of maybe geared or aimed towards the Duolingo Max tier at this point, that could potentially sort of continue to extend the life of that tier? Or is really everything more focused sort of at the lower tier experimentation right now?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+I won't rule that out. It may happen that we develop something that we end up putting behind Duolingo Max. We're developing a lot of features, and there may be some that, because of costs of them or something, we end up putting them behind Duolingo Max. That is not the goal. The goal really is to try to give, particularly speaking features, which are the most expensive ones to provide. The goal is to provide it to as many users as possible. Again, we just believe that the more people have access to this, the more word of mouth, the more users we have, and the larger this business becomes. That's the goal.
+I guess what I'll say is that's not what we're trying to do, it may be that in two months, I come back and say, "Hey, Duolingo Max actually got a new feature." That is not because I'm trying to be secretive to you. I just don't know what'll end up happening in terms of cost of certain features that we're developing.
+## Ryan MacDonald | Analyst, Needham & Company
+Appreciate the clarity. Thanks, Luis.
+## Gillian Munson | CFO, Duolingo
+Thanks, Ryan.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you, Ryan.
+## Operator | 
+Your next question comes from the line of Shweta Khajuria with Wolfe Research. Please unmute your audio and video and ask your question.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Shweta, how are you?
+## Gillian Munson | CFO, Duolingo
+Hello.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Hi.
+## Shweta Khajuria | Analyst, Wolfe Research
+Good, thanks. Good to see both of you. Thanks for taking my questions. First one is on attention span for users. As attention span, I guess, decreases, how is the engagement and session time, across the app trending? I guess, how are you addressing that? The second is on Math and Music. Could you please talk about just the product roadmap, as you see Math and Music develop through the year and how that could drive contribution to DAU growth? Thank you.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. Thank you. I think part of your question is something that we've said in the past, which is just, the world in general, attention span is going down. If you look at how people use things like social media apps, they use them in, like, 10-second bursts. Whereas for Duolingo, our lesson on Duolingo is maybe two minutes. That is something that we need to address, and we are working on that, trying to make the minimum session length longer. We're testing stuff there, but we have not yet released anything. Part of the issue there is that If you make the minimum session length shorter, that's good, but you got to make sure that people actually also come back many other times in the day so that it compounds. That's kind of what we're experimenting with. It is something we're actively experimenting with.
+In terms of Math and Music, we're pretty excited about both of those. I should say, certainly when compared to Chess, even though they do have single-digit millions of DAUs, they're much smaller than Chess. We do expect growth from both of them, but the contribution to our overall, we have 60-some million daily active users. Even a 50% growth here doesn't contribute all that much. We do expect them to grow. Probably the easiest one to talk about in terms of strategy is Math, because we understand that pretty well, or at least better than Music, I think. With Math, originally when we launched Math, I thought, and I was wrong, I thought that we could get the average person on the street to get addicted to learning Math. I was wrong. I don't believe we can do that.
+Our strategy is actually to mainly teach math to the people who actually need to learn math, which are basically K- 12 students. We may not sell to schools. That's not our goal, to sell to schools, but it's at least that our user base for math is mainly under 18. As soon as we started working on that clarified a lot of things, and I think we started making a lot more progress, rather than trying to get your average 35-year-old person who hates math to suddenly love it. I would love to do that, but I've given up on that one. In music, it's a bit early. We are working a lot on music. We'll have more to say about music in maybe a quarter or two.
+## Shweta Khajuria | Analyst, Wolfe Research
+Okay. Thanks, Luis. 35 may be a bit too late for math. You don't like it, you don't like it. All right. Thank you.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+You don't like it. I really wanted to get people to love math. That's what I want.
+## Shweta Khajuria | Analyst, Wolfe Research
+Me too. All right. Thank you. Thank you both.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you, Shweta.
+## Operator | 
+Your next question comes from the line of Mark Mahaney with Evercore. Please unmute your audio and video and ask your question.
+## Mark Mahaney | Analyst, Evercore
+Hey. I'm trying to come on here. All right. Sorry about that.
+## Gillian Munson | CFO, Duolingo
+You're all right.
+## Mark Mahaney | Analyst, Evercore
+Let's see. Hey, hello to both of you. Your comment about Video Call functionality, I'm sorry, Luis, were you saying that you could make it available to all Duolingo users or all Super subscribers?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Look, I would love to make it available to all Duolingo users. I don't think we can do that right now.
+## Mark Mahaney | Analyst, Evercore
+Okay.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+My goal in the moment is to make it available to all Super subscribers.
+## Mark Mahaney | Analyst, Evercore
+Okay. The gating factor for it not to be available to all users is just price, right? Or cost, I mean. You bring it down by another 90% next year, and you could do it.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yes, there's one other thing that we do have to take into account. This is one of the main things that gets people to buy.
+## Mark Mahaney | Analyst, Evercore
+Yeah.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+If suddenly all users have it, there's less incentive to buy, and then we would have to find other reasons to get people to buy. There's a little bit of a trade-off here. It's both cost, and this is one of the main things that gets people to buy.
+## Mark Mahaney | Analyst, Evercore
+Okay. Then I want to switch gears and ask you about advertising. I think you've maybe changed a little bit the last couple of years in terms of your view on both advertising revenue and on advertising spend. Where are you on that journey? Is there something that you've seen that's made you maybe a little bit more constructive on marketing spend and the efficiency of it and the desirability, perhaps, of advertising revenue?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+You are right, that over the last couple of years, I've come around to ads, both in terms of ad revenue and ad spend. A couple of things to say. In terms of ad revenue, for the foreseeable future, we will remain a subscription business. Our subscription business is much larger than ads.
+## Mark Mahaney | Analyst, Evercore
+Yeah
+## Luis von Ahn | Co-founder and CEO, Duolingo
+It will continue being like that for a while. However, we see a pretty large opportunity with ads. We have a lot of users, we have a lot of active users, and pretty much every app our size or larger than us makes a ton more money from ads than we do. We see a pretty big opportunity there, which is why we have become a lot more sophisticated on that. There was a time at Duolingo a couple of years ago where our entire investment in ad revenue was half a person. There was one person whose half-time job was to deal with ads. This is how much we were investing then. We now have a team. It's significantly much more professional. They know what they're doing.
+I would expect that over the next few quarters, that you're going to see some improvements in our ads business. This takes some time to get the hang of it, but what I'm seeing is we're just going to be able to give significantly higher quality ads in our product that also make us more money. We're working on that. This is active work stream that we're doing. There's that. In terms of ad spend, like for marketing for us, we're also significantly more sophisticated. There was a while where I was massively allergic to performance marketing. The way I see it now is I don't think that we want to get addicted to performance marketing, because that's never good. However, it is a good tool to have to complement your other marketing strategies.
+Our marketing team, which I really think is probably the best marketing team in the world, has now started adding, as another strategy, performance marketing. We're very happy with that. We're seeing the results in our top of funnel for that.
+## Mark Mahaney | Analyst, Evercore
+Okay. Thank you, Luis. Thank you, Gillian.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. Thank you.
+## Gillian Munson | CFO, Duolingo
+Thanks, Mark. See you.
+## Operator | 
+Your next question comes from the line of Ygal Arounian with Wedbush. Please unmute your audio and video and ask your question.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Hi, Ygal.
+## Ygal Arounian | Analyst, Wedbush
+Hey, Luis. Hey, Gillian. Thanks for taking the questions. I guess, as I listened to the call and what we're talking about here, it feels a little bit like we're starting to maybe shift or start to focus a little bit more on monetization, talking about ads and new tiers. Is that fair? Not to say that you're moving away from the optimization around DAUs, but it does feel like you are maybe shifting a little bit the monetization side. How do you think about that transition? When is the right time? What's involved? Then I have a follow-up.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. It's perceptive of you. It's a good question. The reality is this year for a while, really one of the main thing that we're concentrating on is expanding our active user base because we just think that more users is just better for everything, significantly larger business, et cetera. We have this aggressive goal to try to get to 100 million daily active users. We feel good about that goal. We think we can make it. If we do get there, all things get better. Just more users, you can make more money, all things get better. It is true that our experimentation When we started the year, we had a little bit of a pause on monetization in the sense that we're like, "Whoa, whoa, wait.
+Any monetization that we're doing that is counter to DAU growth, don't do it." The reality is we were doing a number of things that were counter to DAU growth. We had a little bit of a reset. At this point, enough time has passed that we understand levers significantly better. We are a little more back into like, "Okay, this type of monetization is good, this type of monetization is good." For example, we mentioned longer free trials. We understand that and we are going hard on those. Ads is another business that we're perfectly happy if we have significantly better quality of ads and make more money from them, we're very happy with that because that's also DAU aligned. We are funding that. It is true that we're probably taking it more seriously. I don't know if that's the right term.
+We're focusing a little more on it than when compared to six months ago. That is true. I don't think there's a time when we're like, a lot of people ask us, "Oh, when are you going to stop worrying about DAUs and when are you going to start making money?" A lot of people ask us that. I don't think that we're going to have a shift like that. We're going to continue really trying to get to 100 million DAUs in 2028. You'll see probably increased monetization focus gradually over time as we find ways to monetize that are not at odds with DAU growth.
+## Ygal Arounian | Analyst, Wedbush
+Okay. That's really helpful. I want to come back to the comments you made about the open source models and how that's driven down AI compute costs. A, how should we think about that opportunity in terms of the margin structure over time? It feels like there's multiple levers you could pull on that. It's an interesting theme because we've heard this over and over again, this earning cycle from a lot of companies and this lean into open source models. Then how does that change the product velocity? Because I know AI's been a big component in driving your product velocity. Does that become a bigger opportunity, with the cost coming down? Thanks.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. At the highest level, it just turns out that there's, when compared to a year ago, there's just significantly better open source options now. While for some stuff they are behind the frontier labs, they're not that behind for most things, maybe three to six months. It just turns out that for a lot of applications, you don't need the absolute smartest model. The reality is the quality's indistinguishable for many applications that we use. For example, serving a call, like a conversation practice to somebody who can only speak 100 words of a language. Your model doesn't need to be as good as a philosopher. You're probably going to talk about, I don't know, frying eggs. You're not going to talk about very sophisticated stuff. We find that in a lot of cases, we can switch to the open source model.
+Internally, of course, we're still using many models from, say, OpenAI, Anthropic, and we'll continue doing that. It'll just always be a decision, a trade-off between can we do it at roughly the same quality, but with the open source. If that's the case, we'll use the open source. There are still cases where we're not able to, and in those cases, we'll continue paying. I do expect that what'll happen is that the cost per usage of AI, whatever it is, the cost per token, if you want to call it, will come down for us because we will continue moving more and more to open source. I also, just like you said, that'll probably mean that we're able to offer more and more AI features to more users. I'm pretty excited about that in general.
+## Gillian Munson | CFO, Duolingo
+Yeah, the way to think about it is, we set out the year to be very patient with ourselves about what the business model's going to be. We really have been trying to stick to this idea that we're going to grow bookings 10%-12%, revenue 15%-18%. When we started the year, a 25% adjusted EBITDA margin felt like the right level of investment relative to growth. What we're basically saying is by going up about a point and a half on that adjusted EBITDA margin, we are seeing AI cost savings that will give us a bit structurally a better margin, even with our goal to put voice call out to all super users over the course of the year.
+## Ygal Arounian | Analyst, Wedbush
+Very helpful. Thank you.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you, Ygal.
+## Operator | 
+Your next question comes from the line of Justin Patterson with KeyBanc Capital Markets. Please unmute your audio and video and ask your question.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Justin, hello.
+## Gillian Munson | CFO, Duolingo
+Hi, Justin.
+## Justin Patterson | Analyst, KeyBanc Capital Markets
+Hi, good afternoon. If we can here, first, could you talk through just what's driving the confidence level behind that acceleration in Q4? Is that simply easy comps, or are you just seeing something with the product side finally starting to click there? Luis, I just wanted to go back to making the mission affordable or making education affordable for the masses. Obviously, as you increase advertising in there, you do start to have a tension point in there of people get frustrated with the user experience in it. Does that start causing some bad behaviors? Would love to hear more how you're thinking through the guardrails of still monetizing across the business while still having education be widely accessible within here. Thank you.
+## Gillian Munson | CFO, Duolingo
+You want me to cover the bookings guidance. On the bookings guidance, the reality is how the year is playing out hasn't really changed too much. Of course, we've held the guidance. Q2 was a little better than we expected, so you're basically seeing us adjust for that in the guidance. I think it's important to remember that our bookings guidance also includes about half a point of FX headwind. Net-net, you're probably at a little bit of a better place. I think the year is playing out the way we thought. We've always thought that acceleration is going to come over time. This is not a slow and steady, that's not the way this place is.
+We know it is going to take a little time for the work we're doing to play through, and that's what you see in terms of us holding, which the guidance, which implies Q4 gets better from a year-over-year rate of growth perspective.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah, your question about making education affordable, this is a very mission-driven company. Hopefully, we have shown that. We will continue being a very mission-driven company. Our mission is to develop the best education in the world and make it universally available, and that is our goal. The way we're going to be operating is similar to what we're operating right now, to how we're operating right now, which is we are first and foremost care about our reach. Every extra active user that we reach means there's one other person that we're teaching, means there's one other person that instead of doom scrolling on social media, is actually learning something that is valuable to them. That's what we're emphasizing.
+We also believe that it turns out that our mission, I really do believe that even though we're a very mission-driven company, I think that if we succeed in our mission, that's also aligned with just making this a very large business. The more users we have, in one way or another, the more we'll be able to monetize them.
+## Justin Patterson | Analyst, KeyBanc Capital Markets
+Thank you.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thanks, Justin.
+## Operator | 
+Your last question comes from the line of Arvind Ramnani with Truist Securities. Please unmute your audio and video and ask your question.
+## Arvind Ramnani | Analyst, Truist Securities
+Hi, Luis. Hi, Gillian. Hope you're doing well. Just couple of questions. Just with China just continuing to become a kind of important geo for you all, and you all are running OpenAI and Anthropic, to run your models or I think mostly OpenAI. Does it create some sort of data residency risk or regulatory risk? There's just a lot going on in terms of regulation and sort of protectionist measures. Or would you just kind of move to a local model in that market? Just how are you thinking about it? Because Luis, I know you're fairly forward-thinking about AI and not reactive. We just would love to see, not that you'll make any changes, but how you're thinking about it.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Yeah. You were right. Thank you for asking about China. China is a very exciting market for us. It keeps growing. It is our second-largest market in terms of daily active users, and we expect it to become our largest market in terms of daily active users in a year or two. Also, China monetizes pretty well for us. It monetizes about as well as France. It's an exciting, good market for us. When it comes to AI, there's a lot there. The reality is that in China, we simply cannot use the AI models, the kind of U.S. AI models. We have to use local models. That's by law.
+## Arvind Ramnani | Analyst, Truist Securities
+Okay.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+We do that in China. All of our usage of AI uses Chinese models. You have to do that. In terms of regulatory risk, it's important to mention that, of course, we understand that China poses some regulatory risk. It's kind of outside of our control how they operate the country. We feel pretty good about what we're doing there in terms of our government relations. We feel pretty good. I don't know what the government will decide at any point.
+## Arvind Ramnani | Analyst, Truist Securities
+Perfect. Yeah, and just on this topic. Can you just give us just a rough estimate? I'm not looking for anything precise or whether, but just rough estimate of what your AI costs are, and is it largely on Anthropic OpenAI, or are they kind of open-weight models? Then just in terms of your cost to revenue, does AI cost you 1%? Is it 10%? Just directionally, how significant are your AI expenses?
+## Gillian Munson | CFO, Duolingo
+Our expenses-
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Gillian
+## Gillian Munson | CFO, Duolingo
+Yeah, our expenses on AI in the cost of goods sold are in the tens of millions of dollars, so they're significant to the cost of goods sold. Hosting is another big cost for us as well, but those are the two biggies going through the cost of goods sold. Inside the business, we also use AI, and that is more closer to the $10 million range internally.
+## Arvind Ramnani | Analyst, Truist Securities
+Okay, perfect. No, that sounds great. I think those are the main questions. Luis, if you have any broader thoughts on just, there's a lot of debate right now on AI sovereignty, open-weight models or closed-loop models. If you're able to share anything, I'd love to get your high-level view on that.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+At the highest level, our view inside the company is that it is in our best interest as a company to use open-weight models as much as possible. If I had a magic wand, I would try to move everything to an open-weight model. It's not always possible because sometimes the frontier models are more advanced. From a company standpoint, it is just significantly better because it's way cheaper to use open-weight models.
+## Arvind Ramnani | Analyst, Truist Securities
+Perfect. Would you expect like this, how we had the hybrid cloud, do you think that's where we end up? You have some sort of orchestration where you put some traffic towards the highest quality models versus open-weight. Is that how you expect it to evolve?
+## Luis von Ahn | Co-founder and CEO, Duolingo
+My guess is that most companies that use AI heavily have a portfolio of models that they use, where for some uses, you kind of have to pick this one model that happens to be a proprietary model. For other things, you try to use the open-weight models. My sense is most companies will have a portfolio model like that. That's certainly what we have. What I would say is that our expectation is that over the next some amount of time, that portfolio will be weighted a little more towards open-weight models than it is today.
+## Arvind Ramnani | Analyst, Truist Securities
+Perfect. Thank you so much.
+## Gillian Munson | CFO, Duolingo
+Thank you.
+## Operator | 
+I'm showing no further questions. This concludes the Q&A section of the call. I would now like to turn the call back to the host for closing remarks.
+## Luis von Ahn | Co-founder and CEO, Duolingo
+Thank you, operator. I'd just like to thank everyone for joining us, and we look forward to seeing you on the next call.
+Data Source: Quartr Last updated: Aug 5, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (14) Quarterly reportShareholder letterEarnings release Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

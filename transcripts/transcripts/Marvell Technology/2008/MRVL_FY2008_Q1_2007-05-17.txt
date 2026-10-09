@@ -1,0 +1,7 @@
+Company: Marvell Technology
+ROIC Symbol: MRVL
+ROIC Name: Marvell Technology, Inc.
+Year: 2008
+Quarter: 1
+Date: 2007-05-17 16:45:00
+Executives

@@ -1,0 +1,614 @@
+TITLE: 21st Annual Needham Technology, Media, & Consumer Conference
+DATE: 2026-05-13
+## Ryan Koontz | Analyst, Needham & Company
+Great. Well, good morning. Thanks for joining us, and welcome to the 21st Annual Needham Technology, Media and Consumer Conference. I'm Ryan Koontz. I cover the optics, broadband, and space sectors here at Needham. Really excited to be joined today by Applied Optoelectronics and Dr. Stefan Murry, their Chief Strategy Officer and CFO. Welcome, Stefan.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Thank you very much. Thank you for having me.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It's wonderful to be back here at the conference again.
+## Ryan Koontz | Analyst, Needham & Company
+Excellent. Great. Look forward to a great discussion. A lot of great things going on with your company.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Indeed there are.
+## Ryan Koontz | Analyst, Needham & Company
+Let's start just real quickly unpacking your Q1. It was real close to where your consensus was, and maybe kind of walk us through some of the, some of the puts and takes on your Q1 print, and then we'll get to your thoughts on the forward guide.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Sure. I mean, you know, as you pointed out, it was generally, kind of right in the middle of, you know, where we expected it to be. We did begin our first shipments of 800G products during the quarter, which I think was a significant milestone and portends, you know, a greater ramp as we continue to add capacity for 800G and later in the year, 1.6 terabit products. That was a good, you know, a good milestone for us in the quarter.
+## Ryan Koontz | Analyst, Needham & Company
+For sure.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, revenue wise, again, the mix was pretty much what we expected. Data center surpassed our cable TV business for the first time in a while.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, we expect that trend to continue, obviously growth in the data center. I think there will be some growth in our CATV segment as well, but clearly not at the rate that we expect to see growth in data center going forward. You know, margins were about where we expected them to be. You know, maybe a little light on that. We had some, relative to our expectations, I think the cable TV business came in just a little shy in terms of margin, largely because. of product mix and some pricing discussions that we had.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+With customers. Other than that, you know, it was pretty much, I would say, you know, kind of squarely down the middle of the fairway for us.
+## Ryan Koontz | Analyst, Needham & Company
+Great. As you think about Q2 here, you raised your guide for the year to $1.1 billion.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah
+## Ryan Koontz | Analyst, Needham & Company
+which is.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah
+## Ryan Koontz | Analyst, Needham & Company
+Quite impressive.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+You know, talk to us about Q2, what your expectations are for this next quarter as you start to ramp some of these new products, and then maybe how you think about the rest of the year, what some of those dependencies are.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right. I mean, Q2, I would think, you know, is really a very busy kind of transition quarter for us, I would say.
+I mean, as you, as you alluded to with the guide that we have for the year, and, you know, kind of Q1 and Q2, that would imply, you know, a pretty rapid growth in the second half of the year. Q2 for us is really a quarter of preparing, you know, getting the manufacturing infrastructure in place. Obviously, we've been at that for a long time now, but making sure that all that continues according to plan, which it has been to this point. If we can exit Q2 with, you know, with the requisite manufacturing capacity in place.
+That's gonna drive that second half ramp. For us, really at this point, demand is not an issue. We have plenty of demand, more demand than we can supply, and we expect that to continue really until at least until middle of 2027, maybe beyond. That is, you know, our demand will exceed our capacity over that period of time.
+## Ryan Koontz | Analyst, Needham & Company
+Sure
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+For us, you know, growing revenue, meeting our goals for this year and next year, really comes down to how fast we can add capacity, and this quarter is a significant step up in that capacity.
+Making sure that that goes according to plan is really important to us this quarter. You know, the quarter itself, you know, we guided for, you know, let's just call it a little shy of $200 million.
+190 or so. You know, we feel really good about that number. It's represents good, solid sequential growth, again, it's gated by our ability to deliver. If we can pull in some capacity faster, we'll see a little better revenue than that. The other exciting thing about the quarter is, you know, beginning to see, you know, more traction on the 800G.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We talked about having, you know, our first shipment of 800G, that was to one customer. We have completed the qualification of 800G with that customer and with another customer. You know, we expect to begin shipments to that second customer very, very soon. You know, not only are we seeing, you know, increased sales of 800G or increased revenue derived from 800G, but we're starting to see multiple customers.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Getting, you know, real shipments out to those customers. That's another very exciting thing that's really kind of happening right now as we speak, almost in terms of getting those new customer engagements really rolling.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+That second customer that, you know, placed the orders for 800G is also has also placed orders for 1.6 terabit. Those will start to be delivered in Q3, late Q3 probably. You know, should ramp up with that customer and potentially other customers as well.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Into the later part of the year and early part of next year. You know, there's a lot going on in AOI. It's a very busy time for us. You know, a lot of it has to do with the basics of running a manufacturing company, getting your manufacturing infrastructure set up, making sure your supply chains are there, and that's really the work that we've been engaged in for the last year, it's nice to see that actually starting to.
+## Ryan Koontz | Analyst, Needham & Company
+For sure.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+tick up at this point.
+## Ryan Koontz | Analyst, Needham & Company
+I mean, your 800G program I'm sure you've been working on for years.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We have.
+## Ryan Koontz | Analyst, Needham & Company
+This is the culmination of a lot of work, and I also wanna point out that 800 is still very much mainstream in cloud.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It is.
+## Ryan Koontz | Analyst, Needham & Company
+People, I think, investors tend to think ahead.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+1.6T is coming.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+It's gonna cannibalize. You know, it really seems to me that 1.6T is gonna be much kind of a long slower transition. 800G is gonna stay very strong i think that's right.
+For years.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, what we're hearing from customers is they expect a long road at 800G, right?
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It's gonna be a workhorse of data centers.
+## Ryan Koontz | Analyst, Needham & Company
+Sure
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+For quite some time. You know, it's important for us and meaningful for us too that we are gaining traction in that market, while we're also continuing to support the 1.6T trials and things like that.
+That are going on. To your point, you know, that's a good business, it's an exciting business, 1.6T, but 800G's gonna be the workhorse for a while.
+We're really excited about the traction we're seeing there.
+## Ryan Koontz | Analyst, Needham & Company
+Is there specific things about your 1.6T design give you confidence in making this transition so you know, seamlessly almost from 800 to 1.6T?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah. There's a couple things. you know, first of all, the customer base that we have, for 1.6T is gonna be largely similar to our 800G customer base.
+To some extent, you know, there's always a process that you have to go through when there's a new product, but there's also a period of time where you're getting to know your customer and their infrastructure and what types of switches and what types of applications they're running. Once you learn that, it makes the next qualification, you know, that much easier because you have that background of information. With, with 800G, you know, we were doing some heavy lifting 'cause we were bringing a couple new customers on board.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+As well. Kinda having the new customer plus the new product was a little more challenging than, you know, 1.6T where it's gonna be largely the same customer base.
+The other thing for us, you know, we deliberately designed our products, our 800G and 1.6T products, to have a very similar design such that they can be manufactured on the same manufacturing line.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Very minimal manufacturing differences. Really what the main difference is is just the final testing.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+1.6T is 200 Gbs per second per lane, 800G is 100 Gbs per second per lane. The final testing apparatus needs to be somewhat different, but the manufacturing process is basically the same.
+When it comes to, not only us having confidence in our manufacturing ability for those products, but our customers having that confidence as well, it gives them a great deal of additional confidence that it's really the same process that's been well vetted at 800G.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+To 1.6 is a, you know, it's a leap, but it's not a huge leap for us, and I think that will allow that process of bringing up 1.6T to go, you know.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Smoothly than maybe the 800G did.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah. With regard to your demand, I mean, we know the Chinese suppliers have done really well here in terms of scaling the last few years.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+What are you hearing from your customers about their desire to source from Western suppliers and even from your U.S. footprint?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right.
+## Ryan Koontz | Analyst, Needham & Company
+Can you maybe walk us through, you know, the demand signals you're hearing and kind of the sentiment around who they wanna work with and buy from?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah. I mean, you know, I don't wanna take anything away from, you know, from the Chinese suppliers or anybody else. I mean, there's a lot of demand in this market and I think a lot of companies are gonna do well. Frankly, even as we scale, AOI is still gonna be a relatively small player compared to some of these other companies, just because of the magnitude of the demand that we see out there.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+All that being said, our customers are telling us that they really value supply chain diversity. They wanna have additional, differentiated suppliers of many products, but optics in particular for us. That's important. That really became important beginning in the pandemic actually when they recognized that supply chains, especially in China really were struggling in many cases failing. That caused them some significant difficulties in scaling up their operations during the pandemic, and they started to look around and see, well, okay, what are the options to try to, you know, make a more resilient supply chain?
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, obviously the U.S. can suffer difficulties just like anywhere else, but, they view the You know, having some portion of their manufacturing done in the U.S. is a really key metric towards improving.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+That supply chain resiliency. AOI is kind of uniquely positioned to be able to set up manufacturing quickly and economically in the U.S. because we've spent the better part of a decade developing an automated manufacturing process for these optical transceivers.
+## Ryan Koontz | Analyst, Needham & Company
+Yep
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, I think it's fair to say that the only really feasible way, both economically and in terms of, you know, labor availability in the U.S. is if that process is automated. If it weren't for the automation, I think it would be very difficult to do that, and certainly it would take a long time and it would require a lot of effort and a lot of redesign of products.
+Manufacturing processes. Because of the automation that we've got built into our process for many years now, it's, you know, for us bringing up new manufacturing in the U.S. or really anywhere, but right now our focus is on the U.S., it's more or less a process of taking the existing, equipment and production line.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Setup that already exists in our factories in Taiwan.
+## Ryan Koontz | Analyst, Needham & Company
+Yep
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Essentially copy and pasting greater increments or, you know.
+More larger size, you know, more production lines. It's basically copy and pasting that same process into a facility in Texas. You know, from the standpoint of having, you know, certainty around our ability to ramp, that's one thing that gives us and our customers a great deal of confidence is that we're not creating a new process.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, doing something brand new that we haven't done before. It's really the same thing that we've been doing just at a larger scale in a different location. Because it's kinda automated, it's location agnostic from that.
+## Ryan Koontz | Analyst, Needham & Company
+I think you've got quite a team that's been working on that for a long time too, right?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We do. Yeah. We've got a couple hundred engineers and technicians that are working on, that have been working for a long time on developing that automation.
+When it comes to setting up the new plants, you know, that work is gonna be largely done by the same team that's been setting up our plants in Asia, so they're gonna be, you know. We'll obviously be training people in the U.S. while we're doing that, but a lot of that core team will just come over and help us make sure the setup here goes smoothly. There's a lot of recent experience within the company on setting up these lines. A lot of the equipment that we use in the production is actually designed by that same engineering team. Not only are they familiar with it from the standpoint of setting it up.
+They're also the people that designed it in the first place.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We have a great deal of institutional knowledge about, you know, how to do these processes, how to set up new factories.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We're really excited to be able to bring some of this manufacturing back to the U.S.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah, I've been down there to the Houston facility, to Sugar Land, and it's really impressive. It's super cool. I think that was just kind of the version 1 of your full automation.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right.
+## Ryan Koontz | Analyst, Needham & Company
+Now when you go to the new buildings, let's shift right into that. You know, you set up some very aggressive volume targets for the end of this year.
+Increasing mix coming out of Texas.
+Can maybe walk us through those numbers and, you know, what your key milestones are in terms of capacity, supply, both production as well as your own supply chain to hit those kind of numbers? Can you maybe unpack that a bit?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah, I mean, you can go back and look at our presentation from OFC if you want to see the graphic visually, but we're basically tracking to that maybe a little bit faster. than initially presented at OFC. Essentially what the process is from here on out is bringing up the existing factory in Taiwan. We've added some capacity there. That will be generating product here. I mean, it's already building product for, you know, pre-testing and things like that.
+That line will be fully commissioned over the next couple of months. That will enable that rapid ramp in revenue in Q3. Going into later Q3 and into Q4 is when we start to see some contribution from the new factories that we're putting in Texas, the first one being a 211,000 sq ft facility that we leased just across the street from our existing facility, the one that you visited.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah, I did.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+That one will start to come online, in August or September of this year.
+Contributing revenue into, you know, into Q4. Next year it's a process of, you know, continuing to expand the production in that facility. We recently purchased two new buildings in the Houston area as well. Those two buildings total 388,000 sq ft.
+## Ryan Koontz | Analyst, Needham & Company
+Wow
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+The construction will begin on those buildings shortly. I should say the buildings themselves already exist.
+## Ryan Koontz | Analyst, Needham & Company
+Yes
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We have to build out the, you know, interior.
+## Ryan Koontz | Analyst, Needham & Company
+Right. Clean rooms and all
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, clean rooms, and the, and the manufacturing, support infrastructure before we can start putting equipment in there. That work will begin, pretty much about the time that the existing, construction is finishing.
+It's the same contractor that's gonna go over and do, you know, do the clean rooms and things in the new building. That will then allow us to continue to ramp production into the middle part and end of next year.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+To hit those figures that we outlined.
+## Ryan Koontz | Analyst, Needham & Company
+You've got the production equipment which you've designed and procured and is on track.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right.
+## Ryan Koontz | Analyst, Needham & Company
+Maybe talk about laser supply. That's been top of mind for everybody. There's been a global shortage of indium phosphide.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right.
+## Ryan Koontz | Analyst, Needham & Company
+Maybe walk us through a little bit of the history of your own experience with your own fab sourcing, insourcing, outsourcing, where you are now, where you're going.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right.
+## Ryan Koontz | Analyst, Needham & Company
+Little history there.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah, great. I mean, you know, it's funny that in a way, what investors mostly focus on today, or certainly until fairly recently when all this knowledge about indium phosphide to become, you know, circulating among the investment community, but AOI is actually fundamentally a laser company. We started almost 30 years ago, as an outgrowth of a research group at the University of Houston that was engaged in developing advanced semiconductor laser processes and materials. That was our founding technology. For a long time, all we did was make lasers, you know.
+Our first products were lasers. All we did was sell laser chips essentially for a few years. Then eventually we started to get into other, you know, other areas that utilized those lasers. Today obviously we, you know, more of our revenue, well, very little of our revenue is derived from selling lasers today directly.
+## Ryan Koontz | Analyst, Needham & Company
+Right.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We do manufacture all the lasers that are used in our transceivers in-house. You know, I talked earlier about the supply chain resiliency initiatives that our customers have. Part of that is the fact that we have our own laser fab, so we're not dependent on another company to supply the lasers that are critical to making the transceivers. As it stands today because we don't sell lasers outside of the company, if you wanna have access to that fab capacity.
+The only way to get it is to buy our transceivers, right?
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+That synergy between the laser and the transceiver is really important to us from a revenue generation standpoint. It's also important to our customers because of that supply chain resiliency. From a product development and R&D standpoint, it's also important because we can develop the lasers in sort of in tandem with the transceivers. As we're doing the transceiver development, we can also, you know, sort of tweak the transceivers in ways that, you know, improve yield and make our laser-
+## Ryan Koontz | Analyst, Needham & Company
+Sure
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Manufacturing essentially better. They're a very synergistic-
+## Ryan Koontz | Analyst, Needham & Company
+Sure
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Set of technologies. In terms of, you know, capacity and, you know, kind of where we are and where we're going on that.
+## Ryan Koontz | Analyst, Needham & Company
+I mean, it's not exactly easy to make a bunch of lasers.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It's
+## Ryan Koontz | Analyst, Needham & Company
+lead times, and this has been planned a long time.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah. It's definitely I mean, it's been, it's like I said, it's part of our DNA. The fab that we're using has been in existence since 2000.
+Obviously, it's larger and more advanced today than it was back in 2000, but it's not a new thing for us. It's not something where we're having to build a new fab or buy somebody's fab and have it retrofitted.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Indium phosphide because it was doing gallium arsenide or some other components before. It's really been an indium phosphide fab for 26 years. We do need to scale up the capacity there, as we see, you know, demand especially for transceivers in the near term, and then eventually CPO, towards you know, perhaps towards the end of next year.
+Certainly into 2028. you know, we're gonna see more demand for lasers for those applications, so we are working on scaling up the capacity there. Our plan on that. You've seen the facility that we have existing. You mentioned it earlier. The transceiver assembly equipment that's currently in our building in Sugar Land is gonna move to the new building.
+## Ryan Koontz | Analyst, Needham & Company
+Right
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Across the street.
+## Ryan Koontz | Analyst, Needham & Company
+Yep.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+That will free up additional space in that building to build out more fab capacity.
+## Ryan Koontz | Analyst, Needham & Company
+Great
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Clean rooms are already there, so it'll be just a matter of moving in, equipment and things like that. On the equipment front, you know, the, unlike our equipment that we use for manufacturing of the transceivers, when you look at equipment that's used in the manufacture of the laser, so things like MOCVD equipment.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Coating equipment, you know, that is more standard semiconductor processing equipment. That's not something where we've really developed a lot of that equipment in-house, and so we are going out and, you know, talking to vendors.
+## Ryan Koontz | Analyst, Needham & Company
+It's long lead.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Purchasing.
+## Ryan Koontz | Analyst, Needham & Company
+It's very long lead though.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah, and a lot of that is long lead time, and so we've, you know, to your point, we've been planning this expansion for a long time.
+You know, we've already placed orders for, you know, a large quantity of the equipment that we believe will be necessary. That's gonna start coming in, you know, over the next year or so.
+You know, it's an exciting time for us on the laser front as well. It's certainly a rapid expansion in our capability for making laser chips. Again, it's not something that's new. It's just scaling up something that we've done for a long time from a laser standpoint.
+## Ryan Koontz | Analyst, Needham & Company
+Getting to two gigs per lane, is that a big step, a big ask?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+No. I mean, it's, well, for us, again, just to be totally transparent, you know, our 200 gigs per lane is a silicon photonics-based solution.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It's a modest difference, right?
+## Ryan Koontz | Analyst, Needham & Company
+Got it.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+70 mW laser.
+## Ryan Koontz | Analyst, Needham & Company
+CW laser
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+versus 100 milliwatt CW laser.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+There's not a dramatic difference. For us, those designs are very similar.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+laser standpoint, there's really not a lot of difference. The silicon PIC, you know, has some differences obviously there's some, you know, technical challenges in terms of going to 200 gig from that standpoint. From the laser standpoint, no. Even from the PIC standpoint, it's not dramatically different.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, we've got good history of development there, and customers, like I said, are, you know, testing samples and qualifying things.
+So far so good on that front.
+## Ryan Koontz | Analyst, Needham & Company
+Supply chain, just 1 last checkbox, but the supply of PICs.
+Feel like you got a great line of sight there?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah. We feel good about that. You know, we have a number of fabs that fab the PICs for us, and, you know, so far so good on that front.
+## Ryan Koontz | Analyst, Needham & Company
+Mm-hmm. Great.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+Well, you know, that's a lot of investment, a lot of CapEx. Maybe you can walk us through what's happening, you know, on the CapEx front, you know, what you've invested so far, how you think about the rest of this year at a high level.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah
+## Ryan Koontz | Analyst, Needham & Company
+In terms of, you know, what you've got today and what's gonna be in place as you go into next year.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right. Yeah. We will continue to make, you know, these investments. You know, round numbers, it costs us about $120 million to build 100,000 units per month capacity.
+## Ryan Koontz | Analyst, Needham & Company
+Sure
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Transceivers. That would be 800G or 1.6T transceivers.
+## Ryan Koontz | Analyst, Needham & Company
+Yep
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, when you look at the numbers that we've forecasted in terms of the ramp-up, you know, we'll be exiting next year at something, you know, closing in on 1 million transceivers a month capacity.
+You know, that would portend, you know, over $1 billion of investment, much of which has already been made. As most of you know, I mean, we've been raising money for some time and making these investments. But we do have more investments that we wanna continue to make, and some of the fab capacity expansions that we talked about earlier, you know, will require additional capital as well. You know, right now, this quarter, if you look at kind of the midpoint of our guide, we're sort of bracketing profitability so as moving forward, you know, we'll be generating cash from operations.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+As that scales up.
+## Ryan Koontz | Analyst, Needham & Company
+Start to self-fund.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+you know, that'll help, you know, fund some of this. I think, you know, as we move forward, we do have more capability to take on additional debt. We're not particularly highly leveraged at this point, particularly if you look at it on sort of a forward-looking basis you know, we're definitely, I would say, under-leveraged in some sense.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+I think we have the opportunity to finance some of it through debt. You know, the equity markets are always available for us, and I think, you know, I'm a shareholder too. I don't love dilution any more than anybody else, but these kind of investments are pretty much a no-brainer given the.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Very quick rate of return.
+## Ryan Koontz | Analyst, Needham & Company
+I mean, the breaking on this stuff is what, a matter of months?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah, exactly. I mean, you know, so that 100,000 pieces a month, capacity, you know, round numbers, that gives you about $40, depending on whether it's 800G or 1.6, but you know, $40 million-$50 million, maybe a little more if it's all 1.6, per month in revenue generating capacity at, you know, mid-30s or close to 40% gross margin.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, the profit that's being thrown off from that investment is, the return on it is, I don't know, eight or nine months, right?
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It's a very quick rate of return. That's an investment that, you know, I think any CFO, as long as we have certainty in the demand, which right now I think most people understand is not an issue.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, making those investments is something that's very, very wise and something we'll continue to do as we see-
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+That demand, you know, shaping up. You know, the bigger picture here is, as we move out of 2027 or towards the back end of 2027, really assessing how much demand there's gonna be for CPO. We are strong believers in CPO.
+It requires the laser chips there are much higher power, meaning much larger size.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+From the standpoint of a wafer fabrication, it's gonna require a lot more wafer processing capacity.
+## Ryan Koontz | Analyst, Needham & Company
+Sure
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, we're really keenly dialed in on assessing how fast that CPO adoption actually goes once it starts because that's gonna have pretty major impacts on not only our capacity expansion plans but also presumably.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+our competitors who are developing similar technologies.
+## Ryan Koontz | Analyst, Needham & Company
+Sure. I mean, let's continue that there. I mean, this first version of CPO for scale-out from NVIDIA. You know, I've kinda heard mixed things there. Everyone's looking forward to the scale up driver when optics really sees another inflection in demand.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+What's your personal thought on that?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+No, I agree. I think, you know, scale out is an interesting and exciting application in its own right.
+CPO is something that, you know, AOI started working on with one of our customers. I think we demoed the first co-packaged optics module anybody in the industry demoed with, I think it was at OFC in 2017 or something like that. A word to all of you who may think, you know, technologies move fast, right? I mean, nine years ago we demonstrated our first CPO module. We're now talking about maybe next year there'll be, you know, some strong adoption of that. It is, you know, it is a very good technology for us, something that we have a lot of experience in. The scale up opportunity, I think, is again, as you pointed out, it's another inflection point for optics.
+If you kinda look back at, I mean, we've been in optics and data centers since there were optics and data centers. We started in 2011 when some of the very largest data centers started deploying fiber optics in their network. If you kinda think about our evolution as a company and the evolution of data center optical technology, prior to about 2011, there really wasn't any optics. We started, you know, interconnecting switches at 10 Gb per second, and then 40 Gb per second, and then 100 Gb.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+400, now, you know, going to 800. The advent of AI added a new.
+## Ryan Koontz | Analyst, Needham & Company
+Accelerant
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+a new accelerant.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+To data center optics. Not only because the volume of connections or, you know, the volume of connections was going up, but also because the way that those AI networks are interconnected.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah. Non-blocking.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Network of Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+RSK, yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Very high requirements on bit error rate and other things. All of those factors really provided, you know, another layer of ramp to the optics business, which is what we're seeing today. The next evolution, I think the next real inflection point for the industry, is the adoption of CPO and scale up.
+## Ryan Koontz | Analyst, Needham & Company
+Yep. I agree.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We are actively working with a number of customers on technologies to facilitate that. You know, we're very excited about that, but again, you know, it's gonna have implications on the capacity that we need and the industry needs because it's gonna be a big jump up.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+In my opinion.
+## Ryan Koontz | Analyst, Needham & Company
+Exciting times. Let's shift to talk a little bit about gross margins, kind of where you are now, what your assumptions are, what are the drivers of you've guided to some nice, gross margin improvement balance of this year. Maybe unpack that a little for us.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Sure. The story of our gross margin largely comes down to product mix at this point. In particular within the data center business. You know, our existing 100 Gb and 40 Gb business actually has, those are kind of small, but they have the highest gross margin of any of our products. 400 Gb is the lowest gross margin of any of our data center products.
+## Ryan Koontz | Analyst, Needham & Company
+Okay.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+800G and 1.6T should be, you know, meaningfully higher. 800G will be meaningfully higher than 400 Gb, and 1.6T will be meaningfully higher than 800G. The story of our gross margin evolution really has to do with the mix of 400 Gb and 800G within our revenue stream. Right now, you know, we're only at the very early stages of deploying 800G. As that starts to ramp, you know, which we already talked about in the back half of the year, that will start to pull up gross margin.
+## Ryan Koontz | Analyst, Needham & Company
+It's a mix.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We have a target to hit, you know, kind of 35%, mid 30%. y the end of this year.
+Then 40% by the end of next year. We think that's achievable based on, you know, based on that dynamic.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Of mix that we see evolving.
+## Ryan Koontz | Analyst, Needham & Company
+You see when you, for your large customers, do you think you're able to command somewhat of a price premium from the US supply or from your heritage?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, I wouldn't necessarily say that we have a price premium in general. You know, our strategy is to, you know, be as competitive as we can. There is a small cost adder.
+Associated with U.S. production. For us, because we have capacity and production both in Asia and the U.S., we tend to kinda blend that together.
+## Ryan Koontz | Analyst, Needham & Company
+Okay
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+That the customer isn't, you know, seeing really a dramatic price, increase overall. Generally speaking, we're within 5%-10%.
+Any of our competitors in terms of pricing. We can do that while maintaining those margins that we discussed earlier.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah, that's great. Maybe we can go back to lasers again. It's been top of mind, I think, for investors. You know, where are you in terms of wafer choice? You're, I guess, at three and four inch on the fabs today. How does that evolve over time? What are you investing in today? When do you think the right time to go to six would be? You know, a lot of those questions come up a lot. You know, a lot of your peers talk about that.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah
+## Ryan Koontz | Analyst, Needham & Company
+Quite a bit as well.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We're primarily at 4 inch today. We did have a small amount of 3 inch, and I think we're still some legacy stuff on 2 inch, but basically our mainstream products now are on 4 inch. Between 4 inch and 6 inch indium phosphide, the only reason to go to 6 inch is if it's economically beneficial to do so, right? If the cost of producing a chip on a 6-inch wafer is lower than the cost on a 4-inch wafer.
+## Ryan Koontz | Analyst, Needham & Company
+In theory, it should be
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It should be if your yields are equivalent.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right? Right now on six inch, the yields are not equivalent for us, and I'm not necessarily certain even for some of our competitors.
+it's really equivalent at this point. The decision for us on switching over to six-inch or beginning to ramp up six-inch comes down to our confidence in, you know, our ability to predict the yields and make sure that they're, you know, similar to, or at least not meaningfully worse in the sense that it would cost more to produce on six-inch than four-inch.
+What that looks like for us is we think, you know, by the end of 2027, you know, we'll have a significant portion of our manufacturing at 6-inch. Again, to be clear, all the equipment, all the processes that we have are capable of producing 4-inch or 6-inch.
+That cutover doesn't have to be all or nothing. It doesn't have to result in a redesign of our manufacturing infrastructure or anything like that. It's really just kind of making that decision, okay, now we feel comfortable with 6-inch, now we're gonna start ramping up on there. If 4-inch lasts a little bit longer, you know, it's not meaningfully d etrimental to us, so.
+## Ryan Koontz | Analyst, Needham & Company
+Just finishing that thought, are there any other bottlenecks around indium phosphide, you know, considering the shortages and people talk about substrate access and these sorts of things? Can you unpack that a little bit for us and where your comfort's coming from?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah. There's a lot to I guess we could talk about there. Let's say first of all, for AOI, you know, we have a pretty good line of sight on substrate availability, you know, based on our inventory and based on, you know, agreements that we have with suppliers that-
+That will allow us to take shipments, you know, for the next year or so. We're basically covered for the next year or so.
+## Ryan Koontz | Analyst, Needham & Company
+Great.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, let's start with that. Beyond that, you know, the situation with indium phosphide substrates is really kind of a it's not actually a sort of global shortage of indium phosphide substrate capacity, okay? It really has to do with, you know, some political maneuvering between China and the U.S., and certain companies have gotten caught up in the middle of that, and they can no longer supply to U.S. companies. It's kind of a complicated, sticky situation, but I think investors should take some comfort in the fact that, you know, it was largely a political maneuver that caused this problem.
+A political, you know, a political maneuver could very quickly undo the problem.
+## Ryan Koontz | Analyst, Needham & Company
+Great.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+At the other, on the other hand, in the meantime, while this issue has been bubbling up to the forefront here, you know, a lot of our customers and really, you know, other industry players and stakeholders have all started to realize that perhaps, you know, having a reliance on China for the key material that's used, I mean, basically any communications laser at 1310 or 1550, so you can exclude the VCSEL, the very short base stuff, but anything that's going longer than, you know, a few hundred meters or something like that.
+## Ryan Koontz | Analyst, Needham & Company
+Mm-hmm, mm-hmm.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+All of that, whether it's for a telecommunications network, a cable TV network, a datacom network, a data center, all of it is based on indium phosphide. Perhaps having, you know, raw materials associated with that supply chain coming out of China, given the difficulties there might not be a great idea. I suspect that there will be action to increase Western supply of indium phosphide substrates. My, my guess, the most likely outcome here is that we see some sort of political.
+You know, solution in the short term, followed by, you know, a period of expansion in the Western suppliers.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+indium phosphide, you know, continues to be available, you know, as it has been.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah. That's great. Well, we've talked a lot about transceivers and lasers.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+Let's talk about the cable business.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Fantastic
+## Ryan Koontz | Analyst, Needham & Company
+which everyone tends to like, you know.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah
+## Ryan Koontz | Analyst, Needham & Company
+It's still there. It's a great little cash cow for you guys.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It is, yeah.
+## Ryan Koontz | Analyst, Needham & Company
+Growing. Tell us what you make, how you sell it, what it's for, what it does?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Sure. We make a couple of things, but the biggest selling product by far in that cable TV segment is our smart amplifier line.
+It's outside plant equipment that goes out and amplifies the signals.
+## Ryan Koontz | Analyst, Needham & Company
+Coax
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+From the coax signals, yes, as they come out of the nodes and go out towards the subscribers.
+## Ryan Koontz | Analyst, Needham & Company
+The home. Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+AOI's innovation there really was developing a microprocessor control algorithm for these amplifiers. For those of you that aren't familiar, I mean, probably most of you aren't, I mean, these cable TV amplifiers for decades.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Have been just kind of dumb electronic devices that just sit out there in the network. One of what we have heard for many years from our large cable operator customers is that they want greater insight into their network reliability, right? They, you know, largely, they've sensed outages when the customer sensed outages, right? That's not how they want it to be done. They'd like to be able to predict when units are, you know, nearing the end of their life or about to fail, so that they can go fix those things before it becomes a customer outage. That's really, really important to them.
+Well, when you have very limited visibility out to the edge of your network because your amplifiers are just sitting out there, they either work or they don't, but nobody really knows until one, you know, goes down. We've installed, you know, smart algorithms into these amplifiers now that are constantly monitoring.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, a number of different parameters so that you can do predictive maintenance. We've developed a software suite of tools, driven by AI that allows the network operators to take this telemetry data that's coming back off our amplifiers, analyze that data, you know, real time almost, and direct resources. In some cases, that can actually be repaired remotely by changing settings or something like that.
+If it can't be, it can direct those maintenance resources immediately out to the field, where it's exactly where it's needed, so it's much more efficient from an operating expense standpoint.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+If you have a failure today in your amplifier chain, a lot of times they don't even know which amplifier failed, so they gotta drive a truck all the way around that line and, okay, that one looks like it's working, and that one, oh, here's a problem.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Right?
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+This way you'll be able to pinpoint exactly where it is. We've even got a GPS coordinate built in there.
+## Ryan Koontz | Analyst, Needham & Company
+Oh, cool.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+They know exactly where to drive the truck.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Symptoms they're having, so they can take the right replacement units or whatever.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+they need. They can go immediately out there, fix it before the customer's even impacted, and that's a really exciting advancement.
+## Ryan Koontz | Analyst, Needham & Company
+What's that return path? Is it LoRa what you guys do?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Our solution uses LoRaWAN.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Which is a, you know, well-known, very robust, very secure communications protocol. I think it was developed by IBM for, like, satellite communications back.
+In the '70s or something like that.
+It's used in all sorts of IoT applications, but our implementation is not running it over RF. It's actually running it back over the cable. It's RF, but it's over the cable line in the air.
+## Ryan Koontz | Analyst, Needham & Company
+Got it.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah.
+## Ryan Koontz | Analyst, Needham & Company
+You sell these, amps into, I guess, Charter as an end customer through a distributor.
+into the cable industry.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Correct. We have announced a couple of new, you know, smaller, but still very meaningful MSOs that are adopting this technology as well.
+You know, the same benefits. In fact, I would argue some of the smaller operators have an even more acute problem when it comes to maintenance because they have less resources available.
+## Ryan Koontz | Analyst, Needham & Company
+Right
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Than a company like Charter. It's even more valuable in some sense for some of these smaller operators to have this kind of data and have the automated intelligence that's built into our QuantumLink software to be able to do that predictive maintenance and make sure their networks are operating in tip-top condition.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah. It's a big market opportunity. I think there's an amp for every, what, 10 or 15 homes in the U.S. you need to have an amp.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+Yeah, something like that. you know, you know, a typical node would pass maybe 500 homes.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+It might have 6 or 7 amps, so it's not quite 10, but it's, you know.
+Less than 100 homes per amplifier certainly.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah, great. You feel like you can take share in this space?
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+We've been taking share, yeah. We expect to continue to take share. Again, you know, our products are solving really checking all the boxes for our customers in terms of performance, in terms of this telemetry application. With the software solution, it just creates an end-to-end solution that's exactly what, you know, we're hearing that our customers have wanted, and we're really excited to see that out there. We've been deploying in Charter for a year and a half or so now.
+Very successful deployments.
+## Ryan Koontz | Analyst, Needham & Company
+Yeah.
+## Stefan Murry | CFO and Chief Strategy Officer, Applied Optoelectronics
+You know, I've personally talked to some of the technicians out there in the field that are installing these things, and they love them. They go in quickly. They automatically set up. They don't have to do a lot of tweaking. They can get their job done much more rapidly and much more efficiently than they were ever able to do before. It's great for the technicians. It's great for customers. It's great for, you know, our MSO customers.
+Data Source: Quartr Last updated: May 13, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

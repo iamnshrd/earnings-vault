@@ -1,0 +1,7 @@
+Company: Starbucks
+ROIC Symbol: SBUX
+ROIC Name: Starbucks Corporation
+Year: 2007
+Quarter: 1
+Date: 2007-01-31 17:00:00
+Executives

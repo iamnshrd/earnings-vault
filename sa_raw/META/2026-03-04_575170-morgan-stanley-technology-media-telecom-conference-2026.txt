@@ -1,0 +1,304 @@
+TITLE: Morgan Stanley Technology, Media & Telecom Conference 2026
+DATE: 2026-03-04
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right. Good, good morning, everyone. Welcome to our next fireside chat here at the Morgan Stanley 2026 TMT conference. We are thrilled today to welcome the CFO of Meta, Susan Li. Susan, welcome back.
+## Susan Li | CFO, Meta
+Thank you so much for having me.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+It's always good to see you, and our conversations we have about the industry, the company, everything exciting going on in the overall ecosystem.
+## Susan Li | CFO, Meta
+It's a very sort of even-keeled, humdrum period in which.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+No.
+## Susan Li | CFO, Meta
+B e presiding over one of the most conservative planning cycles that we've been through as an industry.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Quick clarity is high. Yeah, clarity is high. We all know ROIC. It all makes sense.
+## Susan Li | CFO, Meta
+Well done.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+That's right. Exactly. Exactly. Next question. Let me start with the important disclosures, including the personal holdings disclosures and Morgan Stanley disclosures appear on the Morgan Stanley public website at www.morganstanley.com/researchdisclosures. They are also available at the registration desk. Some of the statements made today by Meta may be considered forward-looking. These statements involve a number of risks and uncertainties that cause actual results to differ materially. Any forward-looking statements made today by the company are based on assumptions as of today. Meta undertakes no obligation to update them. Please refer to Meta's Form 10-K with the SEC for a discussion of the factors that may impact actual results. One day I'll have an agent that's just gonna do that.
+## Susan Li | CFO, Meta
+I know. Are you the person reading really fast on the pharma ads?
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yes. That's right. Exactly. Yes. Okay. There is a lot that's been changing. Let's... I wanna sort of reflect on the last year, external investor conversations and the perception of what Meta is doing versus where we are now. A year ago, we were sitting here talking about drivers of multi-year durable growth, ROIC on the core platform, all these call options like Meta AI, that Meta was going to build, and the market said, "Meta is the AI winner," and that's it. one year later, as you know from the discussions, they're different now.
+## Susan Li | CFO, Meta
+Mm-hmm.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+There are more questions about ROIC. There's more questions about the positioning of the company versus other tech peers. Maybe let me start with, as you look at it internally, what has changed over the last year about how you think about the strategy of the overall core platform and those call options that we used to talk about one year ago?
+## Susan Li | CFO, Meta
+Yeah. Well, it's funny because when you look back, actually it's a very sort of very apropos timing that you're asking this question. Right now is our performance review season, so I've just delivered a lot of performance reviews. When you look back one year ago, it seems almost quaint. You know, when you look back at, you know, what the questions we were just debating a year ago, the things we were the biggest challenges on the horizon, and you look now, you know, what has transpired over the last 12- months, right? More importantly, what you think will happen over the next 12- months. You know, when we look back at the last 12 months, okay, we take stock of what's happened. You know, the core business continues to perform, I think, extremely well.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+We have felt very good about our sort of, our ability to run what has been now for many years, I think, a increasingly robust and measurement-driven process around how to evaluate and fund investments in the core business. That's both across the sort of organic content side, that's also across the ads ranking and recommendation side. You know, I've been at the company for gosh, 18- years now.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+I have worked on ads the entire time. You know, sometimes I think back to when we were launching ads on mobile and then, you know, that was when we just began and then kind of the ad load ramp from nothing to 12.5%. That was like the first four years. You know, every half we'd meet with the ads teams, and they'd come with the, you know, kind of the list of here are the different ads initiatives we have. You know, these are the front-end things. These are the ranking recommendation things. These are the kind of. We have an internal metric called iREV, which is basically how we measure the performance of ads. You know, here's the list, and here's what they add up to.
+It is, I think, one of the maybe modern wonders of the world that we have continued to generate basically half after half a list of improvements that continue to generate iREV gains every half, and those continue to compound on each other. I described the monetization bit in more detail, but that's true on the organic side too. You know, the core business is very healthy. On the GenAI side or the AI side, you know, we've done a lot of rebuilding in the last 12- months. We have built the MSL team and assembled, I think, a incredible, you know, leading basically cohort of talent in the space of AI researchers, but also AI leaders, product leaders, et cetera, to come together to complement the existing talent that we had.
+That team, I've spent a lot of time with them. Mark has obviously spent much, much more time with them. They've come together really well. They are hard at work, you know, producing both the foundation models and also thinking about and building the product experiences that we're going to need. You know, as we said earlier, we expect the first models that come out of that team to be good, and we expect over the sort of course of the remainder of the year and next year for us to, you know, we hope to be part of pushing the frontier too.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+We've also, you know, the way we think about capacity, and I assume this is something that has been echoed by all of my peers sitting in this chair, just continues to evolve. What we thought was gonna be enough capacity 36- months ago, 12- months , you know, 24- months ago, that continues to change. We, you know, we are continuing to build for what we both know that we need today based on what we need in the core, based on what we need to train, but also what we plan to need for inference. Inference across a lot of dimensions, both because of the customer- consumer experiences we want to build, also inference for like not personal, sorry, to productivity use internal. That's what I meant. Internal productivity use cases.
+That's a place where we have frankly been playing some catch up through the year. We are still playing catch up. We are doing a lot to grow our O&O infrastructure footprint, but as it turns out, you know, data centers are a long lead time project, and a lot of the stuff we're doing today won't come online until 2027 or later. We've also started taking down some cloud capacity. Really I think, you know, when I think about the last 12- months, core business, very healthy, very excited about the ongoing opportunities there. It also lets us fund the work in AI from a position of strength and confidence.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+Then on the AI side, we have been all hands on deck, you know, assembling both the talent and the capacity, as I said. You know, I would tell you, in the way that, you know, only he can, I think Mark is just like an incredible, you know, an incredible leader who responds with tremendous sort of focus to the problem at hand. Whether it is, you know, over the course of the last, the last summer, if you had seen Mark, he was like the recruiter in chief, you know, identifying and bringing folks on board, really helping the team come together. You know, when we, when we were looking at, capacity and the fact that, you know, we didn't have enough data center capacity, frankly, to put servers in for, you know, the anticipated needs.
+You know, Mark is the person pushing us to be, you know, more creative about data center infrastructure. I think we've talked a little bit about some of the projects we have. We have some of the finest tents in the world.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+Turns out you can get tents that are, you know, rated to stand for 25 -years and withstand tornadoes and all of these things to get, you know, capacity up faster. I think that, you know, we've learned a lot of lessons over the last 12- months, but I think we are never a company that is not going to respond to the challenge at hand and kind of.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+With the most focus and energy and attention we can bring to bear.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+It's a good, it's a good preamble for me to sort of dig into a little more. Let me go back to that iREV internal metric you talked about. Of all of the improvements you've been making to the algorithms on organic content, the algorithms on ad rank and the advertising content. I think my team counted 20 changes you listed in the fourth quarter alone. Yeah, you've been iREVing. Can you give us a little more quantification about some of the products that are really driving better engagement, driving better conversion? Give us a little quantification of those, and how have all those sort of changed your visibility and confidence about revenue growth to come throughout 2026 and even into 2027?
+## Susan Li | CFO, Meta
+Yeah. We have now for, you know, we run a budgeting process every year. When we do, teams come to us, across, you know, especially the ranking and recommendation teams have now a very buttoned-up process, both on the organic content side as well as on the ads monetization side. You know, they run a lot of experiments to identify, you know, what they think are the highest confidence experiments. They're able to measure returns on those experiments, frankly, over both a one year and a multi-year basis, so we can kinda look at this over a few years.
+You know, I would say roughly those things fall into the bucket of, on the organic content side, you know, how do we basically continue to grow the sort of interestingness and relevance of what we're showing users? You know, I think in Q4, for example, what some of the product ranking work that we did on Facebook resulted in like a 7% lift in organic content views. That basically, that was the product launch that drove the highest revenue impact in the last two years. We have a sort of, we have a healthy pipeline of work ahead of us to basically continue making the, to continue making the content more relevant through a couple of things.
+One is just scaling up the amount of data we can use that lets us increase sort of the history of content interactions, makes the, you know, overall corpus of data available to the recommendation engine larger. The second thing is we're really focused now on in the same way that, you know, we talked in the past couple of quarters, the way we are really trying to redistribute ad loads so that what we care about is right now, are you in a position where you're interested in engaging with an ad, where you wanna buy something, where you know, you're in a period of commercial intent? In a similar way, on the organic side, we want to make the content recommendations most relevant and adaptive to the way you are engaging with content right now.
+Like, what are you looking at right now and what's most interesting to you now? We're also, you know, investing in using LLMs to deepen our content understanding. They are, you know, the, as the models continue to become smarter and the sort of understanding and reasoning capabilities become better, using LLMs to kind of help us understand content helps with recommendations in part because the traditional recommendation engine relies a lot on engagement signals, and then you need a lot of engagement to happen to get the engagement signals. LLMs can reason in real time about whether, you know, this is a piece of content that would likely be interesting to you.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+B ased on what we know. That's on the sort of organic content side. On the, you know, ads ranking and recommendation side, you know, we continue to do a lot of work across all of the, you know, we've talked a lot about our models, you know, Andromeda, which is on the retrieval side, Lattice, which is on the model consolidation side, GEM, which is on the ranking side. You know, how do we continue again to scale up models and make sure in a kind of a similar vein, that the ads that we are showing you are the most likely to be relevant to you at this particular moment in time, you know, and that you wanna engage, you know, with the ads in real time to the maximum degree that we can.
+We're also trying to, you know, that's kind of the organic and ads bucket. We're also trying to do work in part because we're compute constrained on compute efficiency. How do we use the compute we have today for the highest impact? One of the launches we had on Instagram last quarter grew, I think it was like a 3% conversion lift on Instagram by applying compute to the highest impact sort of ads problems. You know, we have a lot of work in all of those pipelines, and that I would generally describe as like work that gets funded through a very ROI driven process.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+That's not even the new, more research-y stuff, the like, "Hey, we've got to line up some big bets because we want over the course of the next years to have other things in the quiver. Maybe we have slightly less solid understanding of exactly how that will look today.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+That's some of the, you know, the foundation, the new foundation model work we're doing. I think there was an announcement earlier this year where we're merging some of the research efforts across ads and across the discovery engine teams. The idea is to build sort of a unified foundation model, and also doing work to frankly build some of our model architecture on top of LLMs and then fine-tune them with engagement data. That's sort of newer research efforts there, you know, that we hope will pay off over kind of the longer run. All this is to say, I feel again, just very good about the pipeline of initiatives we have.
+You know, the thing that I think now at some point I was up here talking about this, it used to worry me, and it still does, to be clear, I'm just like engineered that way, that if you added up all these initiatives, sure, you could measure the return on each one because of that individual experiment, but you didn't know where on the slope of the curve you were.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+Maybe actually, if you add up these 20 things, then you need to discount them by 80% because like the slope becomes much steeper. That has not turned out to be the case. The work that we have done has turned out to be more additive than we expected, and you know, there is a virtuous cycle that you get into with advertisers, right? Like you make the ads perform better. That in turn drives costs down for advertisers. That in turn drives their budgets, you know, on us up.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Platform.
+## Susan Li | CFO, Meta
+And then on the platform up, and then hopefully that's good for their business and that you know, that's a like long-term virtuous-
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Flywheel.
+## Susan Li | CFO, Meta
+F lywheel because now it's good for their business. They have more money to spend the next cycle around, you know, doing this with us.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+That's really hard to measure, right?
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Susan Li | CFO, Meta
+That's a multi-month, sometimes multi-year process. It's hard for us to measure that very directly. We have in fact done our best and run experiments that have been, I think not statistically significant is probably the way that, you know, 'cause you're trying to measure something that's so diffuse.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+From everything we can observe, that appears to be happening on the platform, and our goal every day is to be the best place advertisers can come and spend their money relative to anywhere else.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+You have a lot going on, a lot of pipeline. The one area you mentioned that I want to dig into because I think there is a little bit of a misperception externally about what you're doing now with LLMs.
+## Susan Li | CFO, Meta
+Mm-hmm.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+O n the core versus how you think about using LLMs in the future.
+## Susan Li | CFO, Meta
+Right.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+O n the core. You mentioned it a little bit, but maybe just remind us how are you using LLMs now?
+## Susan Li | CFO, Meta
+Yep.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+O n core? What does it look like two years from now? What do you think that could do to signal and engagement and things?
+## Susan Li | CFO, Meta
+Yeah. Today, LLMs are not a big part of kind of the work in core ranking and recommendations.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+Not to say we don't use them at all. There are places we use them more than others. Threads, because Threads is tech space, is a place that we're a little bit further ahead in terms of using LLMs to help with the ranking recommendations work on Threads. We are, you know, investing in using LLMs to help understand content today for the purposes of, again, better predicting whether the content will be relevant to you. We are not by and large using LLM architecture-.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+T o do ranking and recommendations work yet.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+You know, that is I think something that is a little bit again of a longer-term research effort. We don't know exactly what that will look like, but we think it's worth investing in and, you know, we hope that there will be very meaningful gains when we're able to do that successfully in the future.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+It will take a lot of capacity, which requires a lot of CapEx, which is a hot button topic I'm sure you get a lot of questions about. You talked about the pipeline and new products to come.
+## Susan Li | CFO, Meta
+Mm-hmm.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+You have Mark on the last public call referring to the current systems as, quote-unquote, "primitive" to what they will look like over time, with a lot of new projects to come both on and off the core. What types of analyses are you doing as the CFO when you're thinking through this is the right amount of CapEx to spend? How do you arrive at these numbers? How are you sort of putting math to it just to ensure that there's going to be enough re-revenue in a reasonable amount of time to deliver ROIC for the shareholders?
+## Susan Li | CFO, Meta
+The process, you know, there are two parts of the process. One is again on that core work. There, you know, I think I alluded to this, we have a sort of a pretty robust budgeting process at this point where we kind of take again, the expected inputs, that is both across headcount needs and capacity needs.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+Right? Those are kind of the inputs, and then we look at, okay, well, this is what we expect the one year return to be. This is what we expect the four year return to be. You know, does this make sense? That is a process we've run now for many years, I think quite successfully, and that's how we build kind of what the capacity needs for the core are. On the newer things, right? We are, I would say at an earlier stage in the process, and so this is a little bit more if the, if the prior process I described was very science, this is a little more art.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+By that what I mean is, you know, the teams that are working on basically AI training today, they have the most immediately sort of clearly defined, buttoned-up roadmap for how much capacity, let's say, they say they think they need to train models for the next 12 - 24 months. That's kind of like a demand roadmap from the teams that they have, they have more certainty into. The part I think that is the most challenging for us to have certainty around is inference needs because, you know, that's both you have to predict meaningfully into the future because of the lead time and getting capacity. We don't know exactly yet how the product experiences are going to take shape, which are the ones that will, you know, have the most scale.
+How will we use inference capacity internally? You know, where will it drive the most productivity? These are all sort of questions that we are, like, living every day.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+Trying to make our best predictions for what will be true in 12- months, 24- months, 60- months, right?
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+What we wanna do there is, you know, we have scenarios that we are looking at there, and we wanna make sure that those scenarios pencil out next to what we also think the returns from these models, but more importantly, the experiences that we build on top of the models can look like. You know, that is a little bit more of a, again, it's like a little bit of a we're fitting together a picture of, okay, this is how much inference we need, and if this is how much we think that, you know, we're gonna be able to grow the core business because of, again, using, you know, AI, to make content and ads vastly more personalized to you, vastly more interactive.
+I think This area in particular, I think I worry almost that we will underestimate it because when we put things out, they scale so quickly if they're part of our existing FOA experiences, which, you know, then immediately billions of people are, you know, will have access to. I think that's a place where that's probably a place where it's easy for us to underestimate what our inference needs could be.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+You know, then you're thinking about new things again that don't exist at scale, that's a totally different kind. You know, what should the trajectory of business agents out in the world look like? We certainly think the opportunity makes a lot of sense. We expect that, you know, in the not that distant future, every business is going to have at least one, if not many, AI agents in the way that they have websites and emails and customer service, you know, all of those things today. They're gonna have agents that handle some number of these things, you know, on their behalf.
+Because that doesn't exist at scale today, it's like a little harder to know what the trajectory should look like and, you know, how we wanna roll that out and make sure we're doing it thoughtfully and, you know, doing it well. We're really trying to make predictions over all these different spaces and think about the returns from each of those things also and make sure again that, you know, the math works out. That's not a like, okay, in 2026, the ROI is this. In 2027, the ROI is this, and so on, which pains me, to be clear. I really wish that that were, you know, that were the world we-.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+we live in, but it's not. We have to be willing to sort of make temporal bets, and that's a big part of what we, you know, what we have to do in an intelligent and thoughtful way.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Okay. As a, as a Morgan Stanley analyst, we love our scenario analyses, so as long as you're doing scenarios on the ROIC.
+## Susan Li | CFO, Meta
+Yes. That's right.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+One of those that involves the scenarios around sort of the frontier models and how to think about the super intelligence efforts and the different models that Mark just talked about. A few questions. The first thing Mark talked about having some models to show us in coming months. Anything you wanna talk about today on new models or no, not yet?
+## Susan Li | CFO, Meta
+That I am going to leave to Mark and the AI, the AI folks to unveil at the right time.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+All right. No avocados, llamas. Fine. Let me, then let me ask you more conceptually then. There's been a lot of discussion about open source versus closed models. What is the company's latest philosophy on the importance of open source, and how do you think about the main monetization nodes of an open source model three years from now?
+## Susan Li | CFO, Meta
+Yeah. I mean, first of all, you know, I think our approach to open source has been one. I mean, there's nuance to it, right? That's been true historically. We don't open source everything we do. I think we believe a lot, obviously, in open source as kind of a driver of innovation and standardization, and standardization brings efficiency, all things I love. But as the models become more and more capable, I think each model is kind of going to require its own thoughtful decision-making and discussion about whether to open source. In terms of where, sorry, where we get returns from the models, it is really, we believe, going to be from the consumer experiences that we build.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+You know, I alluded to this a little bit in my earlier answer, you know, across the family of apps. How do we make the content that you engage with just, like, better, right? You know, what is possible today is different from what we thought possible five years ago, 10- years ago, 15 -years ago for a lot of reasons, right? Part of it is the underlying technology infrastructure has gotten better. You know, when we first started, people were using this on their desktops. You know, eventually they moved to mobile. As mobile infrastructure got better then, you know, the content moved from being more text-based to now visual, and then there were a lot of photos being shared.
+We, you know, had things like photo tagging that made photo sharing even more delightful, and you're kind of in this, like, great cycle of leveraging, you know, innovation from a lot of different areas and better infrastructure to make kind of the content experiences more engaging. We've seen over the last couple of years, I think a big, you know, a big shift towards short-form video as being one of the sort of most engaging forms of content, again, enabled by a lot of things, including the infrastructure lets people see short-form video. You know, the ability to kind of again rank and figure out what to show you. You know, I think that that is going to continue evolving on all those dimensions. Like, what if you could interact with the video?
+What if you know, could watch a video and say, "Oh, I wonder what would happen next if X." Right? That's able to adapt, you know, for you, right? I think I don't know exactly what the word will be, whether it's AI-assisted content or maybe AI-generated content, I think, has the potential to You know, I watch like a lot of videos with my kids about science 'cause we're nerds and, you know, like, I wish, like, at the end of the video, you know, there are a lot of great like YouTube videos for kids about like elements. Often at the end, you're like, "I have four more questions. My kid has more questions about like-
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+You know, about this topic." It'd be great if they could just ask, and then the next part of the video happens, right? Instead of I'm like, "Okay, sorry. Let me go search for, you know, what this carbon allotrope is," and then.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+Like, but it would be better if you could just interact with it, and it could give you what you're looking for. I actually think the kind of intuitive extension of making content really interactive is something I'm, A, very excited about, and I think is just like an obviously large adjacency to what we do today.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+Ads, I think, just to not belabor the point, are an extension of that. You get the individualized ad for you, I get the individualized ad for me from the same advertiser. The advertiser doesn't even. As part of our ongoing, continuous, now multi-decade effort to make advertising as streamlined as possible for the advertiser, where they just come tell us how much they wanna spend on something.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+We deliver it. This is like the next step in that journey for them.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yep.
+## Susan Li | CFO, Meta
+I think that the opportunity that comes from those two things, neither of which requires us to launch a brand-new business off the ground that doesn't exist today, is already extremely large.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+I'm very excited about both of them, and they require zero leaps of the imagination I think, to understand why they would be big businesses. Setting aside those things, you know, there are obviously more, I mean, basically new AI experiences, business agents being one of them. I think this is going to be something that will be very commonplace in a few years, even though today, you know, today we're not quite there. There's a hotel that I was trying to book in Orlando. It turns out when you have kids, all the kid events are in Orlando for some reason.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+Home of the greatest convention centers in the world.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Exactly.
+## Susan Li | CFO, Meta
+I called this hotel, and I thought I was like it seemed very organic.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+You called them?
+## Susan Li | CFO, Meta
+Yes.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Okay.
+## Susan Li | CFO, Meta
+I called them, and I thought I was talking to someone. It took me about 4 minutes to realize I was not talking to a human.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+Like I was going through what was turning out to be a really confusing phone tree. In the very beginning, I thought I was talking to a person for quite a long time. That experience should be way better over time.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+Right. you know, we bought Manus. We are excited to Manus already obviously exists as a very promising business, and we are excited to scale, you know, Manus, and grow it, and to kind of have the notion of multipurpose AI, I think, is gonna continue.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+Becoming more valuable for folks, and I think there will be a market there. Then I think, you know, there are things that, again, don't exist at scale today from a like from a product perspective. But certainly I think as we have those AI experiences that are built out, whether it's in Manus, whether it's in, you know, some, you know, future version of Meta AI.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Susan Li | CFO, Meta
+I think monetizing those consumer experiences is not the hard part. I think it is growing the consumer experiences that is the hard part.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Actually, you brought Meta AI at the very end. That's where I wanted to go because I noticed you didn't say Meta AI, and then now you've brought it up. Over the last two years, there's been a lot of ebbs and flows in sort of investors' confidence in Meta AI's positioning.
+## Susan Li | CFO, Meta
+Yep.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+I would say a couple years ago, there was a lot more anticipation Meta AI could be a leading agent to compete against Gemini or GPT. I remember sitting up here in the past talking about booking your trip to Orlando through Meta AI. Now there is this external perception that Meta AI is behind, falling behind, and not gonna be able to catch up to the other players. What's your reaction to that, and how do you think about sort of the pace of product innovation on Meta AI throughout 2026?
+## Susan Li | CFO, Meta
+Yeah. Well, Meta AI has over 1 billion people who use it despite not being on a state-of-the-art foundation model.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+While I, you know, like I think I am totally clear-eyed in assessing where we are today, I am meaningfully more sort of optimistic than that framing, I think, about where this could go.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+For a lot of reasons. One is, again, just the kind of scale of distribution. I think one, you know, I think one of the playbooks we really have dialed in as a company is when you have a good product with consumer market fit, how do you leverage the distribution network we have to put it in front of a lot of people? You don't wanna do that until it's like a very valuable experience. The second thing is, you know, I think that our ability to personalize, to personalize your conversational AI agent to you is going to be second to none.
+You know, I think both based on just your deep history of interacting with the platform already and our ability to understand that information and sort of use it to make sure we're building a good experience for you. I feel, you know, I think that when we have a frontier model, I feel quite confident that the combination of that, the combination of the distribution graph, the network effects, the fact that there are a lot of very natural places to have Meta AI interact with you. I can have, you know, I can be in a WhatsApp conversation with my friends, and we can be talking about going to dinner, and it can just, you know, an AI agent in the chat can just book the restaurant, right?
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+We're planning a ski trip and, you know, an AI agent can like tell us where there's snow, evidently nowhere.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Sure.
+## Susan Li | CFO, Meta
+If there is snow, like where should we go and when and like, you know, what kind of gear do we need? Like I think the ways in which the family of apps as it exists today, I think, are a great scaffold for AI experiences to fit very neatly within them, are very intuitive. I'm excited for that and, you know, I'm excited to see how that unfolds.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Okay. We're excited to see the product evolve. The other area that I wanna sort of touch on before we get to the end is custom silicon. You know, this is another part that sort of has been a multi-year evolving strategy, and it sort of has expanded. Maybe remind us where are you using your own custom silicon now? What have been the early learnings from that from an efficiency perspective? How do you think about the next couple years of expanding the use of custom silicon as opposed to using third-party chips?
+## Susan Li | CFO, Meta
+Yeah. I'll actually expand the question a little bit. Custom silicon is one of, I think, many. I mean, it is one and a very important part of a overall, like, how do we bring the cost of compute down strategy, you know, over time. Obviously chips are the sort of most expensive piece of that and, you know, again, apparently to date, the shortest-lived version because new chips come out and you wanna leverage the better performance that you can get, but obviously who knows over the longer term.
+For us, because we have so many, the scale of our silicon needs across AI training, across anticipated AI inference, across the core ranking recommendation work, across CPUs for keeping the site running and, you know, kind of the, like, bread and butter of running the family of apps. We're really focused on basically making sure that we are getting the optimal chip for each workload and each, and that combination is still at a scale that, like, lets us do this in a, in a sort of cost-efficient way, if that makes sense. You've probably seen a number of announcements come out between us and some of the different.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+T he different, chip providers. That's all in service of that effort, which is like based on what we know today and our current needs, you know, what do we think is the best chip to use for each of these use cases? Some of them are totally off the shelf, some of them are somewhat customized, some of them are very customized, you know, and can we negotiate like, you know, what we, the, you know, the volumes we need at what we think are attractive prices for kind of each of those, for each of those chips. Custom silicon is a big part of that, obviously. Some of our workloads really are very customized to us.
+The sort of ranking and recommendations workloads have been where we have started. That's the place where we have rolled out custom silicon at the most scale. We expect and are hopeful that we are going to expand that, you know, over time, including eventually to, you know, training AI models. That is obviously later in the roadmap. I think we're feeling quite optimistic about the way those chips are performing today because, again, they really let us optimize for, you know, performance per dollar and, like, the total cost of ownership of the chips we need for each use case.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Great. Let me ask you one more. You know, we talk a lot about all the GenAI or the GPU opportunities and everything that's sort of, you know, the growth and the pipeline. What is sort of the most underappreciated challenge or the factor that keeps you up at night when you're sort of thinking about making sure you execute on the right factors in this whole GenAI era the next couple years?
+## Susan Li | CFO, Meta
+That's a great question. I think there are two dimensions to it. On the product side, you know, I think I alluded to this earlier, but, you know, I think, again, and I think this is so natural, but, you know, when we, including the industry at large, talk about kind of what the future sort of products and experiences are gonna be, and clearly there have been some great new products and experiences that have been built, we tend to think about new things.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Mm-hmm.
+## Susan Li | CFO, Meta
+I, again, I think we, you know, underestimate how big the sort of taking like AI technology and making things that exist better, I think is just going to be that is going to be a massive opportunity.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Much better.
+## Susan Li | CFO, Meta
+I think, you know, I wanna make sure that we are resourcing against that appropriately. I also think, you know, AI tools are changing the way we work. I think clearly if you were starting a company today, you would use a lot of AI tools very differently, and you might set up a lot of your workflows very differently, and you might set up your teams very differently. We don't want to, you know, we like as a company that, you know, has now existed for over 20- years, we don't wanna find ourselves behind companies that are being born today and that are, you know, AI native from like the very day of inception.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Yeah.
+## Susan Li | CFO, Meta
+Making sure that we stay on top of you know, what would a team that is solving this problem, like at a startup, how would they think about solving it, right? Of course, we can't just perfectly do that because we have, you know, a inherently very large code base that already exists and, you know, we've got lots of processes and things that exist for good reason. I do think making sure that we're asking ourselves that question is very important so we don't get left behind. What we have found, I think I mentioned this, you know, on the last call, that like AI tools are making our developers more productive. You know, they are making our most effective, our developers who are most effective at using them much more productive.
+You know, they, I think 80% was sort of the stat we shared in terms of increase in coding productivity. What does that mean for, well, how should we, you know, how should we think about, like, how you use these tools to not only increase your own productivity, but also, make it easier for you to work with other people? What should teams look like in that future? How do we You know, we've got senior executives at the company who are, like, using AI tools to build their own agents and stitch together data from, you know, different sources and things that, you know, you used to have to ask.
+You sent an email into, you know, like a team and would wait several hours for multiple, you know, for multiple different data sources to get stitched together for you. Like, people are getting that information much faster now, and that enables them to make decisions more quickly and to make more decisions.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Right.
+## Susan Li | CFO, Meta
+Right? Like, the long run goal of this is to do more things, right? To do more things and build more experiences. Making sure that we for a company as kind of, you know, at the size and scale that we are, that we don't work any less efficiently, you know, than companies that are AI, that are AI native from the start. That is, I think, that's something that I think about a lot and, you know, wanna make sure that we are as well set up to compete as any of them.
+## Mark Hyatt | Equity Research Analyst, Morgan Stanley
+Great. Susan, thank you very much. We, we're excited to see all the efficiency, and you guys do more and more things in the years to come. Thank you.
+## Susan Li | CFO, Meta
+Thank you so much.
+Data Source: Quartr Last updated: Mar 4, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

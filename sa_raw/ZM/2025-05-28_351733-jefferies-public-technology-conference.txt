@@ -1,0 +1,167 @@
+TITLE: Jefferies Public Technology Conference
+DATE: 2025-05-28
+## Samad Samana | Managing Director, Jefferies
+Hi, everybody. Thank you for joining us. I appreciate, appreciate you joining. My name is Samad Samana. I cover Zoom here at Jefferies. With us, we have Michelle Chang, who's the CFO, joined Zoom last year. Excited to have you here with us for the first time, Michelle. You're not able to turn yourself on. No, no, no problem. Listen, again, appreciate having you with us. You stepped into the role in the fall of 2024, and you've been through a few earnings cycles now. Maybe, I think, just for the audience, given your fresh perspective on Zoom, which is now essentially a household name, right? Like, what attracted you to the role? Maybe what have your initial priorities been since joining Zoom.
+## Michelle Chang | CFO, Zoom
+Yeah. To add a little bit more detail, I came in October. I'd actually spent 20, almost 25 years at Microsoft, where I actually was the CFO of Teams in the pandemic. Kind of saw Zoom from a very different vantage point, and a couple other roles. You know, when Eric, our CEO, called me, it was sort of like, "Oh, you take the call because it's Zoom, the iconic brand that helped the world in a tough time." As he and I and our conversations began to unfold, you know, it's like, "Wow, I did not realize, you know, like, you heard, I heard from my predecessor, you know, all the things that made Zoom Zoom. They have an end-user love. They've kept the customer at the center of it." I knew that going in, iconic brand.
+As Eric began to talk about where the company was going, I just thought there was a really great fit, in terms of what I'd seen, in terms of building growth at scale at Microsoft, and frankly, how I could help.
+## Samad Samana | Managing Director, Jefferies
+Great. How do you think about maybe your priorities since joining? I know there's been some new disclosures. I think there's been maybe a bit more aggressiveness in the capital management. Just how, if you think about the top one or two priorities.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Samad Samana | Managing Director, Jefferies
+How are you thinking through them?
+## Michelle Chang | CFO, Zoom
+Yeah. I would say from a CFO perspective, there's kind of two top priorities that I've said. One is growth rate acceleration. Pretty basic. That's what I believe our stock trades on. Second one is to really work on the capital allocation that you said. I think about that as both internal capital allocation as well as external, but doubling down on our buyback, you know, getting more refined about questions that we naturally get from investors about, "What are you doing with all the cash?" and all of that. From my vantage point, those are my two priorities. I guess maybe I would give this audience three things that we're focused on from a Zoom perspective of our business priorities, right? So many people think about Zoom as a meetings company, right? But it's far more than that.
+It's a platform. Are we evolving from being just a meetings company to a workplace platform company? Second priority is, are we moving into natural adjacencies of TAM that can help our growth rate? The third priority is, are we really infusing AI across both of those things and beginning now to monetize AI more explicitly? You know, when I came in, it was really over these dialogues with Eric about we really need to get more refined in terms of how we talk about our business priorities to investors, but also to Zoomies as well.
+## Samad Samana | Managing Director, Jefferies
+Listen, I tell people this all the time. Zoom is the only application other than Microsoft and FactSet that I use every day.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Samad Samana | Managing Director, Jefferies
+It knows more about me than anybody else 'cause it hears all my calls.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Samad Samana | Managing Director, Jefferies
+To the extent that anything can help me, it knows more than Microsoft does about me as well. I think there's obviously a huge opportunity there. I think that dovetails well into maybe, you know, the company gave some new disclosures recently about other products in the portfolio. Can you walk through maybe some of those other products that are in the platform that maybe get less of a spotlight shined on them? Because we're not day-to-day users of CCaaS, or we're not day-to-day users of AI Companion.
+## Michelle Chang | CFO, Zoom
+Yeah. There is a ton of products that maybe people do not know about that are sort of what we call our workplace platform. Like, and just to give nod to that, then I will talk more about your specific question. You know, Zoom is not just the meetings experience. It is calendar and chat and collaboration and, you know, email. So many people do not really internalize that. Yet, you know, that is what the Zoom Workplace is. That is central place without having to toggle all over the place to get your work done. To that third priority that I talked about earlier of going into nationally adjacent TAM, it is really moving into, there is kind of two that we talk about, so I will just keep it as simple as two here. One is customer experience.
+Really, if you think about the customer ethos and the video and voice and the natural things, the system of engagement that knows too much about you, you know, is a natural extension then for us to go into customer experience. There, you know, we are really seeing a ton of excitement from our customers, really big wins, which we've highlighted in the past, but also broad-scale demand. Like, if you look at where we're winning in contact center, you know, almost all of them big name replacements of cloud providers. We're excited about what we see there. Almost all of it AI-driven, you know, which I think just speaks to the market transformation, but also sort of Zoom's fresh differentiated position. The second thing that maybe I'd highlight is our employee experience.
+Think of this as a central place where, you know, a C-suite can go and have communications out. I can communicate to my team, et cetera. We are really excited about what we are seeing there. Ton of demand from customers, in particular kind of Fortune 100 type customers. The thing that maybe I have been trying to push a little bit more with investors is both those products are bringing new customers into the Zoom ecosystem. It is not just a land and expand upsell. It is actually bringing new customers into our ecosystem. It is something we are really excited about.
+## Samad Samana | Managing Director, Jefferies
+I think that's underappreciated just because of how ubiquitous Zoom now is.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Samad Samana | Managing Director, Jefferies
+It's good to hear that. Maybe stepping back, you, I think you've been very consistent since joining about accelerating growth, right? You mentioned it here on stage.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Samad Samana | Managing Director, Jefferies
+What do you see as maybe the core drivers of growth over the next few years? You just mentioned new sources of new customer acquisition. Land and expand has obviously been a key part of the strategy. I think investors may want M&A to be included in that at some point.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Samad Samana | Managing Director, Jefferies
+How are you thinking about those different drivers of growth?
+## Michelle Chang | CFO, Zoom
+Yeah. Let me go back to, I'm just a simple person, the three business priorities, right? In our core business of kind of phone and meetings and the workplace platform, we gotta be like, not the fun stuff, but grinding out, you know, churn and, you know, all the basics, expanding to new markets, expanding into channel. We're really pleased with what we're seeing there. I think a lot of that really speaks to Zoom took a differentiated approach in AI, which was the belief that a certain level of AI value should be democratized for our customers. Customers shouldn't have to pick and choose. The CIO shouldn't have to pick and choose who gets a meeting summary and who doesn't. There is that. Second thing, that I think we're excited about is sort of moving into those adjacent TAMs.
+I feel like I captured those. The third priority is really around AI, right? It is AI making sure that that differentiated decision monetizes in some way. Now we've introduced a lot of specific products, vertical AI products, as well as custom AI Companion. Think of that as that next tier level up of business value. We're introducing a lot of things that now can monetize in AI. To your question about M&A, I think what we're trying to do is refine for investors what it is that, how they can think about M&A for us. What we've said, maybe just to reemphasize here, is it'll be in one of those three business priorities. It will be in something that accelerates top-line growth. It will be something that's strategic and differentiated within that.
+It'll probably then translate to something in the small to medium size.
+## Samad Samana | Managing Director, Jefferies
+Great. Appreciate you clicking that. I wanna skip ahead to AI, actually, because you just mentioned it, and I think it's a good transition point. For those that maybe weren't on the earnings call last week, Eric used an avatar. It was a very unique experience, a first that I've seen on an earnings call. I think it showed the power of what AI can be for both a user and then the person at the other end experiencing it. It allowed him to, in a different way, communicate what he was trying to say. I thought it was very unique. Maybe help us understand just some of the various AI investments in greater detail that the company has made. Just like, how are you thinking about what the early feedback from customers has been?
+## Michelle Chang | CFO, Zoom
+Yeah. Perfect. And maybe just a fun little note, 'cause I don't know that this totally came across in earnings. You can give me feedback afterwards. But he didn't speak any of this. Like, we said the script, you know, with pictures of him and whatever. Like, it wasn't him talking. Like, so it's interesting if you think about where you could go with that. You know, you could translate that in many different languages around the world and be able to have a CEO give a speech that goes viral across the world, and they never even have to say it. So it's fun to sort of, I think, have those moments of you can embrace that. In terms of where we're investing in AI, I think it's a process. I just kind of go back to those three business priorities.
+It's in our core, right? In our core, even though it's not, it's sort of, it's included with all paid SKUs, are we moving customers beyond meeting summaries? I think for so many, meeting summaries was just a natural place for GenAI to take root, right? It has to go far beyond that. What we're really excited about that we announced in the last earnings is not just the MAU. That's kind of the stat that we give, you know, just to show momentum in AI. I don't know that this totally came across in Eric's words, but we saw a 500% increase sequentially quarter over quarter of customers moving to use it in the side panel. Zoom Speak, what that means is more depth usage.
+Customers then now, you know, again, 5% sequential, like taking that and saying, "Okay, I'm gonna use the side panel." Think of that as like a ChatGPT type of thing. We call it AI Companion for Zoom to prepare for a meeting, to then take the actions from the meeting, to build that, to take independent things, to schedule meetings off of it. You think about what it could all do. In terms of where we are focused, in terms of our investments, infusing it in the core, infusing it in those two businesses that I talked about in WorkVivo and Contact Center. Obviously, Contact Center, you're far, far further on that journey right now. Most of what's driving the growth is the AI transformation.
+Maybe the piece that I might draw on our investments is really making sure that, like, God, you know, I can't tell you how many CFO to CFO dialogues I hear where it's like, "Johnny and Susie get two hours back in their day. How on earth are you gonna take that to a board?" Right? We are very focused on proving it out in Zoom first, making sure it has business value for our customers, and then turning around and really landing that at the face of the customer.
+## Samad Samana | Managing Director, Jefferies
+If I maybe pull on that thread a little bit, I think it's an opportunity to transform from, I think what most people view Zoom as is either a communication or an engagement layer, but really becoming a core part of workflows. I think that term gets used that as often, right? Where, if I have the Companion add-on where I'm embedding workflows like ServiceNow or HubSpot or some of your other key integrations, are you starting to see that conversation shift when you're having the CFO to CFO conversation where Zoom is being viewed more as something that's integral to the workflow beyond how we engage with each other?
+## Michelle Chang | CFO, Zoom
+Yeah. Look, we're at different stages. You know, I would say for sure in Contact Center, like, people are very excited at the modern approach. They're very excited. The bulk of what is driving our revenue growth in Contact Center is our AI SKU. That I would say is already there. What we just announced in market in Q1 is custom AI Companion. Think of that as you bring your own data, you bring your own indexing, you're automating business workflows. That's where it gets to the point where you've gotta have those integrations, right?
+I would say it's still early days, you know, but customers are excited at, I think, the approach that we've taken where it's like, if you are somebody that wants to be in the Zoom Workplace and that's how you wanna kind of manifest that value, we've got that. If you also wanna, you know, just have the deep integrations and serve it over there. Like, for example, we do a lot of our AI summaries and pull in our AI value in a Teams interface, which people may not want to. I think it speaks to this kind of ethos of an open ecosystem that Zoom has always embraced.
+## Samad Samana | Managing Director, Jefferies
+I know you mentioned it's early. It just came out in April, the custom add-on. How should we think about maybe adoption, given that's one of the few products that you're actually charging for extra? What are your expectations that you've embedded?
+## Michelle Chang | CFO, Zoom
+Yeah. So look, for us and my mental frame is it actually starts with a step that's included at no additional cost. We gotta get that MAU up that I talked about. We gotta get the depth going. Then that provides a very natural first inroad for custom AI Companion, which we monetize at $12 per user per month. And so look, we're gonna think about that as sort of a natural place to start with our pipeline. And I would say too, we're excited about a strategic partnership. We announced a go-to-market partnership with Amazon and their Q product, which we think will be a great synergy between the two companies. We'll take both approaches.
+## Samad Samana | Managing Director, Jefferies
+Appreciate that. I wanna maybe shift gears to a little bit more short-term oriented.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Samad Samana | Managing Director, Jefferies
+As I mentioned, you guys did report last week, so I'm sure that's fresh or recently. It sure is fresh on, feels like the day after month.
+## Michelle Chang | CFO, Zoom
+Yeah. Here's Lilith, minor, minor.
+## Samad Samana | Managing Director, Jefferies
+Yeah.
+## Michelle Chang | CFO, Zoom
+Very burned in my brain.
+## Samad Samana | Managing Director, Jefferies
+If I think about maybe just the, the recent results, I think the quarter itself was, was good. And then you guys raised guidance a little bit. Just maybe help us understand what you're seeing in the current demand environment and how that influenced the, the revision to guidance as well.
+## Michelle Chang | CFO, Zoom
+Yeah. Perfect. What we said in guidance was that we beat the quarter and we raised on the full year. There was some additional color, which I think is sort of where you're going with your question, where we used the opportunity with investors to talk a little bit more about the balances that we saw in the guide. What we said is, previously on the Q1 earnings, we'd been asked a question about were there any price increases contemplated when we gave our full year guide, which was last quarter. Look, we hadn't had all the research come in, and we used this moment as an opportunity to announce that we'd be doing a price increase on a subset of our customers and online. We quantified that for investors at $10 million-$15 million.
+We said we were gonna take a prudent approach in really offsetting that with the enterprise side of the business. What we talked about on the earnings call on the enterprise side was there were a subset, while we saw broad demand and no macro impact on the online, while we saw broad demand and no impact to macro in the bulk of our enterprise customers, there were some larger customers in the United States that I think very naturally had sales elongations. There's so much uncertainty, the pausing, the wondering where we should go. More deal scrutiny, sales elongation, and that's what we used the moment in the guide to kind of offset.
+## Samad Samana | Managing Director, Jefferies
+I wanna dig into the, the price increase. Your online churn has actually come down quite a bit. It's, I think for the first quarter, it was at a record low level, and now you're passing a price increase on the online side. Maybe help us think about what gives you confidence with churn sitting where it is that now is a good time to raise price as well and how you think about that, the value that gets added for the client on that side as well.
+## Michelle Chang | CFO, Zoom
+Yeah. Perfect. I mean, one is, you know, we feel good about where we are with churn. While I have this group here, I think one of the things that maybe people don't fully realize is that the online business that we had sort of in the pandemic era is definitely not what we have now. A great step, over 70% of our business on the online side has been with us for more than 16 months, right? Over half, you know, our monthly billing, but 49% annual. It just speaks to a very different, more stable base.
+We've been working, churn, but actually the price increase, and I, I actually love this about Zoom is, you know, I both hate it as a CFO and maybe love it on the other side from a customer vantage point that we tend to not wanna pull the price lever for very righteous reasons of our founder is very much about creating customer love and, and demand and value. Look, as we started to reflect on it and, and that research came back, we put a ton of value in platform. Now what we see is because you can now get chat and email and, collaboration tools and, you know, in addition to meetings, there's so much more value in the platform.
+Because we've put a base level of democratized AI value in our online SKUs, that's adding in a ton of value that, like, to an SMB, what that can mean is you don't need a Loom, you don't need a Calendar, you don't need a Slack, you don't need, or maybe they won't be having Slack, but, you know, you don't need a note taker, right? You can get a ton of value in Zoom. We announced what I would call is sort of a nominal price increase to reflect that. We also wanted to add something just net new, which is we doubled the storage.
+## Samad Samana | Managing Director, Jefferies
+For what it's worth, my associate Billy and I, we did a survey and customers said they're willing to pay for it. It's adding value even, and that was before you guys announced the price increase. I think if the value is there, the price will get paid. I think that's what you're seeing both in what your price increase is showing and what surveys have shown out there as well. I want to maybe switch gears to the enterprise side of the business.
+## Michelle Chang | CFO, Zoom
+Yes.
+## Samad Samana | Managing Director, Jefferies
+WorkVivo has been particularly successful for the company. That's you guys saw growth accelerate there. Maybe help us think about just the organic execution there versus the Meta partnership and how durable you think that, that business is.
+## Michelle Chang | CFO, Zoom
+Yeah. Perfect. For those that may not be aware, WorkVivo is our employee experience. Think of this as like a central place to go and get information, your company intranets, communications out, et cetera. Look, part of what is driving the growth that's sort of behind the question is, a lot of the strategic transition of Meta's products onto a Zoom space. Look, that's driving a lot of growth. What I would remind and what we always talk about is before the sort of transition, which does taper off towards the second half, like we had been growing along the lines of this as well. We feel very good about not just the product, but, you know, the value that is in it, you know.
+There are lots of things that we could go to in terms of doing that, but we still really think about this as customer-driven business at this point. Share moments, in particular, you hunt very well with large kind of Fortune 1000 type customers. For us, the stat we always share with investors is our customer growth because for us, that's what this is about. Maybe the other thing that I would say, we don't think about, to answer your question directly, that the meta, will it be a thing? Yes, but we've known about it forever. We're prepared. We were growing things before. Maybe the other little tidbit that you didn't ask but I think is really cool is, 90% of the customers in WorkVivo are net new to Zoom.
+We're very pumped about what that allows us then to introduce those customers to Zoom in new ways.
+## Samad Samana | Managing Director, Jefferies
+Great. I know we're running a bit short on time, so I'll try to, Zoom pun intended, to the last couple of questions. On the Contact Center side, it's a space that's competitive, but you guys have, I'd say, been viewed as a disruptor.
+## Michelle Chang | CFO, Zoom
+Yep.
+## Samad Samana | Managing Director, Jefferies
+You're growing triple digits is what you announced most recently.
+## Michelle Chang | CFO, Zoom
+Yep.
+## Samad Samana | Managing Director, Jefferies
+What do you think is giving Zoom the right to win in that space and how important are the role of partnerships in that?
+## Michelle Chang | CFO, Zoom
+Yeah. What the themes that we see of why we win is a lot the backbone of Zoom, like that omnichannel excellence that just works, pace of innovation, end user customer obsession. We hear from customers all the time that I told you what I wanted and you delivered it before the deal even got done. You know what I mean? That deeply, I think, is contributing to kind of that disruptor. Second thing that we hear all the time is sort of, I guess, tangential to that, but the AI value in particular across that and just the business value that customers are able to see from deployment of the product. The third thing that I would say we see thematically across deals is this concept that customers do not want different platforms. I mean, we do it either way.
+If there's customers that don't, but this better together concept where, you know, people want their customer interactions in the Contact Center to be on a similar plat or on the same platform that then they are internally communicating and collaborating with because it just allows that kind of flow from fixing customer solutions back out, to flow even better AI scenario value realization. I would say those are really the things that we see hunting very well for us. I think strategic partnerships will be essential to anyone, but just something, the integrations are a big focus for us, but also just broadening out our own platform. A lot of what, even within Contact Center, a lot of what is driving our revenue today is agent, assistant AI.
+What we're starting to talk more about in earnings is that 100% virtual, assisted, which hasn't been a big revenue driver, but obviously is where the market is going. We're excited about that as well.
+## Samad Samana | Managing Director, Jefferies
+Understood just with the, the last question. I know we touched on capital management briefly earlier, but your recent quarter had a record level of buybacks. I'm curious how much of that was opportunistic given market conditions versus a signal that maybe the buyback is kind of the focus area in capital management.
+## Michelle Chang | CFO, Zoom
+I think it's both. Look, I think for perhaps too long, Zoom waited to do something more substantial with its buybacks. One of those was already announced before I came on as CFO. And then as I was talking about the board, you know, very quickly, one of the first conversations within a week of being there was, hey, do we really wanna show investors that we hear their feedback on buyback? And so the doubling down, do I think it's a, you know, transformational shift? No, but I think Zoom was arguably a little late to the game. and so I think you're gonna, see us. And that was why I announced that and then put a time down on it of when we expect to use it.
+Within the quarter was obviously a bit opportunistic, but we still just reiterated the commitment to the 1.2 within the fiscal.
+## Samad Samana | Managing Director, Jefferies
+Great. Before I let you go, Michelle, I have a fun fact for you. During.
+## Michelle Chang | CFO, Zoom
+Okay.
+## Samad Samana | Managing Director, Jefferies
+COVID, one of my colleagues at Jefferies, I believe, wrote a book called Instead of Goodnight Moon, it was Goodnight Zoom.
+## Michelle Chang | CFO, Zoom
+I have.
+## Samad Samana | Managing Director, Jefferies
+Goodnight Zoom.
+## Michelle Chang | CFO, Zoom
+I have.
+## Samad Samana | Managing Director, Jefferies
+Yeah.
+## Michelle Chang | CFO, Zoom
+I have.
+## Samad Samana | Managing Director, Jefferies
+Yeah. Exactly. You know, that is how often everybody was using it that an employee in here wrote that book.
+## Michelle Chang | CFO, Zoom
+Okay. Wait, where is this person? Or they're just out of the conference?
+## Samad Samana | Managing Director, Jefferies
+She's right back at HQ.
+## Michelle Chang | CFO, Zoom
+I think you told me that in one of our last meetings because I went out and bought the book.
+## Samad Samana | Managing Director, Jefferies
+It is.
+## Michelle Chang | CFO, Zoom
+So.
+## Samad Samana | Managing Director, Jefferies
+You know, it's, it's.
+## Michelle Chang | CFO, Zoom
+It's awesome.
+## Samad Samana | Managing Director, Jefferies
+That's Jefferies' love of Zoom, but an employee would write a book about it 'cause the, how often she was using it, so.
+## Michelle Chang | CFO, Zoom
+Exactly.
+## Samad Samana | Managing Director, Jefferies
+Thank you for joining us.
+## Michelle Chang | CFO, Zoom
+Awesome.
+## Samad Samana | Managing Director, Jefferies
+We really appreciate it and look forward to talking to you soon.
+## Michelle Chang | CFO, Zoom
+Yeah.
+## Samad Samana | Managing Director, Jefferies
+Take care.
+## Michelle Chang | CFO, Zoom
+Enjoy your conference, you guys.
+Data Source: Quartr Last updated: May 28, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

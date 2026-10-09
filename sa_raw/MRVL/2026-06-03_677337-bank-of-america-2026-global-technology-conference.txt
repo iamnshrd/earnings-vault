@@ -1,0 +1,276 @@
+TITLE: Bank of America 2026 Global Technology Conference
+DATE: 2026-06-03
+## Vivek Arya | Analyst, Bank of America
+To this session at our BofA Global Technology Conference. As a real huge positive surprise, we have the team from Marvell join us. Really honored and delighted to have the CEO, Matt Murphy, and Ashish Saran, the Head of Investor Relations. I was told that Matt actually just landed back from Taiwan, where I think he had a little bit of a quiet trip, right?
+## Matt Murphy | CEO, Marvell Technology
+Yeah, it was calm.
+## Vivek Arya | Analyst, Bank of America
+Quieter than usual.
+## Matt Murphy | CEO, Marvell Technology
+Very calm trip.
+## Vivek Arya | Analyst, Bank of America
+Very calm.
+## Matt Murphy | CEO, Marvell Technology
+Visiting suppliers.
+## Vivek Arya | Analyst, Bank of America
+Nothing happened.
+## Matt Murphy | CEO, Marvell Technology
+Yeah.
+## Vivek Arya | Analyst, Bank of America
+Nothing happened at all.
+## Matt Murphy | CEO, Marvell Technology
+Just on wafer, that's it.
+## Vivek Arya | Analyst, Bank of America
+Exactly.
+## Matt Murphy | CEO, Marvell Technology
+Yeah.
+## Vivek Arya | Analyst, Bank of America
+I'm sure we'll talk about market caps and such, but let's get to fundamentals. Matt, how would you describe Marvell for the next five years, right? How do you see Marvell fitting into this ecosystem where you have one or two really large companies who have both kind of compute and networking resources, and then you have other companies who are good in compute or in networking, right, but not in both. How does Marvell fit into this ecosystem? What is your strategic plan for the next five years?
+## Matt Murphy | CEO, Marvell Technology
+Sure. Maybe before I talk about the next five, just for a moment-
+## Vivek Arya | Analyst, Bank of America
+Yes, please.
+## Matt Murphy | CEO, Marvell Technology
+Just a quick recap, because it's important to understand how we got here and where we are.
+## Vivek Arya | Analyst, Bank of America
+Absolutely.
+## Matt Murphy | CEO, Marvell Technology
+Right. Actually, I'm coming up on June 20th, 2016, I was announced as the Marvell CEO. If you can believe that, for those of you guys who've been around, I can't believe it's been 10 years. The first five years of the company was really about rebuilding and transforming into, really to try to get to where we were today, which was our aspiration to be a leader in data center and data infrastructure silicon. A lot of ins and outs in the first five years. Selling businesses, acquiring businesses. Net-net, even though it was a lot of ins and outs and we shrank to grow a couple different ways, we doubled Marvell, actually, in the first five years. We were $2.2 billion the first quarter run rate I was CEO. We ended 2021, post Inphi at like four, five, four, six, something like that.
+Pretty well-positioned. Took a big risk with Inphi, if you guys remember. Actually, fun fact, a banker told me this, the two highest multiple transactions of any scale in the chip industry in the last 25 years, number one was Inphi, 13.3x forward multiple. The second was the divestiture of the automotive business of Marvell, which was 12+x forward. I've been involved in a couple of these high stakes ones. The Inphi one worked out really well, but that was sort of 15% growth the first five years, getting ready. We took a breather, we digested, we integrated. We fired up the M&A machine again. In 2025, we did the auto divest, we acquired Celestial and XConn, really to address this scale-up opportunity, which we're going to talk about, because that's a key call option in front of us.
+If you just take the street revenue this year of $11+, we will have grown the company about 20% a year compounded for the second five years I was here.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+Actually, even if you go back to the investor day we did in 2021, when we closed Inphi, the whole company was at $4.3 billion run rate. We've actually hit the high end or more than our investor day targets, which normally are three-year targets, right. Then you sort of reset it. Five years we've been growing the company. That's all been great. I am so fired up on the next five years, right. The last couple of years, we've been growing at a faster rate. First 10 years was like 18% compounded. Obviously, shareholder returns were way above that. Data center went from sub 10% of revenue to 75%. Next five years, data center's going to continue to grow in importance for us in terms of the contribution.
+Total top line, if you just look at the last couple of years, data center last year grew 46%. It'll be like 50% this year, and then we signaled our current indication for next year would be like 55%. It's accelerating, but that's all on the back of 10 years of blood, sweat, and tears, man.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+This isn't some overnight success, some new PowerPoint presentation, some new concept. You had to start on this a long time ago, okay, to be ready. Why we're well-positioned, I think, to keep this kind of a growth rate up and the position we have is that, and here's where we're unique. As you mentioned, there's a lot of big scale AI players, and I said this in my COMPUTEX presentation. There's three big compute ones, and these are all trillion dollar or close to, and then $5 trillion for NVIDIA, compute heavy companies with some networking, but they're compute dominated. Compute heavy. Then you have the memory companies. Those are obviously big companies and solid. They're all memory. If you look at us, we're like whatever. Majority is connectivity, not compute.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+That's one of the reasons why NVIDIA invested, by the way. We can come to that investment if you want to talk about it. We're very complementary to the rest of the ecosystem. We're not battling it out in some compute war. It's a part of our business.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+Even the people that use us for our custom are typically using us because of our connectivity IP and our IO IP, and the fact that we can stitch it all together with the rest of our solution. When you look at the, let's call it the 70%, whatever your number you want to pick is, of connectivity, which includes a whole bunch of product categories. That has a ton of legs to it because that's, and I'll pause in just one second, but that's today, the growth has been driven just by the scale-out deployments.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+Which has really been in our traditional DSP business. Also even in scale out, the switching's really doing well now. You got scale up all in front of us. That market's probably as large an opportunity for us to scale out in terms of connectivity. Then you have scale across, which prior to that was just really DCI, that's moving now AI workloads across.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+That's where I think a bigger opportunity exists, and we don't know how big that can be yet, but certainly we're well-positioned, again, because of the last decade of investment. Which at COMPUTEX, I said was basically $22.5 billion of acquisitions, $18 billion of organic investment, and $4.5 billion of divestitures. $36 billion of net spend has gone into this to get to where we've gotten to today.
+## Vivek Arya | Analyst, Bank of America
+Matt, you are just back from COMPUTEX. I was hoping if you could give us an update on what were sort of the key points. You made Teralynx T100 product announcement as well. I think bigger picture, I wanted to get your take that everyone seems very positive right now, and you have kind of gone through a number of these cyclical ups and downs. How do you sense kind of the durability of this cycle? What are your customer discussions indicating?
+## Matt Murphy | CEO, Marvell Technology
+Mm-hmm. You're saying cyclical from a take a long-term view of the semi industry.
+## Vivek Arya | Analyst, Bank of America
+That's exactly-
+## Matt Murphy | CEO, Marvell Technology
+You're not saying Marvell specific?
+## Vivek Arya | Analyst, Bank of America
+Exactly right.
+## Matt Murphy | CEO, Marvell Technology
+Yeah. I'm in my 32nd year in this industry, kind of on the front line from day one as a product manager all the way to general manager and VP and whatever, all the different things I did. I've gotten to see all of the major cycles we all remember, and I also remember the ones that everybody's forgotten, by the way. There's been a lot of them. You remember the Greece issue? Remember that one? There was like a Greece financial issue, and that had a slowdown in Europe. 1998 contagion and anyway, there's all kinds of different ones. This one's really interesting. I think one is we're just in a much more thematic cycle here because it's a true global infrastructure build on AI as kind of on the scale of an industrial revolution type of event.
+I think, one is you can see in our own numbers, just us as a proxy, one company, 46% data center growth, 50%, 55% as we stand here today is the outlook. That cycle to me, at least at the moment, looks very healthy, and the reason is this is with a lot of natural constraints in the system. There's still not enough logic wafers to go around, and that's going to take the leading companies several years to put that capacity in place. I think the memory shortages are understood, and there's a path there, but that's going to take time. There's just the global power grid, there's permitting.
+There's all kinds of, I think, constraints, Vivek, in the system that I think in the past we had these kind of unfettered access to supply, which created these issues like PCs overcycling or smartphones overcycling. COVID, by the way, was a supply-related shock. We're in like a demand shock now. We don't see it slowing down, and if anything, we're being accused of being a little conservative for next year because in our model, to get to our $16.5 billion target, we do assume CapEx will moderate. We don't think it's going to collapse, but we have kind of a 30% plug in there for next year. We're not the experts. You guys have better data than us. To the extent CapEx bias is higher than that, we would probably do better. I think there's a chance that it does.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Matt Murphy | CEO, Marvell Technology
+Right now, I think bookings have been incredibly strong, backlog is laid in. I would just say on the design side, by the way, this point about really having the core IP developed and production worthiness of what we do. Just take silicon photonics, for example. We've been in production for 10 years on silicon photonics.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+We have 15 billion hours of data in the field. We've gone to high volume manufacturing on four generations. Customers, when they look at us, and that's just one example, they're looking at us saying, "If I really want to get there over the next couple of years with a partner who has all the pieces and it's proven," we're in very rare territory here. There's a lot of companies and concepts out there. There's startups, there's PowerPoints, there's proof of concepts, there's a demo at a conference. It's not the same thing as shipping in extremely high volume manufacturing with the right capacity, cost structure, yield, et cetera.
+I would say if anything, not only is the setup great, I'd say in the last six months in a very pronounced way, I think our customers are realizing if you don't have all the end-to-end and all the pieces, and you're relying on a cobbled together third-party situation of IP and back-end design houses and startup companies, and I'm just going to cobble it all together, and I think I'm going to make it work. I think we're seeing that recognition that it might, or I can have Marvell underwrite my success because it's going to work, and I can trust these guys. That's kind of all in front of us. That would be incremental things that we would go off and do. I'd say the positioning of the company is extremely strong at the moment.
+## Ashish Saran | SVP of Investor Relations, Marvell Technology
+Yeah, I think what's equally exciting is that we get a ton of revenue diversity as we get there. It's not about just more of the same product line. That absolutely is going to happen, we, for example, called out three new billion-dollar businesses all happening in the next year alone. By the way, this is before scale-up becomes really big. I think that's the other nice part. It's not a single socket, it's not a single product line, it's not a single technology, it's not a single customer. I think that's very exciting for us is that the revenue diversity in this company is going to be very significantly grown in the next few years.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Matt Murphy | CEO, Marvell Technology
+Right. The nature of the beast. One of the arguments you would hear is, "Well, gosh, you guys are so concentrated." Let's take a step back. First of all, the whole market for semiconductors today is AI. If you just look at the absolute spend now, what's happening relative to auto, the traditional ones we used to have. Oh, you have auto, and you have PCs, and you have industrial, you have smartphones. Just look at the numbers, and where it's going. AI is the market for semiconductors. Let's just accept that for a minute. Then, which again, has its own risks, I got it, but that is the market. Then you say, well, within that, how diversified are you? We're not a one-trick pony. We don't have one chip, and it sells to one customer, and that's a bunch of our revenue. That's exactly what Ashish said.
+We had some of this issue on the ramp up on custom. That's why there was a lot of excitement over the last couple of years. Hey, your custom business is going to be a big portion of the total, and we had to kind of go through that cycle. I look out into 2027 and 2028, right? That's why we called out these things. Broadband analog SiGe components. SiGe, high performance analog, billion-dollar business. Right. Cloud switching, billion-dollar business. DCI with very little scale across, billion-dollar business.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+Whole company was $4 billion a few years ago. We're layering in, and then within those, they have multiple customers to them. Then even with our custom area, again, by the time you get to 2028, you're going to have 15, 18 products in production. Some are XPU, some are XPU attach. None of them is going to break the bank here.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+I think that's really powerful for investors to see that among all the semi companies selling into AI, we actually have, I think, a pretty favorable diversification plan going forward. I'm not saying the others are bad because they don't. They might be more concentrated because their customers have gone nuts. That's great. I'm just saying that's where we end up, and that's why we have so many shots on goal. We think that's a healthy thing to have, and we're able to do it in our OPEX envelope and fund all these things. We think there's strategic value for us going back to like, well, how is Marvell different? We are generally agnostic, so we can work with pretty much everybody, including people that would be considered a rival. Like take NVIDIA. Yeah, maybe we do custom silicon, they make GPUs or something.
+Even in their announcement, they're actually enabling us on custom with a lot of their IP to be more competitive because they realize it's going to be a fungible type of a solution out there. If you want to just get to how we're different, connectivity heavy, IO heavy, lot less customer or socket concentration, and a diversity of technologies. Which in the end, and we can get to scale-up if you want to, you pull it all together, it's very powerful to truly have the end-to-end.
+## Vivek Arya | Analyst, Bank of America
+Right
+## Matt Murphy | CEO, Marvell Technology
+Solution you can provide.
+## Vivek Arya | Analyst, Bank of America
+Got it. Maybe a quick word on NVIDIA and the engagement, Matt, that you have, whether it is across CPO or NVLink Fusion or just in your core optics business. I also wanted to take the opportunity to ask, were you as surprised as all of us when you saw Jensen pop up on stage with you?
+## Matt Murphy | CEO, Marvell Technology
+Let's cover the partnership first. That's off to the races, and it's very strategic in nature. Certainly, it's built on, by the way, years of the companies working together. This wasn't some new concept. Jensen and I fired up the teams to work together. I think this is even pre-COVID, probably, if you go all the way back, on just how do we sync up, how do we work together across a variety of their platforms, by the way. This has been ongoing for some time in a collaborative way. We formalized it, which was great, and then we sort of wrote down some of the things we can do together. Most of it is very strategic in nature, right? It's about enabling us in custom silicon. It's enabling NVSwitch and NVLink Fusion to be more broadly adopted.
+What a home run on Celestial joining us and joining forces with our own optics team, right? We had a team that did the 10 years of history of silicon photonics. We got Celestial in. That's very attractive because now that whole combined team can work with NVIDIA. We can drive standards that are interoperable. We can make all of our chips work together and all of our silicon photonics work together. Huge customer benefit. We're even doing stuff on 6G and AI RAN. It's quite encompassing. It's very strategic. It's really based on long-term R&D alignment. That's all positive. Yeah, he was nice enough to support us. I did my first COMPUTEX presentation ever. Hadn't done that before. We got invited. I thought it was a great opportunity. I was honored to be able to have Marvell be on that stage.
+I said yes quite a while ago. Then we asked him to join us on stage, which he did, and also Tien Wu from ASE, who's the largest backend company in the world. I think he knows our story well. There wasn't a lot of prep. With his team a little bit, but he came on and he did a great job, actually. He rattled off my whole presentation in about three minutes, first of all. He was not scripted. That was not a rehearsed thing. He just kind of knows what we're doing. Then he sort of dropped this very exciting comment about Marvell is the next trillion-dollar company, which was quite a surprise. You can watch the video. That was definitely not scripted.
+## Vivek Arya | Analyst, Bank of America
+What was your reaction when you watched that?
+## Matt Murphy | CEO, Marvell Technology
+You watch the video, I think I said, "Oh, we have a little work to do still." No, he's a great guy, and his team has been just outstanding to work with.
+## Vivek Arya | Analyst, Bank of America
+Your reaction was, makes sense, or no way?
+## Matt Murphy | CEO, Marvell Technology
+It's a long-term journey.
+## Vivek Arya | Analyst, Bank of America
+Long-term.
+## Matt Murphy | CEO, Marvell Technology
+I would say, though, if you go back. Again, 10 years ago, Marvell's market cap was $5 billion, and its enterprise value was $3.5 billion. You could've bought the whole thing for $3.5 billion. It's a real number. Go look it up. $1.5 billion of cash, $5 billion market cap. That was the starting point. What could you imagine? I didn't imagine it could go from $3.5 billion of EV to $270 billion today in 10 years. That's like 80 times. I don't know. What can happen in this market? It's unbelievable, actually. It's unbelievable what you can accomplish, actually, in an industry that's so unique and so vibrant like this. If you have the right strategy, you align yourself with the right group of people.
+For us, if you've followed me or invested with me for a long time, we're very consistent, we're very methodical. We grind it out year in, year out, quarter after quarter. My whole guiding principle from day one, I told the board this in my first board meeting on June 11th, 2016, I said, "My job at this company, number one job, dwarfs everything else, is capital allocation." A few of them said, "What's that?" I said, "My job is to steer the R&D efforts of this company and make the best possible bets with the best possible returns, and have a vision for where this company's going." That's pretty soon after I became CEO, I outlined this thing.
+I said, "Look, I think the whole market cap of the world is going to move to these data platform companies. That's where the semi-TAM will follow." We didn't have anything. We had $200 million of revenue in 2016 in data center. It was actually $190 million. 1-9-0. It's like $9 billion this year or something. We didn't have anything. I didn't have anything to work with. That was the M&A and the divestitures and all those things. My point is, what's possible? I don't know. I don't know what's possible with Marvell. I do know that if the market continues, and the AI infrastructure build continues, where we're sitting now, we couldn't be in a better spot relative to just how we're performing on the engineering side with our customers.
+It used to take us five, six, seven spins to get a chip out. I'm not kidding you. I had some chips. I had one product line took 14 spins to get a chip to production. 90% of our chips now that are 5 nanometer and below. Actually, no, I think it's almost 100 now. A0, first time success. As long as we keep performing.
+## Vivek Arya | Analyst, Bank of America
+Right
+## Matt Murphy | CEO, Marvell Technology
+I think that the product set we have for scale-out, scale-across, scale-up, custom silicon, switching, storage, all the key pillars we outlined 10 years ago, moving data, processing data, storing data, have those key IPs, bring it all together. That's still the recipe that we're following. It's the same playbook from 10 years ago.
+## Vivek Arya | Analyst, Bank of America
+Makes sense.
+## Matt Murphy | CEO, Marvell Technology
+Yeah.
+## Vivek Arya | Analyst, Bank of America
+You mentioned the transition. Oh, before I get to scale-out, I wanted to ask you about any constraints that you're seeing in the supply chain, right? Everyone seems to be tight. Marvell has gotten very big.
+## Matt Murphy | CEO, Marvell Technology
+Yeah.
+## Vivek Arya | Analyst, Bank of America
+There are still much larger players also.
+## Matt Murphy | CEO, Marvell Technology
+Yeah.
+## Vivek Arya | Analyst, Bank of America
+How are you ensuring, Matt, that you get your fair share of allocation from, whether it's foundry or substrate or other parts?
+## Matt Murphy | CEO, Marvell Technology
+Yeah. Well, we definitely retooled the machine here about five years ago when we hit the pandemic, and we were woefully prepared for that. I think the reason is, I think Marvell had operated very tactically relative to supply chain and reacted.
+They'd have three, four sources for everything and get cute, and it was always like, how do you save a penny? I think that was born out of the business model back then. It's not like a criticism, but that's how it was, and I think for consumer, that made sense. We started getting into all of these data center projects, and it was like, "This is not going to work." We retooled the supply chain. Chris Koopmans took over as our Chief Operating Officer. We got very strategic relative to these engagements that we formed in partnerships, including a very robust long-term forecasting process that we run, and it's reviewed by me and the board once a year. I push it out to my suppliers-
+## Vivek Arya | Analyst, Bank of America
+Right
+## Matt Murphy | CEO, Marvell Technology
+I show it to them. I got to tell you, my supply chain for 2026, even though, again, there's a lot of concerns over the last few years of what's happening with Marvell. Guess what. I told them what I needed. I forecasted $10 billion of growth to my suppliers back when I was $3 billion, $4 billion in revenue. I did. I'm getting what I told them, to be honest. If you look at where we were last September, as we started to reorient investors, back then we were saying $9.4 billion for this year and $11 billion for next year. Then we went to $13 billion for next year, then we went to $15 billion for next year, and now we're at $16.5 billion. We've been getting the performance out of our suppliers.
+It's very tight out there, like I mentioned, on not just logic wafers, but across the board. It's a battle. It's been a battle since the pandemic. This isn't like some new thing we're not used to. We're pushing the supply chain hard. We form these very deep relationships with our suppliers, and we do more with fewer.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+That's why Tien Wu, he's never been on stage at COMPUTEX before. He runs the biggest back-end company in the world. Super strategic, right? He bet on me and Marvell, personally. Like, "I think you guys are going to crush it." Look, they performed incredibly well for us. We'll keep working on it, but demand's not the problem right now. Supply needs to continue to be worked and planned for, but I think we keep planning our business well. We can keep growing quite aggressively. We have enough supply today to do everything we've told you guys.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Matt Murphy | CEO, Marvell Technology
+That's all in place. The question is, if CapEx bias is higher or some of these projects really take off, can we do more? That's what I'm trying to prepare my suppliers for.
+## Vivek Arya | Analyst, Bank of America
+Got it. I think on the networking and the optics side, there is broad recognition that Marvell has led important parts of that market, and it's a diversified business, right to your point. I think it's compute that I wanted to dig into a little bit, that over the last two or three years, at least from the outside, it looked like the business went through a lot of volatility, right? Expectations got very high, right? Even though from the inside it might have been more predictable and more according to a plan. If you look over the next two to five years, Matt, do you think that you're now at a place where you have visibility on not just the size of the opportunity, but also your share in those opportunities? That is what has created, I think, anger.
+## Matt Murphy | CEO, Marvell Technology
+Right
+## Vivek Arya | Analyst, Bank of America
+In the last two years or so.
+## Matt Murphy | CEO, Marvell Technology
+Yeah. There was definitely some lessons learned. Just to provide what really happened and set the record a little bit. We basically had effectively a $0 custom silicon business in data center when we bought Avera, which was out of IBM, GlobalFoundries, IBM. We did a good job winning designs there. Along the way, we actually kept investors up to speed. At one point, we had said for calendar 2024.
+## Vivek Arya | Analyst, Bank of America
+400
+## Matt Murphy | CEO, Marvell Technology
+$400 million in revenue.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+We did that, we exceeded it. Then we actually told everybody in April of 2024 for calendar 2025 that custom would be about a billion-dollar business. I never updated that number. I just kept saying, "It'll do better." What I learned from that was that, yeah, I think people's expectations ran away from what I had told everybody, which is I only told people a billion dollars.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+We beat it by 50%, by the way. I never said it was going to be $3 billion or $4 billion or $8 billion or whatever people put. People put stuff in their model later and they're like, "Well, I thought it was going to be this." I said, "Well, I didn't tell you that." Guys, if you've worked with me for 10 years, I give you a sense of where it's going to go, and I'm generally pretty close. We usually do better, actually. That's on us, too. I'm not blaming people. I'm saying that's what happened. The reset that I really did in September. I'm going to get to your question, but I just want to make sure people understand.
+What should've been a huge success story is you guys took this spin out of IBM that was stuck on 14 nanometer at Global, and we moved them to TSMC, 5 nanometer. SerDes worked the first time, won a bunch of sockets, and got to a billion and a half dollars in revenue in a couple of years. That was an unbelievable success story.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+It was sort of like, "Oh, you missed, and you screwed up." That was all shame on everybody. In September 2024, I just said, "Look." September of last year, I said, "Look, I'm just going to be very prescriptive now. I don't want anybody getting confused. I don't want this to happen again. I don't want my investors to go through this stress anymore." I've been very clear, "Hey, that thing's going to grow 20%." Why is it going to grow 20%? Can it be more? Shouldn't it be double? Nope, it's 20%. Then the last quarter, I said, "Well, it'll be more than 20%, but just a little bit more. Don't go crazy." All the way, the reason I'm doing that too is I did set at the same time, you say, "Well, you're so conservative, Matt.
+You're always so conservative. Well, guess what? April of 2024, we did our long-term model for the first time in custom silicon. Basically, we said it's a $40 billion market in 2028, and we think we can get 20% of it. That's $8 billion hanging out there. My whole company was $1.1 billion a quarter when I said that. Say I'm conservative or not, hey, we put a model out there. Then we said, "You know, CapEx is probably higher last year, so it's probably going to be more." Call it $8 billion-$10 billion. We're tracking to that. We're tracking to that. Business is performing better than I said it would last year for this year. Next year now, last time I had said custom was going to double year-over-year. It's going to more than double. Again, don't go crazy.
+Don't go crazy, but more than double. Part of the reason I'm doing this too, Vivek, is I'm trying to guide everybody to the fact that we still continue to have conviction, as we've had for the last two years, in our model that gets us out into 2028. Now I think people are starting to realize, "Oh my gosh, I think these guys might hit these numbers." We still got to go hit the numbers. We're not there. It's really about just trying to, especially on that piece of the business, just being much more prescriptive so that we don't have a situation where expectations get too high. I'm really mindful of that.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Matt Murphy | CEO, Marvell Technology
+The nature of those, by the way, they're very specific programs, and they're so confidential. I can't talk about them. You guys want me to talk? I can't talk about them. The nice thing is it's very diverse now. There's a bunch of XPU sockets, a whole bunch of XPU attached sockets. By the time we get into 2028, there's enough shots on goal that even if one does better or one doesn't do better, we're going to be okay net-net. At the same time, we're extremely well-positioned there. We had a great competitive platform at 5 nanometer, 3 nanometer, 2 nanometer. We'll be there when we get to the Angstrom era. Every generation, by the way, on XPU and XPU attached, die costs are going up because there's more density. Core counts are going up. IO is getting more complex. ASPs are going up.
+Everything's going up and volume is going up. At some point, I know these sound like big numbers, a double or you're going to triple it or something, but we're still relatively low share relative to the whole spend, too.
+## Vivek Arya | Analyst, Bank of America
+That's good.
+## Matt Murphy | CEO, Marvell Technology
+One final thing. I had one investor say, "I can't believe I don't know, is it $4 billion next year? It's so small, so tiny. Why do you even care?"I'm thinking, "Sir, this company was $2 billion in revenue." Like $4 is a nice number. We're good. Just going to keep making progress against that and keep investing in the technology, do a good job for our customers, keep our mouths shut, and just try to really do a good job delivering for you guys so you have confidence in that base. Let's let it ride on the connectivity, right? That's where I think there's a lot, because that's a whole market.
+## Vivek Arya | Analyst, Bank of America
+Nice.
+## Matt Murphy | CEO, Marvell Technology
+That's a market we can create, we can control. That's our engineers. We can make the TAM happen there. The other one, it's our customer that's really got the control point.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+We're their Oz behind the curtain to make sure that they're successful and help them out and do their business model and let them get all the credit. It's their chip.
+## Vivek Arya | Analyst, Bank of America
+Yeah. Final question, Matt.
+## Matt Murphy | CEO, Marvell Technology
+Yeah.
+## Vivek Arya | Analyst, Bank of America
+Scale-out to scale-up, how does your scope of opportunity change? When do you see CPO becoming a real product with the depth with which you describe numbers in compute? At what point do you think you'll be in a place to describe the journey of CPO and do you see customer diversification?
+## Matt Murphy | CEO, Marvell Technology
+Yeah
+## Vivek Arya | Analyst, Bank of America
+Lumping all these questions.
+## Matt Murphy | CEO, Marvell Technology
+Sure, yeah, I'll do the final one. Scale-up is all in front of us. Like I said at the beginning, the scale-out and the build-out of the AI infrastructure has been led by scale-out, and that's what's in our numbers today. That's what's driving interconnect growing 70+ this year, right? As an example. It's ripping. It's ripping last year. This year it'll continue to do well. Next year, that's scale-out driven. Scale-up, couple things on that. First, from a switching standpoint, I literally, on any number I've ever given anybody, there is $0 today ascribed to anything in switching. By the way, it's not like I'm not investing. I've got UALink projects, ESON projects, PCIe with XConn, and then an opportunity with NVIDIA, right?
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+With them. That's going to be a big investment focus for us. That's all in front of us. More to come there. That's all new incremental TAM that's going to get created, right? That's coming. From an optics standpoint, I think people got it. We called out actually for next year, $300 million in revenue from scale-up optics. Scale-up optics. That's CPO, that's NPO, that's our light engines. It's not just Celestial. Celestial was a company we acquired in December, which had a lead customer. That's on track, so let's say half of it. It's actually starting next year. That's beyond early stages. It's zero this year.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+You're going from zero to 300 with who knows where it could go. I think we're at the very early stages on that. The only number I've given you is $300 million.
+## Ashish Saran | SVP of Investor Relations, Marvell Technology
+Maybe just one other thing to consider on the switch side in particular is unlike scale-out switching where we enter the market, but at that point, somebody's already well-established and we've done well, right? We've taken it from 0 to 100, 300, 600 this year, $1 billion plus. Scale-up switching is completely greenfield. It's fully available. We could be leading the market from day one. That's a massive opportunity.
+## Matt Murphy | CEO, Marvell Technology
+Yeah.
+That's a very big difference, something to keep in mind. Because we also do XPUs and we also do the interconnect and we do the switch, that's a massive advantage.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Ashish Saran | SVP of Investor Relations, Marvell Technology
+Scale-up is.
+## Matt Murphy | CEO, Marvell Technology
+That is the discussion. I'll just end on this.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+The discussion right now that we're deep into across the board is pick your scale-up switch. We have it. We're not making some holy war bet on this thing, by the way. I'm investing in all of it. I have the R&D capacity to do this now. I don't have to take that bet, actually.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+I got them all. I can absolutely prove and show how we can attach and integrate our optics there, whether that's CPO or an NPO-based solution. I can also do the same thing on the XPU or GPU, and I can provide that as a chiplet. With our expertise, whether we make the XPU ourselves or we don't, we know how to integrate with that.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+We know how to make the whole link work. We already do that. We know how to do this. That whole discussion, always in semiconductors, you talk about the platform and the solution, and then a lot of times people say they have the platform, and then you just pick one piece. This is one, guys, I'm telling you, where I think certainly in this first wave, to make all this hang together, it's really going to be powerful to have proven manufacturing and reliability and technology for the scale-up optics and have flexibility on the architecture, whether it's CPO or some version of NPO, and all the subcomponents around it.
+Have the platform teams to make it all work together, have the switching IP and technology, and be able to deliver reticle-sized chips with hundreds and hundreds of IO at the bleeding edge, and be able to control that IO so you can pack it all in and optimize it, and then have the ability to do the attach on the XPU side or build the entire XPU and integrate the chip directly as CPO.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Matt Murphy | CEO, Marvell Technology
+That's not in any revenue forecast today. That thing. The optics alone are worth almost basically just assume whatever the switch ASP is, that's the content opportunity.
+## Vivek Arya | Analyst, Bank of America
+On the optics side of it.
+## Matt Murphy | CEO, Marvell Technology
+It's potentially very large, and we have not sized it other than saying, hey, the initial scale-up optics only for next year, which is year one, is gone from $150 million when we bought Celestial to $300 million in six months.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Matt Murphy | CEO, Marvell Technology
+Okay.
+## Vivek Arya | Analyst, Bank of America
+We are six minutes over.
+## Matt Murphy | CEO, Marvell Technology
+Yeah, I know.
+## Vivek Arya | Analyst, Bank of America
+Thank you so much.
+## Matt Murphy | CEO, Marvell Technology
+I'm running on fumes from Taiwan. I'm done. I'm out. All right. Thanks, everybody.
+## Vivek Arya | Analyst, Bank of America
+Really appreciate it.
+Data Source: Quartr Last updated: Jun 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

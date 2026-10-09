@@ -1,0 +1,7 @@
+Company: Broadcom
+ROIC Symbol: AVGO
+ROIC Name: Broadcom Inc.
+Year: 2007
+Quarter: 1
+Date: 2007-04-26 16:45:00
+Executives

@@ -1,0 +1,248 @@
+TITLE: Bank of America 2026 Global Technology Conference
+DATE: 2026-06-03
+## Vivek Arya | Analyst, Bank of America
+Good noon. Welcome back to this afternoon session at the BofA Global Tech Conference. Really happy to be here with the team from ON Semiconductor. We have Hassane El-Khoury, CEO, and Thad Trent, the Chief Financial Officer. As usual, I'll go through my questions, but please feel free to raise your hand if you would like to bring something up. Thank you so much, Hassane and Thad, for being at our conference. Really appreciate your time. Maybe, Hassane, if we could start at the top. I think, when you reported the last quarter, you described Q1 as an inflection point. If you could give us a little more color on what led you to describe the quarter that way, then more importantly, where are we in this cyclical recovery cycle for ON across your biggest end markets?
+## Hassane El-Khoury | CEO, onsemi
+Sure. At a high level, a lot of people, even going through last year, they kept pressuring of, well, when are you going to call the bottom or, is it the bottom or, when is the recovery, and so on. I've always said, I'll call it when we see it.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+When we saw it was in the first quarter, both Thad and I talked about the signals that we're looking at, and it's not just one signal. You can think about it as a whole slew because they're all interlocked. From an operational perspective, we started looking at, okay, how backlog is layering in? How far out in time is backlog layering in? Meaning the visibility we are getting into a demand signal that is out in time when, maybe 180 days ago, or two or three quarters ago, we were talking about visibility being a quarter.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+As you start getting the visibility, then lead times will start extending, which is again, a sign that there's more and more demand layering in on top of that. We look at, for example, on the industrial side, PMI has been hovering in 49 to 50. PMIs start clicking above.
+## Vivek Arya | Analyst, Bank of America
+Right
+## Hassane El-Khoury | CEO, onsemi
+50. These are all signs, not just operational of our business, which are the KPIs I talk about, but from a PMI perspective, it's more of an industry or a market inflection. All of these put together, you start seeing a benefit. Now, within the end markets, however, it's a slightly different story depending on the end market. In automotive overall, we talked about very strong China business because we are the leaders in electric vehicle with our power products over there. That was very clear. With energy challenges in the Middle East, you can see the headline of all the export market is very strong.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+We're with all the exporters, we are winning with the winners. That was very clear of why the business is doing well. Industrial, again, we have the AI halo effect, a lot of our energy storage system, a lot of the microgrid, that infrastructure that is supporting the data center doing well, and of course, the AI data center business itself is doing well. From a general market, automotive, we've been under-shipping demand. Automotive just going from under-shipping to shipping to demand looks like an up.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+It's not a recovery yet. Outside of automotive, I would say it's overall, and that's a healthy environment to be in.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Hassane El-Khoury | CEO, onsemi
+Looking forward, you have the replenishment, you still have the tailwinds that are yet to come, but where we are today, that's where the bottom is there, but we're not off to the races yet, which is fine because there's still headroom.
+## Vivek Arya | Analyst, Bank of America
+Got it. How's the bookings momentum, to the best extent that you can describe it? I ask that question in the context of the last two or three years, where the analog industry has usually had a very strong first half. For all kinds of geopolitical, but other tariff or other reasons, in hindsight, there was a level of pull-in, and then second half, there was muted growth. I think this time around, you actually described the second half to actually outgrow the first half. What is different about this year versus what we saw in the last few years?
+## Hassane El-Khoury | CEO, onsemi
+You mentioned the difference from the analog names. I just want to make sure. Last year, we said the second half is going to be better than the first half. We have always called and managed our business to the extent we see the signals rather than the signals we would love to see. That has been very consistent, and we're under that same umbrella or guiding principle this year as well. Now what we see and why we again call the second half better than the first half is the program ramps that we have started in the first quarter are going to continue throughout the year. To give you an example, our AI data center business did 2x better than what we expected walking into the quarter. There's strength there that will continue.
+That has nothing to do with potential pull-ins or not, because there's none of that.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+These are healthy demand signals that we can correlate to the end units being built. I mentioned about the EV. I see the end units being built. Those are all tangible signals that we see that will continue to grow. Designs that are ramping now, when they start ramping in a quarter, you're going to get full quarters.
+## Vivek Arya | Analyst, Bank of America
+Right
+## Hassane El-Khoury | CEO, onsemi
+Moving forward. Those are ramps that tangibly we are ramping. Whether they ramped in March and now you have full quarters, or they're ramping in the second quarter, we'll get a full second half. Those are tangible signals of design wins we've done, design wins we started ramping. On top of that, we have the recovery that we talked about where we believe the renewable energy side of it, the microgrid and the ESS, will resume growth in the second half. That, again, is based on the outlook that we have in the backlog. You layer all of these on top of each other, you would get a better half mathematically, a better second half than the first half based on what we already saw of a ramp in the first quarter.
+## Thad Trent | CFO, onsemi
+Yeah, if you take all of that and you put some data to it, if we look out to Q3 and Q4 today, we're better booked out in those quarters than we were last year or the previous year. While we keep looking to make sure we're not going to see a head fake, everything Hassane described, customers are actually layering in the backlog further out than they have in the past. That gives us that confidence that the market's recovered. The auto hasn't gone through replenished, but things are improving compared to where they have been the last couple of years.
+## Hassane El-Khoury | CEO, onsemi
+That's right.
+## Vivek Arya | Analyst, Bank of America
+Got it. Because you have a better mix of secular and the cyclical auto recovery. Is that a reasonable way to.
+## Hassane El-Khoury | CEO, onsemi
+Well, I wouldn't say we have seen the cyclical recovery. We talked about is we have shipped to end demand now. From an under shipping to burn inventory to end demand. We haven't seen the automotive recovery. What we're seeing in auto is two things. One is the click up to natural demand and the content. Every EV that we ramp is more content than a non-EV. The content for us has outgrown SAAR by high single digit consistently. We talked about Treo on the call. We talked about 10BASE-T1S Ethernet, which is the new backbone of automotive connectivity within the vehicle.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+All those are content we didn't have two years ago. Although we've delivered the content growth on top of SAAR over the last five years, looking forward, our new products and the investments we've made in the downturn are generating more content for us in automotive moving forward that we haven't seen yet. That's the secular and cyclical that were combined are where we outgrow the market.
+## Vivek Arya | Analyst, Bank of America
+Got it. Now, we'll talk about autos and then get to the data center. I think whenever people hear about ON Semiconductor's automotive business, investors are immediately reminded of silicon carbide. That had a very strong cycle, and then in hindsight, there was overinvestment in the space. Just this morning, I saw some headlines that there's a number of substrate suppliers in China that are struggling with some excess capacity. Hassane, help us understand what silicon carbide means to ON, which parts of that supply chain are commoditized and there's the potential for orders, versus what is your more durable and differentiable moat in that?
+## Hassane El-Khoury | CEO, onsemi
+Sure. We started the silicon carbide journey, I would say, five years ago. We've been very consistent about one thing, is nobody is going to win because the word substrate. Nobody talks about silicon substrates. They all talk about what product you put on the silicon. Why? Because everybody's got the same silicon. There's one way to do silicon. Silicon carbide is the same thing. Yes, you can get wafers in China.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+That's not new. I'm glad that there's enough supply, so we get a favorable pricing environment for it. That's all fine. Now, we don't sell wafers in the market. We also make our own wafers internally for a supply assurance. It's not to differentiate based on the technology of the substrate, it is to differentiate on the supply assurance for our customers and supply resilience. We have a hybrid model, but where China competes and people talk about, oh, there's so much capacity in China, is the substrate. The lowest common denominator of silicon carbide, where there is zero differentiation. What you put on it is the device. We have consistently had the best devices, generation after generation, in silicon carbide. That's what we win due to. Where are we winning? In North America, we are the largest share gainer in North America. That's a fact.
+China, I report on the China Auto Show every year. We're about 50% last year market share. We're over 50 this year. With the exporters, we're much higher percent. We made the announcement with Geely. We made the announcement with NIO. We have engagements, of course, we've made other announcements prior to that with every single of the top OEM. These are all the OEMs that are winning the export. You go to Southeast Asia, all China EV. Australia, all China EV. The Arab Peninsula, all Chinese EVs. Europe, Chinese EVs.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+We're winning with the winners that are exporting. Why are we winning? That's the differentiation of the device. You mentioned China can get substrate. Yeah. Why are we winning in China? Because they can't make the devices that we make. That's the differentiation. That's why it's sustainable. We're two to three generations ahead. People say, well, can't they figure it out? Yes, if we stand still.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+We're not. That's where we put our R&D to work to create the next generation to win.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Hassane El-Khoury | CEO, onsemi
+One thing on the silicon carbide specifically, silicon carbide is no longer an automotive story.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+AI data center is moving to 800 V. Everything I said about our success in automotive is all 800 V. The AI data center just came into our competitive domain. We're winning in automotive because of technology at 800 V. That is exactly the same reason we are winning the transition to 800 V, because our products are the superior products. That's the beauty of having that breadth of portfolio of power conversion.
+## Vivek Arya | Analyst, Bank of America
+Got it. Since you stole my question on the data center, I'll ask it a little later. Just on the topic of autos, outside of silicon carbide and the powertrain, what else is On really good at where you see content growth coming back? I think everyone is nervous about automotive units because of all kinds of geopolitical, inflationary, and other pressures. At the same time, there seems to be a shortage of supply that can hit some of the trailing edge, and there's a lot of talk of pricing. Let's just first talk about outside of silicon carbide, what are the other areas in automotive where you're seeing the recovery, and then I had a question on pricing.
+## Hassane El-Khoury | CEO, onsemi
+Overall, we see, again, outside of the China EV, the strength and the export and so on. There's EV in North America, where we see strength due to share gain. Of course, any volume strength there is tailwind for us.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+We've been increasing that share, so that's favorable. That's on the power. 53% of our revenue is automotive.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+The rest of it is content. Let me give you a few examples of where the world is going. You've all heard about automotive going to a zonal architecture.
+Zonal architecture, what that creates is an opportunity for companies, and we're one of those leading companies, to create a differentiation in how do you get to the zone? Think about boxes distributed in the car. Instead of having a box for the headlight and box for the, you have a left front box, the zone. We do the communication to that zone, and we do the power distribution to that zone. The only thing that goes to that zone is power and communication, and we do both. When we talked about in the last call that we're ramping 10BASE-T1S, that's the Ethernet communication in automotive in the second half of this year, that's content we didn't have last year.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+That's new content. We're number one in ultrasonic sensing or in automotive. You fast-forward in robotics, ultrasonic sensing is obstacle detection. We're number one in the world today. We're number one in the world in inductive position sensing. Why is that important? Brake-by-wire, accelerate-by-wire, steer-by-wire. What has a ton of positions? Humanoids and robots. That even transitions to that. These are content we didn't have a few years ago. We're number one in these markets.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+That's what's going to drive the content growth in a flat SAAR.
+## Vivek Arya | Analyst, Bank of America
+Got it. One last thing, auto and silicon carbide was, I think there was a time when the industry was very tight and was able to ship at very, very high ASPs. I think the industry went through a period of readjustment towards more device-type sales rather than module inverter-type sales. Are we past that transition, now what we see is actually truly representative of industry growth?
+## Hassane El-Khoury | CEO, onsemi
+Yes. You're right. I've talked about this, so it wasn't a surprise for us that we had to go through this transition or rebalancing. That's primarily behind us. If I look at the underlying data, which I normalize to devices, like you said, we have continuously shipped more devices per year than the year before. When I talk about share gain, that's going to sustain a growth in the long term, although it wasn't visible in the top line because of the mix of ASPs. From a unit number of devices shipped, which is really the determinism for market share, that's been increasing every year. When I say we've been a share gainer, the data on a device is showing the share gain continuously moving forward. What I also want to say, however, it's not a one size fits all.
+It's not like the market is moving to devices. It went from 100% modules to a rebalancing of module devices. Also, we announced a program, the VW's SSP program, last year. That actually went the other way. Instead of shipping three modules for an inverter, we'll be shipping three modules and the power box. So a vertical integration the other way.
+## Vivek Arya | Analyst, Bank of America
+I see.
+## Hassane El-Khoury | CEO, onsemi
+That's what I mean by rebalancing. It's not like, oh my God, everything is going to device. We still differentiate on device. It's not a margin hit for us because we extract the same value on a device than it is on the module, but it's an ASP delta. We have some customers that are going the other way also, because they value the packaging and the cooling technologies we provide.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Hassane El-Khoury | CEO, onsemi
+We're able to differentiate at a system level.
+## Vivek Arya | Analyst, Bank of America
+Got it. Let's talk about the data center. I think well expected that as the power consumption of these accelerators goes up, that the move towards a wide bandgap becomes very important. Right now, I think you've described AI as in the mid-single digit or so of sales. It grew very nicely year-on-year. How do you see the path forward, Hassane? Do you already have specific design wins, or do you have the capability and now you have to go and win specific designs to have that multi-year visibility of growth?
+## Hassane El-Khoury | CEO, onsemi
+Both. Obviously the growth, and we talked about we're doubling the revenue in AI data center this year. Just for clarification, what we define as the AI data center is within the walls of the data center, because we do have a large opportunity also outside the data center with the microgrid and the energy storage. For this conversation.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+We're talking about within the walls. We talked about doubling. That's devices and wins we already have. That started to ramp and will continue to ramp this year, but we also have the capability to sustain the design and momentum and so on moving forward. You heard me talk about silicon carbide JFET. That is, as you start getting to more and more power, that's where that starts to play a role. You heard me talk about vertical GaN. As we get more into 800 V and more density, power density, vertical GaN is the solution of choice, and so on. Those are all capabilities we've developed, capabilities we've had-
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+That will continue to proliferate. The opportunity for us moving forward, on top of what we have today, is the content when we start looking at 800 V racks, is an outsized dollar content than today for the high voltage.
+## Vivek Arya | Analyst, Bank of America
+Got it.
+## Hassane El-Khoury | CEO, onsemi
+That, to me, from a dollar, to put it in perspective, we talk about today, we talk about the onsemi opportunity in a rack about $15,000, $15,000. About 30% of it is high voltage, 70% is low voltage. Think about SPS and so on. Just for easy math, $5,000.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+Of high voltage. 800 V rack, think about 600 kW to 1 MW. There's $115,000 of content for onsemi. Half of it is going to be high voltage.
+## Vivek Arya | Analyst, Bank of America
+Right. It's a big jump.
+## Hassane El-Khoury | CEO, onsemi
+Half of it, $55,000. Now you're going $5,000 to $55,000. That jump is an opportunity forward looking of capabilities we have today. Back to my comment on 800 V, we have it. It's not like we have to go make it and so on. We're designing it in, we're deploying it, and we're working with customers, and that delta is what we're capturing on top of what we have today, just on the high voltage. That's the opportunity ahead.
+## Vivek Arya | Analyst, Bank of America
+Got it. How do you get visibility and confidence about a certain market share, right? From the outside, we look at many analog vendors who have this capability, right? We hear of products that all sound similar, and there's only a handful of two or three vendors who can really lead this transition. How do you get the comfort, Hassane, that.
+## Hassane El-Khoury | CEO, onsemi
+Well.
+## Vivek Arya | Analyst, Bank of America
+You will have your fair share?
+## Hassane El-Khoury | CEO, onsemi
+I can give you one vendor. I don't know who the other two are that you're referring to. Two or three? I can give you one. Look, without getting into a lot of technical. When you're talking about power conversion, you are solving a multi-physics problem. Anybody who's in the power domain knows electrical is one.
+## Vivek Arya | Analyst, Bank of America
+Right
+## Hassane El-Khoury | CEO, onsemi
+Thermal is one, magnetic is the other. Three big components. High voltage, high conversion, high conversion gap. You're going from 800 to six. Actually, the biggest chunk, physical chunk on the board is magnetics. How do you solve magnetics? You increase frequency. How do you increase frequency? You use GaN. How do we compete? You'll say, well, others have GaN. Nobody in the world has GaN that can do 800 V in a single chip. You need vertical GaN, 1,200 V. We are the only company that does that. You may be able to solve the frequency problem, but you're solving it with 2x the size that onsemi does.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+If anybody knows AI data center, the real estate on a data center rack is more expensive than real estate in San Francisco. If you save on power density and you make it smaller, 2x.
+## Vivek Arya | Analyst, Bank of America
+Right
+## Hassane El-Khoury | CEO, onsemi
+You win. Not because on the product itself, on what the product does to the physical density. When I say we differentiate, I'm not talking about we differentiate, oh, who's got better resistance. Who's got a better system footprint at a performance that is superior than everybody else? That's how you win the conversion.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+If somebody says, yeah, I can give you the conversion on a box this big, and I say, I'll give you the same conversion this big, who do you think is going to win? Who do you think the customer will pay more for?
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+Which is back to the margin. There's value not in the conversion only, in how effective the physical real estate you use for that same conversion. When I talk about differentiation, and I talk about us winning because of technology and capabilities we have, I'm not talking about electrical capabilities only, because that's now the easy thing.
+## Vivek Arya | Analyst, Bank of America
+Got it. Where do you see data center as a percentage of mix in the next two, three, four years? Do you think you get to double-digit sooner? Do you have that kind of conceptual visibility, or?
+## Hassane El-Khoury | CEO, onsemi
+Yeah, you got to come to our analyst day later this year.
+## Vivek Arya | Analyst, Bank of America
+Oh, we'll be there.
+## Thad Trent | CFO, onsemi
+It's going to grow as a percentage of the pie, but the other two are going to grow as well. Now, it's going to grow at a faster rate, but it's not like the other two segments, industrial and auto, are going to stay flat, right? It will become a larger piece of the pie, but it's assuming the others are growing as well.
+## Vivek Arya | Analyst, Bank of America
+My favorite question to ask any CFO is, how are you feeling about gross margins? Right? Thad, how are you feeling about gross?
+## Thad Trent | CFO, onsemi
+I feel great. I feel great about gross margins. There is a ton of operating leverage in our model. Through the downturn, we didn't sit still, right? We continued to execute on our Fab Right initiatives. We invested through the downturn in terms of OpEx, right? If you look at our OpEx today, we've got to grow back into that OpEx. On the gross margin side, we've done a lot of work. We've created these differentiated products through those investments. The big capital investments are behind us, right? We've invested in silicon carbide. We invested in our 300 mm fab. On the gross margin side today, it's primarily that the headwind is underutilization, right?
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Thad Trent | CFO, onsemi
+We're at 77% utilized. As the market continues to rebound in revenue growth, that's all a non-cash charge that goes right to the gross margin line and falls all the way through to the operating margin line. If you think about some of the other self-help things that we've done, we have more Fab Right initiatives that we're doing, right?
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Thad Trent | CFO, onsemi
+It's about another 200 basis points. I think over time there's going to be another 200 basis points of mix shift that's going to be positive. Everything that Hassane talked about, these differentiated products. Then we divested four fabs a few years ago. Once we start manufacturing that inside of our footprint, you get another 200 basis points. It's why on the last call I talked about, I expect margin growth, gross margin expansion through the remainder of this year for sure. Over a multi-year period, I feel really good about it. There is just a ton of leverage, and a lot of this is because it's what we've done to set the company up for this rebound, right?
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Thad Trent | CFO, onsemi
+If you look at our free cash flow margin today, 24% in a downturn, right?
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Thad Trent | CFO, onsemi
+That's what it was last year. That shows the structural changes inside the company that the dollar per wafer that we get is much larger, much higher than what it has been historically. Now it's just a market expansion and then us doing more self-help. Feel really good about it.
+## Hassane El-Khoury | CEO, onsemi
+At a high level, think about it, if you think about the trajectory and what enabled it is a fundamental change in the company where ON Semiconductor historically has been a manufacturing company. onsemi today is a product company that happens to manufacture differentiated product inside and outside. That fundamental shift in mindset of manufacturing to product is what allowed us to get through the downturn with the free cash flow margin that Thad is talking about. Historically, the company would be filling fabs.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+Which burns cash and degrades margin and destroys value, because once you crash your pricing to fill the fab.
+## Vivek Arya | Analyst, Bank of America
+Right
+## Hassane El-Khoury | CEO, onsemi
+it doesn't always happen that you can raise pricing.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+That fundamental belief got us through the downturn, investing in the differentiated product, and setting ourselves up for a much better recovery than the company has ever done, and that's the exciting part.
+## Thad Trent | CFO, onsemi
+The other thing is, from a pricing standpoint, right, we've had a lot of our input costs go up. We're raising pricing to offset that, right? We raised pricing effective April 1st. That'll start to really have an impact on the P&L in the second half, where the input cost is kind of already hitting us on the P&L, right? It's why I feel really good about even what I rattled off there. You get a pricing tailwind of what's going on in the market as well.
+## Vivek Arya | Analyst, Bank of America
+Got it. You stole my next question also. When your gross margins were in the high 40s, it was easier to visualize getting to your kind of low 50s target. When gross margins are now in the high 30s, then it gets a little bit, you have to take a little more leap. Are you still comfortable with kind of the gross margin expectation?
+## Thad Trent | CFO, onsemi
+Absolutely. Absolutely. The math I just gave you gets to a five handle very quickly, right? Now, we need a market backdrop to improve, which it's doing, right? Which is getting there. Just look at last quarter, we took our utilization up from 68% to 77% in one quarter, right?
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Thad Trent | CFO, onsemi
+Every point of utilization is 25 to 30 basis points of gross margin improvement two quarters later. That's coming at us.
+## Vivek Arya | Analyst, Bank of America
+Got it. When I look at where kind of consensus expectations, I know you have not given a specific right top line. You've given a long-term model. People are thinking ON is a low double-digit kind of sales growth company for the next two, three years. Do you think if you are successful in the data center, Hassane, as you described, that there is potential for upside to that kind of growth rate, or do you think that is kind of a natural growth rate for ON, even when one includes the data center benefit?
+## Hassane El-Khoury | CEO, onsemi
+Yeah, look, I don't want to give you a different growth rate because you have to show up to hear it in Analyst Day. Let me give you the business today, the business we are in today. If you give credit for the exits we've had, which we're done with, but just do annualized last few years on the exits, we have consistently outgrown the market. Even in 2026, if you think about it, if you put back the exits, the $300 million exits, we've outgrown the market in 2026 with no recovery in our primary markets.
+## Vivek Arya | Analyst, Bank of America
+Right.
+## Hassane El-Khoury | CEO, onsemi
+When you fast-forward, assuming a recovery and a healthy growth in this and normalization and the secular growth that we talked about and so on, I feel very good about what we've done over the last few years structurally in the company to set ourselves up to benefit from the upturn higher than what we had to slug through the downturn. We did the work, and the work hasn't shown up yet. That's the leverage that Thad is talking about. That's forward-looking, not just in the market. Top line's going to do what the top line's going to do.
+We have the technology, we have the capability, we have the leverage in the model, and everything on top is going to fall through. OpEx is not going to grow anywhere close to the top-line growth. There's only positive leverage in the model. That's what excites me.
+## Vivek Arya | Analyst, Bank of America
+Got it. Final question. Use of cash. The stock has had a pretty good move, right, and along with the sector. Is buyback still the best kind of use of cash, and is it still what you intend to do with that?
+## Thad Trent | CFO, onsemi
+Yeah.
+## Vivek Arya | Analyst, Bank of America
+You have a $6 billion buyback.
+## Thad Trent | CFO, onsemi
+Yeah, we had the $6 billion authorization. We've been buying back shares, right? We've said our stated policy is we'd return 100% of our free cash flow, right? If you go through the priorities on capital allocation, invest in the business, right? We've just talked about huge investments, right? It's that flexibility on the balance sheet if there's M&A. Check mark on that one. Third is return capital to shareholders. If you go back to Q1, we stretched up. We saw a dislocation in the market, right? Our average share price that we're buying back was just over $60. I think that was a good use of cash. Good CFO.
+## Vivek Arya | Analyst, Bank of America
+Good. How about at $130? Is it
+## Thad Trent | CFO, onsemi
+We still like it.
+## Vivek Arya | Analyst, Bank of America
+You still like. Okay, great. With that, thank you so much, Hassane.
+## Hassane El-Khoury | CEO, onsemi
+Absolutely.
+## Vivek Arya | Analyst, Bank of America
+Thank you. Really appreciate your time.
+Data Source: Quartr Last updated: Jun 3, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

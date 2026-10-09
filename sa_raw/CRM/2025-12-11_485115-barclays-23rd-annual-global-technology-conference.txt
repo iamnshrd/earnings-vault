@@ -1,0 +1,233 @@
+TITLE: Barclays 23rd Annual Global Technology Conference
+DATE: 2025-12-11
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It hurts. Huh? Still hurts?
+## Raimo Lenschow | Managing Director, Barclays
+It still hurts from the Euro, but anyway. But let's start more bigger picture to get everyone grounded. You reported, like, very good results last week from, you know, like, since you're running sales. Like, what stood out from your perspective?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Yeah. So thank you, Raimo. By the way, thank you for the opportunity to be here. Hello, everyone. This is exciting. So we printed really a very strong quarter all around. Q3 was the best Q3 ever in the history of the company. That's a good start. It was also, in terms of bookings, it was the fastest-growing booking quarter in three and a half years. I think the Q1 fiscal year 2023 was a bit better. You know, bookings grew even more than the cRPO numbers that we printed. The other thing that was pretty cool was theâI mean, this is the metric that now the whole company is focused onâis Net New AOV, like Net New ARR. And this is the difference between the bookings minus the attrition.
+That piece grew significantly much more than the growth of the ARR. This is key. WeâI think we started talking for the first time at the Investors Day at Dreamforce. This is key because Net New AOV grows more than AOV, the AOV accelerates. I know that everybody here and on streaming, what they're thinking is, "Okay. Great quarter, Miguel. Amazing. But when is, when are the core revenues going to re-accelerate?" Well, this is, we explained it at,
+## Raimo Lenschow | Managing Director, Barclays
+Analyst.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+At the Analyst Day, it is gonna take 12-18 months. Now, probably 11-17. But now we are even more confident after the results. But also the momentum that we're seeing with Agentforce, you know, a bunch of stuff. We'll talk about Agentforce later, I'm sure. And then the demand. This is because a quarter is a quarter. In Europe, we say, "Le roi est mort, vive le roi." You know, "The king is dead, long live the king." You know, good, great. We've had a sequence of pretty good quarters, better and better all the time. But for me, it's more all about the next wave of growth.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The next five years. We gave some very cool guidance, I believe, in the Analyst Day that, you know, without Informatica, we're gonna hit $60 billion in fiscal year 2030, Rule of 50. And we are becoming more and more confident that that is gonna happen because the demand is like we've never seen before. Our pipelines are like we've never seen before.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The damn jam that we did in Q3 was spectacular.
+## Raimo Lenschow | Managing Director, Barclays
+And I mean, obviously, Agentforce is like the big topic that everyone, you know, that is important to you guys. I was at Dreamforce, and it was amazing to see the momentum there. But what do you see in terms of Agentforce in the field? What's the feedback?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Wow. So Agentforce, it's pretty crazy. I mean, I've been in sales for many years. Actually, I was an engineer before. I was a consultant. And then I've been in sales for 20+ years. I joined Salesforce in 2011. I never seen anything like that. We launched a product a bit more than a year ago.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+We just published 550 million of ARR on that product. That's four and a half times growth, year on year. We did 1,900 transactions on Agentforce. We have already 18,000 customers that have bought Agentforce or that are using Agentforce. Half of them are paying. So 9,500 paying.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Just to put things in context, everybody's talking about agents. Everybody's talking about Agentic. There is no other company in the planet that has the amount of customers trying our agents like, Agentforce and like, like Salesforce. This is pretty cool. But there was a very important statistic that I wanna highlight because, in the Q1 earnings call, I was super excited because I found out that three Agentforce customers came back and wanted to refill the tank, the consumption flywheel. And I was very excited. And I talked in the earnings call about these three customers. "Oh my God, this is working." Well, in Q3, 50% of the bookings, more than 50% of the bookings came from customers refilling the tank.
+## Raimo Lenschow | Managing Director, Barclays
+Wow.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+And we had 362 customers refilling the tank. The stats are amazing. But I think what is more fun, and this is gonna be, when you sell stuff, you wanna sell something that is a lot of fun. And there are a number of household names that everybody in the world is gonna start getting familiar with. For instance, meet, meet Gemma. Anybody knows who Gemma is? You will. Gemma is the personal shopper for Pandora. Okay? They just launched that, personal shopper. It's the same experience that you have at a store, but online. But guess what? They picked a country. Australia is a big country of them. They just put 10% of the traffic at the beginning. Now they're putting 50% of the traffic. Now Gemma does a million customer actions every month. But meet, meet Olive, or meet, you know what? I like this.
+Meet Olive, Williams-Sonoma, Pottery Barn.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Williams-Sonoma has several agents already working with customers at scale. The one that they call sous-chef is Olive. It helps you really work through your dietary and your culinary experience and getting you an expert. And then it branches you out to buy all the stuff, etc. That's already handling nearly, what was the last number? Last number was like 80,000 actions every week. So 300,000 actions. But all these agents, we put them in production weeks ago, months ago. The acceleration that we're seeing, many of these companies are coming back to refill the tank. Okay. I want more conversations. I want more credits.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It's, it's very exciting. And the last thing is, it's not about Agentforce. Agentforce, it's not only about Agentforce. Agentforce is amplifying, is making every one of our Salesforce clouds much better. It's driving multi-cloud transformational deals. If I look at my top 10 deals, six of them, seven of them contain Data Cloud and Agentforce or Agentforce. Six of them contain Agentforce. And Agentforce was just 15% of it.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Of the whole TCV of those deals of theâit just drives all because all our clouds now are Agentic cloud. Sales Cloud is Agentforce sales. There is not a concept of sales process without Agentic buying that sales process. There is not a sense of Service Cloud or customer service without being Agentic. Commerce, the same thing, etc. So very exciting quarter for Agentforce.
+## Raimo Lenschow | Managing Director, Barclays
+What is the momentum? Like, Dreamforce was obviously like, well, for me, it was more, there was more hands-on. You could see, I could touch the A, you know, like the, you know, the year before Dreamforce.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Mm-hmm.
+## Raimo Lenschow | Managing Director, Barclays
+You launched it. It's early stage here. Now I could see them. I could touch them. I can play with it. What has been like the momentum in terms of pipeline build conversation since Dreamforce?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I think, again, it's very surprising even for experienced, you know, sales executives like me and my team to see a product have so much impact in such short time. I think the one thing that both myself and Robin, our Chief Operating Officer and Chief Financial Officer, disclosed. We made two big disclosures, honestly, and two big, big statements in our Analyst Day.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+One was that Net New AOV growth line had already crossed the AOV growth line and that that was gonna remain for a while. And that hadn't happened for three and a half years, and that's gonna accelerate revenue. And then we said 12-18 months. That was a pretty big statement. The second big statement that we did, and sorry, I'm elevating a little bit.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The answer, but I'll go. I'll go exactly to what you were asking. The, the other thing that we, she had a slide, and it's good that the slide came from the CFO and not from the Chief Revenue Officer, where she says, "We are seeing that customers that become, everybody wants to become an Agentic enterprise and Agentic all the processes. The customers that pick Salesforce as the platform to become the Agentic enterprise, and we'll discuss later why most of our customers, if not all, are gonna pick Salesforce, they use our product in a totally different way as a digital labor platform, not as a SaaS CRM platform, but as a digital labor platform. When you use our product in such a way, our ability to monetize that relationship, and this is, if you're eating, you need to stop eating because this is important.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+This is the ability to monetize the partnership is three to four times the business that we are doing. We have a lot of customers that have great, profitable, growing relationships with us for years with all our Cloud: Sales, Service, Marketing, Commerce.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Analytics, blah, blah, blah. When they become Agentic, it's been this has happened in the last 12 months. They add Data Cloud because they need Data Cloud to power the agents. They put Agentforce. They start building up a list of agents that they're gonna deploy. The business that we do with them multiplies by three or by four. And we believe that most of our customers are gonna go through that journey. So this is pretty impactful because I know that many of you, in your models, you're looking at your, at the terminal value. Obviously, you see the numbers. You see the cash flows. We, Mark mentioned we do more cash flow nearly than Walmart. This year, we increased actually the guidance, I think, from 13%- 14% growth. I think we're gonna do about 15, short of $15 billion of cash flow. Not bad.
+We're gonna continue to grow that. You can do the math for the next five years, and you discount 8%, whatever. Then it's the terminal value, which I think is in debate here. Is there a future for SaaS? What is gonna happen to Salesforce? I'd love to talk more about that, but yeah, I, I do believe that the terminal value is humongous. When I tell you that every single one of our 1,200,000 customers, most of them will choose Salesforce as the platform to become Agentic. This is a different market.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It's not the platform to do SaaS CRM. That most of them already chose us. This is like a new market. It's like infinite. It's trillion, trillion dollars of time. And most customers, most Salesforce customers will get to the conclusion that they absolutely need to use Salesforce to become an Agentic enterprise. And when they do, times three, times four. Remember that.
+## Raimo Lenschow | Managing Director, Barclays
+On that note, like, what makes the Salesforce position so strong? Like, what's the competitive advantage that they do it with you and not with someone else?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Yeah. So this isâthis is the heart of the matter.
+## Raimo Lenschow | Managing Director, Barclays
+Uh-huh.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay? I'm gonna pause. I'm gonna breathe.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah, yeah, yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Because this is so important, guys. I just had a great meeting with actually Barclays at our offices.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+But what I do is I spend a lot of time with customers. Last quarter, I was in 12 countries. I met 400 customers. So this is the crux of the matter. This is the question that everybody asks. So let me tell you one thing that is very important. LLMs, AI is incredible. It's the biggest transformation in our lifetimes.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I couldn't believe. I mean, I'm 57. I cannot believe that this is happening to me now because to be in this, you know, in this balcony looking at the market and seeing this incredible transformation that AI is bringing is unbelievable. It's hitting all of us. Consumers is revolutionizing. I'm every day. I'm with Grok. I'm with Gemini. I'm with OpenAI. It's incredible. However, to bring AI to the enterprise, for AI to scale in the enterprise, there is something significantly more important. AI just becomes a utility. It becomes a commodity. You need the last mile. Let me explain what the last mile is. The last mile has four components. The first one is the trusted context. It's the data of those customers, of those transactions.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Of those assets. And the metadata. The data tells you what happened.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+The metadata tells you why what happened matters. That trusted context is fundamental in the enterprise for the AI to make any sense. Otherwise, the AI doesn't make sense. Can we solve this without Salesforce? Potentially. But Salesforce has a lot of that data already in the context with the right context, with the right metadata model.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Second leg of the last mile, and this is, for me, this is the, the investment thesis for a SaaS company like Salesforce that has a dominance in a space like we do. Okay? The second element of the, of the last mile is execution, deterministic execution. Trust me, you don't want LLMs to execute. I think we've seen it because if we let an LLM to execute, they will, they will execute differently even with the same data in different times. There is a reason why for years, 20, 30, 40, 50, 100 years, companies codified their standard operating procedures into applications. Then the applications became SaaS applications. In the customer domain, I mean, I was, I was with you guys today and with Barclays, and I don't wanna disclose, but companies like Barclays have thousands of automations that have already been built on our platform. Thousands.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+And then every month, those automations are run billions of times. Okay? Across. You don't want LLMs to be executing without those automations.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Third leg of the stool. You know what? There's some people here that it's called humans. AI cannot function without humans. You cannot build AI.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+In a place that is disconnected from humans. You cannot build AI in a place that is disconnected from the execution. But you need humans in the loop. So we at Salesforce, we are the leader in the CRM. So we have more humans, hundreds of millions of humans already using our apps every day, executing on those deterministic workflows. And the last piece of the last mile for AI to scale and to work in the enterprise is the governance, is the compliance. Without governance, without compliance, you cannot scale AI. CIOs need to make sure that those agents have secure access to the right applications, to the right data, that things are shared in the right way, that the privacy is respected, that the agents are orchestrated. That's governance. That's compliance. Tell me how any of the foundational LLMs are gonna do the last mile. None of them.
+Salesforce, companies like Salesforce, and we are very well positioned in our space, we're gonna become the hub for Agentic execution. You will not be able to execute the incredible things that AI brings in the enterprise without Salesforce.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm. So it sounds really exciting from a product perspective. Now, and I don't wanna speak for my IT buyers, but like, how do I buy this? Like, in terms of, you know, talk a little bit about pricing, packaging, if you're like an AELA kind of type stuff to kind of make sure I control.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+You're not negotiating on behalf of.
+## Raimo Lenschow | Managing Director, Barclays
+I'm not, no, no.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+So now, listen, this is a good one because everybody's getting very confused. We got a little bit confused, to be honest with you, when we launched all these products. We have Data Cloud, data activation, we call it Data 360. The more data you ingest, the more data you zero-copy and you activate, the more you pay. And you don't really know how to predict that or project that.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Then we brought agents. And then depending on the use case, depending on the conversations, how many actions per conversation, how many LLM calls, blah, blah, blah, it becomes really messy. And I feel bad for my customers because even we don't know how much the customers are gonna pay if they go all in with Salesforce.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+That's not a good position to be in.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+When you're selling. So what we did is, okay, let's open up. Let's listen. We did a lot of workshops with customers. And we pretty much opened a menu of options, pricing options to our customers to meet our customers where they are. There are customers that want something that is probably the hottest thing right now in Salesforce, which is AELA, Agentic Enterprise License Agreement. What, what, what is this? This is for customers that have already experimented. They're ready to scale. They've already known the last mile differentiation of Salesforce, what I just explained. They know that they cannot scale AI without Salesforce. And then they say, okay, they wanna go all in, but they don't wanna be in a situation where in three or four years they have to pay $100 million to Salesforce because we're doing all this.
+So we agree on a flat fee, and then it's a shared risk. All you can need, by the way, we can throw also other products, all you can need Agentforce, Data Cloud, Slack, what anything that you need for the period of the next three or five years at a fee that makes sense. And if the customer is smart, they can rob the bank. They can really make a great deal out of that. We take the risk because we want our customers to be successful. There's nothing that I would love the most that I have a customer that I price maybe an AELA at $5 million incremental, and the customer has deployed so much that all of a sudden that deal is not profitable for me.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Because if that is not profitable for me, it means that the customer is the happiest customer in the world, and then I have another 20 years to monetize that customer, so I'm not worried about that, so that this is the extreme. The other extreme is we do pay as you go. If you wanna experiment without paying anything and only pay when you get value, pay as you go, and then every month we send you a bill with the usage that you've done and you pay me. But most customers, most customers like pre-commit. This is the Amazon model, the AWS model, etc., where essentially GCP, you say, okay, I think I'm gonna spend 3 million next year, 5 million the following year, 7 million, and I will be paying you as I consume. There are, again, many, and you know what?
+One thing that is becoming very popular.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Because customers want predictability and flexibility. Predictability and AELA gives you predictability. But you know what other thing gives you predictability? Seat-based SKUs. So we've created SKUs that have a lot of consumption built in, in fact, unlimited consumption for internal usage. We call them our super SKUs: Agentforce for sales, Agentforce for service, or Einstein 1. And customers pay a premium to get the SKU, but it's fixed. It's per seat. And they don't have to worry about using more or less. So the net-net is we are meeting customers where they are. And if you have other ideas, we are here to do business is open, and we can come up with other ideas to fit your specific need.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. Okay. So we talked product. We talked pricing. Let's talk about distribution. One of the things that came up a lot as a discussion is that you kind of talked about increasing sales capacity and quite a decent clip. What drove that confidence? And I had a fun follow-up there in terms of Salesforce productivity that's kind of related to that.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Yeah. So as of today, we have 23% more capacity account executives in the street today, which is a lot.
+## Raimo Lenschow | Managing Director, Barclays
+That's a lot.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay?
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+We're gonna finish the year with approximately 20% more capacity. Now, we measure ramped capacity because capacity the first 6- 8 months, sometimes even 12 months, doesn't produce because in enterprise software there's a lot of learning, enablement, etc.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Which, by the way, we are super focused on. We are bringing those timelines even closer from hire to monetization. We've already shortened three or four months. Okay? But at the end of the day, at the end of the year, we're gonna finish at around today, we are at 13%-14% more ramp capacity. We're gonna finish the year around 15% more ramp capacity coming into next year, which are great numbers. I'm actually, I mean, this is sometimes why Mark is Mark. A year and a half ago, he called me and said, "Miguel, let's go in. Let's go full-fledged. Let's hire 20% more capacity." I'm like, "Hey, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+There is no need. My productivity levels are very good, but I don't see the demand. There is a lot of AI. There is a lot of experimentation. There is no big deal. We are launching Agentforce. This is gonna revolutionize the industry. Go fucking hire 20% more capacity. Then we went all in starting in October last year, November.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Thank God that we did that because now the demand, we have a tsunami of demand coming at us, and we have the capacity ready.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+To meet that demand. I'm also confident about the numbers from the year, Net New AOV growth, acceleration, etc., because it's not just about the capacity. It's about the pipeline. I mean, those two things are hardcore things. We have more people that are hungry, waking up every morning saying, "I need to make my quota, and I'm gonna go kill." And then we have healthy, you know, single digit, double-digit, sorry, healthy, growth in pipeline for next year. Good combination. And then we have a lot of innovation that, I mean, when you think about the amount of products, think about Voice. We just launched Voice. Every single one of our customers, Agentforce's customer, 18,000, are gonna want Voice.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Voice is an uplift to the contract that they have with us. Let me take you to another extreme. Life Sciences Cloud. Anybody knows of a company called Veeva? Okay? By the way, before we started competing with Veeva.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Before we were partners with Veeva, we loved Veeva, Peter and Veeva. They've been great partners. Before we competed with them, we were the same size of Veeva in life sciences. We were selling around the commercial area, but service, marketing, analytics, etc., we pretty much had the same number of employees and the same number of business, of revenue within the life sciences and medical device space as Veeva. Then they decided to move to compete with us. They called us, "Okay, you know what? We don't want the partnership. You guys are too dangerous. We're gonna move off of your platform." I'm like, "Oh, really? Okay. So then we're gonna compete." So we went in, we bought some assets, some IP. We built a product called Life Sciences Cloud, which was the missing part that we had needed for the commercial part of the pharmaceutical company.
+We already announced Pfizer. We already announced Novartis the other day. We did a press release on AstraZeneca, Takeda, AbbVie. Of the top 20, we've already won officially five or six. We're gonna win probably another two or three. Then we've won more than a hundred plus of the top probably 200 pharma companies in the world already have switched off from Veeva and came to Salesforce. So I'm sorry for the company that is solely focused on one thing because we're winning market share like huge from them, and we are just getting started. Customers want the platform. That's why they were happy with Veeva because they were on the Salesforce platform. They see how Salesforce is becoming an Agentic platform. Analytics is embedded in that platform.
+Data 360 brings all the data from all the areas, from clinical to pharma to care to everything.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+It's a big piece of innovation. We launched ITSM. We launched orchestration, agent orchestration, omni-supervised. I mean, there's so much innovation. When you couple the innovation with the real pipeline that we have, and then the momentum that we're seeing. We are very confident. In fact, we're gonna continue this spree of hiring in the next 12 months.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah. And, like, you remember we are the investors and we're looking at numbers. The one thing that I kept as a question a lot from, you know, when I discuss it with investors is like, how do we ensure productivity? Because you're not going through kind of, you know, at least, you know, saying you're going 20% here again, but you keep hiring at it. How do you make sure that the productivity is right for you and that you get actually the right outcome?
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+I focus on there are three key metrics that I focus on like crazy. It was two, now it's three. The two that I focus on Net New AOV and making sure Net New AOV was growing and is growing more than AOV because that means acceleration.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Okay? The second metric is productivity. I'll go to that in a second, and the third metric now is consumption. Consumption of Data Cloud, consumption of Agentforce. Now, productivity. Before we started the hiring spree a year and a half ago, we reached pretty much the top level of productivity. In my two prior years, we increased productivity by 20%, so we were ready. We thought we knew that we couldn't get significantly more productivity, so we needed to hire more people. So we are, first of all, hiring people in high productivity patches. This is very important, the high growth patches.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Second, we are managing performance. I mean, that's what I've done all my career, manage performance. Good salespeople wanna work in my teams because they know that poor salespeople don't last. And the worst thing that you can be, the worst thing that you can be is being a company, if you're a good salesperson, where they don't manage performance. So good salespeople wanna be in a place where they manage performance because they make a lot of money and the low performers leave. Third is we're selling higher-end editions of our clouds. There is a, there is a trend called this vendor consolidation.
+## Raimo Lenschow | Managing Director, Barclays
+Mm-hmm.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+People wanna buy an SKU, a super SKU that has included consumption, has included Tableau, PIP for compensation, has Slack, has those make basically the average sales price much higher. There are many other reasons why productivity is gonna continue to be, even despite the amount of capacity we're putting, it's gonna be continue to grow. The last one is, this is very important. I told you about the customer refilling the tank and the fact that 50% of the bookings in Data Cloud and Agentforce in Q3 was 40% in Q2 came from customers refilling the tank. We started this year with 4,000 more or less Agentforce customers. Okay? Those have generated a lot of AOV this year to us because they came and refilled the tank. Next year, you know how many Agentforce customers we're gonna have at the end of the year? 18?
+## Raimo Lenschow | Managing Director, Barclays
+No.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+20? So today we have 18,000.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah, yeah.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+By the end of Q4, we're gonna have probably closer to 30,000, at least 25,000. So we're gonna start the year with pretty much 10 times more Agentforce installed base than a year before, and the reason this is important is because the sales cycles of customers refilling the tank are low, you know, low investment sales cycles. They are short, so that increases the productivity of the, anyway, so there are many ways to increase productivity of AOV.
+## Raimo Lenschow | Managing Director, Barclays
+Yeah, yeah, yeah. I could continue with you for quite a long time, but I know there's the next speaker is coming up here. Miguel, that was really insightful. I, you know, the excitement is physical. Yeah, I can see it. It's great to have you here and,
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Yeah.
+## Raimo Lenschow | Managing Director, Barclays
+Good luck, and I'm looking forward to next year and see how this all translates into numbers. Thank you.
+## Miguel Milano | President and Chief Revenue Officer, Salesforce
+Thank you so much. Bye-bye.
+## Raimo Lenschow | Managing Director, Barclays
+Thank you.
+Data Source: Quartr Last updated: Dec 11, 2025 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

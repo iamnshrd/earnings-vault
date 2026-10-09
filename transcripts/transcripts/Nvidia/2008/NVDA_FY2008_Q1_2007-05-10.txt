@@ -1,0 +1,7 @@
+Company: Nvidia
+ROIC Symbol: NVDA
+ROIC Name: NVIDIA Corporation
+Year: 2008
+Quarter: 1
+Date: 2007-05-10 17:00:00
+Executives

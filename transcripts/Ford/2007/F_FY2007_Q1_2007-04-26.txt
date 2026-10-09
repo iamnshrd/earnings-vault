@@ -1,0 +1,7 @@
+Company: Ford
+ROIC Symbol: F
+ROIC Name: Ford Motor Company
+Year: 2007
+Quarter: 1
+Date: 2007-04-26 09:00:00
+Executives

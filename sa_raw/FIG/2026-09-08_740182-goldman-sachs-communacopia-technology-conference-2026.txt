@@ -1,0 +1,199 @@
+TITLE: Goldman Sachs Communacopia + Technology Conference 2026
+DATE: 2026-09-08
+## Gabriela Borges | Analyst, Goldman Sachs
+Great. Fantastic. We will go ahead and kick it off with Figma. Could we get the doors closed, please? Delighted to be on stage with Selina Zhang, my colleague, and Dylan Field, CEO and founder of Figma. Thank you for your time today.
+## Dylan Field | Founder and CEO, Figma
+Thank you for having me.
+## Gabriela Borges | Analyst, Goldman Sachs
+Dylan, I want to ask you a little bit about the product roadmap over the next 12 months. We came back from the Figma conference, and the number of products that you are announcing in a very short amount of time has gone up. At the same time, one of the dynamics that we have talked about on the earnings call is this idea that customers are in a period of experimentation.
+Talk a little bit about what the vision for how Figma up-levels into that period of innovation over the next 12 months and some of the things that you are looking at to gauge success.
+## Dylan Field | Founder and CEO, Figma
+Absolutely. I think maybe taking a step back, it's this wild time and one that we have wanted to see come true for so long. The amount of software that people are building, the amount of creativity that folks are exploring, it's expanding so fast, it feels exponential. Yet, you look at adoption, and it's kind of flat overall. Not everything is getting actually adopted.
+## Gabriela Borges | Analyst, Goldman Sachs
+Right.
+## Dylan Field | Founder and CEO, Figma
+Not everything is getting developed fully, and the attention economy, at the end of the day, is quite limited for software, whether it's an enterprise consumer, for marketing across all areas where people are using software as part of the business. The fight for attention is constant. When you look back at the launches we did at Config, a lot of that was around expression. How do you get the best ideas out there in a way that you can still shape, but also with the benefit of AI? We went for things like motion and expressive shaders, the ability to create your own tools in Figma, and more. Now, I think as we look across our platform, the first thing that we always have to remind ourselves of is design and designers are core.
+We must always cater to their needs and make sure that they are the first folks that we take care of on the platform. I think that there's tons of opportunity outside of design as well. As we look at it and look at the improvements that we're seeing with LMs right now, it's pretty mind-boggling how fast they're improving. I think our core strategy remains the same, which is basically we see code as being increasingly commoditized. As it becomes more commoditized, I don't believe that the layer on top of that, the abstraction is text. I think it's visual. I think that is what most people, including designers, want, is to actually interact with a visual medium to go change and to fix up and really reflect their own point of view in the design in the medium.
+As we do that, I think that'll be increasingly the starting point from which you then go make a PR, from which you ship code and measure it. If we can do that, I think it really enables us to open up code in the canvas alongside all sorts of other mediums, because at the end of the day, code is just an implementation detail. It's not the what. It's not what people are going for. To the degree we can do that fully, I think it expands the platform and opportunity quite a lot and puts us more in the token flow overall.
+## Gabriela Borges | Analyst, Goldman Sachs
+It leads nicely into a question on the evolution of user interface. One of the bear cases we've heard is we can envision a world where knowledge workers have essentially some sort of central pane of glass with a prompt bar, and they're operating all of these different applications in the background off of the prompt bar, rather than actually interacting with any specific app. Or you have agents, and they're the ones actually doing the heavy lifting. They don't need a user interface. Maybe give us the pushback to that more bearish view of UI evolution.
+## Dylan Field | Founder and CEO, Figma
+Well, I don't think it's entirely bearish, first of all. I would say that overall, one of the core theses of Figma is alongside prompting to get started and to get something out onto the canvas that you can start thinking about and respond to because, I'm sure all of you feel this, when you are staring at a blank canvas, a blank page, that is the hardest thing, to be able to catalyze yourself into going, creating, editing, iterating from there. To get something on the canvas is incredible. To be able to do these tasks that are pretty menial, might take hours, and automate them away is so helpful.
+But yeah, to the degree that we're able to make it so that people can get what's inside their head onto the canvas and translate that into the shape of their hands through direct manipulation, and also not just be building in one direction, whatever they happen to get from the agent, but actually building the right thing, which requires exploration. It requires divergence. I think that the canvas is very useful here. It's a bird's eye view to actually have a sense of all the things that are going on, seeing zero on the thing that matters. That is ultimately where I see as being a very important step that a lot of folks are reporting to us as missing right now.
+We've gone from a place where designers and design teams inherently diverged to many folks trying to adopt AI workflows, in the process losing what made them designers in the first place, and then trying to get back to it and figuring out, okay, how do we solve this? One of the things that we also launched at Config, or sorry, announced at Config, and will be launched soon, is Code Layers. This is in a way to just put code on the canvas. That way, across all these mediums, you can also see code and have a full functioning prototype that you can consider alongside other options.
+## Gabriela Borges | Analyst, Goldman Sachs
+Fantastic. Okay. Let me ask you one more core Figma IP question before we start talking about competition.
+One of the things that's always stood out to us on the Figma backend is the way that you solved multiplayer. So multiple folks in a room can orchestrate across one canvas, and the changes sort of sync seamlessly. That seems like a pretty important piece of IP for how agents work, because agents also have to sync. So walk us through what that could look like. Can you use your core IP on multiplayer, essentially the gaming engine that you have? Can you extend that to agents?
+## Dylan Field | Founder and CEO, Figma
+Yeah. First of all, we agree. We think it's a big opportunity to bring not just humans, but also agents into the canvas together. With Figma Agent, you're starting to see the beginnings of that. More to come. That's one of the things I'm most excited about right now, is how we can get the agent in Figma Design to be maximally useful, high quality, but also really fast. I think the speed, the cost, and the quality, those are three parts of it that all matter. I wouldn't say it's the only thing that matters, though, is getting agents and humans working alongside each other. I also think that anything you can do to be able to be in the data loop of the customer creates context, and then creates capability for the customer, too.
+I think that is something that will increasingly be seen as a core moat of the business, and a big part of the way that we better serve customers as well.
+## Selina Zhang | Analyst, Goldman Sachs
+Let's talk a little bit more about competition. The tools from Frontier Labs or AI-native startups are no longer just about generating code anymore, but they're generating more complete products. The Frontier Lab models continue to innovate and improve at their current pace. Where do you see the swim lanes are converging with Figma, potentially?
+## Dylan Field | Founder and CEO, Figma
+Yeah. I think that it's been super impressive how the Frontier models overall are improving. If you all are playing with Astra, for example, which just came out, what it can do with math, what it can do on the coding side, and the improvements we're seeing overall there are very strong. I would say for design, it feels, again, incremental. There's always this sort of psychosis we all go through a few days after a model release, where it's like the best things bubble to the top of the algo feed, and then you're like, "Oh, but it can do the thing," and then you try to do the thing and it doesn't quite work. Our own evals, it is progress.
+It's incremental on design, but overall, this is still in the realm of, I think the visuals are not quite there, let alone the experiential details, UX, providing and actually understanding larger context, and adhering to a design system, especially as design systems involve more and more complexity. I think that that's been both our challenge and our opportunity, is how do we take models, Frontier, proprietary, and make it so that we're able to actually use them to make the lives of designers better and the workflows of designers better, as well as everyone they're working with. That's a huge area of our focus when it comes to Figma Agent, is making it so that we are able to provide truly valuable use cases there.
+## Selina Zhang | Analyst, Goldman Sachs
+With these Frontier Labs and AI native startups, how do you balance openness and partnership while maintaining strategic differentiation from them?
+## Dylan Field | Founder and CEO, Figma
+Yeah. Our MCP, I think, is a good example of this, where with MCP, we've tried to make sure that you can go from Figma designs that exist in the canvas, click one, and pull it into MCP, through MCP into your coding agent, and go build it. I think what's been also really exciting is to see the growth overall of the way that these are now writing back to Figma. Overall, we're seeing just a ton of people, which is growing quarter-over-quarter in significant ways, writing back with our View Figma tool call to the canvas, which I think just shows how the canvas remains the center of work, even as models get better and better.
+I think that as Figma Agent increases quality, and speed gets better, too, we'll see more and more of that work happening in Figma directly, rather than going out to the coding agent in a terminal or an IDE, where we've heard repeatedly from our customers it's not where they want to work, and it's not where they want to live. Instead, starting in your design tool.
+## Selina Zhang | Analyst, Goldman Sachs
+You talked about the importance of context, and then one of the major debates we hear is where and who owns the proprietary data moats. What unique context does Figma accumulate across the product development life cycle, and why is that context so difficult for a competitor to replicate?
+## Dylan Field | Founder and CEO, Figma
+Yeah. I think that going back quite a ways, whether or not a company wants us to use it, we have incredible context on the designs, the commentary and feedback, workflow, design systems of a customer. This can both be helpful for our first-party model training, and in the future, as we branch out and are able to work with our customers more to enable them to fully use the context in Figma Design. They already can use the context they have outside of Figma Design, but we want to make sure they can use it more first party as well. That, I think, will be increasingly, like I said, the data moat that matters. All that is workflow data that can really impact the way you work and expand it so that more people in your organization are able to use Figma and go create.
+Whether it's contributing ideas to a software project or it's making it so that you're able to express different branding, marketing you want to do. These are all opportunities that I think more people in the organization, as AI gets people to go more generalist, will want to contribute to. And we're already seeing lots of signs of that.
+## Gabriela Borges | Analyst, Goldman Sachs
+Dylan, maybe just make this example a little bit more tangible. So let's say we're a large financial institution.
+We have all of our branding content in-house, we have all of our data assets stored in Figma. Explain to us the difference between using something like the Figma Agent to be able to start a new mobile app versus plugging in one of the third-party coding tools, one of the third-party LLMs, giving it access to that data set and saying, "Here are all the data assets you need. Go build us the mobile app.
+## Dylan Field | Founder and CEO, Figma
+Sure. I think that in the future, you'll be asking about where do you want your data to live, and you'll also be trying to figure out, okay, what are the different ways to ensure correctness of our assets, whether it's on brand and marketing or it's in software. Actually adhering to these design systems' brand guidelines is something that everyone cares about and few are able to do with coding agents, if anyone. It's a very big effort to get there, but one that we believe if we can enable customers to be able to define that, it'll really help them.
+## Gabriela Borges | Analyst, Goldman Sachs
+Explain that a little bit more. Could I potentially give the coding agent, let's say it's Claude, some sort of style guide or design guide that we've written in-house, maybe we've even leveraged Figma to do it, and then it goes off and sticks to the style guide, and all the data still lives within the financial institution. Is that architecture something that would create a risk to Figma?
+## Dylan Field | Founder and CEO, Figma
+Well, right now what we're seeing overall is even as these agents are improving, strict adherence to these guidelines is not a given. Hallucination is a huge issue, as well as adhering to things in the wrong context.
+## Gabriela Borges | Analyst, Goldman Sachs
+Sure.
+## Dylan Field | Founder and CEO, Figma
+It's an easy thing to say, and I'm speaking as someone who's said it before, and a harder thing to actually go make happen.
+## Gabriela Borges | Analyst, Goldman Sachs
+Got it.
+## Dylan Field | Founder and CEO, Figma
+I think that is one component of it, and I also think that there's many others in terms of the workflows that customers do and how we can make them truly actionable and make it so that the system is learning from them all the time.
+## Gabriela Borges | Analyst, Goldman Sachs
+How did you then solve those same hallucination and commercial safety challenges within your own agent?
+## Dylan Field | Founder and CEO, Figma
+Well, we continue to hill climb on it, to be perfectly frank. I think that it's something that's been a focus of ours for quite a long time, and we're getting better and better. But I wouldn't say it's universally solved at this point, and I don't think it can be without the customer's help. That's typically where you fall down is if a customer, a large financial institution, for example, were to say, "Okay, here is a set of written principles," it's often not enough. You need to have positive and negative cases of what you want to see.
+## Selina Zhang | Analyst, Goldman Sachs
+I think coming back to product a little bit, you've mentioned that AI has lowered the floor, but has yet to raise the ceiling. If you look across your product roadmap in the next 12 to 24 months, what has the greatest potential in your mind to raise that ceiling?
+## Dylan Field | Founder and CEO, Figma
+I think our users. It is the case that people are able to do this incredible work overall with AI, but at the end of the day, every trope that gets created that is in the center of the distribution is clichÃ© after a very short amount of time. In order to actually go push that distribution in the first place, it requires cleverness, it requires a point of view, and a reason why you are trying to go do something different. But if you don't, then you are out of luck, I think, because people just don't have the attention to go see the thing that is clichÃ© over and over again. And they dismiss it, actually, as AI slop right away. I don't know if anyone in this room has the same reaction I do when they see writing that has the AI clichÃ©s in it.
+## Gabriela Borges | Analyst, Goldman Sachs
+Absolutely, yeah.
+## Dylan Field | Founder and CEO, Figma
+It is this, not that, for example, or you are absolutely correct. You can go on and on. But I think it is kind of wild on me. I stopped using em dashes for a while. Should I have? I like em dashes.
+## Gabriela Borges | Analyst, Goldman Sachs
+I like them, too.
+## Dylan Field | Founder and CEO, Figma
+Yeah, they're good.
+## Gabriela Borges | Analyst, Goldman Sachs
+They're grammatically correct.
+## Dylan Field | Founder and CEO, Figma
+I see people using em dash and I'm like, "Slop." It's like you have this knee-jerk reaction. I feel like there's plenty of AI tropes that are good in isolation, but then you don't want people to think you're just generating something and putting it out there. There's that dynamic, too.
+## Gabriela Borges | Analyst, Goldman Sachs
+Wait, so what's-
+## Dylan Field | Founder and CEO, Figma
+Of putting it out.
+## Gabriela Borges | Analyst, Goldman Sachs
+the design equivalent of the em dash? How do we know when?
+## Dylan Field | Founder and CEO, Figma
+Oh, gosh. So many examples. It is also an ever-evolving set, too.
+## Gabriela Borges | Analyst, Goldman Sachs
+Sure.
+## Dylan Field | Founder and CEO, Figma
+The most recent one is just a lot of bento layouts.
+## Gabriela Borges | Analyst, Goldman Sachs
+Yeah.
+## Dylan Field | Founder and CEO, Figma
+These very blocky designs. I think actually, as amazing as 3D is, the abilities with the models to create with 3D now will lead to a rise of a lot of people doing stuff with 3D, and then there will be a knee jerk, was that AI? Was it not?
+## Gabriela Borges | Analyst, Goldman Sachs
+Yeah.
+## Dylan Field | Founder and CEO, Figma
+We will probably see some overuse there. A lot of beige recently. Before it was the purple gradient, now it is the beige. We are transforming.
+## Gabriela Borges | Analyst, Goldman Sachs
+Hey, let me ask you on this topic. There is the view that AI has been really good at coding for backend architectures and engineering. But the issue or the limitation with frontend is it requires human judgment. One could hypothesize that the frontend engineers that actually touch human design are more differentiated, more proprietary, more valuable than the backend engineers, where they do not touch human design. They are sort of isolated, does it work, does it not work? It is verifiable. I am curious your thoughts on that. Do you think that there will be an LLM curve, which then over time embeds judgment and human tastes and preferences?
+## Dylan Field | Founder and CEO, Figma
+Well, the whole definition of human tastes and preferences is not one thing, right? I would maybe reject that hypothesis based on that definition alone.
+## Gabriela Borges | Analyst, Goldman Sachs
+Sure.
+## Dylan Field | Founder and CEO, Figma
+Contradictory. There's also, I think, the case that on back end, I wouldn't say, at least in my experience, that you throw it all of it in and it's fine. It does still require human taste and judgment. You want to build with modularity, encapsulation, good architecture in mind that's maintainable over the long term. Same is true for front-end engineering, but especially design, where you're trying to actually make. You can refresh an engineering system or code on the back end faster than you can refresh a visual design. I don't know if any of you have tried a redesign, but everyone's always angry. At least that's what happens at Figma. We have a very opinionated user base. So you have an amount of times that you can change something in a huge way for users.
+The bigger you are, the bigger your audience, the more you want to be very certain what you do.
+## Gabriela Borges | Analyst, Goldman Sachs
+Was there anything at Config that you announced or launched this year that has exceeded expectations from your user base?
+## Dylan Field | Founder and CEO, Figma
+The thing that comes to mind first is the thing that we announced and did not launch yet, is just Code Layers. Everyone saw that and went, "I want it now." So we've been trying to make sure that the quality is so high, that we're feeling really proud of it, and we're also seeing the usage internally. Now we are getting closer to that, which is great. It's a pretty awesome experience because with Code Layers, you can have it be that on the canvas, you have the full working prototype or many working prototypes, prompt with Agent if you like, and then you can go right into design, directly manipulate, change what you want, reconcile back, and it's all this working scratch pad that you can use in one place.
+## Gabriela Borges | Analyst, Goldman Sachs
+Is there anything in Figma, if you were to pinpoint, that could help elevate designers' tastes and judgment in a way that can make their front end better?
+## Dylan Field | Founder and CEO, Figma
+Well, I think that beyond just the core principles of the canvas with exploration and divergence and trying to get it so that you are able to go through that workflow, which if you are an IDE, it is an inherently linear workflow. The canvas is exploratory by default. People gravitate towards exploring with that medium. I do believe a lot of the stuff we talked about earlier with design systems, with adherence to not only design systems, but also brand and visual guidelines, and style. Those are things that are the rails, if you will, for organizations that want to go design at scale. If you do not define them properly, then you should expect to have divergence. Then it is like the typical brand metaphor people might use are clothes.
+If you go outside and people see you wearing a really goofy outfit that is not typically you, they are wondering, "Oh, what happened?" I think there is different clothes for different contexts. Brand is one or product design is another. But they want to all work together to be something that feels similar enough and your personalities may express somehow to the user or to your friend. I think that the ways that some companies could potentially end up going is if you have a lot of divergence, which no one wants, but is easy to accomplish if you do not pay attention to it, then you end up speaking two different languages to your users. That is something that I think everyone is trying to get their arms around, but is a very hard task.
+## Gabriela Borges | Analyst, Goldman Sachs
+Dylan, every quarter since the IPO, we ask Privia five different gross margin questions. The sense that we are getting is, look, the reason that you cannot be more specific about gross margins over the next six months is because of things like the Code Layers product, where you do not know exactly what usage and monetization is going to look like. So maybe as a level-setting point, talk to us about Figma Make. Figma Make, at least from what we can see from the outside in, you all had an incredible effort to improve that quality of the product to benchmark against competitors like Lovable and Bolt, and you came from behind, and the quality of the product got a lot better. You then turned on monetization, and usage went up, and it was incredible.
+Customers took a step back and said, "Ooh, this usage thing is getting a little bit expensive." It coincided with the same period of time where we went from token maxing to actually thinking about value. Figma Make monetization seemed to do a little bit of an umbrella shape in the quarter. My shorter way of asking the question is, what did you learn from Figma Make in terms of monetization?
+## Dylan Field | Founder and CEO, Figma
+Well, I think first of all, it's this odd thing where you talk with customers and they're not always quoting price as the reason that they're not adopting.
+## Gabriela Borges | Analyst, Goldman Sachs
+Okay.
+## Dylan Field | Founder and CEO, Figma
+When you find people that are not adopting. At the same time, you have to be asking in the back of your head, is it price? That's an example of one part of the thinking, of course, there's more, that went into decreasing the cost of credits recently. We decreased them quite a bit, in some cases, half of the cost is what it costs now. I'm really excited about just what the industry's been seeing here-
+## Gabriela Borges | Analyst, Goldman Sachs
+Yeah
+## Dylan Field | Founder and CEO, Figma
+without commenting on specifics that we haven't shared yet. In general, as prices go down for this stuff, then you see usage increase. I think that Figma Make, it's not just about pricing packaging that you learn from. There's a ton that goes into actually building these products in the right way, and I think it's not yet appreciated that Figma Make is Code Layers. It's the same thing. It's just in a different context.
+## Gabriela Borges | Analyst, Goldman Sachs
+Okay, this is really interesting. Most investors, when they hear that we cut the credits by half, will say, well, one of two things has to happen. It's great that usage is going up because cost has come down, but either Figma's cost to providing each of those credits also has to get cut in half or you have a gross margin problem.
+How do you respond to that?
+## Dylan Field | Founder and CEO, Figma
+Well, first of all, I think that we've already seen year-over-year how the cost of tokens
+## Gabriela Borges | Analyst, Goldman Sachs
+Absolutely
+## Dylan Field | Founder and CEO, Figma
+in the frontier models is decreasing significantly, sometimes in an order of magnitude way. Secondly, there's two things at work. One is there's a lot of ways to cut cost, as long as you're not also cutting quality.
+## Gabriela Borges | Analyst, Goldman Sachs
+Sure
+## Dylan Field | Founder and CEO, Figma
+when it comes to serving users. On the other hand, and I think this would be the primary objective for us and likely for most other companies we speak with right now, the opportunity is to drive volume. And I think it's much more important if you're going to stack rank the two right now to, first of all, raise the amount of volume flowing through these systems.
+## Gabriela Borges | Analyst, Goldman Sachs
+Yeah.
+## Dylan Field | Founder and CEO, Figma
+Secondly, to figure out how to do so most efficiently.
+## Gabriela Borges | Analyst, Goldman Sachs
+Yep. Okay.
+## Dylan Field | Founder and CEO, Figma
+That speaks to our priorities.
+## Gabriela Borges | Analyst, Goldman Sachs
+Absolutely. I hear you on the cost of tokens from the frontier models.
+What other levers do you have in place at Figma to keep the quality of the tool while also being able to deliver the new pricing model?
+## Dylan Field | Founder and CEO, Figma
+Well, the corollary point of the incremental progress that I mentioned in terms of frontier models is that if you look at the models from three months ago, six months ago, they are not lagging by that much when it comes to design and the abilities to do front-end work. I do think that coding as a market, not at all saturated, but when it comes to the abilities of code, of design, we will see how much model improvement we get to on the frontier. Partially because, as you get to larger and larger refactors, that is probably where we will see progress going forward on the coding side. Looking back on the design side, we have not seen as much beyond incremental improvement so far. But I do think that there is a lot more you can do to boost on the areas of design overall.
+Partly, I think the trade is one of when you are optimizing a model in post-training, if you are optimizing for code, it actually makes the writing worse. It makes a lot of other things worse, too. There are some trade-offs there in terms of what you are trying to optimize for overall, which they change as you scale up models, but they are still there.
+## Gabriela Borges | Analyst, Goldman Sachs
+What has the feedback been? What have you observed since you took the credit pricing down?
+## Dylan Field | Founder and CEO, Figma
+Unfortunately, not much to share today. But tune in next earnings call. Sorry.
+## Gabriela Borges | Analyst, Goldman Sachs
+No, I get it. Just to make sure we understand this correctly, the reason that that was the right strategic decision from Figma was in response to customers saying that pricing was too expensive? It sounds like it was more than that.
+## Dylan Field | Founder and CEO, Figma
+Well, first of all, you can find anything you want to find in user feedback always at scale.
+## Gabriela Borges | Analyst, Goldman Sachs
+Sure. Yeah.
+## Dylan Field | Founder and CEO, Figma
+I would say that, at the end of the day, you also have to look at it and just go, okay, would I be a buyer of this price point or not? If it's too high, then you can just have an honest reaction to that, too.
+## Gabriela Borges | Analyst, Goldman Sachs
+Right.
+## Dylan Field | Founder and CEO, Figma
+I think we all did the gut check, invariant of customer feedback, and went, this feels a bit too high, and it's most important to get the usage of the system.
+## Gabriela Borges | Analyst, Goldman Sachs
+Got it.
+## Dylan Field | Founder and CEO, Figma
+and the volume growing.
+## Gabriela Borges | Analyst, Goldman Sachs
+You mentioned that one of the main reasons why people are not adopting Make is not necessarily price. What are the biggest kind of bottlenecks that you've seen from your customers?
+## Dylan Field | Founder and CEO, Figma
+I think that for a while, it was quality. We've since, I think, improved the quality to a place where, I'm actually loving Make now, and I'm using it for a ton of use cases, both internally at Figma as well as at home. It's incredible what it can do with a single prompt and also the aesthetic that you get. It'll get better over time. But really important is to be able to bring all that knowledge and context you have in Figma to not just Make, but also Code Layers to Agent, and make it so that all these systems work together in parallel.
+## Gabriela Borges | Analyst, Goldman Sachs
+One of the bear cases we hear is that as AI is democratizing design, something that is democratized for the portions of the professional workflow often becomes less valuable. Longer term, where do you see the role of a professional designer evolving? Share with us what you are seeing with your customer base today.
+## Dylan Field | Founder and CEO, Figma
+Well, I think that the workflow overall is where we're seeing the most divergence. Everyone's kind of scrambling, trying to figure out, how do I work in an AI world? This is across all disciplines. But especially with design, where it was a very linear workflow for a while, that's something that people have really been trying to figure out and looking to us for answers. We're still looking at how we work, how the world works. But I think one thing that's becoming clear is we're seeing a lot more of desire to prototype up front to get past that blank page problem, but then refine overall. As you refine, to really iterate, ideate, think through the problem, both in design and code across mediums, then from there, go build.
+If I was going to abstract it out, that might be some of the clear signposts. Along the way, you might be making decks, you might be brainstorming, you might be creating visual assets. There's so much that is embedded in that workflow, but you kind of go in and out of it. It's really important to be able to have these clear ways to hand off work and also to acknowledge the power of code at the start of the process.
+## Gabriela Borges | Analyst, Goldman Sachs
+Fantastic. I think we can leave it here. Please join me-
+## Dylan Field | Founder and CEO, Figma
+Thank you
+## Gabriela Borges | Analyst, Goldman Sachs
+in thanking Dylan for his time. Dylan, thank you.
+## Dylan Field | Founder and CEO, Figma
+Thanks, all. Appreciate you having me.
+Data Source: Quartr Last updated: Sep 8, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

@@ -1,0 +1,241 @@
+TITLE: Wells Fargo 21st Annual Healthcare Conference
+DATE: 2026-09-09
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. Welcome back. I'm Larry Biegelsen, the MedTech Analyst at Wells Fargo, and it's my pleasure to host this session with the management team from Intuitive Surgical. With us, we have Jamie Samath, Executive Vice President, CFO, and Enterprise Technology Leader, and Dan Connally, Head of Investor Relations. The format is a fireside chat. Jamie andâ Dan is going to read the safe harbor statement first.
+## Dan Connally | Head of Investor Relations, Intuitive Surgical
+Just real quick. Comments in today's session may contain forward-looking statements. Actual results may differ materially from those expressed or implied as a result of certain risks and uncertainties. These risks and uncertainties are described in our Securities and Exchange Commission filings, including our most recent Forms 10-K and 10-Q, which you can find through our website at intuitive.com or at the SEC's website. Investors are cautioned not to place undue reliance on such forward-looking statements.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Thanks, Dan. Thank you for being here.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. Happy to be here.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Jamie, I wanted to start with procedures with the focus on the U.S. We have seen U.S. procedure growth slow recently and your comment about law of large numbers, I think concerned some investors, to be candid. My question is, what framework would you use to help people estimate U.S. procedure growth going forward?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. I appreciate the question, and I know there is a lot of focus on the U.S. business right now. Let me zoom out for a second. I would say our focus first is on global procedure growth and on all procedure types, so including Ion. That is how we think about how we do capital allocation, how we incent our sales force. We have significant opportunities to drive the global. U.S. is about 60% of our business, and it has decelerated, as you have described. We said on the Q2 earnings call that there was a modest impact from lower Affordable Care Act subsidies. The way we think about the U.S. business is procedure by procedure. We draw adoption curves for each of them. If I think about that business, you have prostate in the fourth quartile of adoption.
+You have cholecystectomy, the largest procedure category in the U.S., in the second quartile. You have appendectomy in the first quartile. We model each procedure on an adoption curve, and it also then ties to how we focus and how we invest, where they are relative to the size of the market. The total U.S. procedure growth then is a summation of each of those procedures and where they are. We think that we have a significant opportunity in the U.S., particularly benign general surgery. We have a couple of procedures that are early and have just been put on the beginning points of adoption in cardiac and nipple-sparing mastectomy. Over time, we think we have the opportunity to add additional procedures to the beginning of the funnel.
+The way that we think about the market is a significant and attractive opportunity for us, and we think that we can continue to bring procedures to the beginning of that funnel. Of course, there are some dynamics in the marketplace right now. Affordable Care Act, as I described.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+That's helpful. Which are the procedures that are going to drive the most growth in the U.S., let's just say over the next two to three years?
+## Dan Connally | Head of Investor Relations, Intuitive Surgical
+Yeah, I think broadly, just thinking about 2026, expect the growth drivers to be consistent year over year. Jamie mentioned, general surgery and specifically continued growth in after-hours procedures, so chole, hernia repair. In addition to that, obviously, we have some procedures at earlier stage opportunities like Jamie mentioned, cardiac and nipple-sparing mastectomy, as well as significant opportunity remaining in general surgery.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+I guess, could we see. Let me just ask a blunt question. Could we see U.S. procedure growth dip below 10% in the second half, given the tougher comps and the ACA subsidies expiring?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I'd just say, obviously, we don't guide at the regional level. What we did in our last earnings call was provide the guidance range of 13.5%- 15.5%. Again, that's global. We said it's likely to be towards the midpoint of that range. That range does reflect more difficult second half comps compared to the prior year. Obviously, we incorporated our best estimate of the kind of ACA dynamic that we described on the Q2 call. Again, we're focused on the global total and the U.S. component is reflected in that range.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+I was surprised when you talked about U.S. procedures, you didn't mention the ASC opportunity. Sorry. I know that's not a specific procedure, but it seems like a big opportunity for Intuitive.
+## Dan Connally | Head of Investor Relations, Intuitive Surgical
+Yeah, I think we described that starting in January of this year on the fourth quarter call as an opportunity over the long run. It's not going to be linear, but think that's a significant opportunity kind of enabled by growth and reconditioned Xi, right? We've had two quarters of that thus far, and I think in Q2, we placed 27 systems into ASCs, which was more than cumulatively over the prior couple of years. 20 of those were XiRs. Certainly supportive of growth in the mid to long term in that side of care.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+That's helpful. Okay. We'll probably come back to procedures and in the context of the Extended Use Instruments program, but I wanted to ask about capital equipment. There's obviously concerns about the capital equipment environment, just given the profitability issues at hospitals today, given some of the policy changes. What's your view of the state of the capital equipment environment, maybe U.S. and globally, and how are you thinking about the outlook?
+## Dan Connally | Head of Investor Relations, Intuitive Surgical
+Yeah. So through Q2, U.S. capital has been stable and relatively strong. I think OUS has been a little bit more mixed and kind of market by market. In Q2 in the U.S., we placed 267 systems. That was up 24% year over year, I'd say enabled by continued adoption of da Vinci 5 and also system upgrades. We had 28 Xi reconditioned in the U.S., 20 of those into ASCs. I think some customers looking back have expressed concern or caution over ACA enrollment. That's not new. We've been describing that as potentially having some impact, but we have not seen that, again, through Q2 in the U.S.
+Part of that is as a result of only a small portion of customers in the U.S. acquire their systems outright via purchase arrangement. Roughly 70%-75% of the systems that are going out in the U.S. typically happen on a non-purchase arrangement. Outside the U.S. is more market by market. In Q2, I think we placed 201 systems. That was up 12% year-over-year. Asia was up 9%, Europe up 8%, rest of world up 27%, so fairly broad-based. It's early outside the U.S. on da Vinci 5, but customers are responding. They're also responding, I'd say, to increased availability, and around Xi R and X, and so getting the opportunity to have Gen 4 capabilities in their technology as they start programs.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+What about this 340B program? It's not super familiar to med tech investors, but it's kind of been bubbling up as a concern. Is that something, when you think about changes to that program, that you feel it could have an impact on capital?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I think it's early. We've been obviously reading everything the same as you all. I think there's kind of two schools of thought. The first is that related to pharma, there'll be less funding. That has an impact on hospital financials and therefore perhaps indirectly on what they put in their capital budgets. On the flip side of that, it's likely that outpatient surgical reimbursements go up for CMS, and so obviously that could have a beneficial effect for Intuitive and those in the surgery business. I think it's too early to really say what the dynamics may be in terms of an impact. We're also watching what happens to Medicaid funding over time. But, we're not making any specific comments about how that might impact our business because it's just too early.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+That's understandable. Let me switch gears to competition. We've had some recent news, give you a chance to respond. Ottava obviously got cleared in the U.S. I guess two questions. One is just reaction to their feature set. Do you think it'll resonate with some customers? In terms of pausing, you've always talked about competition could elongate the selling cycle. What are your expectations?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah, I'd just say first, the basis of competition from our perspective is not just the robot, it's the full ecosystem. It's your software capability and the ability to update the software over time. It's the AI feature set, so it's the full integrated product portfolio that's the basis of competition. In terms of that architecture, we've looked at many architectures, including table-mounted, over the years, and we've made conscious choices with respect to the trade-offs between the various architectures. I think we feel good about our product portfolio. We have a segmented system portfolio that I think gives us some advantages.
+In the U.S., da Vinci 5 has resonated strongly, and da Vinci 5 gets better over time. We do about a major software update once a year. I think we're competitively positioned, again, both with da Vinci 5 and its capability and the full ecosystem, so I think we feel good about our ability to be successful in the U.S.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+What is it about table-mounted that you said you've looked at it that you think might be a disadvantage versus what you offer for boom-based?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. The physics of it, at least from what we've looked at, is the way in which the arms deploy and get configured can give you restrictions on patient size and on the breadth of procedures you can do. The boom-mounted architecture the Xi and da Vinci 5 have, we think there's an advantage there.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+That's helpful. And then reaction to the Medtronic Cornerstone agreement , which is more international.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah, I'd say in conjunction with our JV in China, we've looked at basically all of the competitive systems in China. Many of them are X or Xi kind of lookalikes in terms of their form. I think we feel good about our product portfolio and our ability to compete economically and feature-wise. I'd just say for an arrangement like that, you have to think through how do profits get shared, how do the ecosystem converge, how do you do product development jointly. I think that those can be challenging attributes of an arrangement like that.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Makes sense. Jamie, international, I know we've focused a lot so far on the U.S. International has been strong, as you mentioned. But there is increasing competition outside the U.S. as well, and you can add up the placements from some of these companies. It's pretty significant in the aggregate. So the question is, can you continue to drive strong growth outside the U.S. in light of this?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+OUS is a significant focus for us. We think the opportunity is also significant. It has obviously lower relative penetration from a procedure perspective. I think we have a number of competitive advantages internationally. The segmented system portfolio with X and Xi R is a good fit for many of those markets because they're cost-constrained, and a number of them are government-funded healthcare systems where obviously there are budget pressures, and we have da Vinci 5 for the premium accounts. Extended Use Instruments 2.0 that we're going to talk about, I think also gives us an opportunity, along with da Vinci Xi R, to compete effectively where there are cost constraints, where economics are a greater proportion of how they make the decisions.
+There are obviously a number of players internationally. Many of them are, let's call them local players. There's some desire locally for those companies to succeed, so you have to compete with that. Competition is intense in China, which we've talked about, and is obviously to some extent manifested therefore in our capital placements, along with just much slower tender activity. We have the full ecosystem. Many of those players do not, and so I think we're well-positioned.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Back to the Ottava question. I asked about elongation of the selling cycle. Is it just too early? Obviously, 2027 is going to be a kind of a limited launch for them.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+In the U.S., obviously, we've seen Medtronic launch with a urology clearance, and we haven't yet seen any change in selling cycles. And obviously, we'll see what happens with Ottava.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+It could.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+It could. You think 2027 would be too early just given limited launch or just TBD?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I think it sounds like they will do a measured launch. They do not have the full ecosystem, so it sounds like it will be a couple of years for them to get going.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Right. Okay. All right. The Extended Use Instruments program, I guess there is really two questions. One is any framework, anything you could offer. I know it was too early on the Q2 call. Anything you can offer to size it relative to the last one you did, which we know, number one. And number two, help us understand the return on investment and why it is going to be positive and it is going to stimulate, I assume, procedures and offset some of the costs.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. I just maybe zoom out to the strategy for a second. We talk often about the Quintuple Aim, and that's from our perspective, an expression of our customers' objectives, and we integrate that into our strategy and how we allocate capital. One of the elements of the Quintuple Aim is that you lower total cost of treat over time. Obviously, that's a function of the financial pressures broadly in healthcare systems. We invest there, and we look to lower total cost of treat through many ways. You can do it by lowering complication rates, by saving on finite resources, through innovation in your products, and you can do it through price. We'll do any combination of those.
+The Extended Use Instruments have been investments from our engineering teams over a number of years, and we generally apply the experience curve theory to how we think about product costs. As volumes grow, and we've been growing every year basically except COVID in 2020. As volumes grow, you should get benefits from economies of scale and through the accumulated experience of manufacturing your product to allow you to lower product cost. For us, that gives us an opportunity to pass that on to customers, particularly where there's elasticity. That's a core part of our strategy, and I think that's a tried and true strategy across many industry segments. We think it's, in many regards, an obvious thing to do because you pass on a competitive advantage to your customer in places where it really matters.
+The 2027 program is directionally similar to the 2020 program. It will lower INA per-use cost for our customers that will be mostly targeted at those procedures and markets where they're more cost sensitive, and therefore, where we think we can get an elasticity response. In terms of the 2020 program, how do we judge success? We look at three things. What happened to procedure trends before and after? Second is the actual economics of those procedures post the change. Third, customer feedback, and so we kind of put that together. You don't have, obviously, A/B testing, so you can't do a perfect ROI analysis, but the combination of those data points gives us pretty high confidence that it was the right decision. I think from a strategic perspective, the virtuous cycle is an obvious strategic opportunity to follow.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Just to clarify, directionally similar to 2020, you're saying basically the-
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+In terms of construct of the program, I am glad you asked that. Quantification, we haven't provided yet, and we will do so on the Q3 call. When I say similar, it is in terms of construct. The impact, we will talk about in Q3.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. So directionally similar to 2020 did not mean the quantification.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+That is right. Yes. Correct.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Maybe you can tell us what. Maybe then you can hint to that one. No, it's too early. You'll say that.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+It's too early. We're going to do that.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Q3 call.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Q3 call.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+The reason for that is, as you know, we did a press release with an integrated set of capabilities that were coming to customers. That press release was targeted at customers just given the size of the number of customers that we have. We included Extended Use Instruments in there knowing it was coming in 2027 because that then gives us the opportunity to engage customers in how that program is going to work. We wanted to make sure we had the opportunity to engage and reflect their feedback in the ultimate exact kind of prescription of how it would operate, including the benefit to customers.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Back to the procedure growth question earlier, could the Extended Use Program stimulate procedure growth in the U.S.? Could this accelerate procedure growth?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+That is the intention of it, and that is why we focus it on those areas where we think there is elasticity, not just in the U.S., but globally.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Right. People who may be concerned, and a lot of investors are, about the deceleration of U.S. growth, this could be a tailwind.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+This is one of the opportunities to have an elasticity response that has a benefit to procedure growth, yes.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay, I got it. Sticking with INA, remanufactured instrument, what are you seeing in the field? I think at SRS, in the video we did, Dave, your CEO's commentary suggested, look, cost matters. There is some interest in this. What can you say about what you are seeing in the field?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah, for the data that we have, usage is growing. I would say it is growing from a relatively small number to still a small number. From our perspective, we think that the reliability, product quality, the product safety embedded in our products matters, and customers value that. We have and will continue to innovate, and I think that that gives us a good basis to compete effectively.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Does the Extended Use Program change the attractiveness of third-party alternatives?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I think to the extent the economics are a dimension of the relative decision making between the two, then it must have some impact, yes.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+We've gotten asked this question, I'm curious to hear your view. Could Intuitive, because we've seen it, I think, in other industries, could Intuitive come out with its own remanufactured instruments?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+There's no plans that I'd highlight at this point. We think the product set that we have allows us to compete effectively.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. All right. Switching gears to the endoluminal GI system. The FDA summary has been posted, so we know a little bit more. I guess my question is what's next in terms of the process and the timeline? What can you share?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. Really, it is around remaining engineering work, what the associated regulatory pathway would be once we start to get through that. You have to develop clinical evidence. In programs like that, you may also have to do work on reimbursement. We are not being specific about timelines yet because it is too early. I think as we knock down our internal milestones and make progress, we will provide updates accordingly.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+It does not have instruments yet, or any kind of disposables that we are aware of. Is it going to be like a razor blade model like you have with other systems?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+You should expect it to have some similarity in that, but I would not go beyond that.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. Some similarity.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+You took this approach with SP, and I think where you had a system cleared, but the system you launched was four years later. You told me that that wasn't a good analog because it's too long or too short.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I would go back to what I said. It's not a good analog. It's an N of one, and really, it's a function of product specific characteristics that define the timeline and for the buckets that I described, how much engineering work is left to do and what regulatory pathways do you go through? Part of the work on SP was to bring it into the da Vinci family. So that SP that was cleared had its own surgeon and vision console, and we wanted to harmonize it with Xi. That's an example of a product specific difference that impacts the timeline.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+When do you think you'll be in a position to give us more clarity on the timeline? Obviously, people care about that.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. I'm not going to give a specific quarter or date at this point. As we make the progress-
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+I would take a year.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Okay. I'll take your input.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+But seriously, when can we get a little bit more clarity?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. We don't have anything specific in terms of when you'll get the next update.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. Just last one, I think on this. How would you frame the long-term opportunity for this new system? Is it small, medium, large?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. It's too early for us to give any sizing. I'd just say we invest to be differentiated, to make an impact in the targeted disease states, and obviously, we want to make an attractive return.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+One more on new systems. Is it not this one? People have speculated that Intuitive is going to come out with other new systems. Is that reasonable that there's more? Would you expect more platforms over time for different therapeutic areas?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+We're always investing in next generation systems, including for the existing systems we've got in MultiPort, da Vinci SP, and Ion. In terms of new platforms, obviously, Ion was our first departure from surgery back in 2019. Now there's this GI robot. We have investments in additional platforms, yes.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+That's helpful. We didn't talk about China. I think on the last call you said China was actually in line with or slightly above global procedure growth, but there's a lot of dynamics there, new pricing model for procedures, I think like a DRG system or something. What's the outlook for China?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. I'd just say first, it continues to be a large and strategic market from our perspective. Obviously, it's faced headwinds over the last couple of years. That's both been intense competition given the number of local players that have emerged, and we've seen slower tenders. There's about 250 systems left in the existing quota. Really, as a consequence of that, our system placements have been muted relative to previous periods. Given the high utilization in China, to the extent that you're placing lower systems, you're then constraining the capacity for procedure growth.
+There is a new centralized tender process coming that's largely intended to remove waste from the disparate tender processes that operate today. We think that there are new charge codes coming. We think we get clarity on both of those in 2027. We still don't yet have great visibility as to when the momentum in that business shifts. We think we get a lot of insights in 2027 from those two things.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+You have some sense of optimism for the market in China. Is that what I'm hearing? It's been a tough market for most med tech companies.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I'd say we'll judge the degree of optimism when we get clarity on the charge codes and on how the centralized tender process works relative to tenders speeding up and being issued at a greater rate.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+While we're on Asia, Japan, you've talked about the new reimbursement there benefiting 2027. Could we see an impact sooner than that, given those go into effect, I think, in June?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+You'll start to see uptakes in those procedures that got the incremental reimbursement. The largest procedure that got reimbursement was inguinal hernia. But the rate at which they grow from basically zero means the impact actually on the total isn't that large. It isn't until you get into 2027 when you've been able to do the work to train the surgeons and ramp the business that you don't really see it become large enough until 2027.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Sorry to jump around, but on bariatric, are we starting to see a trough? It's surprising how long it's just been continuing at a similar rate, declining at a similar rate in the U.S.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. Not based on the procedure trends we've seen through Q2.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Not yet. It's a stable decline, but the decline hasn't yet approached zero.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Because you can do the math on that.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yes.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+That was a growth driver for you, and now it's a headwind, so it's had a meaningful impact on your U.S. procedure growth.
+## Dan Connally | Head of Investor Relations, Intuitive Surgical
+Yeah, U.S. bariatrics is a little bit over 2% of total global da Vinci procedures. So the incremental impact has definitely moderated a little bit over time.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+When the decline started, it was a higher percent, I believe.
+## Dan Connally | Head of Investor Relations, Intuitive Surgical
+Close to a little over 5%.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Right. It is a big change. AI and digital. I guess, Jamie, talk about how you are monetizing AI, the Case Insights subscriptions. I guess, can you offer any insight to help investors try to model this and give you more credit for it? Because the service line, that is where it is booked, and that has been accelerating.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah, I will let Dan take the first part of that, and I will add some comments.
+## Dan Connally | Head of Investor Relations, Intuitive Surgical
+Yeah. Our first presentation, My Intuitive+ bundles three components, Intuitive Telepresence, Simulation, and Case Insights. Case Insights, I think we've been pleased with the response thus far. I think there's an opportunity to bring more value, enhance the performance of that, especially as we get deeper with Force Feedback instrumentation, so that force data ultimately will flow back into Case Insights. I think we expect broader availability of the Force Feedback instrumentation here in the second half of 2026. Mechanically, it's included complimentary in the acquisition of a da Vinci 5 for the first year. I think in Q2 of this year, we anniversaried the first year of those evaluations. No customers opted out to start. I think we'll get a little bit more data on the experience as we go into the second half of the year.
+The list price on that is about $40,000 per system per year. We'll ultimately assess the recognized pricing and the renewal rate as we have some more experience. That will show up in the service line, as you mentioned. I think more broadly, think of the capability on Case Insights as sitting in the second layer of our five-layer AI stack. So that's good data, meaningful insights, intraoperative guidance, augmented dexterity, and then ultimately, surgeon-supervised autonomy.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I'd just say from a strategic perspective, over time, AI will be a core value driver in robotic-assisted surgery and other robotic intervention platforms. At least that's Intuitive's belief. We think we have some competitive advantages in AI. Obviously, the accumulated size of the data set that we have, but we also have unique data streams that on an interconnected basis then provide an advantage relative to what you can do with AI. I think we're excited with what our research teams are doing and what's in our engineering labs in terms of the work that's being done. With respect to monetization, there's really three ways they get monetized. You can charge the customer for it, as we do with My Intuitive+, as Dan just described.
+You can have it be integrated into your products and capabilities so that your win rates and stick rates are higher, and you can also use it to actually increase our own efficiency of how we engage with customers. That's the way we think about it in terms of value creation.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+That's helpful. Jamie, turning now to everybody's favorite topic, 2027 puts and takes. Just maybe on the revenue side, start with maybe some of the tailwinds and headwinds to consider, please.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. In terms of our focus for revenue growth, maybe four buckets. First, of course, core to us is procedure growth. That's U.S. benign general surgery, OUS procedures broadly, and Ion. Second bucket is da Vinci 5 upgrades, which have increased quite a bit in recent periods. Third is the opportunity for adoption of Force Feedback da Vinci 5 and SP instruments, each of which were accretive to INA per procedure. Then the fourth bucket I'd call kind of the new. So new sites of care like ASCs, expansion to ASCs, new indications, ramping cardiac and nipple-sparing mastectomy. Then, we've been adding countries, and we'll continue to do that in terms of countries we serve. So, for example, in the last couple of years, we added Croatia, Peru, Morocco, and we'll continue to bring da Vinci to countries that we've not been in.
+In terms of revenue headwinds, I think the only thing I'd really highlight is, one, we'd expect OUS leasing rates for systems to progressively increase over time. It's relatively lower as compared to the U.S. Second, just if you look at where growth will come from on an increasing basis for procedures, it will increasingly be benign procedures and OUS procedure growth. Benign procedures typically carry lower INA revenue per procedure. OUS geographies, a subset of them are cost-constrained, and so that just has a mixed effect in terms of what INA per procedure will be over time.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+You didn't mention the Extended Use Program, I don't think.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+The Extended Use Instruments program will have some impact in 2027 that we will detail in the Q3 call.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. I guess just to follow up on that, is it possible that the Force Feedback in da Vinci SP accretive aspect offsets the EUP?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I think there is a mixed dynamic there along with growth in benign procedures, which probably net to Intuitive Surgical revenue per procedure coming down slowly over time.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. That is helpful. P&L, puts and takes, please.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. Obviously, we'll give our guidance in January. I think the only thing I would say is, and this isn't a 2027 comment per se, but given where our operating margin is, 41% for the first half, we have the room to invest in innovation and to drive growth. We retain that optionality as we complete our planning process. But we think that there are cases where it makes sense to incrementally invest if you can drive those, if you can accelerate your programs or if you can drive growth in a different trajectory.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Historically, you've said 35%-40% is the target. Is that still intact?
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yes.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. One procedure question. Cardiac. In the past, you've defined it at least, please correct me if I'm wrong, about 160,000 globally. Is that still the case? Because we get a lot of questions on cardiac, and the perception is it's really big. But 160,000 globally, I wouldn't say is one of your bigger procedures.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah. I'd analogize it to how we do the line-of-sight framing, right? In the line-of-sight framing, we say we've got the products and the rest of the ecosystem that allows us to pursue X number of procedures, and that's how we framed it today. But we look to expand line-of-sight each year. If you look at the 9 million that we talk about, we've expanded that each of the last three years. We have the opportunity to expand the line-of-sight opportunity to 160,000 in cardiac over time, but it takes work, including product development.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Okay. But today, 160,000.
+## Dan Connally | Head of Investor Relations, Intuitive Surgical
+Yeah, and just to be clear, that's only on cleared indications in U.S., Korea, and Japan. So there are opportunities over time, as Jamie described, as we invest to expand that.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Got it. Jamie, capital allocation. We've typically seen Intuitive do large accelerated buybacks when the stock is under pressure. We have not seen you do one, I don't think, this year.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+I'd just say last year, we spent $2.3 billion on buybacks. In first half, we spent $1.5 billion, and we didn't use ASRs to do that. I think there are different tools that you can use to do the buyback, and so I think we feel good about the tools we're using.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+All right. We've covered a lot of ground. Even though it says we're almost out of time, we can take another minute or two, but I really do want to give you an opportunity to make closing remarks. Obviously, we covered some of the areas of concern.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Yeah.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+To be honest, you remember when you had some of the issues for hysterectomy in 2014, 2015? Probably haven't seen as many concerns around Intuitive Surgical since then from an investor standpoint. Just want to give you an opportunity to highlight some of the positive things.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Well, I'd just say the Quintuple Aim has significance in terms of how we operate, and innovation is core to our success. I'm going to reflect on history for a little bit, for a second. If you look at first half revenue growth, 21%, last year's revenue growth, 21%. Our long-term average has been 14%-15%. That 21% last year in the first half is largely a function of innovation that leads to higher prices for all the revenue line items for da Vinci 5, for example. If you look at operating margin, last couple of years, 37%, first half, 41%, and our long-term average for operating margin has been about 37%. Our earnings per share growth in the first half was something like above 30%. Last year, we grew 22%. In 2024, we grew earnings per share 28%.
+On the financial measures, what you're seeing is performance that's actually above our long-term average. Even if you look at free cash flow margin, first half free cash flow margin was 31%. That's about as high as we've done in our history. Our long-term average is more like 22%. On the financial metrics, I think what you're seeing is the impact of the strategy and the innovation that drives some power in the P&L. I understand the concern and the focus on U.S. procedure deceleration, but I think, I'd just emphasize what you're seeing in the financial profile of the company, which I think reflects a differentiated portfolio and a differentiated position in the marketplace where we're creating value for our customers.
+## Larry Biegelsen | MedTech Analyst, Wells Fargo
+Perfect. Thank you for being here.
+## Jamie Samath | EVP, CFO, and Enterprise Technology Leader, Intuitive Surgical
+Thank you.
+Data Source: Quartr Last updated: Sep 9, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (3) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

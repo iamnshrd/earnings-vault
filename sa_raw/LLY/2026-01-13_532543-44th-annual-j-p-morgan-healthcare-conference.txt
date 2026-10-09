@@ -1,0 +1,225 @@
+TITLE: 44th Annual J.P. Morgan Healthcare Conference
+DATE: 2026-01-13
+## Chris Schott | Managing Director, JPMorgan
+Good afternoon, everybody. I'm Chris Schott at JP Morgan, and it's my pleasure to be hosting this fireside discussion with Dave Ricks, Chairman and CEO of Eli Lilly. Always a highlight of the conference for me. Dave, happy new year. I know we're going to have some initial quick presentation, and we'll jump into the Q&A from there. So I'll turn it over to Dave.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Thank you, Chris.
+## Chris Schott | Managing Director, JPMorgan
+Yeah.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Great. Thank you, everyone, for being here to listen to us and happy new year to everyone. It's an important year here for Lilly. It's our 150th year in existence, which I think makes us the most valuable old company in America.
+## Chris Schott | Managing Director, JPMorgan
+Yeah.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+So in addition to celebrating that, we have a lot to look forward to this year. I think last year at this conference, we were coming off a year where we were really sort of had our first full year of obesity launch with tirzepatide and there were lots of unknowns and lots of uncertainties, and I think we exit that year and enter 2026 with a lot more known and a lot more certainty.
+From a portfolio perspective, of course, tirzepatide is an incredible molecule that's changing the lives of millions of people around the world, b ut we've been working hard on follow-on pipeline products.
+And in the year, I think we saw phase III data on the full program for orforglipron, our oral GLP-1, which I'm sure we'll talk about in the Q&A, as well as the first set of data on retatrutide, our triple-acting incretin with really remarkable weight loss up to 29% in a certain population. We've got several more studies coming on retatrutide this year.
+Additionally, we started two more phase III programs in this category, our eloralintide, our highly selective amylin agonist, as well as brenipatide , a follow-on GIP/GLP-1 inhibitor which we're taking into certain special new and exciting indications in brain health and beyond.
+Additionally, last year was all about supply execution, and we clearly saw in 2024 demand outpacing supply as we entered the year that was an uncertainty that became resolved. I think Lilly and our manufacturing team executed with excellence. We've invested a substantial amount of capital in new sites and capacity, actually most of which is not yet online, but will be coming online in the coming years, b ut I think it's safe to say with that execution plus the success of the orforglipron program, the days of supply shortages in this category are largely behind us.
+Additionally, access to medicines was out of reach for many. While there was growing commercial access, consumer channels weren't fully developed, and importantly, government channels were really limited.
+We collaborated closely with the Trump administration and were able to expand access in this category and very much looking forward to a big event this year, which is the opening up of the Part D benefit for patients who suffer from obesity and its consequences, and then in Medicaid programs rolling through the year. We do expect commercial spillover of both those events.
+And the last point here of direct patient engagement, we also made a huge amount of progress. It's another form of access, is giving people choice about where and how to buy our medicines. LillyDirect, our self-built, self-run platform, now serves about 1 million people and is highly successful, maybe the most successful, online pharmacy in the history of this country. So a lot of progress as we enter 2026 and a huge amount of momentum.
+I mentioned the expanding portfolio, those five assets in phase III or tirzepatide launched in certain indications in phase III are shown here, but also to point out that we have six additional phase I and phase II programs in the clinic. And as of today, might change tomorrow, 34 preclinical discovery programs seeking to serve and improve obesity care.
+We see this as a chance to help over 1 billion people on the planet with a whole variety of maladies that stem from obesity, really a keystone precondition for so many chronic diseases in adults. You see them listed here, but maybe most important are the two new ones at the bottom, which are less obvious, which is what are the effects of these medicines on brain disease, not just addiction but also mental health and potentially pain and beyond, as well as inflammatory processes.
+We had an interesting study readout for retatrutide I already mentioned, and another one with Taltz, our IL-17 agonist in PsA, plus Zepbound, which showed a remarkable enhancement in inflammatory markers and inflammatory symptoms in PsA. So I think we're just at the beginning of seeing beyond metabolism what these medicines can do.
+And if that gets you excited about Lilly, let me talk to you about the other 75% of what we do. These are our manufacturing sites, but our pipeline is actually mostly not incretins and mostly not obesity. We are a diversified and broad pharmaceutical company, and we have many late-stage projects. I'd just highlight lepodisiran and its sister program in muvalaplin, which is our Lp(a) programs, both oral and siRNA, really potentially serving millions and millions of people.
+We have exciting programs emerging now in oncology where I think for many, many years we would have maybe a phase III start every five or six years. Here you see four new medicines in phase III right now for Lilly in oncology. And then other recently launched programs.
+A nd of course, would be remiss if I didn't mention Alzheimer's disease, including early and preventative Alzheimer's disease, with remternetug and donanemab. I think some of the most anticipated studies in all of industry in the next couple of years. So a busy year on pipeline, really a fantastic year for our Lilly scientists and a ton of momentum as we enter this year.
+Beyond the medicines themselves, we've done a lot of work to differentiate our innovation pipeline. If you think of Lilly as an enterprise that could potentially put a huge amount of capital to work on innovative medicines, on finding discoveries and cures to the most terrible diseases humans suffer, we want to have a capability that's highly differentiated.
+One of the things we've worked on over the last decade extensively is speed. It's a simple concept, but it's hard to execute on. Lilly, currently, we would estimate has a very differentiated speed profile from our large-cap peers. We estimate today we're about three and a half years faster from candidate selection to first introduction, and in some fields of medicine, even faster than that, and by our count, we've launched 24 new molecular entities in the last 10 years, and that would be leading the industry as well as a proof point on that.
+We've worked hard through BD and organic efforts to build out drug-making capabilities that we see as highly differentiated, whether it be ADCs, siRNAs, I mentioned already. A new effort in radioligand, so radiation directed by ligand-seeking combination, which is a very exciting field for tumor shrinkage in the future. And of course, our g en med efforts looking at both specialty care like rare hearing loss but also quite common diseases, as an example, in our Verve acquisition. And speaking of acquisitions, last year we completed 39 transactions. We said 38 before the Christmas break.
+So we're doing a transaction about every nine days at Lilly. Most of these are smaller, $4 billion of capital across all those, but we have time to add value. We have time to partner effectively with those leadership teams and entrepreneurs to bring amazing new medicines to the market. I think 39 is by far the leader in the industry in 2025.
+Additionally, we're innovating beyond that core business. I mentioned biotech engagement, and one of the most interesting things I think we're doing is a kind of loosely coupled the idea of business development, what we call Catalyze 360, creating a surface area that has large pharma aspects without large pharma overhead so that biotech entrepreneurs can plug in to services, to space, to expertise, and now to our TuneLab AI-driven drug discovery platform to enhance their projects, to speed up their work. We exchange value in different ways, but mostly we get to know each other. As of today, we have 180 biotechs involved in the Catalyze 360 program and growing each and every day.
+Last time, we had an exciting announcement with Jensen Huang and the NVIDIA team, really after building the largest supercomputer in our sector, announcing really a robust team collaboration between NVIDIA and Lilly to take on the toughest problems that we face in using massive compute power at scale to make the next generation of medicines.
+This may not work, but I think Lilly and NVIDIA should be the ones that try. We're going to put $1 billion to work over the next five years, team up our smartest people and see what can be done. We're going to build a co-working space here in the Bay Area to do this, and I think it's a super exciting initiative launched last night.
+Finally, as I mentioned earlier, we're reaching patients directly. 1 million served last year. We're doing about 1 million a month actually this year. And we're taking this global. We're taking the show on the road.
+It's clear that consumers, particularly those with obesity, want a direct relationship with the manufacturer. They want to control that experience. They want to understand pricing more transparently. And LillyDirect, which we launched really last year at this conference, has become a very important vehicle for reaching patients in the U.S., and we plan to expand that. It's already in the U.K. operating, expand that around the world.
+So Chris, I'll sit down with you now and we can do a Q&A, but an exciting year for the company. And I want to end by just thanking my team. What a successful performance in 2025. It's January. It's JP Morgan. Let's do it again.
+## Chris Schott | Managing Director, JPMorgan
+Great. Well, maybe just we'll start the conversation on U.S. incretin dynamics. You mentioned 2025, obviously a very successful year for the company. What were some of your biggest takeaways as we think about both market growth and then Lilly's position within the U.S. market?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yeah, well, as I alluded to, I think we entered the year with a lot of uncertainties. What about access? What about supply? 2024 was a very choppy, unclean year to really understand this category. We had trouble forecasting, as did many others. I won't pick on JP Morgan, but it was tough to understand what was happening. There was a lot of demand and excitement, but boy, it was difficult.
+So I think we really stabilized all that. It was a great year of execution for the company. I mean, some of the proof points there are we brought a lot of capacity online and really solved the supply issues, which gave prescribers and consumers a lot of confidence in starting therapy. Because if you didn't know if you could continue, what was the point of starting?
+We scaled this direct platform to consumers, which has really been profound. I know you want to touch on this later, but to think that basically 1 million people a month go online and buy directly from a drug manufacturer, I think, two years ago, that would have sounded like a bit of a crazy idea.
+And that Lilly vials on LillyDirect are basically the second best-selling obesity drug next to Lilly Zepbound in an auto injector. And that's a pretty profound kind of achievement in one year. I think new data came, and it's very exciting. I mentioned the Taltz TOGETHER study, which is a kind of a new branch, but we also read out from Mounjaro the head-to-head against Trulicity, which showed that we were not inferior, but actually on many dimensions, you can see the advantages of more weight loss in people with diabetes. So that was a large study for us and many other things.
+So that was, I think, an important year to stabilize. And now we look forward with expanding access ahead of us, a portfolio going from one to two to eventually three here, probably as we enter 2027, new medicines in this category, a market- leading position.
+And then finally, international, I think, was a big story last year. Because we solved the supply problems, we could begin to introduce the product. We've now launched in over 30 major markets and pretty much all the important markets in the world, and we're gearing up to launch orforglipron much faster in all those markets.
+And what we've learned is that there's really quite a bit of demand not just in the U.S. but everywhere. And it's self-pay demand, which is an interesting phenomenon. So again, big year for us, 2026 sets up to be another important year, but probably more elements of building on that execution success.
+## Chris Schott | Managing Director, JPMorgan
+Yeah. Can we come back to the cash pay demand piece of things? I mean, that's been shocking, honestly, how quickly that's ramped. How has that changed your approach to either go-to-market strategy or patient engagement as you think about future drugs launching through the same platform?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yeah. Well, like a lot of things, that started as a series of kind of solutions to problems that actually no longer exist, but what we've learned along the way has been profound, which is people with obesity, when they go to their physician, often they feel shameful, they feel shamed, they feel stigmatized.
+Frequently, primary care doctors will ask people to try a new diet. I think it's true the average patient in our first set of studies on tirzepatide had tried over 30 diet and exercise interventions in their adult life. And to be told that one more time, when they know there's a solution available, is very disappointing.
+So patients doctor shop, including online for telehealth solutions, and we wanted to upgrade that experience. On LillyDirect, if you want a reference, you can get a certified expert in your community, or you can go online and have a certified obesity expert. I think that's an important thing we did.
+They also want to control the checkout experience and know when things are coming, hearkening back to the supply issues. They want to know the exact price before they buy. And this is a major problem in healthcare. We could dive into that if you want, but most of what we purchase, we don't know the price of, but on LillyDirect, you do. It's listed on the website. That's what hits your credit card statement. And then the renewal cycle is also in their control. They get a text message. It's time to renew. They can do that. So I think that sense of control and discretion has been an eye-opener.
+And it may not be unique to obesity. I think there may be many conditions. People want to take charge of their own health. They find the healthcare system disempowering and opaque, and something like a direct relationship with a company like Lilly could help. So we have big designs this year to improve that experience.
+I'll be honest, it started with sort of a Skunk Works kind of thing. And so we can improve the flow, the checkout, the tech behind it. And when we do that, we can expand to other medicines as well. I think it's going to be a big part of our future.
+## Chris Schott | Managing Director, JPMorgan
+Yeah. Interesting. Orforglipron I know is a big area of focus for this year. Maybe just to start, latest in terms of expected timelines here. W hen should we think about this drug coming to market?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yeah. Well, we control the submission timeline . That's been submitted. We've submitted under a new program, the commissioner's Priority Review Voucher program. I think the commissioner will be here tomorrow, so we can ask him about that.
+They've laid out some guidelines, but unlike other priority review voucher programs, there's not a statutory deadline. But we do expect a rapid review. And I will say qualitatively the review's moving apace, so that's consistent.
+So I think we've said, sometime in Q2, we expect approval. And the important thing is that's in front of the Part D access expansion, and I expect it will be. So we like the data package. We think this is going to be an important drug. It's clean safety, predictable efficacy, really effective in diabetes as well as in obesity, s o we're excited to get that approved early part of the year.
+## Chris Schott | Managing Director, JPMorgan
+When we think kind of more broadly, how are you thinking about the role orals are going to play as we're thinking about patients having more choice than they had before? And do you think, as we all look at this market, is the Street getting this right in terms of that balance of injectables versus orals?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yeah. I mean it's a good question. I think one thing we can, as we look back at the obesity market, it's probably surprised us at every turn. So I'm reluctant to give out very specific numbers or anything like that.
+Our strategy, I'll get to your question, but is actually just to work on targets and modalities and indications that we think can be meaningful. Now, whether the consumer and the physicians find them meaningful, that's what the market tells us, but our job is to serve those up.
+And I think clearly we think an oral modality is meaningful. It's a bit of a technical marvel, I have to say. Hats off to our team as well as the team at Chugai. I mean it's not easy to drug this target with a chemical molecule that's highly scalable, and they've done that and safe.
+So I think there's three big use cases one can think about pro forma here, but we'll have to get in the market and really see. The good news is I think we'll have the broadest portfolio of anyone for some time.
+And those preferences, as long as it plays out where Lilly has a good solution for people, we're kind of agnostic to that. But the first one will be people who have an aversion to needles or maybe that hurdle of the perception of escalating their healthcare intervention from diet and exercise to a medicine that's injected but maybe an interim step is more appealing.
+So there's certainly people like that. When we do market research, we hear about that. And I suspect in different contexts there'll be less needle phobia or more, but it's real. That's a real segment, and we expect most of the initial use to be in that category.
+I think it's helpful that the Part D benefit will kick in about our launch because I suspect actually a meaningful part of that is people with complicated polypharmacy regimens, and this can just fit simply into their polypharmacy regimen, which is versus having a refrigerated injectable and then these three pills and other things to remember. That's a useful thing.
+The second use case is the international markets. I think we've talked about manufacturing last year, although we've solved those problems in terms of developed markets. E ither because of the price points we'll need to get to or the volume we'll need to get to in very populous middle-income countries with large absolute obesity populations like India, like China, Indonesia, Brazil, i t's just not going to be possible to reach those people with parenterally manufactured injectables. That's not going to happen soon.
+So here, orforglipron, I think plays an outsized role internationally. And pleased to say we've submitted this medicine in nearly all those markets already, s o we expect a rapid rollout late 2026, early 2027 as a single-acting GLP-1 choice where maybe there's no other choice because of those refrigeration constraints, the handling constraints, distribution constraints, et cetera.
+The final one, which will play out later in time, but we had some good data in December, is in the maintenance phase. So it's clear that a lot of people, after 18, 24 months, will reach a trough effect of Zepbound or the other products and maybe have reached their weight loss goals.
+And I think there is a natural feeling of, "Okay, what can I graduate to?" We know cold turkey is not a great idea for most people. Some can manage that by changing their lifestyle pretty substantially, but others have trouble doing that and they regain weight.
+Here we took a study. We re-randomized orforglipron after semaglutide or Zepbound and highest dose, and we saw some good results. In the blinded phase, people basically maintained, actually lost a little bit more, weight switching from sema to orfor. A nd they gained a little bit of weight switching from tirzepatide to orfor, but that's expected from a dual-acting to a single.
+Certainly, both arms beat nothing by quite a bit, so having a maintenance option is key. A nd I think, particularly as we get more and more people who've been stabilized on these drugs for a while, maybe think about that, "Hey, I want to move on to something that's more normal in my medicine cabinet." I think orforglipron could play a huge role there.
+## Chris Schott | Managing Director, JPMorgan
+Excellent. Maybe one last one here. I think there's been some questions on statin use with orforglipron, coming out of the conference today. Anything you'd like to comment on that front?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yeah, I heard that. I mean, so in our protocol, I think it's impressive that Novo's CEO reads our protocols. There was a prohibition on statin use and a few other drugs that have common drug-drug interactions. That's just a timing thing. We had not completed the DDI suite of studies.
+## Chris Schott | Managing Director, JPMorgan
+Okay, yes.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+There's no reason scientifically to expect anything in our label or commercially with that, s o that's a non-issue.
+## Chris Schott | Managing Director, JPMorgan
+Sounds good. Maybe pivoting over to the other maybe big access unlock this year with the obesity deal on Medicare. Just talk a little bit about how you're thinking about levels of penetration in that population and how that may look similar or different than what we see in the commercial market.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+I think it's actually better than the commercial market in two ways. One, the inclusion criteria are really science-based, and hats off to the CMS team. I think they're actually here today, Dr. Oz and Chris Klomp. And we work closely with them because we knew the government plays an outsized role not just in the population they treat but as a statement in terms of validation.
+So they took a v ery bottom-up science approach. They worked with both companies to review our studies and really look at the strength of evidence as well as both indicated and non-indicated evidence.
+I think the population is pretty well defined. BMI s 27-30, t hey're looking at people who have a prior history of really arterial cardiovascular disease, and so PAD, MI, or stroke history, but also pre-diabetes. I think that's a very large and important segment, also a very expensive condition once you move from pre-diabetes to outright diabetes and quite prevalent in elderly.
+So that was an important inclusion criteria. As you know, we have fantastic data in that setting, 93% reduction in conversion from pre-diabetes to diabetes. And they took that into account, and that's one of the criteria. BMI s 30, 35, i t's those things, plus some additional biomarkers for cardiovascular risk. A nd then BMI over 35, all comers.
+So that's on average much better than commercial access. And then the other side of it is out-of-pocket costs. And of course, here, people on fixed income, seniors were quite sensitive to making sure the out-of-pocket costs can be reasonable. That'll be $50 in the program, which is on average better than commercial as well.
+So I think the Part D access is both higher quality and lower cost for seniors. And that's, I think, bottom-up science-based. The government's convinced they'll save money by doing that, which is wise for our country. And I think, for the administration, it will be a good story about $50 GLP-1s, b ut hopefully, that spills over into commercial.
+Medicaid will be eligible for the same criteria and the same pricing. So we have maybe a dozen states or so with some expansion of obesity coverage. We hope to get to all 50 over the next two years with Medicaid.
+## Chris Schott | Managing Director, JPMorgan
+Excellent. You mentioned commercial. Now that we've got this kind of Medicare coverage in place, what can you do to further unlock the commercial piece of the business?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yes.
+## Chris Schott | Managing Director, JPMorgan
+Because you mentioned the coverage seems very uneven and that's [crosstalk].
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yeah, it is very uneven. And I think if we look today, we could say probably somewhere a little less than six out of 10 people who have commercial insurance, employer-provided insurance, have access to obesity drugs, b ut there's broad differences in the quality and the costs of that access.
+Many people might have broad eligibility but very high deductible plans. So if your deductible is $5,000, effectively you could buy a whole year's worth on LillyDirect, and it's about the same.
+## Chris Schott | Managing Director, JPMorgan
+Yes.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+So that's not much coverage in that way. Others have good out-of-pocket costs but very strict and prohibitive criteria, high BMI thresholds or pre-existing conditions and comorbidities. So our goal is to move that down through time. I think these are, of course, individual employer decisions.
+The first thing we want to make sure is they have access to the actual data. I think here price transparency is an important effort we've been working on. LillyDirect itself provides some price transparency, but working with not just the traditional PBMs but also some of the new, more transparent PBMs so employers have choice and they know what the cost of this pretty large part of their drug budget, let's be honest, is. They should know the post-rebate cost itself.
+The second thing is then choices about how to design their benefit to suit the needs of their business. Some businesses, actually of the six out of 10, a lot of those are people with high-income earners, and the kind of marginal cost of the benefit is pretty low relative to their other comp and ben items. Those that don't cover are often populations with more transient workforce or lower- wage workforce, and they have to sharpen their pencils a bit more. So we're just trying to provide more options.
+We did go out to a number of third-party intermediaries that are non-traditional who can provide a carved-out benefit or sit on top of the PBM benefit. We provide them with offers, and they'll be marketing that this year, s o I expect more uptake in that sort of lower end of the commercial market with these non-traditional access offers in 2026.
+## Chris Schott | Managing Director, JPMorgan
+Do you think there will be at some point a bigger step function change, or is this going to be kind of a gradual process [crosstalk]?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Probably commercial is more gradual. The step function that we all should pay attention to is the Part D, which is going to go from zero to 50 million+ people in one day. Medicaid will be state by state, so that'll be linear in a way.
+And I think the mounting evidence, both by the government endorsing the programs, the products in the way they have, plus just more and more general evidence of cardiovascular benefit and other health benefits, I think, will mount.
+It's hard to think in 2030 we'll be having this conversation at JPMorgan, but maybe we will. But our job is to provide choice and options and help people where they can get access; a nd when they can't have access, to provide a direct solution that is cost effective as they can be.
+## Chris Schott | Managing Director, JPMorgan
+Maybe one last question on the U.S. side of the business, price dynamics. How should we be thinking about this the next few years?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+I think, for this year, the government deal was unique in that we we re pretty transparent about what the net price would be to the government.
+## Chris Schott | Managing Director, JPMorgan
+Yes, definitely.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+And we were very transparent about actually future price of orforglipron and then our DTC adjustment, our direct-to-consumer adjustment for Zepbound. So what we said in early November in the Oval Office is kind of what we're planning on and what sell-side analysts and others should model, I think. What's less known is the volume. I think that's the thing in the government channels. It's h ow much uptake will there be, how quickly. Of course, we're bullish on that, but we need to go communicate with physicians and patients and make people aware of the program and hopefully get good uptake.
+Commercial spillover is a question. To what degree do employers say, "Oh, I want that deal too?" And of course, our job will be to say, "Fine," but you have to provide that level of access. And not many are willing or can do that, b ut that's a typical commercial wrangling we get. We've guided to high single-digit deflation in that segment, which is pretty normal for broad-based categories like this.
+And then on the consumer side, it's a little more of a competitive thing. So who's willing to do what to draw in more consumers? And where is that elasticity function? We're kind of discovering that as we go. So far as we've reduced price, we did draw in a disproportionately larger volume pool. So orforglipron will test that because we've said we're going to go out at $149 in the base dose. And yeah, we'll see.
+## Chris Schott | Managing Director, JPMorgan
+Excellent. Maybe pivoting to ex U.S. And it seemed that was, at least in my model, one of the big sources of upside as we went through.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Q3, a big surprise [crosstalk] surprise.
+## Chris Schott | Managing Director, JPMorgan
+Yeah, yeah. Just reflect a little bit on that market opportunity. From here, how should we be thinking about the ramp, the cash pay piece of it? Just any observations you have from how they.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Last year, two things were happening at once. Of course, we did see good uptake in demand. You take like the U.K., which launched the year prior, and we saw, I mean, a surprising amount of self-pay demand in that market, for instance.
+And we certainly saw that post-introduction in the other markets as well, b ut you also then had the introductory step, which was some stocking and initial excitement in places like China, India, and Brazil. As we've kind of worked through that early bulge, we're getting a better read on what that trajectory is.
+It's encouraging. I mean it does seem maybe because these medicines aren't just a chronic medicine that makes you healthier in the long term. C ertainly they will do that. And the evidence is pretty clear, b ut I think there's two other factors here. One is there absolutely is a kind of a more acute benefit people feel and notice. And you can look at things like the Taltz study I just mentioned or the registry type.
+People feel joint pain relief. They are able to move better. They sleep better. So I mean there is this acute benefit which must reinforce repurchase and kind of demand. And then, of course, people look different and they like that.
+So I think we haven't really seen a chronic drug like this before. The question we have, a legitimate question, is like how deep is that pool. There may be, I don't know, 100,000 people in a place like Brazil willing to do it, but are there 500,000? Are there 5 million? I think we have to find that out because there are no analogies here.
+## Chris Schott | Managing Director, JPMorgan
+Is that something, as we go through 2026, 2027, orforglipron coming to market, will that help [crosstalk]?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+We'll build confidence there, I think.
+## Chris Schott | Managing Director, JPMorgan
+Yeah.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Orforglipron, we'll price a bit lower too so it could have more reach. Mounjaro's in all these markets, but it could be, yeah, instructive as we sort of seek that out. Is the analogy other medicines? Certainly, there's been much more limited uptake of self-pay medicines in these markets. Or is the analogy, I don't know, iPhones, right? So there's a lot of uptake. So where are we there? I think we have to find that out. I don't think last year taught us a ton about that, but we're certainly enthusiastic about the trend.
+## Chris Schott | Managing Director, JPMorgan
+Maybe last question on this topic. Do you think there needs to be reimbursement for these drugs in some of the major markets, or can this just be a cash pay market into perpetuity?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+I think when we're competing with other therapies that have reimbursement, we should have reimbursement, right? So take OSA or congestive heart failure or diabetes, right? It seems like we're clearly discriminating people with the comorbid obesity if we have a treatment that's effective in a setting and yet we're not reimbursing it because it also helps you lose weight.
+## Chris Schott | Managing Director, JPMorgan
+Yeah.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+That seems totally backwards.
+## Chris Schott | Managing Director, JPMorgan
+Yeah.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Now, for just weight loss as a preventative, in some ways, it's like highly correlated to two things: the prevention orientation of that health system, and we know some health systems spend a lot more resources differentially on prevention. Those don't actually correlate with other things. They just believe in prevention.
+And so I would expect you'll get government decisions to say, okay, yeah, maybe for high- BMI people, we'll start there. The U.K. has done this, for instance. They believe in prevention. They have broad vaccination programs and cancer surveillance and other things. So that's, I think, a reasonable expectation. The other is like the ROI here is probably pretty good if your health costs are high.
+## Chris Schott | Managing Director, JPMorgan
+Yeah.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+So the higher your downstream healthcare costs, the more these make sense. And one thing the MFN idea has done for us, and we've launched this globally with a fair amount of price discipline. The price band between, say, the price in Bangalore and the price in San Francisco is pretty tight, b ut what that does is say, okay, well, in wealthy countries with high healthcare costs, the ROI is much higher.
+## Chris Schott | Managing Director, JPMorgan
+Yeah.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+So I think health systems will make those decisions based on those two parameters.
+## Chris Schott | Managing Director, JPMorgan
+Maybe last question. It seems like every discussion we've had in this conference has been, "What's your obesity strategy?" Lots of players trying to find a space in the market. What role do you see for some of the later entrants in the space?
+And you've obviously highlighted a deep pipeline. You've been working at this for decades. How do you think about these newer competitors that will be coming over the next two, three, five years?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Welcome to the party. I mean, is it surprising? I don't think so. It's a little bit. I said a few years ago it seems like it'd be malpractice if you weren't having that discussion at your board, b ut the history of follow-on products in our industry isn't great.
+I think there's three viable generic strategies. One is make a better mousetrap, so have a demonstrable difference in the profile. And some may be able to do that. But of course, we're working nonstop to be the one that has the better profile. And I think we've already done that once with tirzepatide. We'll see that with retatrutide. We'll see about eloralintide. We'll see about brenipatide. I mean we have shots on goal coming. And there are new ideas entering the clinic, i nteresting new non-incretin targets. We're on all those.
+So I think that's a race, and that makes the industry better. It provides new solutions for patients, b ut we'll try to use our scale and our expertise to win all those races. That's been our strategy all along, is don't bet on one thing, bet on everything, and let the data speak and create better medicines.
+The second strategy one can entertain is more of a niche-y one. I think this could be successful, n ot unlike what you see like in I&I or some other cancer sometimes. If there's 200 chronic diseases that are downstream affected by obesity, surely Novo and Lilly will have left one or two behind, or you could leapfrog and get there. And I think some companies will choose to niche into one of those, try to get pricing power, kind of own a narrow but focused segment. That's viable.
+## Chris Schott | Managing Director, JPMorgan
+Sure, yes.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+And then finally, it would be price, volume. I think in most therapeutic categories that hasn't been very successful. Here, I think there's one big push and one big pull. I think the big challenge is manufacturing.
+So most of the follow-on products are parenteral, and no one's spent more on parenteral manufacturing sites than us. I think no one knows more about it than us. I think if you add up all the parenteral sites in the world, probably the two leading GLP-1 companies have like 80% of the capacity. So to jump over that will take something, but someone could try that. I think if you have an oral solid, that's different, but you have other risks coming with that.
+I think the thing that makes that strategy maybe a little more viable is the consumer thing we just discussed. So clearly, consumers are going to be more price elastic than other players, and that could have success. We'll see.
+## Chris Schott | Managing Director, JPMorgan
+Yes.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+We're prepared for all those. Our base strategy is innovation, so that's where we'll seek to compete. And competition makes us better. We'll watch it carefully and work hard.
+## Chris Schott | Managing Director, JPMorgan
+Right. Maybe just pivoting a little bit, TRAILBLAZER III with Kisunla. Is that something we should expect any major developments this year? And just what's your level of confidence in that program, just given there's huge unmet need that Lilly's been working on for a long time here?
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yeah. Well, the program's ongoing and the schedule readout is in 2027, so it's hard to comment on timing. It is an event-driven study, s o if events accrue, and we watch that carefully, then we'll stop the study and we'll look at the results.
+## Chris Schott | Managing Director, JPMorgan
+Yes.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+On the second question, our confidence has never been higher, I'd say. I think if you look at all the data that continues to come out of both in-market use, but also the pivotal studies, not just for our program but for the other one for Leqembi, I think you have to be encouraged about treating earlier.
+In fact, I think for the treatment phase we're in now, which is treating people with diagnosed disease, this is something that really could improve uptake and improve patient outcomes now, which is within the labeled population, catch people earlier.
+## Chris Schott | Managing Director, JPMorgan
+Yes.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+A big problem is the health system itself is not really designed for that, so we're working hard to change that. It's kind of system by system. In systems that do have a more effective screening, more effective use of diagnostics and other assessments early in disease, you see good uptake and usage.
+And it's very clear, no matter how you cut our data, whether it be by tau status, by amyloid burden, by age, by symptomatic measurements, p eople do better when we start earlier, s o by extrapolation, it's logical that, before MCI, mild cognitive impairment, you would be even better. That's the bet we're making.
+It seems like a reasoned bet, but we're confident in the drugs. And I think the real-world safety story is not concerning. I think what we found in our studies was a representation, but maybe it's even a little better in real life.
+So for prevention, you need a cleaner profile, and I suspect we'll see one. So that's an exciting program. And what could be more important? I mean you think about terrible diseases and think about cancer. We've been trying to get in front of cancer development forever, and it's been very difficult. To think you could do that in Alzheimer's, it'd be a major breakthrough. And how exciting would that be?
+## Chris Schott | Managing Director, JPMorgan
+Absolutely. On 2026 guidance, kind of talk about the approach you're going to take there. It seems like you've got a lot of different factors here. We got Medicare, we got international, we got the orforglipron launch. Just help us lay the ground a little bit about what should we expect from Lilly as we approach guidance.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Yeah. T here clearly are more swings. And on top of that, the absolute numbers are bigger, fortunately.
+## Chris Schott | Managing Director, JPMorgan
+Yes. [crosstalk] .
+## Dave Ricks | Chairman and CEO, Eli Lilly
+So as we approach the guide on February 4th, you can expect us to get probably a little more color about those swings. We could be thinking about guiding more broadly in a range than we had before. We're working through this now.
+The things I'd point listeners to is, as I mentioned, people ask a lot of questions about the pricing, but actually we probably have less pricing uncertainty than most years going into the year. You should expect some commercial erosion, direct-to-patient. We've sort of announced what we're going to do. Government, we know what we're going to do in the U.S. Ex U.S. pricing, we've launched everywhere. You can look at those prices. They tend not to modulate too much once we launch ex U.S.
+So what is unknown is the volume. And I think the two biggest pools of volume that could move the numbers are the Part D exit rate. So how many patients accrue in a Part D benefit to a Lilly medicine in obesity? And then ex U.S., how deep is that pool of self-pay? I think you could think about a pretty broad range on both of those, and that would determine the year. If we knew those today, we could predict perfectly revenue next year.
+In the middle of the income statement, it's pretty well known. I don't expect a lot of excitement on gross margin. We'll continue to scale R&D at about the rate of sales growth, s o that's going to be a big step up in R&D, b ut we have a full phase III pipeline right now and I think at least a dozen important proof- of- concept readouts this year to convert to phase III programs if the data is positive. Some BD in there. SG&A, growing slower than sales. A nd then good EPS growth. So I think that that'll be predictable. We'll give more color on that on the 4th than the actual numbers when we get there.
+## Chris Schott | Managing Director, JPMorgan
+Excellent. Well, I think we're about out of time. Congrats on all the progress.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Thanks, Chris. I appreciate it. [crosstalk].
+## Chris Schott | Managing Director, JPMorgan
+Exciting couple of years as well.
+## Dave Ricks | Chairman and CEO, Eli Lilly
+Thank you.
+Data Source: Quartr Last updated: Jan 13, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Slides Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

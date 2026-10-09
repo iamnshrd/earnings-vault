@@ -1,0 +1,249 @@
+TITLE: Piper Sandler Global Exchange and Fintech Conference
+DATE: 2026-06-04
+## Speaker 2 | 
+All right, everyone. Welcome back. It's my pleasure to introduce Steve Quirk. Steve is the Chief Brokerage Officer at Robinhood. Robinhood, as you all know, is a mobile-based retail brokerage platform, multi-asset class offering across cash equities, options, futures, index options, prediction markets, crypto, and banking now. Steve is a 35+ year veteran in the brokerage industry. He joined Robinhood in January 2022 from TD Ameritrade. Steve, it's great to have you back.
+## Steve Quirk | CBO, Robinhood
+Thanks for having me again.
+## Speaker 2 | 
+All right. Let's talk about the environment. The stock, when I wrote this question list, had been on a nice run-
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+over the last two weeks. Remains well below the highs we saw last year. Market seems to be signaling that something has changed in the retail landscape. From your seat, what does the retail environment actually look like today? How has customer behavior evolved in recent quarters? Then if you can share any comments about May, we saw things were pretty positive in April.
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+Anything you can say about May, I'm sure everyone in the audience would appreciate.
+## Steve Quirk | CBO, Robinhood
+Sure. Yeah. I would say the overall health of the retail. We're 27.5 million retail customers, so we often get asked, how are they navigating this market environment? If I go all the way back to when we've seen these dips around tariffs and things, they've been pretty aggressive dip buyers. Sometimes that causes concern, "Oh, what if it keeps going?" Their average age is 30. They have many, many years to invest, so they should be aggressive at this age, which is not something you hear people say a lot, but it's the truth. Generally speaking, I think in April we had our second-highest month in equity trading, option trading, highest month in futures, and in prediction markets. In May, it's been very strong. I'm not supposed to say how strong, but I can say strong.
+## Speaker 2 | 
+Is it uppercase strong?
+## Steve Quirk | CBO, Robinhood
+Uppercase.
+## Speaker 2 | 
+Okay
+## Steve Quirk | CBO, Robinhood
+inflict it the way I want to inflict it, because that doesn't show up on a transcript.
+## Speaker 2 | 
+There you go.
+## Steve Quirk | CBO, Robinhood
+Okay. I think Vlad pointed out, he was on CBC, I believe last week, no, or it was this week. On June 1st, we had our biggest day ever in equity trading. We had periods where there was GameStop activity and things like that. We also had our biggest day in the overnight session, which your last session, I believe, was around 24/7 trading. What tends to happen in the overnight session, which is really kind of interesting, is all the news of the weekend bunches up, Sunday nights are really big in overall equity trading. We had that on June 1st.
+## Speaker 2 | 
+Yeah. We had Blue Ocean CEO in here.
+## Steve Quirk | CBO, Robinhood
+Yep.
+## Speaker 2 | 
+Brian?
+## Steve Quirk | CBO, Robinhood
+Yep.
+## Speaker 2 | 
+He was saying Sunday night's big for them.
+I'm sure you're a big driver of that.
+## Steve Quirk | CBO, Robinhood
+Yep. It's been, I would say, overall, the health of the retail customer is good. I wouldn't say that they're aggressively buying, though, the way that they were during the periods where we had more sell-offs. It's been a little more balanced. We're seeing strong volumes.
+## Speaker 2 | 
+Sure. We had another panel here yesterday, it was an options panel. Matt Billings from.
+## Steve Quirk | CBO, Robinhood
+Yep
+## Speaker 2 | 
+from Robinhood joined.
+## Steve Quirk | CBO, Robinhood
+Kinahan, yeah.
+## Speaker 2 | 
+Yeah, Kinahan was there. We talked about the pattern day trader rule.
+## Steve Quirk | CBO, Robinhood
+Yep.
+## Speaker 2 | 
+That's something that was removed today.
+## Steve Quirk | CBO, Robinhood
+Mm-hmm.
+## Speaker 2 | 
+Seems like there's a lot of people that are pretty bulled up on it.
+## Steve Quirk | CBO, Robinhood
+Yeah.
+## Speaker 2 | 
+How do you think that rule change is going to affect activity on Robinhood's customers?
+## Steve Quirk | CBO, Robinhood
+Well, I think if you look at the average, well, the average account size of Robinhood is $13,000. Obviously our customers, our 27.5 million, were far more impacted by that rule than people at Schwab, where I came from, or TD Ameritrade, where the account size is much bigger. Obviously the impact is going to be pretty monumental with existing customers. I would also say we also saw a lot of customers leave Robinhood, because what happens is you get flagged, and their reaction is, "Well, I can go to another broker and start fresh." They did. We obviously know everybody that ACAT-ed out. We know why they ACAT-ed out, because we flagged them. They would tell us on the way out, "Listen, we love it.
+We love here, but we can't do the things that we need to do here. They all got a communication today across email and every other method that we have to contact them and our existing customers. I think it's going to be really beneficial for the industry as a whole, just to have that rule not in place anymore. Now you're not going to unfairly impact people who are newer to investing, smaller accounts, and let me tell you, it is not an easy rule to explain to customers. We would struggle with that in a pretty big way.
+## Speaker 2 | 
+Sure. We had a Webull CEO up here.
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+Yesterday, Anthony Denier. One of the things he said was that he sees people, they show up on Monday, they max out their trades.
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+He doesn't see them until the next Monday. It sounds like this is something that's going to make the customer base sticky, and there might be some migration of activity from other platforms back to Robinhood, because that's kind of your core demographic.
+## Steve Quirk | CBO, Robinhood
+If you liked your experience at Robinhood and you were a forced migration, you can migrate back.
+## Speaker 2 | 
+Sure.
+## Steve Quirk | CBO, Robinhood
+We'll make sure that that's a good experience for them. I think that'll be positive. I would also say there's another, you just brought up a behavior. You have customers that are not making the right decision or their trade or their portfolio because of this rule.
+That is the opposite of what we want to have happen.
+## Speaker 2 | 
+All right. One thing I want to talk about also, if I'm not mistaken, did Roth IRA went live today?
+## Steve Quirk | CBO, Robinhood
+It did, yes. Mm-hmm.
+## Speaker 2 | 
+Yeah. Maybe just talk about the ramp there.
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+How we should expect that rollout to happen, how much volume are you expecting to migrate from Kalshi to your own JV over the course of the next couple of months? Any color there?
+## Steve Quirk | CBO, Robinhood
+Yep. Maybe I'll give a little bit of a context in history. We started in the prediction markets and event contracts around the time of the election. We initially were doing this through ForecastEx, which is Interactive Brokers. That's who we used to do the election, and then we moved into other categories and now have both used ForecastEx and Kalshi. Along the way, we partnered with Susquehanna, the largest liquidity provider in most of these. We're probably the largest distribution channel with 27.5 million to create Roth IRA. The rationale behind it is, we really want to replicate the model that exists today for equities, options, crypto, where we have optionality to route to any venue that's creating products or experiences that are going to be good for our customers. We want to be able to have control over the economics.
+In the case of Roth IRA, we're going to take some of the economics that we previously were giving to Kalshi and deliver them to our customers. We want to make sure the experience is good. We want to create a product, we're not dependent upon anybody else to create that. We have that ability. As far as moving the flow, we've announced that we'll move the World Cup and some MLB games over there. We're going to work sort of methodically to move some of that flow. I would say that we would move a significant portion of that flow, but we will also keep other routing partners.
+## Speaker 2 | 
+Just stay on the topic of Roth IRA. You have a DCM, you have a DCO, you have a SEF as well in there.
+## Steve Quirk | CBO, Robinhood
+Mm-hmm. Yep.
+## Speaker 2 | 
+I got to ask about perpetual futures.
+## Steve Quirk | CBO, Robinhood
+Yep.
+## Speaker 2 | 
+You saw the CFTC approved the Bitcoin perpetual for Kalshi.
+How does Robinhood think about the ability to possibly launch perpetual futures through the Roth IRA JV? I know you have them overseas now through the Bitstamp acquisition.
+## Steve Quirk | CBO, Robinhood
+Bitstamp, yeah.
+## Speaker 2 | 
+Any thoughts on prediction markets and Robinhood customers.
+## Steve Quirk | CBO, Robinhood
+You mean perps?
+## Speaker 2 | 
+How interested they could be.
+## Steve Quirk | CBO, Robinhood
+In perps?
+## Speaker 2 | 
+Did I say I meant perps, yeah?
+## Steve Quirk | CBO, Robinhood
+Yeah.
+## Speaker 2 | 
+Sorry.
+## Steve Quirk | CBO, Robinhood
+Yeah. That's okay. We already have them in Europe. We have familiarity with them. Obviously, with the announcement of them coming here, I think there's an appetite for them. We'll kind of use the same model. Like we have the ability to launch them on our own. We'll have the ability to launch them on our own, provided we get the permission. Obviously be able to launch them through any of the other venues that we'll launch them as well. In terms of the impact, because we're asked that question, how do we think the pickup will be? There's a lot of interest in perps. Obviously starting in crypto, which is where we are. You can imagine a world where they might expand into other categories.
+## Speaker 2 | 
+I do want to ask a question. You don't have to answer if you don't want.
+## Steve Quirk | CBO, Robinhood
+Yeah.
+## Speaker 2 | 
+There's a thought that these perpetual futures could take a lot of attention, retail eyeballs away from other asset classes.
+## Steve Quirk | CBO, Robinhood
+Yeah.
+## Speaker 2 | 
+I think SPX 0DTE option volume.
+is one of them. Your customer base is very active in SPX 0DTE.
+## Steve Quirk | CBO, Robinhood
+Yep.
+## Speaker 2 | 
+Do you think perpetuals would be an attractive alternative to a customer when it comes to SPX options?
+## Steve Quirk | CBO, Robinhood
+I don't know. It's an interesting question. Every time that I've ever launched a new product, my CFO and finance team is always worried about cannibalization and behavior changes. Most of the time they've been additive. I think we have a pretty good mantra at Robinhood, which is, look, there's already categories which I can choose from today, SPY, an ES option. There's categories where I can already make choice. I think it's in our best interest just to give customers that choice and let them decide which one is going to be most appropriate for them. I don't see 0DTE options being replaced for some of the use cases that exist today. They are a pretty good hedge if I have 40% gains in a stock and I know earnings are coming out on a Thursday and I just want to get insurance for that day.
+That's a good hedge.
+## Speaker 2 | 
+Sure. Yeah.
+All right, another hot topic, AI. You made a big announcement last week, Agentic Trading, Agentic credit card-
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+giving customers the ability to connect to an AI agent. Can you walk us through the vision there, who the target user is, how you think about the risk management guardrails, and how does this change the long-term competitive positioning of Robinhood?
+## Steve Quirk | CBO, Robinhood
+Yeah, I think we're about a week in. Obviously the first users are going to be our most active and engaged, which is what we've seen. We're only in one asset class. We're in equities, and obviously the credit card as well. We'll move into all the other asset classes pretty quickly, equities, options, crypto, and ECs. I think the vision there is, you're going to have a segment of our user base and probably of the population that's going to be very comfortable using this. We'll get to a point where that'll probably get saturated, and then we'll use those learnings to be able to deliver something that's more useful for a larger portion of our customer base.
+In other words, the people that are probably not as native to those technologies, we'll build it in such a way that they can utilize it for whatever they want. There are going to be a large percentage of people who are not comfortable. Even though we've created it in such a manner, it's a separate account, separate funding. You can dictate how much is going to be allocated in each trade. There's all kinds of controls, both on the credit card side and on the trading side. There'll be probably a larger portion of the customer base that's going to use it to find opportunities, optimize portfolios, do screening and scanning, or scripting, that they probably wouldn't have been able to if they didn't have this capability.
+## Speaker 2 | 
+Have you done any, I know it's still early.
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+but do you have any sense for-
+## Steve Quirk | CBO, Robinhood
+How big it's going to be?
+## Speaker 2 | 
+Well, no, just maybe on a per customer basis. Like a customer that's an active trader on your platform today.
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+Deploying an AI agent, what's the magnitude of more trading that's done, or less trading, maybe, if you're there using an AI agent?
+## Steve Quirk | CBO, Robinhood
+We're a week in.
+## Speaker 2 | 
+Yeah
+## Steve Quirk | CBO, Robinhood
+I think we're too early to say that. I just think it's going to get you to the trade quicker. I think that's what's going to be helpful.
+## Speaker 2 | 
+Got it.
+## Steve Quirk | CBO, Robinhood
+Yeah.
+## Speaker 2 | 
+Okay. All right. I want to talk about asset accumulation in the wealth business. One of my favorite stats when it comes to Robinhood, you have 10% of adult Americans have a Robinhood account. You have less than 1% of total retail assets in the U.S. In the past, I think you've said that the wealth opportunity's about 3x what the self-
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+directed opportunity is in terms of the TAM. How is the asset accumulation story progressing at Robinhood, and what does the TradePMR RIA referral story look like in practice so far?
+## Steve Quirk | CBO, Robinhood
+Every time I hear that stat, it excites me because I would want to be in a position where you have all the customers, and they're starting to accumulate wealth, which is what we're in. This, again, this number keeps changing and growing, which is a good thing. $124 trillion wealth transfer that's already underway. We have a customer base that's in their mid-30s, and they're starting to accumulate more wealth. I've been with brokers where they're building a lot of wealth decumulation tools. That's no fun. That's not really cool, and a good place to be. I just came from our Synergy conference in D.C., where we had about 500 advisors, and we rolled out a couple of things.
+TradePMR is a company we acquired about one year ago, and we got together with 17 of the largest RIA firms in the country after acquisition and just said, "Hey, listen. If you had a blank canvas, you all likely have your assets custodied at either Schwab or Fidelity." Those are the big ones, the big 70% of the industry, I think. "What would you change?
+Give us everything you like about it, give us everything you don't like about it, and we have a blank canvas. The culmination of all that was what we rolled out this week, which is a referral program that is going to match the recipients of all that wealth, the 27.5 million customers we have, with the advisors that today do not have a relationship with the younger generation who's going to be receiving that, and who's also starting to accumulate that wealth. We hear it loud and clear from our customers when we say, "Hey, listen, you have 25% of your wallet with us." Why don't you have the other 75% here? They say, "Well, you don't have a solution for me. I'm not comfortable managing this amount of wealth.
+I'm comfortable managing a small percentage of it on my own. This is what we put together, and we did it in such a way that it's more appealing to the generation that is getting this wealth. I think the typical experience if you walk in a branch of broker, I'm not going to name, ABC, is you talk to probably five people before you get to an advisor. The experience we created is, I express an interest to have a referral to an advisor. I see a video of three advisors. If I like any one of them, I choose it. There's a meeting arranged. They meet by video conference. If I want to continue and pursue a relationship, I do so, and that account is open like that. That's something they're not accustomed to in that space.
+When that account is open, I pull out my phone, and it's sitting there right next to my Robinhood account, and I can see the aggregate of all my investable assets, or the holdings of that individual one. We are now rolling that out to both the advisors and the customers. We're being a little careful about it because you don't have to have a big percentage of 27 million to run over those advisors. The early rollout has been pretty good. The other thing that we announced there was the tools that are available for these advisors are pretty disparate and not well-organized. We're including a lot of the capabilities we built from Cortex and other AI capabilities into the application they use, the advisors use, called Fusion, which I think is going to be extremely helpful. Everything we build will cascade into that as well.
+## Speaker 2 | 
+All right. Also within the wealth vertical, you were selected as the broker and the initial trustee for the Trump Accounts.
+## Steve Quirk | CBO, Robinhood
+Yes
+## Speaker 2 | 
+Which you're going to be launching on July 4th.
+## Steve Quirk | CBO, Robinhood
+Mm-hmm.
+## Speaker 2 | 
+That role might not generate significant fees right away, but it puts you at the base of, I think, large potential future investors at the very start of their journey. What are your expectations for near-term customer acquisition, and how do you think about the longer-term asset accumulation from that opportunity?
+## Steve Quirk | CBO, Robinhood
+So far we were chosen as the trustee and brokerage custodian. BNY is the fiscal agent, and of course, we did it with NDS, National Design Studio and Treasury. So far, I think there's 6 million sign-ups, and there's the Michael Dell donation, which means on top of many other people that are looking at donating, or organizations, states, companies, et cetera. There's going to be a big TAM, really big TAM there. I think the opportunity for us is, number one, it's pretty flattering to be part of the program because I think it's an amazing program and creating financial literacy amongst people that might not otherwise participate in capital markets is going to be transformative. I also think the halo of everybody else in that ecosystem, we're really good at contribution flows with custodial accounts.
+We know how to send QR codes so that grandma or grandpa or mom or dad or company or state can make contributions on behalf of individuals. It's one of the reasons we were chosen, because we also have a really good track record of taking care of customers. Half of our 27 million customers are brand new to the market. A lot of the people that are going to open these accounts, this will probably be their first experience with capital markets and brokerage firms, and we know how to do this. We know how to educate them, and we know how to make the experience really frictionless. It's a big opportunity.
+## Speaker 2 | 
+Yeah. The contribution thing is interesting with the wealth transfer from the older generation. You've got a portal thereâ
+## Steve Quirk | CBO, Robinhood
+Yeah
+## Speaker 2 | 
+meet some of that.
+## Steve Quirk | CBO, Robinhood
+There's also a whole collection of companies that are all involved in this too.
+## Speaker 2 | 
+Yeah.
+## Steve Quirk | CBO, Robinhood
+Think of companies like Babylist, which if somebody's having a baby and you want to go to get a gift, we're there. You just click on it and boom, you make a contribution.
+## Speaker 2 | 
+Yeah. Interesting. All right. Maybe we're running a little low on time here. I want to talk about banking. You launched that in the fall. Credit card wait list, I think it's over 3 million now.
+What has customer adoption looked like so far, and what percentage of Robinhood customers, I guess, new customers are adopting it, and where do you kind of expect existing customer adoption to go from here?
+## Steve Quirk | CBO, Robinhood
+Well, I think it's pretty strong because it just adds to the whole ecosystem. Vlad's vision has always been everything you do from a finance standpoint should be done within the Robinhood ecosystem. That part was kind of missing. We had Cash Sweep Program, we had credit card, but now we have banking. I think at last, we had $2.5 billion in there, 800,000 people that have gotten the card. People love the card. It's an amazing experience when you have it. I think there's just so much more room to run there. I want to say, I think 40% of the people that are opening these, that are starting a banking relationship with us, do direct deposit. If you ever want to ask us how we're doing as a company and how we're doing with engaging with customers, just look at how we're doing with deposits.
+That's probably the strongest indicator of how strong the relationship is with our customers.
+## Speaker 2 | 
+Sure. All right. Robinhood has always been one of those platforms that's kind of seen where the puck is moving.
+## Steve Quirk | CBO, Robinhood
+Yeah.
+## Speaker 2 | 
+Whether it's crypto, prediction markets. I think last year when we sat down at this conference, I don't even know if I asked you about prediction markets, but here we are now and it's a $400 million run rate business for you, $300 million-$400 million.
+## Steve Quirk | CBO, Robinhood
+We're five.
+## Speaker 2 | 
+What is it?
+## Steve Quirk | CBO, Robinhood
+Never mind. I didn't say that.
+## Speaker 2 | 
+I think I got it. I got the transcript. If we look ahead in 12 months, what do you think the biggest trend in the brokerage industry is going to be? What are we going to be sitting up here talking about in 2027?
+## Steve Quirk | CBO, Robinhood
+I actually think there's going to be an interesting collision of a lot of businesses. It already is happening. Of the technologies that are underpinning crypto, of ECs, there's sort of a meld coming together of a lot of these things. Everything will be around the clock, and on weekends. It better be. It should be. I think that's going to make for an even better experience for customers in the U.S., but I think if I go a couple of years out, I think it's going to make for a really great experience for customers around the globe. I think the unnatural walls that prevent people from being able to invest in whatever market they want will eventually start to melt away at a quicker pace.
+## Speaker 2 | 
+Great. All right, Steve, we're out of time. Thanks so much.
+## Steve Quirk | CBO, Robinhood
+Thank you.
+## Speaker 2 | 
+Yep.
+## Steve Quirk | CBO, Robinhood
+Appreciate it.
+Data Source: Quartr Last updated: Jun 4, 2026 Earnings call transcripts are provided by Quartr and are published within hours after each earnings call.
+Report a data error Play Audio Download Transcript Speakers (2) Install The App 4.9 7.0K 4.9 7.6K Sections Stocks IPOs ETFs Private Companies Services Stock Analysis Pro Free Newsletter Get Support Install The App Website Login Create Account Changelog Data Sources Advertise Help Center Company About Contact Us Terms of Use Privacy Policy Affiliate Program Market Newsletter Daily market news in bullet point format.
+Light Dark Â© 2026 StockAnalysis.com. All rights reserved.

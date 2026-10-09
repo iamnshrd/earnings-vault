@@ -1,0 +1,7 @@
+Company: McDonald's
+ROIC Symbol: MCD
+ROIC Name: McDonald's Corporation
+Year: 2006
+Quarter: 4
+Date: 2007-01-24 11:30:00
+Executives
